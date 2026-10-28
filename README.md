@@ -1,6 +1,6 @@
-# Anaesthesia knowledge
+# anaesfacts
 
-One shared, owner-verified source of anaesthesia knowledge for the owner's apps and teaching sites. Each fact lives
+Anaesthesia facts: one shared, owner-verified source of anaesthesia knowledge for the owner's apps and teaching sites. Each fact lives
 here once; apps read it instead of keeping their own copies, so a correction reaches every app.
 
 ## What is in it
@@ -27,7 +27,7 @@ tags: [inotrope]
 ## Using it from an app
 
 Read the files at build time, or fetch them at run time from
-`https://cdn.jsdelivr.net/gh/flamingbeing/anaesthesia-knowledge@main/index.json` (and the same path prefix for a
+`https://cdn.jsdelivr.net/gh/flamingbeing/anaesfacts@main/index.json` (and the same path prefix for a
 topic file). Filter on `status: verified`. Pin a commit instead of `@main` if the app needs a fixed version.
 
 ## Adding to it

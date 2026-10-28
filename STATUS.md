@@ -11,7 +11,7 @@
 2. Point the first app at `index.json` (the one that repeats the most of this content).
 
 ## Recently done
-- 29 Oct 2026: repo created from the public template; app-hosting parts removed.
+- 29 Oct 2026: repo created from the public template (as `anaesthesia-knowledge`, renamed `anaesfacts` the same day); app-hosting parts removed.
 
 ## Decisions (dated, one line each)
 - 29 Oct 2026 (owner): public, under the owner's own account, not shared with the department org.
