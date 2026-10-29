@@ -24,10 +24,19 @@ unless the owner asked for that content to be published (neutral pointers like "
 - One topic per file, `topics/<area>/<kebab-case>.md`. Rebuild `index.json`, `CONTENTS.md` and the Related footers (`node tools/build-index.mjs`; never edit those by hand) after
   any change; the check fails if it is stale.
 
+## Fact ids and questions
+
+- A fact is one bullet line under a `##` section (not Flashcards or Related). Id = `<area>/<slug>#<6 hex of the
+  normalised line>`; `facts.json` is generated (never by hand). Editing a line changes its id.
+- `questions/<area>/<slug>.json` = `{"topic": "<area>/<slug>", "questions": [{fact_id, kind: mcq|statement|blank, stem,
+  options (mcq only), answer (mcq: option index; else text), model, date}]}`. `check.mjs` requires: fact_id exists in that
+  topic, one answer, every number in the answer appears in the fact exactly. Questions only restate public facts.
+
 ## Checks before merging
 
 ```
-node tools/check.mjs        # front matter, areas, index.json/CONTENTS.md/Related up to date
+node tools/check.mjs        # front matter, areas, index.json/facts.json/CONTENTS.md/Related up to date, questions/
+node --test tests/*.test.mjs
 ```
 
 ## Working with the owner

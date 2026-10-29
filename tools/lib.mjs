@@ -1,6 +1,7 @@
 // Shared helpers: find topic files and read their front matter (a small YAML subset: `key: value` and `[a, b]` lists).
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 
 export const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 export const AREAS = ['drugs', 'regional', 'airway', 'comorbidities', 'procedures', 'physiology', 'equipment', 'crises', 'other'];
@@ -84,4 +85,83 @@ export function contentsText(index = buildIndex()) {
     out.push('');
   }
   return out.join('\n');
+}
+
+// Facts: every bullet line (any depth) under a `## ` section of a topic, except Flashcards and the generated Related
+// footer. Fact id = `<area>/<slug>#<6 hex of sha1 of the normalised line>`; edit a line and its id changes, so its old
+// questions drop out. Identical lines in one topic share an id and are listed once.
+export const NON_FACT_SECTIONS = ['Flashcards', 'Related'];
+export const normaliseLine = t => t.replace(/[*_`]/g, '').replace(/\s+/g, ' ').trim().toLowerCase();
+export const factHash = t => crypto.createHash('sha1').update(normaliseLine(t)).digest('hex').slice(0, 6);
+export const topicKey = p => p.replace(/^topics\//, '').replace(/\.md$/, '');
+
+export function factsOf(text, p) {
+  const body = text.replace(/^---\n[\s\S]*?\n---\n/, '').replace(new RegExp(`${REL_START}[\\s\\S]*?${REL_END}`), '');
+  const key = topicKey(p), seen = new Set(), out = [];
+  let section = null;
+  for (const line of body.split('\n')) {
+    const h = /^##\s+(.*?)\s*$/.exec(line);
+    if (h) { section = h[1]; continue; }
+    const b = /^\s*[-*]\s+(.*\S)\s*$/.exec(line);
+    if (!b || !section || NON_FACT_SECTIONS.includes(section)) continue;
+    const id = `${key}#${factHash(b[1])}`;
+    if (seen.has(id)) continue;
+    seen.add(id);
+    out.push({ id, topic: key, section, text: b[1] });
+  }
+  return out;
+}
+
+export function buildFacts() {
+  return topicFiles().flatMap(p => factsOf(fs.readFileSync(path.join(ROOT, p), 'utf8'), p));
+}
+// facts.json leaves out `topic` (it is the part of the id before #) to keep the file small for phones.
+export const factsText = () => JSON.stringify(buildFacts().map(({ id, section, text }) => ({ id, section, text }))) + '\n';
+
+// Questions: questions/<area>/<slug>.json = { "topic": "<area>/<slug>", "questions": [...] }.
+export const KINDS = ['mcq', 'statement', 'blank'];
+export function questionFiles() {
+  const dir = path.join(ROOT, 'questions');
+  if (!fs.existsSync(dir)) return [];
+  const out = [];
+  for (const area of fs.readdirSync(dir).sort()) {
+    const sub = path.join(dir, area);
+    if (!fs.statSync(sub).isDirectory()) continue;
+    for (const f of fs.readdirSync(sub).sort()) if (f.endsWith('.json')) out.push(`questions/${area}/${f}`);
+  }
+  return out;
+}
+export const numbersIn = t => (t.match(/\d+(?:[.,]\d+)*/g) || []).map(n => n.replace(/,(?=\d{3}\b)/g, ''));
+
+// Returns a list of problems with one question against the fact index (Map id -> fact).
+export function questionProblems(q, facts, topic) {
+  const bad = [];
+  if (!q || typeof q !== 'object') return ['not an object'];
+  const fact = facts.get(q.fact_id);
+  if (!fact) bad.push(`fact_id "${q.fact_id}" does not exist`);
+  else if (fact.topic !== topic) bad.push(`fact_id "${q.fact_id}" belongs to another topic`);
+  if (!KINDS.includes(q.kind)) bad.push(`kind must be one of ${KINDS.join(', ')}`);
+  if (typeof q.stem !== 'string' || !q.stem.trim()) bad.push('stem missing');
+  if (!q.model || typeof q.model !== 'string') bad.push('model missing');
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(q.date || '')) bad.push('date must be YYYY-MM-DD');
+  let answerText = null;
+  if (q.kind === 'mcq') {
+    const o = q.options;
+    if (!Array.isArray(o) || o.length < 3 || o.length > 5 || o.some(x => typeof x !== 'string' || !x.trim())) bad.push('mcq needs 3-5 non-empty string options');
+    else {
+      if (new Set(o.map(x => x.trim().toLowerCase())).size !== o.length) bad.push('mcq options must differ');
+      if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer >= o.length) bad.push('mcq answer must be the index of exactly one option');
+      else answerText = o[q.answer];
+    }
+  } else if (q.kind === 'statement' || q.kind === 'blank') {
+    if (q.options !== undefined) bad.push(`${q.kind} must not have options`);
+    if (typeof q.answer !== 'string' || !q.answer.trim()) bad.push(`${q.kind} answer must be a non-empty string`);
+    else answerText = q.answer;
+    if (q.kind === 'blank' && !/_{3,}/.test(q.stem || '')) bad.push('blank stem needs a ____ gap');
+  }
+  if (fact && answerText !== null) {
+    const have = numbersIn(fact.text);
+    for (const n of numbersIn(answerText)) if (!have.includes(n)) bad.push(`number "${n}" in the answer is not in the fact`);
+  }
+  return bad;
 }

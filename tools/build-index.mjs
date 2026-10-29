@@ -1,7 +1,7 @@
-// Rewrites index.json, CONTENTS.md and each topic's generated Related footer from the topic files' front matter.
+// Rewrites index.json, facts.json, CONTENTS.md and each topic's generated Related footer from the topic files' front matter.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, indexText, buildIndex, relatedMap, withRelated, contentsText } from './lib.mjs';
+import { ROOT, indexText, buildIndex, relatedMap, withRelated, contentsText, factsText } from './lib.mjs';
 
 const index = buildIndex(), rel = relatedMap(index);
 for (const t of index) {
@@ -10,4 +10,5 @@ for (const t of index) {
 }
 fs.writeFileSync(path.join(ROOT, 'index.json'), indexText());
 fs.writeFileSync(path.join(ROOT, 'CONTENTS.md'), contentsText(index));
+fs.writeFileSync(path.join(ROOT, 'facts.json'), factsText());
 console.log(`index.json, CONTENTS.md: ${index.length} entries`);
