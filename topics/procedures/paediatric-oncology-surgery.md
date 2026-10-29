@@ -183,7 +183,7 @@ Children with cancer need repeated anaesthetics for diagnosis, access and treatm
   - Wound infiltration with 0.25% or 0.5% bupivacaine by weight and maximum dose
   - Opioid often needed (morphine 100-150 mcg/kg or fentanyl 2-4 mcg/kg), especially for a portacath where dissection reaches the rib cage
   - NSAIDs usually relatively contraindicated by the underlying condition
-- Postoperative: care set by the underlying condition; paracetamol 15 mg/kg oral 4-hourly and codeine 1 mg/kg oral 4-hourly
+- Postoperative: care set by the underlying condition; paracetamol 15 mg/kg oral 4-hourly and oral morphine 200-300 mcg/kg 4-hourly
 
 ## Bone marrow harvest
 - Stem cells for transplant to treat haematological cancers (leukaemia, Hodgkin lymphoma), solid tumours (Wilms, retinoblastoma, neuroblastoma) and Fanconi syndrome (marrow failure)
@@ -197,7 +197,7 @@ Children with cancer need repeated anaesthetics for diagnosis, access and treatm
   - Volatile in oxygen with air or nitrous oxide
   - Large harvest (up to 10% of marrow) can cause hypovolaemia and anaemia: replace fluid; delay any transfusion until harvest is complete to avoid contaminating the marrow
   - Many punctures: morphine 100-150 mcg/kg IV or fentanyl 2-4 mcg/kg IV; ondansetron 100 mcg/kg IV
-- Postoperative: IV fluids until drinking; paracetamol 15 mg/kg 6-hourly, codeine 1 mg/kg 4-hourly, NSAID if no contraindication
+- Postoperative: IV fluids until drinking; paracetamol 15 mg/kg 6-hourly, oral morphine 200-300 mcg/kg 4-hourly, NSAID if no contraindication
 
 ## Leukaemia
 - ALL: 80% of leukaemias and 25% of all childhood cancer; peak at 2-3 years; 30% more common in boys

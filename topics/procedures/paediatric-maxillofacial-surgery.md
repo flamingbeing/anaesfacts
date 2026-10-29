@@ -68,7 +68,7 @@ Children's facial trauma and reconstructive surgery: main problems are the diffi
 - Analgesia by extent of surgery; usually enough:
   - Paracetamol 15 mg/kg oral 4-hourly
   - Ibuprofen 10 mg/kg oral 6-hourly
-  - Codeine phosphate 1 mg/kg oral 4-hourly
+  - Oral morphine 200-300 mcg/kg 4-hourly
 - Sometimes IV morphine infusion or PCA (other injuries, or unable to take oral drugs)
 
 ## Elective facial reconstructive surgery

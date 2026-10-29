@@ -69,7 +69,7 @@ Accessory atrioventricular pathway (Bundle of Kent) causing re-entrant tachycard
   - Vagal manoeuvres
   - Verapamil 5 mg IV every 3 min, up to 15 mg
   - Adenosine 6-12 mg IV rapid bolus with flush
-- 2nd line: procainamide, beta blockers, digoxin, amiodarone (prolongs refractoriness of all cardiac tissue)
+- 2nd line: procainamide, beta blockers, amiodarone (prolongs refractoriness of all cardiac tissue)
 
 ## Treatment of antidromic AVRT
 - Unstable: cardiovert

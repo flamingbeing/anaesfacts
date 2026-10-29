@@ -29,7 +29,7 @@ Often day-case GA with LMA; obstructed hernias carry aspiration and ischaemic bo
 - Pneumoperitoneum: mind ventilation
 - Duration: 45 min to 2 hr (unilateral or bilateral)
 - Blood loss minimal
-- Pain moderate: morphine 0.5 mg/kg, paracetamol, parecoxib
+- Pain moderate: morphine 0.05 mg/kg, paracetamol, parecoxib
 - PONV: consider dual antiemetics (laparoscopy)
 - Postoperative: 23-hour stay
 
@@ -44,7 +44,7 @@ Often day-case GA with LMA; obstructed hernias carry aspiration and ischaemic bo
 - Reduce hernia, place mesh: keep paralysed until the mesh is in
 - Duration: 45 min to 1.5 hr (depends on difficulty, e.g. hernia size)
 - Blood loss minimal
-- Pain moderate, size-dependent: morphine 0.5-1 mg/kg, paracetamol, parecoxib
+- Pain moderate, size-dependent: morphine 0.05-0.1 mg/kg, paracetamol, parecoxib
 - PONV: consider dual antiemetics (bowel handling)
 - Postoperative: day surgery
 

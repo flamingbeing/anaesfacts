@@ -165,7 +165,7 @@ Microlaryngoscopy, bronchoscopy and choanal atresia repair in children: shared o
 ### Postoperative care
 - Most extubated and return to the neonatal ICU
 - Maintenance fluids until feeding established; orogastric tube if slow to feed orally
-- Analgesia: paracetamol 15 mg/kg plus weak opioid (e.g. codeine phosphate 0.5 mg/kg oral 4-hourly), oral or via orogastric tube
+- Analgesia: paracetamol 15 mg/kg plus oral opioid (e.g. morphine 200-300 mcg/kg 4-hourly), oral or via orogastric tube
 - Stents need suction every few hours (especially before feeds, when the baby breathes through them); parents are taught to do this at home
 
 ## Flashcards

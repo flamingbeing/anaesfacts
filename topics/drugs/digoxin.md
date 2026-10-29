@@ -140,6 +140,7 @@ Cardiac glycoside from the woolly foxglove (Digitalis lanata): slows AV conducti
   - Against: inotropy increases myocardial oxygen consumption, may worsen LV damage and arrhythmia
   - For: improved haemodynamics may help endocardial supply
 - HOCM (outflow obstruction)
+- WPW or other accessory pathway, especially pre-excited AF (speeds accessory-pathway conduction; risk of VF)
 - Myocarditis
 - Raised toxicity risk
   - Drugs raising levels: amiodarone (P-glycoprotein inhibition), quinidine, verapamil (not other calcium channel blockers), captopril, erythromycin, carbenoxolone

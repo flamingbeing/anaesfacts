@@ -103,7 +103,7 @@ Microsurgery on the ear needing a bloodless field, a still patient, an intact gr
 ## Postoperative care
 - PONV can disrupt grafts and prostheses: multimodal control
 - Pain usually mild
-- Children: oral paracetamol 15 mg/kg 4-hourly, ibuprofen 10 mg/kg 6-hourly, and an oral opioid (codeine phosphate 1 mg/kg 4-hourly or morphine sulphate 200-300 mcg/kg 4-hourly), plus an antiemetic
+- Children: oral paracetamol 15 mg/kg 4-hourly, ibuprofen 10 mg/kg 6-hourly, and an oral opioid (morphine sulphate 200-300 mcg/kg 4-hourly), plus an antiemetic
 
 ## Cochlear implant
 - Usually done before two and a half years of age to help speech development

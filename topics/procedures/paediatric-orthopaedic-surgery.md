@@ -97,7 +97,7 @@ Mostly healthy children, but some have syndromes or neuromuscular disease; expec
   - Vomiting may mean the spica compresses the abdomen: may need an abdominal window
 - Open reduction:
   - IV fluids until drinking
-  - Epidural infusion, IV morphine infusion, or oral opioid (morphine 200-300 mcg/kg 4-hourly or codeine phosphate 1 mg/kg 4-hourly), regular or as needed
+  - Epidural infusion, IV morphine infusion, or oral morphine 200-300 mcg/kg 4-hourly, regular or as needed
   - Plus paracetamol and NSAID
 
 ## Congenital talipes equinovarus (clubfoot)
@@ -205,7 +205,7 @@ Mostly healthy children, but some have syndromes or neuromuscular disease; expec
 - Maintenance fluids for 24-48 hours
 - FBC and U&E after significant blood loss or transfusion
 - Epidural analgesia of choice for most, for 48-72 hours, with paracetamol and regular NSAID if no contraindication
-- After epidural: oral codeine phosphate 1 mg/kg 4-hourly or morphine 200-300 mcg/kg 4-hourly
+- After epidural: oral morphine 200-300 mcg/kg 4-hourly
 
 ## Epiphysiodesis
 - Fusion of the growth plate to correct limb length inequality; ablated with drills and curettes under image intensifier
@@ -275,7 +275,7 @@ Mostly healthy children, but some have syndromes or neuromuscular disease; expec
 
 ### Postoperative care
 - Maintenance fluids until drinking
-- Paracetamol, NSAID and oral opioid (e.g. codeine phosphate 1 mg/kg 4-hourly)
+- Paracetamol, NSAID and oral opioid (e.g. oral morphine 200-300 mcg/kg 4-hourly)
 - Another GA likely about a week later for suture removal and dressing change
 
 ## Flashcards

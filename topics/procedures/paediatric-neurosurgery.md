@@ -173,7 +173,7 @@ Anaesthesia for children having shunts, ventriculostomy, baclofen pumps, craniot
 ## Craniotomy: postoperative care
 - Most extubated at the end; early neurological assessment, then regular checks in HDU
 - Maintenance fluids
-- Analgesia: wound infiltration, paracetamol 15 mg/kg oral 4-hourly, codeine 1 mg/kg oral 4-hourly
+- Analgesia: wound infiltration, paracetamol 15 mg/kg oral 4-hourly, oral morphine 200-300 mcg/kg 4-hourly
 - NSAIDs may be held early (platelet effect)
 - Major cases: IV morphine infusion, NCA or PCA
 
