@@ -155,5 +155,8 @@ Old, now seldom used antidepressants that block amine breakdown; the anaesthetic
 
 <!-- related:start (generated) -->
 ## Related
+- [Pethidine](pethidine.md)
+- [Tramadol](tramadol.md)
 - [Ephedrine](ephedrine.md)
+- [Phenylephrine](phenylephrine.md)
 <!-- related:end -->

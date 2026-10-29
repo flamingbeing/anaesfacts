@@ -63,5 +63,6 @@ Prostacyclin (PGI2): a natural prostaglandin made by pulmonary endothelium; pulm
 <!-- related:start (generated) -->
 ## Related
 - [Nitric oxide](nitric-oxide.md)
+- [Sildenafil](sildenafil.md)
 - [Endothelin receptor antagonists](endothelin-receptor-antagonists.md)
 <!-- related:end -->

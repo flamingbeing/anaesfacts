@@ -87,3 +87,8 @@ Main uses: torsades, AF, asthma, pre-eclampsia, pain and blood pressure control;
   - A: Calcium gluconate
 - Q: What is the asthma dose of magnesium?
   - A: 2 g over 20 minutes
+
+<!-- related:start (generated) -->
+## Related
+- [Analgesic adjuncts](analgesic-adjuncts.md)
+<!-- related:end -->

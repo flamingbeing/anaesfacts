@@ -61,5 +61,7 @@ Propionic acid NSAID with fewer side effects than most of its class; low doses c
 <!-- related:start (generated) -->
 ## Related
 - [Diclofenac](diclofenac.md)
+- [Paracetamol](paracetamol.md)
 - [Parecoxib and valdecoxib](parecoxib.md)
+- [NSAIDs in children](paediatric-nsaids.md)
 <!-- related:end -->

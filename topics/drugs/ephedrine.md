@@ -84,6 +84,7 @@ Mixed direct and indirect sympathomimetic (alpha and beta): raises blood pressur
 
 <!-- related:start (generated) -->
 ## Related
+- [Phenylephrine](phenylephrine.md)
 - [Metaraminol](metaraminol.md)
 - [Monoamine oxidase inhibitors](monoamine-oxidase-inhibitors.md)
 - [Adrenaline (Epinephrine)](adrenaline.md)

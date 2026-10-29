@@ -122,4 +122,5 @@ Overview of antiarrhythmic drugs: Vaughan-Williams classes, grouping by clinical
 <!-- related:start (generated) -->
 ## Related
 - [Flecainide](flecainide.md)
+- [Procainamide](procainamide.md)
 <!-- related:end -->

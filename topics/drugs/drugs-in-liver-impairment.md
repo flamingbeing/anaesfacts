@@ -121,4 +121,5 @@ How cirrhosis and liver failure change drug handling, and which anaesthetic, ana
 <!-- related:start (generated) -->
 ## Related
 - [Drugs in renal impairment](drugs-in-renal-impairment.md)
+- [Paracetamol](paracetamol.md)
 <!-- related:end -->

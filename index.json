@@ -1,5 +1,54 @@
 [
  {
+  "path": "topics/comorbidities/hypokalaemia.md",
+  "title": "Hypokalaemia and potassium replacement",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "electrolytes",
+   "potassium",
+   "arrhythmia"
+  ],
+  "aliases": [
+   "hypokalemia",
+   "low potassium",
+   "low K",
+   "KCl replacement",
+   "potassium replacement"
+  ],
+  "related": [
+   "comorbidities/hyperkalaemia",
+   "comorbidities/hypomagnesaemia",
+   "drugs/potassium-chloride",
+   "drugs/digoxin",
+   "comorbidities/conns-syndrome"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/hypophosphataemia.md",
+  "title": "Hypophosphataemia",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "electrolytes",
+   "phosphate",
+   "metabolic"
+  ],
+  "aliases": [
+   "hypophosphatemia",
+   "low phosphate",
+   "phosphate replacement"
+  ],
+  "related": [
+   "physiology/phosphate",
+   "comorbidities/refeeding-syndrome",
+   "comorbidities/hypomagnesaemia",
+   "comorbidities/hyperparathyroidism"
+  ]
+ },
+ {
   "path": "topics/crises/carbon-monoxide-poisoning.md",
   "title": "Carbon monoxide poisoning",
   "area": "crises",
@@ -100,6 +149,28 @@
   "related": []
  },
  {
+  "path": "topics/drugs/alfentanil.md",
+  "title": "Alfentanil",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "phenylpiperidine",
+   "short-acting"
+  ],
+  "aliases": [
+   "Rapifen"
+  ],
+  "related": [
+   "drugs/fentanyl",
+   "drugs/remifentanil",
+   "drugs/sufentanil",
+   "drugs/midazolam",
+   "drugs/naloxone"
+  ]
+ },
+ {
   "path": "topics/drugs/amethocaine.md",
   "title": "Amethocaine (tetracaine)",
   "area": "drugs",
@@ -126,6 +197,31 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/analgesic-adjuncts.md",
+  "title": "Analgesic adjuncts",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "analgesia",
+   "adjuncts",
+   "pain-medicine",
+   "drug-class"
+  ],
+  "aliases": [
+   "adjuvant analgesics",
+   "co-analgesics",
+   "NMDA mnemonic"
+  ],
+  "related": [
+   "drugs/ketamine",
+   "drugs/gabapentinoids",
+   "drugs/clonidine",
+   "drugs/dexmedetomidine",
+   "drugs/magnesium-sulfate"
+  ]
  },
  {
   "path": "topics/drugs/antiarrhythmics.md",
@@ -424,6 +520,29 @@
   "related": []
  },
  {
+  "path": "topics/drugs/codeine.md",
+  "title": "Codeine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "prodrug",
+   "cyp2d6",
+   "pharmacogenetics"
+  ],
+  "aliases": [
+   "codeine phosphate",
+   "3-methylmorphine"
+  ],
+  "related": [
+   "drugs/morphine",
+   "drugs/naloxone",
+   "drugs/paracetamol",
+   "drugs/tramadol"
+  ]
+ },
+ {
   "path": "topics/drugs/colloids.md",
   "title": "Colloids",
   "area": "drugs",
@@ -680,6 +799,29 @@
   ]
  },
  {
+  "path": "topics/drugs/enoximone.md",
+  "title": "Enoximone",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "inodilator",
+   "phosphodiesterase inhibitor",
+   "inotrope"
+  ],
+  "aliases": [
+   "Perfan",
+   "PDE3 inhibitor",
+   "PDEI"
+  ],
+  "related": [
+   "drugs/milrinone",
+   "drugs/dobutamine",
+   "drugs/levosimendan",
+   "drugs/noradrenaline"
+  ]
+ },
+ {
   "path": "topics/drugs/entonox.md",
   "title": "Entonox",
   "area": "drugs",
@@ -801,6 +943,32 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/fentanyl.md",
+  "title": "Fentanyl",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "analgesic",
+   "phenylpiperidine"
+  ],
+  "aliases": [
+   "fentanyl patch",
+   "transdermal fentanyl",
+   "Durogesic",
+   "intranasal fentanyl",
+   "fentanyl-induced cough"
+  ],
+  "related": [
+   "drugs/morphine",
+   "drugs/remifentanil",
+   "drugs/alfentanil",
+   "drugs/sufentanil",
+   "drugs/pethidine"
+  ]
  },
  {
   "path": "topics/drugs/first-generation-antihistamines.md",
@@ -984,6 +1152,30 @@
    "drugs/paracetamol",
    "drugs/parecoxib",
    "drugs/aspirin"
+  ]
+ },
+ {
+  "path": "topics/drugs/induction-agents.md",
+  "title": "Induction agents",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "induction",
+   "intravenous-anaesthesia",
+   "pharmacology"
+  ],
+  "aliases": [
+   "IV induction agents",
+   "intravenous anaesthetics",
+   "induction drugs"
+  ],
+  "related": [
+   "drugs/propofol",
+   "drugs/thiopentone",
+   "drugs/etomidate",
+   "drugs/ketamine",
+   "drugs/midazolam"
   ]
  },
  {
@@ -1320,6 +1512,28 @@
   "related": []
  },
  {
+  "path": "topics/drugs/milrinone.md",
+  "title": "Milrinone",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "inotrope",
+   "inodilator",
+   "pde3-inhibitor"
+  ],
+  "aliases": [
+   "Primacor",
+   "PDE3 inhibitor"
+  ],
+  "related": [
+   "drugs/enoximone",
+   "drugs/levosimendan",
+   "drugs/dobutamine",
+   "drugs/inotropes"
+  ]
+ },
+ {
   "path": "topics/drugs/monoamine-oxidase-inhibitors.md",
   "title": "Monoamine oxidase inhibitors",
   "area": "drugs",
@@ -1346,6 +1560,55 @@
    "drugs/ephedrine",
    "drugs/phenylephrine",
    "drugs/tricyclic-antidepressants"
+  ]
+ },
+ {
+  "path": "topics/drugs/morphine.md",
+  "title": "Morphine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "analgesic",
+   "phenanthrene"
+  ],
+  "aliases": [
+   "MST",
+   "mist morphine",
+   "morphine sulphate"
+  ],
+  "related": [
+   "drugs/overview-of-analgesics",
+   "drugs/fentanyl",
+   "drugs/remifentanil",
+   "drugs/naloxone",
+   "procedures/patient-controlled-analgesia"
+  ]
+ },
+ {
+  "path": "topics/drugs/naloxone.md",
+  "title": "Naloxone",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "antagonist",
+   "antidote",
+   "reversal"
+  ],
+  "aliases": [
+   "Narcan",
+   "opioid antagonist",
+   "opioid reversal"
+  ],
+  "related": [
+   "drugs/morphine",
+   "drugs/fentanyl",
+   "drugs/codeine",
+   "drugs/alfentanil",
+   "crises/opioid-overdose"
   ]
  },
  {
@@ -1464,6 +1727,32 @@
   ]
  },
  {
+  "path": "topics/drugs/noradrenaline.md",
+  "title": "Noradrenaline",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vasopressor",
+   "catecholamine",
+   "sympathomimetic"
+  ],
+  "aliases": [
+   "norepinephrine",
+   "Levophed",
+   "NA",
+   "NE",
+   "norad"
+  ],
+  "related": [
+   "drugs/adrenaline",
+   "drugs/dopamine",
+   "drugs/vasopressin",
+   "drugs/phenylephrine",
+   "comorbidities/septic-shock"
+  ]
+ },
+ {
   "path": "topics/drugs/nsaids.md",
   "title": "NSAIDs and COX-2 inhibitors",
   "area": "drugs",
@@ -1489,6 +1778,355 @@
    "drugs/aspirin",
    "drugs/parecoxib",
    "comorbidities/asthma"
+  ]
+ },
+ {
+  "path": "topics/drugs/opioid-conversion.md",
+  "title": "Opioid prescribing and conversion",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioids",
+   "analgesia",
+   "conversion",
+   "palliative"
+  ],
+  "aliases": [
+   "opioid conversion",
+   "morphine equivalent",
+   "OMED",
+   "equianalgesic doses",
+   "fentanyl patch conversion"
+  ],
+  "related": [
+   "drugs/morphine",
+   "drugs/oxycodone",
+   "drugs/fentanyl",
+   "drugs/tramadol",
+   "drugs/buprenorphine"
+  ]
+ },
+ {
+  "path": "topics/drugs/opioids.md",
+  "title": "Opioids",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "analgesic",
+   "receptors",
+   "pharmacology"
+  ],
+  "aliases": [
+   "opiates",
+   "narcotics",
+   "opioid analgesics",
+   "mu agonists"
+  ],
+  "related": [
+   "drugs/morphine",
+   "drugs/fentanyl",
+   "drugs/remifentanil",
+   "drugs/naloxone",
+   "drugs/tramadol"
+  ]
+ },
+ {
+  "path": "topics/drugs/orphenadrine.md",
+  "title": "Orphenadrine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "muscle-relaxant",
+   "anticholinergic"
+  ],
+  "aliases": [
+   "Anarex",
+   "Norflex"
+  ],
+  "related": [
+   "drugs/paracetamol",
+   "drugs/nsaids"
+  ]
+ },
+ {
+  "path": "topics/drugs/oxycodone.md",
+  "title": "Oxycodone",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "analgesic",
+   "oral-opioid"
+  ],
+  "aliases": [
+   "OxyNorm",
+   "OxyContin",
+   "Targin",
+   "Targinact",
+   "oxycodone-naloxone"
+  ],
+  "related": [
+   "drugs/morphine",
+   "drugs/fentanyl",
+   "drugs/pethidine",
+   "drugs/naloxone"
+  ]
+ },
+ {
+  "path": "topics/drugs/oxygen.md",
+  "title": "Oxygen",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "medical-gas",
+   "cylinders",
+   "oxygen-toxicity"
+  ],
+  "aliases": [
+   "O2",
+   "medical oxygen",
+   "oxygen cylinder",
+   "VIE",
+   "oxygen toxicity"
+  ],
+  "related": [
+   "drugs/nitrous-oxide",
+   "drugs/medical-gases",
+   "equipment/gas-cylinders",
+   "equipment/vacuum-insulated-evaporator"
+  ]
+ },
+ {
+  "path": "topics/drugs/paediatric-fluids-and-electrolytes.md",
+  "title": "Paediatric fluids and electrolytes",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "fluids",
+   "electrolytes",
+   "neonates"
+  ],
+  "aliases": [
+   "paeds fluids",
+   "4-2-1 rule",
+   "Holliday-Segar",
+   "paediatric maintenance fluids"
+  ],
+  "related": [
+   "physiology/paediatric-physiology",
+   "drugs/crystalloids",
+   "drugs/sodium",
+   "drugs/potassium",
+   "comorbidities/hyponatraemia"
+  ]
+ },
+ {
+  "path": "topics/drugs/paediatric-inhalational-agents.md",
+  "title": "Paediatric inhalational agents",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "volatile",
+   "mac",
+   "inhalational-induction"
+  ],
+  "aliases": [
+   "paeds volatiles",
+   "paediatric MAC",
+   "sevoflurane in children",
+   "nitrous oxide in children"
+  ],
+  "related": [
+   "drugs/sevoflurane",
+   "drugs/desflurane",
+   "drugs/isoflurane",
+   "drugs/halothane",
+   "drugs/nitrous-oxide"
+  ]
+ },
+ {
+  "path": "topics/drugs/paediatric-intravenous-induction-agents.md",
+  "title": "Paediatric intravenous induction agents",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "induction",
+   "intravenous-anaesthesia"
+  ],
+  "aliases": [
+   "paeds IV induction",
+   "propofol in children",
+   "ketamine in children"
+  ],
+  "related": [
+   "drugs/propofol",
+   "drugs/ketamine",
+   "drugs/midazolam",
+   "drugs/thiopentone",
+   "drugs/induction-agents"
+  ]
+ },
+ {
+  "path": "topics/drugs/paediatric-local-anaesthetics.md",
+  "title": "Local anaesthetics in children",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "local-anaesthetic",
+   "max-dose",
+   "regional"
+  ],
+  "aliases": [
+   "paediatric local anaesthetic doses",
+   "paeds LA",
+   "maximum LA dose children"
+  ],
+  "related": [
+   "drugs/bupivacaine",
+   "drugs/ropivacaine",
+   "drugs/lidocaine",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "regional/paediatric-peripheral-nerve-blocks"
+  ]
+ },
+ {
+  "path": "topics/drugs/paediatric-neuromuscular-blockers.md",
+  "title": "Paediatric neuromuscular blockers and reversal",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neuromuscular-blockers",
+   "reversal"
+  ],
+  "aliases": [
+   "paeds NMB",
+   "paediatric muscle relaxants",
+   "paediatric NMBD",
+   "sux in children",
+   "neonatal neuromuscular blockade"
+  ],
+  "related": [
+   "drugs/suxamethonium",
+   "drugs/rocuronium",
+   "drugs/atracurium",
+   "drugs/neostigmine",
+   "drugs/sugammadex"
+  ]
+ },
+ {
+  "path": "topics/drugs/paediatric-nsaids.md",
+  "title": "NSAIDs in children",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "nsaid",
+   "analgesia"
+  ],
+  "aliases": [
+   "paediatric NSAIDs",
+   "paeds ibuprofen",
+   "paeds diclofenac",
+   "Voltaren",
+   "Nurofen"
+  ],
+  "related": [
+   "drugs/nsaids",
+   "drugs/ibuprofen",
+   "drugs/diclofenac",
+   "drugs/paracetamol",
+   "drugs/paediatric-local-anaesthetics"
+  ]
+ },
+ {
+  "path": "topics/drugs/paediatric-opioids.md",
+  "title": "Paediatric opioids",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "opioids",
+   "analgesia",
+   "neonates"
+  ],
+  "aliases": [
+   "paeds opioids",
+   "morphine in children",
+   "fentanyl in children",
+   "remifentanil in children"
+  ],
+  "related": [
+   "drugs/morphine",
+   "drugs/fentanyl",
+   "drugs/remifentanil",
+   "drugs/opioid-conversion",
+   "procedures/paediatric-pain-management"
+  ]
+ },
+ {
+  "path": "topics/drugs/paediatric-paracetamol.md",
+  "title": "Paracetamol in children",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "analgesic",
+   "paediatrics",
+   "antipyretic"
+  ],
+  "aliases": [
+   "paediatric paracetamol",
+   "acetaminophen",
+   "Panadol",
+   "Calpol"
+  ],
+  "related": [
+   "drugs/paracetamol",
+   "procedures/paediatric-anaesthesia",
+   "physiology/paediatric-pain"
+  ]
+ },
+ {
+  "path": "topics/drugs/paracetamol.md",
+  "title": "Paracetamol",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "analgesic",
+   "antipyretic",
+   "simple-analgesia"
+  ],
+  "aliases": [
+   "acetaminophen",
+   "APAP",
+   "Panadol",
+   "Perfalgan",
+   "Anarex"
+  ],
+  "related": [
+   "drugs/nsaids",
+   "drugs/orphenadrine",
+   "drugs/paediatric-nsaids",
+   "drugs/acetylcysteine"
   ]
  },
  {
@@ -1520,6 +2158,81 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/pethidine.md",
+  "title": "Pethidine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "analgesic",
+   "phenylpiperidine",
+   "shivering"
+  ],
+  "aliases": [
+   "meperidine",
+   "Demerol",
+   "norpethidine",
+   "normeperidine"
+  ],
+  "related": [
+   "drugs/morphine",
+   "drugs/fentanyl",
+   "drugs/tramadol",
+   "physiology/shivering"
+  ]
+ },
+ {
+  "path": "topics/drugs/phenylephrine.md",
+  "title": "Phenylephrine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vasopressor",
+   "alpha-agonist",
+   "sympathomimetic"
+  ],
+  "aliases": [
+   "neosynephrine",
+   "phenyl"
+  ],
+  "related": [
+   "drugs/ephedrine",
+   "drugs/metaraminol",
+   "drugs/noradrenaline",
+   "procedures/spinal-anaesthesia-for-caesarean-section",
+   "drugs/vasopressors"
+  ]
+ },
+ {
+  "path": "topics/drugs/phosphodiesterase-inhibitors.md",
+  "title": "Phosphodiesterase inhibitors",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "inotrope",
+   "inodilator",
+   "pulmonary-vasodilator",
+   "drug-class"
+  ],
+  "aliases": [
+   "PDEI",
+   "PDE inhibitors",
+   "PDE3 inhibitors",
+   "PDE5 inhibitors",
+   "inodilators"
+  ],
+  "related": [
+   "drugs/milrinone",
+   "drugs/enoximone",
+   "drugs/sildenafil",
+   "drugs/aminophylline",
+   "drugs/tadalafil"
+  ]
  },
  {
   "path": "topics/drugs/plasma-and-clotting-factor-products.md",
@@ -1554,6 +2267,123 @@
   ]
  },
  {
+  "path": "topics/drugs/platelet-transfusion.md",
+  "title": "Platelet transfusion",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "blood-products",
+   "transfusion",
+   "coagulation"
+  ],
+  "aliases": [
+   "platelets",
+   "CSP",
+   "cell separated platelets",
+   "apheresis platelets",
+   "pooled platelets"
+  ],
+  "related": [
+   "comorbidities/thrombocytopaenia",
+   "equipment/rotem-and-teg",
+   "drugs/fresh-frozen-plasma",
+   "drugs/cryoprecipitate",
+   "drugs/packed-red-cells"
+  ]
+ },
+ {
+  "path": "topics/drugs/prilocaine.md",
+  "title": "Prilocaine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "amide",
+   "methaemoglobinaemia"
+  ],
+  "aliases": [
+   "Takipril",
+   "Citanest"
+  ],
+  "related": [
+   "drugs/lidocaine",
+   "drugs/local-anaesthetics",
+   "drugs/emla",
+   "comorbidities/methaemoglobinaemia",
+   "regional/intravenous-regional-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/drugs/procainamide.md",
+  "title": "Procainamide",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antiarrhythmic",
+   "class-ia",
+   "sodium-channel-blocker"
+  ],
+  "aliases": [
+   "class Ia antiarrhythmic",
+   "Pronestyl"
+  ],
+  "related": [
+   "drugs/quinidine",
+   "drugs/lidocaine",
+   "drugs/amiodarone",
+   "drugs/antiarrhythmics",
+   "comorbidities/atrial-fibrillation"
+  ]
+ },
+ {
+  "path": "topics/drugs/propafenone.md",
+  "title": "Propafenone",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antiarrhythmic",
+   "class ic",
+   "sodium channel blocker"
+  ],
+  "aliases": [
+   "class Ic antiarrhythmic"
+  ],
+  "related": [
+   "drugs/flecainide",
+   "drugs/quinidine",
+   "drugs/amiodarone",
+   "drugs/overview-of-antiarrhythmics"
+  ]
+ },
+ {
+  "path": "topics/drugs/propofol.md",
+  "title": "Propofol",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "induction agent",
+   "intravenous anaesthetic",
+   "gaba",
+   "tiva"
+  ],
+  "aliases": [
+   "Diprivan",
+   "2-6 diisopropylphenol"
+  ],
+  "related": [
+   "drugs/propofol-tiva-tci",
+   "drugs/thiopentone",
+   "drugs/ketamine",
+   "drugs/etomidate",
+   "crises/propofol-infusion-syndrome"
+  ]
+ },
+ {
   "path": "topics/drugs/pyridostigmine.md",
   "title": "Pyridostigmine",
   "area": "drugs",
@@ -1566,6 +2396,81 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/quinidine.md",
+  "title": "Quinidine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antiarrhythmic",
+   "class ia",
+   "sodium channel blocker"
+  ],
+  "aliases": [
+   "class Ia antiarrhythmic"
+  ],
+  "related": [
+   "drugs/procainamide",
+   "drugs/flecainide",
+   "drugs/propafenone",
+   "drugs/digoxin",
+   "drugs/overview-of-antiarrhythmics"
+  ]
+ },
+ {
+  "path": "topics/drugs/red-cell-transfusion.md",
+  "title": "Red cell transfusion",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "blood products",
+   "transfusion",
+   "haematology"
+  ],
+  "aliases": [
+   "PCT",
+   "packed cell transfusion",
+   "PRBC",
+   "packed red blood cells",
+   "GXM",
+   "leukodepleted blood",
+   "irradiated blood",
+   "washed red cells"
+  ],
+  "related": [
+   "procedures/massive-transfusion",
+   "comorbidities/anaemia",
+   "drugs/platelets",
+   "drugs/fresh-frozen-plasma",
+   "physiology/oxygen-delivery"
+  ]
+ },
+ {
+  "path": "topics/drugs/remifentanil.md",
+  "title": "Remifentanil",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "analgesic",
+   "tiva",
+   "tci"
+  ],
+  "aliases": [
+   "Ultiva",
+   "remi"
+  ],
+  "related": [
+   "drugs/fentanyl",
+   "drugs/alfentanil",
+   "drugs/propofol",
+   "drugs/overview-of-analgesics",
+   "drugs/glycopyrrolate"
+  ]
  },
  {
   "path": "topics/drugs/remimazolam.md",
@@ -1581,6 +2486,102 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/rocuronium.md",
+  "title": "Rocuronium",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuromuscular-blocker",
+   "aminosteroid",
+   "non-depolarising"
+  ],
+  "aliases": [
+   "roc",
+   "Esmeron",
+   "Zemuron"
+  ],
+  "related": [
+   "drugs/vecuronium",
+   "drugs/sugammadex",
+   "drugs/suxamethonium",
+   "drugs/neostigmine",
+   "drugs/paediatric-neuromuscular-blockers"
+  ]
+ },
+ {
+  "path": "topics/drugs/ropivacaine.md",
+  "title": "Ropivacaine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "amide",
+   "regional"
+  ],
+  "aliases": [
+   "Naropin",
+   "ropi"
+  ],
+  "related": [
+   "drugs/bupivacaine",
+   "drugs/levobupivacaine",
+   "drugs/lidocaine",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "drugs/local-anaesthetics"
+  ]
+ },
+ {
+  "path": "topics/drugs/sildenafil.md",
+  "title": "Sildenafil",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "pde5-inhibitor",
+   "pulmonary-vasodilator",
+   "pulmonary-hypertension"
+  ],
+  "aliases": [
+   "Viagra",
+   "Revatio",
+   "PDE5 inhibitor"
+  ],
+  "related": [
+   "drugs/tadalafil",
+   "drugs/phosphodiesterase-inhibitors",
+   "drugs/nitric-oxide",
+   "drugs/pulmonary-vasodilators"
+  ]
+ },
+ {
+  "path": "topics/drugs/sodium-bicarbonate.md",
+  "title": "Sodium bicarbonate",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "alkalinising agent",
+   "acid-base",
+   "fluids"
+  ],
+  "aliases": [
+   "NaHCO3",
+   "bicarb",
+   "8.4% bicarbonate",
+   "isotonic bicarbonate",
+   "1.26% bicarbonate"
+  ],
+  "related": [
+   "physiology/acid-base",
+   "comorbidities/hyperkalaemia",
+   "crises/tricyclic-overdose",
+   "crises/cardiac-arrest",
+   "comorbidities/diabetic-ketoacidosis"
+  ]
  },
  {
   "path": "topics/drugs/sotalol.md",
@@ -1612,6 +2613,27 @@
   "related": []
  },
  {
+  "path": "topics/drugs/tadalafil.md",
+  "title": "Tadalafil",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "pde5-inhibitor",
+   "pulmonary-vasodilator"
+  ],
+  "aliases": [
+   "ADCIRCA",
+   "Cialis",
+   "PDE5 inhibitor"
+  ],
+  "related": [
+   "drugs/sildenafil",
+   "drugs/phosphodiesterase-inhibitors",
+   "drugs/pulmonary-vasodilators"
+  ]
+ },
+ {
   "path": "topics/drugs/thiopentone.md",
   "title": "Thiopentone",
   "area": "drugs",
@@ -1624,6 +2646,29 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/tramadol.md",
+  "title": "Tramadol",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioid",
+   "analgesic",
+   "snri"
+  ],
+  "aliases": [
+   "Tramal",
+   "Ultram"
+  ],
+  "related": [
+   "drugs/opioids",
+   "drugs/morphine",
+   "drugs/tapentadol",
+   "drugs/naloxone",
+   "comorbidities/serotonin-syndrome"
+  ]
  },
  {
   "path": "topics/drugs/vasopressors-in-critical-care.md",
@@ -1665,6 +2710,34 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/equipment/fluid-warmers-and-rapid-infusers.md",
+  "title": "Fluid warmers and rapid infusers",
+  "area": "equipment",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "fluid warming",
+   "rapid infusion",
+   "transfusion",
+   "hypothermia"
+  ],
+  "aliases": [
+   "Barkey",
+   "Hotline",
+   "Level 1",
+   "Belmont",
+   "rapid infuser",
+   "blood warmer",
+   "fluid warming device"
+  ],
+  "related": [
+   "drugs/red-cell-transfusion",
+   "procedures/massive-transfusion",
+   "physiology/perioperative-hypothermia",
+   "equipment/pressure-bag"
+  ]
  },
  {
   "path": "topics/equipment/neuromuscular-monitoring.md",
@@ -1870,6 +2943,31 @@
   ]
  },
  {
+  "path": "topics/physiology/mechanisms-of-general-anaesthetic-action.md",
+  "title": "Mechanisms of general anaesthetic action",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "pharmacology",
+   "gaba",
+   "nmda",
+   "mechanism"
+  ],
+  "aliases": [
+   "Meyer-Overton",
+   "GABAA receptor",
+   "anaesthetic mechanism"
+  ],
+  "related": [
+   "drugs/volatile-anaesthetics",
+   "drugs/intravenous-anaesthetics",
+   "drugs/propofol",
+   "drugs/etomidate",
+   "drugs/ketamine"
+  ]
+ },
+ {
   "path": "topics/physiology/minimum-alveolar-concentration.md",
   "title": "Minimum alveolar concentration (MAC)",
   "area": "physiology",
@@ -1962,6 +3060,66 @@
    "physiology/fluid-responsiveness",
    "procedures/intraoperative-bleeding-and-blood-management",
    "equipment/cardiac-output-monitoring"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-venous-access.md",
+  "title": "Paediatric venous access",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "vascular-access",
+   "cvc",
+   "intraosseous"
+  ],
+  "aliases": [
+   "paeds IV access",
+   "paediatric cannulation",
+   "paediatric CVC",
+   "paediatric central line",
+   "intraosseous access",
+   "IO"
+  ],
+  "related": [
+   "procedures/paediatric-arterial-cannulation",
+   "drugs/emla-cream",
+   "procedures/paediatric-anaesthesia",
+   "procedures/central-venous-cannulation"
+  ]
+ },
+ {
+  "path": "topics/procedures/total-intravenous-anaesthesia.md",
+  "title": "Total intravenous anaesthesia (TIVA) and propofol TCI models",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "tiva",
+   "tci",
+   "propofol",
+   "pharmacokinetics"
+  ],
+  "aliases": [
+   "TIVA",
+   "TCI",
+   "target controlled infusion",
+   "CIVA",
+   "Marsh",
+   "Schnider",
+   "Eleveld",
+   "Paedfusor",
+   "Kataria",
+   "Bristol model",
+   "10-8-6"
+  ],
+  "related": [
+   "drugs/propofol",
+   "drugs/remifentanil",
+   "equipment/depth-of-anaesthesia-monitoring",
+   "crises/intraoperative-awareness",
+   "physiology/compartment-models"
   ]
  }
 ]

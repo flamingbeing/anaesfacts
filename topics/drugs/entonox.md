@@ -66,4 +66,5 @@ Premixed 50% oxygen and 50% nitrous oxide for inhaled analgesia; separates if co
 <!-- related:start (generated) -->
 ## Related
 - [Nitrous oxide](nitrous-oxide.md)
+- [Oxygen](oxygen.md)
 <!-- related:end -->

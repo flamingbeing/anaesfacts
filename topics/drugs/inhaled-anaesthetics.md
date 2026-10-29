@@ -207,4 +207,5 @@ Overview of nitrous oxide and the volatile halogenated ethers: actions, effects,
 ## Related
 - [Nitrous oxide](nitrous-oxide.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
+- [Propofol](propofol.md)
 <!-- related:end -->

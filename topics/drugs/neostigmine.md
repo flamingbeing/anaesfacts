@@ -77,5 +77,7 @@ Reversible acetylcholinesterase inhibitor (quaternary amine), mainly used to rev
 ## Related
 - [Glycopyrrolate](glycopyrrolate.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
+- [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
+- [Rocuronium](rocuronium.md)
 - [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
 <!-- related:end -->

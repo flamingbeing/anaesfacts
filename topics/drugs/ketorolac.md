@@ -49,5 +49,6 @@ Non-selective COX inhibitor (acetic acid derivative): strong analgesic and antip
 ## Related
 - [NSAIDs and COX-2 inhibitors](nsaids.md)
 - [Parecoxib and valdecoxib](parecoxib.md)
+- [Paracetamol](paracetamol.md)
 - [Diclofenac](diclofenac.md)
 <!-- related:end -->

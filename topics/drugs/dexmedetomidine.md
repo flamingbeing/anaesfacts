@@ -103,3 +103,8 @@ Highly selective full alpha-2 agonist (Precedex) giving rousable sedation and an
 - Context-sensitive half-life: 4 minutes after a 10-minute infusion, 250 minutes after an 8-hour infusion
 - Hepatic metabolism to inactive metabolites, excreted renally
   - Consider dose reduction in hepatic impairment
+
+<!-- related:start (generated) -->
+## Related
+- [Analgesic adjuncts](analgesic-adjuncts.md)
+<!-- related:end -->

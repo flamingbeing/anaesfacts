@@ -51,5 +51,7 @@ Synthetic amine vasopressor with direct and indirect sympathomimetic action, mai
 
 <!-- related:start (generated) -->
 ## Related
+- [Phenylephrine](phenylephrine.md)
 - [Ephedrine](ephedrine.md)
+- [Noradrenaline](noradrenaline.md)
 <!-- related:end -->

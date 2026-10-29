@@ -67,5 +67,6 @@ Overview of depolarising and non-depolarising neuromuscular blockers (NMBs): sha
 
 <!-- related:start (generated) -->
 ## Related
+- [Rocuronium](rocuronium.md)
 - [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
 <!-- related:end -->

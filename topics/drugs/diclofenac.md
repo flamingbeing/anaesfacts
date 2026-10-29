@@ -73,6 +73,8 @@ Phenylacetic acid NSAID for mild to moderate pain and opioid sparing; carries a 
 <!-- related:start (generated) -->
 ## Related
 - [Ibuprofen](ibuprofen.md)
+- [Paracetamol](paracetamol.md)
 - [Parecoxib and valdecoxib](parecoxib.md)
 - [Ketorolac](ketorolac.md)
+- [NSAIDs in children](paediatric-nsaids.md)
 <!-- related:end -->

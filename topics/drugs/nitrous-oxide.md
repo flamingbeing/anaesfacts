@@ -170,5 +170,7 @@ Low-potency anaesthetic and analgesic gas (MAC 105%), with fast onset and offset
 - [Fluid terminology and chemistry](../physiology/fluid-terminology-and-chemistry.md)
 - [Inhaled anaesthetics](inhaled-anaesthetics.md)
 - [Nitric oxide](nitric-oxide.md)
+- [Oxygen](oxygen.md)
+- [Paediatric inhalational agents](paediatric-inhalational-agents.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
 <!-- related:end -->

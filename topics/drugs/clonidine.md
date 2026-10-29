@@ -59,3 +59,8 @@ Alpha-2 agonist for sedation and analgesia; less alpha-2 selective than dexmedet
 - Protein binding 20%; volume of distribution about 2 l/kg
 - Elimination half-life 9 to 18 hours
 - About 50% metabolised in the liver to inactive metabolites; the rest excreted unchanged in urine
+
+<!-- related:start (generated) -->
+## Related
+- [Analgesic adjuncts](analgesic-adjuncts.md)
+<!-- related:end -->
