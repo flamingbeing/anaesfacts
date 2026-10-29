@@ -1,0 +1,409 @@
+{
+ "topic": "comorbidities/aortic-stenosis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/aortic-stenosis#1ad5fe",
+   "kind": "mcq",
+   "stem": "In aortic stenosis, what valve area defines severe disease?",
+   "options": [
+    "2 cm²",
+    "1.5 cm²",
+    "3 cm²",
+    "1 cm²"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#1ad5fe",
+   "kind": "mcq",
+   "stem": "In aortic stenosis, what mean gradient defines severe disease?",
+   "options": [
+    "40mmHg",
+    "20mmHg",
+    "30mmHg",
+    "60mmHg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#24927b",
+   "kind": "statement",
+   "stem": "What are the three cardinal symptoms of aortic stenosis?",
+   "answer": "Angina, syncope, dyspnoea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#c485cd",
+   "kind": "mcq",
+   "stem": "Which murmur is typical of aortic stenosis?",
+   "options": [
+    "Pansystolic murmur",
+    "Ejection systolic murmur",
+    "Mid-diastolic rumble",
+    "Continuous machinery murmur"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#c485cd",
+   "kind": "mcq",
+   "stem": "Which arterial pulse character is typical of aortic stenosis?",
+   "options": [
+    "Pulsus paradoxus",
+    "Pulsus alternans",
+    "Pulsus parvus et tardus",
+    "Collapsing pulse"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#6f93da",
+   "kind": "mcq",
+   "stem": "Which ECG finding is typical of severe aortic stenosis?",
+   "options": [
+    "Right bundle branch block",
+    "LVH",
+    "Inferior Q waves",
+    "Long QT interval"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#b10117",
+   "kind": "mcq",
+   "stem": "Which investigation grades the severity of aortic stenosis?",
+   "options": [
+    "Chest X-ray",
+    "Transthoracic echocardiography",
+    "Carotid Doppler",
+    "Serum troponin level"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#39d938",
+   "kind": "mcq",
+   "stem": "What peak aortic jet velocity defines severe aortic stenosis?",
+   "options": [
+    "2m/s",
+    "3m/s",
+    "5m/s",
+    "4m/s"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#c667a7",
+   "kind": "mcq",
+   "stem": "In aortic stenosis, which equation derives the gradient from peak velocity?",
+   "options": [
+    "Fick equation",
+    "Bernoulli equation",
+    "Poiseuille law",
+    "Laplace law"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#58392b",
+   "kind": "statement",
+   "stem": "Which guideline is used to grade aortic stenosis severity?",
+   "answer": "AHA 2020",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#b78793",
+   "kind": "statement",
+   "stem": "In severe aortic stenosis, which risk is high during anaesthesia?",
+   "answer": "Haemodynamic instability",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#b08907",
+   "kind": "statement",
+   "stem": "In severe aortic stenosis, what is the nature of cardiac output?",
+   "answer": "Fixed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#f5f4b4",
+   "kind": "statement",
+   "stem": "In aortic stenosis, why does exertion lead to syncope?",
+   "answer": "Output cannot rise on exertion, so cerebral perfusion falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#f5f4b4",
+   "kind": "mcq",
+   "stem": "What is the approximate survival after syncope starts in aortic stenosis?",
+   "options": [
+    "About 1 year",
+    "About 6 months",
+    "About 10 years",
+    "About 3 years"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#046800",
+   "kind": "statement",
+   "stem": "In aortic stenosis, what causes dyspnoea?",
+   "answer": "Raised LA pressure with pulmonary venous hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#046800",
+   "kind": "mcq",
+   "stem": "What is the approximate survival after dyspnoea starts in aortic stenosis?",
+   "options": [
+    "About 5 years",
+    "About 2 years",
+    "About 3 years",
+    "About 10 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#e7f3b8",
+   "kind": "mcq",
+   "stem": "In aortic stenosis, which myocardial layer is most affected by ischaemia?",
+   "options": [
+    "Subepicardial",
+    "Subendocardial",
+    "Apical",
+    "Right ventricular free wall"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#c273cf",
+   "kind": "statement",
+   "stem": "What mechanism causes angina in aortic stenosis?",
+   "answer": "Supply-demand mismatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#c273cf",
+   "kind": "mcq",
+   "stem": "What is the approximate survival after angina starts in aortic stenosis?",
+   "options": [
+    "About 2 years",
+    "About 8 years",
+    "About 5 years",
+    "About 3 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#2279ad",
+   "kind": "statement",
+   "stem": "Which three complications occur in aortic stenosis?",
+   "answer": "Heart failure, ischaemic heart disease, arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#b34bf2",
+   "kind": "statement",
+   "stem": "In aortic stenosis, what is done to assess risk before surgery?",
+   "answer": "Assess risk with TTE and counsel properly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#8be45a",
+   "kind": "mcq",
+   "stem": "In severe aortic stenosis, what does AHA 2024 advise before non-cardiac surgery?",
+   "options": [
+    "Diuretic therapy alone",
+    "Valve replacement",
+    "Pacemaker insertion",
+    "Proceed without any cardiac procedure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#8c55ca",
+   "kind": "mcq",
+   "stem": "In asymptomatic severe aortic stenosis with EF below 50%, how should it be managed?",
+   "options": [
+    "Observe as asymptomatic",
+    "Treat as symptomatic",
+    "Treat as moderate stenosis",
+    "No intervention before surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#da6f7b",
+   "kind": "statement",
+   "stem": "In asymptomatic severe aortic stenosis with EF above 50%, what surgery can go ahead?",
+   "answer": "Time-sensitive and minor surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#4aedd9",
+   "kind": "statement",
+   "stem": "How should counselling about surgery be framed in severe aortic stenosis?",
+   "answer": "As high-risk surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#204be3",
+   "kind": "statement",
+   "stem": "In severe aortic stenosis, what should premedication avoid?",
+   "answer": "Raising heart rate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#9b2afa",
+   "kind": "mcq",
+   "stem": "What heart rate range is the intraoperative target in aortic stenosis?",
+   "options": [
+    "80-90 bpm",
+    "100-110 bpm",
+    "60-70 bpm",
+    "40-50 bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#916041",
+   "kind": "blank",
+   "stem": "In aortic stenosis, intraoperative monitoring uses a ____ ECG plus standard monitoring (NIBP, SpO2).",
+   "answer": "5-lead",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#38d168",
+   "kind": "statement",
+   "stem": "In aortic stenosis technique, which two states should be avoided?",
+   "answer": "Falls in SVR and tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#3c8193",
+   "kind": "mcq",
+   "stem": "After surgery in aortic stenosis, what is the threshold for HDU or ICU care?",
+   "options": [
+    "High threshold",
+    "Low threshold",
+    "Routine ward care only",
+    "Automatic ICU for all"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#f28a8a",
+   "kind": "statement",
+   "stem": "Why is good postoperative analgesia important in aortic stenosis?",
+   "answer": "To prevent tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#f28a8a",
+   "kind": "statement",
+   "stem": "What technique should be considered for postoperative analgesia in aortic stenosis?",
+   "answer": "Regional analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#5329d5",
+   "kind": "statement",
+   "stem": "In aortic stenosis on bypass, hypotension can start a spiral towards what?",
+   "answer": "Cardiac arrest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#daca8e",
+   "kind": "mcq",
+   "stem": "Why may CPR fail in severe aortic stenosis?",
+   "options": [
+    "Compressions generate little flow across the valve",
+    "Compressions cause immediate valve rupture",
+    "Compressions over-perfuse the coronaries",
+    "Defibrillation is contraindicated in stenosis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#36696d",
+   "kind": "statement",
+   "stem": "During bypass in aortic stenosis, when is avoiding arrhythmias especially important?",
+   "answer": "During atrial cannulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#433392",
+   "kind": "mcq",
+   "stem": "On cardiopulmonary bypass in aortic stenosis, myocardial protection is what compared with usual?",
+   "options": [
+    "Easier than usual",
+    "Not needed on bypass",
+    "Harder than usual",
+    "Unchanged from usual"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-stenosis#3fea43",
+   "kind": "statement",
+   "stem": "In aortic stenosis with an aortic suture line, why treat hypertension quickly?",
+   "answer": "To avoid bleeding and dissection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

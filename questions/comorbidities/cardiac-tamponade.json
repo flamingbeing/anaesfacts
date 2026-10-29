@@ -1,0 +1,209 @@
+{
+ "topic": "comorbidities/cardiac-tamponade",
+ "questions": [
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#6476f0",
+   "kind": "statement",
+   "stem": "Which POCUS finding indicates cardiac tamponade?",
+   "answer": "Effusion with RV or RA collapse.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#b16cb0",
+   "kind": "blank",
+   "stem": "In cardiac tamponade, drainage under ____ is ideal.",
+   "answer": "local anaesthetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#f715e7",
+   "kind": "statement",
+   "stem": "What three-word principle summarises the haemodynamic approach to cardiac tamponade?",
+   "answer": "Fast, full and tight.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#0305a7",
+   "kind": "statement",
+   "stem": "How should ventilation be managed in cardiac tamponade to limit intrathoracic pressure?",
+   "answer": "Keep spontaneous ventilation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#c186b9",
+   "kind": "statement",
+   "stem": "In cardiac tamponade, when should the surgical team be ready?",
+   "answer": "Scrubbed before induction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#447def",
+   "kind": "statement",
+   "stem": "In cardiac tamponade, what does a fixed pericardial volume impair?",
+   "answer": "Diastolic filling.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#a28004",
+   "kind": "mcq",
+   "stem": "Acute effusions from trauma or iatrogenic causes cause tamponade at what volume?",
+   "options": [
+    "1–2 litres",
+    "100–200 ml",
+    "500–600 ml",
+    "2–3 litres"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#ff13d0",
+   "kind": "statement",
+   "stem": "Define pulsus paradoxus in cardiac tamponade.",
+   "answer": "SBP falls by more than 10 mmHg on inspiration.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#413cd4",
+   "kind": "mcq",
+   "stem": "In cardiac tamponade, when should the effusion be drained if the patient is haemodynamically compromised?",
+   "options": [
+    "After induction",
+    "After intubation",
+    "Before general anaesthesia",
+    "During surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#ba00bf",
+   "kind": "statement",
+   "stem": "In cardiac tamponade, what must the team be prepared for during intraoperative management?",
+   "answer": "Collapse.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#533f75",
+   "kind": "mcq",
+   "stem": "How important is an arterial line before induction in cardiac tamponade?",
+   "options": [
+    "Essential",
+    "Optional",
+    "Useful only after drainage",
+    "Contraindicated"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#c65576",
+   "kind": "statement",
+   "stem": "When can central line placement wait in cardiac tamponade?",
+   "answer": "Until after drainage, if unstable.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#860451",
+   "kind": "statement",
+   "stem": "What should be ready before induction in cardiac tamponade?",
+   "answer": "Vasopressors and emergency drugs.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#9490f8",
+   "kind": "mcq",
+   "stem": "Which induction agent is useful in cardiac tamponade because it keeps sympathetic tone?",
+   "options": [
+    "Propofol",
+    "Thiopentone",
+    "Ketamine",
+    "Midazolam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#74bff2",
+   "kind": "statement",
+   "stem": "What complication can follow drainage of cardiac tamponade as cardiac output rises?",
+   "answer": "Rebound hypertension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#3ff3c4",
+   "kind": "statement",
+   "stem": "After drainage of cardiac tamponade, what two options should be ready to control blood pressure?",
+   "answer": "Deepen anaesthesia or give vasodilators.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#f72b08",
+   "kind": "blank",
+   "stem": "Early tamponade after cardiac surgery occurs in the first ____ hours.",
+   "answer": "24",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#f72b08",
+   "kind": "mcq",
+   "stem": "After cardiac surgery, how many days after surgery does late tamponade typically occur?",
+   "options": [
+    "5-7 days",
+    "1-2 days",
+    "2-3 weeks",
+    "10-14 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#271e0f",
+   "kind": "statement",
+   "stem": "What are the early causes of tamponade after cardiac surgery?",
+   "answer": "Surgical bleeding or coagulopathy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#c25484",
+   "kind": "statement",
+   "stem": "Which procedure after cardiac surgery can precipitate tamponade?",
+   "answer": "Removal of epicardial pacing wires.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-tamponade#b86303",
+   "kind": "mcq",
+   "stem": "How is tamponade after cardiac surgery diagnosed?",
+   "options": [
+    "Chest X-ray",
+    "Serum troponin",
+    "POCUS",
+    "Coagulation screen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

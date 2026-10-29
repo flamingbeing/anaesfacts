@@ -1,0 +1,177 @@
+{
+ "topic": "comorbidities/necrotising-fasciitis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#72a276",
+   "kind": "mcq",
+   "stem": "Which presenting symptom is a hallmark of necrotising fasciitis?",
+   "options": [
+    "Pain out of proportion to the signs",
+    "Painless skin blistering",
+    "Gradual fever over several weeks",
+    "Mild localised swelling only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#fd99cf",
+   "kind": "blank",
+   "stem": "In necrotising fasciitis, examination shows ____ erythema.",
+   "answer": "Rapidly spreading",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#fec713",
+   "kind": "statement",
+   "stem": "In necrotising fasciitis with a foot ulcer, what should be examined further up the limb?",
+   "answer": "Tenderness proximal to the lesion (e.g. calf tenderness)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#8cd8cd",
+   "kind": "mcq",
+   "stem": "In necrotising fasciitis, which change in the patient signals progression?",
+   "options": [
+    "Becoming more septic",
+    "Settling with a falling temperature",
+    "Improving urine output",
+    "Clearing of confusion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#31c6b6",
+   "kind": "blank",
+   "stem": "In late necrotising fasciitis, skin shows mottling and ____ discolouration.",
+   "answer": "dusky",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#a494d6",
+   "kind": "mcq",
+   "stem": "At incision for necrotising fasciitis, what bleeding is typically seen?",
+   "options": [
+    "Brisk arterial bleeding",
+    "Profuse venous bleeding",
+    "Heavy bleeding needing transfusion",
+    "No bleeding"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#468f3c",
+   "kind": "mcq",
+   "stem": "What tissue is typically found at incision in necrotising fasciitis?",
+   "options": [
+    "Healthy pink muscle",
+    "Clear serous fluid",
+    "Granulation tissue",
+    "Necrotic tissue"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#3ce675",
+   "kind": "mcq",
+   "stem": "What fluid is typically found at incision in necrotising fasciitis?",
+   "options": [
+    "Clear straw-coloured fluid",
+    "Bright red arterial blood",
+    "Murky grey \"dishwater\" fluid",
+    "Thick yellow pus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#67ac8d",
+   "kind": "mcq",
+   "stem": "Which laboratory value is part of the LRINEC score for necrotising fasciitis?",
+   "options": [
+    "Platelet count",
+    "Serum lactate",
+    "Troponin",
+    "Creatinine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#67ac8d",
+   "kind": "statement",
+   "stem": "Name the six laboratory components of the LRINEC score for necrotising fasciitis.",
+   "answer": "White cell count, CRP, Hb, sodium, creatinine, glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#6e23d5",
+   "kind": "mcq",
+   "stem": "What LRINEC score for necrotising fasciitis should prompt serious consideration of the diagnosis?",
+   "options": [
+    "At least 9",
+    "At least 3",
+    "At least 6",
+    "At least 12"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#ea692f",
+   "kind": "mcq",
+   "stem": "What is the validation status of the LRINEC score for necrotising fasciitis?",
+   "options": [
+    "Fully validated in all populations",
+    "Validated in children only",
+    "Not externally validated",
+    "Validated in multicentre trials"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#45cce3",
+   "kind": "mcq",
+   "stem": "In necrotising fasciitis, what antibiotic approach is recommended?",
+   "options": [
+    "Delayed antibiotics until cultures return",
+    "Oral narrow-spectrum antibiotics only",
+    "A single low-dose antibiotic course",
+    "Early aggressive broad-spectrum IV antibiotics"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/necrotising-fasciitis#7d4279",
+   "kind": "mcq",
+   "stem": "What surgical step is required urgently in necrotising fasciitis?",
+   "options": [
+    "Emergency surgical debridement",
+    "Watchful observation overnight",
+    "Elective skin graft closure",
+    "Radiotherapy to the affected area"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

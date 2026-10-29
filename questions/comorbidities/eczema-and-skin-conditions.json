@@ -1,0 +1,49 @@
+{
+ "topic": "comorbidities/eczema-and-skin-conditions",
+ "questions": [
+  {
+   "fact_id": "comorbidities/eczema-and-skin-conditions#1c4dc1",
+   "kind": "mcq",
+   "stem": "In eczema, which steroid history should be asked about before surgery?",
+   "options": [
+    "Oral antibiotic use",
+    "Systemic opioid use",
+    "Topical steroid use",
+    "Antihistamine use"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/eczema-and-skin-conditions#ceca7e",
+   "kind": "statement",
+   "stem": "In eczema, why must systemic steroid use be excluded before anaesthesia?",
+   "answer": "Steroid cover may be needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/eczema-and-skin-conditions#16e054",
+   "kind": "mcq",
+   "stem": "In eczema under sedation, what can stop the patient keeping still?",
+   "options": [
+    "Pain from cannula sites",
+    "Shivering",
+    "Itch",
+    "Cold theatre air"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/eczema-and-skin-conditions#5d34bf",
+   "kind": "statement",
+   "stem": "In eczema, which tapes need care because the skin is thin?",
+   "answer": "ETT tape and eye tape",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

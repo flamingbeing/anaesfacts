@@ -1,0 +1,141 @@
+{
+ "topic": "comorbidities/drowning",
+ "questions": [
+  {
+   "fact_id": "comorbidities/drowning#289085",
+   "kind": "statement",
+   "stem": "In drowning, what causes ARDS?",
+   "answer": "Alveolar cell injury, lung inflammation and loss of surfactant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#d4926e",
+   "kind": "blank",
+   "stem": "Secondary bacterial pneumonia after drowning is often delayed and comes from organisms in ____.",
+   "answer": "contaminated water",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#aa891b",
+   "kind": "mcq",
+   "stem": "After drowning with core temperature under 32 degrees, what is the maximum rewarming rate?",
+   "options": [
+    "1 degree per hour",
+    "2 degrees per hour",
+    "5 degrees per hour",
+    "0.5 degrees per hour"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#aa891b",
+   "kind": "statement",
+   "stem": "In drowning with hypothermia, what warming should accompany gradual rewarming?",
+   "answer": "Active external or internal warming",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#24843b",
+   "kind": "mcq",
+   "stem": "Which brain injury follows prolonged oxygen deprivation in drowning?",
+   "options": [
+    "Subdural haematoma",
+    "Hypoxic-ischaemic encephalopathy",
+    "Cerebral venous thrombosis",
+    "Idiopathic intracranial hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#928df5",
+   "kind": "statement",
+   "stem": "What does hypoxic cardiomyopathy cause in drowning?",
+   "answer": "Myocardial stunning, low cardiac output, cardiogenic shock",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#b1a5a7",
+   "kind": "mcq",
+   "stem": "In drowning with severe acidaemia, below what core temperature do VF and asystole become likely?",
+   "options": [
+    "Below 25°C",
+    "Below 32°C",
+    "Below 28°C",
+    "Below 35°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#b1a5a7",
+   "kind": "statement",
+   "stem": "Besides low core temperature, what triggers malignant arrhythmias in drowning?",
+   "answer": "Severe acidaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#df7cce",
+   "kind": "statement",
+   "stem": "Why is a drowning victim often intravascularly hypovolaemic?",
+   "answer": "Cold diuresis and capillary leak",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#c0f9f7",
+   "kind": "mcq",
+   "stem": "What causes severe lactic acidosis in drowning?",
+   "options": [
+    "Excess intravenous saline",
+    "Alkalosis from hyperventilation",
+    "Renal tubular necrosis",
+    "Tissue hypoperfusion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#b38632",
+   "kind": "statement",
+   "stem": "Which systemic inflammatory syndrome can follow resuscitation after drowning?",
+   "answer": "SIRS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#40bf88",
+   "kind": "statement",
+   "stem": "What causes acute kidney injury in drowning?",
+   "answer": "Tubular necrosis from shock, hypoxaemia or rhabdomyolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#9a1f40",
+   "kind": "statement",
+   "stem": "What process in drowning-related DIC causes both bleeding and microvascular clotting?",
+   "answer": "Consumption of clotting factors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/drowning#f8377f",
+   "kind": "statement",
+   "stem": "Diving into shallow water or debris can cause which hidden injuries in drowning?",
+   "answer": "Spinal cord or brain injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

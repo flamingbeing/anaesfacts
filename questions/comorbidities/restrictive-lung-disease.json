@@ -1,0 +1,221 @@
+{
+ "topic": "comorbidities/restrictive-lung-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#98701d",
+   "kind": "mcq",
+   "stem": "Which lung volumes fall in restrictive lung disease?",
+   "options": [
+    "Residual volume only",
+    "Expiratory reserve volume only",
+    "TLC, VC and tidal volume",
+    "Residual volume and FRC"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#e4d5f8",
+   "kind": "statement",
+   "stem": "Which structures, when diseased, cause restrictive lung disease?",
+   "answer": "Lung parenchyma, pleura, chest wall or neuromuscular apparatus.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#bd7ddb",
+   "kind": "mcq",
+   "stem": "Which is an intrinsic cause of restrictive lung disease?",
+   "options": [
+    "Emphysema",
+    "Chronic bronchitis",
+    "Asthma",
+    "Pulmonary fibrosis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#3877d1",
+   "kind": "statement",
+   "stem": "What does an extrinsic cause of restrictive lung disease involve?",
+   "answer": "Mechanical causes outside the lung.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#2d0d1f",
+   "kind": "statement",
+   "stem": "How do patients with restrictive lung disease minimise their work of breathing?",
+   "answer": "Rapid, small breaths.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#1b60d2",
+   "kind": "statement",
+   "stem": "Which posture do restrictive lung disease patients often prefer?",
+   "answer": "Sitting upright.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#5943de",
+   "kind": "statement",
+   "stem": "How is intrinsic restrictive lung disease treated medically?",
+   "answer": "Oral steroids, immunosuppressants, or lung transplant.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#4b302f",
+   "kind": "statement",
+   "stem": "How is extrinsic restrictive lung disease managed medically?",
+   "answer": "Treat the cause, if possible.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#a68c9e",
+   "kind": "statement",
+   "stem": "Which preoperative feature is important to assess in restrictive lung disease?",
+   "answer": "Exercise tolerance.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#878471",
+   "kind": "statement",
+   "stem": "How should preoperative investigations be chosen in restrictive lung disease?",
+   "answer": "Guided by the cause.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#fe1c86",
+   "kind": "mcq",
+   "stem": "What does a raised CO2 on arterial blood gas mean in restrictive lung disease?",
+   "options": [
+    "Early-stage disease",
+    "Normal lung function",
+    "Very late-stage disease",
+    "Excellent exercise tolerance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#154972",
+   "kind": "statement",
+   "stem": "In restrictive lung disease, when should preoperative tests be repeated?",
+   "answer": "If not done in the last 8wks.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#930e2e",
+   "kind": "mcq",
+   "stem": "What vital capacity suggests severe dysfunction in restrictive lung disease?",
+   "options": [
+    "Above 15ml/kg",
+    "Below 15ml/kg",
+    "Above 40ml/kg",
+    "Above 60ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#a01a7b",
+   "kind": "statement",
+   "stem": "Who should help optimise a restrictive lung disease patient before surgery?",
+   "answer": "Their respiratory physician.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#7fc25f",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is preferred in restrictive lung disease if possible?",
+   "options": [
+    "Deep inhalational anaesthesia only",
+    "Regional anaesthesia",
+    "Sedation with a laryngeal mask",
+    "Awake tracheal intubation first"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#b9450a",
+   "kind": "mcq",
+   "stem": "If a restrictive lung disease patient is ventilated under general anaesthesia, how should ventilation be set?",
+   "options": [
+    "Low rate, large volumes, high airway pressures",
+    "High rate, small volumes, low airway pressures",
+    "Low rate, small volumes, high airway pressures",
+    "High rate, large volumes, high airway pressures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#6f35cc",
+   "kind": "statement",
+   "stem": "A restrictive lung disease patient on steroids may need what intraoperatively?",
+   "answer": "A higher steroid dose.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#c619e7",
+   "kind": "statement",
+   "stem": "Which complication should be watched for closely intraoperatively in restrictive lung disease?",
+   "answer": "Pneumothorax.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#c020d3",
+   "kind": "mcq",
+   "stem": "Where should a restrictive lung disease patient be managed after surgery?",
+   "options": [
+    "Day surgery unit",
+    "Standard ward with routine observations",
+    "ICU or HDU",
+    "Recovery area for 30 minutes only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#6b4b56",
+   "kind": "mcq",
+   "stem": "How should a restrictive lung disease patient be positioned at extubation?",
+   "options": [
+    "Lying flat",
+    "Sitting up",
+    "Head-down tilt",
+    "Prone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/restrictive-lung-disease#d3b495",
+   "kind": "statement",
+   "stem": "How should a chest infection be handled after surgery in restrictive lung disease?",
+   "answer": "Treat it early.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "topic": "comorbidities/mitral-regurgitation",
+ "questions": [
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#bd9fff",
+   "kind": "statement",
+   "stem": "Which guideline grades the severity of mitral regurgitation?",
+   "answer": "2020 AHA valvular heart disease criteria",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#085344",
+   "kind": "mcq",
+   "stem": "In asymptomatic mitral regurgitation, what functional capacity threshold in METs applies?",
+   "options": [
+    "Less than 2 METs",
+    "Less than 6 METs",
+    "Less than 4 METs",
+    "Less than 10 METs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#a61d3f",
+   "kind": "statement",
+   "stem": "In mitral regurgitation with mitral stenosis, what should guide management?",
+   "answer": "The dominant lesion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#3ff4f8",
+   "kind": "mcq",
+   "stem": "When should symptomatic severe MR meeting intervention criteria be treated relative to elective non-cardiac surgery?",
+   "options": [
+    "After the elective surgery",
+    "Before elective non-cardiac surgery",
+    "Only if the surgery is urgent",
+    "Not needed for elective surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#c4494d",
+   "kind": "statement",
+   "stem": "What should be done with antiarrhythmic drugs before surgery in mitral regurgitation?",
+   "answer": "Continue them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#4b6abf",
+   "kind": "statement",
+   "stem": "How should warfarin be handled before surgery in mitral regurgitation?",
+   "answer": "Switch to heparin bridging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#a39e9f",
+   "kind": "statement",
+   "stem": "How should premedication be given in mitral regurgitation?",
+   "answer": "Titrate it carefully",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#fd12bc",
+   "kind": "mcq",
+   "stem": "Which intraoperative ECG monitoring is used in mitral regurgitation?",
+   "options": [
+    "3-lead ECG",
+    "5-lead ECG",
+    "12-lead ECG",
+    "Single-lead ECG"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#4b4015",
+   "kind": "mcq",
+   "stem": "When should the arterial line be placed in mitral regurgitation?",
+   "options": [
+    "After induction",
+    "Before induction",
+    "After surgical incision",
+    "Only if hypotension occurs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#d46309",
+   "kind": "statement",
+   "stem": "Which central venous line is placed to guide fluids in mitral regurgitation?",
+   "answer": "CVP line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#064a36",
+   "kind": "statement",
+   "stem": "Which pulmonary artery line is used to guide fluids in mitral regurgitation?",
+   "answer": "PA catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#b705ba",
+   "kind": "mcq",
+   "stem": "How are central neuraxial blocks tolerated in mitral regurgitation?",
+   "options": [
+    "Poorly tolerated",
+    "Contraindicated",
+    "Only with general anaesthesia",
+    "Well tolerated"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#d53dae",
+   "kind": "mcq",
+   "stem": "What heart rate is targeted in mitral regurgitation?",
+   "options": [
+    "Low, 50-60 bpm",
+    "Tachycardic, above 110 bpm",
+    "High-normal, 80-90 bpm",
+    "Bradycardic, 40-50 bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#cf7267",
+   "kind": "mcq",
+   "stem": "Which rhythm should be kept in mitral regurgitation?",
+   "options": [
+    "Atrial fibrillation",
+    "Sinus rhythm",
+    "Junctional rhythm",
+    "Ventricular paced rhythm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#72084c",
+   "kind": "blank",
+   "stem": "In mitral regurgitation, aim for ____ preload.",
+   "answer": "normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#6fd16d",
+   "kind": "statement",
+   "stem": "Which two vascular resistances should be kept low in mitral regurgitation?",
+   "answer": "SVR and PVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#b201e2",
+   "kind": "blank",
+   "stem": "In mitral regurgitation, aim for ____ contractility.",
+   "answer": "normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#fdbca1",
+   "kind": "mcq",
+   "stem": "Which device can reduce afterload during bypass in mitral regurgitation?",
+   "options": [
+    "Cell saver",
+    "IABP",
+    "PA catheter",
+    "Pacing wire"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-regurgitation#8389d6",
+   "kind": "statement",
+   "stem": "How does perioperative management of mitral valve prolapse compare with MR?",
+   "answer": "Similar to MR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

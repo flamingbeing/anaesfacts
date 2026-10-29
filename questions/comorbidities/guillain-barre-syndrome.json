@@ -1,0 +1,55 @@
+{
+ "topic": "comorbidities/guillain-barre-syndrome",
+ "questions": [
+  {
+   "fact_id": "comorbidities/guillain-barre-syndrome#7b2250",
+   "kind": "mcq",
+   "stem": "Which risk is increased in Guillain-Barré syndrome before anaesthesia?",
+   "options": [
+    "Increased bleeding risk",
+    "Increased aspiration risk",
+    "Increased hypothermia risk",
+    "Increased pressure injury risk"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/guillain-barre-syndrome#ec238e",
+   "kind": "mcq",
+   "stem": "Which induction approach should be considered in Guillain-Barré syndrome?",
+   "options": [
+    "Slow inhalational induction",
+    "Sedation without airway protection",
+    "Rapid sequence induction",
+    "Spinal anaesthesia as induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/guillain-barre-syndrome#1e820f",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker should be avoided in Guillain-Barré syndrome?",
+   "options": [
+    "Rocuronium",
+    "Vecuronium",
+    "Suxamethonium (succinylcholine)",
+    "Cisatracurium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/guillain-barre-syndrome#9722b6",
+   "kind": "blank",
+   "stem": "In Guillain-Barré syndrome, minimise muscle relaxants and ____.",
+   "answer": "opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

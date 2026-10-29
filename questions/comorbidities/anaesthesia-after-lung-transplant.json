@@ -1,0 +1,123 @@
+{
+ "topic": "comorbidities/anaesthesia-after-lung-transplant",
+ "questions": [
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#89a628",
+   "kind": "statement",
+   "stem": "Why is there a risk of silent aspiration after lung transplant?",
+   "answer": "Cough reflex lost and mucosal sensitivity reduced",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#eff071",
+   "kind": "statement",
+   "stem": "What does impaired ciliary clearance in a transplanted lung cause?",
+   "answer": "Sputum retention and infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#4326b5",
+   "kind": "mcq",
+   "stem": "Which response is still intact in a transplanted, denervated lung?",
+   "options": [
+    "Cough reflex",
+    "Mucosal sensitivity",
+    "Hypoxic pulmonary vasoconstriction",
+    "Ciliary clearance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#0a0fdf",
+   "kind": "statement",
+   "stem": "What happens to the lymphatics of a lung at transplant?",
+   "answer": "They are cut",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#cd7748",
+   "kind": "mcq",
+   "stem": "When does lymphatic drainage return after lung transplant?",
+   "options": [
+    "About 1 week",
+    "About 4 weeks",
+    "About 12 weeks",
+    "About 1 year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#b72132",
+   "kind": "statement",
+   "stem": "In a single lung transplant, how do native and graft lung compliance usually compare?",
+   "answer": "They often differ greatly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#9912ab",
+   "kind": "mcq",
+   "stem": "How should a double-lumen tube be placed after single lung transplant?",
+   "options": [
+    "Blindly, without guidance",
+    "With the tube pushed deep",
+    "Under fibreoptic guidance",
+    "By palpation alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#c5ab43",
+   "kind": "statement",
+   "stem": "Why can acute rejection after lung transplant be hard to recognise?",
+   "answer": "It is very hard to tell from infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#585d57",
+   "kind": "mcq",
+   "stem": "Which cardiac problems may a lung transplant recipient have?",
+   "options": [
+    "Left ventricular hypertrophy only",
+    "Mitral stenosis",
+    "Aortic regurgitation",
+    "Pulmonary hypertension and right ventricular failure"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#5c43b9",
+   "kind": "mcq",
+   "stem": "Which ventilation strategy protects a transplanted lung?",
+   "options": [
+    "High tidal volume ventilation",
+    "Hyperventilation to low CO2",
+    "Lung-protective ventilation",
+    "Prolonged prone positioning"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-lung-transplant#acbab6",
+   "kind": "statement",
+   "stem": "How should the bronchial anastomosis be protected during intubation after lung transplant?",
+   "answer": "Avoid placing the tube too deep; use bronchoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,685 @@
+{
+ "topic": "comorbidities/hypokalaemia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hypokalaemia#a6b3d2",
+   "kind": "mcq",
+   "stem": "Which serum potassium level defines hypokalaemia?",
+   "options": [
+    "Greater than 2.5 mEq/L",
+    "Less than 3.5 mEq/L",
+    "Greater than 5.5 mEq/L",
+    "Greater than 3.5 mEq/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#e2da52",
+   "kind": "statement",
+   "stem": "In a patient on digoxin, what should serum potassium be kept above?",
+   "answer": "4 mEq/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#d16a26",
+   "kind": "mcq",
+   "stem": "In hypokalaemia, which spot urine K:Cr ratio points to a gastrointestinal potassium loss?",
+   "options": [
+    "More than 1",
+    "About 3",
+    "Less than 1",
+    "More than 2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#cbb4c6",
+   "kind": "statement",
+   "stem": "In hypokalaemia, what does a spot urine K:Cr above 1 indicate?",
+   "answer": "Renal potassium loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#a972a7",
+   "kind": "statement",
+   "stem": "Which renal tubular conditions can cause renal potassium loss in hypokalaemia?",
+   "answer": "Renal tubular acidosis (types 1 and 2) and inherited tubular disorders",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#22abcd",
+   "kind": "mcq",
+   "stem": "Which primary hyperaldosteronism condition causes renal potassium loss and hypokalaemia?",
+   "options": [
+    "Addison's disease",
+    "Graves' disease",
+    "Conn's syndrome",
+    "Hashimoto's thyroiditis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#4af666",
+   "kind": "statement",
+   "stem": "In hypokalaemia, name two causes of secondary hyperaldosteronism.",
+   "answer": "Renovascular disease; renin-secreting tumour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#bcc23a",
+   "kind": "mcq",
+   "stem": "In hypokalaemia, which inhaled bronchodilator can lower serum potassium?",
+   "options": [
+    "Ipratropium",
+    "Tiotropium",
+    "Salbutamol",
+    "Glycopyrronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#46329e",
+   "kind": "mcq",
+   "stem": "In metabolic alkalosis, by how much does potassium fall per 0.1 rise in pH?",
+   "options": [
+    "More than 1 mEq/L",
+    "Less than 0.4 mEq/L",
+    "About 0.8 mEq/L",
+    "Exactly 0.1 mEq/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#f8d6a4",
+   "kind": "statement",
+   "stem": "In hypokalaemia, how does head injury lower serum potassium?",
+   "answer": "β2 adrenergic activity stimulates Na+/K+ ATPase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#bd4e80",
+   "kind": "mcq",
+   "stem": "Which treatment for pernicious anaemia can cause hypokalaemia by driving potassium into new cells?",
+   "options": [
+    "Thiamine",
+    "Iron sucrose",
+    "Vitamin B12",
+    "Ferric carboxymaltose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#bd4e80",
+   "kind": "statement",
+   "stem": "Which growth-factor therapy raises white cell production and can cause hypokalaemia?",
+   "answer": "Colony-stimulating factors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#603b8c",
+   "kind": "statement",
+   "stem": "In hypokalaemia work-up, how can spuriously low potassium from sampling be prevented?",
+   "answer": "Separate plasma quickly after sampling, or store blood at 4 degrees before assay",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#cc7a66",
+   "kind": "mcq",
+   "stem": "At what serum potassium range is hypokalaemia often asymptomatic?",
+   "options": [
+    "Below 1.5 mEq/L",
+    "3.0-3.5 mEq/L",
+    "1.5-2.0 mEq/L",
+    "2.0-2.5 mEq/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#6f5d51",
+   "kind": "mcq",
+   "stem": "Hypokalaemia causes ascending paralysis at what serum potassium level?",
+   "options": [
+    "Above 5",
+    "Above 6",
+    "Below 3",
+    "Above 4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#6f5d51",
+   "kind": "statement",
+   "stem": "At serum potassium below 2.5 mEq/L, which muscle condition can hypokalaemia cause?",
+   "answer": "Rhabdomyolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#6f5d51",
+   "kind": "statement",
+   "stem": "Rarely, hypokalaemic paralysis is complicated by which breathing problem?",
+   "answer": "Respiratory failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#53e7a5",
+   "kind": "mcq",
+   "stem": "What rhythm problems can hypokalaemia cause at variable potassium levels?",
+   "options": [
+    "Only slow rhythms",
+    "Only fast rhythms",
+    "Tachy- and bradyarrhythmias",
+    "No rhythm problems at all"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#b4f8b0",
+   "kind": "mcq",
+   "stem": "How much urine per day can hypokalaemia cause through a concentrating defect?",
+   "options": [
+    "About 2-3 L per day",
+    "About 0.5 L per day",
+    "About 5-6 L per day",
+    "About 10 L per day"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#b57282",
+   "kind": "mcq",
+   "stem": "In hypokalaemia with high blood pressure, which endocrine state should be considered?",
+   "options": [
+    "Hypothyroidism",
+    "Hypercortisolism",
+    "Hypoparathyroidism",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#9187cb",
+   "kind": "mcq",
+   "stem": "In hypokalaemia, which investigation predicts the clinical picture better than serum potassium?",
+   "options": [
+    "Chest X-ray",
+    "ECG",
+    "Liver function tests",
+    "Blood glucose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#e0acac",
+   "kind": "mcq",
+   "stem": "Which ECG finding is the key sign of hypokalaemia?",
+   "options": [
+    "Peaked T waves",
+    "Short PR interval",
+    "U waves",
+    "Wide QRS complexes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#e0acac",
+   "kind": "mcq",
+   "stem": "On which ECG leads are U waves best seen in hypokalaemia?",
+   "options": [
+    "V1 and aVR",
+    "II and III",
+    "aVL and aVF",
+    "V2 and V3"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#5f78ff",
+   "kind": "mcq",
+   "stem": "In hypokalaemia, what spot urine K:Cr value should be below?",
+   "options": [
+    "3.5 mEq/mmol",
+    "1.5 mEq/mmol",
+    "6.0 mEq/mmol",
+    "10 mEq/mmol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#5f78ff",
+   "kind": "statement",
+   "stem": "Why does a spot urine K:Cr ratio correct for variable urine volume?",
+   "answer": "Creatinine excretion is near constant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#704504",
+   "kind": "mcq",
+   "stem": "Which urine test is the most accurate for measuring potassium loss?",
+   "options": [
+    "Spot urine K:Cr",
+    "24 h urine K",
+    "Urine sodium",
+    "Urine osmolality"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#704504",
+   "kind": "mcq",
+   "stem": "In hypokalaemia, below what amount per day should 24 h urine potassium be?",
+   "options": [
+    "60-80 mEq/day",
+    "25-30 mEq/day",
+    "100-120 mEq/day",
+    "150-200 mEq/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#8fdd9b",
+   "kind": "mcq",
+   "stem": "In hypokalaemia with muscle pain or weakness, which blood test should be checked?",
+   "options": [
+    "Creatine kinase",
+    "Troponin",
+    "Lactate",
+    "Amylase"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#803173",
+   "kind": "statement",
+   "stem": "In hypokalaemia, what should the potassium pattern be read alongside?",
+   "answer": "Acid-base status",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#cd62fb",
+   "kind": "statement",
+   "stem": "Why can hypokalaemia fail to correct despite potassium replacement?",
+   "answer": "Low magnesium; magnesium must be replaced",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#c1fa5a",
+   "kind": "statement",
+   "stem": "In hypokalaemia, when is oral potassium replacement suitable?",
+   "answer": "Asymptomatic, K above 3.0, and able to take oral drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#6331d7",
+   "kind": "mcq",
+   "stem": "How many Span-K 600 mg tablets are taken once to twice daily?",
+   "options": [
+    "1-2 tablets",
+    "3-4 tablets",
+    "5-6 tablets",
+    "8-10 tablets"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#30e368",
+   "kind": "mcq",
+   "stem": "How much potassium is in one Span-K 600 mg tablet?",
+   "options": [
+    "10 mmol",
+    "8 mmol",
+    "13.4 mmol",
+    "20 mmol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#4df3d7",
+   "kind": "mcq",
+   "stem": "How much Mist KCl is given per dose in hypokalaemia?",
+   "options": [
+    "5-10 ml",
+    "20-30 ml",
+    "50 ml",
+    "100 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#379e43",
+   "kind": "mcq",
+   "stem": "How much potassium does 10 ml of Mist KCl contain?",
+   "options": [
+    "8 mmol",
+    "10 mmol",
+    "13.4 mmol",
+    "20 mmol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#248b5a",
+   "kind": "mcq",
+   "stem": "How much potassium is in 10 ml of potassium citrate?",
+   "options": [
+    "13.4 mmol",
+    "28 mmol",
+    "8 mmol",
+    "40 mmol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#248b5a",
+   "kind": "mcq",
+   "stem": "How much potassium is in one potassium citrate tablet?",
+   "options": [
+    "8 mmol",
+    "20 mmol",
+    "10 mmol",
+    "28 mmol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#12b4a5",
+   "kind": "mcq",
+   "stem": "Oral potassium of 40 to 100 mEq per day is given in how many divided doses?",
+   "options": [
+    "One dose",
+    "2 to 5 doses",
+    "6 to 8 doses",
+    "10 to 12 doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#12b4a5",
+   "kind": "mcq",
+   "stem": "What total oral potassium range per day is given in hypokalaemia?",
+   "options": [
+    "5 to 10 mEq per day",
+    "40 to 100 mEq per day",
+    "120 to 150 mEq per day",
+    "200 to 250 mEq per day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#bfab76",
+   "kind": "mcq",
+   "stem": "What is the maximum single oral potassium dose?",
+   "options": [
+    "60 mEq",
+    "40 mEq",
+    "100 mEq",
+    "200 mEq"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#7093aa",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral potassium dose?",
+   "options": [
+    "300 mEq",
+    "200 mEq",
+    "400 mEq",
+    "250 mEq"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#0f752e",
+   "kind": "mcq",
+   "stem": "How long after starting oral potassium should serum K be rechecked?",
+   "options": [
+    "12 hours",
+    "30 minutes",
+    "3 days",
+    "1 week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#59f21c",
+   "kind": "statement",
+   "stem": "In hypokalaemia, when is IV potassium replacement indicated rather than oral?",
+   "answer": "Symptoms, ECG changes, or K below 3.0 (severe)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#41970e",
+   "kind": "statement",
+   "stem": "What potassium amounts are available in a 100 ml KCl bag?",
+   "answer": "10 mmol or 20 mmol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#f73d6a",
+   "kind": "mcq",
+   "stem": "By how much does 10 mmol of IV potassium raise serum K?",
+   "options": [
+    "About 0.5 mmol/L",
+    "About 0.1 mmol/L",
+    "About 1 mmol/L",
+    "About 0.01 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#934221",
+   "kind": "mcq",
+   "stem": "What is the maximum potassium that can be given via a peripheral vein?",
+   "options": [
+    "40 mmol",
+    "10 mmol",
+    "30 mmol",
+    "60 mmol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#934221",
+   "kind": "mcq",
+   "stem": "What is the maximum potassium that can be given via a central line?",
+   "options": [
+    "40 mmol",
+    "30 mmol",
+    "60 mmol",
+    "20 mmol"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#349644",
+   "kind": "mcq",
+   "stem": "Which potassium preparation suits hypokalaemia when phosphate is also low?",
+   "options": [
+    "Potassium chloride",
+    "Potassium citrate",
+    "Potassium dihydrogen phosphate (KH2PO4)",
+    "Potassium bicarbonate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#25d91e",
+   "kind": "mcq",
+   "stem": "After IV potassium, how long later should symptoms, ECG and K be rechecked?",
+   "options": [
+    "30 minutes",
+    "24 hours",
+    "2 hours",
+    "3 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#584d60",
+   "kind": "mcq",
+   "stem": "What is the maximum IV potassium rate on a general ward for non-urgent replacement?",
+   "options": [
+    "20 mmol/hour",
+    "10 mmol/hour",
+    "40 mmol/hour",
+    "60 mmol/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#584d60",
+   "kind": "mcq",
+   "stem": "What is the maximum IV potassium rate when urgent, with continuous cardiac monitoring?",
+   "options": [
+    "60 mmol/hour",
+    "40 mmol/hour",
+    "80 mmol/hour",
+    "100 mmol/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#221d3c",
+   "kind": "mcq",
+   "stem": "Roughly what share of total body potassium is lost per 1 mEq/L fall in serum K?",
+   "options": [
+    "About 1%",
+    "About 10%",
+    "About 25%",
+    "About 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#b0295c",
+   "kind": "mcq",
+   "stem": "What total potassium deficit does a serum K of 3 mEq/L imply?",
+   "options": [
+    "50 mEq",
+    "100 mEq",
+    "175 mEq",
+    "300 mEq"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#65b78c",
+   "kind": "mcq",
+   "stem": "In a patient on digoxin, which serum potassium target applies?",
+   "options": [
+    "Above 2",
+    "Above 4",
+    "Above 6",
+    "Below 3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypokalaemia#c05a3b",
+   "kind": "mcq",
+   "stem": "What serum potassium counts as critical hypokalaemia?",
+   "options": [
+    "Above 5 mmol/L",
+    "Below 3.5 mmol/L",
+    "Above 6 mmol/L",
+    "Below 2 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "topic": "comorbidities/lumbar-spinal-stenosis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/lumbar-spinal-stenosis#0911f8",
+   "kind": "blank",
+   "stem": "In lumbar spinal stenosis, neuraxial anaesthesia may be difficult or contraindicated after previous spinal ____.",
+   "answer": "instrumentation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/lumbar-spinal-stenosis#f3eda2",
+   "kind": "statement",
+   "stem": "What two findings should be documented before anaesthesia in lumbar spinal stenosis?",
+   "answer": "Existing back pain and neurological deficits",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

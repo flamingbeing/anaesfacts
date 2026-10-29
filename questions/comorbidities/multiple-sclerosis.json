@@ -1,0 +1,89 @@
+{
+ "topic": "comorbidities/multiple-sclerosis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#c8cb06",
+   "kind": "statement",
+   "stem": "Which temperature problem should be prevented in multiple sclerosis surgery?",
+   "answer": "Hyperthermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#415ec0",
+   "kind": "mcq",
+   "stem": "Which muscle relaxant should be avoided in multiple sclerosis?",
+   "options": [
+    "Rocuronium",
+    "Suxamethonium",
+    "Atracurium",
+    "Cisatracurium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#2c16a1",
+   "kind": "statement",
+   "stem": "Which function should be monitored in patients with multiple sclerosis undergoing anaesthesia?",
+   "answer": "Respiratory function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#a29e51",
+   "kind": "statement",
+   "stem": "Which two things should be avoided in patients with multiple sclerosis?",
+   "answer": "Pain and stress",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#4a56d8",
+   "kind": "statement",
+   "stem": "What should be documented before surgery in multiple sclerosis?",
+   "answer": "Baseline motor, sensory and autonomic deficits",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#8ae4a8",
+   "kind": "mcq",
+   "stem": "What is usually done with disease-modifying therapies in multiple sclerosis around surgery?",
+   "options": [
+    "Stop them permanently",
+    "Continue them",
+    "Double the dose",
+    "Replace them with steroids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#802205",
+   "kind": "statement",
+   "stem": "In multiple sclerosis, what risk after recent relapse steroids may need stress-dose cover?",
+   "answer": "Adrenal suppression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#0b8bac",
+   "kind": "statement",
+   "stem": "In multiple sclerosis, which lesion sites can weaken respiratory drive and diaphragm function?",
+   "answer": "Medullary or cervical lesions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/multiple-sclerosis#83d577",
+   "kind": "statement",
+   "stem": "In multiple sclerosis, why is good multimodal analgesia important after surgery?",
+   "answer": "Physical and emotional stress can trigger relapse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "topic": "comorbidities/rib-fractures-flail-chest",
+ "questions": [
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#d0a942",
+   "kind": "mcq",
+   "stem": "In rib fractures, which patients can fracture ribs from minor trauma?",
+   "options": [
+    "Young athletes",
+    "The elderly",
+    "Children under five",
+    "Pregnant women"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#a52ea4",
+   "kind": "mcq",
+   "stem": "Which rib fracture complication is caused by a broken rib puncturing the lung?",
+   "options": [
+    "Acute pancreatitis",
+    "Pneumothorax",
+    "Renal failure",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#3ce385",
+   "kind": "statement",
+   "stem": "Name the rib fracture complication where blood collects in the pleural space.",
+   "answer": "Haemothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#d75a45",
+   "kind": "statement",
+   "stem": "Name the rib fracture complication where a segment of chest wall is unstable.",
+   "answer": "Flail chest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#cce718",
+   "kind": "mcq",
+   "stem": "Which extra views should a chest X-ray include for rib fractures?",
+   "options": [
+    "Oblique views",
+    "Lordotic views only",
+    "Apical views only",
+    "Lateral decubitus views only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#9108ee",
+   "kind": "mcq",
+   "stem": "Which imaging test is the most sensitive for rib fractures?",
+   "options": [
+    "Bone density scan",
+    "Barium swallow",
+    "CT",
+    "Electrocardiogram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#bb2322",
+   "kind": "mcq",
+   "stem": "After how long do rib fractures usually become fairly stable?",
+   "options": [
+    "Two to four hours",
+    "10 days to two weeks",
+    "Six months",
+    "Three to five days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#b712ee",
+   "kind": "mcq",
+   "stem": "By about what point does solid callus usually form after rib fractures?",
+   "options": [
+    "About two days",
+    "About two weeks",
+    "About six weeks",
+    "About three months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#3d566a",
+   "kind": "mcq",
+   "stem": "In which rib fracture situation is surgical fixation especially indicated?",
+   "options": [
+    "Any single rib fracture",
+    "Mild pain in a well patient",
+    "Flail chest with respiratory compromise",
+    "Small pneumothorax on X-ray"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#11b03b",
+   "kind": "mcq",
+   "stem": "Why does a stiff, non-ventilated lung matter in ICU rib fracture patients?",
+   "options": [
+    "Dead space and a rise in PaCO2",
+    "Bronchospasm and wheeze",
+    "Shunt and a fall in PaO2",
+    "Hyperthermia and tachycardia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#ab3c6a",
+   "kind": "mcq",
+   "stem": "What is the cornerstone of analgesia in rib fractures?",
+   "options": [
+    "Opioid monotherapy alone",
+    "Routine sedation only",
+    "Effective multimodal analgesia",
+    "Avoiding all analgesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#ab3c6a",
+   "kind": "statement",
+   "stem": "What complication does effective analgesia reduce in rib fractures?",
+   "answer": "Pulmonary complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#6a3790",
+   "kind": "mcq",
+   "stem": "Why might surgical rib fixation be needed in rib fractures?",
+   "options": [
+    "To treat hypothermia",
+    "To correct anaemia",
+    "To control pain",
+    "To treat delirium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#a8fa78",
+   "kind": "mcq",
+   "stem": "What longer-term problem may develop after rib fractures?",
+   "options": [
+    "Permanent deafness",
+    "Chronic pain",
+    "Improved lung volume",
+    "Rapid bone healing"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#8b8b01",
+   "kind": "mcq",
+   "stem": "Which basic measure is part of rib fracture ventilatory management?",
+   "options": [
+    "Prone positioning only",
+    "Supplemental oxygen",
+    "Tracheostomy at admission",
+    "Nebulised adrenaline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#41df0e",
+   "kind": "mcq",
+   "stem": "Which ventilation strategy is used for rib fractures, as for pulmonary contusion?",
+   "options": [
+    "High tidal volume ventilation",
+    "Lung protective ventilation",
+    "Prone positioning only",
+    "CPAP only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#286ea2",
+   "kind": "mcq",
+   "stem": "Which physiotherapy measure is used in rib fracture ventilatory management?",
+   "options": [
+    "Hyperbaric oxygen",
+    "Incentive spirometry",
+    "Chelation therapy",
+    "Nasal steroid spray"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#f9b08d",
+   "kind": "mcq",
+   "stem": "What does surgical fixation aim to restore in rib fractures?",
+   "options": [
+    "Blood pressure",
+    "Breathing mechanics",
+    "Body temperature",
+    "Serum sodium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/rib-fractures-flail-chest#684f71",
+   "kind": "mcq",
+   "stem": "Which is part of flail chest management?",
+   "options": [
+    "Immediate sternotomy",
+    "Invasive ventilation",
+    "Routine chest drain removal",
+    "Discharge with analgesia only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

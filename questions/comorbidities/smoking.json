@@ -1,0 +1,377 @@
+{
+ "topic": "comorbidities/smoking",
+ "questions": [
+  {
+   "fact_id": "comorbidities/smoking#9f227d",
+   "kind": "mcq",
+   "stem": "When a smoker stops before elective surgery, which aid should be offered?",
+   "options": [
+    "Oral prednisolone course",
+    "Nicotine replacement therapy",
+    "Intravenous iron infusion",
+    "Oral vitamin D supplement"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#5bdd32",
+   "kind": "blank",
+   "stem": "In a smoker with irritable airways, instrument the airway when the patient is ____.",
+   "answer": "deep",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#1ffd50",
+   "kind": "statement",
+   "stem": "Which cardiorespiratory conditions are linked to smoking?",
+   "answer": "COPD, pulmonary hypertension and RV strain, IHD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#7ffcd2",
+   "kind": "mcq",
+   "stem": "What two phases make up cigarette smoke?",
+   "options": [
+    "Liquid and crystalline phases",
+    "Solid and plasma phases",
+    "Gas and particulate phases",
+    "Vapour and ionic phases"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#7ca653",
+   "kind": "statement",
+   "stem": "What does passive smoking expose bystanders to?",
+   "answer": "Carcinogens and toxins in second-hand smoke",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#dd77cb",
+   "kind": "blank",
+   "stem": "The main gas-phase component of cigarette smoke is ____.",
+   "answer": "Carbon monoxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#3d2491",
+   "kind": "mcq",
+   "stem": "How much stronger is carbon monoxide's binding to haemoglobin than oxygen's?",
+   "options": [
+    "20 times",
+    "2 times",
+    "200 times",
+    "50 times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#3d2491",
+   "kind": "statement",
+   "stem": "How does carbon monoxide in smoke affect tissue oxygen delivery?",
+   "answer": "Reduces it by raising COHb",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#30324d",
+   "kind": "blank",
+   "stem": "The main particulate component of cigarette smoke is ____.",
+   "answer": "Nicotine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#fbafa8",
+   "kind": "statement",
+   "stem": "In cigarette smoke, what is tar?",
+   "answer": "The nicotine-free remainder of the particulate phase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#79c540",
+   "kind": "mcq",
+   "stem": "Roughly what proportion of smokers have COPD?",
+   "options": [
+    "About 5%",
+    "About 20%",
+    "About 50%",
+    "About 80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#e6575d",
+   "kind": "mcq",
+   "stem": "What COHb level is typical in smokers?",
+   "options": [
+    "3-5%",
+    "8-15%",
+    "20-30%",
+    "40-50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#24ced4",
+   "kind": "statement",
+   "stem": "Which neurological effects are linked to smoking?",
+   "answer": "Addiction and dependence, anxiety",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#e779e5",
+   "kind": "mcq",
+   "stem": "Why might smokers have less postoperative nausea and vomiting?",
+   "options": [
+    "Slower volatile metabolism via CYP2E1",
+    "Reduced gastric acid via CYP2E1",
+    "Faster volatile metabolism via CYP2E1",
+    "Faster volatile metabolism via CYP3A4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#49b1e2",
+   "kind": "statement",
+   "stem": "What renal effect does smoking have on hormone secretion?",
+   "answer": "More ADH secretion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#972fd4",
+   "kind": "mcq",
+   "stem": "How long before elective surgery should a smoker ideally stop?",
+   "options": [
+    "1-2 days",
+    "2 weeks",
+    "4-8 weeks or more",
+    "On the day of surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#0f69bf",
+   "kind": "mcq",
+   "stem": "Which smoking-cessation drug is usually started 1–2 weeks before quitting?",
+   "options": [
+    "Intravenous ketamine",
+    "Sustained-release morphine",
+    "Sustained-release bupropion",
+    "Oral prednisolone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#850017",
+   "kind": "mcq",
+   "stem": "In smoking cessation, how many hours before surgery should a smoker stop?",
+   "options": [
+    "12-24h before",
+    "2-4 weeks before",
+    "6-12 months before",
+    "48-72h before"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#4ce678",
+   "kind": "mcq",
+   "stem": "How long before surgery should a smoker stop for complication rates to approach a non-smoker's?",
+   "options": [
+    "6 weeks before",
+    "6 months before",
+    "2 weeks before",
+    "12 months before"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#58bcf4",
+   "kind": "mcq",
+   "stem": "Stopping smoking less than 4-8 weeks before surgery may increase which airway secretion?",
+   "options": [
+    "Saliva",
+    "Tears",
+    "Sputum",
+    "Gastric juice"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#a2933e",
+   "kind": "mcq",
+   "stem": "Stopping smoking 4-8 weeks before surgery improves which airway function?",
+   "options": [
+    "Renal clearance",
+    "Hepatic clearance",
+    "Lymphatic drainage",
+    "Mucociliary clearance"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#411eb0",
+   "kind": "statement",
+   "stem": "Which pulmonary problems are key considerations in smokers undergoing anaesthesia?",
+   "answer": "Airway irritability, mucus, obstructive disease, pneumonia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#0f3f15",
+   "kind": "statement",
+   "stem": "Which cardiovascular problems are key considerations in smokers undergoing anaesthesia?",
+   "answer": "Myocardial ischaemia and arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#432372",
+   "kind": "mcq",
+   "stem": "Which postoperative problem is a key consideration in smokers?",
+   "options": [
+    "Lower opioid needs",
+    "Higher opioid needs",
+    "Higher antiemetic needs",
+    "Lower antibiotic needs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#59a0d6",
+   "kind": "mcq",
+   "stem": "Preoperative assessment of a smoker: what stopping interval is ideal?",
+   "options": [
+    "Less than 48 hours before",
+    "Two to three days before",
+    "On the morning of surgery",
+    "More than 6-8 weeks before"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#08908b",
+   "kind": "statement",
+   "stem": "In a smoker's preoperative assessment, what chest problem should be looked for?",
+   "answer": "An active chest infection or infective exacerbation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#6c0798",
+   "kind": "blank",
+   "stem": "Besides COPD, a smoker's other comorbidities should be optimised, especially the ____ ones.",
+   "answer": "cardiovascular",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#32d87c",
+   "kind": "mcq",
+   "stem": "For a smoker needing surgery, which technique is preferred over general anaesthesia?",
+   "options": [
+    "Total intravenous anaesthesia",
+    "Regional anaesthesia",
+    "Inhalational induction alone",
+    "Sedation with oxygen only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#0b3507",
+   "kind": "mcq",
+   "stem": "Why ensure adequate depth and analgesia before airway handling in smokers?",
+   "options": [
+    "To speed gastric emptying",
+    "To limit bronchospasm and laryngospasm",
+    "To prevent postoperative shivering",
+    "To reduce carboxyhaemoglobin levels"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#d4520f",
+   "kind": "mcq",
+   "stem": "Why humidify and warm inspired gases in a smoker?",
+   "options": [
+    "To prevent postoperative nausea",
+    "To lower heart rate",
+    "To prevent mucus plugging",
+    "To reduce arterial pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#856cd7",
+   "kind": "statement",
+   "stem": "What should be done about airway secretions before extubation in a smoker?",
+   "answer": "Suction secretions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#0bcf9d",
+   "kind": "statement",
+   "stem": "What monitoring and oxygen should a smoker receive postoperatively?",
+   "answer": "Continuous SpO2; supplemental oxygen as needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/smoking#2b5d9a",
+   "kind": "mcq",
+   "stem": "Why is good analgesia important after abdominal or thoracic surgery in smokers?",
+   "options": [
+    "To raise carboxyhaemoglobin",
+    "To prevent renal ADH release",
+    "To speed gastric emptying",
+    "To protect breathing"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

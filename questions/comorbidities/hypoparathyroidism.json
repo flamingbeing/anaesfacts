@@ -1,0 +1,113 @@
+{
+ "topic": "comorbidities/hypoparathyroidism",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#f0a14a",
+   "kind": "mcq",
+   "stem": "Which neck treatment can cause hypoparathyroidism?",
+   "options": [
+    "Lithium therapy",
+    "Iodine supplementation",
+    "Radiotherapy to the neck",
+    "Thyroid hormone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#986be5",
+   "kind": "mcq",
+   "stem": "Which corrected calcium level counts as low before surgery in hypoparathyroidism?",
+   "options": [
+    "Below 1.5 mmol/l",
+    "Below 2.0 mmol/l",
+    "Below 2.6 mmol/l",
+    "Below 2.2 mmol/l"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#36f9d7",
+   "kind": "mcq",
+   "stem": "When does calcium reach its lowest after parathyroidectomy?",
+   "options": [
+    "About 20 hours",
+    "About 6 hours",
+    "About 72 hours",
+    "About 96 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#36f9d7",
+   "kind": "blank",
+   "stem": "After parathyroidectomy, calcium normalises by day ____.",
+   "answer": "2-3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#da27fc",
+   "kind": "mcq",
+   "stem": "In hypoparathyroidism, what is the preoperative IV calcium gluconate regimen?",
+   "options": [
+    "Calcium gluconate 10% 5 ml IV over 10 min",
+    "Calcium chloride 10% 10 ml IV over 10 min",
+    "Calcium gluconate 10% 10 ml oral twice daily",
+    "Calcium gluconate 10% 10 ml IV over 10 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#ac897e",
+   "kind": "statement",
+   "stem": "Besides calcium, which electrolyte should be replaced before surgery in hypoparathyroidism?",
+   "answer": "Magnesium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#2ac9a8",
+   "kind": "mcq",
+   "stem": "In hypoparathyroidism, when should low calcium be corrected?",
+   "options": [
+    "Only after surgery",
+    "Only during surgery",
+    "Correct before theatre",
+    "Only if symptomatic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#281a66",
+   "kind": "statement",
+   "stem": "In hypoparathyroidism, what should be monitored during anaesthesia?",
+   "answer": "Neuromuscular blockade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypoparathyroidism#998773",
+   "kind": "mcq",
+   "stem": "In hypoparathyroidism, what should be monitored after surgery?",
+   "options": [
+    "Potassium",
+    "Sodium",
+    "Calcium",
+    "Glucose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

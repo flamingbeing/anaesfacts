@@ -1,0 +1,525 @@
+{
+ "topic": "comorbidities/myopathies-children",
+ "questions": [
+  {
+   "fact_id": "comorbidities/myopathies-children#2b97c6",
+   "kind": "statement",
+   "stem": "In childhood myopathies, how are the inherited disorders of muscle function classified?",
+   "answer": "By molecular and enzyme defect, often with typical histology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#48a310",
+   "kind": "mcq",
+   "stem": "How do age of onset and severity behave in inherited childhood myopathies?",
+   "options": [
+    "Identical in all affected family members",
+    "Always milder in later generations",
+    "Varies widely, even within families",
+    "Always present from birth"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#e3a770",
+   "kind": "mcq",
+   "stem": "In central core disease, round cores of myofibrils are seen in which fibres?",
+   "options": [
+    "In type 2 fibres only",
+    "In both fibre types equally",
+    "Only in type 1 fibres",
+    "Around the nuclei of all fibres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#2db94b",
+   "kind": "statement",
+   "stem": "How can central core disease present at birth?",
+   "answer": "Hypotonic at birth, with proximal weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#bcc534",
+   "kind": "statement",
+   "stem": "Which skeletal problems can occur in central core disease?",
+   "answer": "Congenital hip dislocation, pes cavus, kyphoscoliosis, joint hypermobility, short neck, mandibular hypoplasia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#b70a7e",
+   "kind": "mcq",
+   "stem": "Which investigation may be needed to diagnose central core disease?",
+   "options": [
+    "Serum lactate level",
+    "Lumbar puncture",
+    "Muscle biopsy",
+    "Chest X-ray"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#970315",
+   "kind": "mcq",
+   "stem": "How does central core disease usually progress?",
+   "options": [
+    "Rapidly progressive",
+    "Progressive after puberty",
+    "Relapsing and remitting",
+    "Non-progressive"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#278219",
+   "kind": "mcq",
+   "stem": "Which chromosome carries the central core disease gene, near the ryanodine receptor gene?",
+   "options": [
+    "Chromosome 5",
+    "Chromosome 17",
+    "Chromosome 19",
+    "Chromosome X"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#2143e4",
+   "kind": "mcq",
+   "stem": "Which myopathy is closely linked to malignant hyperthermia?",
+   "options": [
+    "Nemaline myopathy",
+    "Hypokalaemic periodic paralysis",
+    "Central core disease",
+    "Mitochondrial myopathy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#afc6ee",
+   "kind": "statement",
+   "stem": "Before surgery in central core disease, what should be assessed?",
+   "answer": "Muscle weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#82d51e",
+   "kind": "mcq",
+   "stem": "What are the nemaline bodies in nemaline myopathy mostly made of?",
+   "options": [
+    "Dystrophin",
+    "Ryanodine receptor",
+    "Alpha-actinin",
+    "Myosin heavy chain"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#1a7701",
+   "kind": "statement",
+   "stem": "Which muscles are typically weak in nemaline myopathy?",
+   "answer": "Proximal, facial, bulbar and respiratory muscles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#9a5632",
+   "kind": "blank",
+   "stem": "Nemaline myopathy can be autosomal recessive or ____.",
+   "answer": "dominant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#9a5632",
+   "kind": "mcq",
+   "stem": "Which chromosomes carry mutations in nemaline myopathy?",
+   "options": [
+    "5, 6 and 7",
+    "1, 2 and 19",
+    "11, 12 and 13",
+    "17, 18 and 20"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#d6af10",
+   "kind": "mcq",
+   "stem": "Which dysmorphic feature is common in nemaline myopathy?",
+   "options": [
+    "Macrognathia",
+    "Low-arched palate",
+    "Micrognathia",
+    "Hypotelorism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#58ff02",
+   "kind": "statement",
+   "stem": "Which cardiac defects can occur in nemaline myopathy?",
+   "answer": "Septal defects, PDA, aortic regurgitation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#1a15c3",
+   "kind": "statement",
+   "stem": "What respiratory problem is a nemaline myopathy patient prone to?",
+   "answer": "Recurrent aspiration and chest infections",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#e94183",
+   "kind": "mcq",
+   "stem": "Which airway statement fits nemaline myopathy?",
+   "options": [
+    "Intubation is always routine",
+    "Airway is never affected",
+    "Tracheal intubation may be difficult",
+    "Airway needs no special planning"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#79dcad",
+   "kind": "mcq",
+   "stem": "How do nemaline myopathy patients respond to suxamethonium?",
+   "options": [
+    "Hypersensitive to suxamethonium",
+    "Resistant to suxamethonium",
+    "Normal response to suxamethonium",
+    "Prolonged block after suxamethonium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#79dcad",
+   "kind": "mcq",
+   "stem": "How do nemaline myopathy patients respond to non-depolarising relaxants?",
+   "options": [
+    "Resistant to non-depolarising drugs",
+    "Unaffected by non-depolarising drugs",
+    "More sensitive to non-depolarising drugs",
+    "Needs double doses of non-depolarising drugs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#d16cd3",
+   "kind": "statement",
+   "stem": "What may a nemaline myopathy patient need after major surgery?",
+   "answer": "Postoperative ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#307fa6",
+   "kind": "mcq",
+   "stem": "What is the commonest cause of death in nemaline myopathy?",
+   "options": [
+    "Cardiac arrhythmia",
+    "Respiratory complications",
+    "Renal failure",
+    "Sepsis from infection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#81536a",
+   "kind": "statement",
+   "stem": "What is defective in mitochondrial myopathies?",
+   "answer": "Respiratory chain enzymes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#ff6680",
+   "kind": "mcq",
+   "stem": "What is commonly seen at presentation in mitochondrial myopathy?",
+   "options": [
+    "Diabetic ketoacidosis",
+    "Hypokalaemia",
+    "Lactic acidosis",
+    "Respiratory alkalosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#cbcbd1",
+   "kind": "mcq",
+   "stem": "What type of disorder is mitochondrial myopathy?",
+   "options": [
+    "Single-organ disorders",
+    "Purely muscular disorders",
+    "Isolated cardiac disorders",
+    "Multisystem disorders"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#dd923f",
+   "kind": "mcq",
+   "stem": "Which presentation can mitochondrial myopathy take?",
+   "options": [
+    "Hip fracture",
+    "Stroke",
+    "Appendicitis",
+    "Renal colic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#e2683c",
+   "kind": "statement",
+   "stem": "Which seizure types can occur in mitochondrial myopathy?",
+   "answer": "Focal or simple partial seizures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#75dc19",
+   "kind": "mcq",
+   "stem": "What may make stroke-like episodes in mitochondrial myopathy worse?",
+   "options": [
+    "Hypothermia",
+    "Lactic acidosis",
+    "Hypercalcaemia",
+    "Hyponatraemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#b615fc",
+   "kind": "mcq",
+   "stem": "Which brain change is seen in mitochondrial myopathy?",
+   "options": [
+    "Pituitary adenoma",
+    "Spongy degeneration of the brain",
+    "Cerebral abscess",
+    "Meningeal thickening"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#bc3766",
+   "kind": "statement",
+   "stem": "Along with spongy brain degeneration, which features occur in mitochondrial myopathy?",
+   "answer": "Learning disability, short stature, limb weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#e879f1",
+   "kind": "statement",
+   "stem": "Which movement problem can occur in mitochondrial myopathy?",
+   "answer": "Myoclonus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#602331",
+   "kind": "statement",
+   "stem": "Which brain imaging changes can mitochondrial myopathy cause?",
+   "answer": "Cerebral and cerebellar atrophy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#c55452",
+   "kind": "mcq",
+   "stem": "Which eye feature can occur in mitochondrial myopathy?",
+   "options": [
+    "Keratoconus",
+    "Acute angle-closure glaucoma",
+    "Progressive ophthalmoplegia",
+    "Optic neuritis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#80d745",
+   "kind": "mcq",
+   "stem": "Which cardiac conduction defect can occur in mitochondrial myopathy?",
+   "options": [
+    "Mitral valve prolapse",
+    "Complete heart block",
+    "Aortic stenosis",
+    "Ventricular septal defect"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#22d6bf",
+   "kind": "mcq",
+   "stem": "How is subacute necrotising encephalomyelopathy inherited in mitochondrial myopathy?",
+   "options": [
+    "Autosomal recessive",
+    "Autosomal dominant",
+    "X-linked recessive",
+    "X-linked dominant"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#524cfb",
+   "kind": "statement",
+   "stem": "What grey matter change occurs in mitochondrial myopathy?",
+   "answer": "Progressive grey matter degeneration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#479867",
+   "kind": "mcq",
+   "stem": "How do mitochondrial myopathy patients respond to volatile and IV anaesthetics?",
+   "options": [
+    "Resistant to respiratory depression",
+    "Very sensitive to respiratory depression",
+    "Tolerant of high doses",
+    "Unaffected by volatile agents"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#9535a6",
+   "kind": "mcq",
+   "stem": "Which drug group may mitochondrial myopathy patients be sensitive to?",
+   "options": [
+    "Paracetamol",
+    "Tranexamic acid",
+    "Induction agents",
+    "Heparin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#483872",
+   "kind": "mcq",
+   "stem": "Which relaxant approach suits mitochondrial myopathy?",
+   "options": [
+    "Long-acting drugs in full doses",
+    "Standard doses with no monitoring at all",
+    "Short-acting drugs in reduced doses with neuromuscular monitoring",
+    "Suxamethonium in full doses"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#4266e8",
+   "kind": "mcq",
+   "stem": "Why avoid suxamethonium in mitochondrial myopathy?",
+   "options": [
+    "Risk of bronchospasm",
+    "Risk of hyperkalaemia",
+    "Risk of malignant hyperthermia",
+    "Risk of prolonged apnoea"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#ce253f",
+   "kind": "mcq",
+   "stem": "What is advised about fasting in mitochondrial myopathy?",
+   "options": [
+    "Give no glucose until recovery",
+    "Restrict glucose to avoid acidosis",
+    "Withhold all fluids overnight",
+    "Avoid long fasts"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#ce253f",
+   "kind": "statement",
+   "stem": "What glucose care is advised in mitochondrial myopathy around surgery?",
+   "answer": "Monitor blood glucose and give glucose throughout the perioperative period",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#92be35",
+   "kind": "mcq",
+   "stem": "What treats severe lactic acidosis in mitochondrial myopathy, if needed?",
+   "options": [
+    "Calcium chloride",
+    "Bicarbonate",
+    "Magnesium sulphate",
+    "Potassium chloride"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myopathies-children#7a4704",
+   "kind": "mcq",
+   "stem": "What should be watched for after surgery in Leigh syndrome?",
+   "options": [
+    "Post-dural puncture headache",
+    "Delayed bleeding",
+    "Anaphylaxis",
+    "Postoperative apnoea"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

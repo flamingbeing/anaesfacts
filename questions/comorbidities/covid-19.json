@@ -1,0 +1,63 @@
+{
+ "topic": "comorbidities/covid-19",
+ "questions": [
+  {
+   "fact_id": "comorbidities/covid-19#ed92f8",
+   "kind": "statement",
+   "stem": "For COVID-19 infection control during surgery, what should guide practice?",
+   "answer": "Current institutional guidance; ask infectious diseases if unsure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/covid-19#a67889",
+   "kind": "statement",
+   "stem": "What is used to judge COVID-19 infectivity before elective surgery?",
+   "answer": "COVID PCR cycle threshold (CT) value",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/covid-19#d4e8d6",
+   "kind": "mcq",
+   "stem": "How long after a COVID-19 vaccine or booster should elective surgery be delayed?",
+   "options": [
+    "1 day",
+    ">2 weeks",
+    ">6 weeks",
+    ">3 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/covid-19#7fa3ee",
+   "kind": "mcq",
+   "stem": "How long after mild COVID-19 should elective surgery be delayed?",
+   "options": [
+    ">1 week",
+    ">7 weeks",
+    ">3 weeks",
+    ">12 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/covid-19#b9f0e1",
+   "kind": "mcq",
+   "stem": "How long after moderate to severe COVID-19 needing oxygen should elective surgery be delayed?",
+   "options": [
+    ">3 weeks",
+    ">2 weeks",
+    ">12 weeks",
+    ">7 weeks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

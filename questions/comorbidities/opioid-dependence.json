@@ -1,0 +1,97 @@
+{
+ "topic": "comorbidities/opioid-dependence",
+ "questions": [
+  {
+   "fact_id": "comorbidities/opioid-dependence#988fdc",
+   "kind": "mcq",
+   "stem": "What endocrine effect does long-term morphine have in opioid-dependent patients?",
+   "options": [
+    "Adrenal atrophy with raised corticosteroid secretion",
+    "Adrenal hypertrophy with impaired corticosteroid secretion",
+    "Thyroid enlargement with raised thyroxine output",
+    "Pituitary suppression with raised prolactin levels"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/opioid-dependence#f487c3",
+   "kind": "mcq",
+   "stem": "How should opioid-dependent patients be premedicated before anaesthesia?",
+   "options": [
+    "Premedication withheld to avoid respiratory depression",
+    "Benzodiazepine alone, with no opioid",
+    "Adequate premedication with opioids",
+    "Minimal premedication with an antiemetic only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/opioid-dependence#9a0356",
+   "kind": "mcq",
+   "stem": "What should opioid-dependent patients receive during and after surgery, beyond their premedication?",
+   "options": [
+    "Extra opioid intraoperatively and postoperatively",
+    "Usual opioid dose only, none given during surgery",
+    "Opioids withheld until the patient is awake",
+    "Strictly opioid-free care with no postoperative opioid"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/opioid-dependence#a08597",
+   "kind": "mcq",
+   "stem": "Which additional analgesia is advised for opioid-dependent patients?",
+   "options": [
+    "Oral codeine as the sole analgesic",
+    "Higher-dose opioid infusion alone",
+    "Intrathecal morphine only",
+    "Non-opioid analgesics and nerve blocks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/opioid-dependence#f9b77b",
+   "kind": "statement",
+   "stem": "Is there an ideal anaesthetic agent or technique for opioid-dependent patients, and what role do antagonists have?",
+   "answer": "No ideal agent or technique; an opioid antagonist may be used judiciously where indicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/opioid-dependence#544f96",
+   "kind": "mcq",
+   "stem": "Which adjuncts work well with regional anaesthesia in opioid-dependent patients?",
+   "options": [
+    "High-dose ketamine and propofol infusion",
+    "Low-dose ketamine and α2-agonists",
+    "Pethidine and metoclopramide",
+    "Nitrous oxide and midazolam infusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/opioid-dependence#a27815",
+   "kind": "mcq",
+   "stem": "What circulatory support and monitoring are advised for opioid-dependent patients?",
+   "options": [
+    "Fluids for circulation, with arterial blood gases and respiratory monitoring",
+    "Fluid restriction, with pulse oximetry only",
+    "Colloid bolus only, with no respiratory monitoring",
+    "Vasopressor first, with no blood gas checks"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

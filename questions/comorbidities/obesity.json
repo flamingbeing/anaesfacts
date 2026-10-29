@@ -1,0 +1,935 @@
+{
+ "topic": "comorbidities/obesity",
+ "questions": [
+  {
+   "fact_id": "comorbidities/obesity#a75615",
+   "kind": "statement",
+   "stem": "In obesity, which three airway problems does anaesthesia need to plan for?",
+   "answer": "Difficult airway, aspiration, apnoea intolerance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#73d0e8",
+   "kind": "blank",
+   "stem": "In obesity with obstructive sleep apnoea, take care with ____ and use CPAP.",
+   "answer": "opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#7ce624",
+   "kind": "mcq",
+   "stem": "Obesity hypoventilation syndrome can lead to which heart and lung complications?",
+   "options": [
+    "Asthma and bronchospasm",
+    "Pulmonary hypertension and cor pulmonale",
+    "Pneumothorax and tension physiology",
+    "Pulmonary oedema and pleural effusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#0895ce",
+   "kind": "mcq",
+   "stem": "Under Singapore's 2016 Asian BMI cut-offs, what value defines obesity?",
+   "options": [
+    "> 25",
+    "> 27.5",
+    "> 30",
+    "> 32.5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#4985dc",
+   "kind": "mcq",
+   "stem": "In the WHO classification, which BMI range defines class I obesity?",
+   "options": [
+    "25-29.9",
+    "30-34.9",
+    "35-39.9",
+    "40-44.9"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#e3c987",
+   "kind": "mcq",
+   "stem": "In the WHO classification, which BMI defines class III (morbid) obesity?",
+   "options": [
+    "> 30",
+    "> 35",
+    "> 40",
+    "> 50"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#d0d1a8",
+   "kind": "statement",
+   "stem": "How is central obesity defined by waist measurement?",
+   "answer": "Waist greater than half height",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#45d438",
+   "kind": "mcq",
+   "stem": "What is the primary cause of obesity?",
+   "options": [
+    "Metabolism exceeds calorie intake",
+    "Excess thyroid hormone production",
+    "Calorie intake exceeds metabolism",
+    "Low calorie intake with high activity"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#7901e1",
+   "kind": "mcq",
+   "stem": "In obese patients, how do airway complications compare with the general population, per NAP4?",
+   "options": [
+    "Half the general population rate",
+    "About the same as the general population",
+    "Twice the general population rate",
+    "Four times the general population rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#d5a1dd",
+   "kind": "statement",
+   "stem": "Which three airway techniques does obesity make more difficult?",
+   "answer": "Mask ventilation, LMA and FONA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#439fbc",
+   "kind": "mcq",
+   "stem": "How well does BMI alone predict difficult intubation or laryngoscopy in obesity?",
+   "options": [
+    "A strong, reliable predictor",
+    "A weak predictor on its own",
+    "The best predictor of all",
+    "Not related to airway difficulty at all"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#179349",
+   "kind": "statement",
+   "stem": "Beyond anatomy, what makes the obese airway physiologically difficult?",
+   "answer": "Reduced FRC, higher metabolic rate, aspiration risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#bbb3c7",
+   "kind": "statement",
+   "stem": "In obesity, what happens to FRC and lung compliance, and what does this lead to?",
+   "answer": "FRC and compliance fall, work of breathing rises, causing atelectasis and faster desaturation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#5bee34",
+   "kind": "statement",
+   "stem": "Why does obesity cause faster desaturation and CO2 retention?",
+   "answer": "Higher O2 consumption and CO2 production from metabolically active fat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#9ca8f8",
+   "kind": "mcq",
+   "stem": "What causes the wheeze-like symptoms common in obese patients?",
+   "options": [
+    "Asthma-type airway inflammation",
+    "Bronchospasm triggered by opioids",
+    "Pulmonary oedema from heart failure",
+    "Obesity itself, through airway closure"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#ac571b",
+   "kind": "mcq",
+   "stem": "In the proposed BMI additions for obesity, what value defines super obese?",
+   "options": [
+    "> 35",
+    "> 40",
+    "> 50",
+    "> 60"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#68d5ec",
+   "kind": "statement",
+   "stem": "In obesity, which gas may be retained chronically?",
+   "answer": "CO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#c3ff32",
+   "kind": "mcq",
+   "stem": "Obesity hypoventilation syndrome also goes by which other name?",
+   "options": [
+    "Ondine's curse",
+    "Pickwickian syndrome",
+    "Cheyne-Stokes breathing",
+    "Kleine-Levin syndrome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#cb4182",
+   "kind": "statement",
+   "stem": "In obesity hypoventilation, what happens to the respiratory centres over time?",
+   "answer": "They gradually become insensitive to PaCO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#14f26c",
+   "kind": "statement",
+   "stem": "What three features make up the obesity hypoventilation syndrome triad?",
+   "answer": "Obesity (BMI >30), daytime hypercapnia (PaCO2 ≥45 mmHg), sleep-disordered breathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#90ffc2",
+   "kind": "mcq",
+   "stem": "What share of people with obstructive sleep apnoea are also obese?",
+   "options": [
+    "About 20%",
+    "About 40%",
+    "About 70%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#90ffc2",
+   "kind": "mcq",
+   "stem": "What share of obese people have obstructive sleep apnoea?",
+   "options": [
+    "About 15%",
+    "About 40%",
+    "About 60%",
+    "About 95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#258762",
+   "kind": "mcq",
+   "stem": "What share of patients with obesity hypoventilation syndrome have OSA?",
+   "options": [
+    "30%",
+    "50%",
+    "90%",
+    "99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#258762",
+   "kind": "mcq",
+   "stem": "What share of patients with obesity hypoventilation syndrome have severe OSA?",
+   "options": [
+    "20%",
+    "40%",
+    "70%",
+    "85%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#c49761",
+   "kind": "statement",
+   "stem": "Why do blood volume, MAP and cardiac output rise in obesity?",
+   "answer": "To meet the metabolic demand of fat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#e66234",
+   "kind": "mcq",
+   "stem": "In obesity, by how much does cardiac output rise for each extra kilogram of weight?",
+   "options": [
+    "0.01 L/min",
+    "0.5 L/min",
+    "0.1 L/min",
+    "1 L/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#f1155c",
+   "kind": "mcq",
+   "stem": "In obesity, by about how much does stroke volume rise per 1 kg/m2 of BMI?",
+   "options": [
+    "About 0.5 ml",
+    "About 1.25 ml",
+    "About 2.5 ml",
+    "About 12.5 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#ee628f",
+   "kind": "statement",
+   "stem": "What vascular complications does metabolic syndrome cause in obesity?",
+   "answer": "Atherosclerosis, coronary disease and IHD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#d87091",
+   "kind": "mcq",
+   "stem": "In obesity, what percentage of patients have QT prolongation?",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#fb2826",
+   "kind": "statement",
+   "stem": "Which three factors in obesity raise the risk of aspiration?",
+   "answer": "Raised intra-abdominal pressure, larger gastric volumes, delayed gastric emptying",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#fb5222",
+   "kind": "mcq",
+   "stem": "In obesity-related fatty liver, what fat content defines the condition?",
+   "options": [
+    ">5% of liver weight",
+    ">10% of liver weight",
+    ">20% of liver weight",
+    ">30% of liver weight"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#cc3015",
+   "kind": "statement",
+   "stem": "Which endocrine problems are linked to obesity?",
+   "answer": "Insulin resistance and type 2 diabetes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#9388e0",
+   "kind": "statement",
+   "stem": "In obese patients, which functional measure is hard to assess before surgery?",
+   "answer": "Effort tolerance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#83cde3",
+   "kind": "blank",
+   "stem": "Operating tables for obese patients often have a usual maximum weight limit of ____.",
+   "answer": "130kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#602835",
+   "kind": "statement",
+   "stem": "Which type of anaesthesia may be anatomically difficult in obesity?",
+   "answer": "Regional techniques",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#d9a621",
+   "kind": "statement",
+   "stem": "What does difficult surgical access in obesity lead to?",
+   "answer": "Longer operations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#eb6168",
+   "kind": "statement",
+   "stem": "Which three factors should be assessed for aspiration risk in obese patients?",
+   "answer": "Reflux symptoms, GLP-1 agonists, previous gastric bypass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#b431d4",
+   "kind": "statement",
+   "stem": "Which three conditions should be optimised before surgery in obese patients?",
+   "answer": "BP, diabetes, and left or right heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#9a4bef",
+   "kind": "statement",
+   "stem": "Which type of premedication should obese patients avoid?",
+   "answer": "Sedative premedication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#1cdee6",
+   "kind": "statement",
+   "stem": "Which two drug types may be considered to reduce aspiration risk in obesity?",
+   "answer": "Antacids or PPI, and prokinetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#5554c3",
+   "kind": "mcq",
+   "stem": "If an obese patient's upper arm cannot take a BP cuff, what usually works?",
+   "options": [
+    "A wrist cuff",
+    "A forearm cuff",
+    "An ankle cuff",
+    "A finger probe"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#5c721f",
+   "kind": "mcq",
+   "stem": "In obese patients, when is an arterial line usually indicated?",
+   "options": [
+    "Routinely for all obese patients",
+    "For cardiovascular reasons",
+    "Only when BMI exceeds 50",
+    "Only when the cuff fails"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#ffd390",
+   "kind": "mcq",
+   "stem": "What intraoperative measure may need careful control in obese patients?",
+   "options": [
+    "Serum sodium",
+    "Glucose control",
+    "Core temperature",
+    "Urine output"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#103e62",
+   "kind": "statement",
+   "stem": "What aids can help ramp an obese patient for laryngoscopy?",
+   "answer": "Troop pillow, pillows or blankets, raised arm supports, a step for the anaesthetist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#38e96c",
+   "kind": "statement",
+   "stem": "In obese patients, which veins can help when venous access is difficult?",
+   "answer": "Anterior chest wall veins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#a3f60d",
+   "kind": "mcq",
+   "stem": "What does accurate non-invasive blood pressure measurement in obesity need?",
+   "options": [
+    "A higher inflation pressure",
+    "The correct cuff size",
+    "A forearm arterial line",
+    "Continuous arterial monitoring only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#56f13b",
+   "kind": "statement",
+   "stem": "In obesity, which airway equipment should be ready for intubation?",
+   "answer": "Large laryngoscope blades; airway adjuncts; consider fibreoptic scope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#0b18a6",
+   "kind": "blank",
+   "stem": "In obesity, use ____ spinal, regional and vascular needles.",
+   "answer": "Long",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#db7895",
+   "kind": "statement",
+   "stem": "Why should pressure areas be padded in obese patients during surgery?",
+   "answer": "To prevent sores and nerve injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#59fbb8",
+   "kind": "statement",
+   "stem": "In obesity, if the patient can walk, how can induction reduce manual handling?",
+   "answer": "They walk in, position on the table and are induced there",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#1d29f2",
+   "kind": "statement",
+   "stem": "In obesity, what is needed to move the patient after surgery?",
+   "answer": "Enough trained staff, and a hover mattress for transfer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#915331",
+   "kind": "blank",
+   "stem": "For DVT prophylaxis during surgery in obesity, use ____.",
+   "answer": "Calf compression devices",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#e8ec58",
+   "kind": "mcq",
+   "stem": "In obesity, which airway should be used for general anaesthesia?",
+   "options": [
+    "Laryngeal mask airway",
+    "Face mask alone",
+    "Endotracheal tube",
+    "Oropharyngeal airway"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#c4cb0e",
+   "kind": "statement",
+   "stem": "How should an obese patient be positioned for laryngoscopy?",
+   "answer": "Ramped with Troop pillow, head up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#d7ee29",
+   "kind": "statement",
+   "stem": "What does peri-oxygenation mean in obese patients undergoing anaesthesia?",
+   "answer": "Continuous oxygenation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#9ed30d",
+   "kind": "blank",
+   "stem": "In obesity, use adequate (higher) ____ and recruitment manoeuvres.",
+   "answer": "PEEP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#10eb2a",
+   "kind": "statement",
+   "stem": "Why avoid spontaneous ventilation with an LMA in obesity?",
+   "answer": "To prevent atelectasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#db17f0",
+   "kind": "statement",
+   "stem": "Which short-acting agents speed recovery and reduce postoperative hypoventilation in obesity?",
+   "answer": "Remifentanil and desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#9586c6",
+   "kind": "blank",
+   "stem": "For analgesia in obesity, avoid ____ and use short-acting opioids.",
+   "answer": "morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#483ef2",
+   "kind": "statement",
+   "stem": "In obesity, what must be ensured about neuromuscular block at the end of anaesthesia?",
+   "answer": "Full reversal, guided by neuromuscular monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#8f94ab",
+   "kind": "statement",
+   "stem": "In obesity, how should the patient recover after surgery?",
+   "answer": "Sitting up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#65d936",
+   "kind": "statement",
+   "stem": "After surgery in obesity, which patients need high dependency care?",
+   "answer": "Those with OSA or a high risk of OSA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#055393",
+   "kind": "blank",
+   "stem": "After surgery in obesity, use caution with long-acting opioids and ____.",
+   "answer": "sedatives",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#573984",
+   "kind": "statement",
+   "stem": "In obesity, what SpO2 target applies before discharge from recovery?",
+   "answer": "Preoperative levels, with minimal oxygen and no hypoventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#81e81d",
+   "kind": "statement",
+   "stem": "In morbid obesity, what are the main airway risks?",
+   "answer": "Difficult intubation, bag-mask ventilation and FONA; apnoea intolerance; aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#c7103e",
+   "kind": "statement",
+   "stem": "Above what BMI should LMAs be used with caution because of aspiration risk?",
+   "answer": ">35kg/m2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#573980",
+   "kind": "blank",
+   "stem": "In morbid obesity, preoxygenate until end-tidal oxygen (ETO2) is ____.",
+   "answer": ">0.9",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#573980",
+   "kind": "statement",
+   "stem": "In morbid obesity, what can improve recruitment during preoxygenation?",
+   "answer": "NIV or CPAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#18db71",
+   "kind": "mcq",
+   "stem": "In morbid obesity, what head-up tilt angle is used for airway management?",
+   "options": [
+    "10 degrees",
+    "30 degrees",
+    "45 degrees",
+    "Flat supine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#4cb0b4",
+   "kind": "statement",
+   "stem": "In obesity, when should an LMA be used for early ventilation if mask ventilation is difficult?",
+   "answer": "Before or between intubation attempts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#c58a54",
+   "kind": "statement",
+   "stem": "In obesity with OSA, which anaesthetic agents should be chosen?",
+   "answer": "Short-acting agents, with opioid sparing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#bd3e73",
+   "kind": "statement",
+   "stem": "In obesity, especially with OSA, what can the patient be extubated onto?",
+   "answer": "CPAP or HFNC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#4b666d",
+   "kind": "blank",
+   "stem": "In obesity, dose most drugs on ____ body weight.",
+   "answer": "lean",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#ff292a",
+   "kind": "mcq",
+   "stem": "In obesity, which weight is used for propofol maintenance, reversal agents and antibiotics?",
+   "options": [
+    "Total body weight",
+    "Ideal body weight",
+    "Lean body weight",
+    "Adjusted body weight"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#f91be5",
+   "kind": "statement",
+   "stem": "In obesity, which weight scalar is used for suxamethonium dosing?",
+   "answer": "Total body weight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#c1cb9c",
+   "kind": "statement",
+   "stem": "What is the risk of dosing drugs by total body weight in obesity?",
+   "answer": "Overdose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#bd1224",
+   "kind": "statement",
+   "stem": "In a fit patient with obesity, what does cardiac output match when titrating drugs?",
+   "answer": "Lean body weight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#b8e78b",
+   "kind": "statement",
+   "stem": "In obesity, how do lean tissue and fat compare as proportions of body weight?",
+   "answer": "Lean tissue is a smaller proportion; fat is a larger proportion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#fda2be",
+   "kind": "blank",
+   "stem": "In obesity, hydrophilic drugs have similar absolute Vd, clearance and ____.",
+   "answer": "half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#c393c1",
+   "kind": "statement",
+   "stem": "In obesity, what does raised alpha1-acid glycoprotein do to basic drugs?",
+   "answer": "Increases their binding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#1ddd21",
+   "kind": "statement",
+   "stem": "In obesity, which weight measure overestimates drug dosing?",
+   "answer": "Total body weight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#08dc0e",
+   "kind": "statement",
+   "stem": "In obesity, what does ideal body weight do to the calculated dose?",
+   "answer": "Underestimates the dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#cedbbf",
+   "kind": "blank",
+   "stem": "Broca formula for men: height in cm minus ____.",
+   "answer": "100",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#cedbbf",
+   "kind": "blank",
+   "stem": "Broca formula for women: height in cm minus ____.",
+   "answer": "105",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#66b7fd",
+   "kind": "statement",
+   "stem": "In obesity, what does lean body weight correlate with, driving early drug distribution?",
+   "answer": "Cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#9c79f1",
+   "kind": "mcq",
+   "stem": "In the simplified Carron (BJA) estimate, what multiplier of height squared is used for women?",
+   "options": [
+    "18",
+    "26",
+    "22",
+    "30"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#9c79f1",
+   "kind": "blank",
+   "stem": "In the simplified Carron (BJA) estimate, men use ____ x height squared (m2).",
+   "answer": "26",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#44e8e8",
+   "kind": "blank",
+   "stem": "Lean body weight plateaus at about ____ in men.",
+   "answer": "100kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#44e8e8",
+   "kind": "blank",
+   "stem": "Lean body weight plateaus at about ____ in women.",
+   "answer": "70kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#b9f2aa",
+   "kind": "statement",
+   "stem": "Adjusted body weight was originally developed for which drug class?",
+   "answer": "Aminoglycosides",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#b9f2aa",
+   "kind": "blank",
+   "stem": "The usual correction factor for adjusted body weight is ____.",
+   "answer": "0.4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#e8c367",
+   "kind": "mcq",
+   "stem": "Adjusted body weight is ideal body weight plus what share of the excess weight?",
+   "options": [
+    "20%",
+    "40%",
+    "60%",
+    "100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#6e230e",
+   "kind": "blank",
+   "stem": "Body surface area ignores body composition and is traditionally used for ____.",
+   "answer": "chemotherapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#dbb05e",
+   "kind": "statement",
+   "stem": "Why is adjusted body weight used for dosing in obesity?",
+   "answer": "To allow for a larger volume of distribution",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#e49967",
+   "kind": "blank",
+   "stem": "In obesity, the maximum neostigmine dose for reversal is ____.",
+   "answer": "5mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obesity#43a43d",
+   "kind": "blank",
+   "stem": "In obesity, the maximum suxamethonium dose is ____.",
+   "answer": "200mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

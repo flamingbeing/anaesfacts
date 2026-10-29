@@ -1,0 +1,139 @@
+{
+ "topic": "comorbidities/acromegaly",
+ "questions": [
+  {
+   "fact_id": "comorbidities/acromegaly#ffc972",
+   "kind": "mcq",
+   "stem": "Which valve disease is associated with acromegaly?",
+   "options": [
+    "Tricuspid atresia",
+    "Aortic regurgitation",
+    "Pulmonary atresia",
+    "Ebstein anomaly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#ffc972",
+   "kind": "mcq",
+   "stem": "What percentage of patients with acromegaly have hypertension?",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#0a2d9e",
+   "kind": "mcq",
+   "stem": "In acromegaly, what share of patients have diabetes?",
+   "options": [
+    "5%",
+    "15%",
+    "25%",
+    "45%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#69dc0b",
+   "kind": "mcq",
+   "stem": "What size of facemask is advised for a patient with acromegaly?",
+   "options": [
+    "Small facemasks",
+    "Large facemasks",
+    "Paediatric facemasks",
+    "Nasal masks only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#1a5225",
+   "kind": "mcq",
+   "stem": "What size of laryngoscope blade is advised for a patient with acromegaly?",
+   "options": [
+    "Miniature laryngoscope blades",
+    "Small laryngoscope blades",
+    "Large laryngoscope blades",
+    "Paediatric laryngoscope blades"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#f55f22",
+   "kind": "statement",
+   "stem": "In acromegaly, which intubation technique is used if indicated?",
+   "answer": "Awake fibreoptic intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#148a94",
+   "kind": "mcq",
+   "stem": "In acromegaly, which nerve is at particular risk at the elbow?",
+   "options": [
+    "Radial",
+    "Musculocutaneous",
+    "Ulnar",
+    "Sciatic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#148a94",
+   "kind": "mcq",
+   "stem": "In acromegaly, which nerve is at particular risk at the wrist?",
+   "options": [
+    "Femoral",
+    "Sciatic",
+    "Median",
+    "Musculocutaneous"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#148a94",
+   "kind": "mcq",
+   "stem": "In acromegaly, which nerve is at particular risk at the fibular head?",
+   "options": [
+    "Tibial",
+    "Sural",
+    "Common peroneal",
+    "Femoral"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acromegaly#3d6d58",
+   "kind": "mcq",
+   "stem": "Where is postoperative care for acromegaly given if indicated?",
+   "options": [
+    "Ward only",
+    "ICU or HDU",
+    "Day surgery unit",
+    "Home the same day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

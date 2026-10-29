@@ -1,0 +1,105 @@
+{
+ "topic": "comorbidities/alcoholism",
+ "questions": [
+  {
+   "fact_id": "comorbidities/alcoholism#e3e8c1",
+   "kind": "statement",
+   "stem": "Why is consent difficult in an acutely intoxicated patient?",
+   "answer": "They are often uncooperative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/alcoholism#8c6d90",
+   "kind": "mcq",
+   "stem": "How does acute alcohol intoxication change MAC and induction doses?",
+   "options": [
+    "Increased",
+    "Reduced",
+    "Unchanged",
+    "Doubled"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/alcoholism#77d4aa",
+   "kind": "mcq",
+   "stem": "What is the main airway concern in an acutely intoxicated patient?",
+   "options": [
+    "Difficult mask ventilation",
+    "Bronchospasm",
+    "High aspiration risk",
+    "Laryngeal oedema"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/alcoholism#62b605",
+   "kind": "statement",
+   "stem": "Why can an acutely intoxicated patient become haemodynamically unstable?",
+   "answer": "Alcohol is a myocardial depressant and causes peripheral vasodilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/alcoholism#5ba900",
+   "kind": "mcq",
+   "stem": "How does chronic alcohol use change MAC?",
+   "options": [
+    "Reduced",
+    "Unchanged",
+    "Increased",
+    "Abolished"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/alcoholism#69f4e5",
+   "kind": "mcq",
+   "stem": "What level of postoperative care should a chronic drinker with withdrawal risk have?",
+   "options": [
+    "Routine ward care",
+    "Day surgery discharge",
+    "High dependency care",
+    "Recovery room only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/alcoholism#e6e40b",
+   "kind": "mcq",
+   "stem": "Why give thiamine before glucose to a chronic alcohol user?",
+   "options": [
+    "Prevents hypoglycaemia",
+    "Treats cirrhosis",
+    "Reduces MAC",
+    "Prevents Wernicke-Korsakoff syndrome"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/alcoholism#4e593b",
+   "kind": "mcq",
+   "stem": "Which cardiac complications of chronic alcohol use should be considered?",
+   "options": [
+    "Mitral valve prolapse",
+    "Alcoholic cardiomyopathy and arrhythmias",
+    "Coarctation of the aorta",
+    "Pericardial effusion alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

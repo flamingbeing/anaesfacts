@@ -1,0 +1,429 @@
+{
+ "topic": "comorbidities/spinal-cord-injury",
+ "questions": [
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#4db06b",
+   "kind": "statement",
+   "stem": "In spinal cord injury, what does compression of the cord lead to, and what should be maintained?",
+   "answer": "Ischaemia; maintain cord perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#dc731f",
+   "kind": "mcq",
+   "stem": "What precaution is used for an unstable spine after cord injury?",
+   "options": [
+    "Knee brace",
+    "Ankle splint",
+    "Cervical collar",
+    "Elbow sling"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#dc731f",
+   "kind": "blank",
+   "stem": "In spinal cord injury with an unstable spine, the airway may be ____.",
+   "answer": "difficult",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#ba1364",
+   "kind": "statement",
+   "stem": "Which autonomic problem accompanies trauma or transection of the spinal cord?",
+   "answer": "Autonomic dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#937a96",
+   "kind": "statement",
+   "stem": "In spinal cord injury, which cervical levels are key for diaphragm involvement?",
+   "answer": "C3-5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#db4f5b",
+   "kind": "blank",
+   "stem": "In spinal cord injury, from T1 onwards, the ____ are affected.",
+   "answer": "upper limbs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#db9428",
+   "kind": "mcq",
+   "stem": "At which spinal level does respiratory insufficiency start in cord injury?",
+   "options": [
+    "T1",
+    "T6",
+    "T7",
+    "L1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#b47446",
+   "kind": "mcq",
+   "stem": "At which spinal level is autonomic dysreflexia classically linked after cord injury?",
+   "options": [
+    "C5",
+    "T1",
+    "T6",
+    "T10"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#db4410",
+   "kind": "statement",
+   "stem": "Which key issues dominate the acute phase of spinal cord injury?",
+   "answer": "ATLS, unstable spine, cord perfusion, neurogenic shock, multisystem injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#30983c",
+   "kind": "mcq",
+   "stem": "Which drug carries a key risk in the subacute phase after spinal cord injury?",
+   "options": [
+    "Rocuronium",
+    "Suxamethonium",
+    "Propofol",
+    "Remifentanil"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#a36249",
+   "kind": "statement",
+   "stem": "Which key issues dominate the chronic phase of spinal cord injury?",
+   "answer": "Problems of long-term immobility",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#1cc7db",
+   "kind": "mcq",
+   "stem": "Which phase of spinal cord injury lasts only minutes?",
+   "options": [
+    "Spinal shock",
+    "Initial",
+    "Reflex phase",
+    "Chronic phase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#4d7e1e",
+   "kind": "mcq",
+   "stem": "How long does spinal shock last after cord injury?",
+   "options": [
+    "3 days to 8 weeks",
+    "1 to 2 days",
+    "3 to 6 months",
+    "9 months to 2 years"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#756637",
+   "kind": "mcq",
+   "stem": "In spinal cord injury, spinal shock is common with lesions at which level?",
+   "options": [
+    "Below L1",
+    "Below T12",
+    "Above T7",
+    "Below S1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#829722",
+   "kind": "mcq",
+   "stem": "How long can the reflex phase after cord injury last?",
+   "options": [
+    "Up to 9 months",
+    "Up to 3 days",
+    "Up to 8 weeks",
+    "Up to 2 years"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#6aa6d4",
+   "kind": "mcq",
+   "stem": "After spinal cord injury, by about what percentage does blood volume fall?",
+   "options": [
+    "5%",
+    "10%",
+    "20%",
+    "40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#6aa6d4",
+   "kind": "statement",
+   "stem": "Which postural cardiovascular problem follows cord injury?",
+   "answer": "Postural hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#5380c1",
+   "kind": "mcq",
+   "stem": "Which lesion level causes apnoea in spinal cord injury?",
+   "options": [
+    "Below C5",
+    "Above T7",
+    "Above C3",
+    "Below T1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#005857",
+   "kind": "mcq",
+   "stem": "For cord injury at C3-C5, what may happen to the diaphragm?",
+   "options": [
+    "Always paralysed",
+    "May be spared",
+    "Always spared",
+    "Never involved"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#1fb670",
+   "kind": "mcq",
+   "stem": "In cord injury below C5, which nerve is spared?",
+   "options": [
+    "Intercostal nerves",
+    "Phrenic nerve",
+    "Vagus nerve",
+    "Recurrent laryngeal nerve"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#1fb670",
+   "kind": "statement",
+   "stem": "After cord injury below C5, over what period are accessory muscles recruited?",
+   "answer": "6 months",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#be14c9",
+   "kind": "statement",
+   "stem": "Which metabolic problems affect temperature control after spinal cord injury?",
+   "answer": "Poor thermoregulation, no shivering, poor control of peripheral vascular tone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#bc26a1",
+   "kind": "statement",
+   "stem": "What skin-related complications does spinal cord injury bring?",
+   "answer": "Pressure sores; difficult IV access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#d374d2",
+   "kind": "mcq",
+   "stem": "In spinal cord injury, which anticoagulant is some patients given after day 5?",
+   "options": [
+    "Alteplase",
+    "Tranexamic acid",
+    "Warfarin",
+    "Protamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#d374d2",
+   "kind": "statement",
+   "stem": "Which two haematological problems follow spinal cord injury?",
+   "answer": "Anaemia; higher VTE risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#06b2f4",
+   "kind": "mcq",
+   "stem": "What gastric emptying problem follows spinal cord injury?",
+   "options": [
+    "Accelerated gastric emptying",
+    "Normal gastric emptying",
+    "Delayed gastric emptying",
+    "Absent gastric emptying"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#0402dc",
+   "kind": "statement",
+   "stem": "Which genitourinary complication is linked to cord injury?",
+   "answer": "Recurrent UTIs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#c1d3b6",
+   "kind": "statement",
+   "stem": "Which pain problem is common after spinal cord injury?",
+   "answer": "Chronic pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#2a19bc",
+   "kind": "statement",
+   "stem": "What details of the injury should preoperative assessment record?",
+   "answer": "Level, mechanism, timing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#615b86",
+   "kind": "statement",
+   "stem": "For stabilisation surgery after cord injury, which block is harder to perform?",
+   "answer": "Neuraxial block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#615b86",
+   "kind": "statement",
+   "stem": "For stabilisation surgery after cord injury, what may be difficult?",
+   "answer": "Intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#4e8129",
+   "kind": "mcq",
+   "stem": "Following spinal cord injury, which lesion type has worse autonomic dysreflexia?",
+   "options": [
+    "Incomplete",
+    "Complete",
+    "Both equal",
+    "Neither"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#0d055d",
+   "kind": "mcq",
+   "stem": "In cord injury, which allergy should be asked about in particular?",
+   "options": [
+    "Iodine",
+    "Peanut",
+    "Latex",
+    "Shellfish"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#435a7f",
+   "kind": "mcq",
+   "stem": "What does a tracheostomy suggest about a spinal cord injury?",
+   "options": [
+    "A low lesion",
+    "A high lesion",
+    "A lumbar injury",
+    "A sacral injury"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#dc59fb",
+   "kind": "mcq",
+   "stem": "On neurological examination after cord injury, which signs occur at the injury level?",
+   "options": [
+    "Upper motor neurone signs",
+    "Lower motor neurone signs",
+    "Sensory loss only",
+    "Normal reflexes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#dc59fb",
+   "kind": "statement",
+   "stem": "On neurological examination after cord injury, which signs occur below the injury level?",
+   "answer": "Upper motor neurone signs and sensory loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#40fc3b",
+   "kind": "mcq",
+   "stem": "Which blood test checks for anaemia in cord injury?",
+   "options": [
+    "FBC",
+    "U+E",
+    "LFTs",
+    "TSH"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/spinal-cord-injury#40fc3b",
+   "kind": "mcq",
+   "stem": "Which blood test checks for renal impairment in cord injury?",
+   "options": [
+    "FBC",
+    "LFTs",
+    "TSH",
+    "U+E"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

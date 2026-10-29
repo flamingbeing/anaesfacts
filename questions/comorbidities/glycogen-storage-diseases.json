@@ -1,0 +1,351 @@
+{
+ "topic": "comorbidities/glycogen-storage-diseases",
+ "questions": [
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#92deee",
+   "kind": "statement",
+   "stem": "What underlies each type of glycogen storage disease?",
+   "answer": "A specific enzyme defect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#3e749d",
+   "kind": "mcq",
+   "stem": "How many glycogen storage disease types cause myopathy?",
+   "options": [
+    "two",
+    "six",
+    "nine",
+    "four"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#9c06ad",
+   "kind": "statement",
+   "stem": "In glycogen storage disease, what is often needed to reach a diagnosis?",
+   "answer": "Liver or muscle biopsy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#ab44e8",
+   "kind": "mcq",
+   "stem": "What metabolic picture defines type I glycogen storage disease (von Gierke)?",
+   "options": [
+    "Severe hypoglycaemia with ketosis and lactic acidosis",
+    "Hyperglycaemia with ketoacidosis and normal lactate",
+    "Mild hypoglycaemia with normal ketones and lactate",
+    "Hypoglycaemia with alkalosis and low lactate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#645722",
+   "kind": "mcq",
+   "stem": "Which liver finding is typical of type I (von Gierke) glycogen storage disease?",
+   "options": [
+    "Hepatic atrophy with shrinkage",
+    "Normal liver size with steatosis",
+    "Massive hepatomegaly",
+    "Splenomegaly without liver change"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#c77377",
+   "kind": "mcq",
+   "stem": "Which biochemical abnormality is typical of type I (von Gierke) glycogen storage disease?",
+   "options": [
+    "Hypouricaemia",
+    "Hyperuricaemia",
+    "Hypercalcaemia",
+    "Hypokalaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#7e1bf1",
+   "kind": "mcq",
+   "stem": "Which systems does Pompe disease (type II glycogen storage disease) mainly affect?",
+   "options": [
+    "Liver and kidneys",
+    "Brain and spinal cord",
+    "Skin and bone marrow",
+    "Heart and skeletal muscle"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#27823f",
+   "kind": "mcq",
+   "stem": "What do infants with Pompe disease (type II glycogen storage disease) typically show?",
+   "options": [
+    "Hypertonia, obesity and hepatomegaly",
+    "Hypotonia, failure to thrive and cardiomyopathy",
+    "Hypotonia, jaundice and a normal heart",
+    "Hypertonia, seizures and normal growth"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#802e26",
+   "kind": "mcq",
+   "stem": "By what age does Pompe disease (type II glycogen storage disease) usually cause death?",
+   "options": [
+    "3-4 years",
+    "6-8 years",
+    "12-14 years",
+    "1-2 years"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#802e26",
+   "kind": "statement",
+   "stem": "What usually causes death in Pompe disease (type II glycogen storage disease)?",
+   "answer": "Cardiac or respiratory failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#117ab7",
+   "kind": "statement",
+   "stem": "How does later-onset Pompe disease usually present?",
+   "answer": "Progressive myopathy, with death around puberty",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#990309",
+   "kind": "mcq",
+   "stem": "How is Pompe disease (type II glycogen storage disease) diagnosed?",
+   "options": [
+    "Lumbar puncture with CSF analysis",
+    "Serum lactate measurement alone",
+    "Bone marrow aspiration",
+    "Muscle biopsy or enzyme defect in leucocytes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#903873",
+   "kind": "mcq",
+   "stem": "What glucose and lactate pattern is seen in Forbes disease (type III glycogen storage disease)?",
+   "options": [
+    "Milder hypoglycaemia with normal lactate",
+    "Severe hypoglycaemia with raised lactate",
+    "Normal glucose with raised lactate",
+    "Hyperglycaemia with normal lactate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#903380",
+   "kind": "statement",
+   "stem": "Which heart and muscle problems develop later in life in Forbes disease (type III glycogen storage disease)?",
+   "answer": "Cardiomyopathy and myopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#f664f5",
+   "kind": "mcq",
+   "stem": "What liver problem progresses in Andersen disease (type IV glycogen storage disease)?",
+   "options": [
+    "Fatty liver with normal size",
+    "Hepatomegaly with progressive cirrhosis",
+    "Hepatic tumour with normal function",
+    "Isolated splenomegaly without liver change"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#ff7d5a",
+   "kind": "mcq",
+   "stem": "By what age do children with Andersen disease (type IV glycogen storage disease) usually die of liver failure?",
+   "options": [
+    "By age 6",
+    "By age 12",
+    "By age 18",
+    "By age 2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#06d27c",
+   "kind": "mcq",
+   "stem": "Which enzyme deficiency causes McArdle disease (type V glycogen storage disease)?",
+   "options": [
+    "Glucose-6-phosphatase deficiency",
+    "Debranching enzyme deficiency",
+    "Acid alpha-glucosidase deficiency",
+    "Myophosphorylase deficiency"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#8b1b54",
+   "kind": "statement",
+   "stem": "What typically brings McArdle disease (type V glycogen storage disease) to attention?",
+   "answer": "Muscle cramps and pain after exercise, presenting in adolescence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#835513",
+   "kind": "mcq",
+   "stem": "What can occur in McArdle disease (type V glycogen storage disease) after heavy exercise?",
+   "options": [
+    "Myoglobinuria",
+    "Haemoglobinuria with anaemia",
+    "Ketonuria with hypoglycaemia",
+    "Proteinuria with oedema"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#19859d",
+   "kind": "statement",
+   "stem": "How is McArdle disease (type V glycogen storage disease) diagnosed?",
+   "answer": "Muscle biopsy and enzyme assay",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#8cd97d",
+   "kind": "statement",
+   "stem": "Which glycogen storage disease type resembles type I (von Gierke disease)?",
+   "answer": "Type VI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#5bbea9",
+   "kind": "statement",
+   "stem": "Which glycogen storage disease type resembles type V (McArdle disease)?",
+   "answer": "Type VII",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#ca9e90",
+   "kind": "mcq",
+   "stem": "How should fasting hypoglycaemia be managed in glycogen storage disease types I, III and IV?",
+   "options": [
+    "Saline IV fluids only while fasted",
+    "Glucose-containing IV fluids while fasted",
+    "Insulin infusion while fasted",
+    "Fluid restriction while fasted"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#11d383",
+   "kind": "mcq",
+   "stem": "Which tests check for cardiac involvement before anaesthesia in glycogen storage disease?",
+   "options": [
+    "ECG and echocardiogram",
+    "Chest X-ray and spirometry",
+    "Liver function tests and INR",
+    "Serum lactate and ketones"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#10c985",
+   "kind": "mcq",
+   "stem": "What airway problem can macroglossia cause in glycogen storage disease?",
+   "options": [
+    "It causes bronchospasm on induction",
+    "It prolongs neuromuscular blockade",
+    "It causes hypoglycaemia while fasting",
+    "It may make laryngoscopy difficult"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#39e891",
+   "kind": "mcq",
+   "stem": "Which muscle relaxant should probably be avoided in glycogen storage disease?",
+   "options": [
+    "Suxamethonium",
+    "Rocuronium",
+    "Cisatracurium",
+    "Atracurium"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#97bf78",
+   "kind": "statement",
+   "stem": "How do glycogen storage disease patients often respond to non-depolarising muscle relaxants?",
+   "answer": "Often sensitive; monitor neuromuscular function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#b216b8",
+   "kind": "mcq",
+   "stem": "Which precaution is advised for McArdle disease (type V glycogen storage disease)?",
+   "options": [
+    "Avoid pulse oximeter probes",
+    "Avoid nasogastric tubes",
+    "Avoid limb tourniquets",
+    "Avoid urinary catheters"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/glycogen-storage-diseases#abbfe0",
+   "kind": "mcq",
+   "stem": "What postoperative issue should be anticipated in Pompe disease (type II glycogen storage disease)?",
+   "options": [
+    "Possible need for postoperative ventilation",
+    "Routine early discharge from recovery",
+    "Need for postoperative dialysis",
+    "Need for postoperative insulin infusion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

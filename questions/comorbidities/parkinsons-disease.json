@@ -1,0 +1,245 @@
+{
+ "topic": "comorbidities/parkinsons-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/parkinsons-disease#6e54cc",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, which brain region shows progressive loss of dopaminergic neurons?",
+   "options": [
+    "Locus coeruleus",
+    "Substantia nigra pars compacta",
+    "Raphe nuclei",
+    "Nucleus basalis of Meynert"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#54e982",
+   "kind": "statement",
+   "stem": "In Parkinson's disease, what is the net result of low dopamine on the basal ganglia pathways?",
+   "answer": "Motor inhibition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#cea9a6",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, what are Lewy bodies made of?",
+   "options": [
+    "Extracellular amyloid-beta plaques",
+    "Intracellular tau tangles",
+    "Intracellular alpha-synuclein clumps",
+    "Extracellular prion protein deposits"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#c85c9b",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, which neurotransmitter is lost from the raphe nuclei?",
+   "options": [
+    "Noradrenaline",
+    "Serotonin",
+    "Acetylcholine",
+    "Dopamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#b86d75",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, what frequency range is the rest tremor?",
+   "options": [
+    "1–2 Hz",
+    "4–6 Hz",
+    "8–10 Hz",
+    "12–14 Hz"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#b86d75",
+   "kind": "statement",
+   "stem": "What is the classic descriptive name for the rest tremor of Parkinson's disease?",
+   "answer": "Pill-rolling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#73ae41",
+   "kind": "mcq",
+   "stem": "Madopar is a combined tablet used in Parkinson's disease. Which two drugs does it contain?",
+   "options": [
+    "Selegiline and benserazide",
+    "Pramipexole and levodopa",
+    "Entacapone and benserazide",
+    "Levodopa and benserazide"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#52ba4a",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, what class is benzhexol (trihexyphenidyl)?",
+   "options": [
+    "Dopamine agonist",
+    "COMT inhibitor",
+    "Central antimuscarinic",
+    "NMDA antagonist"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#8d326e",
+   "kind": "statement",
+   "stem": "In Parkinson's disease, how do dopamine agonists act?",
+   "answer": "They stimulate striatal dopamine receptors directly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#1a0e50",
+   "kind": "mcq",
+   "stem": "Which drug used in Parkinson's disease is an MAO-B inhibitor?",
+   "options": [
+    "Selegiline",
+    "Entacapone",
+    "Amantadine",
+    "Benzhexol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#ee2f7c",
+   "kind": "statement",
+   "stem": "In Parkinson's disease, what does a COMT inhibitor such as entacapone do to levodopa?",
+   "answer": "Lengthens its half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#b3e084",
+   "kind": "mcq",
+   "stem": "Which drug used in Parkinson's disease is an NMDA antagonist?",
+   "options": [
+    "Rasagiline",
+    "Entacapone",
+    "Amantadine",
+    "Benzhexol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#ad6d8f",
+   "kind": "statement",
+   "stem": "Why might a patient with Parkinson's disease have a difficult airway?",
+   "answer": "Stiff temporomandibular joint and cervical spine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#ce45e3",
+   "kind": "statement",
+   "stem": "In Parkinson's disease, what raises the risk of aspiration?",
+   "answer": "Bulbar and oesophageal dysfunction, and gastroparesis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#68817a",
+   "kind": "statement",
+   "stem": "What causes restrictive lung disease in Parkinson's disease?",
+   "answer": "Chest wall rigidity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#630ccd",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, which blood pressure problem is typical at induction?",
+   "options": [
+    "Marked hypotension at induction",
+    "Marked hypertension at induction",
+    "No change in blood pressure at induction",
+    "Sustained hypertension after surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#215f4f",
+   "kind": "statement",
+   "stem": "What two perioperative problems are patients with Parkinson's disease at risk of?",
+   "answer": "Worsening of symptoms and postoperative delirium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#924271",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, which antiemetic should be avoided as a dopamine antagonist?",
+   "options": [
+    "Ondansetron",
+    "Droperidol",
+    "Dexamethasone",
+    "Aprepitant"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#9ed33a",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, which two antiemetics should be avoided for PONV?",
+   "options": [
+    "Ondansetron and dexamethasone",
+    "Aprepitant and ondansetron",
+    "Palonosetron and dexamethasone",
+    "Metoclopramide and droperidol"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#340204",
+   "kind": "mcq",
+   "stem": "In Parkinson's disease, which anticholinergic should be avoided because it can cause central anticholinergic syndrome?",
+   "options": [
+    "Glycopyrrolate",
+    "Neostigmine",
+    "Atropine",
+    "Ondansetron"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/parkinsons-disease#be5c75",
+   "kind": "statement",
+   "stem": "For a Parkinson's patient with tremor, what is regional anaesthesia weighed against?",
+   "answer": "The risks of general anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,665 @@
+{
+ "topic": "comorbidities/chronic-kidney-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#edcba7",
+   "kind": "statement",
+   "stem": "In chronic kidney disease not on dialysis, what two things are the anaesthetic priorities?",
+   "answer": "Protect renal function and adjust drug doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#f8c515",
+   "kind": "statement",
+   "stem": "In end-stage renal failure (ESRF), which areas need assessing before anaesthesia?",
+   "answer": "Fluid status, electrolytes and potassium, creatinine, pharmacokinetics, anaemia, IHD risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#cc04c5",
+   "kind": "statement",
+   "stem": "For a patient on haemodialysis, what should be checked about the last dialysis session?",
+   "answer": "Its timing and events",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#e9490c",
+   "kind": "statement",
+   "stem": "For a patient on peritoneal dialysis, what should be done with the dialysis fluid?",
+   "answer": "Drain the fluid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#1eab31",
+   "kind": "blank",
+   "stem": "In chronic kidney disease, the acute complications are summarised as AEIOU: acidosis, electrolytes, intoxication, overload and ____.",
+   "answer": "uraemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#0da962",
+   "kind": "statement",
+   "stem": "What chronic complications arise from chronic kidney disease?",
+   "answer": "IHD, renal bone disease, anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#a1a43d",
+   "kind": "statement",
+   "stem": "In kidney failure, which treatment changes the acute complications?",
+   "answer": "Renal replacement therapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#47a2b3",
+   "kind": "statement",
+   "stem": "What should be optimised before surgery in kidney disease?",
+   "answer": "Fluid status, electrolytes and uraemia; transfuse for anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#82e774",
+   "kind": "mcq",
+   "stem": "In CKD not on dialysis, what do the KDIGO G1 to G5 stages depend on?",
+   "options": [
+    "eGFR",
+    "Serum potassium",
+    "Haemoglobin level",
+    "Systolic blood pressure"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#b9d8d4",
+   "kind": "statement",
+   "stem": "In CKD not on dialysis, which patients should be identified before surgery?",
+   "answer": "Those at high risk of perioperative renal failure or needing dialysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#6fa0bd",
+   "kind": "statement",
+   "stem": "Which two comorbidities should be looked for when assessing CKD not on dialysis before surgery?",
+   "answer": "Diabetes and hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#833fb1",
+   "kind": "statement",
+   "stem": "In CKD not on dialysis, which cardiovascular risks should be assessed?",
+   "answer": "Accelerated atherosclerosis, LVH, autonomic neuropathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#3adb67",
+   "kind": "mcq",
+   "stem": "Which creatinine level in CKD not on dialysis raises perioperative MACE risk?",
+   "options": [
+    "Cr >2mg/dL (177umol/L)",
+    "Cr >1mg/dL (88umol/L)",
+    "Cr >3mg/dL (265umol/L)",
+    "Cr >4mg/dL (354umol/L)"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#e50c73",
+   "kind": "mcq",
+   "stem": "In CKD not on dialysis, when should rapid sequence induction be used?",
+   "options": [
+    "Mild anaemia with stable eGFR",
+    "Controlled hypertension alone",
+    "Diabetic gastroparesis or symptomatic uraemia",
+    "Any patient over 65"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#0bf810",
+   "kind": "statement",
+   "stem": "In CKD not on dialysis, what should be done about renally cleared drugs?",
+   "answer": "Adjust their doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#f04273",
+   "kind": "statement",
+   "stem": "In CKD not on dialysis, when is suxamethonium acceptable?",
+   "answer": "If potassium is below 5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#fd4f35",
+   "kind": "statement",
+   "stem": "In CKD not on dialysis, which electrolyte problem should you watch for with transfusion?",
+   "answer": "Hyperkalaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#651a37",
+   "kind": "statement",
+   "stem": "In ESRF before surgery, what do creatinine, eGFR and their trend tell you?",
+   "answer": "Whether dialysis is adequate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#73a1d4",
+   "kind": "mcq",
+   "stem": "What potassium target before surgery applies in end-stage renal failure?",
+   "options": [
+    "K <5.0-5.5",
+    "K <6.0-6.5",
+    "K <7.0-7.5",
+    "K <3.0-3.5"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#73a1d4",
+   "kind": "statement",
+   "stem": "In ESRF, when should potassium be rechecked if the patient is unstable or you are concerned?",
+   "answer": "4 hours after dialysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#d6391e",
+   "kind": "mcq",
+   "stem": "What haemoglobin target is aimed for with EPO in ESRF anaemia?",
+   "options": [
+    "11-12g/dL",
+    "9-10g/dL",
+    "7-8g/dL",
+    "13-14g/dL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#f99a97",
+   "kind": "statement",
+   "stem": "In ESRF, which cardiac comorbidities mean high MACE risk and count in the RCRI?",
+   "answer": "IHD or MI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#9b7e1b",
+   "kind": "statement",
+   "stem": "In ESRF, which IV induction agents are generally safe?",
+   "answer": "Propofol, etomidate, thiopental",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#6cf4d3",
+   "kind": "statement",
+   "stem": "In ESRF, why should the thiopental dose be reduced?",
+   "answer": "Larger volume of distribution and less protein binding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#ee6952",
+   "kind": "statement",
+   "stem": "In ESRF at induction, why is hypotension more likely?",
+   "answer": "Uraemia and antihypertensives",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#c7d622",
+   "kind": "statement",
+   "stem": "Why may induction agents have exaggerated CNS effects in ESRF?",
+   "answer": "Uraemia disrupts the blood-brain barrier",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#22814f",
+   "kind": "mcq",
+   "stem": "In ESRF, what potassium level allows suxamethonium to be given?",
+   "options": [
+    "Less than 6 mmol/L",
+    "Less than 5.5 mmol/L",
+    "Less than 7 mmol/L",
+    "Less than 5 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#838881",
+   "kind": "statement",
+   "stem": "In ESRF, what can you say about volatile elimination and the kidneys?",
+   "answer": "It does not depend on the kidneys",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#2f6252",
+   "kind": "statement",
+   "stem": "In ESRF, how should non-depolarising relaxants be chosen?",
+   "answer": "By clearance route",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#9b0729",
+   "kind": "statement",
+   "stem": "In ESRF, why can small blood loss or starting IPPV drop blood pressure sharply?",
+   "answer": "Blunted sympathetic activity limits compensatory vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#236741",
+   "kind": "statement",
+   "stem": "In ESRF analgesia, which opioid properties should guide the choice?",
+   "answer": "Without active metabolites or renal excretion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#4fa6bc",
+   "kind": "mcq",
+   "stem": "Which opioids form neurotoxic metabolites cleared by the kidney in ESRF?",
+   "options": [
+    "Fentanyl and sufentanil",
+    "Morphine and pethidine",
+    "Remifentanil and alfentanil",
+    "Methadone and buprenorphine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#9a6182",
+   "kind": "statement",
+   "stem": "Which morphine metabolite is more potent than morphine and can accumulate in ESRF?",
+   "answer": "Morphine-6-glucuronide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#8d18d5",
+   "kind": "statement",
+   "stem": "In ESRF, which hydromorphone metabolite can accumulate?",
+   "answer": "Hydromorphone-3-glucuronide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#8d18d5",
+   "kind": "blank",
+   "stem": "In ESRF, hydromorphone can be used with monitoring and ____.",
+   "answer": "dose reduction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#de5dac",
+   "kind": "statement",
+   "stem": "Why avoid NSAIDs in ESRF analgesia?",
+   "answer": "They worsen hypertension and oedema and raise cardiovascular risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#176976",
+   "kind": "statement",
+   "stem": "In end-stage renal failure, why must intravenous fluids be given carefully?",
+   "answer": "Risk of fluid overload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#9f400e",
+   "kind": "mcq",
+   "stem": "In end-stage renal failure, what urine output should be aimed for in a patient still passing urine?",
+   "options": [
+    "1 mL/kg/h",
+    "0.5 mL/kg/h",
+    "2 mL/kg/h",
+    "0.1 mL/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#b9faba",
+   "kind": "blank",
+   "stem": "Hartmann's solution contains ____ potassium.",
+   "answer": "4 mEq/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#cba9ba",
+   "kind": "statement",
+   "stem": "What is the main drawback of 0.9% saline as a maintenance fluid in end-stage renal failure?",
+   "answer": "It can worsen acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#c0e60f",
+   "kind": "statement",
+   "stem": "In end-stage renal failure, why should hypercapnia be avoided?",
+   "answer": "It worsens acidaemia, depresses circulation and raises potassium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#b34692",
+   "kind": "blank",
+   "stem": "For surgery in end-stage renal failure, consider placing an ____ line.",
+   "answer": "arterial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#b9864a",
+   "kind": "statement",
+   "stem": "In end-stage renal failure, why is CVP often very helpful for guiding fluids?",
+   "answer": "Even mild renal impairment tolerates volume poorly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#4b1b94",
+   "kind": "statement",
+   "stem": "In end-stage renal failure, what are alternatives to CVP for guiding fluid therapy?",
+   "answer": "TOE or FloTrac",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#d2548d",
+   "kind": "statement",
+   "stem": "In end-stage renal failure, which uraemic problem can increase blood loss during surgery?",
+   "answer": "Uraemic platelet dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#d36a8d",
+   "kind": "statement",
+   "stem": "In end-stage renal failure, how should renally excreted relaxants such as rocuronium be handled?",
+   "answer": "Monitor and reverse in all",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#e6b1ed",
+   "kind": "mcq",
+   "stem": "What proportion of neostigmine do the kidneys clear in end-stage renal failure?",
+   "options": [
+    "About 25%",
+    "About 75%",
+    "About 50%",
+    "About 10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#e6b1ed",
+   "kind": "statement",
+   "stem": "Which two anticholinesterases are about 75% cleared by the kidneys in end-stage renal failure?",
+   "answer": "Edrophonium and pyridostigmine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#cdfd61",
+   "kind": "statement",
+   "stem": "What should be checked after surgery in end-stage renal failure?",
+   "answer": "Electrolytes, urea, creatinine and haematocrit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#3168de",
+   "kind": "mcq",
+   "stem": "Which opioid is preferred for patient-controlled analgesia in end-stage renal failure?",
+   "options": [
+    "Morphine",
+    "Pethidine",
+    "Hydromorphone",
+    "Fentanyl"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#733f08",
+   "kind": "mcq",
+   "stem": "In haemodialysis patients, how long before elective surgery is the last dialysis best timed?",
+   "options": [
+    "Same morning as surgery",
+    "1 week before surgery",
+    "12-24hr before surgery",
+    "48-72hr before surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#6aceb4",
+   "kind": "mcq",
+   "stem": "How long should surgery wait after haemodialysis, to allow fluid equilibration?",
+   "options": [
+    "1-2h",
+    "4-6h",
+    "30 minutes",
+    "24-48h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#85132c",
+   "kind": "mcq",
+   "stem": "When should electrolytes be rechecked after haemodialysis before surgery?",
+   "options": [
+    "Immediately after dialysis",
+    "4hrs after dialysis",
+    "The day after surgery",
+    "24hrs before surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#d8eed6",
+   "kind": "statement",
+   "stem": "In haemodialysis patients, why is the fluid margin narrow during surgery?",
+   "answer": "No renal function means a narrow margin between too little and too much",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#3e2d5b",
+   "kind": "mcq",
+   "stem": "In haemodialysis patients, what small fluid bag is suggested to avoid accidental boluses?",
+   "options": [
+    "500ml Hartmann's",
+    "100ml normal saline",
+    "1 litre normal saline",
+    "250ml colloid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#ca24ea",
+   "kind": "blank",
+   "stem": "In haemodialysis patients, pad the elbows, knees and ____.",
+   "answer": "ankles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#ca24ea",
+   "kind": "statement",
+   "stem": "Why do haemodialysis patients' skin bruise and slough easily when positioned for surgery?",
+   "answer": "Poor nutrition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#6bfd97",
+   "kind": "statement",
+   "stem": "How should an arteriovenous fistula be protected during surgery?",
+   "answer": "Pad well, do not tuck the arm if possible, check the thrill",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#8dd7d6",
+   "kind": "mcq",
+   "stem": "When can haemodialysis restart after surgery?",
+   "options": [
+    "Same day as surgery",
+    "1 week after surgery",
+    "1 day after surgery",
+    "3 days after surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#832d6a",
+   "kind": "statement",
+   "stem": "What causes the neurological symptoms of dialysis disequilibrium syndrome?",
+   "answer": "Cerebral oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#67e348",
+   "kind": "blank",
+   "stem": "Dialysis disequilibrium risk rises when predialysis urea is above ____.",
+   "answer": "175mg/dL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#61f41d",
+   "kind": "statement",
+   "stem": "What is the mechanism of dialysis disequilibrium syndrome?",
+   "answer": "Rapid urea removal lowers plasma osmolality; brain urea cannot equilibrate in time, so water enters the brain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#9c93cc",
+   "kind": "statement",
+   "stem": "When do features of dialysis disequilibrium syndrome appear?",
+   "answer": "During or just after haemodialysis, or when starting CRRT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#b41f19",
+   "kind": "statement",
+   "stem": "How is dialysis disequilibrium syndrome prevented?",
+   "answer": "Slow urea removal when starting dialysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#5e9f24",
+   "kind": "statement",
+   "stem": "How should dialysis disequilibrium syndrome be managed during dialysis?",
+   "answer": "Slow blood flow or stop dialysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#5e9f24",
+   "kind": "mcq",
+   "stem": "How is raising osmolality with mannitol or 3% saline viewed in dialysis disequilibrium?",
+   "options": [
+    "Standard first-line",
+    "Contraindicated",
+    "Controversial",
+    "Routinely required"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#41cace",
+   "kind": "statement",
+   "stem": "Why drain peritoneal dialysis fluid before anaesthesia?",
+   "answer": "It protects breathing and gastric emptying",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#e978e8",
+   "kind": "mcq",
+   "stem": "How long can peritoneal dialysis usually be omitted before surgery?",
+   "options": [
+    "4-6h",
+    "1 week",
+    "12-24hr",
+    "24-48h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-kidney-disease#597d76",
+   "kind": "mcq",
+   "stem": "Which dialysis type may a peritoneal dialysis patient need after abdominal surgery?",
+   "options": [
+    "Plasma exchange",
+    "Haemodialysis",
+    "No dialysis for a week",
+    "Kidney transplant"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

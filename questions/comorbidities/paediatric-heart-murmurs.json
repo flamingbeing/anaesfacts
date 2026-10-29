@@ -1,0 +1,125 @@
+{
+ "topic": "comorbidities/paediatric-heart-murmurs",
+ "questions": [
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#dfafc9",
+   "kind": "mcq",
+   "stem": "In paediatric heart murmurs, in which period of life are most pathological murmurs found?",
+   "options": [
+    "Adolescence",
+    "The neonatal period",
+    "Early childhood after age 5",
+    "Adulthood"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#09f0ee",
+   "kind": "statement",
+   "stem": "In paediatric heart murmurs, who usually already knows about a child's innocent or abnormal murmurs?",
+   "answer": "Parents and the family doctor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#f91b35",
+   "kind": "statement",
+   "stem": "For a child with known, often treated congenital heart disease, what is needed on the day of surgery?",
+   "answer": "The notes hold what is needed; no extra tests",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#864185",
+   "kind": "statement",
+   "stem": "In paediatric heart murmurs, what makes a murmur first heard at preoperative assessment difficult?",
+   "answer": "It is new, so its significance is unknown",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#9ec908",
+   "kind": "mcq",
+   "stem": "In paediatric heart murmurs, what percentage of normal children have functional or flow murmurs at some time?",
+   "options": [
+    "Up to 5%",
+    "Up to 10%",
+    "Up to 50%",
+    "Up to 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#5d189a",
+   "kind": "statement",
+   "stem": "Apart from having no symptoms, what features make a murmur innocent in a child?",
+   "answer": "Normal growth and normal exercise tolerance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#4ff7a2",
+   "kind": "statement",
+   "stem": "In paediatric heart murmurs, which symptoms suggest that a murmur is pathological?",
+   "answer": "Failure to thrive, poor exercise tolerance, cyanotic episodes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#eddd68",
+   "kind": "statement",
+   "stem": "What are the 7 S's that describe an innocent murmur, such as Still's murmur?",
+   "answer": "Soft, sweet, short, systolic, small, single, louder supine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#ea0736",
+   "kind": "statement",
+   "stem": "In a child with a heart murmur, which loudness or thrill features suggest pathology rather than innocence?",
+   "answer": "Loud, grade 4-6, or with a thrill",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#50357d",
+   "kind": "mcq",
+   "stem": "In a child with a heart murmur, which heart sound finding is typical of an atrial septal defect?",
+   "options": [
+    "Loud third heart sound",
+    "Opening snap of the mitral valve",
+    "Systolic ejection click",
+    "Fixed split S2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#8cc392",
+   "kind": "statement",
+   "stem": "A child's murmur sounds innocent before surgery. What are the two options?",
+   "answer": "Proceed, with prophylaxis if surgery will cause bacteraemia, or defer for investigation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-heart-murmurs#934677",
+   "kind": "mcq",
+   "stem": "For a child with a heart murmur, below what age should a cardiology opinion also be sought?",
+   "options": [
+    "Younger than 3 months",
+    "Younger than 6 months",
+    "Younger than 1 year",
+    "Younger than 5 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

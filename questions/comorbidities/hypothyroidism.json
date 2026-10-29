@@ -1,0 +1,325 @@
+{
+ "topic": "comorbidities/hypothyroidism",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hypothyroidism#a1e520",
+   "kind": "mcq",
+   "stem": "Which respiratory problem is linked to hypothyroidism in anaesthesia?",
+   "options": [
+    "Bronchospasm",
+    "Hypoventilation",
+    "Pulmonary oedema",
+    "Hyperventilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#a815ce",
+   "kind": "mcq",
+   "stem": "In hypothyroidism, what total T4 level counts as very low in severe disease?",
+   "options": [
+    "Below 4.5 mcg/dL",
+    "Below 2.5 mcg/dL",
+    "Below 1.0 mcg/dL",
+    "Below 0.1 mcg/dL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#a815ce",
+   "kind": "mcq",
+   "stem": "In hypothyroidism, what free T4 level counts as very low in severe disease?",
+   "options": [
+    "Below 1.2 ng/dL",
+    "Below 0.05 ng/dL",
+    "Below 2.0 ng/dL",
+    "Below 0.5 ng/dL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#51116b",
+   "kind": "mcq",
+   "stem": "Which biochemistry defines overt hypothyroidism without severe features?",
+   "options": [
+    "Raised TSH, normal free T4",
+    "Raised TSH, low free T4",
+    "Low TSH, low free T4",
+    "Normal TSH, low free T4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#b0a5d6",
+   "kind": "mcq",
+   "stem": "What is the biochemical pattern of subclinical hypothyroidism?",
+   "options": [
+    "Low free T4 with low TSH",
+    "Normal free T4 with low TSH",
+    "Normal free T4 with raised TSH",
+    "Raised free T4 with normal TSH"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#8b1f32",
+   "kind": "statement",
+   "stem": "Preoperatively, what should be looked for in a goitre in hypothyroidism?",
+   "answer": "Tracheal compression or deviation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#524e76",
+   "kind": "statement",
+   "stem": "Besides thyroid disease, what should be checked preoperatively in hypothyroidism?",
+   "answer": "Other autoimmune disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#6ac22e",
+   "kind": "statement",
+   "stem": "In hypothyroidism, why does T3 stay normal until disease is severe?",
+   "answer": "More T4 is converted to T3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#8206a0",
+   "kind": "mcq",
+   "stem": "In hypothyroidism, what should be done with levothyroxine before surgery?",
+   "options": [
+    "Omit it for three days",
+    "Double the dose the day before",
+    "Continue T4 on the morning of surgery",
+    "Switch to IV T3 only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#c331d8",
+   "kind": "statement",
+   "stem": "Why is one missed levothyroxine dose before surgery acceptable?",
+   "answer": "Half-life about 7 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#80b7ce",
+   "kind": "mcq",
+   "stem": "After how long without an enteral route should IV levothyroxine be started in hypothyroidism?",
+   "options": [
+    "1 day",
+    "2 days",
+    "10 days",
+    "5 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#80b7ce",
+   "kind": "mcq",
+   "stem": "If enteral route is unavailable, what IV levothyroxine dose is used in hypothyroidism?",
+   "options": [
+    "100% of the oral dose",
+    "20% to 40% of the oral dose",
+    "60% to 80% of the oral dose",
+    "10% to 20% of the oral dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#0688bf",
+   "kind": "statement",
+   "stem": "In hypothyroidism, when should replacement be started?",
+   "answer": "As soon as diagnosed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#f858fb",
+   "kind": "mcq",
+   "stem": "What levothyroxine dose suits young patients with hypothyroidism needing near full replacement?",
+   "options": [
+    "25 mcg daily",
+    "0.8 mcg/kg daily",
+    "1.6 mcg/kg daily",
+    "50 mcg daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#d83218",
+   "kind": "mcq",
+   "stem": "What levothyroxine dose suits older patients or those with cardiopulmonary disease in hypothyroidism?",
+   "options": [
+    "1.6 mcg/kg daily",
+    "100 to 150 mcg daily",
+    "25 to 50 mcg daily",
+    "5 to 10 mcg daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#d83218",
+   "kind": "mcq",
+   "stem": "How often is levothyroxine increased in older or cardiopulmonary patients with hypothyroidism?",
+   "options": [
+    "Every day",
+    "Every two to six weeks",
+    "Every two to six months",
+    "Once a year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#6431c6",
+   "kind": "mcq",
+   "stem": "In hypothyroidism, when should elective surgery go ahead?",
+   "options": [
+    "Proceed without any delay",
+    "Postpone until euthyroid",
+    "Operate once TSH is normal",
+    "Cancel and refer for medical review"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#fc87b6",
+   "kind": "mcq",
+   "stem": "What is the approach to urgent surgery in hypothyroidism?",
+   "options": [
+    "Postpone until T4 is replaced for five days",
+    "Proceed only after IV T3 loading",
+    "Proceed without delay, accepting possible minor perioperative complications",
+    "Cancel and refer for medical review"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#1caaea",
+   "kind": "mcq",
+   "stem": "If myxoedema coma is a concern, what should be given for rapid thyroid correction?",
+   "options": [
+    "Oral levothyroxine tablets only",
+    "Both T3 and T4",
+    "Propranolol alone",
+    "Oral T3 only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#1309f4",
+   "kind": "mcq",
+   "stem": "What is the IV levothyroxine loading dose in hypothyroidism?",
+   "options": [
+    "25-50 mcg",
+    "200-300 mcg",
+    "20-30 mcg",
+    "500-600 mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#1309f4",
+   "kind": "mcq",
+   "stem": "What daily IV levothyroxine dose follows the loading dose in hypothyroidism?",
+   "options": [
+    "100 mcg daily",
+    "50 mcg daily",
+    "25 mcg daily",
+    "75 mcg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#af15f2",
+   "kind": "mcq",
+   "stem": "With thyroid hormone replacement, how long until basal metabolic rate peaks?",
+   "options": [
+    "1-2 days",
+    "10-12 days",
+    "20-24 hours",
+    "3-4 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#0ef5d9",
+   "kind": "mcq",
+   "stem": "What IV T3 loading dose is used in hypothyroidism?",
+   "options": [
+    "200-300 mcg",
+    "5-20 mcg",
+    "50-100 mcg",
+    "1-2 mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#0ef5d9",
+   "kind": "mcq",
+   "stem": "How often is IV T3 maintenance given in hypothyroidism?",
+   "options": [
+    "Once daily",
+    "Every eight hours",
+    "Every two hours",
+    "Once weekly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypothyroidism#04129b",
+   "kind": "mcq",
+   "stem": "In hypothyroidism, what intraoperative ventilation is used if hypoventilating?",
+   "options": [
+    "Spontaneous ventilation alone",
+    "Reduced minute ventilation",
+    "Controlled ventilation",
+    "Sedation without ventilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

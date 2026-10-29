@@ -1,0 +1,197 @@
+{
+ "topic": "comorbidities/pericardial-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/pericardial-disease#915782",
+   "kind": "statement",
+   "stem": "Acute pericarditis often follows which type of infection?",
+   "answer": "A viral infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#fa38df",
+   "kind": "statement",
+   "stem": "What can acute pericarditis be complicated by?",
+   "answer": "Myocarditis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#80dea6",
+   "kind": "mcq",
+   "stem": "What ECG finding is typical of acute pericarditis?",
+   "options": [
+    "ST elevation in a single coronary territory",
+    "Widespread ST depression",
+    "Widespread ST elevation not matching a coronary territory",
+    "Pathological Q waves in V1 to V3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#c8007c",
+   "kind": "mcq",
+   "stem": "After acute pericarditis, how long should elective surgery be postponed?",
+   "options": [
+    "1 week",
+    "2 weeks",
+    "6 weeks",
+    "6 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#336dc1",
+   "kind": "statement",
+   "stem": "What role do steroids have in acute pericarditis?",
+   "answer": "Uncertain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#aec26c",
+   "kind": "mcq",
+   "stem": "Constrictive pericarditis can follow an autoimmune disease. Which autoimmune condition is an example?",
+   "options": [
+    "Gout",
+    "Asthma",
+    "SLE",
+    "Psoriasis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#159d5f",
+   "kind": "statement",
+   "stem": "In constrictive pericarditis, how does pericardectomy respond, and what sets its risk?",
+   "answer": "Responds well; risk depends on how chronic the constriction is",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#4feba2",
+   "kind": "mcq",
+   "stem": "Which of these is a symptom of constrictive pericarditis?",
+   "options": [
+    "Fatigue",
+    "Painful swallowing",
+    "Facial flushing",
+    "Urinary frequency"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#40e396",
+   "kind": "statement",
+   "stem": "What is pulsus paradoxus in constrictive pericarditis?",
+   "answer": "Exaggerated inspiratory fall in systolic BP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#40e396",
+   "kind": "blank",
+   "stem": "In constrictive pericarditis, pulsus paradoxus is an exaggerated inspiratory fall in systolic BP of more than ____ mmHg.",
+   "answer": "10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#cb9511",
+   "kind": "mcq",
+   "stem": "What does echocardiography show in constrictive pericarditis?",
+   "options": [
+    "Systolic function markedly reduced, diastolic preserved",
+    "Both systolic and diastolic function markedly reduced",
+    "Normal function, with no diastolic change",
+    "Systolic function preserved, diastolic function markedly reduced"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#66ef98",
+   "kind": "mcq",
+   "stem": "In constrictive pericarditis, what heart rate range should be kept?",
+   "options": [
+    "40-50",
+    "60-80",
+    "90-110",
+    "120-140"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#5dccd2",
+   "kind": "statement",
+   "stem": "How should volume status be kept in constrictive pericarditis?",
+   "answer": "Well filled",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#718d87",
+   "kind": "statement",
+   "stem": "In constrictive pericarditis, which pressure should be kept low?",
+   "answer": "Intrathoracic pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#718d87",
+   "kind": "statement",
+   "stem": "In constrictive pericarditis, how should ventilation be managed if possible?",
+   "answer": "Maintain spontaneous ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#8d5836",
+   "kind": "mcq",
+   "stem": "Which is the inotrope of choice in constrictive pericarditis?",
+   "options": [
+    "Phenylephrine",
+    "Glyceryl trinitrate",
+    "Milrinone",
+    "Vasopressin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#8d5836",
+   "kind": "statement",
+   "stem": "Why is milrinone chosen in constrictive pericarditis?",
+   "answer": "It lowers SVR and increases contractility",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pericardial-disease#00202b",
+   "kind": "mcq",
+   "stem": "In constrictive pericarditis, which anaesthetic technique is ideal?",
+   "options": [
+    "General anaesthesia with high-dose opioid",
+    "Deep sedation only",
+    "Neuraxial or regional techniques",
+    "Ketamine infusion alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
