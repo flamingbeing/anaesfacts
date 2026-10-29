@@ -1,0 +1,195 @@
+{
+ "topic": "procedures/catheter-ablation",
+ "questions": [
+  {
+   "fact_id": "procedures/catheter-ablation#51c5d7",
+   "kind": "statement",
+   "stem": "Which other procedure has broadly the same anaesthetic concerns as AF catheter ablation?",
+   "answer": "Implantable defibrillator insertion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#2cb156",
+   "kind": "mcq",
+   "stem": "What is the long-term success rate of AF catheter ablation?",
+   "options": [
+    "About 50%",
+    "About 70%",
+    "About 90%",
+    "About 30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#4e4e78",
+   "kind": "statement",
+   "stem": "What problem does the remote location of AF catheter ablation create?",
+   "answer": "Poor access to the patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#8e326c",
+   "kind": "blank",
+   "stem": "For AF catheter ablation, the two concerns are heparinisation and ____.",
+   "answer": "radiation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#6e92b3",
+   "kind": "statement",
+   "stem": "What rhythm disturbance is a risk during AF catheter ablation?",
+   "answer": "Bradyarrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#066886",
+   "kind": "statement",
+   "stem": "What does OSD stand for in AF catheter ablation?",
+   "answer": "Pulmonary vein ostial segmental disconnection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#88a9be",
+   "kind": "statement",
+   "stem": "How are the wires for left atrial circumferential ablation (LACA) introduced?",
+   "answer": "Passed through the foramen ovale",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#3ab6dd",
+   "kind": "mcq",
+   "stem": "How long does an AF catheter ablation case last?",
+   "options": [
+    "Less than 30 mins",
+    "More than 3 hrs",
+    "About 45 mins",
+    "Under 1 hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#8972d7",
+   "kind": "mcq",
+   "stem": "What ACT is targeted for transseptal puncture in AF catheter ablation?",
+   "options": [
+    "150-200",
+    "250-300",
+    "350-400",
+    "100-120"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#8972d7",
+   "kind": "statement",
+   "stem": "Which step of AF catheter ablation needs heparin to an ACT of 250-300?",
+   "answer": "Transseptal puncture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#25a0ae",
+   "kind": "statement",
+   "stem": "Why should fluids be restricted during AF catheter ablation?",
+   "answer": "Large irrigation volumes, and a distended left atrium makes ablation harder",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#b64df9",
+   "kind": "mcq",
+   "stem": "Which drugs should be ready for vagal reflexes during AF ablation near the pulmonary veins?",
+   "options": [
+    "Metoprolol or esmolol",
+    "Adrenaline or noradrenaline",
+    "Lignocaine or amiodarone",
+    "Atropine or glycopyrrolate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#8a57e1",
+   "kind": "statement",
+   "stem": "What must be excluded when a patient becomes hypotensive during AF catheter ablation?",
+   "answer": "Pericardial effusion or tamponade, or aortic puncture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#6a8c31",
+   "kind": "mcq",
+   "stem": "In AF catheter ablation, the phrenic nerve lies close to which vein?",
+   "options": [
+    "Left lower pulmonary vein",
+    "Left upper pulmonary vein",
+    "Superior vena cava",
+    "Right upper pulmonary vein"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#9015c5",
+   "kind": "statement",
+   "stem": "Why must the patient not be paralysed during AF catheter ablation?",
+   "answer": "The phrenic nerve is paced and diaphragm movement is watched",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#f520de",
+   "kind": "statement",
+   "stem": "How does VT and VF ablation compare with AF catheter ablation?",
+   "answer": "Done less often and much less stable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#6ea37a",
+   "kind": "statement",
+   "stem": "What anaesthetic set-up is used for VT and VF ablation?",
+   "answer": "GA with ETT, arterial line and CVP line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#a79844",
+   "kind": "blank",
+   "stem": "In VT and VF ablation, avoid antiarrhythmic drugs such as ____.",
+   "answer": "lignocaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#d11b04",
+   "kind": "statement",
+   "stem": "What is mandatory for VT and VF ablation?",
+   "answer": "Defibrillator pads",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/catheter-ablation#ab149c",
+   "kind": "statement",
+   "stem": "What can cause heart failure after VT and VF ablation?",
+   "answer": "Myocardial stunning and large fluid volumes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

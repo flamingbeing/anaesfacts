@@ -1,0 +1,381 @@
+{
+ "topic": "physiology/inhaled-anaesthetic-kinetics",
+ "questions": [
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#392e54",
+   "kind": "statement",
+   "stem": "How are inhaled anaesthetic agents mainly eliminated from the body?",
+   "answer": "Through the lungs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#43812a",
+   "kind": "mcq",
+   "stem": "Does recovery from an inhaled agent simply reverse its induction?",
+   "options": [
+    "Yes, recovery exactly reverses induction",
+    "No, they are not mirror images",
+    "Yes, but only with nitrous oxide",
+    "No, recovery is always faster"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#73a790",
+   "kind": "mcq",
+   "stem": "Why do highly fat-soluble agents slow recovery after long anaesthetics in obese patients?",
+   "options": [
+    "They are cleared rapidly by the lungs",
+    "They build up in fat stores",
+    "They are inactivated by plasma enzymes",
+    "They cause prolonged muscle weakness"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#8385d7",
+   "kind": "blank",
+   "stem": "Of an inhaled anaesthetic dose, only a small ____ is metabolised.",
+   "answer": "fraction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#c8e952",
+   "kind": "mcq",
+   "stem": "At steady state, how are alveolar, arterial and brain partial pressures related?",
+   "options": [
+    "Brain is always double arterial",
+    "They are in equilibrium",
+    "Alveolar always exceeds arterial",
+    "Arterial always exceeds brain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#bfc680",
+   "kind": "statement",
+   "stem": "Why is alveolar partial pressure useful to monitor during inhalational anaesthesia?",
+   "answer": "It is an indirect measure of brain partial pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#260fe7",
+   "kind": "mcq",
+   "stem": "How long can alveolar and brain agent levels take to reach steady state?",
+   "options": [
+    "Many hours",
+    "Under one minute",
+    "About fifteen minutes",
+    "About thirty seconds"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#5d54a6",
+   "kind": "statement",
+   "stem": "What sets how fast alveolar and brain partial pressures approach equilibrium?",
+   "answer": "Patient and agent factors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#7cffe3",
+   "kind": "mcq",
+   "stem": "Why does a high inspired concentration speed inhalational induction?",
+   "options": [
+    "It lowers the alveolar-blood gradient",
+    "It creates a larger alveolar-blood gradient",
+    "It slows the rise in arterial level",
+    "It enlarges functional residual capacity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#09d0e9",
+   "kind": "statement",
+   "stem": "On emergence with zero inspired concentration, where is the agent driven from the blood?",
+   "answer": "Into the alveoli",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#e5e873",
+   "kind": "statement",
+   "stem": "Why does more alveolar ventilation speed inhalational onset?",
+   "answer": "Alveolar partial pressure rises faster",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#b90b12",
+   "kind": "mcq",
+   "stem": "What does high minute ventilation do to inhalational induction and emergence?",
+   "options": [
+    "Slows only induction",
+    "Speeds both induction and emergence",
+    "Slows both induction and emergence",
+    "Speeds only emergence"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#9f3d1e",
+   "kind": "mcq",
+   "stem": "For speeding induction, which agents does alveolar ventilation affect most?",
+   "options": [
+    "Insoluble agents such as nitrous oxide",
+    "Soluble agents such as diethyl ether",
+    "Intravenous agents such as propofol",
+    "Oral premedication drugs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#1a233b",
+   "kind": "mcq",
+   "stem": "Why does a large functional residual capacity slow inhalational onset?",
+   "options": [
+    "It dilutes the inspired agent",
+    "It concentrates the inspired agent",
+    "It increases cardiac output",
+    "It speeds brain uptake"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#f20e0f",
+   "kind": "mcq",
+   "stem": "What does nitrous oxide do to a companion inhaled agent, the second gas?",
+   "options": [
+    "Increases its uptake",
+    "Decreases its uptake",
+    "Has no effect on uptake",
+    "Blocks its metabolism"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#802894",
+   "kind": "blank",
+   "stem": "The blood–gas partition coefficient is also called the ____ solubility coefficient.",
+   "answer": "Ostwald",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#96924a",
+   "kind": "mcq",
+   "stem": "What determines the anaesthetic effect of an inhaled agent?",
+   "options": [
+    "Total amount of agent inhaled",
+    "Partial pressure in blood and brain",
+    "Volume of agent in the cylinder",
+    "Weight of agent per kilogram"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#e86d13",
+   "kind": "statement",
+   "stem": "Why is induction slower with highly soluble inhaled agents?",
+   "answer": "A larger blood reservoir must fill first",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#426748",
+   "kind": "blank",
+   "stem": "A large blood reservoir for soluble agents slows induction and also slows ____.",
+   "answer": "emergence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#f35657",
+   "kind": "mcq",
+   "stem": "At equilibrium, the blood–gas partition coefficient is the ratio of what?",
+   "options": [
+    "Agent amount in blood to gas",
+    "Agent amount in gas to blood",
+    "Ventilation to cardiac output ratio",
+    "Alveolar to inspired agent ratio"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#cde6f0",
+   "kind": "mcq",
+   "stem": "What does a lower blood–gas partition coefficient do to induction and washout speed?",
+   "options": [
+    "Speeds them up",
+    "Slows them down",
+    "Leaves them unchanged",
+    "Reverses their order"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#62d44a",
+   "kind": "blank",
+   "stem": "With other factors equal, isoflurane induction and emergence are ____ than desflurane.",
+   "answer": "slower",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#edf6f6",
+   "kind": "mcq",
+   "stem": "Why does low cardiac output speed inhalational onset?",
+   "options": [
+    "More uptake, so alveolar level rises slower",
+    "Less uptake, so alveolar level rises faster",
+    "Greater minute ventilation slows alveolar rise",
+    "Higher blood flow dilutes the agent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#7b5744",
+   "kind": "statement",
+   "stem": "Why does high cardiac output slow the alveolar rise of an inhaled agent?",
+   "answer": "It keeps the alveolar-blood gradient high",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#463e38",
+   "kind": "mcq",
+   "stem": "How much does cardiac output affect modern, fairly insoluble inhaled agents?",
+   "options": [
+    "Much less than soluble agents",
+    "Much more than soluble agents",
+    "Exactly as much as soluble agents",
+    "Entirely, as with soluble agents"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#0b166a",
+   "kind": "mcq",
+   "stem": "How is the brain–blood partition coefficient defined?",
+   "options": [
+    "Brain-to-blood agent concentration ratio at equal partial pressures",
+    "Blood-to-brain agent concentration ratio at equal volumes",
+    "Brain-to-blood ratio at maximal dose",
+    "Brain-to-blood ratio at zero pressure"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#8bd8be",
+   "kind": "blank",
+   "stem": "The brain–blood coefficient sets how fast the brain ____.",
+   "answer": "equilibrates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#4f0de8",
+   "kind": "mcq",
+   "stem": "What does a lower brain–blood coefficient do to induction and emergence?",
+   "options": [
+    "Speeds both",
+    "Slows both",
+    "Has no effect",
+    "Speeds only emergence"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#4212ca",
+   "kind": "mcq",
+   "stem": "Which decrement time matters if waking follows a 50% fall in concentration?",
+   "options": [
+    "50% decrement time",
+    "80% decrement time",
+    "Oil–gas coefficient",
+    "Ostwald solubility coefficient"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#d27be8",
+   "kind": "mcq",
+   "stem": "As anaesthesia lengthens, what happens to decrement time differences between agents?",
+   "options": [
+    "They widen",
+    "They narrow",
+    "They vanish",
+    "They stay the same"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#f36e2d",
+   "kind": "mcq",
+   "stem": "Which decrement time is almost identical across inhaled agents?",
+   "options": [
+    "50% decrement time",
+    "80% decrement time",
+    "Blood–gas partition coefficient",
+    "Oil–gas partition coefficient"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/inhaled-anaesthetic-kinetics#97fcbe",
+   "kind": "mcq",
+   "stem": "What mainly determines the first phase of inhaled agent elimination?",
+   "options": [
+    "Alveolar ventilation",
+    "Fat solubility",
+    "Hepatic blood flow",
+    "Plasma protein binding"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

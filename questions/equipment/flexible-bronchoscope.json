@@ -1,0 +1,577 @@
+{
+ "topic": "equipment/flexible-bronchoscope",
+ "questions": [
+  {
+   "fact_id": "equipment/flexible-bronchoscope#baf5e4",
+   "kind": "mcq",
+   "stem": "In a flexible bronchoscope, how do the coated glass fibres carry light and images?",
+   "options": [
+    "Electrical signal conduction",
+    "Total internal reflection",
+    "Diffraction through a lens",
+    "Reflection from a mirror"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#67f889",
+   "kind": "mcq",
+   "stem": "How wide are the glass fibres in a flexible bronchoscope?",
+   "options": [
+    "50-200 micrometres",
+    "5-20 micrometres",
+    "1-2 millimetres",
+    "0.1-0.5 micrometres"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#d03d5c",
+   "kind": "statement",
+   "stem": "What does the thin outer glass coat on each bronchoscope fibre do?",
+   "answer": "Optically insulates it from its neighbours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#bc5211",
+   "kind": "mcq",
+   "stem": "How many fibres does a typical bronchoscope fibre bundle hold?",
+   "options": [
+    "Up to 500 fibres",
+    "Up to 60000 fibres",
+    "Up to 10000 fibres",
+    "Up to 100 fibres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#b2aa70",
+   "kind": "statement",
+   "stem": "In image fibre bundles, what does a coherent arrangement mean?",
+   "answer": "The same layout at both ends",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#1a899c",
+   "kind": "mcq",
+   "stem": "Through what angle range does the tip deflection knob bend the tip?",
+   "options": [
+    "10-45 degrees in the vertical plane",
+    "60-180 degrees in the vertical plane",
+    "30-90 degrees in the horizontal plane",
+    "180-360 degrees in the horizontal plane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#69dc6d",
+   "kind": "mcq",
+   "stem": "What must the insertion cord's outer diameter be relative to the tracheal tube's internal diameter?",
+   "options": [
+    "Equal to the tube ID",
+    "Above 0.9 of the tube ID",
+    "Below 0.9 of the tube ID",
+    "Above 1.2 times the tube ID"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#def68c",
+   "kind": "mcq",
+   "stem": "How many glass fibre bundles does a flexible bronchoscope have?",
+   "options": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#ce9600",
+   "kind": "statement",
+   "stem": "What runs in the insertion cord to steer the tip?",
+   "answer": "Angulation wires",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#045610",
+   "kind": "mcq",
+   "stem": "What is the field of view of a flexible bronchoscope?",
+   "options": [
+    "60°",
+    "90°",
+    "120°",
+    "180°"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#045610",
+   "kind": "mcq",
+   "stem": "How far can the bronchoscope tip angulate upwards?",
+   "options": [
+    "90°",
+    "130°",
+    "45°",
+    "180°"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#7f722e",
+   "kind": "statement",
+   "stem": "What are the uses of the bronchoscope working channel?",
+   "answer": "Suction of secretions; instillation of lignocaine or saline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#61403c",
+   "kind": "statement",
+   "stem": "How is light supplied to a flexible bronchoscope?",
+   "answer": "A light cable from an external source",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#f53b25",
+   "kind": "mcq",
+   "stem": "Which condition is a contraindication to flexible bronchoscopy?",
+   "options": [
+    "Mild anaemia",
+    "Stable hypertension",
+    "Uncontrolled coagulopathy",
+    "Well-treated asthma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#a9b645",
+   "kind": "statement",
+   "stem": "During bronchoscopic examination, through which adaptor is the scope entered?",
+   "answer": "The catheter mount adaptor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#e480aa",
+   "kind": "mcq",
+   "stem": "How long is the adult trachea from cricoid to bifurcation?",
+   "options": [
+    "10-15 cm",
+    "5-8 cm",
+    "20-25 cm",
+    "1-3 cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#f28a77",
+   "kind": "mcq",
+   "stem": "What is the diameter of the adult trachea?",
+   "options": [
+    "8-10 mm",
+    "12-15 mm",
+    "19-22 mm",
+    "30-35 mm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#f11f90",
+   "kind": "mcq",
+   "stem": "Which label is given to the carina in bronchoscopic examination?",
+   "options": [
+    "B1",
+    "C2",
+    "C1",
+    "T1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#3575c7",
+   "kind": "mcq",
+   "stem": "What are the outer diameter and working channel of the Ambu Regular single-use scope?",
+   "options": [
+    "5.8/2.8 mm",
+    "5.0/2.2 mm",
+    "3.8/1.2 mm",
+    "2.2/0 mm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#01e153",
+   "kind": "mcq",
+   "stem": "What are the outer diameter and working channel of the Ambu Large single-use scope?",
+   "options": [
+    "2.2/0 mm",
+    "5.0/2.2 mm",
+    "5.8/2.8 mm",
+    "3.8/1.2 mm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#668e3d",
+   "kind": "mcq",
+   "stem": "Which Ambu single-use scope has outer diameter 3.8 mm and a 1.2 mm working channel?",
+   "options": [
+    "Large",
+    "Regular",
+    "Zero",
+    "Slim"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#bf4504",
+   "kind": "mcq",
+   "stem": "Which Ambu single-use scope has outer diameter 3.2 mm and a 1.2 mm working channel?",
+   "options": [
+    "Regular",
+    "Zero",
+    "Slim",
+    "Large"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#ef851a",
+   "kind": "mcq",
+   "stem": "Which Ambu single-use scope has outer diameter 2.2 mm and no working channel?",
+   "options": [
+    "Regular",
+    "Large",
+    "Slim",
+    "Zero"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#01b5de",
+   "kind": "mcq",
+   "stem": "In the right bronchial tree, at what clock position is the right upper lobe bronchus seen?",
+   "options": [
+    "0600",
+    "0900",
+    "0300",
+    "1500"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#01b5de",
+   "kind": "mcq",
+   "stem": "How far into the right main bronchus is the right upper lobe bronchus seen?",
+   "options": [
+    "1-2 cm",
+    "3-4 cm",
+    "5-6 cm",
+    "0.5 cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#f27cc6",
+   "kind": "mcq",
+   "stem": "How many segments does the right upper lobe bronchus have?",
+   "options": [
+    "2",
+    "4",
+    "3",
+    "5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#97f7b4",
+   "kind": "mcq",
+   "stem": "On bronchoscopy, what nickname is given to the apical, posterior and anterior right upper lobe trifurcation?",
+   "options": [
+    "D'Artagnan",
+    "Mercedes-Benz",
+    "3 Musketeers",
+    "PAN PAN PAN"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#e34117",
+   "kind": "mcq",
+   "stem": "In the right bronchial tree, how often does the right upper lobe bronchus arise directly off the carina?",
+   "options": [
+    "1/25",
+    "1/250",
+    "1/50",
+    "1/2500"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#8b751b",
+   "kind": "statement",
+   "stem": "In the right bronchial tree, what does the tertiary carina (C3) divide into?",
+   "answer": "Middle and lower lobe bronchi",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#ecbf1a",
+   "kind": "mcq",
+   "stem": "In the right tree, which scope turn makes the tertiary carina vertical with the membranous part inferior?",
+   "options": [
+    "90 degrees to the left",
+    "90 degrees to the right",
+    "45 degrees to the left",
+    "180 degrees to the left"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#d768a7",
+   "kind": "mcq",
+   "stem": "In the right tree's arrow pattern, at what clock position is the middle lobe bronchus seen?",
+   "options": [
+    "0300",
+    "0900",
+    "1200",
+    "1500"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#2373f7",
+   "kind": "mcq",
+   "stem": "How many segments does the right middle lobe bronchus have?",
+   "options": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#305803",
+   "kind": "blank",
+   "stem": "In the right middle lobe, segment RB4 is the ____ segment and RB5 is the medial segment.",
+   "answer": "lateral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#664738",
+   "kind": "statement",
+   "stem": "In the right bronchial tree, at which carina does the lower lobe bronchus divide?",
+   "answer": "Quaternary carina (C4)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#ee7f83",
+   "kind": "mcq",
+   "stem": "How many segments does the right lower lobe have?",
+   "options": [
+    "3",
+    "4",
+    "6",
+    "5"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#10b1e2",
+   "kind": "mcq",
+   "stem": "In the right lower lobe, at what clock position is the superior (apical) segment RB6 seen?",
+   "options": [
+    "0300",
+    "0900",
+    "0600",
+    "1500"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#0e0e10",
+   "kind": "mcq",
+   "stem": "What nickname is given to the right lower lobe's medial basal segment RB7?",
+   "options": [
+    "3 Musketeers",
+    "D'Artagnan",
+    "PAN PAN PAN",
+    "Mercedes-Benz"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#700e1b",
+   "kind": "mcq",
+   "stem": "What nickname is given to the right lower lobe's basal segments RB8, RB9 and RB10?",
+   "options": [
+    "D'Artagnan",
+    "PAN PAN PAN",
+    "Mercedes-Benz",
+    "3 Musketeers"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#dc774d",
+   "kind": "statement",
+   "stem": "In the left bronchial tree, what does the left main bronchus divide into at C2?",
+   "answer": "Upper and lower lobe bronchi",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#3ccc63",
+   "kind": "mcq",
+   "stem": "How many segments does the left upper lobe bronchus have?",
+   "options": [
+    "2",
+    "3",
+    "5",
+    "4"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#fc0047",
+   "kind": "mcq",
+   "stem": "In the left tree, what does the left upper lobe bronchus divide into at the 0900 position?",
+   "options": [
+    "Upper and lingular divisions",
+    "Apical and posterior divisions",
+    "Middle and lower divisions",
+    "Anterior and basal divisions"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#5312ed",
+   "kind": "blank",
+   "stem": "In the left upper division, the segments are apicoposterior LB1/2 and ____ LB3.",
+   "answer": "anterior",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#8a3409",
+   "kind": "mcq",
+   "stem": "In the left bronchial tree, which two segments make up the lingula?",
+   "options": [
+    "Superior LB4 and inferior LB5",
+    "Apical LB6 and anterior LB3",
+    "Anteromedial LB8 and lateral LB9",
+    "Lateral LB9 and posterior LB10"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#729263",
+   "kind": "mcq",
+   "stem": "In the left lower lobe, at what clock position is the apical segment LB6 seen?",
+   "options": [
+    "0300",
+    "0900",
+    "0600",
+    "1500"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#c94d9c",
+   "kind": "mcq",
+   "stem": "What nickname is given to the left lower lobe's segments LB8, LB9 and LB10?",
+   "options": [
+    "3 Musketeers",
+    "D'Artagnan",
+    "PAN PAN PAN",
+    "Mercedes-Benz"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/flexible-bronchoscope#35d333",
+   "kind": "blank",
+   "stem": "For flexible bronchoscopy with high-grade airway obstruction, take ____ caution.",
+   "answer": "extreme",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

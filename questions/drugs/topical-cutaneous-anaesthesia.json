@@ -1,0 +1,539 @@
+{
+ "topic": "drugs/topical-cutaneous-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#c734d8",
+   "kind": "statement",
+   "stem": "For which procedures in children is topical cutaneous anaesthesia routine?",
+   "answer": "Cannulation and venepuncture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#a6d657",
+   "kind": "statement",
+   "stem": "In the example topical anaesthesia order, which agent is applied on call to theatre?",
+   "answer": "Ametop",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#a76958",
+   "kind": "mcq",
+   "stem": "What is the composition of the EMLA eutectic mixture?",
+   "options": [
+    "5% lidocaine alone",
+    "4% tetracaine alone",
+    "2.5% lidocaine and 2.5% prilocaine",
+    "5% prilocaine alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#74a143",
+   "kind": "mcq",
+   "stem": "How much lidocaine does each gram of EMLA contain?",
+   "options": [
+    "12.5 mg",
+    "25 mg",
+    "50 mg",
+    "2.5 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#86f3fb",
+   "kind": "mcq",
+   "stem": "Which tube sizes is EMLA cream supplied in?",
+   "options": [
+    "10 g or 50 g",
+    "5 g or 30 g",
+    "2 g or 15 g",
+    "1 g or 20 g"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#b849c1",
+   "kind": "statement",
+   "stem": "In EMLA, what does it mean that the mixture is eutectic?",
+   "answer": "Two compounds mixed behave with one set of physical properties",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#f56475",
+   "kind": "statement",
+   "stem": "Why is EMLA an oil at room temperature, unlike either drug alone?",
+   "answer": "Its melting point is 16°C, below either drug's",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#ff0613",
+   "kind": "mcq",
+   "stem": "From what age is EMLA licensed for use?",
+   "options": [
+    "1 month",
+    "6 months",
+    "1 year",
+    "3 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#a71172",
+   "kind": "statement",
+   "stem": "Where should EMLA be applied on the skin?",
+   "answer": "Intact skin over visible veins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#5a896e",
+   "kind": "statement",
+   "stem": "What are two uses of EMLA cream before procedures?",
+   "answer": "Before vascular cannulation or harvesting skin grafts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#856f7a",
+   "kind": "mcq",
+   "stem": "What is the minimum time EMLA must be applied before use?",
+   "options": [
+    "5 minutes",
+    "20 minutes",
+    "30 minutes",
+    "60 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#d000e6",
+   "kind": "statement",
+   "stem": "How does EMLA analgesic depth change with application time?",
+   "answer": "It increases; after 120 min it exceeds mean skin thickness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#8c00f8",
+   "kind": "mcq",
+   "stem": "After 1 hour of EMLA, in what percentage of children does it work?",
+   "options": [
+    "25%",
+    "45%",
+    "65%",
+    "85%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#da8f92",
+   "kind": "blank",
+   "stem": "EMLA's effect lasts ____ minutes after removal.",
+   "answer": "30-60",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#76e94a",
+   "kind": "statement",
+   "stem": "What is the pattern of EMLA's action on skin blood vessels?",
+   "answer": "Biphasic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#c81990",
+   "kind": "mcq",
+   "stem": "At what time after EMLA application is vasoconstriction maximal?",
+   "options": [
+    "30 minutes",
+    "1.5 hours",
+    "4 hours",
+    "8 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#c81990",
+   "kind": "statement",
+   "stem": "What EMLA effect can make venepuncture harder?",
+   "answer": "Vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#d11e7f",
+   "kind": "mcq",
+   "stem": "When does EMLA cause vasodilatation and erythema?",
+   "options": [
+    "After 10-20 minutes",
+    "After 2-3 hours",
+    "After 6-8 hours",
+    "After 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#06445f",
+   "kind": "statement",
+   "stem": "Unlike Ametop, what does EMLA mainly do to skin vessels?",
+   "answer": "Vasoconstricts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#40ca90",
+   "kind": "statement",
+   "stem": "Which prilocaine metabolite causes methaemoglobinaemia with EMLA?",
+   "answer": "o-toluidine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#5809ab",
+   "kind": "statement",
+   "stem": "Where must EMLA not be applied, because absorption is rapid?",
+   "answer": "Broken skin or mucous membranes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#77dad2",
+   "kind": "statement",
+   "stem": "Which drug class needs caution with EMLA because toxicity is additive?",
+   "answer": "Class I antiarrhythmics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#87ca66",
+   "kind": "statement",
+   "stem": "EMLA should be avoided in which congenital or idiopathic blood condition?",
+   "answer": "Methaemoglobinaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#8eb6e1",
+   "kind": "statement",
+   "stem": "Which drugs raise the risk of methaemoglobinaemia with EMLA?",
+   "answer": "Methaemoglobin-inducing drugs, such as sulfonamides and phenytoin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#2a708b",
+   "kind": "statement",
+   "stem": "Why are neonatal red cells vulnerable to EMLA-related methaemoglobinaemia?",
+   "answer": "They lack methaemoglobin reductase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#039129",
+   "kind": "statement",
+   "stem": "Why are preterm neonates at extra risk from EMLA?",
+   "answer": "Thinner stratum corneum, so more absorption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#326a11",
+   "kind": "mcq",
+   "stem": "Below what age is EMLA used with particular caution?",
+   "options": [
+    "1 month",
+    "3 months",
+    "6 months",
+    "12 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#f08625",
+   "kind": "mcq",
+   "stem": "Under the BNF (2003), what is EMLA's status for infants aged 1–12 months?",
+   "options": [
+    "Licensed for routine use",
+    "Unlicensed",
+    "Contraindicated at all ages",
+    "Licensed only over 6 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#f08625",
+   "kind": "statement",
+   "stem": "At what age does the BNF (2003) say EMLA is not recommended?",
+   "answer": "Under 1 month",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#29773f",
+   "kind": "mcq",
+   "stem": "Which EMLA regimen was shown safe in term neonates before circumcision?",
+   "options": [
+    "0.1 g on the arm for 30 min",
+    "1 g on the prepuce for 1 h",
+    "5 g on the scalp for 2 h",
+    "2 g on the thigh for 4 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#29773f",
+   "kind": "mcq",
+   "stem": "In term neonates given EMLA before circumcision, what mean MetHb level was seen?",
+   "options": [
+    "0.3%",
+    "5.3%",
+    "1.3%",
+    "13%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#f67800",
+   "kind": "mcq",
+   "stem": "What is Ametop's active drug and strength?",
+   "options": [
+    "2% tetracaine",
+    "4% tetracaine",
+    "4% lidocaine",
+    "5% prilocaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#e1ff12",
+   "kind": "statement",
+   "stem": "Why does Ametop cross the stratum corneum more easily than EMLA's drugs?",
+   "answer": "It is more lipophilic than lidocaine and prilocaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#e0d593",
+   "kind": "mcq",
+   "stem": "From what age is Ametop licensed for use?",
+   "options": [
+    "Birth",
+    "1 month",
+    "6 months",
+    "1 year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#120745",
+   "kind": "statement",
+   "stem": "How does Ametop's efficacy compare with EMLA?",
+   "answer": "Equal to or better than EMLA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#bcb549",
+   "kind": "statement",
+   "stem": "What dressing is applied over Ametop, as for EMLA?",
+   "answer": "Occlusive dressing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#8132d0",
+   "kind": "mcq",
+   "stem": "What is Ametop's onset of action?",
+   "options": [
+    "10 min",
+    "20 min",
+    "40 min",
+    "90 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#8132d0",
+   "kind": "blank",
+   "stem": "Ametop's action lasts about ____ hours after removal.",
+   "answer": "4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#be9aae",
+   "kind": "statement",
+   "stem": "What does Ametop's depot in the stratum corneum do?",
+   "answer": "Releases slowly, limiting systemic uptake and prolonging action",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#b6fb56",
+   "kind": "mcq",
+   "stem": "What proportion develop erythema after 40 minutes of Ametop?",
+   "options": [
+    "5-10%",
+    "10-20%",
+    "30-40%",
+    "60-70%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#b6fb56",
+   "kind": "statement",
+   "stem": "Why is erythema with Ametop not regarded as a true side effect?",
+   "answer": "It is expected local vasodilatation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#bef30a",
+   "kind": "mcq",
+   "stem": "What share of patients get itch with Ametop?",
+   "options": [
+    "2%",
+    "15%",
+    "10%",
+    "35%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#bef30a",
+   "kind": "mcq",
+   "stem": "What share of patients get local oedema with Ametop?",
+   "options": [
+    "1%",
+    "20%",
+    "5%",
+    "40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#e87b34",
+   "kind": "statement",
+   "stem": "What does ethyl chloride spray give before venepuncture or cannulation?",
+   "answer": "Instant skin analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#d23aff",
+   "kind": "mcq",
+   "stem": "What temperature does ethyl chloride cool the skin to?",
+   "options": [
+    "between 0°C and 5°C",
+    "between -10°C and -20°C",
+    "between -30°C and -40°C",
+    "between 10°C and 15°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#bd093a",
+   "kind": "statement",
+   "stem": "What is the main advantage of ethyl chloride over creams?",
+   "answer": "Immediate onset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#d5555e",
+   "kind": "statement",
+   "stem": "On which skin must ethyl chloride spray be avoided?",
+   "answer": "Broken skin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#1614c8",
+   "kind": "mcq",
+   "stem": "How long should ethyl chloride be sprayed?",
+   "options": [
+    "1 to 2 seconds",
+    "15 to 20 seconds",
+    "3 to 7 seconds",
+    "30 to 60 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#1614c8",
+   "kind": "statement",
+   "stem": "What is the longest an ethyl chloride spray should last?",
+   "answer": "10 seconds",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#4fc002",
+   "kind": "blank",
+   "stem": "Hold the ethyl chloride can about ____ away from the skin.",
+   "answer": "6 inches",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/topical-cutaneous-anaesthesia#4cd4c0",
+   "kind": "mcq",
+   "stem": "How long does ethyl chloride numbness last?",
+   "options": [
+    "10 seconds",
+    "1 minute",
+    "5 minutes",
+    "30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

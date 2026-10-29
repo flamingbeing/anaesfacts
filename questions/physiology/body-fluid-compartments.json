@@ -1,0 +1,705 @@
+{
+ "topic": "physiology/body-fluid-compartments",
+ "questions": [
+  {
+   "fact_id": "physiology/body-fluid-compartments#091e2e",
+   "kind": "mcq",
+   "stem": "What is the blood volume of an infant, in ml per kg?",
+   "options": [
+    "40 ml/kg",
+    "60 ml/kg",
+    "80 ml/kg",
+    "110 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#b8731c",
+   "kind": "mcq",
+   "stem": "What is the blood volume of an adult male, in ml per kg?",
+   "options": [
+    "60 ml/kg",
+    "70 ml/kg",
+    "75 ml/kg",
+    "85 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#1162f6",
+   "kind": "mcq",
+   "stem": "What is the blood volume of an adult female, in ml per kg?",
+   "options": [
+    "65 ml/kg",
+    "55 ml/kg",
+    "60 ml/kg",
+    "75 ml/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#238a46",
+   "kind": "mcq",
+   "stem": "What is the blood volume of a neonate, in ml per kg?",
+   "options": [
+    "65 ml/kg",
+    "75 ml/kg",
+    "85 ml/kg",
+    "95 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#bf0002",
+   "kind": "statement",
+   "stem": "What does water distribution between body fluid compartments depend on?",
+   "answer": "The osmolality (protein content) inside and outside cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#e9e0e2",
+   "kind": "mcq",
+   "stem": "How much total body water does a 70 kg adult male have?",
+   "options": [
+    "28 litres",
+    "14 litres",
+    "35 litres",
+    "42 litres"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#fc537d",
+   "kind": "mcq",
+   "stem": "Over what range, as a share of body weight, does total body water vary?",
+   "options": [
+    "30-40%",
+    "50-80%",
+    "85-95%",
+    "60-65%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#44dc42",
+   "kind": "mcq",
+   "stem": "What share of body weight is total body water in a neonate?",
+   "options": [
+    "50-60%",
+    "60-70%",
+    "75-85%",
+    "85-95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#a20241",
+   "kind": "mcq",
+   "stem": "What share of body weight is total body water in an infant?",
+   "options": [
+    "60%",
+    "75%",
+    "85%",
+    "70%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#e0ce7b",
+   "kind": "mcq",
+   "stem": "What share of body weight is total body water in an adult?",
+   "options": [
+    "55%",
+    "50%",
+    "60%",
+    "65%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#e40743",
+   "kind": "mcq",
+   "stem": "What share of body weight is total body water in the elderly?",
+   "options": [
+    "40%",
+    "50%",
+    "60%",
+    "70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#25b574",
+   "kind": "mcq",
+   "stem": "What share of body weight is total body water in an adult male?",
+   "options": [
+    "50%",
+    "60%",
+    "70%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#b83c59",
+   "kind": "mcq",
+   "stem": "What share of body weight is total body water in an adult female?",
+   "options": [
+    "40%",
+    "45%",
+    "50%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#e90a5a",
+   "kind": "mcq",
+   "stem": "Where is intracellular fluid (ICF) located?",
+   "options": [
+    "Inside cell membranes",
+    "Within blood vessels",
+    "Between capillary walls",
+    "In lymphatic vessels"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#c36179",
+   "kind": "mcq",
+   "stem": "What fraction of total body water is intracellular fluid?",
+   "options": [
+    "1/4",
+    "1/3",
+    "2/3",
+    "3/4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#c36179",
+   "kind": "mcq",
+   "stem": "What percentage of body weight is intracellular fluid in an adult?",
+   "options": [
+    "20%",
+    "40%",
+    "60%",
+    "70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#fc8e76",
+   "kind": "mcq",
+   "stem": "What is the exact ICF to ECF ratio?",
+   "options": [
+    "11.6 : 23",
+    "14 : 28",
+    "9.5 : 3.5",
+    "23 : 11.6"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#e58a92",
+   "kind": "mcq",
+   "stem": "Where is extracellular fluid (ECF) located?",
+   "options": [
+    "Inside cell membranes",
+    "Only inside blood vessels",
+    "Within the cell nucleus",
+    "Outside cell membranes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#56f7d4",
+   "kind": "mcq",
+   "stem": "What fraction of total body water is extracellular fluid?",
+   "options": [
+    "1/2",
+    "1/4",
+    "1/3",
+    "2/3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#56f7d4",
+   "kind": "mcq",
+   "stem": "What percentage of body weight is extracellular fluid?",
+   "options": [
+    "10%",
+    "15%",
+    "20%",
+    "40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#5ff089",
+   "kind": "mcq",
+   "stem": "What fraction of extracellular fluid is interstitial fluid?",
+   "options": [
+    "1/4",
+    "1/3",
+    "3/4",
+    "1/2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#8df971",
+   "kind": "mcq",
+   "stem": "What is the exact interstitial to intravascular fluid ratio?",
+   "options": [
+    "3.2 : 8.4",
+    "8.4 : 9.5",
+    "3.5 : 9.5",
+    "8.4 : 3.2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#88f310",
+   "kind": "mcq",
+   "stem": "What fraction of extracellular fluid is plasma?",
+   "options": [
+    "1/3",
+    "1/2",
+    "1/5",
+    "1/4"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#7d7382",
+   "kind": "mcq",
+   "stem": "What percentage of body weight is total blood volume in an adult?",
+   "options": [
+    "5%",
+    "7%",
+    "9%",
+    "12%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#7d7382",
+   "kind": "mcq",
+   "stem": "What percentage of body weight is total blood volume in children?",
+   "options": [
+    "5-6%",
+    "7%",
+    "8-9%",
+    "12-15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#c0b288",
+   "kind": "mcq",
+   "stem": "In body fluid compartments, the compartment that is 5% of ECF holds about how much fluid?",
+   "options": [
+    "About 1 L",
+    "About 3.5 L",
+    "About 9.5 L",
+    "About 14 L"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#5a0713",
+   "kind": "mcq",
+   "stem": "What percentage of an adult's body weight is fat?",
+   "options": [
+    "10-15%",
+    "20-25%",
+    "35-40%",
+    "50-60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#e60b80",
+   "kind": "mcq",
+   "stem": "What percentage of a neonate's body weight is fat?",
+   "options": [
+    "1-2%",
+    "5-15%",
+    "20-25%",
+    "30-35%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#be36b2",
+   "kind": "mcq",
+   "stem": "What percentage of body weight is total body water in neonates?",
+   "options": [
+    "50-60%",
+    "60-70%",
+    "75-85%",
+    "85-95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#c844ac",
+   "kind": "mcq",
+   "stem": "In neonates, extracellular fluid is what percentage of body weight?",
+   "options": [
+    "5-15%",
+    "20-25%",
+    "30-45%",
+    "60-70%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#c844ac",
+   "kind": "mcq",
+   "stem": "In premature babies, which fluid compartment is larger than the intracellular fluid?",
+   "options": [
+    "Plasma volume",
+    "Extracellular fluid",
+    "Fat",
+    "Blood volume"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#f2a198",
+   "kind": "mcq",
+   "stem": "In neonates, intracellular fluid is below what percentage of body weight?",
+   "options": [
+    "20%",
+    "40%",
+    "60%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#50a310",
+   "kind": "mcq",
+   "stem": "In neonates, plasma is what percentage of body weight?",
+   "options": [
+    "3%",
+    "5%",
+    "8%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#53d3a1",
+   "kind": "mcq",
+   "stem": "What forms the barrier around the intravascular compartment?",
+   "options": [
+    "Cell membrane",
+    "Capillary endothelium",
+    "Pleural membrane",
+    "Renal tubular epithelium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#916a95",
+   "kind": "mcq",
+   "stem": "What forms the barrier around the intracellular compartment?",
+   "options": [
+    "Cell membrane",
+    "Capillary endothelium",
+    "Blood-brain barrier",
+    "Peritoneal membrane"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#977cc6",
+   "kind": "statement",
+   "stem": "What drives fluid movement between body fluid compartments?",
+   "answer": "Hydrostatic and osmotic pressure gradients (Starling forces)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#3b666e",
+   "kind": "mcq",
+   "stem": "Which forces tend to draw water back into vessels?",
+   "options": [
+    "Hydrostatic pressure alone",
+    "Lymphatic drainage alone",
+    "Pressure from the cell membrane",
+    "Oncotic plus osmotic gradients"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#565bf0",
+   "kind": "statement",
+   "stem": "Which two factors push water out of vessels, against oncotic and osmotic gradients?",
+   "answer": "Hydrostatic pressure and the intact semipermeable capillary wall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#d1f4ea",
+   "kind": "statement",
+   "stem": "Between which two compartments do most fluid shifts occur?",
+   "answer": "Intravascular to interstitial, within the ECF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#dde918",
+   "kind": "mcq",
+   "stem": "Which complication is linked to fluid shifts between ICF and ECF?",
+   "options": [
+    "Pleural effusion",
+    "Ascites",
+    "Cerebral oedema",
+    "Pitting leg oedema"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#a5b522",
+   "kind": "mcq",
+   "stem": "What is the blood volume of an average adult male, in liters?",
+   "options": [
+    "3.6 liters",
+    "2 liters",
+    "5 liters",
+    "7 liters"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#a5b522",
+   "kind": "blank",
+   "stem": "Blood volume in an average adult female is about ____.",
+   "answer": "3.6 liters",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#b60ef2",
+   "kind": "mcq",
+   "stem": "How many compartments make up blood volume?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#6880ec",
+   "kind": "mcq",
+   "stem": "Within blood volume, what is the intracellular red cell volume, in litres?",
+   "options": [
+    "1L",
+    "2L",
+    "3L",
+    "4L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#61059c",
+   "kind": "mcq",
+   "stem": "Within blood volume, what is the plasma (intravascular) volume, in litres?",
+   "options": [
+    "1L",
+    "2L",
+    "4L",
+    "3L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#88ef0f",
+   "kind": "mcq",
+   "stem": "If red cell volume is 2L and plasma is 3L, what is the total blood volume?",
+   "options": [
+    "4L",
+    "6L",
+    "5L",
+    "7L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#20d730",
+   "kind": "mcq",
+   "stem": "How long does the whole blood volume take to circulate once?",
+   "options": [
+    "About 30 seconds",
+    "About one minute (60 s)",
+    "About 3 minutes",
+    "About 5 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#d755d0",
+   "kind": "mcq",
+   "stem": "If the whole blood volume circulates once every minute, what is average cardiac output?",
+   "options": [
+    "1L per minute",
+    "3L per minute",
+    "5L per minute",
+    "7L per minute"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#5a97f5",
+   "kind": "statement",
+   "stem": "How is total body water measured using a tracer?",
+   "answer": "Dilution of a tracer that spreads through all body water",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#cf7c20",
+   "kind": "mcq",
+   "stem": "Which labelled waters are used to measure total body water?",
+   "options": [
+    "Radiolabelled albumin or Evans blue dye",
+    "Deuterium (2H), tritium (3H) or oxygen-18",
+    "Iodine-131 labelled red cells",
+    "Chromium-51 labelled red cells"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#946a6b",
+   "kind": "mcq",
+   "stem": "Which tracer measures extracellular fluid (ECF) volume?",
+   "options": [
+    "One that stays within the vessels",
+    "One that enters all body water",
+    "One that crosses cell membranes freely",
+    "One that crosses capillaries but not cell membranes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#7f2d02",
+   "kind": "mcq",
+   "stem": "Which tracer measures plasma volume?",
+   "options": [
+    "One that crosses capillaries but not cell membranes",
+    "One that enters all body water",
+    "One that stays in vessels",
+    "One that crosses cell membranes freely"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/body-fluid-compartments#539bcb",
+   "kind": "statement",
+   "stem": "Interstitial volume is not measured directly. How is it estimated?",
+   "answer": "ECF minus plasma volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

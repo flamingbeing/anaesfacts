@@ -1,0 +1,441 @@
+{
+ "topic": "procedures/crs-hipec",
+ "questions": [
+  {
+   "fact_id": "procedures/crs-hipec#e2eb25",
+   "kind": "mcq",
+   "stem": "In CRS with HIPEC, where does the large incision run?",
+   "options": [
+    "Sternum to umbilicus",
+    "Xiphoid to pelvis",
+    "Costal margin to groin",
+    "Umbilicus to symphysis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#1379b1",
+   "kind": "blank",
+   "stem": "In HIPEC, the dialysis fluid carrier causes hypokalaemia, hypomagnesaemia, raised lactate and ____.",
+   "answer": "hyperglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#1ff492",
+   "kind": "mcq",
+   "stem": "In CRS-HIPEC, which chemotherapy class impairs renal function?",
+   "options": [
+    "Taxanes",
+    "Vinca alkaloids",
+    "Anthracyclines",
+    "Platinum agents"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#249a79",
+   "kind": "statement",
+   "stem": "In CRS-HIPEC, what is the only step left once HIPEC is finished?",
+   "answer": "Closure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#f00161",
+   "kind": "mcq",
+   "stem": "How long can very extensive cytoreductive surgery in CRS-HIPEC last?",
+   "options": [
+    "6-8hrs",
+    "2-3hrs",
+    "10-12hrs",
+    "30mins"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#67f439",
+   "kind": "statement",
+   "stem": "Why does blood loss occur during cytoreductive debulking?",
+   "answer": "Raw peritoneal surfaces bleed a lot",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#d223aa",
+   "kind": "statement",
+   "stem": "In cytoreductive surgery, where do very high insensible losses come from?",
+   "answer": "Exposed peritoneum and bowel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#d385f4",
+   "kind": "mcq",
+   "stem": "What is the usual pattern of blood loss during cytoreductive debulking?",
+   "options": [
+    "Immediate large arterial bleeding",
+    "Steady high loss from the start",
+    "Slow ooze rather than sudden massive bleeding",
+    "Negligible loss until closure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#6bc7af",
+   "kind": "statement",
+   "stem": "Why do suction volumes underestimate blood loss in CRS?",
+   "answer": "Much is lost into swabs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#3ed13d",
+   "kind": "mcq",
+   "stem": "In CRS, which haemodynamic monitor is used to guide fluid therapy?",
+   "options": [
+    "Bispectral index",
+    "FloTrac SVV",
+    "Train-of-four ratio",
+    "Entropy score"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#3ed13d",
+   "kind": "statement",
+   "stem": "Which serial ABG values guide fluid therapy in CRS?",
+   "answer": "Hb, lactate, base excess",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#3518bd",
+   "kind": "statement",
+   "stem": "What complication does fluid overload cause during CRS?",
+   "answer": "Bowel oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#daf8f2",
+   "kind": "statement",
+   "stem": "In one CRS fluid approach, which colloid is given after the first litre of crystalloid?",
+   "answer": "Albumin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#9a0c15",
+   "kind": "statement",
+   "stem": "In CRS, which three losses make up the fluid balance calculation?",
+   "answer": "Blood loss, urine output and insensible loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#16afa2",
+   "kind": "mcq",
+   "stem": "What insensible loss figure is used for cytoreductive surgery?",
+   "options": [
+    "2ml/kg",
+    "0",
+    "4-10",
+    "6-8"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#cffebb",
+   "kind": "mcq",
+   "stem": "What end-of-case fluid balance is aimed for in cytoreductive surgery?",
+   "options": [
+    "Zero balance",
+    "1-1.5L positive",
+    "1-1.5L negative",
+    "3-4L positive"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#e9e6fa",
+   "kind": "statement",
+   "stem": "In cystectomy with ileal conduit during CRS, what happens to urine output intraoperatively?",
+   "answer": "Urine output disappears during the operation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#861ab9",
+   "kind": "mcq",
+   "stem": "How long before HIPEC should pre-cooling start?",
+   "options": [
+    "30mins",
+    "1hr",
+    "2hrs",
+    "4hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#861ab9",
+   "kind": "mcq",
+   "stem": "How long does HIPEC preparation take?",
+   "options": [
+    "10mins",
+    "1hr",
+    "30mins",
+    "2hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#ed3b6b",
+   "kind": "mcq",
+   "stem": "Before HIPEC starts, what temperature should be aimed for?",
+   "options": [
+    "35.0 degrees",
+    "36.5 degrees",
+    "37.5 degrees",
+    "39 degrees"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#96afa8",
+   "kind": "mcq",
+   "stem": "During HIPEC, what temperature is common and acceptable?",
+   "options": [
+    "35 degrees",
+    "36 degrees",
+    "37+ degrees",
+    "41 degrees"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#52bd2d",
+   "kind": "statement",
+   "stem": "In HIPEC, when should warming start to avoid temperature rebound?",
+   "answer": "As soon as HIPEC ends",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#ffd767",
+   "kind": "mcq",
+   "stem": "How many minutes early can cooling stop if temperature is unlikely to pass 37?",
+   "options": [
+    "5mins",
+    "10mins",
+    "30mins",
+    "15mins"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#c1a99b",
+   "kind": "mcq",
+   "stem": "Which cooling method is most important during HIPEC?",
+   "options": [
+    "Underbody water blanket",
+    "Forced-air warming",
+    "Ice packs on abdomen",
+    "Cold saline lavage"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#c1a99b",
+   "kind": "mcq",
+   "stem": "What temperature is the underbody water blanket set to during HIPEC?",
+   "options": [
+    "0 degrees",
+    "10 degrees",
+    "5 degrees",
+    "20 degrees"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#31bd35",
+   "kind": "mcq",
+   "stem": "How long before HIPEC should the first ABG be taken?",
+   "options": [
+    "5mins",
+    "30min",
+    "2hrs",
+    "6hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#31bd35",
+   "kind": "statement",
+   "stem": "Before HIPEC, which two values should be corrected, especially in diabetics?",
+   "answer": "K and glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#4d9f33",
+   "kind": "mcq",
+   "stem": "What potassium level is aimed for before HIPEC?",
+   "options": [
+    "K 3",
+    "K 5",
+    "K 4",
+    "K 6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#d07cff",
+   "kind": "statement",
+   "stem": "During HIPEC, when should a repeat ABG be taken?",
+   "answer": "Midway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#397010",
+   "kind": "mcq",
+   "stem": "During HIPEC, what lactate rise may be acceptable if all else is fine?",
+   "options": [
+    "From 1 to 3",
+    "From 1 to 6",
+    "From 3 to 5",
+    "From 0.5 to 1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#69de6e",
+   "kind": "statement",
+   "stem": "After HIPEC, what other role does the ABG serve?",
+   "answer": "End-of-case ABG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#91fa44",
+   "kind": "mcq",
+   "stem": "What urine output is maintained during platinum HIPEC?",
+   "options": [
+    "0.5-1ml/kg/hr",
+    "3-4ml/kg/hr",
+    "5-10ml/kg/hr",
+    "1.5-2ml/kg/hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#6f204c",
+   "kind": "mcq",
+   "stem": "In CRS-HIPEC anaesthesia, which line is used with a fluid warmer?",
+   "options": [
+    "Arterial line with FloTrac",
+    "Epidural catheter",
+    "Large volume line",
+    "Urinary catheter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#989e76",
+   "kind": "mcq",
+   "stem": "In one CRS anaesthetic approach for rectus sheath catheters, which needle is started with?",
+   "options": [
+    "Tuohy needle",
+    "Quincke spinal needle",
+    "Pencil-point needle",
+    "Butterfly needle"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#4697d3",
+   "kind": "mcq",
+   "stem": "In the rectus sheath technique, what does the first pop of the needle mark?",
+   "options": [
+    "Peritoneal cavity",
+    "Anterior rectus sheath",
+    "Subcutaneous fat",
+    "Posterior rectus sheath"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#56784a",
+   "kind": "mcq",
+   "stem": "What volume of local anaesthetic is kept in the syringe to test the catheter?",
+   "options": [
+    "2ml",
+    "10ml",
+    "5ml",
+    "20ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#850faa",
+   "kind": "statement",
+   "stem": "After threading the catheter, what two items are attached before testing?",
+   "answer": "Clip and filter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/crs-hipec#d727fd",
+   "kind": "statement",
+   "stem": "How is the rectus sheath catheter secured in this CRS anaesthetic approach?",
+   "answer": "Skin glue and several loops, leaving little slack",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

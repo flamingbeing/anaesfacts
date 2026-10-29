@@ -1,0 +1,325 @@
+{
+ "topic": "procedures/cholecystectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/cholecystectomy#8ddd94",
+   "kind": "statement",
+   "stem": "In cholecystectomy, why does it matter whether the gallbladder is acute ('hot') or not?",
+   "answer": "It affects aspiration risk and surgical difficulty",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#9a9633",
+   "kind": "mcq",
+   "stem": "What does an intraoperative cholangiogram (IOC) during cholecystectomy need?",
+   "options": [
+    "A cell saver",
+    "An image intensifier",
+    "A bispectral index monitor",
+    "A cardiac output monitor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#465188",
+   "kind": "mcq",
+   "stem": "What share of cholecystectomies begin as open operations?",
+   "options": [
+    "Over 50%",
+    "About 25%",
+    "Fewer than 10%",
+    "Around 40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#e5922d",
+   "kind": "statement",
+   "stem": "What is the usual conversion rate from laparoscopic to open cholecystectomy?",
+   "answer": "About 5%, up to 10% in acute cholecystitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#f20ea5",
+   "kind": "statement",
+   "stem": "Name the causes for converting a laparoscopic cholecystectomy to open surgery.",
+   "answer": "Adhesions, unclear cystic duct anatomy, suspected bile duct injury, uncontrolled cystic artery bleeding, common bile duct stones, acute inflammation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#cee741",
+   "kind": "mcq",
+   "stem": "What table position is used for laparoscopic cholecystectomy once the abdomen is insufflated?",
+   "options": [
+    "15–20° head-down, left side up (Trendelenburg)",
+    "Flat supine, no tilt",
+    "15–20° head-up, right side up (reverse Trendelenburg)",
+    "30° head-up, left side up"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#784709",
+   "kind": "mcq",
+   "stem": "Which antibiotic is usually given for an elective laparoscopic cholecystectomy?",
+   "options": [
+    "Gentamicin",
+    "Vancomycin",
+    "Cefazolin",
+    "Clindamycin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#d60a5b",
+   "kind": "mcq",
+   "stem": "Which ventilation modes suit laparoscopic cholecystectomy?",
+   "options": [
+    "Volume control at fixed flow",
+    "PRVC or pressure control",
+    "Pressure support only",
+    "Spontaneous ventilation with CPAP"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#5328b4",
+   "kind": "mcq",
+   "stem": "How short can a laparoscopic cholecystectomy be?",
+   "options": [
+    "20mins",
+    "30mins",
+    "45mins",
+    "2hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#9ef7dc",
+   "kind": "mcq",
+   "stem": "How long does a laparoscopic cholecystectomy take, depending on difficulty?",
+   "options": [
+    "20-30min",
+    "40-80min",
+    "2-3hrs",
+    "90-120min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#19c42b",
+   "kind": "blank",
+   "stem": "Laparoscopic cholecystectomy with high PONV risk needs prophylaxis, e.g. ____ and ondansetron.",
+   "answer": "dexamethasone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#7b74c7",
+   "kind": "statement",
+   "stem": "In laparoscopic cholecystectomy, what should be done early if the patient starts waking with an LMA?",
+   "answer": "Reverse early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#315f07",
+   "kind": "statement",
+   "stem": "What classic mnemonic describes the typical patient for laparoscopic cholecystectomy?",
+   "answer": "Female, forty, fair, fat and fertile",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#f8c40f",
+   "kind": "mcq",
+   "stem": "Which condition may underlie pigment gallstones in laparoscopic cholecystectomy patients?",
+   "options": [
+    "Iron deficiency anaemia",
+    "Haemolytic anaemia",
+    "Hepatitis B infection",
+    "Acute pancreatitis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#a44ff5",
+   "kind": "mcq",
+   "stem": "What degree of sepsis may acute cholecystitis cause that needs resuscitation?",
+   "options": [
+    "No sepsis at all",
+    "Mild to moderate sepsis",
+    "Severe septic shock only",
+    "Sepsis only after surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#a15910",
+   "kind": "statement",
+   "stem": "Why consider group and crossmatch in recurrent or chronic gallbladder disease before cholecystectomy?",
+   "answer": "Liver adhesions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#f896da",
+   "kind": "statement",
+   "stem": "What extra equipment may laparoscopic cholecystectomy need for cholangiography or bile duct exploration?",
+   "answer": "Fluoroscopy and a choledochoscope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#006ab0",
+   "kind": "mcq",
+   "stem": "Heavy bleeding during laparoscopic cholecystectomy can come from which arteries?",
+   "options": [
+    "Splenic or gastric arteries",
+    "Renal or iliac arteries",
+    "Cystic or hepatic arteries",
+    "Coronary or carotid arteries"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#2de8d5",
+   "kind": "statement",
+   "stem": "In laparoscopic cholecystectomy in an unstable septic patient, what extra monitoring or access may be needed?",
+   "answer": "More IV access, arterial line and CVP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#b54f93",
+   "kind": "statement",
+   "stem": "Why is controlled ventilation used in laparoscopic cholecystectomy?",
+   "answer": "Limits hypercarbia from absorbed CO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#d5fe8e",
+   "kind": "mcq",
+   "stem": "How much 0.25% bupivacaine may go into the gallbladder bed to reduce analgesic need?",
+   "options": [
+    "10mL of 0.25% bupivacaine",
+    "20mL of 0.25% bupivacaine",
+    "20mL of 0.5% bupivacaine",
+    "50mL of 0.25% ropivacaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#fdc750",
+   "kind": "statement",
+   "stem": "Shoulder tip pain after laparoscopic cholecystectomy from pneumoperitoneum: what is the usual course and treatment?",
+   "answer": "Usually self-limiting; NSAIDs if not contraindicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#8caf93",
+   "kind": "mcq",
+   "stem": "Through which incision is an open cholecystectomy performed?",
+   "options": [
+    "Midline laparotomy",
+    "Right lower quadrant incision",
+    "Left upper quadrant incision",
+    "Right upper quadrant incision"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#43b3f4",
+   "kind": "mcq",
+   "stem": "How long does an open cholecystectomy usually take?",
+   "options": [
+    "15min",
+    "30min",
+    "1hr",
+    "4hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#f9d19a",
+   "kind": "mcq",
+   "stem": "How severe is pain after open cholecystectomy?",
+   "options": [
+    "Minimal",
+    "Mild",
+    "Severe",
+    "None"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#656dc8",
+   "kind": "mcq",
+   "stem": "What is the typical blood loss for open cholecystectomy?",
+   "options": [
+    "50mL",
+    "0.5L",
+    "1.5L",
+    "2.5L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#7cc5f2",
+   "kind": "mcq",
+   "stem": "What position is used for open cholecystectomy?",
+   "options": [
+    "Prone",
+    "Lithotomy",
+    "Supine",
+    "Left lateral"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cholecystectomy#dcda6c",
+   "kind": "statement",
+   "stem": "What postoperative analgesic may open cholecystectomy need?",
+   "answer": "PCA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

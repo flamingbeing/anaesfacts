@@ -1,0 +1,631 @@
+{
+ "topic": "equipment/neuromuscular-monitoring",
+ "questions": [
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#14be13",
+   "kind": "statement",
+   "stem": "Which two organ failures potentiate neuromuscular blockade?",
+   "answer": "Renal or liver failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#802480",
+   "kind": "mcq",
+   "stem": "In neuromuscular blockade, which muscle size is more sensitive to the blocking drugs?",
+   "options": [
+    "Larger muscles",
+    "Smaller muscles",
+    "Muscles of equal size",
+    "Only the diaphragm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#048da3",
+   "kind": "statement",
+   "stem": "During surgery, does no twitch at adductor pollicis guarantee a paralysed diaphragm?",
+   "answer": "No; the diaphragm can still move",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#afc6cd",
+   "kind": "mcq",
+   "stem": "Which TOF ratio at adductor pollicis signals full recovery of airway muscles and diaphragm?",
+   "options": [
+    "0.4",
+    "0.6",
+    ">0.9",
+    "0.25"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#b3afa8",
+   "kind": "statement",
+   "stem": "Which nerve is the preferred site for neuromuscular monitoring?",
+   "answer": "Ulnar nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#5bd214",
+   "kind": "mcq",
+   "stem": "For the best ulnar nerve response, how far proximal to the wrist crease is the negative electrode?",
+   "options": [
+    "2 cm",
+    "1 cm",
+    "10 cm",
+    "15 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#5971c3",
+   "kind": "statement",
+   "stem": "Which limb should not be used for neuromuscular monitoring?",
+   "answer": "A paralysed limb",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#76653b",
+   "kind": "statement",
+   "stem": "Why is the negative electrode placed directly over the most superficial part of the nerve?",
+   "answer": "Current is denser around it than around the positive electrode",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#33abaf",
+   "kind": "mcq",
+   "stem": "For ulnar nerve monitoring, which finger is the black lead placed in line with?",
+   "options": [
+    "Thumb",
+    "Index finger",
+    "5th finger",
+    "Middle finger"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#33abaf",
+   "kind": "mcq",
+   "stem": "For ulnar nerve monitoring, how far below the skin crease is the black lead placed?",
+   "options": [
+    "3-4cm",
+    "1-2cm",
+    "5-6cm",
+    "8-10cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#ae20a6",
+   "kind": "statement",
+   "stem": "Why must the stimulus be supramaximal in neuromuscular monitoring?",
+   "answer": "So every motor fibre depolarises",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#ff021e",
+   "kind": "statement",
+   "stem": "For ulnar nerve stimulation, which current range may need increasing in obese patients?",
+   "answer": "40-60mA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#a2c988",
+   "kind": "statement",
+   "stem": "Which stimulus waveform avoids repetitive firing in neuromuscular monitoring?",
+   "answer": "Monophasic square wave",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#a2c988",
+   "kind": "mcq",
+   "stem": "Usually, what stimulus duration is used for nerve stimulation in neuromuscular monitoring?",
+   "options": [
+    "1 ms",
+    "0.1 ms",
+    "0.5 ms",
+    "2 ms"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#82720b",
+   "kind": "statement",
+   "stem": "Besides watching or feeling, how else can the muscle response to nerve stimulation be measured?",
+   "answer": "Force transducer or electrical recording (EMG)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#3cb53e",
+   "kind": "statement",
+   "stem": "For neuromuscular blockade reversal, at what TOF count should you give reversal?",
+   "answer": "TOF count of 3 or more",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#2e39d9",
+   "kind": "statement",
+   "stem": "What display do advanced neuromuscular monitors give for the train-of-four?",
+   "answer": "Graphic and numeric display with trend",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#c7e282",
+   "kind": "statement",
+   "stem": "Over what frequency range are 0.1 ms square-wave stimuli delivered in neuromuscular monitoring?",
+   "answer": "1 Hz to 0.1 Hz",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#3ff182",
+   "kind": "statement",
+   "stem": "Which stimulation frequency is used to find the supramaximal current?",
+   "answer": "1 Hz",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#505e08",
+   "kind": "statement",
+   "stem": "After finding supramaximal current, which frequency is used to watch the block develop?",
+   "answer": "0.1 Hz (one per 10 s)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#1b0894",
+   "kind": "mcq",
+   "stem": "What percentage of receptors must be occupied before twitch height starts to fall?",
+   "options": [
+    "50%",
+    "75%",
+    "30%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#88255e",
+   "kind": "mcq",
+   "stem": "For tetanic stimulation in neuromuscular monitoring, which frequency is usually used?",
+   "options": [
+    "1 Hz",
+    "10 Hz",
+    "50 Hz",
+    "2 Hz"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#3143b7",
+   "kind": "statement",
+   "stem": "Above what stimulation frequency do single twitches fuse into a sustained contraction?",
+   "answer": "30 Hz",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#6fa780",
+   "kind": "mcq",
+   "stem": "In a partial non-depolarising block, what happens to the tetanic response?",
+   "options": [
+    "It fades",
+    "It is unchanged",
+    "It increases",
+    "It doubles"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#c3a9f3",
+   "kind": "statement",
+   "stem": "Why is tetanic stimulation only used in anaesthetised patients?",
+   "answer": "It is painful",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#21363a",
+   "kind": "mcq",
+   "stem": "In train-of-four monitoring, how many stimuli make up each train?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#21363a",
+   "kind": "mcq",
+   "stem": "What is the minimum time before a train-of-four can be repeated?",
+   "options": [
+    "1 second",
+    "5 seconds",
+    "2 seconds",
+    "10 seconds"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#ee4cfc",
+   "kind": "statement",
+   "stem": "During abdominal surgery, what does a twitch count of 1 or 2 show?",
+   "answer": "Depth of block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#7ddf93",
+   "kind": "mcq",
+   "stem": "Under older teaching, at what TOF count could reversal be given with intermediate-acting blockers?",
+   "options": [
+    "6-8",
+    "1-2",
+    "0",
+    "4-5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#c947d4",
+   "kind": "mcq",
+   "stem": "As neuromuscular block deepens, after fade, which train-of-four twitch disappears first?",
+   "options": [
+    "T1",
+    "T3",
+    "T4",
+    "T2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#0b7450",
+   "kind": "statement",
+   "stem": "At what twitch count does current practice reverse neuromuscular block?",
+   "answer": "3 twitches",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#3e2c70",
+   "kind": "statement",
+   "stem": "How is the train-of-four ratio calculated?",
+   "answer": "T4 height divided by T1 height",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#bb6342",
+   "kind": "mcq",
+   "stem": "Which train-of-four ratio indicates residual neuromuscular block?",
+   "options": [
+    "Above 0.9",
+    "Below 0.9",
+    "Exactly 1.0",
+    "Above 0.95"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#74e0d6",
+   "kind": "mcq",
+   "stem": "Above what receptor occupancy does T4 start to shrink?",
+   "options": [
+    "70%",
+    "50%",
+    "90%",
+    "25%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#2f1b8a",
+   "kind": "statement",
+   "stem": "With a three-twitch count, receptor occupancy is above what percentage?",
+   "answer": "80%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#a72bb2",
+   "kind": "statement",
+   "stem": "With a two-twitch count, at what receptor occupancy is T3 lost?",
+   "answer": "85%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#e28fa8",
+   "kind": "statement",
+   "stem": "With a one-twitch count, at what receptor occupancy is T2 lost?",
+   "answer": "90%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#02c610",
+   "kind": "statement",
+   "stem": "With no twitch, receptor occupancy exceeds what percentage?",
+   "answer": "95%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#9e8aee",
+   "kind": "mcq",
+   "stem": "In a post-tetanic count, how long is the 50 Hz tetanus applied?",
+   "options": [
+    "3 seconds",
+    "5 seconds",
+    "10 seconds",
+    "1 second"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#9e8aee",
+   "kind": "mcq",
+   "stem": "In a post-tetanic count, how long is the pause after the tetanus?",
+   "options": [
+    "5 seconds",
+    "1 second",
+    "10 seconds",
+    "3 seconds"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#b7a19d",
+   "kind": "mcq",
+   "stem": "How is twitch count related to depth of block?",
+   "options": [
+    "Directly related",
+    "Inversely related",
+    "Not related",
+    "Exactly equal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#59e8a3",
+   "kind": "statement",
+   "stem": "What is the name of the effect that makes twitches after a tetanus larger?",
+   "answer": "Post-tetanic potentiation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#5b61f9",
+   "kind": "statement",
+   "stem": "Which pattern is used for deep block when the TOF count is zero?",
+   "answer": "Post-tetanic count",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#918e78",
+   "kind": "statement",
+   "stem": "When blockade is maintained by infusion, which post-tetanic count is the aim?",
+   "answer": "PTC of 2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#b62be6",
+   "kind": "statement",
+   "stem": "What does the post-tetanic count predict that makes it useful for very deep blocks?",
+   "answer": "Time to return of single twitch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#1cf3ef",
+   "kind": "mcq",
+   "stem": "What does a post-tetanic count of 2 predict about the twitch response?",
+   "options": [
+    "Twitch back in 5 minutes",
+    "No twitch for about 20-30 minutes",
+    "Full recovery in 2 minutes",
+    "T1 return in 10 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#18c495",
+   "kind": "mcq",
+   "stem": "Which post-tetanic count may follow an intubating dose of relaxant?",
+   "options": [
+    "PTC of 5",
+    "PTC of 0",
+    "PTC of 9",
+    "PTC of 12"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#9f8602",
+   "kind": "mcq",
+   "stem": "At what post-tetanic count does T1 of the train-of-four usually return?",
+   "options": [
+    "2",
+    "5",
+    "9-10",
+    "20-25"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#ea5d02",
+   "kind": "mcq",
+   "stem": "How long can tetanic effects persist and falsely suggest an inadequate block?",
+   "options": [
+    "Up to 1 minute",
+    "Up to 10 minutes",
+    "Up to 6 minutes",
+    "Up to 30 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#7f692f",
+   "kind": "mcq",
+   "stem": "In double-burst stimulation, how many 50 Hz bursts are given?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "One"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#7f692f",
+   "kind": "mcq",
+   "stem": "In double-burst stimulation, how far apart are the two 50 Hz bursts?",
+   "options": [
+    "20 msec",
+    "750 msec",
+    "500 msec",
+    "75 msec"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#7f692f",
+   "kind": "mcq",
+   "stem": "In double-burst stimulation, how many stimuli make up each 50 Hz burst?",
+   "options": [
+    "Two",
+    "Three",
+    "Five",
+    "Ten"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#59e80c",
+   "kind": "statement",
+   "stem": "Measured mechanically, is the double-burst (DBS) ratio more sensitive than the TOF ratio?",
+   "answer": "No; no more sensitive than TOF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#d8bd72",
+   "kind": "statement",
+   "stem": "Above what TOF ratio can observers no longer reliably detect fade at adductor pollicis?",
+   "answer": "0.4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#ff4573",
+   "kind": "mcq",
+   "stem": "If no fade is seen on qualitative TOF, what is the maximum neostigmine dose?",
+   "options": [
+    "5–10 mcg/kg",
+    "20–25 mcg/kg",
+    "40–50 mcg/kg",
+    "50–70 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#1bc34d",
+   "kind": "mcq",
+   "stem": "How long can neostigmine take to reach peak effect before extubation?",
+   "options": [
+    "Up to 1 minute",
+    "Up to 10 minutes",
+    "Up to 2 minutes",
+    "Up to 30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#47dabd",
+   "kind": "statement",
+   "stem": "Name the three measurement methods used by quantitative neuromuscular monitors.",
+   "answer": "EMG, AMG and KMG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/neuromuscular-monitoring#c8250b",
+   "kind": "statement",
+   "stem": "Quantitative readings vary; how many consecutive readings must agree within 10 % before averaging?",
+   "answer": "Two",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

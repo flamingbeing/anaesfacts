@@ -1,0 +1,251 @@
+{
+ "topic": "drugs/sympathetic-drugs",
+ "questions": [
+  {
+   "fact_id": "drugs/sympathetic-drugs#8583c5",
+   "kind": "mcq",
+   "stem": "In anaesthesia, what are sympathomimetic drugs mainly used to support?",
+   "options": [
+    "Urine output",
+    "Blood pressure and the circulation",
+    "Muscle relaxation",
+    "Depth of sedation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#202765",
+   "kind": "mcq",
+   "stem": "What do sympathomimetic drugs act on?",
+   "options": [
+    "Muscarinic and nicotinic receptors",
+    "Adrenoceptors or dopamine receptors",
+    "GABA-A and NMDA receptors",
+    "Opioid mu and kappa receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#338487",
+   "kind": "statement",
+   "stem": "What is the basic chemical structure of sympathomimetic drugs?",
+   "answer": "Benzene ring with amine side chains at C1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#449842",
+   "kind": "blank",
+   "stem": "A sympathomimetic with hydroxyl groups at C3 and C4 is called a ____.",
+   "answer": "catecholamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#7671f1",
+   "kind": "statement",
+   "stem": "Which sympathomimetic catecholamines occur naturally?",
+   "answer": "Adrenaline, noradrenaline, dopamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#0bd64d",
+   "kind": "mcq",
+   "stem": "Which synthetic sympathomimetics are catecholamines?",
+   "options": [
+    "Metaraminol, phenylephrine and clonidine",
+    "Isoprenaline, dobutamine and dopexamine",
+    "Prazosin, phentolamine and tolazoline",
+    "Salbutamol, terbutaline and ephedrine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#53b2df",
+   "kind": "mcq",
+   "stem": "What is metaraminol's receptor profile among sympathomimetic drugs?",
+   "options": [
+    "Alpha-2 agonist with no beta activity",
+    "Beta-2 agonist with weak alpha activity",
+    "Alpha-1 agonist with weak beta activity",
+    "Non-selective phosphodiesterase inhibitor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#ade09c",
+   "kind": "mcq",
+   "stem": "What is noradrenaline's receptor profile among sympathomimetic drugs?",
+   "options": [
+    "Strong beta-2, moderate alpha-1, minimal beta-1",
+    "Strong alpha-1, moderate beta-1, minimal beta-2",
+    "Strong alpha-2, moderate beta-2, minimal alpha-1",
+    "Strong beta-1, moderate alpha-2, minimal beta-2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#274c65",
+   "kind": "mcq",
+   "stem": "What is clonidine's alpha-2 to alpha-1 selectivity ratio?",
+   "options": [
+    "20:1",
+    "2:1",
+    "1:200",
+    "200:1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#8cfb9b",
+   "kind": "mcq",
+   "stem": "Which beta receptors does isoprenaline act on?",
+   "options": [
+    "Beta-1 only, cardioselective",
+    "Beta-2 only, bronchoselective",
+    "Alpha-1 and beta-2 mixed",
+    "Non-selective: beta-1 and beta-2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#aa31a8",
+   "kind": "mcq",
+   "stem": "Dopexamine is a potent agonist at which receptor?",
+   "options": [
+    "Alpha-1",
+    "Beta-1",
+    "Beta-2",
+    "Alpha-2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#aa31a8",
+   "kind": "statement",
+   "stem": "Dopexamine, a potent beta-2 agonist, is used in which condition?",
+   "answer": "Heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#8ed298",
+   "kind": "statement",
+   "stem": "Adrenaline is grouped under which heading among the sympathomimetic drugs?",
+   "answer": "Mixed agonists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#331fd6",
+   "kind": "mcq",
+   "stem": "At how many levels do sympatholytic drugs block the sympathetic system?",
+   "options": [
+    "Two levels",
+    "Three levels",
+    "Four levels",
+    "Five levels"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#ec088e",
+   "kind": "mcq",
+   "stem": "Prazosin is what type of alpha blocker?",
+   "options": [
+    "Non-selective pre-synaptic alpha-2 antagonist",
+    "Reversible beta-1 selective agonist",
+    "Irreversible non-selective alpha-1 agonist",
+    "Highly selective post-synaptic alpha-1 antagonist"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#f32f0e",
+   "kind": "statement",
+   "stem": "Which alpha blocker is long-acting, irreversible and non-selective?",
+   "answer": "Phenoxybenzamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#f32f0e",
+   "kind": "mcq",
+   "stem": "Phenoxybenzamine has higher affinity for which alpha receptor?",
+   "options": [
+    "Alpha-2",
+    "Beta-1",
+    "Alpha-1",
+    "Dopamine D1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#9504a5",
+   "kind": "mcq",
+   "stem": "How does phentolamine compare with phenoxybenzamine?",
+   "options": [
+    "Longer acting, irreversible with alpha agonists",
+    "Shorter acting, irreversible with alpha agonists",
+    "Shorter acting, reversible with alpha agonists",
+    "Longer acting, reversible with alpha agonists"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#f1e91d",
+   "kind": "mcq",
+   "stem": "Among sympatholytic drugs, tolazoline is mainly what kind of agent?",
+   "options": [
+    "A systemic venodilator",
+    "A coronary vasoconstrictor",
+    "A pulmonary vasodilator",
+    "A renal diuretic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#a10fd9",
+   "kind": "statement",
+   "stem": "What do ganglion-blocking sympatholytics block at autonomic ganglia?",
+   "answer": "The post-synaptic action of acetylcholine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sympathetic-drugs#8926f5",
+   "kind": "statement",
+   "stem": "Which ganglion blocker is the only one still used clinically?",
+   "answer": "Trimetaphan",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

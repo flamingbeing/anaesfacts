@@ -1,0 +1,393 @@
+{
+ "topic": "drugs/thiopentone",
+ "questions": [
+  {
+   "fact_id": "drugs/thiopentone#94491b",
+   "kind": "statement",
+   "stem": "Thiopentone is the sulfur analogue of which oxybarbiturate?",
+   "answer": "Pentobarbital",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#5d6b8f",
+   "kind": "blank",
+   "stem": "Thiopentone is supplied as a ____ powder in a 500 mg vial.",
+   "answer": "pale yellow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#b1adbd",
+   "kind": "mcq",
+   "stem": "Why does a thiopentone vial contain nitrogen in place of air?",
+   "options": [
+    "To aid solubility",
+    "To lower the solution's pH",
+    "To speed up onset of action",
+    "To reduce histamine release"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#abc403",
+   "kind": "mcq",
+   "stem": "What pH does sodium carbonate give a thiopentone solution?",
+   "options": [
+    "pH 7.4",
+    "pH 5.2",
+    "pH 10.5",
+    "pH 12.8"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#b06d8b",
+   "kind": "statement",
+   "stem": "In thiopentone solution, why would carbon dioxide from air lower the pH?",
+   "answer": "Dissolving in water releases bicarbonate and hydrogen ions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#02ff4c",
+   "kind": "statement",
+   "stem": "Why is a 2.5% thiopentone solution expected to be bacteriostatic?",
+   "answer": "Its alkaline pH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#196d1e",
+   "kind": "mcq",
+   "stem": "How is 500 mg of thiopentone reconstituted to make a 2.5% solution?",
+   "options": [
+    "In 10 ml sterile water",
+    "In 20 ml normal saline",
+    "In 50 ml sterile water",
+    "In 20 ml sterile water"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#d88b00",
+   "kind": "mcq",
+   "stem": "Which diluent should thiopentone be reconstituted in to avoid precipitation?",
+   "options": [
+    "Sterile water",
+    "Hartmann's solution",
+    "Normal saline",
+    "Glucose 5%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#61b1fe",
+   "kind": "statement",
+   "stem": "Why can thiopentone precipitate when mixed with other IV fluids or drugs?",
+   "answer": "Its solution is very alkaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#cd4560",
+   "kind": "statement",
+   "stem": "For which condition is thiopentone now given only as a continuous infusion?",
+   "answer": "Refractory status epilepticus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#748c80",
+   "kind": "statement",
+   "stem": "What is the main drawback of giving thiopentone rectally?",
+   "answer": "Slow onset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#f65f8c",
+   "kind": "mcq",
+   "stem": "What is the usual IV induction dose of thiopentone?",
+   "options": [
+    "1-2 mg/kg",
+    "10-15 mg/kg",
+    "20-25 mg/kg",
+    "3-5 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#e3251f",
+   "kind": "mcq",
+   "stem": "What is the onset time of IV thiopentone induction?",
+   "options": [
+    "30-45 sec",
+    "5-10 sec",
+    "2-3 min",
+    "10-15 min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#b75d0f",
+   "kind": "mcq",
+   "stem": "What is the duration of action of thiopentone?",
+   "options": [
+    "1-2 mins",
+    "30-60 mins",
+    "5-10 mins",
+    "2-4 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#0a3fdb",
+   "kind": "mcq",
+   "stem": "What is the mechanism of action of thiopentone, shared with other barbiturates?",
+   "options": [
+    "Blocks NMDA receptors",
+    "Blocks sodium channels",
+    "Blocks nicotinic receptors",
+    "Enhances GABA transmission"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#08e7dc",
+   "kind": "statement",
+   "stem": "How does thiopentone affect the cardiovascular system?",
+   "answer": "Dose-dependent depression, less than propofol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#e5df14",
+   "kind": "statement",
+   "stem": "How does thiopentone affect respiration?",
+   "answer": "Dose-dependent depression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#c26eb2",
+   "kind": "statement",
+   "stem": "What does thiopentone do to intracranial pressure, and how?",
+   "answer": "It lowers ICP by reducing cerebral blood flow and blood volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#392b5e",
+   "kind": "statement",
+   "stem": "Which chemical mediator does thiopentone release as an adverse effect?",
+   "answer": "Histamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#c8f40a",
+   "kind": "mcq",
+   "stem": "How often do severe anaphylactic reactions occur with thiopentone?",
+   "options": [
+    "About 1 in 200 administrations",
+    "About 1 in 2 000 administrations",
+    "About 1 in 20 000 administrations",
+    "About 1 in 200 000 administrations"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#bc296a",
+   "kind": "mcq",
+   "stem": "What complication follows accidental intra-arterial thiopentone injection?",
+   "options": [
+    "Tissue necrosis or gangrene",
+    "Bronchospasm",
+    "Pulmonary oedema",
+    "Malignant hyperthermia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#49100e",
+   "kind": "statement",
+   "stem": "Why does intra-arterial thiopentone cause tissue damage?",
+   "answer": "Its pH 10.5 solution meets blood at pH 7.4, shifting drug to the less soluble keto form",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#ba9743",
+   "kind": "mcq",
+   "stem": "What is the absolute contraindication to thiopentone?",
+   "options": [
+    "Controlled hypothyroidism",
+    "Stable angina",
+    "Mild hepatic impairment",
+    "Inducible porphyrias"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#9ab4ec",
+   "kind": "blank",
+   "stem": "Thiopentone is the drug of choice for emergency caesarean section and ____.",
+   "answer": "ECT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#eda8b0",
+   "kind": "mcq",
+   "stem": "For which seizure condition is thiopentone indicated?",
+   "options": [
+    "Acute migraine",
+    "Refractory status epilepticus",
+    "Simple febrile convulsion",
+    "Absence seizures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#3ec2c3",
+   "kind": "mcq",
+   "stem": "What proportion of thiopentone is bound to plasma proteins?",
+   "options": [
+    "40%",
+    "50%",
+    "80%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#c3b28b",
+   "kind": "mcq",
+   "stem": "What is the pKa of thiopentone?",
+   "options": [
+    "7.6",
+    "5.2",
+    "6.4",
+    "8.9"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#c3b28b",
+   "kind": "mcq",
+   "stem": "At pH 7.4, what percentage of free thiopentone is unionised?",
+   "options": [
+    "15%",
+    "60%",
+    "35%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#31934e",
+   "kind": "mcq",
+   "stem": "What percentage of total thiopentone is immediately available as unbound, unionised drug?",
+   "options": [
+    "12%",
+    "3%",
+    "40%",
+    "65%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#148358",
+   "kind": "statement",
+   "stem": "Why does thiopentone have a fast onset of action?",
+   "answer": "High lipid solubility, so it crosses the blood-brain barrier rapidly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#3b6ba0",
+   "kind": "statement",
+   "stem": "What is the volume of distribution of thiopentone, and why?",
+   "answer": "Large, as it is non-polar at physiological pH and very lipid soluble",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#8499a8",
+   "kind": "mcq",
+   "stem": "Why does thiopentone wake a patient quickly after a single bolus?",
+   "options": [
+    "Rapid hepatic clearance",
+    "Renal excretion of the drug",
+    "Enzyme induction by the drug",
+    "Redistribution, not metabolism"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#f3a76f",
+   "kind": "statement",
+   "stem": "How is thiopentone metabolised?",
+   "answer": "Slowly by the liver to inactive metabolites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#1a2e92",
+   "kind": "statement",
+   "stem": "What does a single dose of thiopentone do to liver enzymes?",
+   "answer": "Induces hepatic cytochrome P450",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/thiopentone#e893ab",
+   "kind": "mcq",
+   "stem": "What percentage of thiopentone is excreted unchanged in urine?",
+   "options": [
+    "10-15%",
+    "30-40%",
+    "60-70%",
+    "0.5-2%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

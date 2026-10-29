@@ -1,0 +1,663 @@
+{
+ "topic": "physiology/minimum-alveolar-concentration",
+ "questions": [
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#f619b3",
+   "kind": "mcq",
+   "stem": "Which property does inhalational anaesthetic potency relate to, per the Meyer-Overton correlation?",
+   "options": [
+    "Lipid solubility",
+    "Water solubility",
+    "Molecular weight",
+    "Ionisation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#ff18bf",
+   "kind": "mcq",
+   "stem": "Which partition coefficient gives an inhalational agent's lipid solubility?",
+   "options": [
+    "Blood:gas partition coefficient",
+    "Oil:gas partition coefficient",
+    "Octanol:water partition coefficient",
+    "Brain:blood partition coefficient"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#b4a1b7",
+   "kind": "mcq",
+   "stem": "In MAC, what percentage of subjects must stop purposeful movement to a standard surgical stimulus?",
+   "options": [
+    "25%",
+    "50%",
+    "95%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#ea39d2",
+   "kind": "mcq",
+   "stem": "How is the alveolar concentration of an inhalational agent estimated during MAC work?",
+   "options": [
+    "From mixed venous blood",
+    "From end-tidal concentration",
+    "From arterial blood gas",
+    "From inspired concentration alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#5bac30",
+   "kind": "mcq",
+   "stem": "MAC is a special case of which dose-response measure?",
+   "options": [
+    "ED50",
+    "ED95",
+    "LD50",
+    "MIC"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#d90fee",
+   "kind": "mcq",
+   "stem": "What standard stimulus is used to measure MAC in humans?",
+   "options": [
+    "Skin incision on the forearm",
+    "Tetanic stimulation of the ulnar nerve",
+    "Tracheal intubation",
+    "Cutaneous pinch on the abdomen"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#ff40e5",
+   "kind": "mcq",
+   "stem": "How long is a volunteer held at a set end-tidal concentration when measuring MAC?",
+   "options": [
+    "5 minutes",
+    "10 minutes",
+    "15 minutes",
+    "30 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#5eb41d",
+   "kind": "statement",
+   "stem": "In MAC testing, what response is watched for after the noxious stimulus?",
+   "answer": "Purposeful movement of the head or limb",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#8c646d",
+   "kind": "statement",
+   "stem": "How is the anaesthetic concentration adjusted between trials in a MAC determination?",
+   "answer": "Stepped up or down according to the response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#67e6bd",
+   "kind": "mcq",
+   "stem": "On a MAC dose-response curve, what does the MAC point represent?",
+   "options": [
+    "50% not moving",
+    "95% not moving",
+    "100% moving",
+    "Loss of consciousness"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#306965",
+   "kind": "statement",
+   "stem": "Why is MAC useful for comparing inhalational agents?",
+   "answer": "It normalises potency, so agents can be compared",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#1d1bbf",
+   "kind": "mcq",
+   "stem": "If 0.5 MAC of one agent is combined with 0.4 MAC of another, what is the total?",
+   "options": [
+    "0.9 MAC",
+    "0.45 MAC",
+    "1.3 MAC",
+    "0.5 MAC"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#b2228e",
+   "kind": "statement",
+   "stem": "Why are MAC multiples not linear when describing depth across different agents?",
+   "answer": "Dose-response curves of different agents are not parallel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#a41777",
+   "kind": "mcq",
+   "stem": "Roughly what multiple of MAC is MAC-awake?",
+   "options": [
+    "0.3–0.5 MAC",
+    "1.0–1.2 MAC",
+    "1.3 MAC",
+    "2.0 MAC"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#a41777",
+   "kind": "statement",
+   "stem": "In MAC-awake, what response is abolished in 50% of subjects?",
+   "answer": "Eye opening to verbal command",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#f6e133",
+   "kind": "mcq",
+   "stem": "What multiple of MAC stops movement to incision in 95% of patients?",
+   "options": [
+    "1.0 MAC",
+    "1.3 MAC",
+    "1.5 MAC",
+    "2.0 MAC"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#7c64ac",
+   "kind": "mcq",
+   "stem": "Roughly what multiple of MAC prevents movement and coughing at tracheal intubation?",
+   "options": [
+    "0.5 MAC",
+    "1.3 MAC",
+    "1.7 MAC",
+    "2.0 MAC"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#bbe988",
+   "kind": "mcq",
+   "stem": "What is the approximate MAC-BAR?",
+   "options": [
+    "About 0.5 MAC",
+    "About 1.5 MAC",
+    "About 1.3 MAC",
+    "About 3.0 MAC"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#bbe988",
+   "kind": "statement",
+   "stem": "MAC-BAR is the concentration that abolishes which response in 50% of subjects?",
+   "answer": "Sympathetic response to surgical stimulus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#56c846",
+   "kind": "statement",
+   "stem": "What does MAC-amnesia suppress in 50% of subjects?",
+   "answer": "Recall of a noxious stimulus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#f82f69",
+   "kind": "mcq",
+   "stem": "Which MAC variant is the concentration at which consciousness is lost?",
+   "options": [
+    "MAC-unawake",
+    "MAC-awake",
+    "MAC-BAR",
+    "MAC-amnesia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#52706e",
+   "kind": "statement",
+   "stem": "What does MAC-age mean?",
+   "answer": "MAC at a given age",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#c9c635",
+   "kind": "statement",
+   "stem": "How is MAC-hr calculated?",
+   "answer": "MAC multiplied by exposure time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#9bfa13",
+   "kind": "mcq",
+   "stem": "What is the MAC-hr for 1.5 MAC maintained for 30 minutes?",
+   "options": [
+    "0.75 MAC-hr",
+    "1.5 MAC-hr",
+    "0.5 MAC-hr",
+    "3.0 MAC-hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#82af7b",
+   "kind": "mcq",
+   "stem": "Compared with infants aged 1 to 6 months, how much less MAC do full-term neonates need?",
+   "options": [
+    "About 10%",
+    "About 25%",
+    "About 50%",
+    "About 75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#405fbb",
+   "kind": "statement",
+   "stem": "In preterm neonates, what happens to MAC as gestational age falls?",
+   "answer": "MAC falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#42b790",
+   "kind": "mcq",
+   "stem": "At what age does MAC peak?",
+   "options": [
+    "At birth",
+    "6 months",
+    "2 years",
+    "18 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#42b790",
+   "kind": "mcq",
+   "stem": "By about how much does MAC fall per decade of adult life?",
+   "options": [
+    "About 1%",
+    "About 6%",
+    "About 15%",
+    "About 30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#41f551",
+   "kind": "mcq",
+   "stem": "Which volatile agent's MAC stays constant through neonates and infants?",
+   "options": [
+    "Isoflurane",
+    "Sevoflurane",
+    "Desflurane",
+    "Halothane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#a2a780",
+   "kind": "mcq",
+   "stem": "Which group has a higher MAC (less potent agent requirement) than adults?",
+   "options": [
+    "Children from infancy to adolescence",
+    "Adults over 80 years",
+    "Premature infants",
+    "Pregnant women"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#bcdae6",
+   "kind": "mcq",
+   "stem": "Which temperature state increases MAC?",
+   "options": [
+    "Hyperthermia",
+    "Hypothermia",
+    "Normothermia",
+    "Mild hypothermia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#029614",
+   "kind": "mcq",
+   "stem": "Which endocrine condition increases MAC?",
+   "options": [
+    "Thyrotoxicosis",
+    "Hypothyroidism",
+    "Addison's disease",
+    "Diabetes insipidus"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#d396f6",
+   "kind": "mcq",
+   "stem": "Which electrolyte disturbance increases MAC?",
+   "options": [
+    "Hypernatraemia",
+    "Hyponatraemia",
+    "Hypokalaemia",
+    "Hypocalcaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#0915aa",
+   "kind": "mcq",
+   "stem": "Which chronic condition raises MAC?",
+   "options": [
+    "Chronic alcoholism",
+    "Chronic anaemia",
+    "Chronic hypoxia",
+    "Chronic constipation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#0b4a51",
+   "kind": "mcq",
+   "stem": "Which intoxication increases MAC?",
+   "options": [
+    "Benzodiazepine overdose",
+    "Opioid overdose",
+    "Amphetamine intoxication",
+    "Barbiturate overdose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#887e90",
+   "kind": "mcq",
+   "stem": "Which drug class that inhibits catecholamine reuptake raises MAC?",
+   "options": [
+    "Tricyclic antidepressants",
+    "Beta blockers",
+    "Calcium channel blockers",
+    "ACE inhibitors"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#c03cd2",
+   "kind": "mcq",
+   "stem": "Which hair colour is associated with a higher MAC?",
+   "options": [
+    "Blue eyes",
+    "Red hair",
+    "Left-handedness",
+    "Short stature"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#3d7349",
+   "kind": "statement",
+   "stem": "Which patient factor lowers MAC by about 6% per decade?",
+   "answer": "Old age",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#017263",
+   "kind": "mcq",
+   "stem": "Which group has a decreased MAC?",
+   "options": [
+    "Premature infants",
+    "Adolescents",
+    "Hyperthermic patients",
+    "Thyrotoxic patients"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#646885",
+   "kind": "mcq",
+   "stem": "Which physiological state decreases MAC?",
+   "options": [
+    "Pregnancy",
+    "Hyperthermia",
+    "Thyrotoxicosis",
+    "Red hair"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#8681e1",
+   "kind": "mcq",
+   "stem": "Below what mean arterial pressure does hypotension decrease MAC?",
+   "options": [
+    "20 mmHg",
+    "40 mmHg",
+    "60 mmHg",
+    "80 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#4d9dd7",
+   "kind": "mcq",
+   "stem": "Above what PaCO2 does hypercarbia decrease MAC?",
+   "options": [
+    "45 mmHg",
+    "65 mmHg",
+    "95 mmHg",
+    "120 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#ee8fc1",
+   "kind": "blank",
+   "stem": "For volatile agents, hypoxia lowers MAC when PO2 is below ____ mmHg.",
+   "answer": "38",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#cf40ae",
+   "kind": "blank",
+   "stem": "For volatile agents, anaemia lowers MAC when haemoglobin is below ____ g/dL.",
+   "answer": "5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#eae397",
+   "kind": "mcq",
+   "stem": "Which patient state decreases the MAC of inhalational anaesthetic agents?",
+   "options": [
+    "Thyrotoxicosis",
+    "Hypothermia",
+    "Hyperthermia",
+    "Chronic alcoholism"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#59581a",
+   "kind": "mcq",
+   "stem": "Which patient state lowers the MAC of volatile anaesthetic agents?",
+   "options": [
+    "Stimulant drug use",
+    "Chronic alcoholism",
+    "Acute alcohol intoxication",
+    "Red hair"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#633b31",
+   "kind": "statement",
+   "stem": "Can a factor that changes MAC be expected to change MAC-awake, MAC-amnesia and MAC-BAR equally?",
+   "answer": "No; the effect may differ between these MAC endpoints.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#c946b3",
+   "kind": "statement",
+   "stem": "What practical limitation applies to measuring MAC in clinical practice?",
+   "answer": "Alveolar gas is needed, and monitors only approximate it.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#1842fc",
+   "kind": "blank",
+   "stem": "The standard deviation of MAC is about ____%.",
+   "answer": "10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#1842fc",
+   "kind": "mcq",
+   "stem": "What multiple of MAC should stop movement in about 95% of patients?",
+   "options": [
+    "0.8 MAC",
+    "1.0 MAC",
+    "1.2 MAC",
+    "0.6 MAC"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#216dff",
+   "kind": "statement",
+   "stem": "For volatile agents, why is the dose needed for immobility predictable between people?",
+   "answer": "The dose-response curve is steep, so little variation between people.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#479d3e",
+   "kind": "statement",
+   "stem": "Why is immobility easier to predict with volatile agents than with propofol TIVA?",
+   "answer": "Propofol shows wider percentage variation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#a79fae",
+   "kind": "statement",
+   "stem": "What is the downside of the steep dose-response curve for volatile agents just below MAC?",
+   "answer": "Small drops below MAC can let many patients move.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#aa111a",
+   "kind": "statement",
+   "stem": "Why is it easy to misjudge MAC when most inhalational anaesthesia runs at about 1 atmosphere?",
+   "answer": "Because MAC is tied to pressure, not just concentration.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#ef121e",
+   "kind": "mcq",
+   "stem": "For inhalational agents, which quantity is the real measure behind MAC?",
+   "options": [
+    "Percentage concentration",
+    "Blood concentration",
+    "Partial pressure",
+    "Dose per kilogram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/minimum-alveolar-concentration#12f7e0",
+   "kind": "blank",
+   "stem": "In kPa, concentration and partial pressure are almost the same, as atmospheric pressure is about ____ kPa.",
+   "answer": "100",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

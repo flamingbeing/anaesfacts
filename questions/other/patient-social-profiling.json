@@ -1,0 +1,261 @@
+{
+ "topic": "other/patient-social-profiling",
+ "questions": [
+  {
+   "fact_id": "other/patient-social-profiling#263534",
+   "kind": "mcq",
+   "stem": "For young women at high risk of postoperative nausea and vomiting, which anaesthetic technique should be considered?",
+   "options": [
+    "Spinal anaesthesia without sedation",
+    "Full-dose opioid infusion throughout",
+    "Total intravenous anaesthesia (TIVA)",
+    "Routine nasogastric tube insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#f2d6f6",
+   "kind": "statement",
+   "stem": "In patient social profiling, which patient group is noted to have high baseline anxiety?",
+   "answer": "Young women",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#249a70",
+   "kind": "statement",
+   "stem": "In patient social profiling, which other topic covers frail elderly patients in more detail?",
+   "answer": "The elderly and frailty topic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#54e8c2",
+   "kind": "statement",
+   "stem": "In patient social profiling, which other topic covers vasculopaths in more detail?",
+   "answer": "The vascular patients topic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#bfca4c",
+   "kind": "mcq",
+   "stem": "For socially isolated patients living alone, what is the concern about ambulatory surgery?",
+   "options": [
+    "Always suitable for day surgery",
+    "May be unsuitable for day surgery",
+    "Suitable only under local anaesthesia",
+    "Preferred for same-day discharge"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#3a5aef",
+   "kind": "statement",
+   "stem": "What post-discharge risk is flagged for socially isolated patients living alone?",
+   "answer": "High risk of medication errors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#97c4b6",
+   "kind": "statement",
+   "stem": "For socially isolated patients living alone, what risk is flagged about early surgical complications?",
+   "answer": "They may go unrecognised",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#af0b08",
+   "kind": "blank",
+   "stem": "Socially isolated patients living alone: screen for ____ misuse.",
+   "answer": "Alcohol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#12fe36",
+   "kind": "mcq",
+   "stem": "A socially isolated patient living alone needs a caregiver. Who should be involved?",
+   "options": [
+    "Medical social worker (MSW)",
+    "Pharmacy technician alone",
+    "Patient's employer",
+    "Hospital chaplain only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#516026",
+   "kind": "statement",
+   "stem": "What is the key risk for primary caregivers admitted for surgery?",
+   "answer": "Leaving early against advice or refusing needed admission",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#21c94c",
+   "kind": "mcq",
+   "stem": "A primary caregiver such as a mother of an infant is being admitted for surgery. Which service should be involved early?",
+   "options": [
+    "Pharmacy technician alone",
+    "Patient's employer",
+    "Hospital chaplain only",
+    "Medical social worker (MSW)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#6b36a1",
+   "kind": "mcq",
+   "stem": "A socioeconomically deprived patient is worried about the cost of care. Who should be involved?",
+   "options": [
+    "Hospital chaplain",
+    "Medical social worker (MSW)",
+    "Infection control nurse",
+    "Interpreter service"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#17cc42",
+   "kind": "mcq",
+   "stem": "A migrant worker with a language barrier needs consent for surgery. What should be done?",
+   "options": [
+    "Proceed with written consent in English",
+    "Use the patient's family to translate",
+    "Use an interpreter",
+    "Rely on a translation app alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#ae5e6f",
+   "kind": "statement",
+   "stem": "In migrant workers with language barriers, what baseline issue may go unreported?",
+   "answer": "Baseline health problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#778ede",
+   "kind": "mcq",
+   "stem": "A highly educated private patient is hypervigilant about possible complications. What should you do?",
+   "options": [
+    "Counsel proactively about side effects",
+    "Avoid discussing side effects",
+    "Reassure once and stop",
+    "Defer counselling until after surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#c3ea5b",
+   "kind": "statement",
+   "stem": "For private or highly educated patients with unverified online information, what approach is advised?",
+   "answer": "Evidence-based discussion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#0f9a5e",
+   "kind": "statement",
+   "stem": "In private or highly educated patients with intellectualised anxiety, what should you do?",
+   "answer": "Share control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#aa7e17",
+   "kind": "statement",
+   "stem": "For overseas medical-tourism patients, how should their history from abroad be handled?",
+   "answer": "Reconcile it carefully with the overseas hospitals",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#d38779",
+   "kind": "statement",
+   "stem": "Overseas medical-tourism patients have fixed flight dates. How should discharge be planned?",
+   "answer": "Plan discharge early, balanced against mandatory no-fly periods",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#87b736",
+   "kind": "mcq",
+   "stem": "A doctor or medical family member expects special treatment (VIP syndrome). What approach fits?",
+   "options": [
+    "Make exceptions for colleagues",
+    "Offer preferential scheduling",
+    "Let the family choose the anaesthetist",
+    "Stick strictly to usual protocols"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#f9538a",
+   "kind": "statement",
+   "stem": "For doctors and medical families with performance anxiety, what should you keep?",
+   "answer": "Clear professional boundaries",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#3be634",
+   "kind": "blank",
+   "stem": "Logistics for incarcerated patients: guards must stay present, and ____ complicate line placement.",
+   "answer": "handcuffs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#267594",
+   "kind": "statement",
+   "stem": "In patient social profiling, which other topic covers substance misuse?",
+   "answer": "The substance abuse topic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#ebc1c4",
+   "kind": "statement",
+   "stem": "In patient social profiling, which other topic is referred to for religious or cultural objectors?",
+   "answer": "The Jehovah's Witness topic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#d0bceb",
+   "kind": "statement",
+   "stem": "In patient social profiling, which other topics are referred to for intellectual disability or dementia?",
+   "answer": "The intellectual disability and dementia topics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-social-profiling#6c6cf7",
+   "kind": "statement",
+   "stem": "Why are professional voice users and athletes flagged in patient social profiling?",
+   "answer": "They are very sensitive to specific complications, such as vocal cord injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

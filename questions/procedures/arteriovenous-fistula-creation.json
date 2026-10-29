@@ -1,0 +1,127 @@
+{
+ "topic": "procedures/arteriovenous-fistula-creation",
+ "questions": [
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#0a1364",
+   "kind": "mcq",
+   "stem": "Which AV fistula is the most distal and simplest?",
+   "options": [
+    "Brachiocephalic",
+    "Brachiobasilic",
+    "Radiocephalic",
+    "AV graft"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#0a1364",
+   "kind": "mcq",
+   "stem": "Where is a radiocephalic AV fistula made?",
+   "options": [
+    "Elbow crease",
+    "Upper arm",
+    "Snuffbox or wrist",
+    "Ankle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#40ea9b",
+   "kind": "mcq",
+   "stem": "Which vessels does a brachiocephalic AV fistula connect at the elbow?",
+   "options": [
+    "Basilic vein to brachial artery",
+    "Cephalic vein to radial artery",
+    "Cephalic vein to brachial artery",
+    "Basilic vein to radial artery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#3d18e6",
+   "kind": "blank",
+   "stem": "A brachiobasilic AV fistula is more invasive because the vein is ____ to a superficial position.",
+   "answer": "transposed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#6c9b72",
+   "kind": "statement",
+   "stem": "When is a synthetic AV graft used instead of a native fistula?",
+   "answer": "When native veins are inadequate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#a06702",
+   "kind": "statement",
+   "stem": "In AV fistula creation, why must the planned site be confirmed beforehand?",
+   "answer": "It decides the anaesthetic block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#6aef85",
+   "kind": "mcq",
+   "stem": "Which AV fistula types can be done under local anaesthesia alone?",
+   "options": [
+    "Brachiobasilic and AV graft",
+    "Radiocephalic and brachiocephalic",
+    "Brachiobasilic only",
+    "AV graft only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#98844c",
+   "kind": "mcq",
+   "stem": "Which regional technique do surgeons prefer for AV fistula creation?",
+   "options": [
+    "Spinal anaesthesia",
+    "Caudal block",
+    "Epidural",
+    "Brachial plexus block"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#1976fa",
+   "kind": "mcq",
+   "stem": "Which AV fistula type may need general anaesthesia?",
+   "options": [
+    "Radiocephalic",
+    "Brachiocephalic",
+    "Brachiobasilic",
+    "AV graft"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/arteriovenous-fistula-creation#9a34f4",
+   "kind": "mcq",
+   "stem": "In AV fistula creation with renal failure, what should be avoided?",
+   "options": [
+    "Brachial plexus block",
+    "Local anaesthetic infiltration",
+    "Excess fluid",
+    "Any sedative drug"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "topic": "other/critically-ill-patients",
+ "questions": [
+  {
+   "fact_id": "other/critically-ill-patients#330549",
+   "kind": "statement",
+   "stem": "In preoperative assessment of critically ill patients, which cardiovascular infusions should be noted?",
+   "answer": "Noradrenaline, vasopressin and adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/critically-ill-patients#c19a81",
+   "kind": "statement",
+   "stem": "In critically ill patients, which respiratory details should be reviewed before surgery?",
+   "answer": "Ventilator settings and FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/critically-ill-patients#1040c7",
+   "kind": "mcq",
+   "stem": "Does an intubated critically ill patient need to be fasted for surgery?",
+   "options": [
+    "Yes, always fast for six hours",
+    "Often not, unless high aspiration risk or airway surgery",
+    "Only if on noradrenaline",
+    "Yes, fasting is always required"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/critically-ill-patients#c3847d",
+   "kind": "statement",
+   "stem": "In critically ill patients, what renal targets should guide preoperative planning?",
+   "answer": "Volume status and fluid input and output targets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/critically-ill-patients#949584",
+   "kind": "mcq",
+   "stem": "What should happen to antibiotics in a critically ill patient with infection before surgery?",
+   "options": [
+    "Stop them before surgery",
+    "Continue antibiotics",
+    "Switch to antifungals only",
+    "Give them only after surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/critically-ill-patients#cf2751",
+   "kind": "statement",
+   "stem": "What should travel with a critically ill patient transferred to theatre?",
+   "answer": "Emergency drugs; consider paralysis for transfer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/critically-ill-patients#b2afa9",
+   "kind": "mcq",
+   "stem": "Which intraoperative access may critically ill patients still need?",
+   "options": [
+    "No intravenous access needed",
+    "A large-bore IV",
+    "A 24G cannula only",
+    "Intraosseous access only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/critically-ill-patients#df009c",
+   "kind": "mcq",
+   "stem": "What maintenance option suits an ICU patient already on a propofol infusion?",
+   "options": [
+    "Switch to sevoflurane",
+    "Continue as TIVA",
+    "Stop propofol and give nitrous oxide",
+    "Give a benzodiazepine infusion only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/critically-ill-patients#308cd5",
+   "kind": "mcq",
+   "stem": "In an ICU patient on a fentanyl infusion, what role can the infusion play in surgery?",
+   "options": [
+    "Sole anaesthetic agent",
+    "The long-acting opioid",
+    "Reversal agent",
+    "Neuromuscular blocker"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

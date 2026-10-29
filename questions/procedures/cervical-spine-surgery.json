@@ -1,0 +1,273 @@
+{
+ "topic": "procedures/cervical-spine-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/cervical-spine-surgery#1bd1f0",
+   "kind": "statement",
+   "stem": "Which causes of an unstable neck are indications for cervical spine surgery?",
+   "answer": "Arthritis or trauma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#3bc71e",
+   "kind": "mcq",
+   "stem": "Roughly how long does cervical spine surgery last?",
+   "options": [
+    "30–60 min",
+    "2–3 hr",
+    "5–6 hr",
+    "8–10 hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#523ec0",
+   "kind": "statement",
+   "stem": "What level of pain does cervical spine surgery usually cause?",
+   "answer": "Moderate to severe",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#cfdaec",
+   "kind": "mcq",
+   "stem": "What blood loss should be expected in cervical spine surgery?",
+   "options": [
+    "Under 50 ml",
+    "2000–3000 ml",
+    "300–1000 ml",
+    "Over 5 L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#ef376d",
+   "kind": "blank",
+   "stem": "In cervical spine surgery the patient may be positioned supine or ____.",
+   "answer": "prone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#29c6f1",
+   "kind": "statement",
+   "stem": "When is cervical traction in place during cervical spine surgery?",
+   "answer": "Already in place or applied at the start",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#0db892",
+   "kind": "mcq",
+   "stem": "What airway approach may a very unstable neck need in cervical spine surgery?",
+   "options": [
+    "Blind nasal intubation",
+    "Rapid sequence induction with suxamethonium",
+    "Awake fibreoptic intubation",
+    "Laryngeal mask airway insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#c729c6",
+   "kind": "statement",
+   "stem": "Before cervical spine surgery, what should the anaesthetist ask about the neck?",
+   "answer": "Neurological symptoms on neck movement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#592cb2",
+   "kind": "statement",
+   "stem": "Anterior fusion or fixation in cervical spine surgery covers which part of the spine?",
+   "answer": "Mid and lower cervical spine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#408a1e",
+   "kind": "statement",
+   "stem": "In cervical spine surgery, what does ACDF stand for?",
+   "answer": "Anterior cervical discectomy and fusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#b29c11",
+   "kind": "statement",
+   "stem": "What serious injury is a risk during airway management in cervical spine surgery?",
+   "answer": "Cord injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#3a5c27",
+   "kind": "mcq",
+   "stem": "How stimulating is traction pin insertion in cervical spine surgery?",
+   "options": [
+    "Mildly stimulating",
+    "Painless",
+    "Very stimulating",
+    "Causes no response"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#6f20c4",
+   "kind": "blank",
+   "stem": "In cervical spine surgery with traction pins, antibiotics must be given within ____ of incision.",
+   "answer": "1 hr",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#6f20c4",
+   "kind": "statement",
+   "stem": "Why may antibiotics be delayed in cervical spine surgery with traction pins?",
+   "answer": "Until the traction pins are in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#b52254",
+   "kind": "mcq",
+   "stem": "How common is airway obstruction after anterior cervical spine surgery?",
+   "options": [
+    "Almost never seen",
+    "Only after posterior surgery",
+    "Very rare",
+    "Fairly common"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#a2c0d6",
+   "kind": "statement",
+   "stem": "After anterior cervical spine surgery, when does airway obstruction usually present?",
+   "answer": "Usually within 6 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#8842ce",
+   "kind": "mcq",
+   "stem": "In cervical spine fracture fixation, where is bone graft usually taken from if needed?",
+   "options": [
+    "Tibia",
+    "Rib",
+    "Iliac crest",
+    "Fibula"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#a9f754",
+   "kind": "mcq",
+   "stem": "In cord lesions, suxamethonium is contraindicated if the lesion is older than how long?",
+   "options": [
+    "24 hr",
+    "48 hr",
+    "7 days",
+    "72 hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#bbca80",
+   "kind": "statement",
+   "stem": "In cervical spine fracture fixation, which fractures occasionally need a transoral approach?",
+   "answer": "C1/C2 fractures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#45c44c",
+   "kind": "statement",
+   "stem": "What should be done before anaesthesia for cervical fracture fixation, especially before turning prone?",
+   "answer": "Full neurological examination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#1764a6",
+   "kind": "statement",
+   "stem": "In cervical spine fracture fixation, how should lines be managed to avoid problems?",
+   "answer": "Secure well against kinking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#a09b69",
+   "kind": "mcq",
+   "stem": "When is nasogastric decompression used in cervical spine fracture fixation?",
+   "options": [
+    "Only for short cases",
+    "Never, due to airway risk",
+    "For long cases or existing cord injury",
+    "Only after extubation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#ffe8e2",
+   "kind": "statement",
+   "stem": "Before draping in cervical spine fracture surgery, what should be checked?",
+   "answer": "Pressure areas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#ef8578",
+   "kind": "mcq",
+   "stem": "What haemodynamic picture do acute cervical cord lesions cause?",
+   "options": [
+    "Hypovolaemic shock with tachycardia",
+    "Anaphylaxis with bronchospasm",
+    "Neurogenic shock with bradycardia and hypotension",
+    "Malignant hyperthermia with rising CO2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#ee4bac",
+   "kind": "mcq",
+   "stem": "In acute C2 fracture with mild deficit, what MAP is ideally kept above to protect cord perfusion?",
+   "options": [
+    "55",
+    "80",
+    "65",
+    "70"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-spine-surgery#5f0eae",
+   "kind": "blank",
+   "stem": "In high cervical cord injury, avoid ____ and treat bradycardia.",
+   "answer": "hypovolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "topic": "procedures/appendicectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/appendicectomy#a75803",
+   "kind": "statement",
+   "stem": "What risk does a perforated appendix carry in appendicectomy?",
+   "answer": "Sepsis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#1bd967",
+   "kind": "mcq",
+   "stem": "What age range is typical for appendicectomy in fit patients?",
+   "options": [
+    "2–10yr",
+    "30–50yr",
+    "5–20yr",
+    "60–80yr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#1bd967",
+   "kind": "statement",
+   "stem": "In appendicectomy, when are patients more likely to be septic?",
+   "answer": "If the appendix is perforated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#fb39c9",
+   "kind": "statement",
+   "stem": "In elderly appendicectomy patients, what cancer may the operation first reveal?",
+   "answer": "Caecal adenocarcinoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#6022d0",
+   "kind": "blank",
+   "stem": "In appendicectomy, a nasogastric tube is usually ____.",
+   "answer": "not needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#0e45f2",
+   "kind": "mcq",
+   "stem": "In appendicectomy, when should the patient be kept nil by mouth?",
+   "options": [
+    "Routinely for every patient",
+    "Only for under-fives",
+    "If the abdomen is contaminated",
+    "Never, whatever the findings"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#380157",
+   "kind": "mcq",
+   "stem": "Appendicectomy prophylaxis uses metronidazole alongside which other antibiotic?",
+   "options": [
+    "Gentamicin",
+    "Vancomycin",
+    "Ceftriaxone (Rocephin)",
+    "Flucloxacillin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#8ab701",
+   "kind": "mcq",
+   "stem": "For appendicectomy, which arm is tucked by the side while the patient is supine?",
+   "options": [
+    "Right arm",
+    "Both arms",
+    "Left arm",
+    "Neither arm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#213bc1",
+   "kind": "mcq",
+   "stem": "Which airway device is used for appendicectomy under general anaesthesia?",
+   "options": [
+    "Laryngeal mask airway",
+    "Oropharyngeal airway",
+    "ETT",
+    "Nasal cannula"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#213bc1",
+   "kind": "blank",
+   "stem": "For appendicectomy under general anaesthesia, ____ relaxation is needed.",
+   "answer": "Muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#793d8b",
+   "kind": "mcq",
+   "stem": "What regular postoperative analgesia follows appendicectomy?",
+   "options": [
+    "Regular opioids",
+    "Regular simple analgesia",
+    "Epidural infusion",
+    "Patient-controlled opioids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/appendicectomy#cbfa85",
+   "kind": "statement",
+   "stem": "After appendicectomy, until when are IV fluids given?",
+   "answer": "Until drinking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

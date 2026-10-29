@@ -1,0 +1,673 @@
+{
+ "topic": "equipment/common-anaesthesia-machines",
+ "questions": [
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#28b52b",
+   "kind": "statement",
+   "stem": "On GE Healthcare machines, what does the monitoring set VPO cover?",
+   "answer": "Volume, pressure, inspired oxygen.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#de1dbd",
+   "kind": "mcq",
+   "stem": "What bellows does the older GE 7100 ventilator use?",
+   "options": [
+    "Descending (hanging) bellows",
+    "Ascending (standing) bellows",
+    "Piston",
+    "Turbine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#fbe534",
+   "kind": "mcq",
+   "stem": "Over what tidal volume range is the GE Healthcare ventilator accurate in volume control?",
+   "options": [
+    "20-1000 mL",
+    "50-1500 mL",
+    "20-1500 mL",
+    "2-150 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#c7ae46",
+   "kind": "mcq",
+   "stem": "Which mode is marked optional on the older GE 7100 machine?",
+   "options": [
+    "Electronic PEEP",
+    "SIMV",
+    "PSVPro",
+    "CPAP"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#678e10",
+   "kind": "mcq",
+   "stem": "How is the checklist done on the older GE 7100 machine?",
+   "options": [
+    "Fully automated self-test",
+    "Manual, following the operator's manual",
+    "Automated with some manual steps",
+    "Electronic self-test, partly manual"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#5444ff",
+   "kind": "mcq",
+   "stem": "What is the minimum oxygen flow on the older GE 7100 machine's mechanical flowmeters?",
+   "options": [
+    "10 mL/min",
+    "100 mL/min",
+    "50 mL/min",
+    "0 mL/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#725315",
+   "kind": "mcq",
+   "stem": "Which vaporiser design do the Tec 4, 5, 6 and 7 units on the older GE 7100 machine use?",
+   "options": [
+    "Fixed-bypass",
+    "Variable-bypass",
+    "Electronically controlled cassette",
+    "Drawover"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#ef0b43",
+   "kind": "mcq",
+   "stem": "What is the total breathing circuit volume of the older GE 7100 machine?",
+   "options": [
+    "2.7 L",
+    "1.2 L",
+    "5.5 L",
+    "2.1 L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#32b46d",
+   "kind": "mcq",
+   "stem": "Which scavenging interface does the older GE 7100 machine use?",
+   "options": [
+    "Open interface",
+    "Closed interface",
+    "Passive interface",
+    "Sealed interface"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#e8a578",
+   "kind": "mcq",
+   "stem": "How long is the battery reserve on the older GE 7100 machine with fresh gas, vaporisers and ventilator working?",
+   "options": [
+    "45 minute battery",
+    "15 minute battery",
+    "30 minute battery",
+    "60 minute battery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#d31531",
+   "kind": "mcq",
+   "stem": "What is the weight range of the older GE 7100 machine?",
+   "options": [
+    "168-190 kg",
+    "100-120 kg",
+    "136-154 kg",
+    "120-136 kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#cac998",
+   "kind": "statement",
+   "stem": "What drawback have the flow sensors of the older GE 7100 machine had?",
+   "answer": "They have been moisture-sensitive.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#d10226",
+   "kind": "mcq",
+   "stem": "What bellows does the newer GE 7900 ventilator use?",
+   "options": [
+    "Descending (hanging) bellows",
+    "Ascending (standing) bellows",
+    "Electrically driven piston",
+    "Turbine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#bdccb7",
+   "kind": "mcq",
+   "stem": "Which mode on the newer GE 7900 machine gives pressure support with apnoea backup?",
+   "options": [
+    "APRV",
+    "CPAP",
+    "PSVPro",
+    "Wide-range mode"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#3dfb12",
+   "kind": "mcq",
+   "stem": "How is the checklist done on the newer GE 7900 machine?",
+   "options": [
+    "Fully manual, following the operator's manual",
+    "Fully automated, with no manual steps",
+    "Automated, with some manual steps",
+    "Electronic self-test, partly manual"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#93283b",
+   "kind": "mcq",
+   "stem": "What is the minimum oxygen flow on the newer GE 7900 machine with electronically controlled flowmeters?",
+   "options": [
+    "50 mL/min",
+    "10 mL/min",
+    "No minimum oxygen flow",
+    "100 mL/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#6349ef",
+   "kind": "mcq",
+   "stem": "Which vaporiser type does the newer GE 7900 machine use?",
+   "options": [
+    "Variable-bypass Tec units",
+    "Conventional pneumatic vaporisers",
+    "Electronically controlled Aladin cassettes",
+    "Drawover vaporisers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#feb4fa",
+   "kind": "mcq",
+   "stem": "What is the ventilator circuit volume of the newer GE 7900 machine?",
+   "options": [
+    "1.2 L",
+    "2.7 L",
+    "5.5 L",
+    "2.1 L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#3d6e92",
+   "kind": "mcq",
+   "stem": "Which scavenging interfaces does the newer GE 7900 machine offer?",
+   "options": [
+    "Closed interface only",
+    "Open interface only",
+    "Closed, open or passive interface",
+    "Passive interface only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#b17167",
+   "kind": "mcq",
+   "stem": "What still delivers oxygen during a power failure on the newer GE 7900 machine?",
+   "options": [
+    "The electronic flow sensors",
+    "A safety oxygen flow control",
+    "The Aladin vaporiser cassettes",
+    "The patient monitoring screen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#2c3424",
+   "kind": "mcq",
+   "stem": "What does the newer GE 7900 machine weigh?",
+   "options": [
+    "136 kg",
+    "154 kg",
+    "168 kg",
+    "200 kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#2effcb",
+   "kind": "mcq",
+   "stem": "How is the piston ventilator on a Dräger Medical machine driven?",
+   "options": [
+    "Pneumatically driven",
+    "Electrically driven",
+    "Manually squeezed",
+    "Hydraulically driven"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#64f060",
+   "kind": "mcq",
+   "stem": "Over what tidal volume range is the Dräger Medical ventilator accurate?",
+   "options": [
+    "20-1000 mL",
+    "20-1500 mL",
+    "20-1400 mL",
+    "50-1400 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#64f060",
+   "kind": "mcq",
+   "stem": "Which hoses should a Dräger Medical machine use for small tidal volumes?",
+   "options": [
+    "Standard adult circle hoses",
+    "Paediatric circle hoses",
+    "Single-limb Mapleson tubing",
+    "Bacterial filter hoses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#cd40bd",
+   "kind": "mcq",
+   "stem": "Which two modes did the Dräger Medical wide-range ventilator first offer in an anaesthesia ventilator?",
+   "options": [
+    "PSVPro and SIMV",
+    "APRV and CPAP",
+    "CPAP and SIMV",
+    "APRV and PSVPro"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#a42ca6",
+   "kind": "mcq",
+   "stem": "How is the checklist done on the Dräger Medical machine?",
+   "options": [
+    "Fully manual, per the operator's manual",
+    "Fully automated self-test",
+    "Electronic self-test, partly manual",
+    "Manual, with no self-test"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#d9d6ca",
+   "kind": "mcq",
+   "stem": "What hypoxic guard is fitted to the Dräger Medical machine's flowmeters?",
+   "options": [
+    "Mechanical O2 cut-off valve",
+    "Pressure-relief valve only",
+    "S-ORC (sensitive oxygen ratio controller)",
+    "Oxygen flush bypass"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#5e4d32",
+   "kind": "mcq",
+   "stem": "Which vaporiser does the Dräger Medical machine use?",
+   "options": [
+    "Aladin cassette",
+    "Tec 7",
+    "Vapor 3000",
+    "Vapor 2000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#5de8b2",
+   "kind": "mcq",
+   "stem": "What is the total breathing circuit volume of the Dräger Medical machine?",
+   "options": [
+    "1.5 L",
+    "2.1 L",
+    "2.7 L",
+    "5.5 L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#66c043",
+   "kind": "mcq",
+   "stem": "Which scavenging interface does the Dräger Medical machine use?",
+   "options": [
+    "Closed interface",
+    "Passive interface",
+    "Open interface",
+    "Sealed interface"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#f10779",
+   "kind": "mcq",
+   "stem": "How long is the battery reserve on the Dräger Medical machine in a power failure?",
+   "options": [
+    "At least 30 minute battery",
+    "Exactly 15 minute battery",
+    "At least 60 minute battery",
+    "Under 10 minute battery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#f10779",
+   "kind": "mcq",
+   "stem": "During a power failure on a Dräger Medical machine, what may stop working?",
+   "options": [
+    "Fresh gas flow",
+    "Vaporisers",
+    "Patient monitors",
+    "Ventilator"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#183462",
+   "kind": "mcq",
+   "stem": "On a Dräger Medical (Telford) machine, how does the reservoir bag behave as an extra disconnect alarm?",
+   "options": [
+    "Stays fully inflated throughout the breath",
+    "Empties during inspiration",
+    "Fills only during expiration",
+    "Moves only when the circuit is disconnected"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#98fd28",
+   "kind": "blank",
+   "stem": "A new galvanic oxygen sensor cell on a Dräger Medical (Telford) machine needs a ____ before calibration.",
+   "answer": "15 minute warm-up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#486e6e",
+   "kind": "mcq",
+   "stem": "How is the piston ventilator on a Dräger Medical (Telford) machine driven?",
+   "options": [
+    "Pneumatically driven, with a dual circuit",
+    "Driven by a turbine, electronically controlled",
+    "Manually driven through a bag",
+    "Electrically driven and electronically controlled"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#e13569",
+   "kind": "mcq",
+   "stem": "What does the fresh gas low alarm on a Dräger Medical (Telford) machine warn about?",
+   "options": [
+    "Vaporiser nearly empty",
+    "Oxygen supply pressure dropping",
+    "Fresh gas supply fully exhausted",
+    "Piston drawing in room air"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#e13569",
+   "kind": "mcq",
+   "stem": "At what negative pressure threshold does the Dräger fresh gas low alarm trigger?",
+   "options": [
+    "-10 to -15 cm of water",
+    "-30 to -35 cm of water",
+    "-2 to -5 cm of water",
+    "-20 to -25 cm of water"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#472058",
+   "kind": "statement",
+   "stem": "What must be repeated after changing the breathing circuit on a Dräger Medical (Telford) ventilator?",
+   "answer": "Leak/compliance test",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#0af83b",
+   "kind": "statement",
+   "stem": "Name the electronic self-tests in the Dräger Medical (Telford) checklist.",
+   "answer": "System, leaks, flow sensor, oxygen sensor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#c9d01f",
+   "kind": "statement",
+   "stem": "Which named guard protects against hypoxic gas mixtures on Dräger Medical (Telford) flowmeters?",
+   "answer": "S-ORC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#772b55",
+   "kind": "mcq",
+   "stem": "What is the total volume of the small breathing circuit on a Dräger Medical (Telford) machine?",
+   "options": [
+    "3.6 L",
+    "2.8 L",
+    "5.2 L",
+    "6.0 L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#a703ef",
+   "kind": "mcq",
+   "stem": "How long can a Dräger Medical (Telford) machine sit idle before its absorbent must be changed?",
+   "options": [
+    "24 hours",
+    "48 hours",
+    "72 hours",
+    "96 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#80673c",
+   "kind": "blank",
+   "stem": "On a Dräger Medical (Telford) machine, ____ must be entered when using desflurane, or flow readings are wrong.",
+   "answer": "Desflurane compensation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#a1838e",
+   "kind": "statement",
+   "stem": "Which feature makes the reservoir bag move with each breath on a Dräger Medical (Telford) machine?",
+   "answer": "Fresh gas decoupling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#d1fc1b",
+   "kind": "mcq",
+   "stem": "Which bellows type does the dual-circuit ventilator of a Dräger Medical (Telford) machine use?",
+   "options": [
+    "Ascending (standing) bellows",
+    "Descending (hanging) bellows",
+    "Concertina bellows, manually driven",
+    "Turbine, electrically driven"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#2bf863",
+   "kind": "mcq",
+   "stem": "Below what tidal volume should paediatric hoses be used on a Dräger Medical (Telford) ventilator?",
+   "options": [
+    "100 mL",
+    "200 mL",
+    "350 mL",
+    "500 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#9a58bc",
+   "kind": "mcq",
+   "stem": "Which carrier gases can be chosen with the target inspired oxygen setting on Dräger Medical (Telford) flowmeters?",
+   "options": [
+    "Helium or oxygen",
+    "Air or heliox",
+    "Nitrous oxide or air",
+    "Heliox or nitrous oxide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#19039e",
+   "kind": "statement",
+   "stem": "What is the name of the mechanical backup flowmeter on a Dräger Medical (Telford) machine?",
+   "answer": "Safety O2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#bc2ff1",
+   "kind": "mcq",
+   "stem": "What is the total volume of the large breathing circuit on a Dräger Medical (Telford) machine, without hoses?",
+   "options": [
+    "2.8 L",
+    "6.2 L",
+    "4.5 L",
+    "3.6 L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#fd7afe",
+   "kind": "statement",
+   "stem": "What does the note advise about patient monitors for the compact Dräger Medical (Telford) machine?",
+   "answer": "Buy own patient monitors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#3d862a",
+   "kind": "mcq",
+   "stem": "Which ventilator is the Maquet Flow-i workstation built around?",
+   "options": [
+    "Perseus turbine ventilator",
+    "SERVO ventilator",
+    "GE 7900 ventilator",
+    "Clare ventilator"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/common-anaesthesia-machines#97bec0",
+   "kind": "mcq",
+   "stem": "Which ventilator is paired with the Excel 201SE machine?",
+   "options": [
+    "SERVO ventilator",
+    "Perseus turbine ventilator",
+    "GE 7900 ventilator",
+    "Clare ventilator"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "topic": "procedures/airway-stent-insertion",
+ "questions": [
+  {
+   "fact_id": "procedures/airway-stent-insertion#0d5c8a",
+   "kind": "mcq",
+   "stem": "In airway stent insertion by rigid bronchoscopy, is an endotracheal tube used?",
+   "options": [
+    "Yes, a cuffed tube",
+    "Yes, a laryngeal mask tube",
+    "Only a nasal tube",
+    "No tube is used"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#18943f",
+   "kind": "statement",
+   "stem": "During airway stent insertion, what can happen to the airway?",
+   "answer": "It can occlude",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#daf283",
+   "kind": "mcq",
+   "stem": "Airway stents are mostly used to palliate which condition?",
+   "options": [
+    "Benign asthma",
+    "Foreign body",
+    "Malignancy",
+    "Pneumothorax"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#70619e",
+   "kind": "statement",
+   "stem": "Describe the usual type of airway stent used for tracheobronchial obstruction.",
+   "answer": "Expanding metal mesh that becomes epithelialised",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#7d300e",
+   "kind": "mcq",
+   "stem": "Airway stents are usually placed through which type of bronchoscope?",
+   "options": [
+    "Oesophagoscope",
+    "Rigid bronchoscope",
+    "Cystoscope",
+    "Laryngoscope"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#402444",
+   "kind": "statement",
+   "stem": "Besides rigid bronchoscopy, what is sometimes used to place airway stents?",
+   "answer": "Flexible bronchoscope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#5f495a",
+   "kind": "mcq",
+   "stem": "On preoperative assessment for airway stenting, which finding suggests airway obstruction?",
+   "options": [
+    "Urinary retention",
+    "Stridor",
+    "Ankle oedema",
+    "Bradycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#935bde",
+   "kind": "statement",
+   "stem": "On preoperative assessment for airway stenting, what else should be looked for besides airway obstruction?",
+   "answer": "Vascular compression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#5aa6de",
+   "kind": "mcq",
+   "stem": "In airway stent insertion, what can make an existing airway obstruction worse?",
+   "options": [
+    "Local anaesthetic spray",
+    "Head extension",
+    "Induction or paralysis",
+    "Oxygen by face mask"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#d85dc2",
+   "kind": "mcq",
+   "stem": "What positioning is used for rigid bronchoscopy and airway stent insertion?",
+   "options": [
+    "Prone with head flexed",
+    "Supine with head and neck extended",
+    "Left lateral with neck flexed",
+    "Sitting upright"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#a856e4",
+   "kind": "blank",
+   "stem": "Topicalise the larynx and trachea with ____ lidocaine 4% before induction for airway stenting.",
+   "answer": "4-5ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#a856e4",
+   "kind": "mcq",
+   "stem": "What concentration of lidocaine topicalises the larynx and trachea before airway stent insertion?",
+   "options": [
+    "1%",
+    "2%",
+    "4%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#e9305b",
+   "kind": "statement",
+   "stem": "During apnoeic oxygenation for airway stenting, what should be watched for?",
+   "answer": "Falling oxygen, rising CO2, and awareness if relying on volatiles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#675c55",
+   "kind": "statement",
+   "stem": "In airway stent insertion, what should be coordinated with the surgeon?",
+   "answer": "Ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#164512",
+   "kind": "mcq",
+   "stem": "During airway stent insertion, which cardiovascular response is marked because the stimulus is intense?",
+   "options": [
+    "Bradycardic response",
+    "Hypertensive response",
+    "Hypothermia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#18217c",
+   "kind": "statement",
+   "stem": "How is the airway finished at the end of airway stent insertion?",
+   "answer": "Insert an LMA, then reverse or wait for waking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#2544f9",
+   "kind": "mcq",
+   "stem": "After a lung biopsy during airway stenting, which way should the patient lie?",
+   "options": [
+    "Supine",
+    "Biopsied side down",
+    "Prone",
+    "Biopsied side up"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#8513cd",
+   "kind": "statement",
+   "stem": "After airway stent insertion, when may the patient be sat up?",
+   "answer": "Once awake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#9ab115",
+   "kind": "statement",
+   "stem": "After airway stent insertion, which two complications can deteriorate quickly?",
+   "answer": "Bleeding and airway obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/airway-stent-insertion#6fecc4",
+   "kind": "mcq",
+   "stem": "After airway stenting, what effect does local anaesthetic on the vocal cords have?",
+   "options": [
+    "Strengthens the cough",
+    "Weakens the cough",
+    "Causes hypertension",
+    "Speeds waking"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

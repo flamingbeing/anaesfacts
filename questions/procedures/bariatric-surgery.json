@@ -1,0 +1,171 @@
+{
+ "topic": "procedures/bariatric-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/bariatric-surgery#080858",
+   "kind": "mcq",
+   "stem": "For UK bariatric surgery with significant comorbidities, above which BMI is surgery indicated?",
+   "options": [
+    "BMI >25",
+    "BMI >30",
+    "BMI >35",
+    "BMI >33"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#503ade",
+   "kind": "mcq",
+   "stem": "Before UK bariatric surgery, for how long must non-surgical measures have failed?",
+   "options": [
+    ">3 months",
+    ">6 months",
+    "1 month",
+    "2 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#57e2e8",
+   "kind": "mcq",
+   "stem": "In UK bariatric practice, above which BMI is surgery a first-line option?",
+   "options": [
+    "BMI >35",
+    "BMI >40",
+    "BMI >45",
+    "BMI >50"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#169ac8",
+   "kind": "statement",
+   "stem": "Who must assess a patient before UK bariatric surgery?",
+   "answer": "A bariatric multidisciplinary team (MDT).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#ea0e52",
+   "kind": "statement",
+   "stem": "When is an arterial line considered during bariatric surgery?",
+   "answer": "Consider it for longer procedures; not needed for shorter ones.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#ca7b19",
+   "kind": "mcq",
+   "stem": "How should the patient's arms be placed for bariatric surgery?",
+   "options": [
+    "Both arms tucked at sides",
+    "Both arms out",
+    "Left arm out only",
+    "Arms crossed on chest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#aa384b",
+   "kind": "mcq",
+   "stem": "Which prophylactic antibiotic is given for bariatric surgery?",
+   "options": [
+    "Vancomycin",
+    "Ceftriaxone",
+    "Gentamicin",
+    "Metronidazole"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#d8f40a",
+   "kind": "statement",
+   "stem": "What must be withdrawn before stapling during bariatric surgery?",
+   "answer": "Nasogastric tube and temperature probes.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#5a51a4",
+   "kind": "mcq",
+   "stem": "What is the core opioid in intraoperative analgesia for bariatric surgery?",
+   "options": [
+    "Morphine",
+    "Pethidine",
+    "Fentanyl",
+    "Tramadol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#790531",
+   "kind": "mcq",
+   "stem": "During sleeve gastrectomy, at what depth is the bougie held in the oesophagus?",
+   "options": [
+    "20cm",
+    "30cm",
+    "40cm",
+    "50cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#f55624",
+   "kind": "mcq",
+   "stem": "What is the Buscopan (hyoscine butylbromide) dose during sleeve gastrectomy?",
+   "options": [
+    "10mg",
+    "20mg",
+    "40mg",
+    "60mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#f55624",
+   "kind": "mcq",
+   "stem": "How often can Buscopan (hyoscine butylbromide) be repeated during sleeve gastrectomy?",
+   "options": [
+    "Every 15min",
+    "Every 30min",
+    "Every 60min",
+    "Every 2 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#f55624",
+   "kind": "statement",
+   "stem": "What side effect of Buscopan (hyoscine butylbromide) is noted during sleeve gastrectomy?",
+   "answer": "Tachycardia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bariatric-surgery#5e4f37",
+   "kind": "statement",
+   "stem": "Which signs suggest an anastomotic leak after bariatric surgery?",
+   "answer": "Tachycardia, abdominal pain, fever, tachypnoea.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

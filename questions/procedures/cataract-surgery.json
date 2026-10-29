@@ -1,0 +1,411 @@
+{
+ "topic": "procedures/cataract-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/cataract-surgery#4d11ca",
+   "kind": "mcq",
+   "stem": "What sedation level suits a short cataract operation?",
+   "options": [
+    "Deep sedation to unconsciousness",
+    "Minimal sedation",
+    "General anaesthesia",
+    "Full neuromuscular blockade"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#191a58",
+   "kind": "mcq",
+   "stem": "What is used in cataract surgery if the patient will not cooperate with MAC?",
+   "options": [
+    "Spinal anaesthesia",
+    "Topical drops alone",
+    "Peribulbar block",
+    "Midazolam alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#2aa1a3",
+   "kind": "statement",
+   "stem": "What is the typical patient profile for cataract surgery?",
+   "answer": "Elderly with multiple comorbidities",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#588f6b",
+   "kind": "mcq",
+   "stem": "What position is the patient in for cataract surgery?",
+   "options": [
+    "Lithotomy",
+    "Prone",
+    "Supine",
+    "Sitting upright"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#e53678",
+   "kind": "mcq",
+   "stem": "How long does cataract surgery usually take?",
+   "options": [
+    "5-10min",
+    "15-30min",
+    "45-60min",
+    "1-2 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#21912c",
+   "kind": "mcq",
+   "stem": "How much blood loss is expected in cataract surgery?",
+   "options": [
+    "Major",
+    "Massive",
+    "Moderate",
+    "Minimal"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#ad15ec",
+   "kind": "statement",
+   "stem": "Which complication can affect the intraocular lens after cataract surgery?",
+   "answer": "IOL dislocation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#47e5a1",
+   "kind": "mcq",
+   "stem": "What analgesia is given in recovery after cataract surgery if needed?",
+   "options": [
+    "IV morphine",
+    "Oral paracetamol",
+    "Intrathecal diamorphine",
+    "Oral codeine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#c5d7af",
+   "kind": "blank",
+   "stem": "After cataract surgery, protect the eye and review in clinic the ____.",
+   "answer": "next day",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#bb4556",
+   "kind": "mcq",
+   "stem": "In a laser cataract case, where does the patient go first?",
+   "options": [
+    "Straight to the OT table with monitors",
+    "To the laser machine without monitors",
+    "To the recovery room",
+    "To the scrub area"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#bb4556",
+   "kind": "mcq",
+   "stem": "How long is the laser-machine step before moving to the OT table?",
+   "options": [
+    "2mins",
+    "10mins",
+    "20mins",
+    "5mins"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#f5bdd8",
+   "kind": "statement",
+   "stem": "How is intracapsular cataract extraction (ICCE) described?",
+   "answer": "An older variant of cataract surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#4b34e1",
+   "kind": "statement",
+   "stem": "Which procedure may be combined with cataract surgery, making it longer?",
+   "answer": "Pterygium excision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#d7e458",
+   "kind": "mcq",
+   "stem": "What goes into the eye while the surgeon scrubs in cataract surgery?",
+   "options": [
+    "Atropine drops",
+    "Iodine drops",
+    "Lignocaine gel",
+    "Saline irrigation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#10be66",
+   "kind": "mcq",
+   "stem": "What is placed over the eye during cataract draping?",
+   "options": [
+    "Gauze pad",
+    "Paper tape",
+    "Sterile glove",
+    "Tegaderm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#b7cdc6",
+   "kind": "statement",
+   "stem": "What is given when the table is raised to the microscope in cataract surgery?",
+   "answer": "More LA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#e999aa",
+   "kind": "statement",
+   "stem": "Which cataract surgery step breaks up the lens nucleus?",
+   "answer": "Nucleus breakdown",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#26e78c",
+   "kind": "statement",
+   "stem": "Which cataract surgery step places the replacement lens?",
+   "answer": "IOL implantation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#3a58bb",
+   "kind": "statement",
+   "stem": "How is the corneal incision closed at the end of cataract surgery?",
+   "answer": "Hydrating the incision, then checking for leak",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#216a1c",
+   "kind": "statement",
+   "stem": "Which steps can hurt a cataract patient under topical or regional anaesthesia?",
+   "answer": "Block, eye retraction and instruments",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#d6b67e",
+   "kind": "statement",
+   "stem": "What must a cataract patient do during surgery?",
+   "answer": "Keep head and body still and follow instructions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#dee441",
+   "kind": "mcq",
+   "stem": "Where should the head be placed relative to the anaesthetist in cataract surgery?",
+   "options": [
+    "Towards the anaesthetist",
+    "Turned fully to one side",
+    "Away from the anaesthetist",
+    "Chin tucked to chest"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#ee844b",
+   "kind": "statement",
+   "stem": "What risk comes with the head under drapes in cataract surgery?",
+   "answer": "CO2 rebreathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#668e78",
+   "kind": "statement",
+   "stem": "Why avoid forced-air warmers in cataract surgery?",
+   "answer": "They may blow lint into the eye",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#f40155",
+   "kind": "statement",
+   "stem": "What must be assessed before cataract surgery with MAC?",
+   "answer": "Suitability for topical or regional technique",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#52390c",
+   "kind": "mcq",
+   "stem": "Should dual antiplatelet therapy be stopped before cataract surgery?",
+   "options": [
+    "Yes, stop five days before",
+    "Yes, stop for two weeks",
+    "No need to stop",
+    "Yes, stop on the day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#856866",
+   "kind": "statement",
+   "stem": "Why keep the head at or above heart level in cataract surgery?",
+   "answer": "To avoid raised ocular venous pressure and worse bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#acde21",
+   "kind": "mcq",
+   "stem": "Which technique is most common for analgesia in cataract surgery?",
+   "options": [
+    "Sub-Tenon block",
+    "General anaesthesia",
+    "Retrobulbar block",
+    "Topical analgesia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#aa06f1",
+   "kind": "mcq",
+   "stem": "Which regional block in cataract surgery is intraconal?",
+   "options": [
+    "Peribulbar block",
+    "Retrobulbar block",
+    "Sub-Tenon block",
+    "Spinal block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#6c631a",
+   "kind": "statement",
+   "stem": "What is the aim of sedation during cataract surgery?",
+   "answer": "Reduce anxiety, not produce unconsciousness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#993016",
+   "kind": "mcq",
+   "stem": "Which sedative is used in small doses for cataract surgery?",
+   "options": [
+    "Thiopentone",
+    "Ketamine",
+    "Propofol",
+    "Sevoflurane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#993016",
+   "kind": "blank",
+   "stem": "For cataract sedation, small propofol doses of about ____ mg are used.",
+   "answer": "10 to 20",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#8496f2",
+   "kind": "mcq",
+   "stem": "Which nasal device gives oxygen during cataract sedation?",
+   "options": [
+    "Airplane nasal prongs",
+    "Face mask",
+    "Non-rebreather mask",
+    "Venturi mask"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#c7d2b8",
+   "kind": "statement",
+   "stem": "What extra monitoring do airplane nasal prongs provide in cataract surgery?",
+   "answer": "ETCO2 monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#661f69",
+   "kind": "statement",
+   "stem": "How does gas flow from airplane nasal prongs help under drapes?",
+   "answer": "Reduces CO2 rebreathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#b59a32",
+   "kind": "mcq",
+   "stem": "How common is general anaesthesia for cataract surgery?",
+   "options": [
+    "Routine for every case",
+    "The most common technique",
+    "Mandatory for all patients",
+    "Uncommon"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#3ec58b",
+   "kind": "statement",
+   "stem": "In cataract surgery under GA, why keep a deep anaesthetic plane?",
+   "answer": "To prevent coughing or movement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cataract-surgery#d644a8",
+   "kind": "statement",
+   "stem": "What must be watched for with a laryngeal mask during cataract surgery under GA?",
+   "answer": "LMA displacement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

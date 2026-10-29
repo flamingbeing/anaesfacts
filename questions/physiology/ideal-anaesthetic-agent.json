@@ -1,0 +1,169 @@
+{
+ "topic": "physiology/ideal-anaesthetic-agent",
+ "questions": [
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#91364d",
+   "kind": "statement",
+   "stem": "What should an ideal anaesthetic drug be easy to do, even in uncooperative patients?",
+   "answer": "Give",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#c77e1b",
+   "kind": "blank",
+   "stem": "An ideal anaesthetic drug should have a ____ onset.",
+   "answer": "fast",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#3538f0",
+   "kind": "blank",
+   "stem": "An ideal anaesthetic drug should have a ____ duration of action.",
+   "answer": "short",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#c3ae4a",
+   "kind": "mcq",
+   "stem": "Which side-effect profile suits an ideal anaesthetic drug?",
+   "options": [
+    "Many dose-related side effects",
+    "Few side effects",
+    "Frequent nausea and vomiting",
+    "Prolonged organ toxicity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#79a088",
+   "kind": "mcq",
+   "stem": "Which administration routes suit an ideal anaesthetic drug best?",
+   "options": [
+    "Oral and intramuscular",
+    "Intravenous and inhaled",
+    "Subcutaneous only",
+    "Intramuscular and subcutaneous"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#585e78",
+   "kind": "statement",
+   "stem": "For an ideal induction and maintenance drug, what should plasma levels be predictable from?",
+   "answer": "A known pharmacokinetic model",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#111946",
+   "kind": "blank",
+   "stem": "An ideal induction and maintenance drug has a predictable link between pharmacokinetics and ____.",
+   "answer": "effect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#cbe4ed",
+   "kind": "mcq",
+   "stem": "What metabolite property suits an ideal induction and maintenance drug?",
+   "options": [
+    "Several long-acting active metabolites",
+    "No active metabolites",
+    "Active metabolites cleared by the kidneys",
+    "One slowly cleared active metabolite"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#68e925",
+   "kind": "statement",
+   "stem": "Besides fast onset, what offset speed should an ideal induction and maintenance drug have?",
+   "answer": "Rapid offset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#0f365d",
+   "kind": "mcq",
+   "stem": "What handling property suits an ideal induction and maintenance drug?",
+   "options": [
+    "Needs a glass vial only",
+    "Stable only when refrigerated",
+    "Degrades quickly in plastic syringes",
+    "Stable in a plastic syringe"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#2219a5",
+   "kind": "mcq",
+   "stem": "Which aim of general anaesthesia makes the airway easier to manage?",
+   "options": [
+    "Good surgical conditions",
+    "Haemodynamic stability",
+    "Ease airway management, including intubation",
+    "Unconsciousness and amnesia throughout"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#e97936",
+   "kind": "statement",
+   "stem": "Which two states should general anaesthesia maintain throughout the operation?",
+   "answer": "Unconsciousness and amnesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#0d060c",
+   "kind": "blank",
+   "stem": "One aim of general anaesthesia is ____ stability.",
+   "answer": "Haemodynamic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#dec673",
+   "kind": "statement",
+   "stem": "Ideally, what should general anaesthesia cause to the intraoperative course and recovery?",
+   "answer": "No harm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#6c6b35",
+   "kind": "statement",
+   "stem": "Why is balanced anaesthesia used, with several drugs given together?",
+   "answer": "No single drug achieves all aims in every patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/ideal-anaesthetic-agent#d56b64",
+   "kind": "mcq",
+   "stem": "What does combining several drugs in balanced anaesthesia aim to achieve?",
+   "options": [
+    "Use one drug at its maximum dose",
+    "Avoid all drugs in favour of nerve blocks",
+    "Maximise each drug's benefits and minimise side effects",
+    "Replace the need for monitoring"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

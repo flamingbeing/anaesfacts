@@ -1,0 +1,111 @@
+{
+ "topic": "procedures/breast-reduction-and-augmentation",
+ "questions": [
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#cf0cc0",
+   "kind": "statement",
+   "stem": "In breast reduction, severe back and neck pain is often present; what should you check?",
+   "answer": "Neck extension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#44a175",
+   "kind": "blank",
+   "stem": "For breast reduction, the blood bank request reads 'Group and ____'.",
+   "answer": "hold",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#dfe894",
+   "kind": "mcq",
+   "stem": "What positioning is used for breast reduction surgery?",
+   "options": [
+    "Prone with arms tucked at sides",
+    "Lateral decubitus, flexed 90 degrees",
+    "Supine, 30 degrees head up",
+    "Supine, flat with head down"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#b8f422",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is used for breast reduction surgery?",
+   "options": [
+    "Local infiltration with sedation only",
+    "GA (ETT or LMA with IPPV)",
+    "Spinal anaesthesia with sedation",
+    "Epidural anaesthesia alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#337821",
+   "kind": "statement",
+   "stem": "In breast reduction, what is placed under the patient to absorb blood?",
+   "answer": "Absorbent pads",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#9fff0a",
+   "kind": "statement",
+   "stem": "After positioning for breast reduction, what should you check?",
+   "answer": "IV lines still run",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#9f56d0",
+   "kind": "statement",
+   "stem": "What analgesic approach is suggested after breast reduction surgery?",
+   "answer": "A dose of morphine, then simple analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#fbc77f",
+   "kind": "mcq",
+   "stem": "When should red cells be crossmatched for breast reduction?",
+   "options": [
+    "Routinely for every breast reduction case",
+    "Only for reductions under 200g",
+    "Larger reductions (>1kg)",
+    "Only when the patient is hypotensive"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#464d53",
+   "kind": "statement",
+   "stem": "In breast augmentation with the patient supine, where are the arms positioned?",
+   "answer": "Arms out on boards or hands behind buttocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#e31e2d",
+   "kind": "statement",
+   "stem": "After mastectomy, breast augmentation may be combined with which type of flap?",
+   "answer": "TRAM flap or free flap",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-reduction-and-augmentation#b59efe",
+   "kind": "statement",
+   "stem": "In breast augmentation, where is the implant pocket made?",
+   "answer": "At the anterior axillary line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

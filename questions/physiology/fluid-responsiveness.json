@@ -1,0 +1,501 @@
+{
+ "topic": "physiology/fluid-responsiveness",
+ "questions": [
+  {
+   "fact_id": "physiology/fluid-responsiveness#859eff",
+   "kind": "mcq",
+   "stem": "How well do static measures such as CVP and PAOP predict fluid responsiveness?",
+   "options": [
+    "Excellent predictors",
+    "Good predictors",
+    "Poor predictors",
+    "Moderate predictors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#6d232f",
+   "kind": "blank",
+   "stem": "In a passive leg raise test, a responder is one whose SV or CO changes by ____.",
+   "answer": "10%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#35ab41",
+   "kind": "mcq",
+   "stem": "What variability (%) in SVV, PPV, SPV or IVC suggests fluid responsiveness?",
+   "options": [
+    "5%",
+    "8%",
+    "12%",
+    "15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#34eb62",
+   "kind": "statement",
+   "stem": "What conditions must be met for respiratory variation tests to be valid?",
+   "answer": "Sinus rhythm, no spontaneous breaths, tidal volume 8 ml/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#675d6b",
+   "kind": "mcq",
+   "stem": "After a 500 ml fluid challenge, what rise in cardiac output defines fluid responsiveness?",
+   "options": [
+    "Above 5%",
+    "Above 10-15%",
+    "Above 20-25%",
+    "Above 30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#846661",
+   "kind": "mcq",
+   "stem": "What kind of measure is fluid responsiveness?",
+   "options": [
+    "A static parameter",
+    "A fixed pressure reading",
+    "A dynamic parameter",
+    "A single snapshot reading"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#95abe2",
+   "kind": "mcq",
+   "stem": "Where on the Starling curve is a fluid-responsive heart?",
+   "options": [
+    "The flat plateau",
+    "The steep, ascending part",
+    "The descending limb",
+    "The far right maximum"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#28c474",
+   "kind": "blank",
+   "stem": "In practice, fluid therapy moves a patient from hypovolaemia towards ____.",
+   "answer": "euvolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#18f5f3",
+   "kind": "mcq",
+   "stem": "How many fluid-responsiveness methods have proven good accuracy?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#5d60b9",
+   "kind": "statement",
+   "stem": "Which clinical signs are used as static tests of fluid responsiveness?",
+   "answer": "Heart rate, blood pressure, collapsed veins, capillary refill time, recent urine output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#9e0263",
+   "kind": "mcq",
+   "stem": "Since which year has CVP been used to guide fluid therapy?",
+   "options": [
+    "1939",
+    "1959",
+    "1969",
+    "1979"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#a39d39",
+   "kind": "blank",
+   "stem": "A CVP below ____ suggests hypovolaemia.",
+   "answer": "5 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#c585ab",
+   "kind": "blank",
+   "stem": "A CVP above ____ makes a patient unlikely to respond to IV fluid.",
+   "answer": "10 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#c9fc88",
+   "kind": "mcq",
+   "stem": "How well does PAOP (PCWP) predict fluid responsiveness?",
+   "options": [
+    "It predicts it well",
+    "It predicts it moderately",
+    "It fails to predict it",
+    "It predicts it only when high"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#e044b0",
+   "kind": "blank",
+   "stem": "A PAOP (PCWP) below ____ suggests hypovolaemia.",
+   "answer": "8 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#d6d902",
+   "kind": "statement",
+   "stem": "Why is IVC ultrasound size a poor predictor of fluid responsiveness?",
+   "answer": "It tracks CVP, so shares its weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#2fa4fb",
+   "kind": "mcq",
+   "stem": "How valuable are lactate or SvO2 as tests of fluid responsiveness?",
+   "options": [
+    "Very valuable",
+    "Not valuable",
+    "Valuable only in sepsis",
+    "Valuable as a static test"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#c29f0d",
+   "kind": "statement",
+   "stem": "What is the principle of a dynamic test of fluid responsiveness?",
+   "answer": "Make a brief change in preload and watch the effect on cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#88d514",
+   "kind": "blank",
+   "stem": "A dynamic fluid challenge is a rapid IV infusion of ____ ml.",
+   "answer": "250-500",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#6863e2",
+   "kind": "mcq",
+   "stem": "Which mini-challenge predicts the response to a 500 ml fluid challenge?",
+   "options": [
+    "50 ml over 2 min",
+    "100 ml over 2 min",
+    "100 ml over 10 min",
+    "250 ml over 2 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#fc644b",
+   "kind": "statement",
+   "stem": "What is the main risk of a dynamic fluid challenge?",
+   "answer": "Fluid overload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#bb3725",
+   "kind": "statement",
+   "stem": "In a passive leg raise test, what is the starting position?",
+   "answer": "Head up at 45 degrees",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#b2a125",
+   "kind": "statement",
+   "stem": "In a passive leg raise test, what position is the patient moved into?",
+   "answer": "Head flat and legs lifted to 45 degrees",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#a41c56",
+   "kind": "blank",
+   "stem": "The peak effect of a passive leg raise occurs at ____ seconds.",
+   "answer": "30-90",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#17694d",
+   "kind": "mcq",
+   "stem": "In preload-dependent patients, when does aortic flow peak after a passive leg raise?",
+   "options": [
+    "About 10 seconds",
+    "About 1 minute",
+    "About 3 minutes",
+    "About 10 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#dd8297",
+   "kind": "blank",
+   "stem": "Assess the passive leg raise response within ____ of starting it.",
+   "answer": "30–90 s",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#91adf4",
+   "kind": "statement",
+   "stem": "What mechanism makes a passive leg raise an autotransfusion?",
+   "answer": "Transient rise in venous return",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#af1349",
+   "kind": "blank",
+   "stem": "A passive leg raise shifts about ____ of blood from the calves.",
+   "answer": "150 ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#242339",
+   "kind": "statement",
+   "stem": "What are the advantages of the passive leg raise test?",
+   "answer": "Reversible, non-invasive, well validated; works with spontaneous breathing and arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#214548",
+   "kind": "statement",
+   "stem": "What are the disadvantages of the passive leg raise test?",
+   "answer": "Unreliable in severe hypovolaemia; repositioning may not be possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#53b3db",
+   "kind": "blank",
+   "stem": "An end-expiratory occlusion test holds expiration for ____ seconds.",
+   "answer": "15",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#0f2b47",
+   "kind": "statement",
+   "stem": "After an end-expiratory occlusion hold, which change predicts responsiveness accurately?",
+   "answer": "A rise in pulse pressure or cardiac index",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#8d17cf",
+   "kind": "mcq",
+   "stem": "During an end-expiratory occlusion hold, what does the hold act like?",
+   "options": [
+    "A diuretic dose",
+    "A fluid challenge",
+    "A vasopressor bolus",
+    "A change in head position"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#2e80e9",
+   "kind": "statement",
+   "stem": "What are the disadvantages of the end-expiratory occlusion hold?",
+   "answer": "Patient must not breathe spontaneously during the pause; less validated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#5813d2",
+   "kind": "statement",
+   "stem": "Name the three respiratory variation indices of pulse and stroke volume.",
+   "answer": "Systolic pressure variation (SPV), pulse pressure variation (PPV), stroke volume variation (SVV)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#66abc2",
+   "kind": "statement",
+   "stem": "What is the formula for pulse pressure variation (PPV)?",
+   "answer": "(PPmax − PPmin) / ((PPmax + PPmin) / 2)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#e906d7",
+   "kind": "blank",
+   "stem": "Fluid responders have a PPV above ____.",
+   "answer": "12%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#9831a3",
+   "kind": "mcq",
+   "stem": "Which PPV range is a grey zone for fluid responsiveness?",
+   "options": [
+    "3-6%",
+    "6-9%",
+    "9-12%",
+    "12-15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#8a3fa3",
+   "kind": "mcq",
+   "stem": "Which index is more reliable for fluid responsiveness, PPV or SPV?",
+   "options": [
+    "SPV",
+    "Neither is reliable",
+    "PPV",
+    "Both are equally reliable"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#edc446",
+   "kind": "statement",
+   "stem": "What is the formula for stroke volume variation (SVV)?",
+   "answer": "(SVmax − SVmin) / ((SVmax + SVmin) / 2)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#7d9b4f",
+   "kind": "blank",
+   "stem": "Fluid responsiveness is shown by an SVV above ____.",
+   "answer": "12%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#cc1c46",
+   "kind": "statement",
+   "stem": "Which two devices use a central line, an arterial line and thermodilution to assess fluid responsiveness?",
+   "answer": "VolumeView/EV 1000 and PiCCO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#63684a",
+   "kind": "mcq",
+   "stem": "Which device uses an SpO2 probe to assess respiratory variation?",
+   "options": [
+    "PiCCO",
+    "VolumeView/EV 1000",
+    "Pleth Variability Index",
+    "Central venous pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#e7fb54",
+   "kind": "statement",
+   "stem": "What is the simplest bedside way to judge respiratory variation?",
+   "answer": "Eyeballing the respiratory swing on the arterial or SpO2 trace",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#0017d3",
+   "kind": "statement",
+   "stem": "Which breathing pattern limits the accuracy of respiratory variation tests?",
+   "answer": "Spontaneous breathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#1224ce",
+   "kind": "mcq",
+   "stem": "What minimum tidal volume does a respiratory variation test need for valid results?",
+   "options": [
+    "4 mL/kg",
+    "6 mL/kg",
+    "8 mL/kg",
+    "10 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#eb2d47",
+   "kind": "statement",
+   "stem": "Beyond right- and left-sided measures, which other focused echo tests assess fluid responsiveness?",
+   "answer": "E/Ea, PLR or EEO combined with echo, IVO, STE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#0cdfe0",
+   "kind": "statement",
+   "stem": "What does focused echocardiography help with in fluid-responsiveness assessment?",
+   "answer": "Differential diagnosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#4368e9",
+   "kind": "statement",
+   "stem": "Focused echo is an indirect measure of fluid status; what should it be combined with to detect overload?",
+   "answer": "Lung ultrasound",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-responsiveness#c2893e",
+   "kind": "statement",
+   "stem": "What sign on focused lung ultrasound indicates fluid overload?",
+   "answer": "B-lines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

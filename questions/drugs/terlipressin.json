@@ -1,0 +1,223 @@
+{
+ "topic": "drugs/terlipressin",
+ "questions": [
+  {
+   "fact_id": "drugs/terlipressin#e5f2ba",
+   "kind": "statement",
+   "stem": "Why can terlipressin be given as intermittent IV boluses?",
+   "answer": "Its long action",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#9a9dc6",
+   "kind": "mcq",
+   "stem": "Besides intermittent boluses, how else can terlipressin be given?",
+   "options": [
+    "Subcutaneous injection",
+    "Continuous infusion",
+    "Nebulised inhalation",
+    "Intramuscular depot"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#b094d8",
+   "kind": "mcq",
+   "stem": "What is the terlipressin dose for refractory intraoperative hypotension?",
+   "options": [
+    "Single 2mg dose",
+    "1-2mg every 4-6 hours",
+    "Single 1mg dose",
+    "Continuous 1mg per hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#8df382",
+   "kind": "mcq",
+   "stem": "What is the terlipressin dose for refractory septic shock or bleeding varices?",
+   "options": [
+    "Single 1mg dose",
+    "1-2mg every 4-6 hours",
+    "1-2mg every 1-2 hours",
+    "10mg every 4-6 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#f6d080",
+   "kind": "statement",
+   "stem": "Why does terlipressin have a long half-life?",
+   "answer": "It is a prodrug converted to the active form",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#0658f4",
+   "kind": "mcq",
+   "stem": "Compared with vasopressin, terlipressin is more selective for which receptor?",
+   "options": [
+    "V2 receptors",
+    "Oxytocin receptors",
+    "V1 receptors",
+    "Beta-2 receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#61beac",
+   "kind": "statement",
+   "stem": "Which vessels does terlipressin constrict?",
+   "answer": "Systemic and splanchnic vessels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#83daeb",
+   "kind": "mcq",
+   "stem": "What does terlipressin do to intrahepatic vessels?",
+   "options": [
+    "Constricts them",
+    "Dilates them",
+    "Has no effect on them",
+    "Blocks their receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#661833",
+   "kind": "mcq",
+   "stem": "How long does terlipressin's vasopressor effect last?",
+   "options": [
+    "About 30 minutes",
+    "About 5-8 hours",
+    "About 24 hours",
+    "About 1 hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#0c0e0a",
+   "kind": "statement",
+   "stem": "What cardiovascular adverse effects does terlipressin cause?",
+   "answer": "Vasoconstriction, higher afterload, and falling cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#2221c3",
+   "kind": "mcq",
+   "stem": "Which terlipressin adverse effect is lessened by continuous infusion?",
+   "options": [
+    "Hyponatraemia",
+    "Hypoxia",
+    "Ischaemia",
+    "Pulmonary oedema"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#44efd5",
+   "kind": "statement",
+   "stem": "How does terlipressin's splanchnic ischaemia risk compare with vasopressin?",
+   "answer": "Higher",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#8e1c1b",
+   "kind": "statement",
+   "stem": "What respiratory adverse effects does terlipressin cause?",
+   "answer": "Hypoxia and pulmonary oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#ca91a1",
+   "kind": "mcq",
+   "stem": "Terlipressin can cause hyponatraemia through which mechanism?",
+   "options": [
+    "V1-mediated vasoconstriction",
+    "Beta-2-mediated bronchodilation",
+    "V2-mediated antidiuresis",
+    "Alpha-1-mediated mydriasis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#e6448c",
+   "kind": "statement",
+   "stem": "Why is terlipressin used in bleeding varices?",
+   "answer": "It is a potent splanchnic vasoconstrictor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#a56a44",
+   "kind": "mcq",
+   "stem": "What comparator did the 2018 Intensive Care Medicine terlipressin septic shock RCT use?",
+   "options": [
+    "Dopamine infusion",
+    "Noradrenaline infusion",
+    "Vasopressin infusion",
+    "Phenylephrine infusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#47ba99",
+   "kind": "mcq",
+   "stem": "How many ICUs in China took part in the 2018 terlipressin septic shock RCT?",
+   "options": [
+    "12",
+    "21",
+    "31",
+    "41"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#5cbcd4",
+   "kind": "mcq",
+   "stem": "What was 28-day mortality with terlipressin in the 2018 septic shock RCT?",
+   "options": [
+    "30%",
+    "40%",
+    "52%",
+    "61%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/terlipressin#306654",
+   "kind": "statement",
+   "stem": "In the 2018 septic shock RCT, how did terlipressin compare with noradrenaline on days alive and free of vasopressors?",
+   "answer": "No difference",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

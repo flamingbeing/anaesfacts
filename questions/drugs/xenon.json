@@ -1,0 +1,139 @@
+{
+ "topic": "drugs/xenon",
+ "questions": [
+  {
+   "fact_id": "drugs/xenon#b7e3a2",
+   "kind": "blank",
+   "stem": "Xenon makes up ____ of the atmosphere.",
+   "answer": "0.0000087%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#ca63a8",
+   "kind": "mcq",
+   "stem": "What hazard profile is recorded for xenon?",
+   "options": [
+    "Significant occupational hazard",
+    "No occupational or environmental hazards",
+    "Flammable at theatre concentrations",
+    "Major environmental greenhouse hazard"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#0ff145",
+   "kind": "mcq",
+   "stem": "How is xenon produced?",
+   "options": [
+    "Electrolysis of water",
+    "Fractional distillation of air",
+    "Thermal decomposition of nitrates",
+    "Catalytic cracking of petroleum"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#0ff145",
+   "kind": "mcq",
+   "stem": "Roughly how many times the cost of nitrous oxide is xenon?",
+   "options": [
+    "About 20 times",
+    "About 200 times",
+    "About 2000 times",
+    "About 500 times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#0ca3a9",
+   "kind": "mcq",
+   "stem": "What is the MAC of xenon?",
+   "options": [
+    "1%",
+    "35%",
+    "71%",
+    "120%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#37e805",
+   "kind": "mcq",
+   "stem": "Xenon is how many times denser than nitrous oxide?",
+   "options": [
+    "1.5 times",
+    "2 times",
+    "10 times",
+    "3 times"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#37e805",
+   "kind": "mcq",
+   "stem": "Xenon is how many times more viscous than nitrous oxide?",
+   "options": [
+    "2 times",
+    "5 times",
+    "1.5 times",
+    "10 times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#7d0e67",
+   "kind": "mcq",
+   "stem": "Does xenon cause diffusion hypoxia at high concentrations, as nitrous oxide does?",
+   "options": [
+    "Yes, to the same degree",
+    "Yes, but only at low doses",
+    "No diffusion hypoxia",
+    "Yes, but more than nitrous oxide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#5c7247",
+   "kind": "mcq",
+   "stem": "What is xenon's blood:gas partition coefficient?",
+   "options": [
+    "0.42",
+    "0.14",
+    "0.47",
+    "0.65"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/xenon#e4bc76",
+   "kind": "mcq",
+   "stem": "How is xenon eliminated from the body?",
+   "options": [
+    "Metabolised by liver enzymes",
+    "Excreted in urine",
+    "Eliminated by the lungs",
+    "Broken down to fluoride"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

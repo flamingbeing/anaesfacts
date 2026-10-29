@@ -1,0 +1,143 @@
+{
+ "topic": "procedures/cervical-cerclage",
+ "questions": [
+  {
+   "fact_id": "procedures/cervical-cerclage#88ba25",
+   "kind": "mcq",
+   "stem": "When is cervical cerclage usually performed in pregnancy?",
+   "options": [
+    "Between the 6th and 10th week",
+    "Between the 14th and 26th week",
+    "After the 34th week",
+    "Between the 36th and 38th week"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#058bcf",
+   "kind": "statement",
+   "stem": "In cervical cerclage, when may an emergency procedure be needed?",
+   "answer": "If the cervix is dilating and the membranes are bulging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#c1046d",
+   "kind": "mcq",
+   "stem": "Which approaches are used for cervical cerclage?",
+   "options": [
+    "Hysteroscopic or laparoscopic",
+    "Transurethral only",
+    "Cystoscopic or transperineal",
+    "Transvaginal or transabdominal"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#e5bc6a",
+   "kind": "statement",
+   "stem": "What are the risks of cervical cerclage surgery?",
+   "answer": "Membrane rupture, infection, haemorrhage, preterm labour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#b4d76a",
+   "kind": "statement",
+   "stem": "What precaution is needed for a pregnant patient having cervical cerclage?",
+   "answer": "Aspiration precautions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#257f16",
+   "kind": "blank",
+   "stem": "For cervical cerclage, anaesthesia is spinal or ____ with RSI.",
+   "answer": "GA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#844b6d",
+   "kind": "mcq",
+   "stem": "What position is used for cervical cerclage surgery?",
+   "options": [
+    "Prone",
+    "Lithotomy",
+    "Lateral decubitus",
+    "Supine, flat"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#874615",
+   "kind": "mcq",
+   "stem": "How high must a regional block reach for cervical cerclage?",
+   "options": [
+    "Below L2",
+    "Above T10",
+    "Only sacral segments",
+    "Below T12"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#198398",
+   "kind": "mcq",
+   "stem": "Which drug is given as boluses to relax the uterus during cervical cerclage?",
+   "options": [
+    "Oxytocin 10 units infusion",
+    "Ergometrine 0.25 mg injection",
+    "GTN 50 mcg boluses",
+    "Furosemide 20 mg boluses"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#ba587f",
+   "kind": "statement",
+   "stem": "What should be observed for after cervical cerclage?",
+   "answer": "Preterm labour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#4e6276",
+   "kind": "mcq",
+   "stem": "At what gestation is the cervical cerclage suture usually removed?",
+   "options": [
+    "32 weeks",
+    "36 weeks",
+    "38 weeks",
+    "42 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cervical-cerclage#96921d",
+   "kind": "mcq",
+   "stem": "Is anaesthesia needed to remove a cervical cerclage suture?",
+   "options": [
+    "Yes, always general anaesthesia",
+    "Yes, always spinal anaesthesia",
+    "No, it can be done without anaesthesia",
+    "Yes, always regional block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

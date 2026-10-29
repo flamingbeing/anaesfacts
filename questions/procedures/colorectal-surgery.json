@@ -1,0 +1,117 @@
+{
+ "topic": "procedures/colorectal-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/colorectal-surgery#3cb370",
+   "kind": "statement",
+   "stem": "How should fluids be managed in colorectal surgery to avoid bowel oedema?",
+   "answer": "Limit crystalloids; give colloids early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#de272c",
+   "kind": "statement",
+   "stem": "How can postoperative opioid use be minimised in colorectal surgery?",
+   "answer": "Regional techniques help",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#8e4764",
+   "kind": "mcq",
+   "stem": "How late can water and carbohydrate drinks be given before colorectal surgery?",
+   "options": [
+    "Until 6hrs before surgery",
+    "Until 2hrs before surgery",
+    "Until 12hrs before surgery",
+    "Not allowed at all"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#9ac22f",
+   "kind": "statement",
+   "stem": "In colorectal surgery, what bed should be arranged preoperatively if needed?",
+   "answer": "HDU/ICU bed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#60dddb",
+   "kind": "statement",
+   "stem": "In colorectal surgery, what do long cases in a steep head-down (Lloyd-Davies) position reduce, and what may they need?",
+   "answer": "Reduce FRC; may need higher FiO2 and PEEP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#a908bf",
+   "kind": "mcq",
+   "stem": "Should nitrous oxide be used intraoperatively in colorectal surgery?",
+   "options": [
+    "Yes, routinely used",
+    "Only during induction",
+    "No N2O",
+    "Only with high FiO2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#50e109",
+   "kind": "mcq",
+   "stem": "After colorectal surgery, oxygen is given overnight and continued to keep what?",
+   "options": [
+    "SpO2 above 90%",
+    "SpO2 >95%",
+    "SpO2 above 98%",
+    "PaO2 above 80 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#e399e0",
+   "kind": "statement",
+   "stem": "After colorectal surgery, which losses should be counted for close fluid balance?",
+   "answer": "Drain, ileostomy and NG losses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#864083",
+   "kind": "mcq",
+   "stem": "After major colorectal surgery, for how long should hourly urine output be measured?",
+   "options": [
+    "At least 24hr",
+    "At least 4hr",
+    "Only during surgery",
+    "At least 72hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#6bf161",
+   "kind": "statement",
+   "stem": "In colorectal surgery, when is an opioid PCA listed for postoperative analgesia?",
+   "answer": "Lower abdominal surgery, open cholecystectomy after failed laparoscopy, laparotomy when epidural is contraindicated or declined",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-surgery#3e4a43",
+   "kind": "statement",
+   "stem": "Which postoperative analgesia approach suits small wounds in colorectal surgery?",
+   "answer": "Local infiltration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

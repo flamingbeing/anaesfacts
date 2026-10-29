@@ -1,0 +1,625 @@
+{
+ "topic": "procedures/cardioversion",
+ "questions": [
+  {
+   "fact_id": "procedures/cardioversion#566083",
+   "kind": "mcq",
+   "stem": "In cardioversion, how is the DC shock timed relative to the heartbeat?",
+   "options": [
+    "Delayed until the next T wave",
+    "Timed to a fixed interval, ignoring the rhythm",
+    "Synchronised to the patient's own cardiac activity",
+    "Given during ventricular diastole only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#18ce2f",
+   "kind": "mcq",
+   "stem": "What does the brief DC shock (under 4ms) do to cardiac cells in cardioversion?",
+   "options": [
+    "Hyperpolarises them, prolonging refractoriness",
+    "Depolarises them at once, letting the sinus node resume",
+    "Blocks the AV node for several minutes",
+    "Creates a new ectopic focus in the atria"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#b86a27",
+   "kind": "mcq",
+   "stem": "In re-entrant arrhythmias such as PSVT or VT, how does DC cardioversion restore sinus rhythm?",
+   "options": [
+    "It increases sinus node automaticity",
+    "It breaks the re-entry circuit",
+    "It blocks the AV node permanently",
+    "It triggers a new ectopic focus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#d57823",
+   "kind": "mcq",
+   "stem": "Which digitalis-related state is a contraindication to DC cardioversion?",
+   "options": [
+    "Digitalis toxicity with hypokalaemia",
+    "Digitalis therapy with normal potassium",
+    "Hypokalaemia without any digitalis",
+    "Digitalis therapy with a normal ECG"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#6ed39d",
+   "kind": "mcq",
+   "stem": "Before DC cardioversion of an unstable patient, which drug is given prophylactically?",
+   "options": [
+    "Amiodarone 300mg",
+    "Lignocaine 1mg/kg (max 100mg)",
+    "Adrenaline 1mg",
+    "Atropine 600mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#6ed39d",
+   "kind": "statement",
+   "stem": "In an unstable patient, what energy should be used for DC cardioversion?",
+   "answer": "The lowest energy likely to work",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#1fd106",
+   "kind": "statement",
+   "stem": "When is repeat DC cardioversion not advised for AF?",
+   "answer": "When AF relapses after short spells of sinus rhythm despite several attempts and antiarrhythmic prophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#c47f59",
+   "kind": "mcq",
+   "stem": "In DC cardioversion, which electrode type does better in obesity and obstructive lung disease?",
+   "options": [
+    "External chest wall electrodes",
+    "Internal electrodes",
+    "Self-adhesive monitoring pads",
+    "Anterior-posterior external pads"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#338c97",
+   "kind": "statement",
+   "stem": "When does most AF recurrence occur after DC cardioversion?",
+   "answer": "Within 1mth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#e46f7b",
+   "kind": "mcq",
+   "stem": "Which AF history carries a higher risk of recurrence after DC cardioversion?",
+   "options": [
+    "AF < 48h with a normal heart",
+    "AF 1 week with a normal heart",
+    "AF > 1y or underlying heart disease",
+    "Only AF after a prior ablation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#24581b",
+   "kind": "mcq",
+   "stem": "What thromboembolism rate is quoted after DC cardioversion with prophylactic anticoagulation?",
+   "options": [
+    "5-10%",
+    "1-2%",
+    "0.1-0.2%",
+    "20-25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#ba21c2",
+   "kind": "mcq",
+   "stem": "What thromboembolism rate is quoted after DC cardioversion without prior anticoagulation?",
+   "options": [
+    "2-5%",
+    "10-15%",
+    "0.2-0.5%",
+    "20-25%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#9f648f",
+   "kind": "mcq",
+   "stem": "Thromboembolism risk after DC cardioversion is higher when AF duration is what?",
+   "options": [
+    "< 6h",
+    "< 12h",
+    "> 48h",
+    "< 24h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#04f8a2",
+   "kind": "mcq",
+   "stem": "What rate of skin burns is quoted for DC cardioversion?",
+   "options": [
+    "5-10%",
+    "1-2%",
+    "20-25%",
+    "50-60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#d84eee",
+   "kind": "mcq",
+   "stem": "Compared with drug cardioversion, which DC type has higher success?",
+   "options": [
+    "Oral sotalol",
+    "Intravenous adenosine",
+    "Biphasic DCC",
+    "Intravenous digoxin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#d4a290",
+   "kind": "mcq",
+   "stem": "In the conventional approach to DC cardioversion, for how many weeks is warfarin continued afterwards?",
+   "options": [
+    "1wk",
+    "2wks",
+    "4wks",
+    "6wks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#a09ea8",
+   "kind": "statement",
+   "stem": "Name two alternatives to warfarin for anticoagulation after DC cardioversion.",
+   "answer": "Dabigatran, rivaroxaban",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#5dbe70",
+   "kind": "statement",
+   "stem": "When transoesophageal echo shows no thrombus, what is the cardioversion plan?",
+   "answer": "Synchronised DCC, then warfarin for 4wks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#117be8",
+   "kind": "statement",
+   "stem": "If transoesophageal echo shows thrombus before cardioversion, what is done first?",
+   "answer": "Warfarin for 4wks, then repeat TEE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#117be8",
+   "kind": "mcq",
+   "stem": "If thrombus persists on repeat TEE, how much longer is warfarin continued?",
+   "options": [
+    "Another 2wks",
+    "Another 8wks",
+    "Another 4wks",
+    "Stop warfarin and cardiovert"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#2675af",
+   "kind": "mcq",
+   "stem": "For AF under 48h, when should DC cardioversion be done?",
+   "options": [
+    "Only after 4 weeks of anticoagulation",
+    "At once, without waiting for anticoagulation",
+    "Only after a heparin infusion",
+    "Only after 3 weeks of warfarin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#8f099b",
+   "kind": "mcq",
+   "stem": "For AF over 48h or of unknown duration, what cover is used if cardioversion is done at once?",
+   "options": [
+    "Aspirin alone",
+    "No anticoagulant at all",
+    "Heparin unless contraindicated",
+    "Rivaroxaban for 3wks first"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#22fe23",
+   "kind": "mcq",
+   "stem": "What heparin bolus is used before cardioversion when anticoagulating with heparin?",
+   "options": [
+    "2000IU or 20IU/kg",
+    "5000IU or 80IU/kg",
+    "10000IU or 160IU/kg",
+    "500IU or 5IU/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#22fe23",
+   "kind": "mcq",
+   "stem": "What is the usual heparin infusion rate for cardioversion, dosed on ideal body weight?",
+   "options": [
+    "5-8IU/kg/h",
+    "16-18IU/kg/h",
+    "30-35IU/kg/h",
+    "50-60IU/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#22fe23",
+   "kind": "mcq",
+   "stem": "What aPTT target is aimed for with heparin before cardioversion?",
+   "options": [
+    "1-1.2x control",
+    "3-4x control",
+    "1.5-2x control",
+    "5-6x control"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#99d170",
+   "kind": "statement",
+   "stem": "In the heparin-then-warfarin plan for cardioversion, until when is heparin continued?",
+   "answer": "Until warfarin reaches INR 2-3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#4816a8",
+   "kind": "mcq",
+   "stem": "For AF under 48h, what decides anticoagulation before and after cardioversion?",
+   "options": [
+    "Patient's body weight",
+    "Thromboembolic risk",
+    "Serum potassium level",
+    "Length of antiarrhythmic therapy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#8b7665",
+   "kind": "mcq",
+   "stem": "For AF over 48h or unknown, how long is warfarin given before cardioversion at minimum?",
+   "options": [
+    "At least 1wk",
+    "At least 3wks",
+    "At least 6wks",
+    "At least 2wks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#65daea",
+   "kind": "mcq",
+   "stem": "What INR range is aimed for with warfarin after cardioversion?",
+   "options": [
+    "INR 1-1.5",
+    "INR 2-3",
+    "INR 3.5-4.5",
+    "INR 4-6"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#520d83",
+   "kind": "mcq",
+   "stem": "What evidence class and level apply to warfarin for at least 3wks before cardioversion?",
+   "options": [
+    "Class IIa, LOE C",
+    "Class IIb, LOE A",
+    "Class III, LOE C",
+    "Class I, LOE C"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#1493a1",
+   "kind": "mcq",
+   "stem": "Before DC cardioversion, what ventricular rate suggests a conduction defect?",
+   "options": [
+    "< 40bpm",
+    "< 60bpm",
+    "< 100bpm",
+    "< 120bpm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#1493a1",
+   "kind": "mcq",
+   "stem": "For a suspected conduction defect before cardioversion, which prophylactic pacing is considered?",
+   "options": [
+    "Oral isoprenaline only",
+    "Transvenous or transcutaneous pacing",
+    "Atropine infusion alone",
+    "Dual-chamber ICD implant"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#34c140",
+   "kind": "mcq",
+   "stem": "How far from a pacemaker or ICD should DC cardioversion pads be placed?",
+   "options": [
+    "At least 5cm",
+    "At least 2cm",
+    "At least 15cm",
+    "At least 30cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#34c140",
+   "kind": "mcq",
+   "stem": "Ideally, in which pad orientation should pads sit relative to a pacemaker or ICD?",
+   "options": [
+    "Directly over the generator",
+    "Posterior-lateral",
+    "Anterior-posterior",
+    "Lateral-lateral over the chest"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#0a449e",
+   "kind": "statement",
+   "stem": "What does the standard general anaesthetic assessment before DC cardioversion cover?",
+   "answer": "Airway, CNS, fasting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#edb5aa",
+   "kind": "statement",
+   "stem": "What standard ASA monitoring is used during DC cardioversion?",
+   "answer": "NIBP, SpO2, continuous ECG, ETCO2, end-tidal agent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#313df7",
+   "kind": "mcq",
+   "stem": "Where are DC cardioversion pads or paddles placed, with conductive gel?",
+   "options": [
+    "Both on the back",
+    "Anterior-lateral or anterior-posterior",
+    "Both over the abdomen",
+    "Left infraclavicular and left axilla"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#d99eb0",
+   "kind": "mcq",
+   "stem": "Even under ideal conditions, what share of shock current reaches the heart?",
+   "options": [
+    "50-60%",
+    "1-2%",
+    "10-30%",
+    "70-90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#a543d0",
+   "kind": "mcq",
+   "stem": "What is the maximum initial energy for DC cardioversion per AHA ACLS 2010?",
+   "options": [
+    "250J",
+    "360J",
+    "180J",
+    "450J"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#f6d74f",
+   "kind": "mcq",
+   "stem": "What initial monophasic energy is used for atrial fibrillation in DC cardioversion?",
+   "options": [
+    "100J",
+    "50J",
+    "200J",
+    "360J"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#9e9ecc",
+   "kind": "mcq",
+   "stem": "What initial monophasic energy is used for atrial flutter in DC cardioversion?",
+   "options": [
+    "50J",
+    "200J",
+    "100J",
+    "360J"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#94a57c",
+   "kind": "mcq",
+   "stem": "What initial biphasic energy is used for VT with a pulse in DC cardioversion?",
+   "options": [
+    "50J",
+    "100J",
+    "120J",
+    "200J"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#b58255",
+   "kind": "mcq",
+   "stem": "What initial monophasic energy is used for pulseless VT or VF?",
+   "options": [
+    "200J",
+    "150J",
+    "360J",
+    "120J"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#ba4430",
+   "kind": "mcq",
+   "stem": "For safety during the DC shock, what should be removed from the patient?",
+   "options": [
+    "Pulse oximeter probe",
+    "Oxygen",
+    "ECG electrodes",
+    "Blood pressure cuff"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#ba4430",
+   "kind": "mcq",
+   "stem": "Which protocol should be followed for safety during DC cardioversion?",
+   "options": [
+    "PALS protocol",
+    "ACLS protocol",
+    "ATLS protocol",
+    "NICE sedation guideline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#4948a5",
+   "kind": "statement",
+   "stem": "After DC cardioversion, transient ST elevation with raised troponin can occur without what?",
+   "answer": "Real cardiac damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#e8d856",
+   "kind": "mcq",
+   "stem": "Which position is advised for the patient in recovery after DC cardioversion?",
+   "options": [
+    "Supine with head flat",
+    "Recovery position",
+    "Prone",
+    "Reverse Trendelenburg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#8b8b01",
+   "kind": "mcq",
+   "stem": "What is given to the patient in recovery after DC cardioversion?",
+   "options": [
+    "Intravenous naloxone",
+    "Supplemental oxygen",
+    "Nebulised salbutamol",
+    "Rectal paracetamol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardioversion#0dcead",
+   "kind": "statement",
+   "stem": "What should be monitored during recovery after DC cardioversion?",
+   "answer": "Haemodynamics and ECG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

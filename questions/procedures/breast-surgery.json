@@ -1,0 +1,281 @@
+{
+ "topic": "procedures/breast-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/breast-surgery#dd1415",
+   "kind": "statement",
+   "stem": "In breast surgery, what monitoring problem can surgical dyes cause?",
+   "answer": "False SpO2 readings",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#983211",
+   "kind": "mcq",
+   "stem": "Methylene blue for sentinel lymph node biopsy in breast surgery is dosed at what?",
+   "options": [
+    "0.1-0.2mg/kg",
+    "1-2mg/kg",
+    "5-10mg/kg",
+    "10-20mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#0ef4c7",
+   "kind": "statement",
+   "stem": "How do breast surgery patients often feel before surgery?",
+   "answer": "Anxious",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#4658ef",
+   "kind": "statement",
+   "stem": "Which type of breast surgery can be long, with major blood loss?",
+   "answer": "Reconstructive surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#c4bd6b",
+   "kind": "mcq",
+   "stem": "For anxiety before breast surgery, what temazepam dose is suggested?",
+   "options": [
+    "Temazepam 1–2mg",
+    "Temazepam 5–8mg",
+    "Temazepam 10–20mg",
+    "Temazepam 50–100mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#3887fa",
+   "kind": "statement",
+   "stem": "In preoperative assessment for breast surgery, which recent treatment should be noted?",
+   "answer": "Chemotherapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#5fae70",
+   "kind": "statement",
+   "stem": "Which situations carry a higher blood loss risk in breast surgery?",
+   "answer": "Reconstruction, mastectomy after radiotherapy, large breasts, breast reduction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#cd41b7",
+   "kind": "statement",
+   "stem": "What monitoring is used for most breast surgery cases?",
+   "answer": "Standard monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#327d6c",
+   "kind": "statement",
+   "stem": "When may invasive monitoring be needed in breast surgery?",
+   "answer": "Long reconstructions, including free flaps",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#d16fb5",
+   "kind": "statement",
+   "stem": "In breast surgery, which monitor is advised when TIVA is used?",
+   "answer": "BIS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#fe185b",
+   "kind": "statement",
+   "stem": "What should be used for longer breast surgery cases to protect body temperature?",
+   "answer": "Active warming and temperature monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#35b4bd",
+   "kind": "statement",
+   "stem": "Which airway device suits short to medium breast surgery cases?",
+   "answer": "LMA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#261526",
+   "kind": "statement",
+   "stem": "When is tracheal intubation preferred for breast surgery?",
+   "answer": "Longer cases, especially with non-supine positioning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#c22d36",
+   "kind": "mcq",
+   "stem": "Which technique may help reduce PONV in breast surgery?",
+   "options": [
+    "Nitrous oxide top-up",
+    "TIVA",
+    "Sevoflurane maintenance",
+    "Deep neuromuscular block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#9007d0",
+   "kind": "statement",
+   "stem": "What is the usual positioning for breast surgery?",
+   "answer": "Supine, operative arm abducted on an armboard",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#671b47",
+   "kind": "mcq",
+   "stem": "What arm position is used for bilateral breast surgery?",
+   "options": [
+    "Both arms tucked at the sides",
+    "Both arms abducted (crucifix position)",
+    "One arm abducted, one tucked",
+    "Both arms flexed over the chest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#330279",
+   "kind": "statement",
+   "stem": "Why should arm position be checked during breast surgery?",
+   "answer": "To avoid brachial plexus stretch injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#31c2ca",
+   "kind": "statement",
+   "stem": "Which antibiotic may plastics want for reconstruction after mastectomy?",
+   "answer": "Co-amoxiclav (Augmentin)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#535035",
+   "kind": "statement",
+   "stem": "Why do surgeons prefer avoiding paralysis during axillary dissection?",
+   "answer": "Lets them see when they are near a nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#714982",
+   "kind": "mcq",
+   "stem": "For axillary dissection in breast surgery, what do the notes say about paralysis?",
+   "options": [
+    "Always forbidden",
+    "Some surgeons still want it",
+    "Required for all cases",
+    "Only needed for mastectomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#956d00",
+   "kind": "statement",
+   "stem": "What is the basis of postoperative analgesia after breast surgery?",
+   "answer": "Paracetamol and NSAID if tolerated, plus systemic opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#3bdb8f",
+   "kind": "statement",
+   "stem": "List the regional options for postoperative analgesia after breast surgery.",
+   "answer": "Paravertebral, PECS, thoracic epidural, intercostal, intrapleural",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#77c0fe",
+   "kind": "statement",
+   "stem": "What should happen to a paravertebral catheter or epidural infusion after breast surgery?",
+   "answer": "Continue after surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#46a665",
+   "kind": "statement",
+   "stem": "How should high PONV risk be managed in breast surgery?",
+   "answer": "Avoid triggers and give two antiemetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#f4efbb",
+   "kind": "statement",
+   "stem": "Which postoperative destination may breast surgery need after extensive surgery?",
+   "answer": "HDU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#3c936c",
+   "kind": "statement",
+   "stem": "What does PROSPECT recommend for paracetamol and NSAID timing in breast surgery?",
+   "answer": "Before or during surgery, continued afterwards",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#61f762",
+   "kind": "mcq",
+   "stem": "Which preoperative adjuncts does PROSPECT recommend for breast surgery?",
+   "options": [
+    "Ketamine and haloperidol",
+    "Gabapentin and dexamethasone",
+    "Clonidine and midazolam",
+    "Ondansetron and droperidol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#02b83e",
+   "kind": "statement",
+   "stem": "For major breast surgery, which regional techniques does PROSPECT suggest considering?",
+   "answer": "Paravertebral or pectoral nerves block and/or wound infiltration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#3e0b80",
+   "kind": "statement",
+   "stem": "Which blocks does PROSPECT say need more research for breast surgery?",
+   "answer": "Erector spinae and retrolaminar blocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/breast-surgery#6b2b40",
+   "kind": "statement",
+   "stem": "What role do opioids have in PROSPECT's postoperative plan for breast surgery?",
+   "answer": "Postoperative rescue only",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "topic": "procedures/brain-tumour-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/brain-tumour-surgery#a07810",
+   "kind": "mcq",
+   "stem": "Which brain tumour location may suit an awake craniotomy?",
+   "options": [
+    "Infratentorial tumours near brainstem",
+    "Supratentorial tumours near eloquent cortex",
+    "Pituitary tumours",
+    "Spinal intradural tumours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#e6638d",
+   "kind": "mcq",
+   "stem": "Which tumour type is transsphenoidal surgery especially used for?",
+   "options": [
+    "Vestibular schwannomas",
+    "Pituitary tumours",
+    "Cerebellar haemangioblastomas",
+    "Glioblastomas"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#a957f7",
+   "kind": "statement",
+   "stem": "What effect can tumour-related vasogenic oedema have on ICP, and what helps?",
+   "answer": "It can raise ICP but responds to steroids.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#a1823e",
+   "kind": "statement",
+   "stem": "What should be documented before brain tumour surgery?",
+   "answer": "Existing neurological deficits.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#68556f",
+   "kind": "statement",
+   "stem": "Why quantify steroid use before brain tumour surgery?",
+   "answer": "For stress dosing.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#ec22db",
+   "kind": "mcq",
+   "stem": "How are operations for brain metastases usually compared with primary tumours?",
+   "options": [
+    "Longer and harder",
+    "Quicker and easier",
+    "Always awake",
+    "Identical in every way"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#940e03",
+   "kind": "mcq",
+   "stem": "Which steroid and dose are given intraoperatively in brain tumour surgery?",
+   "options": [
+    "Dexamethasone 4mg",
+    "Hydrocortisone 100mg",
+    "Dexamethasone 8mg",
+    "Methylprednisolone 40mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#940e03",
+   "kind": "mcq",
+   "stem": "Which proton pump inhibitor is given with dexamethasone in brain tumour surgery?",
+   "options": [
+    "Ranitidine",
+    "Esomeprazole",
+    "Metoclopramide",
+    "Ondansetron"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#9d947f",
+   "kind": "statement",
+   "stem": "Which antiseizure drug is used for seizure control in brain tumour surgery?",
+   "answer": "Levetiracetam.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#273f81",
+   "kind": "mcq",
+   "stem": "Which osmotic agent might surgeons ask for during brain tumour surgery?",
+   "options": [
+    "Gelatin",
+    "Dextran",
+    "Albumin",
+    "Mannitol"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#91f92d",
+   "kind": "statement",
+   "stem": "What intraoperative monitoring may be used in brain tumour surgery?",
+   "answer": "Neurophysiological monitoring.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#cd34fd",
+   "kind": "statement",
+   "stem": "What preoperative checks are needed before stereotactic brain biopsy?",
+   "answer": "GCS, seizures, imaging; group and crossmatch.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#713a62",
+   "kind": "mcq",
+   "stem": "How is the head held during stereotactic brain biopsy?",
+   "options": [
+    "Supported on a foam ring",
+    "Fixed in a clamp",
+    "Turned on a standard pillow",
+    "Left free to move"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#713a62",
+   "kind": "statement",
+   "stem": "What determines patient position for stereotactic brain biopsy?",
+   "answer": "The lesion site.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#ade835",
+   "kind": "statement",
+   "stem": "Is an arterial line needed for stereotactic brain biopsy monitoring, and why?",
+   "answer": "No; monitoring is similar to a burr hole.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#ac0cf5",
+   "kind": "mcq",
+   "stem": "What anaesthetic technique is used for stereotactic brain biopsy?",
+   "options": [
+    "GA with a facemask",
+    "GA with ETT",
+    "Spinal anaesthesia",
+    "Regional block only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#b45bc1",
+   "kind": "statement",
+   "stem": "Which volatile agent is suitable for maintenance in stereotactic brain biopsy?",
+   "answer": "Sevoflurane.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#14cb72",
+   "kind": "mcq",
+   "stem": "Which antibiotic is given for stereotactic brain biopsy?",
+   "options": [
+    "Vancomycin",
+    "Gentamicin",
+    "Cefazolin",
+    "Metronidazole"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#2bc22b",
+   "kind": "mcq",
+   "stem": "What type of IV fluid is used during stereotactic brain biopsy?",
+   "options": [
+    "Hypotonic",
+    "Isotonic",
+    "Hypertonic",
+    "Colloid only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#08dc38",
+   "kind": "statement",
+   "stem": "What needs special control during stereotactic brain biopsy?",
+   "answer": "Neuroprotection, blood pressure and ICP.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#b2e3ac",
+   "kind": "mcq",
+   "stem": "How is access gained for stereotactic brain biopsy?",
+   "options": [
+    "Through a craniotomy flap",
+    "Through a burr hole",
+    "Through the sphenoid sinus",
+    "Through the orbit"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#d96e5d",
+   "kind": "mcq",
+   "stem": "Which analgesic is used for stereotactic brain biopsy?",
+   "options": [
+    "Morphine",
+    "Pethidine",
+    "Fentanyl",
+    "Tramadol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#f6508d",
+   "kind": "statement",
+   "stem": "What should emergence from stereotactic brain biopsy be like?",
+   "answer": "Smooth and awake, with early neurological assessment.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/brain-tumour-surgery#1c63cb",
+   "kind": "mcq",
+   "stem": "Where should patients go after stereotactic brain biopsy?",
+   "options": [
+    "General surgical ward",
+    "Neurosurgical high dependency",
+    "Day case recovery",
+    "Medical ward"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

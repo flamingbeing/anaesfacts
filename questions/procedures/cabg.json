@@ -1,0 +1,917 @@
+{
+ "topic": "procedures/cabg",
+ "questions": [
+  {
+   "fact_id": "procedures/cabg#b676b5",
+   "kind": "mcq",
+   "stem": "In CABG, which graft is usually used to the LAD and has the best long-term patency?",
+   "options": [
+    "Radial artery",
+    "Great saphenous vein",
+    "Left internal mammary artery (LIMA)",
+    "Right gastroepiploic artery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#8a4125",
+   "kind": "mcq",
+   "stem": "How long before CABG should clopidogrel be stopped?",
+   "options": [
+    "2-3 days",
+    "10-14 days",
+    "5-7 days",
+    "21-28 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#f3d277",
+   "kind": "statement",
+   "stem": "What does coronary dominance tell you on the angiogram?",
+   "answer": "Which vessel supplies the AV node and LV inferior wall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#8d4092",
+   "kind": "statement",
+   "stem": "What two features of coronary stenoses are read from the angiogram?",
+   "answer": "Site and severity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#e84d75",
+   "kind": "mcq",
+   "stem": "On the CABG angiogram grading, what does grade 0 mean?",
+   "options": [
+    "Normal, prompt filling",
+    "Distal bed fills, but slowly",
+    "No flow (occluded)",
+    "Contrast passes the lesion but does not fill the distal bed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#0a2bfb",
+   "kind": "mcq",
+   "stem": "On the CABG angiogram grading, what does grade 2 mean?",
+   "options": [
+    "Normal, prompt filling",
+    "No flow (occluded)",
+    "Distal bed fills, but slowly",
+    "Contrast passes the lesion but does not fill the distal bed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#5d9a85",
+   "kind": "statement",
+   "stem": "In CABG angiogram grading, which grades mean a territory relies entirely on collaterals?",
+   "answer": "Grade 0/1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#d1cb29",
+   "kind": "statement",
+   "stem": "What is assessed for borderline lesions, such as 50–70% stenosis, on angiography?",
+   "answer": "Haemodynamic significance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#21b260",
+   "kind": "mcq",
+   "stem": "What FFR value indicates a significant coronary stenosis?",
+   "options": [
+    "Over 0.80",
+    "Over 0.90",
+    "Over 0.95",
+    "Under 0.80"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#21b260",
+   "kind": "statement",
+   "stem": "How is fractional flow reserve calculated?",
+   "answer": "Distal coronary pressure over aortic pressure at maximal hyperaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#5e9495",
+   "kind": "mcq",
+   "stem": "What iFR value indicates a significant coronary stenosis?",
+   "options": [
+    "Over 0.95",
+    "Over 0.80",
+    "Under 0.89",
+    "Over 0.89"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#7250f2",
+   "kind": "statement",
+   "stem": "What does renal impairment mean for CABG patients after surgery?",
+   "answer": "Higher chance of temporary dialysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#44c4b5",
+   "kind": "statement",
+   "stem": "Why is anxiety a concern before CABG?",
+   "answer": "It can trigger ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#3f723b",
+   "kind": "mcq",
+   "stem": "Which oral premedication is given the night before CABG, if needed?",
+   "options": [
+    "Morphine 5-10mg",
+    "Oral diazepam 10mg",
+    "Lorazepam 2mg or temazepam",
+    "Midazolam 2mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#1d380c",
+   "kind": "mcq",
+   "stem": "What drug and dose is given at 0600 on the morning of CABG?",
+   "options": [
+    "Morphine 5-10mg",
+    "Temazepam 10mg",
+    "Lorazepam 2mg",
+    "Midazolam 1mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#f81a5f",
+   "kind": "mcq",
+   "stem": "What morphine dose is given at 0630 for an 0800 CABG start?",
+   "options": [
+    "2-3mg",
+    "5-10mg",
+    "10-15mg",
+    "20-30mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#1b24e3",
+   "kind": "statement",
+   "stem": "Why give supplemental oxygen with CABG premedication?",
+   "answer": "Hypoxaemia is likely otherwise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#1cd647",
+   "kind": "mcq",
+   "stem": "Once a cannula is in, which IV top-up is used for line insertion in CABG?",
+   "options": [
+    "Atropine or glycopyrrolate",
+    "Ketamine or propofol",
+    "Midazolam or fentanyl",
+    "Atracurium or rocuronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#4b3a0d",
+   "kind": "statement",
+   "stem": "In CABG theatre set-up, what are the 'uppers' and 'downers'?",
+   "answer": "Vasopressor/inotrope and vasodilator infusions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#8e5854",
+   "kind": "statement",
+   "stem": "Which imaging machine must be ready for CABG theatre set-up?",
+   "answer": "TOE machine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#752953",
+   "kind": "mcq",
+   "stem": "How is oxygen given during CABG theatre set-up?",
+   "options": [
+    "By face mask",
+    "By nasal prongs",
+    "By non-rebreather mask",
+    "By Venturi mask"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#697f50",
+   "kind": "mcq",
+   "stem": "For CABG access, what large-bore IV is placed?",
+   "options": [
+    "18G IV on the left",
+    "16G IV on the right",
+    "20G IV on the left",
+    "14G IV on the right"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#d4a27a",
+   "kind": "statement",
+   "stem": "Why is an orogastric tube placed for CABG?",
+   "answer": "Decompress the stomach for TOE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#4d867d",
+   "kind": "mcq",
+   "stem": "For CABG, which very high risk case needs external defibrillator pads?",
+   "options": [
+    "Left main over 50 %",
+    "Left main over 70 %",
+    "Left main over 90 %",
+    "Left main under 70 %"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#741aad",
+   "kind": "blank",
+   "stem": "For CABG, the patient is positioned ____ with a shoulder roll.",
+   "answer": "supine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#9c3f2c",
+   "kind": "mcq",
+   "stem": "Which airway is used for CABG unless extubation is planned?",
+   "options": [
+    "Hi-Lo ETT",
+    "Laryngeal mask airway",
+    "Tracheostomy tube",
+    "Double-lumen tube"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#1b9896",
+   "kind": "mcq",
+   "stem": "Which induction regimen is recommended for a patient having CABG?",
+   "options": [
+    "Single inhalational induction with sevoflurane",
+    "Low-dose opioid with propofol only",
+    "Cardiostable high-dose opioid, with or without benzodiazepine",
+    "Propofol alone, no opioid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#176c93",
+   "kind": "mcq",
+   "stem": "What fentanyl dose is given at induction for CABG?",
+   "options": [
+    "1–2 mcg/kg",
+    "20–30 mcg/kg",
+    "5–10 mcg/kg",
+    "100 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#05c7f3",
+   "kind": "statement",
+   "stem": "Which muscle relaxant is preferred for induction in CABG?",
+   "answer": "Rocuronium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#a63c1d",
+   "kind": "statement",
+   "stem": "In CABG, from what point may inotropes be needed?",
+   "answer": "From induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#f1d8b8",
+   "kind": "statement",
+   "stem": "When is the TOE probe inserted during CABG?",
+   "answer": "After intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#d55ed9",
+   "kind": "statement",
+   "stem": "What is the high fentanyl range for CABG maintenance?",
+   "answer": "Over 100 mcg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#d55ed9",
+   "kind": "mcq",
+   "stem": "What is the medium fentanyl range for CABG maintenance?",
+   "options": [
+    "5–10 mcg/kg",
+    "Over 100 mcg/kg",
+    "20-60 mcg/kg",
+    "1–2 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#a6830b",
+   "kind": "statement",
+   "stem": "What style of fluid management is advised during CABG maintenance?",
+   "answer": "Judicious and goal-directed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#8f50db",
+   "kind": "statement",
+   "stem": "How much crystalloid does pre-bypass plateletpheresis need in CABG?",
+   "answer": "At least 2 litres",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#0fb832",
+   "kind": "statement",
+   "stem": "In CABG, what should you suspect for hypotension once the chest is open?",
+   "answer": "Surgical handling of the heart",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#671e45",
+   "kind": "statement",
+   "stem": "Why call blood pressure numbers out loud during CABG?",
+   "answer": "So the surgeons stop lifting the heart",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#ea00e3",
+   "kind": "statement",
+   "stem": "What systolic BP range is targeted before bypass in CABG?",
+   "answer": "90-120mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#ea00e3",
+   "kind": "mcq",
+   "stem": "What heart rate range is targeted before bypass in CABG?",
+   "options": [
+    "Between 80 and 100",
+    "Between 100 and 120",
+    "Between 50 and 80",
+    "Between 30 and 50"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#5312fb",
+   "kind": "statement",
+   "stem": "What does a systolic pressure over 120 mmHg do during CABG?",
+   "answer": "Increases bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#f522e7",
+   "kind": "mcq",
+   "stem": "What systolic pressure is aimed for during aortic cannulation in CABG?",
+   "options": [
+    "About 60",
+    "About 120",
+    "About 140",
+    "About 100"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#5d3a63",
+   "kind": "mcq",
+   "stem": "In CABG, what MAP target applies on bypass while cold, with the cross-clamp on?",
+   "options": [
+    "60-80mmHg",
+    "40-50mmHg",
+    "20-30mmHg",
+    "10-15mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#5d3a63",
+   "kind": "statement",
+   "stem": "In CABG, what MAP target applies on bypass once warm, with the cross-clamp off?",
+   "answer": "50-60mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#076d4a",
+   "kind": "statement",
+   "stem": "In CABG, which conditions may need a MAP of 60-80 mmHg throughout?",
+   "answer": "Carotid disease or chronic renal impairment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#c5b046",
+   "kind": "statement",
+   "stem": "What heart rate range is aimed for after bypass in CABG?",
+   "answer": "50-80",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#0ac12b",
+   "kind": "statement",
+   "stem": "What cardiac index is considered acceptable in CABG?",
+   "answer": "Over 2.0",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#9b440a",
+   "kind": "statement",
+   "stem": "What PA diastolic pressure is the target in CABG?",
+   "answer": "under 20 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#9b440a",
+   "kind": "statement",
+   "stem": "In CABG, what CVP target applies if the CVP was normal before?",
+   "answer": "under 15 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#a56508",
+   "kind": "statement",
+   "stem": "Which blood component is often low during CABG?",
+   "answer": "Platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#c2b87c",
+   "kind": "statement",
+   "stem": "What platelet product is ordered on rewarming in CABG if the patient is on antiplatelets?",
+   "answer": "1 CSP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#d170b8",
+   "kind": "statement",
+   "stem": "Why does haematocrit fall during CABG bypass?",
+   "answer": "Pump haemodilution",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#eb74e9",
+   "kind": "statement",
+   "stem": "Which blood-saving technique is often used in CABG?",
+   "answer": "Cell salvage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#e0b4d1",
+   "kind": "statement",
+   "stem": "Which large-bore access device may be needed for CABG?",
+   "answer": "Mahurkar",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#c8d52d",
+   "kind": "statement",
+   "stem": "What potassium level is aimed for in CABG?",
+   "answer": "Over 4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#4c0acc",
+   "kind": "statement",
+   "stem": "When is calcium supplementation often needed in CABG?",
+   "answer": "Coming off bypass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#3023a5",
+   "kind": "statement",
+   "stem": "What is considered if glucose rises on bypass in CABG?",
+   "answer": "Insulin infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#e6c72c",
+   "kind": "mcq",
+   "stem": "What cefazolin dose is given before skin incision in CABG?",
+   "options": [
+    "1g",
+    "4g",
+    "500mg",
+    "2g"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#e6c72c",
+   "kind": "statement",
+   "stem": "How often is cefazolin redosed during CABG?",
+   "answer": "Every 4H",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#8e8f95",
+   "kind": "statement",
+   "stem": "At which surgical step is fentanyl given in CABG?",
+   "answer": "At skin incision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#8e8f95",
+   "kind": "statement",
+   "stem": "Why may more analgesia be needed during CABG sternotomy?",
+   "answer": "Sternotomy and sternal retraction are stimulating",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#1a4be8",
+   "kind": "statement",
+   "stem": "What should be done with ventilation during CABG sternotomy?",
+   "answer": "Stop ventilating",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#ecd06b",
+   "kind": "statement",
+   "stem": "Which grafts are usually harvested together in CABG?",
+   "answer": "LIMA and saphenous vein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#eab10d",
+   "kind": "statement",
+   "stem": "How is the table positioned for IMA dissection in CABG?",
+   "answer": "Tilted left and raised",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#eab10d",
+   "kind": "statement",
+   "stem": "What ventilation change may surgeons want during IMA dissection in CABG?",
+   "answer": "Smaller tidal volumes with a higher rate, or hand ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#87445f",
+   "kind": "statement",
+   "stem": "Which baseline test is already done before heparin in CABG?",
+   "answer": "Baseline ACT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#6f48c2",
+   "kind": "mcq",
+   "stem": "What heparin dose is given via the central line for CABG?",
+   "options": [
+    "50-80 U/kg",
+    "100-150 U/kg",
+    "600-800 U/kg",
+    "300-400 U/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#6f48c2",
+   "kind": "statement",
+   "stem": "Through which access is heparin given for CABG?",
+   "answer": "Central line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#750bb5",
+   "kind": "statement",
+   "stem": "How soon after the heparin dose is ACT checked in CABG?",
+   "answer": "3mins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#022012",
+   "kind": "statement",
+   "stem": "What ACT is needed before ascending aortic cannulation in CABG?",
+   "answer": "Over 300",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#022012",
+   "kind": "mcq",
+   "stem": "What systolic target applies to ascending aortic cannulation in CABG?",
+   "options": [
+    "Under 140",
+    "Over 120",
+    "Under 60",
+    "Under 100"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#022012",
+   "kind": "statement",
+   "stem": "What should be avoided during ascending aortic cannulation in CABG?",
+   "answer": "Tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#b1feb5",
+   "kind": "statement",
+   "stem": "For single right atrial venous cannulation in CABG, what should happen to BP?",
+   "answer": "Let it rise a little",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#15a66b",
+   "kind": "mcq",
+   "stem": "What ACT is targeted when going on bypass in CABG?",
+   "options": [
+    "Over 200-250",
+    "Over 300-350",
+    "Under 150",
+    "Over 400-480"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#e07986",
+   "kind": "statement",
+   "stem": "What is turned off once full bypass flow is reached in CABG?",
+   "answer": "Alarms and ventilator",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#5d8e21",
+   "kind": "statement",
+   "stem": "What temperature range is the patient cooled to on CABG bypass?",
+   "answer": "32-24 degrees",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#6be10c",
+   "kind": "statement",
+   "stem": "What two things arrest the heart during CABG bypass?",
+   "answer": "Aortic cross-clamp and cardioplegia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#935eb7",
+   "kind": "statement",
+   "stem": "Which anastomoses are done first on bypass in CABG?",
+   "answer": "Distal anastomoses and LIMA to LAD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#866bb6",
+   "kind": "statement",
+   "stem": "What follows removal of the cross-clamp in CABG?",
+   "answer": "Rewarming",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#57e27f",
+   "kind": "statement",
+   "stem": "How are proximal anastomoses made to the ascending aorta in CABG?",
+   "answer": "With a side-biting clamp",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#b13b4a",
+   "kind": "statement",
+   "stem": "What is started during rewarming and weaning in CABG?",
+   "answer": "Adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#4670c6",
+   "kind": "statement",
+   "stem": "Why consider GTN during CABG rewarming?",
+   "answer": "Even rewarming",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#ebd94d",
+   "kind": "statement",
+   "stem": "What type of pacing wires is placed in CABG?",
+   "answer": "Epicardial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#bba123",
+   "kind": "statement",
+   "stem": "Which drug is drawn up during CABG weaning and kept out of the way?",
+   "answer": "Protamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#de9c1e",
+   "kind": "statement",
+   "stem": "What risk to the IMA graft comes from over-inflating the lungs in CABG?",
+   "answer": "Stretch and tear",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#053604",
+   "kind": "statement",
+   "stem": "Which cannula is removed last in CABG?",
+   "answer": "Aortic cannula",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#053604",
+   "kind": "statement",
+   "stem": "What is given just after cannula removal in CABG, before closing the chest?",
+   "answer": "Protamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#89d1b9",
+   "kind": "statement",
+   "stem": "In emergency CABG after failed PCI, what state may the patient be in?",
+   "answer": "Peri-arrest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#a3b247",
+   "kind": "statement",
+   "stem": "Which cath lab access should stay in place for emergency CABG?",
+   "answer": "Arterial (femoral) access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#80dded",
+   "kind": "statement",
+   "stem": "What is used for stability in emergency CABG after failed PCI?",
+   "answer": "Inotropes and vasopressors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#abb79d",
+   "kind": "statement",
+   "stem": "What does IABP raise in emergency CABG, improving coronary flow?",
+   "answer": "Diastolic pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#abb79d",
+   "kind": "statement",
+   "stem": "How does IABP help left ventricular function in emergency CABG?",
+   "answer": "Helps LV ejection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#bd1a93",
+   "kind": "statement",
+   "stem": "In emergency CABG, which blood product is likely needed after bypass?",
+   "answer": "Platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#6f0fe5",
+   "kind": "statement",
+   "stem": "What induction style is used in emergency CABG after failed PCI?",
+   "answer": "Cardiostable induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#c01b7c",
+   "kind": "statement",
+   "stem": "What should be continued postoperatively after emergency CABG?",
+   "answer": "IABP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#c01b7c",
+   "kind": "statement",
+   "stem": "What renal risk follows emergency CABG after failed PCI?",
+   "answer": "High risk of renal dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cabg#c01b7c",
+   "kind": "statement",
+   "stem": "After emergency CABG, what should the approach to extubation be?",
+   "answer": "No rush to extubate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

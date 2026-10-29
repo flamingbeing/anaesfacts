@@ -1,0 +1,253 @@
+{
+ "topic": "equipment/regional-anaesthesia-equipment",
+ "questions": [
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#e46431",
+   "kind": "mcq",
+   "stem": "For a truncal catheter elastomeric pump, how much 1% ropivacaine is mixed with normal saline?",
+   "options": [
+    "60 ml",
+    "120 ml",
+    "45 ml",
+    "20 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#8faed1",
+   "kind": "mcq",
+   "stem": "A truncal catheter pump holds 600 mg ropivacaine in 300 ml. What is the concentration?",
+   "options": [
+    "1%",
+    "0.2%",
+    "0.5%",
+    "2%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#c679d1",
+   "kind": "mcq",
+   "stem": "Which hourly rates can the multirate truncal catheter infusor be run at?",
+   "options": [
+    "3, 5 or 8 ml/h",
+    "10, 15 or 20 ml/h",
+    "5, 7 or 12 ml/h",
+    "6, 9 or 12 ml/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#7e6466",
+   "kind": "mcq",
+   "stem": "For an epidural catheter infusion bag, how many ampoules of 1% ropivacaine are used?",
+   "options": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#7e6466",
+   "kind": "mcq",
+   "stem": "How much normal saline is mixed with 120 ml of 1% ropivacaine in an epidural infusion bag?",
+   "options": [
+    "240 ml",
+    "380 ml",
+    "480 ml",
+    "360 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#917442",
+   "kind": "mcq",
+   "stem": "Before making up an epidural infusion bag, how much fluid is first drawn off a 500 ml saline bag?",
+   "options": [
+    "20 ml",
+    "120 ml",
+    "50 ml",
+    "200 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#4d38d4",
+   "kind": "mcq",
+   "stem": "An epidural infusion bag delivers 1200 mg ropivacaine in what total volume?",
+   "options": [
+    "480 ml",
+    "300 ml",
+    "600 ml",
+    "720 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#4d38d4",
+   "kind": "mcq",
+   "stem": "What is the concentration of the epidural infusion bag delivering 1200 mg ropivacaine in 600 ml?",
+   "options": [
+    "1%",
+    "0.5%",
+    "2%",
+    "0.2%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#6cad6f",
+   "kind": "statement",
+   "stem": "On the PCA pump for an ESP catheter, what is the menu path to the intermittent bolus settings?",
+   "answer": "Task, Admin setting, Delivery, Intermittent bolus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#18bdc5",
+   "kind": "mcq",
+   "stem": "For intermittent bolus on an ESP catheter PCA, what is the delivery limit?",
+   "options": [
+    "10 ml per 4 h",
+    "30 ml per 4 h",
+    "15 ml per 4 h",
+    "60 ml per 4 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#1e0b9d",
+   "kind": "mcq",
+   "stem": "On an ESP catheter PCA, what general hourly limit should be set?",
+   "options": [
+    "15 ml",
+    "30 ml",
+    "60 ml",
+    "120 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#4cfad3",
+   "kind": "mcq",
+   "stem": "Which Tuohy needle is used for a paediatric epidural with the Perifix ONE kit?",
+   "options": [
+    "18G 50 mm",
+    "21G 100 mm",
+    "22G 50 mm",
+    "18G 80 mm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#4cfad3",
+   "kind": "mcq",
+   "stem": "Which catheter gauge and length is used for a paediatric epidural with the Perifix ONE kit?",
+   "options": [
+    "20G 50 cm",
+    "22G 100 cm",
+    "20G 100 cm",
+    "18G 100 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#1fe78e",
+   "kind": "statement",
+   "stem": "Which needle can be used to tunnel an epidural catheter?",
+   "answer": "Tuohy needle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#7b44bc",
+   "kind": "mcq",
+   "stem": "Which lengths does the Pajunk 22G needle come in?",
+   "options": [
+    "100 mm only",
+    "50 or 80 mm",
+    "25 or 40 mm",
+    "120 or 150 mm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#1d049c",
+   "kind": "mcq",
+   "stem": "Which length does the Pajunk 21G needle come in?",
+   "options": [
+    "50 mm",
+    "80 mm",
+    "100 mm",
+    "120 mm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#70f82b",
+   "kind": "mcq",
+   "stem": "Which gauge and length is the Pajunk nanoline Tuohy needle?",
+   "options": [
+    "22G 5 cm",
+    "21G 10 cm",
+    "18G 5 cm",
+    "18G 10 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#e7affd",
+   "kind": "mcq",
+   "stem": "Which length is the Contiplex Tuohy Ultra needle?",
+   "options": [
+    "5 cm",
+    "3 cm",
+    "10 cm",
+    "15 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/regional-anaesthesia-equipment#ba4cdf",
+   "kind": "statement",
+   "stem": "For spinal anaesthesia, which needle is used with an introducer needle?",
+   "answer": "Whitacre 25G",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

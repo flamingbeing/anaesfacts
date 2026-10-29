@@ -1,0 +1,197 @@
+{
+ "topic": "other/elderly-and-frailty",
+ "questions": [
+  {
+   "fact_id": "other/elderly-and-frailty#9f66cd",
+   "kind": "statement",
+   "stem": "What is the default anaesthetic set-up for elderly patients?",
+   "answer": "BIS, low-dose propofol, consider 5 lead ECG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#8c35ff",
+   "kind": "statement",
+   "stem": "Which three cardiovascular conditions are common in elderly patients having surgery?",
+   "answer": "Ischaemic heart disease, heart failure and arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#bac9e1",
+   "kind": "statement",
+   "stem": "What respiratory problem is common in elderly patients under anaesthesia?",
+   "answer": "Reduced lung function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#8e8750",
+   "kind": "statement",
+   "stem": "Which two neurological problems are common in elderly surgical patients?",
+   "answer": "Cognitive decline and stroke",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#01f2da",
+   "kind": "statement",
+   "stem": "Which two airway features are common problems in elderly patients?",
+   "answer": "Limited neck extension and poor dentition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#0452da",
+   "kind": "statement",
+   "stem": "Which sedative premedications should be avoided in elderly patients?",
+   "answer": "Benzodiazepines, centrally acting anticholinergics and pethidine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#c1c52a",
+   "kind": "statement",
+   "stem": "Which two tests help separate dementia from acute confusion in elderly patients?",
+   "answer": "Abbreviated mental test or mini mental state examination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#50edac",
+   "kind": "statement",
+   "stem": "What dental problem is often found in elderly patients before surgery?",
+   "answer": "Poor dentition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#1a673a",
+   "kind": "statement",
+   "stem": "After a fracture in an elderly patient, what should be looked for?",
+   "answer": "The medical cause of the fall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#553f43",
+   "kind": "statement",
+   "stem": "What exercise measure is a good guide to cardiorespiratory fitness in elderly patients?",
+   "answer": "Sustainable exercise level",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#ff7700",
+   "kind": "mcq",
+   "stem": "Which aid may help elderly smokers before surgery?",
+   "options": [
+    "Oral paracetamol",
+    "Nicotine patches",
+    "Intravenous lidocaine",
+    "Oral morphine sulphate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#df202b",
+   "kind": "statement",
+   "stem": "What two steps should be considered when giving NSAIDs to elderly patients?",
+   "answer": "Use a COX-2 selective drug or add gastroprotection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#c50c7e",
+   "kind": "statement",
+   "stem": "What level of postoperative care is ideal for elderly patients after major surgery?",
+   "answer": "High-dependency care",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#c79799",
+   "kind": "statement",
+   "stem": "Which four parameters should be monitored and corrected after surgery in elderly patients?",
+   "answer": "Fluid balance, vital signs, electrolytes and haematology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#dc72e5",
+   "kind": "mcq",
+   "stem": "What haemoglobin may elderly patients with cardiovascular disease need after surgery?",
+   "options": [
+    ">7g/dl",
+    ">9–10g/dl",
+    ">12g/dl",
+    ">14g/dl"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#27ed11",
+   "kind": "statement",
+   "stem": "What reversible causes should be checked for postoperative confusion in elderly patients?",
+   "answer": "Pain, hypoxaemia, full bladder, myocardial or cerebral ischaemia, electrolyte disturbance and drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#69fea7",
+   "kind": "statement",
+   "stem": "Why does pain control matter in confused or demented elderly patients?",
+   "answer": "Poor pain control worsens confusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#a429f9",
+   "kind": "mcq",
+   "stem": "What feeding approach may improve outcome in elderly patients after surgery?",
+   "options": [
+    "Fasting until day three",
+    "Early enteral feeding",
+    "Total parenteral nutrition only",
+    "Intravenous glucose alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#de99f4",
+   "kind": "statement",
+   "stem": "Which three measures are essential early after surgery in elderly patients?",
+   "answer": "Physiotherapy, mobilisation and thromboprophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#10d1f6",
+   "kind": "mcq",
+   "stem": "On the frailty scale scored 1–9, what score or above defines frailty?",
+   "options": [
+    "≥2",
+    "≥4",
+    "≥6",
+    "≥7"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/elderly-and-frailty#2bd795",
+   "kind": "statement",
+   "stem": "What is the term for optimising a frail patient before surgery?",
+   "answer": "Prehabilitation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

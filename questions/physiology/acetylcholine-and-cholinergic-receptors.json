@@ -1,0 +1,405 @@
+{
+ "topic": "physiology/acetylcholine-and-cholinergic-receptors",
+ "questions": [
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#f70f05",
+   "kind": "statement",
+   "stem": "In which three sites does acetylcholine act as a neurotransmitter?",
+   "answer": "Brain, autonomic nervous system and neuromuscular junction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#b3f6ad",
+   "kind": "mcq",
+   "stem": "Acetylcholine is choline acetylated at which atom?",
+   "options": [
+    "Nitrogen atom",
+    "Carbon atom",
+    "Oxygen atom",
+    "Sulphur atom"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#82001b",
+   "kind": "statement",
+   "stem": "Why is acetylcholine itself not used as a therapeutic drug?",
+   "answer": "It acts on both nicotinic and muscarinic receptors and is broken down very fast",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#1381e2",
+   "kind": "mcq",
+   "stem": "Which enzyme makes acetylcholine in the presynaptic neuron?",
+   "options": [
+    "Acetylcholinesterase (AChE)",
+    "Butyrylcholinesterase (BChE)",
+    "Choline acetyltransferase (ChAT)",
+    "Monoamine oxidase (MAO)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#a3ee65",
+   "kind": "mcq",
+   "stem": "Where is acetylcholine stored in the presynaptic neuron before release?",
+   "options": [
+    "Sarcoplasmic reticulum",
+    "Postsynaptic junctional clefts",
+    "Myelin sheath",
+    "Small synaptic vesicles"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#d4d933",
+   "kind": "mcq",
+   "stem": "Which ion influx at the presynaptic membrane triggers acetylcholine vesicle release?",
+   "options": [
+    "Na+",
+    "K+",
+    "Ca2+",
+    "Cl-"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#3cf75f",
+   "kind": "mcq",
+   "stem": "Roughly how many acetylcholine vesicles are released per action potential?",
+   "options": [
+    "About 50",
+    "About 200",
+    "About 800",
+    "About 1000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#3cf75f",
+   "kind": "mcq",
+   "stem": "Roughly how many acetylcholine molecules does each synaptic vesicle hold?",
+   "options": [
+    "About 500",
+    "About 10 000",
+    "About 100 000",
+    "About 1 000 000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#494df1",
+   "kind": "statement",
+   "stem": "What does acetylcholine bind to after crossing the synaptic cleft?",
+   "answer": "Postsynaptic acetylcholine receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#7da5b4",
+   "kind": "statement",
+   "stem": "What does acetylcholinesterase split acetylcholine into at the postsynaptic membrane?",
+   "answer": "Inactive choline and acetate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#ac6886",
+   "kind": "mcq",
+   "stem": "How many binding sites does acetylcholinesterase have?",
+   "options": [
+    "One",
+    "Three",
+    "Two",
+    "Four"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#d012e6",
+   "kind": "statement",
+   "stem": "After choline is released, what is freed when the acetylated enzyme is hydrolysed?",
+   "answer": "Acetic acid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#895681",
+   "kind": "statement",
+   "stem": "What family of enzymes do the cholinesterases form?",
+   "answer": "Esterases that split choline esters",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#808d11",
+   "kind": "statement",
+   "stem": "What do cholinesterase inhibitors, also called anticholinesterases, stop?",
+   "answer": "Breakdown of acetylcholine or butyrylcholine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#2dd35b",
+   "kind": "statement",
+   "stem": "What are the alternative names for butyrylcholinesterase (BChE)?",
+   "answer": "Pseudocholinesterase, plasma cholinesterase, cholinesterase II",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#9ec038",
+   "kind": "mcq",
+   "stem": "What are the two main classes of acetylcholine receptors?",
+   "options": [
+    "Alpha and beta adrenergic",
+    "Nicotinic and muscarinic",
+    "Dopamine D1 and D2",
+    "Histamine H1 and H2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#493ef9",
+   "kind": "statement",
+   "stem": "Why do nicotinic receptors produce a fast response?",
+   "answer": "They are ligand-gated (ionotropic) ion channels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#c5a089",
+   "kind": "statement",
+   "stem": "What potential does the non-specific nicotinic receptor channel produce?",
+   "answer": "Miniature end-plate potentials",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#b7d4c1",
+   "kind": "mcq",
+   "stem": "How do nicotinic receptor subtypes compare with one another?",
+   "options": [
+    "Identical in structure",
+    "Completely unrelated",
+    "Similar but not identical",
+    "Found only in skeletal muscle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#538c96",
+   "kind": "mcq",
+   "stem": "What is the name of the muscle-type nicotinic receptor?",
+   "options": [
+    "NN or N2",
+    "M2 or Gi",
+    "NM or N1",
+    "M3 or Gq"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#0f1ae9",
+   "kind": "statement",
+   "stem": "Where are the neuronal-type nicotinic receptors (NN or N2) found?",
+   "answer": "Autonomic ganglia (sympathetic and parasympathetic) and adrenal medulla",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#adea62",
+   "kind": "mcq",
+   "stem": "Which ions do nicotinic receptor channels mainly pass?",
+   "options": [
+    "Cl- and HCO3-",
+    "Na+ and K+",
+    "Ca2+ only",
+    "Mg2+ only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#048d03",
+   "kind": "mcq",
+   "stem": "What class of receptor are muscarinic receptors?",
+   "options": [
+    "Ligand-gated ion channels",
+    "Tyrosine kinase receptors",
+    "G-protein coupled receptors",
+    "Nuclear hormone receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#338695",
+   "kind": "mcq",
+   "stem": "Where are M1 muscarinic receptors mainly found?",
+   "options": [
+    "Heart",
+    "Autonomic ganglia and CNS",
+    "Glands and smooth muscle",
+    "Adrenal medulla"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#c6bd4b",
+   "kind": "mcq",
+   "stem": "Which muscarinic receptor subtype is found in the heart?",
+   "options": [
+    "M1",
+    "M3",
+    "M2",
+    "M5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#a8c8ad",
+   "kind": "statement",
+   "stem": "What role do prejunctional M2 receptors play in central cholinergic pathways?",
+   "answer": "Negative feedback that limits acetylcholine release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#307565",
+   "kind": "mcq",
+   "stem": "Where are M3 muscarinic receptors mainly found?",
+   "options": [
+    "Neuromuscular junction",
+    "Heart",
+    "Glands and smooth muscle",
+    "Adrenal medulla"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#145177",
+   "kind": "mcq",
+   "stem": "Which G protein does the M4 muscarinic receptor couple to?",
+   "options": [
+    "Gq",
+    "Gs",
+    "Gi",
+    "Gt"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#b73e27",
+   "kind": "statement",
+   "stem": "Where are M5 muscarinic receptors mainly found?",
+   "answer": "CNS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#025367",
+   "kind": "mcq",
+   "stem": "Which G protein do M1, M3 and M5 muscarinic receptors couple to?",
+   "options": [
+    "Gi",
+    "Gq",
+    "Gs",
+    "Go"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#432630",
+   "kind": "statement",
+   "stem": "What does inositol triphosphate (IP3), made by phospholipase C, do in muscarinic signalling?",
+   "answer": "Releases Ca2+ from sarcoplasmic reticulum stores",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#23216c",
+   "kind": "statement",
+   "stem": "In muscarinic smooth muscle contraction, what does raised Ca2+ activate?",
+   "answer": "Myosin light chain kinase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#c45c90",
+   "kind": "mcq",
+   "stem": "Which muscarinic receptor subtypes are pertussis toxin-sensitive?",
+   "options": [
+    "M1 and M3",
+    "M2 and M4",
+    "M1 and M5",
+    "M3 and M5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#860a8d",
+   "kind": "mcq",
+   "stem": "Which receptor type is the main target of drugs acting directly on the parasympathetic system, such as atropine?",
+   "options": [
+    "Beta-adrenergic receptors",
+    "Muscarinic receptors",
+    "Dopamine D2 receptors",
+    "Histamine H1 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/acetylcholine-and-cholinergic-receptors#217beb",
+   "kind": "mcq",
+   "stem": "How selective are muscarinic agonists and antagonists for individual receptor subtypes?",
+   "options": [
+    "Highly selective for one subtype",
+    "Little subtype selectivity",
+    "Selective for M1 only",
+    "Selective for M2 only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

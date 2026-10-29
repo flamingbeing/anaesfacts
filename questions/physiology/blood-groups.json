@@ -1,0 +1,513 @@
+{
+ "topic": "physiology/blood-groups",
+ "questions": [
+  {
+   "fact_id": "physiology/blood-groups#4b4304",
+   "kind": "mcq",
+   "stem": "Besides red cells and platelets, which blood component category is available for transfusion?",
+   "options": [
+    "Coagulation products",
+    "Albumin 5%",
+    "Dextran 70",
+    "Hydroxyethyl starch"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#53c73e",
+   "kind": "mcq",
+   "stem": "What volume of whole blood is one donated unit (1 U)?",
+   "options": [
+    "250-300 mL",
+    "450-500 mL",
+    "900-1000 mL",
+    "100-150 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#852e0b",
+   "kind": "mcq",
+   "stem": "Frozen plasma (formerly FFP) must be frozen within what time of collection?",
+   "options": [
+    "6 h",
+    "12 h",
+    "48 h",
+    "24 h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#50af84",
+   "kind": "mcq",
+   "stem": "Which ABO group is the universal red cell donor?",
+   "options": [
+    "Group A",
+    "Group AB",
+    "Group B",
+    "Group O"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#cec0c9",
+   "kind": "mcq",
+   "stem": "Which antibody is found in the serum of ABO group A people?",
+   "options": [
+    "Anti-A",
+    "Anti-D",
+    "Anti-B",
+    "Anti-H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#76ddcd",
+   "kind": "mcq",
+   "stem": "Which antibody is found in the serum of ABO group B people?",
+   "options": [
+    "Anti-B",
+    "Anti-A",
+    "Anti-D",
+    "Anti-K"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#8452e2",
+   "kind": "mcq",
+   "stem": "Which ABO group is the universal plasma donor?",
+   "options": [
+    "Group A",
+    "Group AB",
+    "Group B",
+    "Group O"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#fb99e3",
+   "kind": "mcq",
+   "stem": "How is a blood group defined?",
+   "options": [
+    "By inherited antigens on the red cell surface",
+    "By antibodies found in the plasma",
+    "By the donor's age and weight",
+    "By the colour of the packed cells"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#f1222c",
+   "kind": "mcq",
+   "stem": "How many blood group systems does the International Society of Blood Transfusion recognise?",
+   "options": [
+    "25",
+    "15",
+    "35",
+    "45"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#f1222c",
+   "kind": "mcq",
+   "stem": "How many red cell antigens does the International Society of Blood Transfusion recognise?",
+   "options": [
+    "312",
+    "342",
+    "402",
+    "432"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#76f152",
+   "kind": "blank",
+   "stem": "Red cell antigens differing by a single nucleotide are labelled with ____, as in Fya and Fyb.",
+   "answer": "superscripts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#33da5e",
+   "kind": "mcq",
+   "stem": "What is a phenotype in blood group terms?",
+   "options": [
+    "The set of antigens found by serological testing",
+    "The gene sequence of a blood group",
+    "The inherited antibodies carried in the plasma",
+    "The number of antigens on one platelet"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#3f7693",
+   "kind": "mcq",
+   "stem": "What is a null phenotype in a blood group system?",
+   "options": [
+    "Extra antigens from a gene duplication",
+    "Antibodies against every antigen in the system",
+    "Expression of one antigen only",
+    "No antigens of that system, often from an inactivating mutation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#03c050",
+   "kind": "mcq",
+   "stem": "Which two blood group systems together give the blood type, such as A positive?",
+   "options": [
+    "ABO and Rh",
+    "ABO and Kell",
+    "Rh and Duffy",
+    "Lewis and Kidd"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#45f5c6",
+   "kind": "mcq",
+   "stem": "How are blood group antigens inherited?",
+   "options": [
+    "From the mother only",
+    "From the father only",
+    "Acquired after birth",
+    "From both parents"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#4af777",
+   "kind": "mcq",
+   "stem": "In the ABO system, which two antibodies are found in the serum?",
+   "options": [
+    "Anti-D and anti-C",
+    "Anti-B and anti-K",
+    "Anti-A and anti-B",
+    "Anti-K and anti-D"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#dd20ae",
+   "kind": "mcq",
+   "stem": "How many groups does the ABO system have?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#72fa6b",
+   "kind": "mcq",
+   "stem": "Anti-A and anti-B are usually which immunoglobulin class?",
+   "options": [
+    "IgG",
+    "IgA",
+    "IgE",
+    "IgM"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#54b7f1",
+   "kind": "mcq",
+   "stem": "In Landsteiner's 1901 scheme, what letter was used for the group now called O?",
+   "options": [
+    "A",
+    "B",
+    "D",
+    "C"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#87bb3a",
+   "kind": "mcq",
+   "stem": "How many Rh red cell antigens are currently recognised?",
+   "options": [
+    "20",
+    "35",
+    "50",
+    "65"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#c3b3fb",
+   "kind": "mcq",
+   "stem": "Which of the five main Rh antigens is the most immunogenic?",
+   "options": [
+    "C",
+    "E",
+    "D",
+    "Kell"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#991ca6",
+   "kind": "statement",
+   "stem": "Why do D-negative people usually have no anti-D antibody?",
+   "answer": "Environmental exposure does not sensitise them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#92893b",
+   "kind": "mcq",
+   "stem": "Sensitisation to the D antigen can lead to which condition?",
+   "options": [
+    "Hereditary spherocytosis",
+    "Thalassaemia minor",
+    "Iron-deficiency anaemia",
+    "Rh disease"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#ac1cd2",
+   "kind": "mcq",
+   "stem": "About what percentage of European populations is Rh negative?",
+   "options": [
+    "8%",
+    "15%",
+    "30%",
+    "0.3%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#ac1cd2",
+   "kind": "mcq",
+   "stem": "About what percentage of Asian populations is Rh negative?",
+   "options": [
+    "0.1%",
+    "1.5%",
+    "0.3%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#1251c7",
+   "kind": "statement",
+   "stem": "How is Rh status written after an ABO group, as in A−?",
+   "answer": "+ or −, after the ABO group",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#12593a",
+   "kind": "mcq",
+   "stem": "Which of these is a common, clinically significant blood group system?",
+   "options": [
+    "Knops",
+    "Vel",
+    "Duffy",
+    "Cartwright"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#da5cb0",
+   "kind": "mcq",
+   "stem": "Which blood group system is clinically significant but rare?",
+   "options": [
+    "Kidd",
+    "Diego",
+    "Knops",
+    "Lewis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#c4bb0f",
+   "kind": "mcq",
+   "stem": "Which blood group system has little or no clinical significance?",
+   "options": [
+    "Kell",
+    "Lewis",
+    "Knops",
+    "Duffy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#a15aa4",
+   "kind": "blank",
+   "stem": "For plasma, which carries ABO antibodies, compatibility is the ____ of red cell compatibility.",
+   "answer": "reverse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#b069a2",
+   "kind": "mcq",
+   "stem": "In haematopoietic stem cell transplant, which donor blood group can be used for any recipient?",
+   "options": [
+    "Group O only",
+    "Group AB only",
+    "Group matching the recipient only",
+    "Any donor group"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#6d5504",
+   "kind": "mcq",
+   "stem": "What causes haemolytic disease of the fetus and newborn?",
+   "options": [
+    "Fetal antibodies crossing into the mother",
+    "Maternal platelets destroyed in the fetus",
+    "Fetal iron deficiency",
+    "Maternal antibodies crossing the placenta"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#9db1dd",
+   "kind": "mcq",
+   "stem": "Some red cell antigens and antibodies are linked to which condition?",
+   "options": [
+    "Iron-deficiency anaemia",
+    "Aplastic anaemia",
+    "Autoimmune haemolytic anaemia",
+    "Vitamin B12 deficiency"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#c3ed41",
+   "kind": "mcq",
+   "stem": "Duffy-negative people partly resist which infection?",
+   "options": [
+    "Influenza",
+    "Tuberculosis",
+    "Hepatitis B",
+    "Some malaria species"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#47638e",
+   "kind": "mcq",
+   "stem": "In group O, by about how much is von Willebrand factor lower than in groups A, B or AB?",
+   "options": [
+    "5 to 10 percent",
+    "20 to 30 percent",
+    "50 to 60 percent",
+    "2 to 3 times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#b7ba36",
+   "kind": "mcq",
+   "stem": "Which red cell antigen is sometimes associated with McLeod syndrome?",
+   "options": [
+    "Duffy",
+    "Kidd",
+    "Kell",
+    "Lewis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#7e2917",
+   "kind": "mcq",
+   "stem": "Gastric cancer is commoner in which ABO group?",
+   "options": [
+    "Group B",
+    "Group O",
+    "Group AB",
+    "Group A"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/blood-groups#7e2917",
+   "kind": "mcq",
+   "stem": "Gastric and duodenal ulcers are linked to which ABO group?",
+   "options": [
+    "Group O",
+    "Group A",
+    "Group AB",
+    "Group B"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

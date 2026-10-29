@@ -1,0 +1,83 @@
+{
+ "topic": "other/patient-movement-under-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "other/patient-movement-under-anaesthesia#75771a",
+   "kind": "statement",
+   "stem": "Why does patient movement matter during general anaesthesia?",
+   "answer": "It gets in the way of surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-movement-under-anaesthesia#0baf0e",
+   "kind": "mcq",
+   "stem": "Patient movement under general anaesthesia can come before which response to stimulation?",
+   "options": [
+    "Hypothermia",
+    "Laryngospasm",
+    "Urinary retention",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-movement-under-anaesthesia#e935f4",
+   "kind": "mcq",
+   "stem": "Which anaesthetic problem commonly causes patient movement during general anaesthesia?",
+   "options": [
+    "Excessive analgesia",
+    "Inadequate depth of anaesthesia",
+    "Hypothermia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-movement-under-anaesthesia#a23129",
+   "kind": "mcq",
+   "stem": "Which neuromuscular problem commonly causes patient movement during general anaesthesia?",
+   "options": [
+    "Excessive neuromuscular block",
+    "Early neuromuscular recovery",
+    "Incomplete neuromuscular block",
+    "Prolonged neuromuscular recovery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-movement-under-anaesthesia#a32e8a",
+   "kind": "mcq",
+   "stem": "What drug should be given to manage patient movement under general anaesthesia?",
+   "options": [
+    "A muscle relaxant",
+    "An antiemetic",
+    "A beta blocker",
+    "An opioid antagonist"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/patient-movement-under-anaesthesia#bab1ef",
+   "kind": "mcq",
+   "stem": "Which drug is given as regular top-ups or an infusion to prevent patient movement?",
+   "options": [
+    "Suxamethonium",
+    "Neostigmine",
+    "Atracurium",
+    "Sugammadex"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
