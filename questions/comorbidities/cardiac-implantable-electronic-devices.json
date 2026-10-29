@@ -1,0 +1,657 @@
+{
+ "topic": "comorbidities/cardiac-implantable-electronic-devices",
+ "questions": [
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#d08d28",
+   "kind": "statement",
+   "stem": "Before surgery in a patient with a cardiac implantable electronic device, what should be determined?",
+   "answer": "Device type, indication, defibrillator function and pacing dependence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#cf8ca4",
+   "kind": "blank",
+   "stem": "For a pacemaker or ICD, a device check should be within ____ months before surgery.",
+   "answer": "6 or 12",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#0ff9c5",
+   "kind": "mcq",
+   "stem": "For a cardiac implantable device, which surgical site carries a high EMI risk?",
+   "options": [
+    "Surgery below the umbilicus",
+    "Lower limb surgery",
+    "Surgery above the umbilicus",
+    "Perineal surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#a0ad32",
+   "kind": "statement",
+   "stem": "For a pacing-dependent patient or ICD with high EMI risk, what should be done?",
+   "answer": "Magnet or reprogramming",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#d30f33",
+   "kind": "blank",
+   "stem": "For a cardiac device patient, electrolytes are kept as for arrhythmias: potassium above ____.",
+   "answer": "4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#d30f33",
+   "kind": "blank",
+   "stem": "For a cardiac device patient, electrolytes are kept as for arrhythmias: magnesium above ____.",
+   "answer": "1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#e9c28a",
+   "kind": "blank",
+   "stem": "Defibrillator pads should be placed ____ and 8cm away from the device.",
+   "answer": "anterior-posterior",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#ea61b8",
+   "kind": "statement",
+   "stem": "How can electromagnetic interference be minimised during surgery in a device patient?",
+   "answer": "Bipolar, short intermittent low-power bursts, return pad far from the device",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#025ba0",
+   "kind": "statement",
+   "stem": "Which specialists should join the multidisciplinary discussion before surgery in a device patient?",
+   "answer": "Electrophysiologist or cardiologist, and surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#6cf460",
+   "kind": "statement",
+   "stem": "Which device details should be identified before surgery in a patient with a device?",
+   "answer": "Type (PPM or ICD), programmed mode and brand",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#040953",
+   "kind": "mcq",
+   "stem": "On an ICD, what do the two thick radiopaque sections of the right ventricular lead represent?",
+   "options": [
+    "Atrial sensing electrodes",
+    "Lead insulation tubing",
+    "High-voltage shock coils",
+    "Fixation tines"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#49927f",
+   "kind": "mcq",
+   "stem": "How many leads does a biventricular device have?",
+   "options": [
+    "1 lead",
+    "2 leads",
+    "4 leads",
+    "3 leads"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#8272c3",
+   "kind": "statement",
+   "stem": "On a pacemaker, what magnet behaviour should be checked?",
+   "answer": "Programmed magnet rate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#9e5b25",
+   "kind": "mcq",
+   "stem": "How recent should the most recent device check be for an ICD?",
+   "options": [
+    "1 year",
+    "3 months",
+    "2 years",
+    "6 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#9e5b25",
+   "kind": "mcq",
+   "stem": "How recent should the most recent device check be for a pacemaker (PPM)?",
+   "options": [
+    "2 years",
+    "6 months",
+    "5 years",
+    "1 year"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#74e5dd",
+   "kind": "mcq",
+   "stem": "For a CRT device, what time window before surgery should be considered for the last device check?",
+   "options": [
+    "3-6 months",
+    "1-2 weeks",
+    "12-18 months",
+    "2-3 years"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#43b4eb",
+   "kind": "mcq",
+   "stem": "Below what battery voltage should the manufacturer be asked about replacement before surgery?",
+   "options": [
+    "2.0 V",
+    "2.6 V",
+    "3.0 V",
+    "3.6 V"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#43b4eb",
+   "kind": "blank",
+   "stem": "Lead impedance above ____ should prompt asking the manufacturer whether to replace before surgery.",
+   "answer": "3000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#19540e",
+   "kind": "statement",
+   "stem": "What minimum battery life should a device have before surgery?",
+   "answer": "More than 3 months",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#40b0d2",
+   "kind": "statement",
+   "stem": "Which symptoms suggest a pacemaker or ICD may be malfunctioning?",
+   "answer": "Giddiness, syncope or heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#6eca04",
+   "kind": "blank",
+   "stem": "On device interrogation, the atrial or ventricular pacing burden is above ____.",
+   "answer": "40%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#ed85fd",
+   "kind": "statement",
+   "stem": "On device interrogation at the lowest programmable VVI rate, what finding is noted?",
+   "answer": "No adequate intrinsic ventricular rhythm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#c7acf2",
+   "kind": "statement",
+   "stem": "Before surgery, what recent device events should be checked on interrogation?",
+   "answer": "Any recent anti-tachycardia therapy or shocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#e0821c",
+   "kind": "mcq",
+   "stem": "How recent should the ECG be for a patient with a pacemaker or ICD?",
+   "options": [
+    "Within 1 week",
+    "Within 12 months",
+    "Within 2 years",
+    "Within 30 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#1b47fb",
+   "kind": "statement",
+   "stem": "What can a chest X-ray show about a device, if needed?",
+   "answer": "Type and brand, generator position, lead integrity, heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#47491b",
+   "kind": "statement",
+   "stem": "Where can lead fractures occur in a device?",
+   "answer": "At the generator junction, at subclavian vein entry, or over the 1st rib",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#4029b4",
+   "kind": "statement",
+   "stem": "Who should the EMI risk be discussed with before surgery in a device patient?",
+   "answer": "The surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#117935",
+   "kind": "blank",
+   "stem": "For EMI from a cardiac device, the critical distance is ____.",
+   "answer": "15cm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#b63fc5",
+   "kind": "statement",
+   "stem": "Why can low-incision laparoscopic surgery still pose an EMI risk to a device?",
+   "answer": "Instruments can come within 15cm of the device",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#3acde6",
+   "kind": "statement",
+   "stem": "If a magnet cannot be applied intraoperatively due to poor access, what is the alternative?",
+   "answer": "Reprogramming",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#e3800a",
+   "kind": "statement",
+   "stem": "How can arrhythmia risk be reduced in a device patient before surgery?",
+   "answer": "Check and correct electrolytes and acid-base",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#8ea721",
+   "kind": "statement",
+   "stem": "What should be assessed for cardiac risk in a device patient's preoperative assessment?",
+   "answer": "Active cardiac conditions, clinical risk factors and functional capacity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#5f4c4a",
+   "kind": "statement",
+   "stem": "When is no intraoperative reprogramming of a cardiac device needed?",
+   "answer": "Not pacing dependent, no defibrillator function, or low EMI risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#345766",
+   "kind": "statement",
+   "stem": "When should a cardiac device be reprogrammed intraoperatively?",
+   "answer": "High EMI risk or poor access, plus pacing dependence or defibrillator function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#b1c04a",
+   "kind": "statement",
+   "stem": "In an emergency with no reprogramming available, what is done with a magnet?",
+   "answer": "Place it over the device for the whole case",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#d685a7",
+   "kind": "statement",
+   "stem": "What should be ready for a device patient intraoperatively?",
+   "answer": "Defib pads on, and transcutaneous or transvenous pacing and defibrillation ready",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#7be86f",
+   "kind": "blank",
+   "stem": "Intraoperatively, defibrillator pads should be placed at least ____ from the generator.",
+   "answer": "15cm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#8e2452",
+   "kind": "statement",
+   "stem": "What should an ECG show for a patient with a pacemaker before surgery?",
+   "answer": "Rhythm, pacing spikes and electrical capture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#52a6ed",
+   "kind": "blank",
+   "stem": "For intraoperative diathermy in a patient with a cardiac implanted device, use ____ at low power.",
+   "answer": "Short bursts <5s",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#64f136",
+   "kind": "statement",
+   "stem": "In a patient with a cardiac implanted device, how should the diathermy current path lie relative to the leads?",
+   "answer": "Perpendicular to the leads",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#9c2e2c",
+   "kind": "statement",
+   "stem": "During surgery in a patient with a cardiac implanted device, which two monitors should run continuously?",
+   "answer": "ECG and SpO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#0700cd",
+   "kind": "mcq",
+   "stem": "To see pacing spikes on the ECG of a patient with a pacemaker, what should be done to the artefact filter?",
+   "options": [
+    "Set the filter to maximum",
+    "Use the filter in monitor mode",
+    "Turn the filter off (diagnostic mode)",
+    "Increase the ECG gain"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#9de7c5",
+   "kind": "statement",
+   "stem": "How can mechanical capture be confirmed in a pacemaker patient during surgery?",
+   "answer": "Pulse, SpO2 trace and arterial waveform",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#ab3b5d",
+   "kind": "blank",
+   "stem": "In a patient with a cardiac implanted device, consider an ____ if contractility is poor.",
+   "answer": "arterial line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#4d29be",
+   "kind": "mcq",
+   "stem": "In a patient with a cardiac implanted device, which lines may dislodge the leads?",
+   "options": [
+    "Peripheral cannulae",
+    "Urethral catheters",
+    "Central or PA catheters",
+    "Nasogastric tubes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#28fdea",
+   "kind": "statement",
+   "stem": "Which physiological derangements should be avoided during surgery in a patient with a cardiac implanted device?",
+   "answer": "Hypoxaemia, hypercarbia, acidosis, low or high potassium, hypothermia and electrolyte imbalance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#1ac7b0",
+   "kind": "statement",
+   "stem": "What can cause device failure during surgery in a patient with a cardiac implanted device?",
+   "answer": "Loss of capture or EMI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#f84988",
+   "kind": "statement",
+   "stem": "If a cardiac implanted device fails during surgery, what should be stopped?",
+   "answer": "Surgery and all EMI sources",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#27911e",
+   "kind": "statement",
+   "stem": "Which treatments can correct an arrhythmia in a patient with a cardiac implanted device during surgery?",
+   "answer": "Transcutaneous pacing and defibrillation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#e0dc4c",
+   "kind": "statement",
+   "stem": "A magnet is on a cardiac implanted device during surgery. What should be considered to restore pacing and anti-tachycardia therapy?",
+   "answer": "Removing the magnet",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#59650d",
+   "kind": "mcq",
+   "stem": "Which specialist may be needed for transvenous pacing in a patient with a cardiac implanted device?",
+   "options": [
+    "Haematology",
+    "Neurology",
+    "Cardiology",
+    "Nephrology"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#147b15",
+   "kind": "statement",
+   "stem": "After surgery in a cardiac implanted device patient, what monitoring is needed until the device is interrogated?",
+   "answer": "Continuous ECG in recovery or HDU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#3525c5",
+   "kind": "statement",
+   "stem": "What should be available and kept on in recovery after cardiac implanted device surgery?",
+   "answer": "A pacing and defibrillation kit, with pads left on",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#94617a",
+   "kind": "statement",
+   "stem": "What is electromagnetic interference (EMI) for implanted cardiac devices?",
+   "answer": "Electromagnetic radiation that can affect implanted devices",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#939357",
+   "kind": "mcq",
+   "stem": "Which frequency range is radiofrequency electromagnetic interference?",
+   "options": [
+    "10^9-10^11 Hz",
+    "30-3000 Hz",
+    "0-10^9 Hz",
+    "20-110 Hz"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#5bf59d",
+   "kind": "mcq",
+   "stem": "Which frequency range does MRI produce as electromagnetic interference for implanted devices?",
+   "options": [
+    "30-3000 Hz",
+    "0-10^9 Hz",
+    "20-110 Hz",
+    "300-500 kHz"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#706889",
+   "kind": "mcq",
+   "stem": "Which frequency range does TENS produce as electromagnetic interference for implanted devices?",
+   "options": [
+    "10^9-10^11 Hz",
+    "300-500 kHz",
+    "30-3000 Hz",
+    "20-110 Hz"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#5ce9aa",
+   "kind": "statement",
+   "stem": "Which suxamethonium effect can cause interference with an implanted cardiac device?",
+   "answer": "Fasciculations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#5286d4",
+   "kind": "mcq",
+   "stem": "How does higher-frequency radiation, such as X-rays, affect implanted cardiac devices?",
+   "options": [
+    "Always disables pacing",
+    "Frequently interferes",
+    "Permanently damages leads",
+    "Rarely interferes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#d3ef3e",
+   "kind": "statement",
+   "stem": "What permanent damage can electromagnetic interference cause to a pacemaker system?",
+   "answer": "Circuitry damage (short circuit, output failure) or lead damage (threshold changes)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#3932b5",
+   "kind": "statement",
+   "stem": "Where on a pacing lead can electromagnetic interference cause damage?",
+   "answer": "At the lead tip",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#380505",
+   "kind": "statement",
+   "stem": "How do implanted-device noise algorithms handle signals outside cardiac frequencies?",
+   "answer": "They ignore them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#5f3377",
+   "kind": "statement",
+   "stem": "What was the reed switch in a pacemaker originally designed to show?",
+   "answer": "Battery life and pacing thresholds",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#35626a",
+   "kind": "statement",
+   "stem": "What is the theoretical danger of asynchronous pacing from a pacemaker magnet?",
+   "answer": "Pacing in the vulnerable period, causing arrhythmias (theoretical VF risk)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#56ba53",
+   "kind": "mcq",
+   "stem": "What does a magnet do for a pacing-dependent pacemaker patient during surgery?",
+   "options": [
+    "Permanently reprograms the pacing mode",
+    "Prevents inhibition by pulsed interference",
+    "Stops all pacing until removed",
+    "Raises the pacing rate to 100bpm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#1fe6ad",
+   "kind": "statement",
+   "stem": "Do all pacemakers switch to continuous asynchronous pacing with a magnet?",
+   "answer": "No; confirm the magnet response first",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#08e6ca",
+   "kind": "mcq",
+   "stem": "How many beats of brief asynchronous pacing does a pacemaker magnet response produce?",
+   "options": [
+    "1-5 beats",
+    "100-200 beats",
+    "10-64 beats",
+    "65-120 beats"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiac-implantable-electronic-devices#1295e5",
+   "kind": "mcq",
+   "stem": "How does a magnet affect a Micra leadless pacemaker?",
+   "options": [
+    "Switches to asynchronous pacing",
+    "Disables all sensing",
+    "Raises the pacing rate",
+    "No effect"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

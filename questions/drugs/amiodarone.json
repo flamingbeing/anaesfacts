@@ -1,0 +1,499 @@
+{
+ "topic": "drugs/amiodarone",
+ "questions": [
+  {
+   "fact_id": "drugs/amiodarone#ce7b44",
+   "kind": "mcq",
+   "stem": "What is the IV amiodarone presentation?",
+   "options": [
+    "300mg/3ml",
+    "150mg/10ml",
+    "50mg/3ml",
+    "150mg/3ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#3fcbba",
+   "kind": "mcq",
+   "stem": "Which diluent is used for an amiodarone infusion?",
+   "options": [
+    "0.9% saline",
+    "Sterile water",
+    "5% dextrose",
+    "Ringer's lactate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#b174d2",
+   "kind": "mcq",
+   "stem": "Why should IV amiodarone be given via a central vein?",
+   "options": [
+    "It is highly protein bound",
+    "It is an irritant",
+    "It is rapidly metabolised in blood",
+    "It needs a slow infusion rate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#ba74a9",
+   "kind": "mcq",
+   "stem": "In ACLS, IV amiodarone is given for which rhythm?",
+   "options": [
+    "Asystole",
+    "Sinus bradycardia",
+    "Pulseless electrical activity",
+    "Wide complex tachycardia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#54a1c3",
+   "kind": "mcq",
+   "stem": "What is the initial IV amiodarone dose for ACLS wide complex tachycardia?",
+   "options": [
+    "150mg over 10mins",
+    "300mg over 10mins",
+    "150mg over 1min",
+    "50mg over 10mins"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#54a1c3",
+   "kind": "mcq",
+   "stem": "How many times may the initial 150mg IV amiodarone dose be repeated?",
+   "options": [
+    "Never",
+    "Once",
+    "Twice",
+    "Three times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#e83a2b",
+   "kind": "mcq",
+   "stem": "What is the next IV amiodarone dose after the initial ACLS dose?",
+   "options": [
+    "150mg every 8 hours",
+    "300mg every 4 hours",
+    "300mg every 8 hours",
+    "600mg every 8 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#bd7b5d",
+   "kind": "mcq",
+   "stem": "What is the alternative amiodarone infusion rate after a loading dose?",
+   "options": [
+    "1 mg/min",
+    "5 mg/min",
+    "10 mg/min",
+    "0.1 mg/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#9aadef",
+   "kind": "mcq",
+   "stem": "In the alternative regimen, what amiodarone dose is given over 24 hours?",
+   "options": [
+    "5 mg/kg over 24 hours",
+    "15 mg/kg over 1 hour",
+    "15 mg/kg over 24 hours",
+    "50 mg/kg over 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#479c90",
+   "kind": "mcq",
+   "stem": "After one week each of 200 mg TDS and 200 mg bd oral amiodarone, what is the next dose?",
+   "options": [
+    "200 mg TDS",
+    "200 mg bd",
+    "200 mg od",
+    "400 mg od"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#479c90",
+   "kind": "mcq",
+   "stem": "How long is the initial oral amiodarone 200 mg TDS phase?",
+   "options": [
+    "2 weeks",
+    "3 days",
+    "1 week",
+    "4 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#82b46b",
+   "kind": "mcq",
+   "stem": "Besides class III, which other antiarrhythmic classes does amiodarone act on?",
+   "options": [
+    "Class I and II only",
+    "Class I, II and IV",
+    "Class II and III only",
+    "Class IV and V"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#307e89",
+   "kind": "statement",
+   "stem": "How does amiodarone's potassium channel block change the action potential?",
+   "answer": "Slows repolarisation, lengthening action potential duration and refractory period",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#f8fc3f",
+   "kind": "mcq",
+   "stem": "What usually happens to amiodarone's adverse effects when the drug is stopped?",
+   "options": [
+    "Most become permanent",
+    "Most worsen for months",
+    "Most need steroid therapy",
+    "Most reverse on stopping"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#34b5c8",
+   "kind": "mcq",
+   "stem": "Which cardiac adverse effect is commonest with IV amiodarone?",
+   "options": [
+    "Hypotension",
+    "Heart block",
+    "Ventricular fibrillation",
+    "Cardiac arrest"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#34b5c8",
+   "kind": "mcq",
+   "stem": "Which solvent in IV amiodarone contributes to its hypotension?",
+   "options": [
+    "Benzyl alcohol",
+    "Polysorbate 80",
+    "Ethanol",
+    "Sodium chloride"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#027d81",
+   "kind": "mcq",
+   "stem": "What percentage of patients on long-term amiodarone get sinus bradycardia?",
+   "options": [
+    "0.9%",
+    "15%",
+    "1%",
+    "5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#027d81",
+   "kind": "mcq",
+   "stem": "Marked bradycardia or AV block on long-term amiodarone suggests what?",
+   "options": [
+    "Toxicity",
+    "Normal drug effect",
+    "Need for a higher dose",
+    "Thyroid recovery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#a3c194",
+   "kind": "statement",
+   "stem": "Name three pulmonary adverse effects of amiodarone.",
+   "answer": "Pneumonitis, fibrosis or pleuritis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#64446f",
+   "kind": "mcq",
+   "stem": "Which factor may raise the risk of acute lung toxicity from amiodarone in critically ill patients?",
+   "options": [
+    "Low FiO2",
+    "Hypoglycaemia",
+    "High FiO2",
+    "Hyperglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#f6a759",
+   "kind": "mcq",
+   "stem": "What percentage of patients on amiodarone develop hypothyroidism?",
+   "options": [
+    "0.9%",
+    "15%",
+    "6%",
+    "1%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#f6a759",
+   "kind": "mcq",
+   "stem": "What percentage of patients on amiodarone develop hyperthyroidism?",
+   "options": [
+    "6%",
+    "0.9%",
+    "10%",
+    "25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#21c5bd",
+   "kind": "mcq",
+   "stem": "How does amiodarone affect peripheral thyroid hormone conversion?",
+   "options": [
+    "Blocks conversion of T4 to T3",
+    "Blocks conversion of T3 to T4",
+    "Increases thyroid hormone release",
+    "Suppresses TSH secretion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#1bc998",
+   "kind": "mcq",
+   "stem": "When should thyroid function tests be checked during long-term amiodarone?",
+   "options": [
+    "Baseline only",
+    "Monthly",
+    "Baseline, at 3 months, then annually",
+    "Annually from the start"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#25c603",
+   "kind": "mcq",
+   "stem": "What percentage of patients on amiodarone get raised liver enzymes?",
+   "options": [
+    "6%",
+    "30%",
+    "3%",
+    "0.9%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#917054",
+   "kind": "mcq",
+   "stem": "What is the common, usually minor, eye effect of long-term amiodarone?",
+   "options": [
+    "Corneal microdeposits",
+    "Retinal haemorrhage",
+    "Cataract formation",
+    "Glaucoma"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#28f045",
+   "kind": "mcq",
+   "stem": "What taste does amiodarone commonly cause during loading?",
+   "options": [
+    "Sour",
+    "Metallic",
+    "Salty",
+    "Sweet"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#2d376a",
+   "kind": "statement",
+   "stem": "Which neurological adverse effect of amiodarone is rare?",
+   "answer": "Myopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#3d5211",
+   "kind": "mcq",
+   "stem": "How long can amiodarone photosensitivity last after stopping?",
+   "options": [
+    "Hours",
+    "Days",
+    "Months",
+    "Minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#3d5211",
+   "kind": "mcq",
+   "stem": "Where is amiodarone's slate-grey skin discolouration mainly seen?",
+   "options": [
+    "The hands",
+    "The face",
+    "The legs",
+    "The trunk"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#4a2357",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of amiodarone?",
+   "options": [
+    "5% to 10%",
+    "80% to 95%",
+    "10% to 20%",
+    "50% to 70%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#dd9ce1",
+   "kind": "mcq",
+   "stem": "What proportion of amiodarone is protein bound?",
+   "options": [
+    "About 50%",
+    "Under 10%",
+    "Over 95%",
+    "About 20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#381687",
+   "kind": "mcq",
+   "stem": "Where does amiodarone accumulate heavily, given its large volume of distribution?",
+   "options": [
+    "Plasma and red cells",
+    "Muscle and fat",
+    "Bone and cartilage",
+    "Liver and kidney"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#381687",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of amiodarone?",
+   "options": [
+    "2–7 l/kg",
+    "20–70 l/kg",
+    "2–70 l/kg",
+    "0.2–7 l/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#4ed2c0",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of amiodarone?",
+   "options": [
+    "2 to 10 days",
+    "20 to 100 hours",
+    "1 to 3 hours",
+    "20 to 100 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#804581",
+   "kind": "mcq",
+   "stem": "Which active metabolite does the liver form from amiodarone?",
+   "options": [
+    "Hydroxyamiodarone",
+    "Desmethylamiodarone",
+    "Sulfoamiodarone",
+    "Glucuronidated amiodarone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amiodarone#b6da52",
+   "kind": "statement",
+   "stem": "Through which routes is amiodarone excreted?",
+   "answer": "Lacrimal glands, skin and biliary tract",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

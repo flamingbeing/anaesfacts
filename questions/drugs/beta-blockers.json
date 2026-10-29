@@ -1,0 +1,481 @@
+{
+ "topic": "drugs/beta-blockers",
+ "questions": [
+  {
+   "fact_id": "drugs/beta-blockers#c28b38",
+   "kind": "blank",
+   "stem": "In beta-blocker classification, 1st generation agents are ____.",
+   "answer": "non-selective",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#1fda09",
+   "kind": "statement",
+   "stem": "Which beta-blocker generation is beta-1 selective, also called cardioselective?",
+   "answer": "2nd generation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#015ef1",
+   "kind": "statement",
+   "stem": "Which beta-blocker generation adds alpha-1 antagonism and vasodilation?",
+   "answer": "3rd generation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#fe6d3d",
+   "kind": "mcq",
+   "stem": "In beta-blocker therapy, which receptor block gives most of the wanted effects?",
+   "options": [
+    "Beta-2 receptor",
+    "Beta-1 receptor",
+    "Alpha-2 receptor",
+    "Muscarinic receptor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#255cf4",
+   "kind": "statement",
+   "stem": "Which beta-1 selective agents also block beta-2 receptors at high doses?",
+   "answer": "Bisoprolol, atenolol, metoprolol, esmolol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#e6270b",
+   "kind": "mcq",
+   "stem": "Which two common beta-blockers are the most beta-1 selective?",
+   "options": [
+    "Propranolol and nadolol",
+    "Bisoprolol and nebivolol",
+    "Carvedilol and labetalol",
+    "Sotalol and pindolol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#60fa26",
+   "kind": "statement",
+   "stem": "Beta-blockers: why might non-selective agents be less effective than cardioselective ones?",
+   "answer": "They also block vasodilatory beta-2 receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#72aaba",
+   "kind": "mcq",
+   "stem": "Beta-blocker therapy: how do 3rd-generation agents cause vasodilation?",
+   "options": [
+    "Beta-2 agonism",
+    "Muscarinic receptor blockade",
+    "Alpha-1 antagonism",
+    "Increased sympathetic outflow"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#67fa35",
+   "kind": "mcq",
+   "stem": "What does intrinsic sympathomimetic activity mean for a beta-blocker?",
+   "options": [
+    "Full agonism at beta receptors",
+    "Partial agonism at beta receptors",
+    "Pure alpha-2 agonism",
+    "Complete alpha-1 blockade"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#99935f",
+   "kind": "mcq",
+   "stem": "Which beta-blocker has intrinsic sympathomimetic activity?",
+   "options": [
+    "Atenolol",
+    "Esmolol",
+    "Acebutolol",
+    "Sotalol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#dada25",
+   "kind": "statement",
+   "stem": "Beta-blocker cardiac effects: which negatives are outweighed by the benefits?",
+   "answer": "Longer systolic ejection, ventricular dilation, higher coronary resistance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#63cbdb",
+   "kind": "mcq",
+   "stem": "How well is the blood-pressure-lowering mechanism of beta-blockers understood?",
+   "options": [
+    "Fully explained by heart-rate slowing",
+    "Caused by alpha-1 agonism",
+    "Caused by direct vasoconstriction",
+    "Not fully known"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#3752e5",
+   "kind": "mcq",
+   "stem": "Beta-1 blockade at the juxtaglomerular apparatus lowers which hormone?",
+   "options": [
+    "Insulin",
+    "Renin",
+    "Thyroxine",
+    "Gastrin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#3752e5",
+   "kind": "statement",
+   "stem": "How does beta-1 block at the juxtaglomerular apparatus reduce vasoconstriction?",
+   "answer": "Less renin, so less angiotensin II, vasoconstriction and aldosterone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#2a5b2b",
+   "kind": "mcq",
+   "stem": "What does presynaptic beta-2 blockade do to noradrenaline release?",
+   "options": [
+    "Increases it",
+    "Reduces it",
+    "Blocks its reuptake",
+    "Prevents its breakdown"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#77d779",
+   "kind": "mcq",
+   "stem": "Which peripheral problem does beta-2 blockade cause in beta-blocker therapy?",
+   "options": [
+    "Warm, flushed peripheral skin",
+    "Cold hands and poor peripheral circulation",
+    "Peripheral vasodilation with flushing",
+    "Bounding peripheral pulses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#379aa2",
+   "kind": "statement",
+   "stem": "How does timolol, a beta-blocker, lower intra-ocular pressure?",
+   "answer": "Less aqueous humour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#a9f762",
+   "kind": "statement",
+   "stem": "When should beta-blockers be used with extreme caution in cardiac failure?",
+   "answer": "When ventricular function is poor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#e01001",
+   "kind": "mcq",
+   "stem": "Through which receptor do beta-blockers cause bronchospasm?",
+   "options": [
+    "Beta-1 receptor",
+    "Alpha-1 receptor",
+    "Beta-2 receptor",
+    "Dopamine D2 receptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#8d926d",
+   "kind": "mcq",
+   "stem": "Which CNS adverse effect of beta-blockers is linked to lipophilic agents?",
+   "options": [
+    "Bronchospasm",
+    "Sedation",
+    "Diarrhoea",
+    "Tinnitus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#8d926d",
+   "kind": "statement",
+   "stem": "Apart from sedation, which CNS adverse effects can beta-blockers cause?",
+   "answer": "Depression, hallucinations, nightmares, paranoia, fatigue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#e361db",
+   "kind": "mcq",
+   "stem": "Which respiratory disease is a contraindication to beta-blockers?",
+   "options": [
+    "Hypertension",
+    "Asthma",
+    "Angina",
+    "Migraine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#500912",
+   "kind": "mcq",
+   "stem": "Which conduction problem is a contraindication to beta-blockers?",
+   "options": [
+    "Atrial fibrillation",
+    "Paroxysmal SVT",
+    "Heart block",
+    "Sinus tachycardia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#ef0055",
+   "kind": "mcq",
+   "stem": "Which condition is a main indication for beta-blockers?",
+   "options": [
+    "Hypertension",
+    "Asthma",
+    "Heart block",
+    "Low ejection fraction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#24f7c7",
+   "kind": "mcq",
+   "stem": "Which chest condition is treated with beta-blockers?",
+   "options": [
+    "Pneumothorax",
+    "Pericarditis",
+    "Angina",
+    "Pulmonary embolism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#49f9dd",
+   "kind": "statement",
+   "stem": "What do beta-blockers given around myocardial infarction reduce?",
+   "answer": "Arrhythmias and reinfarction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#b2dc5d",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma, why are beta-blockers added to alpha-blockade?",
+   "options": [
+    "Increase renin release",
+    "Prevent reflex tachycardia from alpha-blockade",
+    "Prevent reflex bradycardia from alpha-blockade",
+    "Reverse bronchospasm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#1f71f8",
+   "kind": "statement",
+   "stem": "Which beta-blocker is used in hyperthyroidism?",
+   "answer": "Propranolol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#5d3385",
+   "kind": "statement",
+   "stem": "Why are beta-blockers used in hypertrophic obstructive cardiomyopathy?",
+   "answer": "To control infundibular spasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#8c858c",
+   "kind": "mcq",
+   "stem": "By which route are beta-blockers used to treat glaucoma?",
+   "options": [
+    "Intravenous",
+    "Topical",
+    "Intramuscular",
+    "Subcutaneous"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#f16e46",
+   "kind": "mcq",
+   "stem": "Beta-blockers are used to prevent which headache disorder?",
+   "options": [
+    "Cluster headache",
+    "Trigeminal neuralgia",
+    "Migraine",
+    "Medication overuse headache"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#f16e46",
+   "kind": "statement",
+   "stem": "Beta-blockers are used to treat which tremor disorder?",
+   "answer": "Essential tremor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#edfe44",
+   "kind": "statement",
+   "stem": "Which beta-blocker blunts the response to laryngoscopy and extubation?",
+   "answer": "Esmolol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#fdc33d",
+   "kind": "statement",
+   "stem": "How do beta-blockers slow the heart rate in arrhythmias?",
+   "answer": "Prolonging diastolic depolarisation (phase 4)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#08c842",
+   "kind": "statement",
+   "stem": "Some beta-blockers have membrane stabilising activity; which Vaughan Williams class is it?",
+   "answer": "Class I",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#3b949c",
+   "kind": "mcq",
+   "stem": "Which beta-blocker also has class III antiarrhythmic activity?",
+   "options": [
+    "Sotalol",
+    "Esmolol",
+    "Atenolol",
+    "Bisoprolol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#039fdd",
+   "kind": "statement",
+   "stem": "In which arrhythmias are beta-blockers limited to rate control?",
+   "answer": "Paroxysmal SVT, AF and catecholamine-driven sinus tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#c9c130",
+   "kind": "statement",
+   "stem": "What mainly drives the pharmacokinetic differences between beta-blockers?",
+   "answer": "Lipid solubility",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#387b7e",
+   "kind": "mcq",
+   "stem": "How is atenolol, a low lipid-soluble beta-blocker, mainly eliminated?",
+   "options": [
+    "Extensive hepatic metabolism",
+    "Unchanged in urine",
+    "Unchanged in faeces",
+    "Exhaled through the lungs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#387b7e",
+   "kind": "statement",
+   "stem": "What gut consequence follows from atenolol's low lipid solubility?",
+   "answer": "Poor absorption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#0f61f1",
+   "kind": "mcq",
+   "stem": "What half-life do highly lipid-soluble beta-blockers have?",
+   "options": [
+    "Longer half-life",
+    "Half-life unaffected by lipid solubility",
+    "Half-life set by urinary excretion",
+    "Shorter half-life"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#0f61f1",
+   "kind": "statement",
+   "stem": "Why do highly lipid-soluble beta-blockers cause sedation and nightmares?",
+   "answer": "They cross the blood-brain barrier",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/beta-blockers#0275f6",
+   "kind": "mcq",
+   "stem": "How does protein binding compare across beta-blockers?",
+   "options": [
+    "It is identical for all agents",
+    "It is negligible for all agents",
+    "It varies between agents",
+    "It is above 99% for all agents"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

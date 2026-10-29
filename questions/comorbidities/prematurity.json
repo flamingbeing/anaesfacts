@@ -1,0 +1,763 @@
+{
+ "topic": "comorbidities/prematurity",
+ "questions": [
+  {
+   "fact_id": "comorbidities/prematurity#1cf717",
+   "kind": "mcq",
+   "stem": "What is the main cause of hyaline membrane disease in preterm infants?",
+   "options": [
+    "Excess lung fluid after birth",
+    "Duct-dependent circulation",
+    "Immature lungs with too little surfactant",
+    "Excess surfactant production"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#1cf717",
+   "kind": "mcq",
+   "stem": "In prematurity, at what gestation does surfactant production surge?",
+   "options": [
+    "28 weeks",
+    "32 weeks",
+    "36 weeks",
+    "40 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#af841b",
+   "kind": "blank",
+   "stem": "In newborns, the transitional circulation is described as ____.",
+   "answer": "fragile",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#2af6a8",
+   "kind": "statement",
+   "stem": "What term describes congenital heart lesions that rely on the ductus arteriosus in newborns?",
+   "answer": "Duct-dependent lesions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#6e1aca",
+   "kind": "mcq",
+   "stem": "What is the direction of water and sodium balance in newborns over the first few days?",
+   "options": [
+    "Positive",
+    "Balanced",
+    "Negative",
+    "Unchanged"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#4a8914",
+   "kind": "mcq",
+   "stem": "Under the WHO definition, what gestational age defines premature birth?",
+   "options": [
+    "37 weeks or more",
+    "Under 37 weeks",
+    "Under 1500 g birth weight",
+    "Under 2500 g birth weight"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#d84fe3",
+   "kind": "mcq",
+   "stem": "Which gestational age range defines moderate prematurity?",
+   "options": [
+    "24-30 weeks",
+    "37-40 weeks",
+    "31-36 weeks",
+    "40-42 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#34f77e",
+   "kind": "mcq",
+   "stem": "Which gestational age range defines severe prematurity?",
+   "options": [
+    "24-30 weeks",
+    "31-36 weeks",
+    "37-40 weeks",
+    "40-42 weeks"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#4c042e",
+   "kind": "mcq",
+   "stem": "Roughly what share of live births are premature?",
+   "options": [
+    "1-2%",
+    "30-40%",
+    "6-11%",
+    "20-25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#4a0d28",
+   "kind": "mcq",
+   "stem": "In Great Britain, what share of early neonatal deaths is not due to congenital conditions?",
+   "options": [
+    "15%",
+    "85%",
+    "50%",
+    "95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#1927a4",
+   "kind": "statement",
+   "stem": "What birth weight defines very low birth weight in prematurity?",
+   "answer": "Less than 1500 g",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#5fd6b5",
+   "kind": "statement",
+   "stem": "Name a common cardiac operation in preterm infants.",
+   "answer": "PDA ligation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#dd3bfd",
+   "kind": "mcq",
+   "stem": "Which gastrointestinal operation is common in preterm infants?",
+   "options": [
+    "Cholecystectomy",
+    "Thyroidectomy",
+    "Inguinal hernia repair",
+    "Tonsillectomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#8e9c40",
+   "kind": "mcq",
+   "stem": "What neurosurgical treatment is used for hydrocephalus after intraventricular haemorrhage in prematurity?",
+   "options": [
+    "Craniotomy for tumour resection",
+    "Carotid endarterectomy",
+    "CSF drainage or shunts",
+    "Burr hole for subdural haematoma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#bd30eb",
+   "kind": "mcq",
+   "stem": "Which treatment is used for retinopathy of prematurity?",
+   "options": [
+    "Corneal transplant",
+    "Laser photocoagulation",
+    "Pterygium excision",
+    "Strabismus surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#d4a678",
+   "kind": "statement",
+   "stem": "What imaging procedure needing anaesthesia is common in preterm infants?",
+   "answer": "MRI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#384948",
+   "kind": "statement",
+   "stem": "What airway problems can follow prolonged intubation in ex-preterm infants?",
+   "answer": "Subglottic stenosis or tracheomalacia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#ebdd74",
+   "kind": "statement",
+   "stem": "What should you expect when intubating a preterm infant?",
+   "answer": "May be difficult or need a smaller endotracheal tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#fbb302",
+   "kind": "mcq",
+   "stem": "What is another name for hyaline membrane disease?",
+   "options": [
+    "Bronchopulmonary dysplasia",
+    "Persistent pulmonary hypertension",
+    "Meconium aspiration syndrome",
+    "Respiratory distress syndrome (RDS)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#d215df",
+   "kind": "mcq",
+   "stem": "What is another name for bronchopulmonary dysplasia (BPD)?",
+   "options": [
+    "Respiratory distress syndrome",
+    "Chronic lung disease (CLD)",
+    "Transient tachypnoea of the newborn",
+    "Persistent pulmonary hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#e80b4c",
+   "kind": "mcq",
+   "stem": "How long must oxygen dependence last to define bronchopulmonary dysplasia?",
+   "options": [
+    "Less than 7 days",
+    "More than 28 days",
+    "Less than 14 days",
+    "Less than 28 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#660b2c",
+   "kind": "statement",
+   "stem": "In bronchopulmonary dysplasia, what do babies typically need during anaesthesia to reach acceptable SpO2?",
+   "answer": "Higher peak pressures and FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#4949e8",
+   "kind": "mcq",
+   "stem": "What target SpO2 range should guide oxygen limits in preterm babies?",
+   "options": [
+    "93-98%",
+    "80-85%",
+    "86-96%",
+    "98-100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#4949e8",
+   "kind": "mcq",
+   "stem": "What target SpO2 range should guide oxygen limits in term babies?",
+   "options": [
+    "86-96%",
+    "93-98%",
+    "80-85%",
+    "98-100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#eff65a",
+   "kind": "mcq",
+   "stem": "Which site of airway narrowing is common in ex-preterm children?",
+   "options": [
+    "Nasal cavity",
+    "Subglottic",
+    "Oesophageal inlet",
+    "Epiglottic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#ba6626",
+   "kind": "mcq",
+   "stem": "Roughly what share of preterm infants get apnoea of prematurity?",
+   "options": [
+    "Up to 3%",
+    "Up to 30%",
+    "Up to 60%",
+    "Up to 90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#437be5",
+   "kind": "mcq",
+   "stem": "At what post-conceptual age does apnoea of prematurity peak?",
+   "options": [
+    "32 weeks PCA",
+    "44 weeks PCA",
+    "70 weeks PCA",
+    "80 weeks PCA"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#437be5",
+   "kind": "mcq",
+   "stem": "Beyond what post-conceptual age is apnoea of prematurity low risk?",
+   "options": [
+    "Under 36 weeks PCA",
+    "Under 44 weeks PCA",
+    "Under 50 weeks PCA",
+    "Beyond 60 weeks PCA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#587d46",
+   "kind": "statement",
+   "stem": "What counts as an apnoeic episode in an infant?",
+   "answer": "No breathing for over 20 seconds, or a pause with bradycardia or cyanosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#af0da1",
+   "kind": "statement",
+   "stem": "In apnoea of prematurity, which response to CO2 is blunted in the first few weeks of life?",
+   "answer": "Central CO2 response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#0f1cc8",
+   "kind": "mcq",
+   "stem": "Which is a perioperative trigger for apnoea of prematurity?",
+   "options": [
+    "Anaesthetic agents and opioids",
+    "Warm operating theatre",
+    "Normal haematocrit",
+    "Adequate oxygen saturation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#d56937",
+   "kind": "mcq",
+   "stem": "After surgery, when is apnoea of prematurity most common?",
+   "options": [
+    "Days 5 to 7",
+    "Second week",
+    "First 12 hours",
+    "Day 14 onward"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#435eac",
+   "kind": "statement",
+   "stem": "Which preterm infants are at risk of apnoea of prematurity after surgery?",
+   "answer": "Born under 34 weeks and under 60 weeks PCA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#103d0d",
+   "kind": "mcq",
+   "stem": "Which term infants are probably not at risk of apnoea after routine minor surgery without opioids?",
+   "options": [
+    "Term infants under 44 weeks PCA",
+    "Term infants given opioids",
+    "Term infants with anaemia",
+    "Term infants over 44 weeks PCA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#542e9b",
+   "kind": "mcq",
+   "stem": "Which of these is a risk factor for apnoea of prematurity?",
+   "options": [
+    "Warm environment",
+    "Normal blood glucose",
+    "Hypothermia",
+    "Haematocrit above 40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#29c67e",
+   "kind": "mcq",
+   "stem": "What caffeine dose is given after induction in high-risk infants?",
+   "options": [
+    "5 mg/kg IV or oral",
+    "10 mg/kg IV or oral",
+    "20 mg/kg IV or oral",
+    "50 mg/kg IV only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#7fe625",
+   "kind": "mcq",
+   "stem": "How long should a preterm infant under 60 weeks PCA be monitored after general anaesthesia?",
+   "options": [
+    "4 hours",
+    "6 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#061b11",
+   "kind": "statement",
+   "stem": "In apnoea of prematurity, what are the side effects of aminophylline 4 mg/kg IV?",
+   "answer": "Tachycardia, jitteriness, irritability, feed intolerance, vomiting, hyperglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#cee960",
+   "kind": "statement",
+   "stem": "Ex-premature children have a higher risk of which cardiac condition?",
+   "answer": "Other congenital heart disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#f2ea46",
+   "kind": "statement",
+   "stem": "After long ICU stays, what line may an ex-premature child need when IV access is very hard?",
+   "answer": "A PICC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#46eff3",
+   "kind": "mcq",
+   "stem": "Intraventricular haemorrhage in preterm infants can cause which long-term deficits?",
+   "options": [
+    "Coarctation and hypoplastic left heart",
+    "Glaucoma and cataracts",
+    "Cerebral palsy and hydrocephalus",
+    "Hypothyroidism and diabetes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#71efc1",
+   "kind": "mcq",
+   "stem": "What percentage of newborns under 34 weeks PCA may have intraventricular haemorrhage?",
+   "options": [
+    "Up to 5%",
+    "Up to 40%",
+    "Up to 75%",
+    "Up to 95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#1833dd",
+   "kind": "statement",
+   "stem": "Why is intraventricular haemorrhage uncommon in term infants?",
+   "answer": "The germinal matrix starts to involute at 34 weeks PCA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#63d1bb",
+   "kind": "blank",
+   "stem": "A neurological complication of prematurity, PVL is short for periventricular ____.",
+   "answer": "leukomalacia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#757152",
+   "kind": "mcq",
+   "stem": "How does the minimum alveolar concentration (MAC) of preterm infants compare with full-term infants?",
+   "options": [
+    "Higher",
+    "Lower",
+    "The same",
+    "Variable"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#014ec2",
+   "kind": "mcq",
+   "stem": "Compared with term-born children, ex-premature children have a higher risk of which problem?",
+   "options": [
+    "Precocious puberty",
+    "Hyperthyroidism",
+    "Iron overload",
+    "Developmental delay"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#336f74",
+   "kind": "mcq",
+   "stem": "Necrotising enterocolitis is a disease of which group of newborns?",
+   "options": [
+    "Low birth weight preterm infants",
+    "Full-term infants after elective caesarean",
+    "Infants over four kilograms",
+    "Children aged over five years"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#84b76e",
+   "kind": "mcq",
+   "stem": "Preterm infants have a higher risk of which neonatal condition?",
+   "options": [
+    "Neonatal conjunctivitis",
+    "Neonatal hypertension",
+    "Neonatal jaundice",
+    "Neonatal mastitis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#e9d05f",
+   "kind": "statement",
+   "stem": "In preterm infants, which liver component is described as immature?",
+   "answer": "Liver enzyme systems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#9ee3ae",
+   "kind": "mcq",
+   "stem": "Preterm infants are prone to which metabolic problem?",
+   "options": [
+    "Hypercalcaemia",
+    "Hyperkalaemia",
+    "Hypernatraemia",
+    "Hypoglycaemia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#306890",
+   "kind": "statement",
+   "stem": "What state is renal function in preterm infants?",
+   "answer": "Immature",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#99cc66",
+   "kind": "statement",
+   "stem": "In preterm infants, total body water can exceed what percentage of body weight?",
+   "answer": "75%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#99cc66",
+   "kind": "mcq",
+   "stem": "What is the circulating blood volume of a preterm infant?",
+   "options": [
+    "60-70 mL/kg",
+    "90-100 mL/kg",
+    "120-130 mL/kg",
+    "150-160 mL/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#abe686",
+   "kind": "statement",
+   "stem": "What common haematological problem affects preterm infants?",
+   "answer": "Anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#488934",
+   "kind": "mcq",
+   "stem": "In preterm infants with ongoing bleeding or an invasive procedure, what platelet count triggers transfusion?",
+   "options": [
+    "Less than 20k",
+    "Less than 50k",
+    "Less than 100k",
+    "Less than 150k"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#488934",
+   "kind": "statement",
+   "stem": "In preterm infants, after replacing how many blood volumes should platelets be transfused?",
+   "answer": ">1-2 times blood volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#dace7c",
+   "kind": "statement",
+   "stem": "Which clotting tests are commonly prolonged in preterm infants?",
+   "answer": "PT/PTT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#dace7c",
+   "kind": "statement",
+   "stem": "In preterm infants, what is a cause of prolonged PT/PTT?",
+   "answer": "Vitamin K deficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#e5c9a9",
+   "kind": "mcq",
+   "stem": "What are preterm infants' physiological responses to pain described as?",
+   "options": [
+    "Absent",
+    "Immature",
+    "Mature",
+    "Delayed until term"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#ce6101",
+   "kind": "statement",
+   "stem": "What does good analgesia in preterm infants blunt?",
+   "answer": "The stress response and later behavioural change",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#9acee5",
+   "kind": "mcq",
+   "stem": "Retinopathy of prematurity is linked to which two factors?",
+   "options": [
+    "Maternal age and feed volume",
+    "Birth order and sex",
+    "Birth order and parity",
+    "Gestational age and duration of oxygen therapy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#d8df1a",
+   "kind": "statement",
+   "stem": "What SpO2 should be accepted in preterm infants rather than aiming near 100%?",
+   "answer": "SpO2 > 90%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#28d433",
+   "kind": "statement",
+   "stem": "What immune weakness makes preterm infants prone to sepsis?",
+   "answer": "Weaker cellular and tissue immunity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#28d433",
+   "kind": "statement",
+   "stem": "What precaution is needed for invasive procedures in preterm infants?",
+   "answer": "Strict asepsis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#56788a",
+   "kind": "statement",
+   "stem": "Why do preterm infants lose heat more easily?",
+   "answer": "Larger surface area to weight ratio, thin immature skin and little subcutaneous fat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#2b93f5",
+   "kind": "statement",
+   "stem": "Which signs of respiratory distress should you look for preoperatively in a preterm infant?",
+   "answer": "Tachypnoea, grunting, nasal flaring, chest wall recession, cyanosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prematurity#aa1a1c",
+   "kind": "statement",
+   "stem": "What persistent problems does an ex-premature child grown up have?",
+   "answer": "Subglottic stenosis, chronic lung disease, feed intolerance, failure to thrive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

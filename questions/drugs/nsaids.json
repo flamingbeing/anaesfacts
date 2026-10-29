@@ -1,0 +1,595 @@
+{
+ "topic": "drugs/nsaids",
+ "questions": [
+  {
+   "fact_id": "drugs/nsaids#2ada7f",
+   "kind": "mcq",
+   "stem": "Which drug class should be given with NSAIDs to protect the stomach?",
+   "options": [
+    "A loop diuretic",
+    "A proton pump inhibitor",
+    "An antiemetic",
+    "A beta blocker"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#c0f406",
+   "kind": "mcq",
+   "stem": "Which potassium disturbance is a key NSAID caution alongside renal impairment?",
+   "options": [
+    "Hypokalaemia",
+    "Hypocalcaemia",
+    "Hyperkalaemia",
+    "Hypomagnesaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#be105a",
+   "kind": "blank",
+   "stem": "Which NSAIDs are given IV? Diclofenac, ketorolac and ____.",
+   "answer": "parecoxib",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#d04a94",
+   "kind": "mcq",
+   "stem": "Which NSAID class carries a thrombosis risk?",
+   "options": [
+    "Opioid analgesics",
+    "Corticosteroids",
+    "COX-2 inhibitors",
+    "Proton pump inhibitors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#2c86a8",
+   "kind": "mcq",
+   "stem": "Which routes are NSAIDs usually given by?",
+   "options": [
+    "Oral or rectal",
+    "Intrathecal or epidural",
+    "Sublingual or buccal",
+    "Subcutaneous or intramuscular"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#ee3eff",
+   "kind": "mcq",
+   "stem": "What is the dose of mefenamic acid?",
+   "options": [
+    "250 mg TDS",
+    "500 mg BD",
+    "500 mg TDS",
+    "1 g QDS"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#e07d0c",
+   "kind": "mcq",
+   "stem": "What is the rectal dose of diclofenac?",
+   "options": [
+    "10 mg/kg TDS",
+    "1 mg/kg BD",
+    "1 mg/kg TDS",
+    "75 mg BD"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#b39398",
+   "kind": "mcq",
+   "stem": "What is the dose of naproxen?",
+   "options": [
+    "275 mg BD",
+    "550 mg TDS",
+    "500 mg BD",
+    "550 mg BD"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#c9d435",
+   "kind": "blank",
+   "stem": "Ibuprofen is given as 400 mg BD, or ____ TDS PO.",
+   "answer": "10 mg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#ef5ae5",
+   "kind": "mcq",
+   "stem": "What is the IV dose of ketorolac?",
+   "options": [
+    "15 mg 4-hourly IV",
+    "30 mg 6-hourly IV",
+    "15 mg 6-hourly IV",
+    "5 mg 8-hourly IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#564e8a",
+   "kind": "mcq",
+   "stem": "What is the dose of celecoxib?",
+   "options": [
+    "100 mg BD",
+    "200 mg OD",
+    "400 mg BD",
+    "200 mg BD"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#699ff8",
+   "kind": "mcq",
+   "stem": "What is the dose range of etoricoxib?",
+   "options": [
+    "20-40 mg every morning",
+    "60-120 mg BD",
+    "60-120 mg every morning",
+    "200-400 mg BD"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#37702d",
+   "kind": "mcq",
+   "stem": "What is the dose of parecoxib?",
+   "options": [
+    "40 mg PO BD",
+    "20 mg IV BD",
+    "40 mg IV BD",
+    "100 mg IV OD"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#0a5bda",
+   "kind": "mcq",
+   "stem": "Rofecoxib, the first licensed COX-2 inhibitor, was withdrawn in which year?",
+   "options": [
+    "1999",
+    "2004",
+    "2010",
+    "2008"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#a3b8ed",
+   "kind": "mcq",
+   "stem": "What is the daily dose of tenoxicam?",
+   "options": [
+    "10 mg/d",
+    "40 mg/d",
+    "20 mg/d",
+    "7.5 mg/d"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#cb4e71",
+   "kind": "mcq",
+   "stem": "What is the starting daily dose of meloxicam?",
+   "options": [
+    "5 mg/d",
+    "7.5 mg/d",
+    "20 mg/d",
+    "60 mg/d"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#ef639a",
+   "kind": "statement",
+   "stem": "What enzyme do NSAIDs inhibit to reduce prostaglandin and thromboxane synthesis?",
+   "answer": "COX",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#08f478",
+   "kind": "mcq",
+   "stem": "Reduced PGE2 and PGF2α from NSAIDs mainly produces which effect?",
+   "options": [
+    "Bronchodilation",
+    "Anti-inflammatory effect",
+    "Increased diuresis",
+    "Vasodilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#bc4a0b",
+   "kind": "mcq",
+   "stem": "Reduced central prostaglandin from NSAIDs mainly produces which effect?",
+   "options": [
+    "Antipyretic effect",
+    "Bronchoconstriction",
+    "Increased gastric acid",
+    "Mydriasis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#b7cf97",
+   "kind": "statement",
+   "stem": "Why do NSAIDs raise the risk of gastric ulceration?",
+   "answer": "Less gastric mucosal prostaglandin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#1f047b",
+   "kind": "statement",
+   "stem": "Which enzyme do NSAIDs leave uninhibited, so leukotriene production is unchanged?",
+   "answer": "Lipoxygenase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#c17cd0",
+   "kind": "statement",
+   "stem": "What structural difference between COX-1 and COX-2 opens a hydrophobic side pocket?",
+   "answer": "An isoleucine/valine swap",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#83b0b8",
+   "kind": "statement",
+   "stem": "Which constitutive isoenzyme supports renal blood flow and the gastric mucosal barrier?",
+   "answer": "COX-1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#3c3321",
+   "kind": "statement",
+   "stem": "Which central variant of COX-1 may explain how paracetamol reduces pain and fever?",
+   "answer": "COX-3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#8774a6",
+   "kind": "mcq",
+   "stem": "Which COX isoenzyme is induced after tissue injury and drives inflammation?",
+   "options": [
+    "COX-1",
+    "COX-2",
+    "Lipoxygenase",
+    "Thromboxane synthase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#5c53a8",
+   "kind": "statement",
+   "stem": "What are the three gastrointestinal adverse effects of NSAIDs?",
+   "answer": "Dyspepsia, ulceration, haemorrhage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#8fde86",
+   "kind": "mcq",
+   "stem": "For short-term COX-2 inhibitor use of 5–7 days, ulcer rates are similar to which control?",
+   "options": [
+    "Ibuprofen",
+    "Naproxen",
+    "Placebo",
+    "Diclofenac"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#a98b55",
+   "kind": "statement",
+   "stem": "Why can NSAIDs cause acute renal failure, in terms of renal prostaglandins?",
+   "answer": "They remove renal PGE2 and PGI2 that maintain perfusion when vasoconstrictors are high",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#b796dd",
+   "kind": "mcq",
+   "stem": "How does the renal risk of COX-2 inhibitors compare with nsNSAIDs?",
+   "options": [
+    "Much lower",
+    "Similar",
+    "Absent",
+    "Much greater"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#272d7b",
+   "kind": "mcq",
+   "stem": "In NSAID-sensitive asthma, what percentage of asthmatics may be affected?",
+   "options": [
+    "Up to 5%",
+    "Up to 20%",
+    "Up to 50%",
+    "Up to 60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#272d7b",
+   "kind": "statement",
+   "stem": "Which age group is relatively spared in NSAID-sensitive asthma?",
+   "answer": "Children",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#997278",
+   "kind": "mcq",
+   "stem": "Which NSAID class is safe in aspirin-exacerbated respiratory disease?",
+   "options": [
+    "Non-selective NSAIDs",
+    "Aspirin",
+    "COX-2 inhibitors",
+    "Ketorolac"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#32abfe",
+   "kind": "statement",
+   "stem": "Through which mediator do NSAIDs cause reduced platelet aggregation?",
+   "answer": "Thromboxane A2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#831054",
+   "kind": "mcq",
+   "stem": "How long can it take to make new platelets after an NSAID antiplatelet effect?",
+   "options": [
+    "Up to 3 days",
+    "Up to 7 days",
+    "Up to 14 days",
+    "Up to 28 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#dae383",
+   "kind": "statement",
+   "stem": "What is the effect of COX-2 inhibition on platelets, even at high doses?",
+   "answer": "No effect on platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#b1820a",
+   "kind": "mcq",
+   "stem": "Up to what percentage of patients may get raised transaminases after short NSAID courses?",
+   "options": [
+    "Up to 5%",
+    "Up to 50%",
+    "Up to 30%",
+    "Up to 15%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#603b2d",
+   "kind": "statement",
+   "stem": "Which conditions contraindicate COX-2 inhibitors, per the Committee on Safety of Medicines?",
+   "answer": "Ischaemic heart disease, cerebrovascular disease, mild heart failure and peripheral vascular disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#a663a9",
+   "kind": "statement",
+   "stem": "Which cardiovascular risk factors call for careful thought before prescribing NSAIDs?",
+   "answer": "Hypertension, hyperlipidaemia, diabetes, smoking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#70643c",
+   "kind": "mcq",
+   "stem": "Which NSAID is used for gout?",
+   "options": [
+    "Mefenamic acid",
+    "Indomethacin",
+    "Celecoxib",
+    "Naproxen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#fb608e",
+   "kind": "mcq",
+   "stem": "Which NSAID is used for dysmenorrhoea?",
+   "options": [
+    "Parecoxib",
+    "Ketorolac",
+    "Mefenamic acid",
+    "Piroxicam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#547745",
+   "kind": "mcq",
+   "stem": "Which NSAID is used postpartum?",
+   "options": [
+    "Phenylbutazone",
+    "Naproxen",
+    "Ketorolac",
+    "Rofecoxib"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#c14c27",
+   "kind": "mcq",
+   "stem": "Which two NSAIDs are used in children?",
+   "options": [
+    "Ketorolac and piroxicam",
+    "Ibuprofen and diclofenac",
+    "Celecoxib and etoricoxib",
+    "Naproxen and mefenamic acid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#623dbb",
+   "kind": "statement",
+   "stem": "Which NSAID surgical concern is especially relevant to spinal fusion?",
+   "answer": "Bone healing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#174d97",
+   "kind": "mcq",
+   "stem": "From which part of the gut are NSAIDs rapidly absorbed?",
+   "options": [
+    "Stomach",
+    "Small bowel",
+    "Colon",
+    "Oesophagus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#365bf5",
+   "kind": "mcq",
+   "stem": "Which highly protein-bound drug can NSAIDs displace?",
+   "options": [
+    "Paracetamol",
+    "Morphine",
+    "Warfarin",
+    "Digoxin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#9e5fe3",
+   "kind": "mcq",
+   "stem": "Where are NSAIDs mainly metabolised?",
+   "options": [
+    "In the kidney",
+    "In the liver",
+    "In plasma",
+    "In the gut wall"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#5e11c8",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of tenoxicam?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "72 hours",
+    "6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#38f7e7",
+   "kind": "mcq",
+   "stem": "How much more potent against COX-2 is meloxicam quoted as being?",
+   "options": [
+    "10 to 100 times",
+    "1.5 to 2 times",
+    "3 to 50 times",
+    "100 to 1000 times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nsaids#198d3e",
+   "kind": "mcq",
+   "stem": "At 7.5 mg/d, how do meloxicam's GI side effects compare with diclofenac's?",
+   "options": [
+    "More",
+    "Fewer",
+    "About the same",
+    "Much greater"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

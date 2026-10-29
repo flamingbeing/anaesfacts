@@ -1,0 +1,1083 @@
+{
+ "topic": "comorbidities/obstructive-sleep-apnoea",
+ "questions": [
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#0e806d",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea, which two tests follow STOP-BANG screening before surgery?",
+   "answer": "AHI and bicarbonate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#0e806d",
+   "kind": "blank",
+   "stem": "Before surgery in obstructive sleep apnoea, the patient brings their own ____.",
+   "answer": "CPAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#33f61d",
+   "kind": "mcq",
+   "stem": "In children with obstructive sleep apnoea, which induction of anaesthesia is preferred?",
+   "options": [
+    "Inhalational induction",
+    "Oral premedication then induction",
+    "Awake fibreoptic intubation",
+    "Intravenous induction"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#549399",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea, which two parameters are monitored during sedation?",
+   "answer": "SpO2 and EtCO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#140643",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea, how should anaesthetic induction be planned?",
+   "answer": "As for difficult mask ventilation and intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#659602",
+   "kind": "mcq",
+   "stem": "Which short-acting opioid is suggested for maintenance in obstructive sleep apnoea?",
+   "options": [
+    "Morphine",
+    "Methadone",
+    "Buprenorphine",
+    "Remifentanil"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#bceee9",
+   "kind": "statement",
+   "stem": "How should a patient with obstructive sleep apnoea be extubated?",
+   "answer": "Fully awake, sitting, fully reversed, onto CPAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#a3450e",
+   "kind": "statement",
+   "stem": "Which three complications does anaesthesia in obstructive sleep apnoea put a patient at risk of?",
+   "answer": "Difficult airway, airway obstruction, postoperative respiratory dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#eff9de",
+   "kind": "statement",
+   "stem": "After surgery in obstructive sleep apnoea, how should the patient be positioned?",
+   "answer": "Sitting, with or without CPAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#eff9de",
+   "kind": "blank",
+   "stem": "Surgery in obstructive sleep apnoea is planned as a ____ admission.",
+   "answer": "same-day",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#c51378",
+   "kind": "statement",
+   "stem": "Which infusion equipment is needed for remifentanil in obstructive sleep apnoea surgery?",
+   "answer": "TCI pumps",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#c51378",
+   "kind": "blank",
+   "stem": "For obstructive sleep apnoea surgery, book a ____ dependency bed.",
+   "answer": "high",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#9d76a5",
+   "kind": "mcq",
+   "stem": "What AHI value marks severe obstructive sleep apnoea in adults?",
+   "options": [
+    "15",
+    "10",
+    "30",
+    "50"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#9d76a5",
+   "kind": "mcq",
+   "stem": "What AHI value marks severe obstructive sleep apnoea in children?",
+   "options": [
+    "5",
+    "15",
+    "10",
+    "30"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#3cd8c6",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea, when does the pharyngeal airway collapse?",
+   "answer": "When negative inspiratory pressure exceeds the distending pressure of the pharyngeal muscles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#6f3137",
+   "kind": "blank",
+   "stem": "In obstructive sleep apnoea, obstruction is common in ____ sleep.",
+   "answer": "REM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#e85c5d",
+   "kind": "mcq",
+   "stem": "What does complete pharyngeal collapse cause in obstructive sleep apnoea?",
+   "options": [
+    "Snoring",
+    "Hypopnoea",
+    "Apnoea",
+    "Hypoventilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#8125ff",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea, what triggers the arousal that restarts breathing?",
+   "answer": "Increasing effort, hypoxaemia and hypercarbia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#529f3a",
+   "kind": "mcq",
+   "stem": "What does chronic hypoxaemia cause in obstructive sleep apnoea?",
+   "options": [
+    "Anaemia",
+    "Thrombocytosis",
+    "Polycythaemia",
+    "Leucocytosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#0933d1",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea, how does high negative intrathoracic pressure affect the stomach?",
+   "answer": "Promotes reflux from stomach to oesophagus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#7f6081",
+   "kind": "mcq",
+   "stem": "Which condition is strongly linked with obstructive sleep apnoea?",
+   "options": [
+    "Coeliac disease",
+    "Obesity",
+    "Gout",
+    "Hypothermia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#f6cfa9",
+   "kind": "blank",
+   "stem": "Among causes of obstructive sleep apnoea is ____ hypertrophy.",
+   "answer": "Adenotonsillar",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#4245fe",
+   "kind": "blank",
+   "stem": "Among causes of obstructive sleep apnoea are ____ abnormalities.",
+   "answer": "Craniofacial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#9fe286",
+   "kind": "mcq",
+   "stem": "What percentage of sleep apnoea is obstructive, from pharyngeal wall collapse?",
+   "options": [
+    "50%",
+    "15%",
+    "30%",
+    "85%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#e1403c",
+   "kind": "mcq",
+   "stem": "What percentage of sleep apnoea is central, also called obesity hypoventilation syndrome?",
+   "options": [
+    "50%",
+    "30%",
+    "10%",
+    "5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#f1f132",
+   "kind": "mcq",
+   "stem": "Which PaCO2 level in sleep apnoea indicates type II respiratory failure?",
+   "options": [
+    "PaCO2 > 35",
+    "PaCO2 > 45",
+    "PaCO2 > 55",
+    "PaCO2 > 65"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#d2e747",
+   "kind": "statement",
+   "stem": "Why does obesity raise oxygen use and CO2 output in sleep apnoea?",
+   "answer": "Metabolically active fat and the work of carrying weight and breathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#7eae41",
+   "kind": "statement",
+   "stem": "In STOP-BANG, when is snoring counted as loud?",
+   "answer": "Heard through a closed door, or bed partner elbows them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#dd6772",
+   "kind": "mcq",
+   "stem": "Which STOP-BANG item asks about daytime sleepiness?",
+   "options": [
+    "Pressure",
+    "Tired",
+    "Neck circumference",
+    "Observed apnoea"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#ad87cc",
+   "kind": "blank",
+   "stem": "The STOP-BANG item for apnoeas seen by others is ____ apnoea.",
+   "answer": "Observed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#3264a0",
+   "kind": "mcq",
+   "stem": "Which STOP-BANG item covers hypertension?",
+   "options": [
+    "Pressure",
+    "Tired",
+    "Gender",
+    "Age"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#70cbdb",
+   "kind": "mcq",
+   "stem": "In STOP-BANG, which BMI threshold scores a point?",
+   "options": [
+    "BMI >25",
+    "BMI >30",
+    "BMI >35",
+    "BMI >40"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#7a1d1b",
+   "kind": "mcq",
+   "stem": "In STOP-BANG, which age threshold scores a point?",
+   "options": [
+    "Age > 40 years",
+    "Age > 50 years",
+    "Age > 60 years",
+    "Age > 65 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#f10e72",
+   "kind": "mcq",
+   "stem": "In STOP-BANG, which neck circumference scores a point?",
+   "options": [
+    "Neck circumference >35cm",
+    "Neck circumference >40cm",
+    "Neck circumference >45cm",
+    "Neck circumference >50cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#d39c7e",
+   "kind": "statement",
+   "stem": "Which gender scores a point on the STOP-BANG screen?",
+   "answer": "Male",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#91b1ec",
+   "kind": "mcq",
+   "stem": "Which STOP-BANG score range means low risk?",
+   "options": [
+    "3-4",
+    "5 or more",
+    "6-8",
+    "0-2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#a63d07",
+   "kind": "statement",
+   "stem": "What property makes the STOP-BANG 3-4 range good for screening?",
+   "answer": "High sensitivity, low specificity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#62c8ea",
+   "kind": "statement",
+   "stem": "What accuracy does a STOP-BANG score of 5 or more have?",
+   "answer": "Sensitive and specific",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#c4d9ee",
+   "kind": "mcq",
+   "stem": "What does the Epworth Sleepiness Scale measure?",
+   "options": [
+    "Airway collapse pressure",
+    "Subjective daytime sleepiness",
+    "Blood carbon dioxide level",
+    "Oxygen saturation during sleep"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#5f032e",
+   "kind": "blank",
+   "stem": "In obstructive sleep apnoea, the airway is more likely to be ____.",
+   "answer": "difficult",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#2c17bd",
+   "kind": "statement",
+   "stem": "Which cardiovascular problems are associated with obstructive sleep apnoea?",
+   "answer": "Hypertension, arrhythmias, pulmonary hypertension, heart failure, polycythaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#f1a112",
+   "kind": "statement",
+   "stem": "Which neurocognitive effects are linked with obstructive sleep apnoea in children?",
+   "answer": "Lower IQ, poorer memory and learning, bedwetting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#7ce587",
+   "kind": "blank",
+   "stem": "Obstructive sleep apnoea is linked with impaired ____ tolerance.",
+   "answer": "glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#65809e",
+   "kind": "mcq",
+   "stem": "Which gastrointestinal condition is linked with obstructive sleep apnoea?",
+   "options": [
+    "Hepatitis B",
+    "Gallstones",
+    "Reflux disease",
+    "Crohn disease"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#03ed76",
+   "kind": "statement",
+   "stem": "In children with obstructive sleep apnoea, how does severity relate to tonsil size?",
+   "answer": "Severity does not track tonsil size",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#44354f",
+   "kind": "statement",
+   "stem": "Which lifestyle changes are advised for obstructive sleep apnoea?",
+   "answer": "Weight loss, stop smoking and alcohol, more exercise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#49134f",
+   "kind": "mcq",
+   "stem": "Which device is a treatment for obstructive sleep apnoea?",
+   "options": [
+    "Incentive spirometer",
+    "Pulse oximeter",
+    "CPAP",
+    "Holter monitor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#b185a9",
+   "kind": "mcq",
+   "stem": "Which type of device is used to treat obstructive sleep apnoea?",
+   "options": [
+    "Nasal dilator strips",
+    "Mandibular advancement devices",
+    "Oral airways",
+    "Nebulised steroids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#8472cb",
+   "kind": "blank",
+   "stem": "For a new diagnosis of obstructive sleep apnoea, there is ____ evidence that 1-3 months of CPAP before surgery changes outcome.",
+   "answer": "limited",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#a75fcd",
+   "kind": "mcq",
+   "stem": "Which morning symptom is asked about in the history for obstructive sleep apnoea?",
+   "options": [
+    "Morning headache",
+    "Morning nausea",
+    "Morning cough",
+    "Morning jaundice"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#00b3f0",
+   "kind": "blank",
+   "stem": "In the obstructive sleep apnoea examination, check neck circumference and ____ volume.",
+   "answer": "tongue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#140abd",
+   "kind": "statement",
+   "stem": "In suspected obstructive sleep apnoea, what is the alternative to getting a sleep study before surgery?",
+   "answer": "Manage on clinical criteria alone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#a5d032",
+   "kind": "statement",
+   "stem": "In suspected obstructive sleep apnoea, who should be informed of the perioperative implications?",
+   "answer": "Patient, family and surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#9be52b",
+   "kind": "mcq",
+   "stem": "In suspected obstructive sleep apnoea, which blood test checks for polycythaemia?",
+   "options": [
+    "FBC",
+    "U&Es",
+    "LFTs",
+    "Clotting screen"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#8611e3",
+   "kind": "mcq",
+   "stem": "In suspected obstructive sleep apnoea, which test follows resting hypoxia on SpO2?",
+   "options": [
+    "Chest X-ray",
+    "Spirometry",
+    "Arterial blood gas",
+    "Holter monitor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#5efd5b",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea, what should follow an ECG showing right heart strain?",
+   "answer": "Echo to look for RVH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#0f3e7a",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea, what does a normal bicarbonate on baseline ABG make unlikely?",
+   "answer": "OHS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#051c80",
+   "kind": "mcq",
+   "stem": "In obstructive sleep apnoea with heart failure or PaCO2 >50, how long of CPAP before elective surgery?",
+   "options": [
+    "1 month",
+    "2 weeks",
+    "3 months",
+    "6 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#a70486",
+   "kind": "mcq",
+   "stem": "In obstructive sleep apnoea before surgery, what should be considered if CPAP alone is not enough?",
+   "options": [
+    "Tracheostomy",
+    "Oral oxygen",
+    "Incentive spirometry",
+    "NIPPV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#c8ed9b",
+   "kind": "statement",
+   "stem": "Before surgery in obstructive sleep apnoea, which two options should be considered where feasible?",
+   "answer": "Mandibular advancement or oral devices and weight loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#a947e3",
+   "kind": "statement",
+   "stem": "After corrective airway surgery for obstructive sleep apnoea, when should ongoing risk not be assumed?",
+   "answer": "When a sleep study is normal and symptoms have not returned",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#40e662",
+   "kind": "statement",
+   "stem": "Which guidelines should govern airway management in obstructive sleep apnoea?",
+   "answer": "Difficult airway guidelines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#9a4bef",
+   "kind": "blank",
+   "stem": "In obstructive sleep apnoea, avoid ____ premedication.",
+   "answer": "sedative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#9810b1",
+   "kind": "statement",
+   "stem": "For general anaesthesia in obstructive sleep apnoea, which two features should the agents have?",
+   "answer": "Short-acting and opioid-sparing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#870489",
+   "kind": "mcq",
+   "stem": "Which is a risk factor for postoperative respiratory depression in obstructive sleep apnoea?",
+   "options": [
+    "Systemic opioids",
+    "Regional block",
+    "Oxygen therapy",
+    "Warm fluids"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#870489",
+   "kind": "mcq",
+   "stem": "On which postoperative night is REM rebound apnoea most likely in obstructive sleep apnoea?",
+   "options": [
+    "First postoperative night",
+    "Second postoperative night",
+    "Third or fourth postoperative night",
+    "Fifth or sixth postoperative night"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#c30490",
+   "kind": "statement",
+   "stem": "What four areas should be managed after surgery in obstructive sleep apnoea?",
+   "answer": "Analgesia, oxygenation, positioning, monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#538fe1",
+   "kind": "statement",
+   "stem": "After surgery in obstructive sleep apnoea, which other sedatives should be avoided?",
+   "answer": "Benzodiazepines and barbiturates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#6819b3",
+   "kind": "statement",
+   "stem": "After surgery in obstructive sleep apnoea, how long should continuous oxygen be given?",
+   "answer": "Until baseline SpO2 is held on room air",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#ea1697",
+   "kind": "mcq",
+   "stem": "How long in total should a patient with obstructive sleep apnoea be observed in recovery?",
+   "options": [
+    "30mins",
+    "1hr",
+    "2hr",
+    "4hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#ea1697",
+   "kind": "statement",
+   "stem": "In obstructive sleep apnoea recovery, which recurrent events should be watched for?",
+   "answer": "Desaturation, bradypnoea or apnoea, pain-sedation mismatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#6af6f3",
+   "kind": "mcq",
+   "stem": "In obstructive sleep apnoea recovery, if events occur, how much longer should the patient be watched?",
+   "options": [
+    "10mins",
+    "30mins",
+    "1hr",
+    "2hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#2fdfea",
+   "kind": "statement",
+   "stem": "In children with obstructive sleep apnoea, which two preoperative approaches should be avoided?",
+   "answer": "Premedication and inhalational induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#093c7e",
+   "kind": "statement",
+   "stem": "Name three intraoperative points to consider for a child with obstructive sleep apnoea.",
+   "answer": "Possible difficult airway, opioid-sparing approach, extubate awake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#bb39fe",
+   "kind": "statement",
+   "stem": "What postoperative monitoring and level of care is advised for a child with obstructive sleep apnoea?",
+   "answer": "SpO2 monitoring and paediatric high dependency care",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#3377ae",
+   "kind": "mcq",
+   "stem": "Which of these is recorded during a sleep study (polysomnography)?",
+   "options": [
+    "Core body temperature",
+    "Oronasal airflow",
+    "Serum potassium",
+    "Arterial pH"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#b64867",
+   "kind": "statement",
+   "stem": "What are two uses of a sleep study in obstructive sleep apnoea?",
+   "answer": "Grading severity to guide treatment such as CPAP, and preoperative risk stratification",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#6cf5cb",
+   "kind": "mcq",
+   "stem": "In a sleep study, how long must airflow stop to count as an apnoea?",
+   "options": [
+    "Less than 5 seconds",
+    "More than 10 seconds",
+    "More than 20 seconds",
+    "More than 30 seconds"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#5554d2",
+   "kind": "statement",
+   "stem": "In a sleep study, what two features define a hypopnoea?",
+   "answer": "Reduced airflow with desaturation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#72fcfe",
+   "kind": "mcq",
+   "stem": "What does the apnoea-hypopnoea index (AHI) measure?",
+   "options": [
+    "Arousals per hour of sleep",
+    "Apnoeas plus hypopnoeas per hour of sleep",
+    "Desaturations per hour of sleep",
+    "Snoring episodes per night"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#fc1741",
+   "kind": "mcq",
+   "stem": "On an adult sleep study, which AHI is classed as normal?",
+   "options": [
+    "AHI below 5",
+    "AHI 5 to under 15",
+    "AHI 15 to under 30",
+    "AHI 30 or more"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#3ba85b",
+   "kind": "mcq",
+   "stem": "On an adult sleep study, which AHI range is classed as mild?",
+   "options": [
+    "AHI below 5",
+    "AHI 15 to under 30",
+    "AHI 5 to under 15",
+    "AHI 30 or more"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#fd7882",
+   "kind": "mcq",
+   "stem": "On an adult sleep study, which AHI range is classed as moderate?",
+   "options": [
+    "AHI 30 or more",
+    "AHI 15 to under 30",
+    "AHI below 5",
+    "AHI 5 to under 15"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#0674cc",
+   "kind": "mcq",
+   "stem": "On an adult sleep study, which AHI is classed as severe?",
+   "options": [
+    "AHI 15 to under 30",
+    "AHI 5 to under 15",
+    "AHI below 5",
+    "AHI 30 or more"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#6812eb",
+   "kind": "statement",
+   "stem": "In children, what AHI value counts as abnormal on a sleep study?",
+   "answer": "Above 1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#6812eb",
+   "kind": "statement",
+   "stem": "In children, what AHI often prompts referral for treatment?",
+   "answer": "2 or more",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#0130be",
+   "kind": "mcq",
+   "stem": "In young thin patients, why can the respiratory disturbance index (RDI) far exceed the AHI?",
+   "options": [
+    "They spend more time in REM sleep",
+    "They have much higher body weight",
+    "They desaturate by 4% less readily",
+    "They desaturate by 4% more readily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#eb5308",
+   "kind": "statement",
+   "stem": "Which two SpO2 values should a sleep study report?",
+   "answer": "Nadir and mean SpO2 during sleep",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#3dd83a",
+   "kind": "statement",
+   "stem": "What is hypoxaemic burden in a sleep study?",
+   "answer": "Percentage of sleep time spent below a set SpO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#d08597",
+   "kind": "statement",
+   "stem": "What is the oxygen desaturation index (ODI)?",
+   "answer": "Drops per hour of sleep beyond a set fall from baseline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#d08597",
+   "kind": "mcq",
+   "stem": "In a sleep study, what fall in SpO2 is usually used for the ODI?",
+   "options": [
+    "2 percent",
+    "4 percent",
+    "10 percent",
+    "20 percent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#ca89bc",
+   "kind": "mcq",
+   "stem": "What sleep efficiency is normal on a sleep study?",
+   "options": [
+    "40%",
+    "60%",
+    "80%",
+    "100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#62e32e",
+   "kind": "mcq",
+   "stem": "What sleep latency is normal on a sleep study?",
+   "options": [
+    "Over 60 minutes",
+    "Over 90 minutes",
+    "Under 30 minutes",
+    "Over 120 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#62e32e",
+   "kind": "mcq",
+   "stem": "What REM latency is normal on a sleep study?",
+   "options": [
+    "Under 30 min",
+    "60-120 min",
+    "Over 180 min",
+    "5-15 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#e0018e",
+   "kind": "mcq",
+   "stem": "In a normal sleep study, roughly what share of sleep is stage N2?",
+   "options": [
+    "about 5%",
+    "about 20%",
+    "about 50%",
+    "about 75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#dc3079",
+   "kind": "blank",
+   "stem": "In a sleep study, the arousal index is normally below ____, and it varies widely with age.",
+   "answer": "10-25",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#b80612",
+   "kind": "mcq",
+   "stem": "How long must an arousal last to count as an awakening on a sleep study?",
+   "options": [
+    "Longer than 3 seconds",
+    "Longer than 15 seconds",
+    "Longer than 60 seconds",
+    "Longer than 5 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#d686d4",
+   "kind": "statement",
+   "stem": "How do sleep study norms change as people age?",
+   "answer": "Less REM and slow wave sleep, more arousals and wake after sleep onset, lower efficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#1a792a",
+   "kind": "statement",
+   "stem": "Which two EEG abnormalities can a sleep study show?",
+   "answer": "Epileptiform activity and alpha intrusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#2dd34d",
+   "kind": "mcq",
+   "stem": "Which tracheal tube is used for uvulopalatopharyngoplasty (UPPP) anaesthesia?",
+   "options": [
+    "North-facing RAE tube",
+    "Armoured tracheal tube",
+    "South-facing RAE tube",
+    "Preformed nasal RAE tube"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstructive-sleep-apnoea#555d1c",
+   "kind": "mcq",
+   "stem": "Roughly how long does uvulopalatopharyngoplasty (UPPP) usually take?",
+   "options": [
+    "About 15 minutes",
+    "About 30 minutes",
+    "About 6 hours",
+    "A couple of hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

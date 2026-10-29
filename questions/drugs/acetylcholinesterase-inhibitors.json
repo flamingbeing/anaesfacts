@@ -1,0 +1,491 @@
+{
+ "topic": "drugs/acetylcholinesterase-inhibitors",
+ "questions": [
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#e68a9e",
+   "kind": "mcq",
+   "stem": "Why do acetylcholinesterase inhibitors increase the effects of acetylcholine?",
+   "options": [
+    "They block muscarinic receptors directly",
+    "They stop acetylcholine being released",
+    "They slow hydrolysis of acetylcholine by AChE",
+    "They increase acetylcholine synthesis in nerves"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#a09d38",
+   "kind": "statement",
+   "stem": "Acetylcholinesterase inhibitors form three groups by mechanism. What else do these groups match?",
+   "answer": "Duration of action",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#add2da",
+   "kind": "mcq",
+   "stem": "Which substrates does acetylcholinesterase hydrolyse?",
+   "options": [
+    "Acetylcholine only",
+    "Acetylcholine and carbamate esters",
+    "Carbamate esters only",
+    "Atropine and acetylcholine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#1fcbf0",
+   "kind": "mcq",
+   "stem": "Why do carbamate AChE inhibitors last longer than acetylcholine does?",
+   "options": [
+    "Carbamates block muscarinic receptors directly",
+    "Carbamates are cleared unchanged by kidneys",
+    "Acetylcholine binds the enzyme irreversibly",
+    "Carbamylated enzyme is hydrolysed far more slowly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#65c6a4",
+   "kind": "statement",
+   "stem": "What can acetylcholinesterase not do while it is carbamylated?",
+   "answer": "Break down acetylcholine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#b473a3",
+   "kind": "mcq",
+   "stem": "Which of these acetylcholinesterase inhibitors is a nerve agent?",
+   "options": [
+    "Physostigmine",
+    "Sarin",
+    "Edrophonium",
+    "Tacrine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#4e32f1",
+   "kind": "mcq",
+   "stem": "Why are very toxic AChE inhibitors absorbed rapidly through the skin?",
+   "options": [
+    "They are highly protein bound",
+    "They are strongly ionised at body pH",
+    "They are very lipid soluble",
+    "They are rapidly excreted by kidneys"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#806e0e",
+   "kind": "statement",
+   "stem": "What do very toxic AChE inhibitors do to the esteratic site of AChE?",
+   "answer": "Phosphorylate it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#e19f26",
+   "kind": "statement",
+   "stem": "Why is the enzyme complex from very toxic AChE inhibitors hard to reverse, unlike carbamates?",
+   "answer": "It resists both hydrolysis and reactivation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#0d9443",
+   "kind": "statement",
+   "stem": "How does AChE activity recover after poisoning by very toxic AChE inhibitors?",
+   "answer": "By making new enzyme",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#324eb6",
+   "kind": "mcq",
+   "stem": "Besides AChE, which enzyme do very toxic AChE inhibitors also inhibit?",
+   "options": [
+    "Monoamine oxidase",
+    "Carbonic anhydrase",
+    "Adenylate cyclase",
+    "Plasma cholinesterase"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#3edce0",
+   "kind": "statement",
+   "stem": "How does ecothiopate iodide lower intraocular pressure in glaucoma?",
+   "answer": "Contracts the ciliary muscle and opens trabecular meshwork drainage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#2d7ba8",
+   "kind": "statement",
+   "stem": "What condition does toxicity from acetylcholinesterase inhibitors cause?",
+   "answer": "Cholinergic crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#9a6bee",
+   "kind": "mcq",
+   "stem": "What is neostigmine typically used for in anaesthesia?",
+   "options": [
+    "Reversal of depolarising muscle relaxants",
+    "Reversal of non-depolarising muscle relaxants",
+    "Prevention of malignant hyperthermia",
+    "Treatment of postoperative nausea"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#850a19",
+   "kind": "mcq",
+   "stem": "Which AChE inhibitor is used to treat myasthenia gravis?",
+   "options": [
+    "Donepezil",
+    "Rivastigmine",
+    "Pyridostigmine",
+    "Galantamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#850a19",
+   "kind": "mcq",
+   "stem": "Which AChE inhibitor is used to diagnose myasthenia gravis?",
+   "options": [
+    "Pyridostigmine",
+    "Edrophonium",
+    "Neostigmine",
+    "Donepezil"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#ad2cd2",
+   "kind": "blank",
+   "stem": "Physostigmine and ____ are AChE inhibitors used to lower intraocular pressure in glaucoma.",
+   "answer": "ecothiopate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#10050f",
+   "kind": "mcq",
+   "stem": "Donepezil is used for cognitive symptoms of which condition?",
+   "options": [
+    "Myasthenia gravis",
+    "Open-angle glaucoma",
+    "Alzheimer's disease",
+    "Anticholinergic poisoning"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#197118",
+   "kind": "mcq",
+   "stem": "Which drug is an antidote to anticholinergic poisoning?",
+   "options": [
+    "Atropine",
+    "Physostigmine",
+    "Edrophonium",
+    "Sugammadex"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#4c3aa0",
+   "kind": "mcq",
+   "stem": "Which AChE inhibitor is used as an insecticide?",
+   "options": [
+    "Edrophonium",
+    "Physostigmine",
+    "Tacrine",
+    "Malathion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#a2c87c",
+   "kind": "mcq",
+   "stem": "Why do acetylcholinesterase inhibitors cause muscarinic effects?",
+   "options": [
+    "AChE also exists beyond the neuromuscular junction",
+    "They directly stimulate muscarinic receptors",
+    "They block nicotinic receptors at the junction",
+    "They increase acetylcholine synthesis in nerves"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#c4859a",
+   "kind": "statement",
+   "stem": "Which two anticholinergics are given with AChE inhibitors to prevent bradycardia and salivation?",
+   "answer": "Atropine or glycopyrrolate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#4b2d5a",
+   "kind": "mcq",
+   "stem": "Why does tacrine have central effects?",
+   "options": [
+    "It is a quaternary ammonium compound",
+    "It is excreted mainly in bile",
+    "It crosses the blood-brain barrier",
+    "It is highly protein bound"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#f08e79",
+   "kind": "blank",
+   "stem": "Tacrine was used in the USA for the treatment of ____ disease.",
+   "answer": "Alzheimer's",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#4480a6",
+   "kind": "mcq",
+   "stem": "What is the natural source of physostigmine?",
+   "options": [
+    "Foxglove leaf",
+    "Calabar bean",
+    "Opium poppy",
+    "Deadly nightshade"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#eb665b",
+   "kind": "mcq",
+   "stem": "Why does physostigmine cross the blood-brain barrier?",
+   "options": [
+    "It has a quaternary ammonium group",
+    "It is highly protein bound",
+    "It has no quaternary ammonium group",
+    "It is an organophosphate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#ad235b",
+   "kind": "blank",
+   "stem": "Physostigmine is used for anticholinergic toxicity and ____.",
+   "answer": "glaucoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#83f67d",
+   "kind": "mcq",
+   "stem": "What concentration is edrophonium injection supplied at?",
+   "options": [
+    "1 mg/ml",
+    "5 mg/ml",
+    "20 mg/ml",
+    "10 mg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#ad2716",
+   "kind": "mcq",
+   "stem": "What chemical class is edrophonium?",
+   "options": [
+    "Carbamate ester",
+    "Phenolic quaternary amine",
+    "Organophosphate ester",
+    "Tertiary aliphatic amine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#b2b28f",
+   "kind": "mcq",
+   "stem": "What IV dose of edrophonium helps tell myasthenic from cholinergic crisis?",
+   "options": [
+    "1mg",
+    "5mg",
+    "2mg",
+    "20mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#6b2ae6",
+   "kind": "blank",
+   "stem": "In that test, edrophonium may be increased up to ____ if the patient does not deteriorate.",
+   "answer": "10mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#effd51",
+   "kind": "mcq",
+   "stem": "What is the edrophonium dose to reverse competitive neuromuscular block?",
+   "options": [
+    "0.1mg/kg slow IV",
+    "2mg IV bolus",
+    "0.5mg/kg slow IV",
+    "5mg/kg slow IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#effd51",
+   "kind": "statement",
+   "stem": "What must be given before edrophonium to cover its muscarinic effects during reversal?",
+   "answer": "A suitable anticholinergic dose, such as atropine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#1f4659",
+   "kind": "mcq",
+   "stem": "How long does the effect of edrophonium last?",
+   "options": [
+    "30 min",
+    "10 min",
+    "60 min",
+    "90 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#2cfd53",
+   "kind": "mcq",
+   "stem": "Which AChE inhibitor is the only easily reversible one?",
+   "options": [
+    "Sarin",
+    "Malathion",
+    "Edrophonium",
+    "Ecothiopate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#fc43bf",
+   "kind": "statement",
+   "stem": "Besides blocking AChE, what else does edrophonium do at the nerve terminal?",
+   "answer": "Increases acetylcholine release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#251fc9",
+   "kind": "mcq",
+   "stem": "How much less potent than neostigmine is edrophonium?",
+   "options": [
+    "2–4 times",
+    "12–16 times",
+    "50–60 times",
+    "100–120 times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#05c83a",
+   "kind": "statement",
+   "stem": "Edrophonium has few muscarinic effects, but which two can still occur?",
+   "answer": "Bradycardia and salivation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#caf85c",
+   "kind": "statement",
+   "stem": "Why is edrophonium poorly lipid soluble?",
+   "answer": "It is a quaternary amine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#3d54c2",
+   "kind": "mcq",
+   "stem": "What percentage of edrophonium is excreted unchanged in urine?",
+   "options": [
+    "Up to 65%",
+    "Up to 15%",
+    "Up to 35%",
+    "Up to 90%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#3d54c2",
+   "kind": "statement",
+   "stem": "How is the rest of edrophonium, not excreted unchanged in urine, eliminated?",
+   "answer": "Glucuronidated in the liver and excreted in bile",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/acetylcholinesterase-inhibitors#334d75",
+   "kind": "mcq",
+   "stem": "Which statement about cholinesterases and edrophonium is correct?",
+   "options": [
+    "It is rapidly hydrolysed by plasma cholinesterase",
+    "It is hydrolysed only by acetylcholinesterase",
+    "It is hydrolysed in the liver by esterases",
+    "It is not hydrolysed by cholinesterases"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

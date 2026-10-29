@@ -1,0 +1,1411 @@
+{
+ "topic": "comorbidities/copd",
+ "questions": [
+  {
+   "fact_id": "comorbidities/copd#bd719a",
+   "kind": "statement",
+   "stem": "In which patients should COPD be suspected?",
+   "answer": "Long-term smokers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#496c1d",
+   "kind": "statement",
+   "stem": "In COPD, what three aspects should be graded or assessed?",
+   "answer": "Severity (GOLD), control and any active exacerbation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#c1e331",
+   "kind": "statement",
+   "stem": "Name three complications of COPD.",
+   "answer": "Respiratory failure, right heart failure, pneumothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#45d965",
+   "kind": "statement",
+   "stem": "Which airway problem should COPD anaesthesia avoid?",
+   "answer": "Bronchospasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#2a4f52",
+   "kind": "mcq",
+   "stem": "Which ventilator settings help avoid air trapping in COPD?",
+   "options": [
+    "High PEEP, fast rate, short expiratory ratio, high peak pressure",
+    "Low PEEP, slow rate, long expiratory ratio, low peak pressure",
+    "Prolonged inspiratory hold, high PEEP, fast rate",
+    "Fast rate with short expiratory time and high tidal volume"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#4317d0",
+   "kind": "statement",
+   "stem": "In COPD care, what should be done about airway secretions?",
+   "answer": "Suction them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#15224e",
+   "kind": "mcq",
+   "stem": "Which regional block should be avoided in COPD?",
+   "options": [
+    "Axillary block",
+    "Interscalene block",
+    "Femoral block",
+    "Adductor canal block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#15224e",
+   "kind": "statement",
+   "stem": "What analgesic strategy is preferred for COPD surgery?",
+   "answer": "Opioid-sparing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#375ebb",
+   "kind": "statement",
+   "stem": "If a COPD patient is at personal baseline, what should happen to usual inhalers?",
+   "answer": "Continue usual medicines and inhalers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#c1ad1f",
+   "kind": "mcq",
+   "stem": "A COPD patient is not at best and surgery is not urgent. What comes first?",
+   "options": [
+    "Proceed with surgery at once",
+    "Step up treatment first",
+    "Cancel the surgery permanently",
+    "Stop all inhaled therapy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#6c415d",
+   "kind": "statement",
+   "stem": "Which preoperative measure may improve pulmonary outcomes in COPD?",
+   "answer": "Incentive spirometry",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#9184e9",
+   "kind": "statement",
+   "stem": "What should be done with bronchodilators in COPD around surgery?",
+   "answer": "Continue them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#fb48b3",
+   "kind": "mcq",
+   "stem": "When should antibiotics be started in COPD before surgery?",
+   "options": [
+    "If there are pneumonic changes",
+    "Routinely for every COPD patient",
+    "Only if sputum is clear",
+    "Only after postoperative fever"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#f2c0ef",
+   "kind": "statement",
+   "stem": "What should the preoperative history of COPD cover?",
+   "answer": "Cause, course and severity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#ca0df4",
+   "kind": "mcq",
+   "stem": "Until when should long-acting bronchodilators, anticholinergics and inhaled steroids be continued before surgery in COPD?",
+   "options": [
+    "Stop one week before surgery",
+    "Stop 24 hours before surgery",
+    "Until the morning of surgery",
+    "Stop on the day of admission"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#fdc586",
+   "kind": "statement",
+   "stem": "Why should COPD patients be optimised before elective surgery?",
+   "answer": "To reduce morbidity and mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#87c842",
+   "kind": "mcq",
+   "stem": "How is routine pulmonary function testing before COPD surgery viewed?",
+   "options": [
+    "Clearly mandatory for every patient",
+    "Controversial",
+    "Strongly contraindicated",
+    "Proven to cut complications"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#a63515",
+   "kind": "mcq",
+   "stem": "In COPD, what do PFTs and arterial blood gases help predict?",
+   "options": [
+    "Complications after non-thoracic surgery",
+    "Postoperative pain scores",
+    "Function after lung resection",
+    "Need for a regional block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#9a4f06",
+   "kind": "statement",
+   "stem": "Which clinical features predict COPD surgical complications better than spirometry?",
+   "answer": "Smoking, diffuse wheeze and productive cough",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#b76792",
+   "kind": "mcq",
+   "stem": "Does a COPD patient having peripheral surgery need PFTs?",
+   "options": [
+    "Yes, always",
+    "No PFTs needed",
+    "Only if FEV1 is below 50%",
+    "Only with general anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#fe93df",
+   "kind": "statement",
+   "stem": "If unsure, which single test is enough to grade COPD severity?",
+   "answer": "FEV1 alone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#f701f1",
+   "kind": "statement",
+   "stem": "Do 'high-risk' COPD PFTs such as FEV1 below 70% predicted rule out lung resection?",
+   "answer": "No, surgery including lung resection is still acceptable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#5ac601",
+   "kind": "mcq",
+   "stem": "In COPD, what is the main use of PFTs before surgery?",
+   "options": [
+    "Predicting surgical risk",
+    "Deciding whether surgery can go ahead",
+    "Choosing the anaesthetic technique",
+    "Guiding optimisation, not predicting risk"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#f07028",
+   "kind": "blank",
+   "stem": "In COPD, formal pulmonary evaluation is done by a respiratory physician and/or ____.",
+   "answer": "PFTs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#63bd29",
+   "kind": "statement",
+   "stem": "Which COPD finding on air or home oxygen indicates formal pulmonary evaluation?",
+   "answer": "Unexplained hypoxaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#c6f3c1",
+   "kind": "mcq",
+   "stem": "In previously unevaluated COPD, what PCO2 indicates formal pulmonary evaluation?",
+   "options": [
+    "Above 60 mm Hg",
+    "Above 65 mm Hg",
+    "Above 80 mm Hg",
+    "Above 50 mm Hg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#a40e04",
+   "kind": "statement",
+   "stem": "When does previous respiratory failure in COPD indicate formal pulmonary evaluation?",
+   "answer": "When the problem causing it is still present",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#dd8485",
+   "kind": "statement",
+   "stem": "Which symptom from COPD lung disease indicates formal pulmonary evaluation?",
+   "answer": "Severe breathlessness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#f37967",
+   "kind": "statement",
+   "stem": "Which planned COPD operation indicates formal pulmonary evaluation?",
+   "answer": "Pneumonectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#a67e15",
+   "kind": "statement",
+   "stem": "When does lung function in COPD warrant formal pulmonary evaluation?",
+   "answer": "When it is hard to assess clinically",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#c52b51",
+   "kind": "statement",
+   "stem": "Why might formal pulmonary evaluation be needed in COPD?",
+   "answer": "To tell apart causes of significant respiratory compromise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#7ec939",
+   "kind": "statement",
+   "stem": "Which COPD indication for formal pulmonary evaluation involves bronchodilators?",
+   "answer": "Need to test bronchodilator response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#386ba2",
+   "kind": "statement",
+   "stem": "Which suspected condition in COPD indicates formal pulmonary evaluation?",
+   "answer": "Pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#14f5bc",
+   "kind": "statement",
+   "stem": "In advanced COPD, how should right ventricular function be assessed?",
+   "answer": "Clinically and by echo",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#c02db4",
+   "kind": "mcq",
+   "stem": "In COPD testing, what do lung volumes measure?",
+   "options": [
+    "Dynamic lung function",
+    "Cardiac output",
+    "Static lung function",
+    "Blood gas tension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#978b96",
+   "kind": "statement",
+   "stem": "In COPD testing, what is added to a flow-volume curve to make a loop?",
+   "answer": "Inspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#12ab5f",
+   "kind": "mcq",
+   "stem": "Which albumin level strongly predicts postoperative pulmonary complications in COPD?",
+   "options": [
+    "Above 3.5 g/dL",
+    "Below 2.0 g/dL",
+    "Below 3.5 g/dL",
+    "Below 1.5 g/dL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#4c9cb8",
+   "kind": "statement",
+   "stem": "In COPD lung surgery, what does malnutrition raise the risk of?",
+   "answer": "Prolonged air leak",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#069f39",
+   "kind": "statement",
+   "stem": "Why is regional anaesthesia preferred to general anaesthesia in COPD?",
+   "answer": "Avoids laryngospasm, bronchospasm, barotrauma and hypoxaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#90d64c",
+   "kind": "mcq",
+   "stem": "Which surgery in COPD suits regional anaesthesia?",
+   "options": [
+    "Upper abdominal and intrathoracic surgery",
+    "Surgery requiring prolonged controlled ventilation",
+    "Extremity surgery and surgery not entering the peritoneum",
+    "Major open aortic surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#b772ce",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is usual for upper abdominal and intrathoracic surgery in COPD?",
+   "options": [
+    "Spinal anaesthesia",
+    "Peripheral nerve block alone",
+    "General anaesthesia",
+    "Local infiltration only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#52f7be",
+   "kind": "statement",
+   "stem": "Some studies link general anaesthesia in COPD to more postoperative respiratory failure. What is unclear?",
+   "answer": "Whether surgery or the anaesthetic is to blame.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#3bd279",
+   "kind": "mcq",
+   "stem": "Which regional technique carries low pulmonary risk in COPD?",
+   "options": [
+    "Interscalene block",
+    "High thoracic epidural",
+    "Peripheral nerve blocks",
+    "Neuraxial block above T6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#c904d2",
+   "kind": "mcq",
+   "stem": "Which nerve block should be avoided in severe COPD?",
+   "options": [
+    "Femoral nerve block",
+    "Adductor canal block",
+    "Interscalene block",
+    "Popliteal sciatic block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#86d20b",
+   "kind": "blank",
+   "stem": "In COPD, regional anaesthesia is only useful if heavy ____ is not needed.",
+   "answer": "sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#c836a6",
+   "kind": "mcq",
+   "stem": "Above which sensory level should blocks be avoided in COPD?",
+   "options": [
+    "T2",
+    "T10",
+    "T6",
+    "L2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#c836a6",
+   "kind": "statement",
+   "stem": "Why do high sensory blocks in COPD weaken cough?",
+   "answer": "They impair active exhalation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#3f0785",
+   "kind": "mcq",
+   "stem": "In COPD general anaesthesia, what is an alternative to volatile maintenance?",
+   "options": [
+    "Nitrous oxide and oxygen",
+    "Remifentanil infusion alone",
+    "TIVA with propofol",
+    "Midazolam infusion alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#dec231",
+   "kind": "mcq",
+   "stem": "How should nitrous oxide be used in general anaesthesia for COPD?",
+   "options": [
+    "Routinely as the default agent",
+    "Only after extubation",
+    "With great caution",
+    "Without any monitoring change"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#442ad4",
+   "kind": "statement",
+   "stem": "How do volatile agents in COPD increase the need for higher FiO2?",
+   "answer": "They blunt hypoxic pulmonary vasoconstriction, increasing shunt.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#2a6df3",
+   "kind": "statement",
+   "stem": "Why are opioids less suited than volatiles for maintaining COPD anaesthesia?",
+   "answer": "Slow clearance prolongs respiratory depression.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#9f53f4",
+   "kind": "mcq",
+   "stem": "What does an endotracheal tube bypass that affects secretions in COPD?",
+   "options": [
+    "Hypoxic pulmonary vasoconstriction",
+    "Natural humidification",
+    "Expiratory reserve volume",
+    "Opioid-driven respiratory drive"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#1d4195",
+   "kind": "statement",
+   "stem": "In COPD ventilation, what should be avoided to reduce ventilator lung injury risk?",
+   "answer": "Dynamic hyperinflation and auto-PEEP.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#d6cd40",
+   "kind": "mcq",
+   "stem": "What tidal volume range is advised when ventilating COPD patients?",
+   "options": [
+    "4–5 mL/kg",
+    "10–12 mL/kg",
+    "6–8 mL/kg",
+    "15–20 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#d6cd40",
+   "kind": "mcq",
+   "stem": "What peak airway pressure limit should be kept in COPD ventilation?",
+   "options": [
+    "Below 30 cm H2O",
+    "Below 20 cm H2O",
+    "Below 40 cm H2O",
+    "Below 50 cm H2O"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#10e13d",
+   "kind": "blank",
+   "stem": "In moderate to severe COPD, ____ can rupture with positive pressure ventilation.",
+   "answer": "cystic air spaces",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#1c448d",
+   "kind": "statement",
+   "stem": "In COPD, if the patient is unstable on the ventilator, which two complications should be considered?",
+   "answer": "Tension pneumothorax and bronchopleural fistula.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#2a6d52",
+   "kind": "mcq",
+   "stem": "When does air trapping (auto-PEEP) occur in COPD ventilation?",
+   "options": [
+    "Negative pressure with prolonged expiration",
+    "Positive pressure with too little expiratory time",
+    "Spontaneous breathing with a low rate",
+    "Low peak pressure with long inspiration"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#649402",
+   "kind": "mcq",
+   "stem": "Which capnograph finding suggests air trapping in COPD?",
+   "options": [
+    "Square plateau with stable end-tidal CO2",
+    "No plateau and still rising at the next breath",
+    "Abrupt drop to zero each breath",
+    "Steady rise in inspired CO2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#ff568a",
+   "kind": "mcq",
+   "stem": "Which ventilator flow trace finding suggests air trapping in COPD?",
+   "options": [
+    "Expiratory flow returns to zero before each breath",
+    "Inspiratory flow stops before the peak",
+    "Expiratory flow not back to zero before the next breath",
+    "Peak flow falls with each breath"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#344238",
+   "kind": "statement",
+   "stem": "How can intrinsic PEEP be measured to detect air trapping in COPD?",
+   "answer": "An expiratory hold.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#3452eb",
+   "kind": "statement",
+   "stem": "How can air trapping cause serious instability in COPD?",
+   "answer": "By lowering preload.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#4abd1f",
+   "kind": "statement",
+   "stem": "What is the immediate treatment for urgent air trapping in COPD?",
+   "answer": "Disconnect from the ventilator to let the patient exhale fully.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#4abd1f",
+   "kind": "mcq",
+   "stem": "Which ventilator change treats COPD air trapping?",
+   "options": [
+    "Faster rate, shorter expiration",
+    "Higher tidal volume at the same rate",
+    "Slower rate, longer expiration",
+    "Longer inspiration with higher PEEP"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#6c31f6",
+   "kind": "mcq",
+   "stem": "What usually triggers bronchospasm in COPD during anaesthesia?",
+   "options": [
+    "Heavy opioid sedation alone",
+    "Airway manipulation or light anaesthesia",
+    "Low peak airway pressure",
+    "Excess intravenous fluid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#4c3ed4",
+   "kind": "mcq",
+   "stem": "How is routine high FiO2 viewed in COPD oxygen therapy?",
+   "options": [
+    "It is routinely endorsed",
+    "It is required for all patients",
+    "It is only given during induction",
+    "It is questioned"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#bf7c06",
+   "kind": "mcq",
+   "stem": "How does atelectasis in COPD compare between lung units filled with 100% oxygen and air?",
+   "options": [
+    "Slower with 100% oxygen",
+    "Faster with 100% oxygen",
+    "The same with both gases",
+    "Only forms with air"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#702c11",
+   "kind": "statement",
+   "stem": "Which hazard do bullae carry when high airway pressures are needed in COPD?",
+   "answer": "Barotrauma.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#81a171",
+   "kind": "mcq",
+   "stem": "In COPD, how do volatile agents affect spontaneous ventilation compared with normal lungs?",
+   "options": [
+    "They depress it more",
+    "They depress it less",
+    "They have no effect on it",
+    "They stimulate it more"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#2971c7",
+   "kind": "statement",
+   "stem": "In COPD, which lung volume should postoperative care especially keep up?",
+   "answer": "FRC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#7f51f9",
+   "kind": "statement",
+   "stem": "Which postoperative measures reduce complications in high-risk COPD patients?",
+   "answer": "Deep breathing, incentive spirometry, chest physiotherapy and positive pressure techniques.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#03d2ab",
+   "kind": "mcq",
+   "stem": "What does incentive spirometry give a COPD patient after surgery?",
+   "options": [
+    "Continuous airway pressure at night",
+    "Automatic lung volume measurement",
+    "Direct suction of secretions",
+    "A target volume to reach and hold"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#03d2ab",
+   "kind": "statement",
+   "stem": "What is a limitation of incentive spirometry after COPD surgery?",
+   "answer": "It needs patient cooperation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#fdd618",
+   "kind": "mcq",
+   "stem": "In COPD, when is teaching breathing exercises most effective?",
+   "options": [
+    "Only after extubation",
+    "Only on day three",
+    "Before surgery",
+    "After discharge"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#cce4b5",
+   "kind": "statement",
+   "stem": "In COPD after surgery, who should be offered CPAP?",
+   "answer": "Patients who cannot do deep breathing or incentive spirometry.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#ba9003",
+   "kind": "statement",
+   "stem": "What does nasal positive pressure limit after COPD surgery?",
+   "answer": "The expected loss of lung volume.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#280b36",
+   "kind": "mcq",
+   "stem": "In COPD, which analgesia can allow early extubation after surgery?",
+   "options": [
+    "Intravenous paracetamol alone",
+    "Oral codeine alone",
+    "Neuraxial opioids",
+    "Nebulised lidocaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#8a0b18",
+   "kind": "mcq",
+   "stem": "Compared with parenteral opioids, what does neuraxial analgesia do to pneumonia rates in COPD?",
+   "options": [
+    "Raises them",
+    "No effect on them",
+    "Doubles them",
+    "Lowers them"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#458853",
+   "kind": "mcq",
+   "stem": "In COPD, which preoperative values make postoperative ventilation likely?",
+   "options": [
+    "FEV1:FVC above 0.8 before surgery",
+    "PaCO2 below 35 mm Hg before surgery",
+    "FEV1:FVC < 0.5 or PaCO2 > 50 mm Hg before surgery",
+    "Normal spirometry with normal arterial gases"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#debdca",
+   "kind": "mcq",
+   "stem": "How should chronic hypercarbia in COPD be corrected?",
+   "options": [
+    "Rapidly to normal PaCO2 at once",
+    "Within a single hour",
+    "Slowly",
+    "Only with sodium bicarbonate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#debdca",
+   "kind": "statement",
+   "stem": "In COPD, rapid correction of chronic hypercarbia causes which acid-base disturbance?",
+   "answer": "Metabolic alkalosis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#debdca",
+   "kind": "statement",
+   "stem": "What complications can follow rapid correction of chronic hypercarbia in COPD?",
+   "answer": "Arrhythmias, CNS irritability and seizures.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#7617c2",
+   "kind": "mcq",
+   "stem": "What SpO2 target is aimed for in COPD postoperative ventilation?",
+   "options": [
+    "About 80%",
+    "About 100%",
+    "About 96%",
+    "About 90%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#7617c2",
+   "kind": "mcq",
+   "stem": "For COPD postoperative ventilation, what pH range should PaCO2 be targeted to keep?",
+   "options": [
+    "7.25–7.30",
+    "7.35–7.45",
+    "7.50–7.55",
+    "7.20–7.25"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#fdcf6a",
+   "kind": "mcq",
+   "stem": "What does a slower rate or lower I:E ratio give in COPD ventilation?",
+   "options": [
+    "Higher minute ventilation",
+    "Shorter expiratory time",
+    "Lower PEEP requirement",
+    "More time to exhale"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#fdcf6a",
+   "kind": "statement",
+   "stem": "A slower rate or lower I:E ratio can cut minute ventilation in COPD. What does this worsen?",
+   "answer": "Hypercapnia, hypoxia and acidosis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#4fc069",
+   "kind": "mcq",
+   "stem": "After extubation in COPD, which support may reduce air trapping and work of breathing?",
+   "options": [
+    "Face mask oxygen alone",
+    "CPAP or BiPAP",
+    "Room air with no support",
+    "Standard nasal cannula only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#7f87b8",
+   "kind": "mcq",
+   "stem": "Which bronchodilators may help COPD air trapping with a reactive component?",
+   "options": [
+    "Propofol and rocuronium",
+    "Morphine and midazolam",
+    "Salbutamol and ipratropium",
+    "Sodium bicarbonate and calcium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#daa7b9",
+   "kind": "statement",
+   "stem": "For fragile COPD patients after extubation, what may a trial of BiPAP lower?",
+   "answer": "Rate, work of breathing and reintubation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#5015f3",
+   "kind": "statement",
+   "stem": "What does early mobilisation after COPD surgery promote?",
+   "answer": "Deeper breaths, lung expansion and cough.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#bdfb98",
+   "kind": "statement",
+   "stem": "What symptoms should the COPD preoperative history record?",
+   "answer": "Cough, breathlessness and sputum.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#bdfb98",
+   "kind": "mcq",
+   "stem": "Which causes should the COPD preoperative history note?",
+   "options": [
+    "Heart failure, renal failure",
+    "Peptic ulcer, gout",
+    "CF, recurrent infection",
+    "Thyroid disease, anaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#09b1a5",
+   "kind": "statement",
+   "stem": "What does the COPD preoperative examination check beyond SpO2?",
+   "answer": "Chest signs and signs of pulmonary hypertension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#56b9d3",
+   "kind": "mcq",
+   "stem": "How many days of optimisation may COPD patients need before major elective surgery?",
+   "options": [
+    "3-10 days",
+    "1-2 days",
+    "14-21 days",
+    "30-60 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#7acfc4",
+   "kind": "mcq",
+   "stem": "In COPD, by how much should the long-term steroid dose be increased before surgery?",
+   "options": [
+    "5mg",
+    "20mg",
+    "50mg",
+    "10mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#7acfc4",
+   "kind": "statement",
+   "stem": "Which drug is given before surgery in COPD if indicated?",
+   "answer": "Prednisone.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#ef60a0",
+   "kind": "blank",
+   "stem": "For Pseudomonas aeruginosa colonisation in COPD, ____ is combined with ceftazidime or imipenem.",
+   "answer": "gentamicin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#ef60a0",
+   "kind": "mcq",
+   "stem": "Which organism colonisation in COPD calls for ceftazidime or imipenem plus gentamicin?",
+   "options": [
+    "Staphylococcus aureus",
+    "Pseudomonas aeruginosa",
+    "Klebsiella pneumoniae",
+    "Haemophilus influenzae"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#5d843e",
+   "kind": "mcq",
+   "stem": "Which coexisting condition may a COPD patient also have?",
+   "options": [
+    "Psoriasis",
+    "Gout",
+    "Asthma",
+    "Migraine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#8cfa6a",
+   "kind": "statement",
+   "stem": "Which specialist should be involved for full optimisation in COPD?",
+   "answer": "A respiratory physician.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#24b44e",
+   "kind": "blank",
+   "stem": "In COPD optimisation, give maximal bronchodilators as ____.",
+   "answer": "nebulisers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#dd1634",
+   "kind": "mcq",
+   "stem": "What should happen to elective surgery if a COPD patient has an exacerbation?",
+   "options": [
+    "Proceed as planned",
+    "Postpone it",
+    "Bring it forward",
+    "Cancel it permanently"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#8dcc92",
+   "kind": "mcq",
+   "stem": "For COPD surgery, which anaesthetic approach is preferred if possible?",
+   "options": [
+    "Deep sedation alone",
+    "Regional anaesthesia",
+    "Ketamine infusion only",
+    "Inhalational anaesthesia only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#e74caa",
+   "kind": "statement",
+   "stem": "For COPD general anaesthesia needing regular suctioning, what airway is used unless the case is very short?",
+   "answer": "An endotracheal tube.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#6b4b56",
+   "kind": "mcq",
+   "stem": "In COPD surgery, how should the patient be positioned for extubation?",
+   "options": [
+    "Flat supine",
+    "Sitting up",
+    "Head-down tilt",
+    "Left lateral position"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#e895c7",
+   "kind": "mcq",
+   "stem": "When should physiotherapy start after COPD surgery?",
+   "options": [
+    "Straight away",
+    "After discharge",
+    "Only if pneumonia develops",
+    "After one week"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#e968fb",
+   "kind": "mcq",
+   "stem": "How should oxygen be given after COPD surgery?",
+   "options": [
+    "Fixed at 100% always",
+    "Titrated O2",
+    "Stopped on day one",
+    "Given only at extubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#09aca6",
+   "kind": "mcq",
+   "stem": "In COPD postoperative care, for how long should IV antibiotics be given?",
+   "options": [
+    "Single pre-induction dose only",
+    "At least 12 hours",
+    "At least 3 days",
+    "Exactly 14 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#959d6a",
+   "kind": "statement",
+   "stem": "Who should be involved postoperatively in COPD if the team is concerned?",
+   "answer": "A respiratory physician.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#e30270",
+   "kind": "mcq",
+   "stem": "What is the perioperative complication rate in COPD, approximately?",
+   "options": [
+    "Under 1%",
+    "About 10%",
+    "About 25%",
+    "Over 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#282239",
+   "kind": "mcq",
+   "stem": "Which chromosome carries the gene for the faulty CFTR chloride channel?",
+   "options": [
+    "Chromosome 3",
+    "Chromosome 7",
+    "Chromosome 11",
+    "Chromosome 21"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#282239",
+   "kind": "statement",
+   "stem": "In which cells is the faulty CFTR chloride channel found?",
+   "answer": "Epithelial cells.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#46aaa0",
+   "kind": "statement",
+   "stem": "In airway disease, what balance does loss of chloride transport upset to keep mucus thin?",
+   "answer": "Sodium and chloride balance.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#6bfd99",
+   "kind": "blank",
+   "stem": "Thick mucus is ____ cleared by cilia.",
+   "answer": "poorly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#042c26",
+   "kind": "statement",
+   "stem": "In COPD background, which two liver complications can follow obstruction?",
+   "answer": "Biliary cirrhosis, portal hypertension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#6c4dfe",
+   "kind": "statement",
+   "stem": "In the COPD preoperative examination, which nutrition-related findings should be checked?",
+   "answer": "Weight and cachexia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#714b15",
+   "kind": "mcq",
+   "stem": "Which functional assessments are used in COPD preoperative workup?",
+   "options": [
+    "ECG alone",
+    "Chest X-ray alone",
+    "6MWT or CPET",
+    "Serum albumin alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#be575a",
+   "kind": "mcq",
+   "stem": "What should be done about an active chest infection before COPD surgery?",
+   "options": [
+    "Ignore it if afebrile",
+    "Treat only after surgery",
+    "Exclude or treat it",
+    "Proceed with surgery regardless"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#70f48a",
+   "kind": "statement",
+   "stem": "Which chest treatment is advised for COPD patients before surgery?",
+   "answer": "Chest physiotherapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#4740b2",
+   "kind": "mcq",
+   "stem": "Which specialist should a COPD patient be discussed with during optimisation?",
+   "options": [
+    "Dermatologist",
+    "Respiratory physician",
+    "Haematologist",
+    "Renal physician"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#87d0ff",
+   "kind": "mcq",
+   "stem": "Which organ transplants might a COPD patient present for?",
+   "options": [
+    "Kidney or pancreas",
+    "Bone marrow or liver",
+    "Lung or liver",
+    "Cornea or kidney"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#d13a63",
+   "kind": "statement",
+   "stem": "Why should intraoperative opioid use be minimised in COPD?",
+   "answer": "To avoid constipation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#64ca30",
+   "kind": "statement",
+   "stem": "Which ventilation injury is a high risk for COPD patients during anaesthesia?",
+   "answer": "Barotrauma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#5260c8",
+   "kind": "statement",
+   "stem": "In COPD, which volatile agent is chosen because it irritates the airway less?",
+   "answer": "Sevoflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#8d4052",
+   "kind": "statement",
+   "stem": "In COPD airway management, which tube route should be avoided where possible?",
+   "answer": "Nasal tubes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#5727d9",
+   "kind": "statement",
+   "stem": "After surgery in COPD, which complication needs close watch because the risk is higher?",
+   "answer": "Chest infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#1ae234",
+   "kind": "mcq",
+   "stem": "What percentage of COPD patients have malabsorption?",
+   "options": [
+    "20%",
+    "40%",
+    "80%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#b64e57",
+   "kind": "statement",
+   "stem": "After surgery, where might a COPD patient need to be admitted for closer care?",
+   "answer": "HDU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#e4ed8e",
+   "kind": "mcq",
+   "stem": "Which form of postoperative oxygen is advised for COPD patients?",
+   "options": [
+    "Dry O2 via nasal cannula",
+    "Humidified O2",
+    "Dry O2 via face mask",
+    "Pure O2 at 100% by mask"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/copd#155827",
+   "kind": "mcq",
+   "stem": "Postoperative ventilation is advised in COPD if FEV1 falls below what volume?",
+   "options": [
+    "0.5 litre",
+    "1 litre",
+    "2 litres",
+    "3 litres"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

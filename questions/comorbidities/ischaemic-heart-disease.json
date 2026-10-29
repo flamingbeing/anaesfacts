@@ -1,0 +1,1617 @@
+{
+ "topic": "comorbidities/ischaemic-heart-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f4aa7a",
+   "kind": "blank",
+   "stem": "In ischaemic heart disease, key points include cardiovascular risk assessment and ____ elective surgery when needed.",
+   "answer": "delay",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e05ac6",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, which three haemodynamic states should be avoided to balance myocardial supply and demand?",
+   "answer": "Tachycardia, hypertension, hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#073edd",
+   "kind": "blank",
+   "stem": "For ECG monitoring in ischaemic heart disease, the key point is a ____ ECG.",
+   "answer": "5-lead",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#ddd0b6",
+   "kind": "statement",
+   "stem": "Which beta-blocker is kept on standby during cardiostable induction in ischaemic heart disease?",
+   "answer": "Esmolol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#ddd0b6",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, which drug class is used for cardiostable induction?",
+   "answer": "Opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f7138d",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, what sets myocardial oxygen consumption above basal needs?",
+   "options": [
+    "Coronary blood flow",
+    "Myocyte contraction",
+    "Resting heart rate",
+    "Plasma oxygen content"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e79adb",
+   "kind": "statement",
+   "stem": "Name the three determinants of myocardial oxygen demand in ischaemic heart disease.",
+   "answer": "Heart rate, contractility, ventricular wall tension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#13677e",
+   "kind": "mcq",
+   "stem": "Under Laplace's law, how does ventricular wall tension change as wall thickness increases?",
+   "options": [
+    "Rises",
+    "Stays unchanged",
+    "Falls",
+    "Becomes erratic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#13677e",
+   "kind": "mcq",
+   "stem": "Under Laplace's law, which factor raises ventricular wall tension in ischaemic heart disease?",
+   "options": [
+    "Wall thickness",
+    "Blood glucose",
+    "Systolic pressure",
+    "Haemoglobin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#4c2c09",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, what does greater myocardial contractility do to contraction, and what does it cost?",
+   "answer": "Stronger and faster contraction, which costs more energy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e60fad",
+   "kind": "mcq",
+   "stem": "How does perioperative MACE risk change with the severity of ischaemic heart disease?",
+   "options": [
+    "Falls with severity",
+    "Unchanged by severity",
+    "Rises with severity",
+    "Only rises after surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#396637",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, which drug class may patients be taking that matters for anaesthesia?",
+   "answer": "Antiplatelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#2a8887",
+   "kind": "statement",
+   "stem": "Name the three goals of preoperative assessment in ischaemic heart disease.",
+   "answer": "Risk stratification, optimisation, urgency of surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#febad4",
+   "kind": "mcq",
+   "stem": "Which society's angina grading is used in preoperative assessment for ischaemic heart disease?",
+   "options": [
+    "American College of Surgeons",
+    "Canadian Cardiovascular Society",
+    "Royal College of Anaesthetists",
+    "European Society of Cardiology"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#d3effa",
+   "kind": "mcq",
+   "stem": "In the Canadian Cardiovascular Society angina grading, which activity level means ordinary activity does not cause angina?",
+   "options": [
+    "> 4 METS",
+    "2-3 METS",
+    "1-2 METS",
+    "< 1 MET"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#a3e76d",
+   "kind": "mcq",
+   "stem": "In the Canadian Cardiovascular Society angina grading, grade II means slight limitation of ordinary activity at what METS level?",
+   "options": [
+    "5-6 METS",
+    "2-4 METS",
+    "1-2 METS",
+    "< 1 MET"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#dd084c",
+   "kind": "mcq",
+   "stem": "In the Canadian Cardiovascular Society angina grading, grade III means marked limitation of ordinary activity at what METS level?",
+   "options": [
+    "> 4 METS",
+    "2-4 METS",
+    "< 1 MET",
+    "1-2 METS"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#dbc866",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, beyond a standard CVS examination, what should the examination look for?",
+   "answer": "Heart failure signs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#5beb30",
+   "kind": "statement",
+   "stem": "Name the two cardiac biomarkers listed for preoperative investigation in ischaemic heart disease.",
+   "answer": "Troponin, NT-proBNP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#69899a",
+   "kind": "mcq",
+   "stem": "When should stress testing (stress echo, MIBI) be done in high-risk ischaemic heart disease patients?",
+   "options": [
+    "Routinely for all patients",
+    "Only if it will change management",
+    "Only after surgery",
+    "Never in high-risk patients"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#45db83",
+   "kind": "statement",
+   "stem": "Per the 2024 ACC guidance, when may stress testing be considered before elevated-risk surgery in ischaemic heart disease?",
+   "answer": "Poor or unknown functional capacity and elevated risk on a validated tool",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#a897ca",
+   "kind": "mcq",
+   "stem": "Per the 2024 ACC guidance, for which ischaemic heart disease group is stress testing not routinely used?",
+   "options": [
+    "Unknown functional capacity",
+    "Low-risk patients",
+    "Elevated-risk surgery, poor capacity",
+    "Patients with diabetes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#06994f",
+   "kind": "mcq",
+   "stem": "On coronary angiography, what stenosis is significant in a non-left main coronary artery?",
+   "options": [
+    "≥50%",
+    "≥90%",
+    "≥70%",
+    "≥30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#06994f",
+   "kind": "mcq",
+   "stem": "On coronary angiography, what stenosis is significant in the left main coronary artery?",
+   "options": [
+    "≥30%",
+    "≥20%",
+    "≥50%",
+    "≥90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#eb095a",
+   "kind": "mcq",
+   "stem": "On coronary angiography, how is an intermediate 40% to 69% stenosis assessed for significance?",
+   "options": [
+    "Repeat ECG",
+    "FFR or iFR",
+    "Serum troponin",
+    "Chest X-ray"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#142b62",
+   "kind": "mcq",
+   "stem": "What fractional flow reserve (FFR) value means a coronary stenosis is not significant?",
+   "options": [
+    "> 0.5",
+    "> 0.7",
+    "> 0.8",
+    "< 0.6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#0b1630",
+   "kind": "mcq",
+   "stem": "What instantaneous wave-free ratio (iFR) value means a coronary stenosis is not significant?",
+   "options": [
+    ">0.7",
+    "<0.6",
+    ">0.5",
+    ">0.89"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#2d82a4",
+   "kind": "mcq",
+   "stem": "What haemoglobin level should be exceeded before surgery in ischaemic heart disease?",
+   "options": [
+    "10g/dL",
+    "6g/dL",
+    "8g/dL",
+    "12g/dL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e867b0",
+   "kind": "mcq",
+   "stem": "When should coronary revascularisation be done before surgery in ischaemic heart disease?",
+   "options": [
+    "Routinely before all surgery",
+    "Never before surgery",
+    "Only if indicated (e.g. high-risk coronary anatomy)",
+    "Only after surgery is complete"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#890817",
+   "kind": "statement",
+   "stem": "What is the purpose of premedication in ischaemic heart disease?",
+   "answer": "To reduce anxiety",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#4e4da4",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, which drugs should be continued before surgery?",
+   "answer": "All drugs for angina, arrhythmia and heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f221bb",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, when should antiplatelets be continued if bleeding risk is acceptable?",
+   "answer": "MI or CABG within 1 year, or previous PCI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#bc97b7",
+   "kind": "mcq",
+   "stem": "In POISE-2, what did starting aspirin for CAD without PCI or MI do to bleeding?",
+   "options": [
+    "No change in bleeding",
+    "Much less bleeding",
+    "Slightly more bleeding",
+    "Markedly more bleeding"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#bc97b7",
+   "kind": "mcq",
+   "stem": "In POISE-2, what did starting aspirin for CAD without PCI or MI do to death or non-fatal MI?",
+   "options": [
+    "Reduced them",
+    "Increased them",
+    "Did not change them",
+    "Delayed them"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#9206fb",
+   "kind": "statement",
+   "stem": "Which antiplatelet regimen is usually used in ischaemic heart disease patients with recent stents?",
+   "answer": "Dual antiplatelet therapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#5ae95e",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, what is the main risk of stopping antiplatelets early after PCI?",
+   "options": [
+    "Hypokalaemia",
+    "Acute stent thrombosis",
+    "Bradycardia",
+    "Renal failure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#b4231a",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, how long after a bare-metal stent should elective surgery be postponed?",
+   "options": [
+    "1-2wks",
+    "6-12 months",
+    "4-6wks",
+    "12-18 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#b4231a",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, how long after a drug-eluting stent should elective surgery be postponed?",
+   "options": [
+    "2-3wks",
+    "4-6wks",
+    "6-12 months",
+    "18-24 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e6dc4d",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, what should happen to beta-blockers around surgery?",
+   "options": [
+    "Stop 7 days before",
+    "Continue",
+    "Stop on the day of surgery",
+    "Stop after surgery only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e14a63",
+   "kind": "mcq",
+   "stem": "Per 2024 ACC, optimally how many days before surgery should beta-blockers be started?",
+   "options": [
+    "2 days",
+    "more than 7 days",
+    "3 days",
+    "1 day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#3b3b7d",
+   "kind": "mcq",
+   "stem": "Per 2024 ACC, what is the risk of starting beta-blockers on the day of surgery without immediate need?",
+   "options": [
+    "Lower postoperative mortality",
+    "Higher postoperative mortality",
+    "No change in mortality",
+    "Fewer arrhythmias"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#74af5c",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, should calcium channel blockers be continued or stopped before surgery?",
+   "answer": "Continue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#2007ab",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, what usually happens to ACE inhibitors and ARBs before surgery?",
+   "options": [
+    "Always continue",
+    "Usually double the dose",
+    "Usually stop",
+    "Always switch to nitrates"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#44878d",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, when are ACE inhibitors or ARBs restarted after surgery if renal function and BP allow?",
+   "options": [
+    "72hrs",
+    "24hrs",
+    "7 days",
+    "1hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#7f02bb",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, does prophylactic nitrate use reduce cardiac events?",
+   "options": [
+    "It halves cardiac events",
+    "It reduces cardiac events",
+    "It does not reduce cardiac events",
+    "It doubles cardiac events"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#94f3b7",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, why consider stopping diuretics before surgery?",
+   "options": [
+    "Hypovolaemia and hypokalaemia",
+    "Hypertension and hyperkalaemia",
+    "Bradycardia and hypoglycaemia",
+    "Pulmonary oedema and acidosis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f76131",
+   "kind": "statement",
+   "stem": "In ischaemic heart disease, should statins be continued or stopped around surgery?",
+   "answer": "Continue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f69d54",
+   "kind": "mcq",
+   "stem": "Which of these is a statin action in ischaemic heart disease?",
+   "options": [
+    "Lipid lowering and plaque stabilisation",
+    "Increased thrombogenesis",
+    "Raised endothelial stiffness",
+    "Increased inflammation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#001e79",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, what role does prophylactic clonidine have?",
+   "options": [
+    "No role",
+    "Essential for all patients",
+    "First-line for hypotension",
+    "Routine on the morning of surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#8f35dc",
+   "kind": "mcq",
+   "stem": "In POISE-2, what did clonidine do to hypotension in patients with ischaemic heart disease?",
+   "options": [
+    "No change in hypotension",
+    "Less hypotension",
+    "More significant hypotension",
+    "Delayed hypotension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#bf4ab8",
+   "kind": "mcq",
+   "stem": "When is preoperative coronary revascularisation justified in ischaemic heart disease?",
+   "options": [
+    "Only if needed anyway, regardless of surgery",
+    "Whenever elective surgery is planned",
+    "Whenever ECG changes appear",
+    "Only after surgery is complete"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#38d7c5",
+   "kind": "mcq",
+   "stem": "Before which elective surgery is coronary revascularisation considered in ischaemic heart disease?",
+   "options": [
+    "Intermediate- or high-risk noncardiac or vascular surgery",
+    "Low-risk day case surgery",
+    "Emergency laparotomy only",
+    "Cataract surgery under sedation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#8919a5",
+   "kind": "mcq",
+   "stem": "In chronic coronary disease, which left main stenosis is significant enough to consider revascularisation?",
+   "options": [
+    "≥30%",
+    "≥90%",
+    "≥20%",
+    "≥50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#4c6bad",
+   "kind": "mcq",
+   "stem": "Is routine preoperative coronary revascularisation recommended in ischaemic heart disease?",
+   "options": [
+    "Recommended for all patients",
+    "Recommended for elective surgery only",
+    "Not recommended",
+    "Recommended before vascular surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#bcaffa",
+   "kind": "mcq",
+   "stem": "In the CARP trial, what did prophylactic PCI or CABG before major vascular surgery do to 30-day mortality?",
+   "options": [
+    "Reduced it by half",
+    "Did not change it",
+    "Increased it",
+    "Reduced it substantially"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#6ba779",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, which revascularisation gives better outcomes than PCI if surgery is needed within 1 month?",
+   "options": [
+    "CABG",
+    "Balloon angioplasty",
+    "Bare-metal stent",
+    "Drug-eluting stent"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#4f6a60",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, if surgery is urgent, after how many days can surgery follow balloon angioplasty?",
+   "options": [
+    "7 days",
+    "30 days",
+    "14 days",
+    "90 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#dfe406",
+   "kind": "statement",
+   "stem": "What are the three aims of intraoperative management in ischaemic heart disease?",
+   "answer": "Prevent ischaemia, detect and treat it early, manage complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#07f794",
+   "kind": "statement",
+   "stem": "In general anaesthesia for ischaemic heart disease, what should cardiostable induction blunt?",
+   "answer": "The pressor response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f6e036",
+   "kind": "statement",
+   "stem": "In regional anaesthesia for ischaemic heart disease, what is given before the block to prevent hypotension?",
+   "answer": "Fluid preload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#c53ac6",
+   "kind": "mcq",
+   "stem": "How do basic haemodynamics (HR, BP, CVP) perform for detecting ischaemia in ischaemic heart disease?",
+   "options": [
+    "Poor sensitivity and specificity",
+    "High sensitivity and specificity",
+    "Excellent specificity only",
+    "Perfect sensitivity only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#4c41a3",
+   "kind": "mcq",
+   "stem": "For ischaemia detection with a 5-lead ECG in ischaemic heart disease, which two leads are monitored?",
+   "options": [
+    "II and V5",
+    "V1 and V2",
+    "I and aVL",
+    "II and V1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#2d19ba",
+   "kind": "mcq",
+   "stem": "For ischaemia detection in ischaemic heart disease, which ECG lead is the most sensitive?",
+   "options": [
+    "II",
+    "aVR",
+    "V5",
+    "aVF"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#80ca9e",
+   "kind": "mcq",
+   "stem": "With a 5-electrode ECG in ischaemic heart disease, how many leads should be monitored at least?",
+   "options": [
+    "Two",
+    "One",
+    "Three",
+    "Five"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#500ef0",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease monitoring, which lead is used for anterior ischaemia?",
+   "options": [
+    "Lead II",
+    "Lead V1",
+    "Lead V5",
+    "Lead aVF"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#500ef0",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease monitoring, which lead is used for inferior ischaemia and arrhythmias?",
+   "options": [
+    "Lead V5",
+    "Lead II",
+    "Lead V1",
+    "Lead aVR"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#60f15d",
+   "kind": "mcq",
+   "stem": "With a single 3-lead channel in ischaemic heart disease, which lead is most sensitive for left ventricular ischaemia?",
+   "options": [
+    "CM5",
+    "Lead II",
+    "Lead V1",
+    "Lead aVF"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#cf4032",
+   "kind": "statement",
+   "stem": "In CM5 bipolar monitoring for ischaemic heart disease, where is the RA electrode placed?",
+   "answer": "Manubrium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#cf4032",
+   "kind": "mcq",
+   "stem": "In CM5 bipolar monitoring for ischaemic heart disease, where is the LA electrode placed?",
+   "options": [
+    "V5 position",
+    "Manubrium",
+    "Left V1 position",
+    "Right leg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#318a4b",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease ECG monitoring, what percentage of events do leads II plus V5 detect?",
+   "options": [
+    "75%",
+    "50%",
+    "86%",
+    "96%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#318a4b",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease ECG monitoring, at what fall in coronary flow do changes appear?",
+   "options": [
+    "25%",
+    "75%",
+    "10%",
+    "50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#c8cbae",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, which monitoring modality is the most sensitive for detecting ischaemia?",
+   "options": [
+    "Five-lead ECG",
+    "Transoesophageal echocardiography",
+    "Basic haemodynamics",
+    "PA catheter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#002789",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, what is the earliest sign of ischaemia on monitoring?",
+   "options": [
+    "ST depression on ECG",
+    "New regional wall motion abnormality",
+    "Rising heart rate",
+    "Falling CVP"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#002789",
+   "kind": "mcq",
+   "stem": "How much more sensitive is new regional wall motion abnormality than ECG for detecting ischaemia?",
+   "options": [
+    "2x",
+    "10x",
+    "4x",
+    "Equally sensitive"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#002789",
+   "kind": "mcq",
+   "stem": "At what fall in coronary flow does new regional wall motion abnormality appear in ischaemic heart disease?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#be9804",
+   "kind": "blank",
+   "stem": "In IHD, besides ECG, one method for detecting myocardial ischaemia is radiolabelled ____.",
+   "answer": "lactate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#c1ef8f",
+   "kind": "mcq",
+   "stem": "Which ECG monitoring is used to detect ischaemia during anaesthesia for IHD?",
+   "options": [
+    "3-lead ECG only",
+    "5-lead ECG",
+    "Pulse oximetry alone",
+    "Capnography alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#a8e230",
+   "kind": "mcq",
+   "stem": "What heart rate goal is advised for a patient with IHD under anaesthesia?",
+   "options": [
+    "80 to 100 bpm",
+    "60 to 80 bpm",
+    "100 to 120 bpm",
+    "120 to 140 bpm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#908b1c",
+   "kind": "mcq",
+   "stem": "In coronary physiology in IHD, what share of coronary flow occurs in diastole?",
+   "options": [
+    "30 to 40 percent",
+    "50 to 60 percent",
+    "70 to 80 percent",
+    "90 to 100 percent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#908b1c",
+   "kind": "statement",
+   "stem": "In IHD, how does diastolic time change as heart rate rises?",
+   "answer": "It shortens non-linearly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#de90a6",
+   "kind": "mcq",
+   "stem": "In IHD under anaesthesia, what is the first response to HR above 80 bpm from pain or light anaesthesia?",
+   "options": [
+    "Give atropine",
+    "Give opioid or deepen anaesthesia",
+    "Give a fluid bolus",
+    "Give glyceryl trinitrate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#26bda1",
+   "kind": "mcq",
+   "stem": "In IHD under anaesthesia, how close should blood pressure stay to baseline?",
+   "options": [
+    "within 5 percent of baseline",
+    "within 20 percent of baseline",
+    "within 40 percent of baseline",
+    "within 60 percent of baseline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#1c66a2",
+   "kind": "mcq",
+   "stem": "When treating hypotension in IHD, what mean arterial pressure range is targeted?",
+   "options": [
+    "60 to 70 mmHg",
+    "75 to 95 mmHg",
+    "100 to 120 mmHg",
+    "110 to 130 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#1c66a2",
+   "kind": "mcq",
+   "stem": "When treating hypotension in IHD, what diastolic pressure range is targeted?",
+   "options": [
+    "45 to 55 mmHg",
+    "65 to 85 mmHg",
+    "85 to 105 mmHg",
+    "100 to 120 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#26b8f7",
+   "kind": "statement",
+   "stem": "In IHD anaesthesia, which type of haemodynamic surge should be avoided?",
+   "answer": "Sympathetic surges",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#bbf7b1",
+   "kind": "statement",
+   "stem": "In IHD anaesthesia, which volume state is the goal, defined by normal LV end-diastolic volume?",
+   "answer": "Euvolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#919b1a",
+   "kind": "mcq",
+   "stem": "What SpO2 should supplemental oxygen aim for in IHD under anaesthesia?",
+   "options": [
+    "≥85 percent",
+    "≥90 percent",
+    "≥95 percent",
+    "≥98 percent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#769203",
+   "kind": "mcq",
+   "stem": "What haemoglobin threshold for transfusion applies to stable IHD?",
+   "options": [
+    "6 g/dL",
+    "8 g/dL",
+    "10 g/dL",
+    "12 g/dL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#769203",
+   "kind": "mcq",
+   "stem": "What haemoglobin threshold for transfusion applies after recent MI or unstable angina?",
+   "options": [
+    "7 g/dL",
+    "9 g/dL",
+    "11 g/dL",
+    "13 g/dL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#c66ef4",
+   "kind": "statement",
+   "stem": "In IHD anaesthesia, why is normothermia a goal?",
+   "answer": "It aids oxygen release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#c66ef4",
+   "kind": "statement",
+   "stem": "In IHD anaesthesia, how does shivering affect the heart?",
+   "answer": "Raises demand and can cause ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#7b1551",
+   "kind": "mcq",
+   "stem": "In IHD anaesthesia, what potassium range should be aimed for?",
+   "options": [
+    "3-3.5",
+    "4-4.5",
+    "5-5.5",
+    "6-6.5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#7b1551",
+   "kind": "statement",
+   "stem": "In IHD anaesthesia, which two states should be avoided to keep homeostasis?",
+   "answer": "Hypercarbia and acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#c5827b",
+   "kind": "mcq",
+   "stem": "In IHD, at which epidural level does coronary vasodilation occur?",
+   "options": [
+    "Lumbar",
+    "Thoracic",
+    "Sacral",
+    "Cervical"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#c5827b",
+   "kind": "statement",
+   "stem": "How does epidural analgesia affect preload and afterload in IHD?",
+   "answer": "Lowers both",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#52db6b",
+   "kind": "mcq",
+   "stem": "Which epidural complication in IHD is caused by sympathetic blockade?",
+   "options": [
+    "Epidural haematoma",
+    "Sympathectomy hypotension",
+    "Respiratory depression",
+    "Epidural abscess"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#52f0bd",
+   "kind": "mcq",
+   "stem": "After IHD surgery, where should a patient who needs haemodynamic monitoring go?",
+   "options": [
+    "General ward",
+    "High dependency unit",
+    "Day surgery unit",
+    "Outpatient clinic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#4b6e39",
+   "kind": "mcq",
+   "stem": "After surgery in high-risk IHD patients, which test is used for surveillance?",
+   "options": [
+    "Serum lactate",
+    "Troponin",
+    "Serum amylase",
+    "Serum ferritin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#b1d716",
+   "kind": "statement",
+   "stem": "After IHD surgery, which three parameters should be maintained?",
+   "answer": "Blood pressure, SpO2 and haemoglobin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#509c4b",
+   "kind": "mcq",
+   "stem": "After IHD surgery, when should antiplatelet drugs be restarted?",
+   "options": [
+    "After one week",
+    "Only after discharge home",
+    "As soon as possible",
+    "After one month"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#826bc9",
+   "kind": "mcq",
+   "stem": "With high suspicion of perioperative MI, which investigations are needed?",
+   "options": [
+    "Chest X-ray and D-dimer",
+    "12-lead ECG and troponin",
+    "CT coronary angiogram alone",
+    "Serum lactate alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#61df21",
+   "kind": "mcq",
+   "stem": "What ASA physical status applies to a patient with a coronary stent?",
+   "options": [
+    "ASA 1",
+    "ASA 2",
+    "ASA 3",
+    "ASA 4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#85c732",
+   "kind": "mcq",
+   "stem": "Within what period after coronary stent implantation is risk highest?",
+   "options": [
+    "Less than 6 weeks",
+    "6 to 12 weeks",
+    "3 to 6 months",
+    "1 to 2 years"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#85c732",
+   "kind": "mcq",
+   "stem": "What MACE rate applies in the first 6 weeks after coronary stent implantation?",
+   "options": [
+    "1–5%",
+    "5–30%",
+    "30–60%",
+    "60–90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#d4f5b0",
+   "kind": "statement",
+   "stem": "How long should elective surgery be delayed after a coronary stent?",
+   "answer": "At least 30 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#260b38",
+   "kind": "mcq",
+   "stem": "After coronary stenting, when is stent thrombosis risk highest?",
+   "options": [
+    "The first month",
+    "Months 3 to 6",
+    "Years 1 to 2",
+    "After 5 years"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#2498f8",
+   "kind": "mcq",
+   "stem": "In chronic coronary syndromes, how long is DAPT usually continued after a stent?",
+   "options": [
+    "1 month",
+    "12 months",
+    "6 months",
+    "3 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#2498f8",
+   "kind": "mcq",
+   "stem": "In acute coronary syndrome, how long is DAPT usually continued after a stent?",
+   "options": [
+    "3 months",
+    "6 months",
+    "12 months",
+    "24 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f4b209",
+   "kind": "mcq",
+   "stem": "After ACS stenting, how long should elective surgery be delayed (AHA 2024)?",
+   "options": [
+    ">3 months",
+    ">6 months",
+    ">12 months",
+    ">24 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f4b209",
+   "kind": "mcq",
+   "stem": "After ACS stenting, what is the AHA 2024 threshold for time-sensitive surgery after cardiology MDT?",
+   "options": [
+    ">1 month",
+    ">3 months",
+    ">6 months",
+    ">12 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#f00a1f",
+   "kind": "mcq",
+   "stem": "In chronic coronary disease after a stent, how long should elective surgery be delayed (AHA 2024)?",
+   "options": [
+    ">1 month",
+    ">3 months",
+    ">6 months",
+    ">24 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#3397dd",
+   "kind": "statement",
+   "stem": "After a bare-metal stent, what delay is the minimum before elective surgery?",
+   "answer": "30 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#3397dd",
+   "kind": "statement",
+   "stem": "After a bare-metal stent, what delay before elective surgery is preferred?",
+   "answer": "90 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#27b8a3",
+   "kind": "statement",
+   "stem": "How long should surgery be delayed after balloon angioplasty?",
+   "answer": "14 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e74018",
+   "kind": "mcq",
+   "stem": "Which bridging option is offered as an alternative for stented patients needing surgery?",
+   "options": [
+    "Warfarin alone",
+    "Tirofiban plus heparin",
+    "Enoxaparin alone",
+    "Rivaroxaban alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e74018",
+   "kind": "mcq",
+   "stem": "When bridging with tirofiban before surgery, how long before surgery should it be stopped?",
+   "options": [
+    "2hr",
+    "6hr",
+    "12hr",
+    "24hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#ad8750",
+   "kind": "statement",
+   "stem": "How long should elective surgery wait after a drug-eluting stent (DES)?",
+   "answer": "At least 1 year",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#cb3a2b",
+   "kind": "statement",
+   "stem": "What is the minimum DAPT duration after a bare-metal stent?",
+   "answer": "6 weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#2a1e35",
+   "kind": "mcq",
+   "stem": "If DAPT must be stopped after a stent, which antiplatelet should be kept?",
+   "options": [
+    "Clopidogrel",
+    "Aspirin",
+    "Ticagrelor",
+    "Prasugrel"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#92d290",
+   "kind": "statement",
+   "stem": "Is stent thrombosis confined to the early vulnerable window after stenting?",
+   "answer": "No, it can happen at any time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#83b00a",
+   "kind": "statement",
+   "stem": "After stenting, what should be done in the vulnerable period if antiplatelets were stopped?",
+   "answer": "Monitor closely",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#926e60",
+   "kind": "statement",
+   "stem": "When is platelet transfusion most effective for bleeding on antiplatelet drugs?",
+   "answer": "Once the drug has cleared",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#49bef1",
+   "kind": "mcq",
+   "stem": "After clopidogrel, how long after the last dose can platelets first be given?",
+   "options": [
+    "1 hour",
+    "4 hours",
+    "12 hours",
+    "48 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#49bef1",
+   "kind": "mcq",
+   "stem": "After clopidogrel, at what time after the last dose is platelet transfusion most effective?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "48 hours",
+    "72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#beb825",
+   "kind": "statement",
+   "stem": "What do ASRA and European guidance say about neuraxial anaesthesia on DAPT?",
+   "answer": "They are conservative and discourage it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#e284d2",
+   "kind": "statement",
+   "stem": "For neuraxial catheters, at which two points does haematoma risk apply?",
+   "answer": "Insertion and removal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#8697f0",
+   "kind": "mcq",
+   "stem": "What ECG monitoring should a patient with a coronary stent have under anaesthesia?",
+   "options": [
+    "Intermittent 12-lead ECG only",
+    "Continuous ECG with ST analysis",
+    "Pulse oximetry only",
+    "Capnography only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#8697f0",
+   "kind": "statement",
+   "stem": "If angina occurs during anaesthesia in a stented patient, what is needed?",
+   "answer": "Urgent assessment for MI and cardiology review",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#124326",
+   "kind": "mcq",
+   "stem": "How many high-risk beta-blocker-naive patients were in the POISE trial?",
+   "options": [
+    "3351",
+    "8351",
+    "8531",
+    "9351"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#124326",
+   "kind": "mcq",
+   "stem": "In the POISE trial, what was high-dose metoprolol compared with?",
+   "options": [
+    "Atenolol",
+    "Placebo",
+    "Bisoprolol",
+    "Usual care alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#d8565f",
+   "kind": "mcq",
+   "stem": "In POISE, by how much did high-dose metoprolol reduce non-fatal MI?",
+   "options": [
+    "16%",
+    "26%",
+    "36%",
+    "46%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#92221e",
+   "kind": "mcq",
+   "stem": "In POISE, by how much did 30-day all-cause mortality rise with high-dose metoprolol?",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#92221e",
+   "kind": "mcq",
+   "stem": "In POISE, by how much did stroke rise with high-dose metoprolol?",
+   "options": [
+    "26%",
+    "30%",
+    "50%",
+    "100%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/ischaemic-heart-disease#92221e",
+   "kind": "statement",
+   "stem": "In POISE, what mainly explained the rise in mortality and stroke?",
+   "answer": "Bleeding and hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

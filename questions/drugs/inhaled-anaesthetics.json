@@ -1,0 +1,961 @@
+{
+ "topic": "drugs/inhaled-anaesthetics",
+ "questions": [
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#df620b",
+   "kind": "blank",
+   "stem": "The inhaled anaesthetic group includes nitrous oxide and volatile halogenated ____.",
+   "answer": "ethers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#329aa8",
+   "kind": "statement",
+   "stem": "What three advantages do volatile inhaled anaesthetics allow?",
+   "answer": "Fast induction, easy titration during the case and fast emergence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#8d29c9",
+   "kind": "blank",
+   "stem": "Volatile anaesthetics mainly act by ____ enhancement.",
+   "answer": "GABA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#c9fc67",
+   "kind": "mcq",
+   "stem": "Besides GABA, which receptors do volatile anaesthetics interact with?",
+   "options": [
+    "Dopamine D2 and histamine H1 receptors",
+    "NMDA and acetylcholine receptors",
+    "Beta-1 adrenergic and muscarinic M3 receptors",
+    "Cannabinoid CB1 and opioid kappa receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#0dc19b",
+   "kind": "mcq",
+   "stem": "Which volatile is least soluble in blood and tissue, giving the fastest titration and recovery?",
+   "options": [
+    "Halothane",
+    "Isoflurane",
+    "Desflurane",
+    "Sevoflurane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#430655",
+   "kind": "mcq",
+   "stem": "What term describes the time for an inhaled agent to fall by 90% after stopping?",
+   "options": [
+    "Onset",
+    "Offset",
+    "Induction time",
+    "Emergence time"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#abff33",
+   "kind": "mcq",
+   "stem": "Which volatile has the fastest and most consistent offset whatever the case length?",
+   "options": [
+    "Halothane",
+    "Sevoflurane",
+    "Desflurane",
+    "Isoflurane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#abff33",
+   "kind": "mcq",
+   "stem": "Desflurane offset stays consistent across case lengths, within what range of minutes?",
+   "options": [
+    "15–30 mins",
+    "5–14 mins",
+    "30–60 mins",
+    "2–5 mins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#bc1b9d",
+   "kind": "mcq",
+   "stem": "In long cases, sevoflurane's offset approaches that of which agent, due to tissue accumulation?",
+   "options": [
+    "Desflurane",
+    "Halothane",
+    "Isoflurane",
+    "Nitrous oxide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#bc1b9d",
+   "kind": "mcq",
+   "stem": "Sevoflurane gives a quick offset in cases lasting what duration?",
+   "options": [
+    "More than 2 hours",
+    "Less than 2 hours",
+    "More than 6 hours",
+    "More than 12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#bd11ef",
+   "kind": "mcq",
+   "stem": "Which ICU device delivers a volatile agent to produce bronchodilation?",
+   "options": [
+    "Propofol TCI pump",
+    "Bispectral index monitor",
+    "AnaConDa",
+    "Intra-aortic balloon pump"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#662e55",
+   "kind": "statement",
+   "stem": "Which two inhaled agents have the worst greenhouse warming effect?",
+   "answer": "Desflurane and nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#662e55",
+   "kind": "mcq",
+   "stem": "Compared with propofol, what greenhouse warming effect do volatile anaesthetics have?",
+   "options": [
+    "Smaller",
+    "Greater",
+    "Identical",
+    "Negligible"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#a4e72c",
+   "kind": "statement",
+   "stem": "Which two properties lead to cardiovascular depression with volatile anaesthetics?",
+   "answer": "Lower contractility and lower SVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#f8f4e6",
+   "kind": "statement",
+   "stem": "Which volatile anaesthetic can cause tachycardia?",
+   "answer": "Desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#f0f235",
+   "kind": "statement",
+   "stem": "With desflurane, sevoflurane and isoflurane, what mainly causes the fall in MAP?",
+   "answer": "Lower SVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#772dab",
+   "kind": "statement",
+   "stem": "Which volatile is more arrhythmogenic than sevoflurane and desflurane?",
+   "answer": "Isoflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#b1d18c",
+   "kind": "statement",
+   "stem": "Which volatile is contraindicated in congenital long QT syndrome?",
+   "answer": "Sevoflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#7566e7",
+   "kind": "statement",
+   "stem": "Which volatile anaesthetic causes sympathetic stimulation?",
+   "answer": "Desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#7ad167",
+   "kind": "statement",
+   "stem": "Prior volatile exposure may protect the heart from later ischaemia and reperfusion through which effect?",
+   "answer": "Ischaemic preconditioning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#13f2ed",
+   "kind": "mcq",
+   "stem": "Which respiratory effect do volatile anaesthetics commonly cause?",
+   "options": [
+    "Bronchoconstriction",
+    "Increased minute ventilation",
+    "Respiratory depression",
+    "Hyperventilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#7a5f03",
+   "kind": "statement",
+   "stem": "Which volatile anaesthetic does not cause bronchodilation?",
+   "answer": "Desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#d4ba51",
+   "kind": "mcq",
+   "stem": "At what concentration does desflurane cause laryngospasm and coughing?",
+   "options": [
+    "Above 1%",
+    "Above 3%",
+    "Above 6%",
+    "Above 10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#a8b6b2",
+   "kind": "mcq",
+   "stem": "How do volatile anaesthetics change cerebral oxygen consumption?",
+   "options": [
+    "Higher cerebral oxygen consumption",
+    "Unchanged cerebral oxygen consumption",
+    "Lower cerebral oxygen consumption",
+    "Erratic cerebral oxygen consumption"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#597db0",
+   "kind": "mcq",
+   "stem": "As the dose rises, how do volatile anaesthetics affect cerebral autoregulation?",
+   "options": [
+    "Enhanced autoregulation, causing vasoconstriction",
+    "Loss of autoregulation, causing vasodilation",
+    "No effect on autoregulation",
+    "Loss of autoregulation, causing vasoconstriction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#1fc7e8",
+   "kind": "mcq",
+   "stem": "Volatile anaesthetics keep cerebral autoregulation adequately preserved at what concentration?",
+   "options": [
+    "Above 1 MAC",
+    "Above 2 MAC",
+    "Above 1.5 MAC",
+    "Below 1 MAC"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#4fe48b",
+   "kind": "mcq",
+   "stem": "Above 1 MAC, what happens to cerebral blood flow and ICP with volatile anaesthetics?",
+   "options": [
+    "Both decrease",
+    "Both increase",
+    "CBF rises, ICP falls",
+    "CBF falls, ICP rises"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#45c5be",
+   "kind": "mcq",
+   "stem": "Which intervention reverses volatile-induced cerebral vasodilation?",
+   "options": [
+    "Hypoventilation",
+    "Raising the volatile dose",
+    "Hyperventilation",
+    "Raising blood pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#b5c490",
+   "kind": "statement",
+   "stem": "Which inhaled anaesthetic is not a malignant hyperthermia trigger?",
+   "answer": "Nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#b8b490",
+   "kind": "mcq",
+   "stem": "What dose-related effect do volatile anaesthetics have on uterine contractility in obstetrics?",
+   "options": [
+    "Dose-dependent rise in uterine contractility",
+    "Dose-dependent fall in uterine contractility",
+    "No change in uterine contractility",
+    "Dose-dependent fall in fetal heart rate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#df0c22",
+   "kind": "mcq",
+   "stem": "With desiccated CO2 absorbents, which agents can produce carbon monoxide?",
+   "options": [
+    "Only desflurane",
+    "Only halothane",
+    "All volatile agents",
+    "Only sevoflurane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#760dfe",
+   "kind": "mcq",
+   "stem": "How does metabolism of volatile anaesthetics compare with the amount exhaled?",
+   "options": [
+    "Much more is removed by metabolism",
+    "About equal amounts",
+    "Much less is removed by metabolism",
+    "Metabolism removes all of it"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#5520bb",
+   "kind": "mcq",
+   "stem": "Volatile anaesthetics are metabolised mainly by which enzymes in the liver and kidney?",
+   "options": [
+    "Plasma cholinesterase",
+    "Microsomal enzymes",
+    "Lysosomal enzymes",
+    "Mitochondrial enzymes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#fa86e5",
+   "kind": "mcq",
+   "stem": "What approximate percentage of an inhaled dose of halothane is metabolised?",
+   "options": [
+    "10%",
+    "2.5%",
+    "25%",
+    "0.2%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#e74f5e",
+   "kind": "mcq",
+   "stem": "What approximate percentage of an inhaled dose of sevoflurane is metabolised?",
+   "options": [
+    "10%",
+    "1%",
+    "5%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#7a7aed",
+   "kind": "mcq",
+   "stem": "What approximate percentage of an inhaled dose of enflurane is metabolised?",
+   "options": [
+    "25%",
+    "0.2%",
+    "2.5%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#dd7b33",
+   "kind": "mcq",
+   "stem": "What approximate percentage of an inhaled dose of isoflurane is metabolised?",
+   "options": [
+    "0.02%",
+    "5%",
+    "25%",
+    "0.2%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#46f009",
+   "kind": "mcq",
+   "stem": "What approximate percentage of an inhaled dose of desflurane is metabolised?",
+   "options": [
+    "5%",
+    "0.2%",
+    "0.02%",
+    "25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#09bad8",
+   "kind": "statement",
+   "stem": "Which enzyme breaks carbon–halogen bonds during volatile metabolism?",
+   "answer": "Hepatic cytochrome P450 (CYP2E1)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#09bad8",
+   "kind": "mcq",
+   "stem": "Halide ions released by volatile metabolism may damage which organs?",
+   "options": [
+    "Lung or heart",
+    "Liver or kidney",
+    "Brain or spleen",
+    "Stomach or pancreas"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#b5354b",
+   "kind": "mcq",
+   "stem": "Which type of CO2 absorbent can degrade inhaled agents to carbon monoxide?",
+   "options": [
+    "Fully hydrated CO2 absorbents",
+    "Dry (desiccated) CO2 absorbents",
+    "Charcoal scavenging filters",
+    "Heat-moisture exchangers"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#5cbe21",
+   "kind": "statement",
+   "stem": "What do the strong bases in soda lime do to the anaesthetic molecule?",
+   "answer": "Remove labile protons",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#dc697a",
+   "kind": "mcq",
+   "stem": "Which newer CO2 absorbent without KOH or NaOH avoids carbon monoxide formation?",
+   "options": [
+    "Soda lime",
+    "Baralyme",
+    "Amsorb",
+    "Sodasorb"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#9ca683",
+   "kind": "statement",
+   "stem": "In what order do desflurane, enflurane, isoflurane, halothane and sevoflurane rank for CO production with dry absorbent?",
+   "answer": "Desflurane at least equal to enflurane, then isoflurane, then halothane = sevoflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#b7f65e",
+   "kind": "mcq",
+   "stem": "Which absorber condition increases carbon monoxide production from volatile agents?",
+   "options": [
+    "Wetter absorbent",
+    "Drier absorbent",
+    "Lower temperature",
+    "Higher fresh gas flow"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#43327d",
+   "kind": "mcq",
+   "stem": "Compared with soda lime, which CO2 absorbent produces more carbon monoxide with volatile agents?",
+   "options": [
+    "Amsorb",
+    "Baralyme",
+    "Sodasorb",
+    "Rehydrated soda lime"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#437e11",
+   "kind": "mcq",
+   "stem": "Which factor raises carbon monoxide production with volatile agents in the absorber?",
+   "options": [
+    "Lower temperature",
+    "Higher temperature",
+    "Higher fresh gas flow",
+    "Wetter absorbent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#ee4756",
+   "kind": "mcq",
+   "stem": "Which fresh gas setting increases carbon monoxide production from volatile agents?",
+   "options": [
+    "Higher fresh gas flow",
+    "Low fresh gas flow",
+    "Wetter absorbent",
+    "Lower temperature"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#031554",
+   "kind": "mcq",
+   "stem": "Which change in agent concentration increases carbon monoxide production?",
+   "options": [
+    "Lower agent concentration",
+    "Higher agent concentration",
+    "Wetter absorbent",
+    "Higher fresh gas flow"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#4a0771",
+   "kind": "mcq",
+   "stem": "Which patient size increases carbon monoxide exposure per unit body mass?",
+   "options": [
+    "Large patient relative to absorbent amount",
+    "Small patient relative to absorbent amount",
+    "Lower temperature",
+    "Wetter absorbent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#415b1a",
+   "kind": "statement",
+   "stem": "Why should the machine be switched off at the end of the day?",
+   "answer": "High oxygen flow left on overnight dries the soda lime",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#5679b7",
+   "kind": "statement",
+   "stem": "What should you do with a dried CO2 absorbent to reduce carbon monoxide risk?",
+   "answer": "Rehydrate it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#8479ab",
+   "kind": "mcq",
+   "stem": "Does any current inhaled agent have every property of the ideal agent?",
+   "options": [
+    "Yes, sevoflurane does",
+    "No current agent does",
+    "Yes, desflurane does",
+    "Yes, nitrous oxide does"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#baa9a1",
+   "kind": "statement",
+   "stem": "What should the ideal inhaled agent be stable to?",
+   "answer": "Light and heat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#6eb3e0",
+   "kind": "statement",
+   "stem": "What should the ideal inhaled agent be inert with?",
+   "answer": "Metal, rubber and soda lime",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#afa139",
+   "kind": "mcq",
+   "stem": "What smell should the ideal inhaled agent have?",
+   "options": [
+    "Pungent smell",
+    "Pleasant smell",
+    "Acrid smell",
+    "Sulphurous smell"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#fe5354",
+   "kind": "mcq",
+   "stem": "What environmental property should the ideal inhaled agent have?",
+   "options": [
+    "High greenhouse warming",
+    "Environmentally friendly",
+    "Ozone-depleting",
+    "Persistent in the atmosphere"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#78e46e",
+   "kind": "statement",
+   "stem": "What should the ideal inhaled agent's oil:gas partition coefficient and MAC be?",
+   "answer": "High oil:gas partition coefficient; low MAC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#cd363a",
+   "kind": "mcq",
+   "stem": "What blood:gas partition coefficient should the ideal inhaled agent have?",
+   "options": [
+    "High",
+    "Low",
+    "Moderate",
+    "Variable"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#2bf7fd",
+   "kind": "mcq",
+   "stem": "Where should the ideal inhaled agent act?",
+   "options": [
+    "Acts on the heart and CNS",
+    "Acts only on the CNS",
+    "Acts only on skeletal muscle",
+    "Acts mainly on the kidney"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#cec7b2",
+   "kind": "mcq",
+   "stem": "What is the approximate MAC of enflurane?",
+   "options": [
+    "About 0.75%",
+    "About 1.15%",
+    "About 1.7%",
+    "About 2%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#1a70aa",
+   "kind": "mcq",
+   "stem": "Which superseded volatile is a structural isomer of isoflurane?",
+   "options": [
+    "Halothane",
+    "Enflurane",
+    "Sevoflurane",
+    "Desflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#59b7f7",
+   "kind": "mcq",
+   "stem": "Which volatile at high concentrations gives a 3 Hz spike-and-wave EEG pattern?",
+   "options": [
+    "Nitrous oxide",
+    "Enflurane",
+    "Propofol",
+    "Thiopental"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#7d73dc",
+   "kind": "mcq",
+   "stem": "Which inhaled anaesthetic is avoided in renal impairment because its metabolism releases fluoride?",
+   "options": [
+    "Propofol",
+    "Nitrous oxide",
+    "Ketamine",
+    "Enflurane"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#cc6abe",
+   "kind": "mcq",
+   "stem": "Which volatile has been reported to cause hepatic necrosis less often than halothane?",
+   "options": [
+    "Nitrous oxide",
+    "Enflurane",
+    "Propofol",
+    "Ketamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#60b1b1",
+   "kind": "mcq",
+   "stem": "What is the approximate MAC of halothane?",
+   "options": [
+    "About 0.25%",
+    "About 1.15%",
+    "About 0.75%",
+    "About 1.7%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#6506c1",
+   "kind": "statement",
+   "stem": "Which volatile is unstable in light and corrodes some metals?",
+   "answer": "Halothane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#6809fa",
+   "kind": "statement",
+   "stem": "Why is halothane stored with thymol?",
+   "answer": "To stop free bromine being released",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#6809fa",
+   "kind": "mcq",
+   "stem": "What concentration of thymol is used to stabilise halothane?",
+   "options": [
+    "0.1%",
+    "0.01%",
+    "0.001%",
+    "0.5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#5193e0",
+   "kind": "blank",
+   "stem": "A volatile agent that dissolves into circuit rubber can ____ after the vaporiser is turned off.",
+   "answer": "leach back into circuits",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#4473e0",
+   "kind": "mcq",
+   "stem": "For halothane, above what MAC does ICP rise significantly?",
+   "options": [
+    "0.2 MAC",
+    "0.6 MAC",
+    "0.9 MAC",
+    "1.5 MAC"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#7ffa3a",
+   "kind": "mcq",
+   "stem": "What share of halothane undergoes oxidative metabolism by hepatic cytochrome P450?",
+   "options": [
+    "Up to 5%",
+    "Up to 25%",
+    "Up to 50%",
+    "Up to 1%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#2d8c51",
+   "kind": "mcq",
+   "stem": "What is the incidence of halothane hepatitis in adults?",
+   "options": [
+    "1 in 250–3500",
+    "1 in 2500–35 000",
+    "1 in 25 000–350 000",
+    "1 in 500 000–1 000 000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#f49b5a",
+   "kind": "mcq",
+   "stem": "What is the mortality of halothane hepatitis?",
+   "options": [
+    "10–25%",
+    "50–75%",
+    "1–5%",
+    "80–95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#c9d204",
+   "kind": "blank",
+   "stem": "Avoid halothane if it was last given within the previous ____.",
+   "answer": "3 months",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#1f3679",
+   "kind": "mcq",
+   "stem": "Which anaesthetic did John Snow give Queen Victoria for two of her childbirths?",
+   "options": [
+    "Ether",
+    "Chloroform",
+    "Nitrous oxide",
+    "Halothane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#1f3679",
+   "kind": "mcq",
+   "stem": "In what year was chloroform given to Queen Victoria for Prince Leopold's birth?",
+   "options": [
+    "1849",
+    "1851",
+    "1853",
+    "1855"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#101a41",
+   "kind": "mcq",
+   "stem": "Where was the first public demonstration of modern anaesthesia held on 16 October 1846?",
+   "options": [
+    "Guy's Hospital, London",
+    "Royal Infirmary, Edinburgh",
+    "Ether Dome, Massachusetts General Hospital, Boston",
+    "Johns Hopkins Hospital, Baltimore"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/inhaled-anaesthetics#263f58",
+   "kind": "mcq",
+   "stem": "Which volatile largely replaced chloroform because of its better therapeutic index?",
+   "options": [
+    "Halothane",
+    "Ether",
+    "Methoxyflurane",
+    "Cyclopropane"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

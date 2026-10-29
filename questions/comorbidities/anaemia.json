@@ -1,0 +1,759 @@
+{
+ "topic": "comorbidities/anaemia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/anaemia#b4a861",
+   "kind": "statement",
+   "stem": "In anaemia, what should be ruled out before surgery?",
+   "answer": "Symptomatic anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#3df95e",
+   "kind": "statement",
+   "stem": "In anaemia with low ferritin and TSAT, when is IV iron (Ferinject) given?",
+   "answer": "If surgery is 4 wk or less away, moderate anaemia or bleeding, or absorption problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#5195f1",
+   "kind": "statement",
+   "stem": "What are the three parts of patient blood management in anaemia?",
+   "answer": "Know the allowable blood loss, minimise blood loss, maintain cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#3326c0",
+   "kind": "blank",
+   "stem": "Anaemia in males is defined as Hb less than ____.",
+   "answer": "13",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#47d040",
+   "kind": "blank",
+   "stem": "Anaemia in females is defined as Hb less than ____.",
+   "answer": "11.5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#f12d4e",
+   "kind": "blank",
+   "stem": "Anaemia in pregnancy is defined as Hb less than ____.",
+   "answer": "11",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#ee79a8",
+   "kind": "statement",
+   "stem": "When should haemoglobin be measured before surgery?",
+   "answer": "Before all major surgery, and in anyone with significant history, especially cardiovascular or respiratory disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#941342",
+   "kind": "statement",
+   "stem": "What history or sign should make you suspect anaemia before surgery?",
+   "answer": "Menorrhagia or pallor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#8114b4",
+   "kind": "mcq",
+   "stem": "Which of these is a listed feature of symptomatic anaemia?",
+   "options": [
+    "Angina",
+    "Polyuria",
+    "Diarrhoea",
+    "Tinnitus"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#91955f",
+   "kind": "statement",
+   "stem": "What does the anaemia investigation panel include?",
+   "answer": "Iron studies, B12 and folate, reticulocyte count, creatinine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#c71eeb",
+   "kind": "statement",
+   "stem": "In anaemia, what should be done with elective surgery where possible?",
+   "answer": "Delay it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#0505e4",
+   "kind": "statement",
+   "stem": "Which haematinics are used to treat the cause of anaemia?",
+   "answer": "IV or oral iron, B12 injections, folate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#b3011e",
+   "kind": "mcq",
+   "stem": "Erythropoietin is useful in which group of anaemic patients?",
+   "options": [
+    "Dialysis patients",
+    "Asthma patients",
+    "Burns patients",
+    "Cirrhosis patients"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#5f6985",
+   "kind": "statement",
+   "stem": "Why has transfusion in anaemia become more conservative?",
+   "answer": "Transfusion morbidity, and better tolerance of low Hb than once thought",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#9d42b2",
+   "kind": "mcq",
+   "stem": "Which of these is a cause of reduced red cell production in anaemia?",
+   "options": [
+    "Hypothyroidism",
+    "Haemolysis",
+    "Acute blood loss",
+    "Splenic sequestration"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#6eb6cf",
+   "kind": "mcq",
+   "stem": "Anaemia classed by red cell size as small cells is called what?",
+   "options": [
+    "Macrocytic",
+    "Microcytic",
+    "Normocytic",
+    "Hypochromic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#5b9063",
+   "kind": "blank",
+   "stem": "Iron deficiency is defined as TSAT less than 20% and ferritin less than ____ mcg/L.",
+   "answer": "300",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#3bb510",
+   "kind": "statement",
+   "stem": "What does ferritin measure in iron deficiency?",
+   "answer": "Iron stores",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#2c1f3c",
+   "kind": "blank",
+   "stem": "A ferritin less than ____ mcg/L means no iron stores and absolute iron deficiency.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#d2ab99",
+   "kind": "blank",
+   "stem": "With inflammation, a ferritin less than ____ mcg/L makes absolute iron deficiency likely.",
+   "answer": "100",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#d2ab99",
+   "kind": "mcq",
+   "stem": "With ferritin under 100 mcg/L and inflammation, after what blood loss do iron stores run out?",
+   "options": [
+    "200ml",
+    "500ml",
+    "1000ml",
+    "2000ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#35fa43",
+   "kind": "blank",
+   "stem": "In renal failure with inflammation, ferritin less than ____ mcg/L suggests absolute iron deficiency.",
+   "answer": "200",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#7c6d3c",
+   "kind": "blank",
+   "stem": "Do not give IV iron if ferritin is above ____ mcg/L.",
+   "answer": "500",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#786c5a",
+   "kind": "statement",
+   "stem": "What does TSAT less than 20% indicate in anaemia?",
+   "answer": "Absolute deficiency, or functional deficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#786c5a",
+   "kind": "statement",
+   "stem": "In functional iron deficiency, where is the iron held?",
+   "answer": "Locked in macrophages",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#55d0b1",
+   "kind": "blank",
+   "stem": "Ret-He less than ____ means iron-restricted red cell production.",
+   "answer": "30pg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#daf265",
+   "kind": "mcq",
+   "stem": "Which ferritin range with TSAT under 20% defines functional iron deficiency?",
+   "options": [
+    "100-300 mcg/L",
+    "30-100 mcg/L",
+    "300-500 mcg/L",
+    "500-1000 mcg/L"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#c19350",
+   "kind": "mcq",
+   "stem": "How long does oral iron need to refill iron stores in anaemia?",
+   "options": [
+    "4 weeks",
+    "2 weeks",
+    "1 week",
+    "8 weeks"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#59700f",
+   "kind": "statement",
+   "stem": "What limits the use of oral iron in anaemia?",
+   "answer": "Intolerance or poor absorption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#a75b70",
+   "kind": "mcq",
+   "stem": "How soon does Hb start to rise after IV iron in anaemia?",
+   "options": [
+    "In 2 days",
+    "In 2 weeks",
+    "In 2 months",
+    "In 6 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#c1057c",
+   "kind": "statement",
+   "stem": "In iron deficiency, what should be discussed if less than 2 weeks remain before surgery?",
+   "answer": "Postponing, with the surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#dd1554",
+   "kind": "mcq",
+   "stem": "In iron deficiency, IV iron is preferred in moderate to severe anaemia with Hb below what g/dL?",
+   "options": [
+    "8 g/dL",
+    "10 g/dL",
+    "11.5 g/dL",
+    "13 g/dL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#bf53df",
+   "kind": "mcq",
+   "stem": "Expected high blood loss in iron deficiency means more than what volume?",
+   "options": [
+    "250ml",
+    "500ml",
+    "1000ml",
+    "2000ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#368a57",
+   "kind": "blank",
+   "stem": "In iron deficiency treatment, hypersensitivity such as flushing, itch or rash is uncommon, at a rate of less than ____.",
+   "answer": "1%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#3fc6b5",
+   "kind": "statement",
+   "stem": "In iron deficiency anaemia treatment, which rare serious reaction occurs in under 0.1% of patients?",
+   "answer": "Anaphylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#b9f58c",
+   "kind": "blank",
+   "stem": "In megaloblastic anaemia, B12 deficiency is diagnosed when B12 is less than ____ pmol/L.",
+   "answer": "200",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#d4a5d1",
+   "kind": "mcq",
+   "stem": "What is the oral mecobalamin regimen for B12 deficiency in megaloblastic anaemia?",
+   "options": [
+    "1 mg each morning for 1 month",
+    "5 mg each morning for 1 month",
+    "500 mcg each morning for 1 month",
+    "250 mcg each morning for 1 month"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#817746",
+   "kind": "blank",
+   "stem": "For B12 below 150 pmol/L in megaloblastic anaemia, the intramuscular dose is ____ once.",
+   "answer": "1 mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#798591",
+   "kind": "blank",
+   "stem": "In megaloblastic anaemia, folate deficiency is defined as folate less than ____ nmol/L.",
+   "answer": "7",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#3048ec",
+   "kind": "mcq",
+   "stem": "What is the oral folic acid regimen for folate deficiency in megaloblastic anaemia?",
+   "options": [
+    "1 mg each morning for 1 week",
+    "5 mg each morning for 1 month",
+    "250 mcg each morning for 1 month",
+    "50 mg each morning for 1 month"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#714442",
+   "kind": "statement",
+   "stem": "If both B12 and folate are low in megaloblastic anaemia, which should be started first, and why?",
+   "answer": "Start B12 before folate, to avoid subacute combined degeneration of the cord",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#d2dd39",
+   "kind": "statement",
+   "stem": "In anaemia of renal failure, at what GFR should the patient be referred to nephrology?",
+   "answer": "GFR less than 60",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#37e2f9",
+   "kind": "mcq",
+   "stem": "In anaemia of renal failure, what is the target haemoglobin?",
+   "options": [
+    "11-12g/dL",
+    "7-8g/dL",
+    "13-14g/dL",
+    "9-10g/dL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#e4de19",
+   "kind": "statement",
+   "stem": "In anaemia of renal failure, what should be done with erythropoiesis-stimulating agents (ESA)?",
+   "answer": "Optimise them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#beb29b",
+   "kind": "statement",
+   "stem": "What is the basic defect in thalassaemia?",
+   "answer": "Absent or reduced synthesis of alpha or beta globin chains",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#0f54a7",
+   "kind": "statement",
+   "stem": "In thalassaemia, which severity is transfusion dependent with serious iron overload?",
+   "answer": "Major",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#e2db4b",
+   "kind": "statement",
+   "stem": "In thalassaemia history-taking, which cardiac problem should be asked about?",
+   "answer": "High-output cardiac failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#2b8f84",
+   "kind": "statement",
+   "stem": "Why may the airway be difficult in a patient with thalassaemia?",
+   "answer": "Marrow overgrowth deforms the bone and face",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#8e4228",
+   "kind": "statement",
+   "stem": "Which test identifies thalassaemia, with or without globin chain analysis?",
+   "answer": "Hb electrophoresis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#3f8e6f",
+   "kind": "statement",
+   "stem": "In severe thalassaemia, what should be done early to detect antibodies?",
+   "answer": "Crossmatch early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#9fcd7c",
+   "kind": "statement",
+   "stem": "What does the G6PD enzyme make to protect red cells from oxidative stress?",
+   "answer": "NADPH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#92725e",
+   "kind": "mcq",
+   "stem": "Which two drugs are contraindicated in G6PD deficiency?",
+   "options": [
+    "Lignocaine and bupivacaine",
+    "Ketamine and propofol",
+    "Sodium nitroprusside and prilocaine",
+    "Morphine and fentanyl"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#cfd213",
+   "kind": "mcq",
+   "stem": "How is G6PD deficiency inherited?",
+   "options": [
+    "X-linked",
+    "Autosomal dominant",
+    "Autosomal recessive",
+    "Mitochondrial"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#1f7890",
+   "kind": "blank",
+   "stem": "In G6PD deficiency, haemolysis occurs ____ after exposure to a trigger.",
+   "answer": "2-5d",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#a432d2",
+   "kind": "statement",
+   "stem": "In G6PD deficiency, which food is a classic cause of haemolysis?",
+   "answer": "Fava (broad) beans",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#4f8c96",
+   "kind": "statement",
+   "stem": "On examination in G6PD deficiency haemolysis, which two findings are expected?",
+   "answer": "Anaemia and jaundice",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#c65c1a",
+   "kind": "statement",
+   "stem": "Under what circumstances can the red cell G6PD assay read falsely high?",
+   "answer": "During a crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#69a26e",
+   "kind": "statement",
+   "stem": "What are the two management steps for acute haemolysis in G6PD deficiency?",
+   "answer": "Stop the trigger; transfuse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#59c284",
+   "kind": "mcq",
+   "stem": "Which drug is a known trigger of haemolysis in G6PD deficiency?",
+   "options": [
+    "Metoprolol",
+    "Ondansetron",
+    "Ramipril",
+    "Methylene blue"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#291748",
+   "kind": "statement",
+   "stem": "What perioperative advice applies to a patient with G6PD deficiency?",
+   "answer": "Avoid triggers, including NSAIDs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#120be1",
+   "kind": "blank",
+   "stem": "In sickle cell disease, sickling is rare in trait when HbS is ____.",
+   "answer": "less than 50%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#120be1",
+   "kind": "statement",
+   "stem": "In sickle cell disease, which haemoglobin inhibits sickling?",
+   "answer": "HbF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#24cc98",
+   "kind": "statement",
+   "stem": "In which regions is sickle cell disease endemic?",
+   "answer": "Parts of Africa, the Mediterranean, Middle East and India",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#8b5074",
+   "kind": "statement",
+   "stem": "In sickle cell disease, what do sickled cells do to small vessels?",
+   "answer": "Block them, causing haemolysis and infarction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#6af908",
+   "kind": "statement",
+   "stem": "Which factors can trigger sickling in sickle cell disease?",
+   "answer": "Hypoxia, hypothermia or fever, acidosis, hypovolaemia, infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#46c20b",
+   "kind": "statement",
+   "stem": "How predictable is the clinical course of sickle cell disease?",
+   "answer": "Highly variable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#6dbdc5",
+   "kind": "statement",
+   "stem": "In vaso-occlusive sickle cell crisis, which complication presents like pneumonia?",
+   "answer": "Acute chest syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#8af81a",
+   "kind": "statement",
+   "stem": "Which sickle cell crisis causes a steep Hb fall with no reticulocytes?",
+   "answer": "Aplastic crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#2f57f1",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, which crisis mainly affects children with sudden splenic pooling of red cells?",
+   "options": [
+    "Aplastic",
+    "Sequestration",
+    "Vaso-occlusive",
+    "Haemolytic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#0f8006",
+   "kind": "statement",
+   "stem": "In sickle cell disease, what does chronic haemolysis cause?",
+   "answer": "Gallstones",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#d759fd",
+   "kind": "statement",
+   "stem": "Which genotypes give a positive sickle screening test?",
+   "answer": "HbSS and HbSA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#0f4fd3",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, which cells on the blood film suggest an atrophic spleen?",
+   "options": [
+    "Heinz bodies",
+    "Spherocytes",
+    "Howell-Jolly bodies",
+    "Schistocytes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#da9450",
+   "kind": "blank",
+   "stem": "Supportive care in sickle cell disease includes folic acid, vaccinations and ____.",
+   "answer": "penicillin prophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#df4e86",
+   "kind": "statement",
+   "stem": "How is a sickle cell crisis managed?",
+   "answer": "Rest, IV fluids, antibiotics, oxygen, warming and good analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#37dba9",
+   "kind": "blank",
+   "stem": "In sickle cell disease, transfusion aims for HbS of less than ____.",
+   "answer": "30%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#37dba9",
+   "kind": "statement",
+   "stem": "Which sickle cell crises may need transfusion, after discussion with haematology?",
+   "answer": "Some vaso-occlusive crises",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#79d4a9",
+   "kind": "mcq",
+   "stem": "Before any operation in sickle cell disease, which specialty should be consulted?",
+   "options": [
+    "Endocrinology",
+    "Nephrology",
+    "Haematology",
+    "Rheumatology"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#520253",
+   "kind": "statement",
+   "stem": "What should be avoided perioperatively in sickle cell disease?",
+   "answer": "Hypoxia, dehydration, infection, acidosis, hypothermia and pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#ff88a3",
+   "kind": "statement",
+   "stem": "What is the status of regional anaesthesia in sickle cell disease?",
+   "answer": "Not contraindicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaemia#28e070",
+   "kind": "statement",
+   "stem": "In sickle cell disease, what must be done before a tourniquet is used on a limb?",
+   "answer": "Careful exsanguination of the limb",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
