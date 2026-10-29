@@ -1,0 +1,117 @@
+{
+ "topic": "regional/lumbar-epidural",
+ "questions": [
+  {
+   "fact_id": "regional/lumbar-epidural#2ddaef",
+   "kind": "mcq",
+   "stem": "Which obstetric operation can lumbar epidural anaesthesia be used for?",
+   "options": [
+    "Laparoscopic cholecystectomy",
+    "Hip replacement",
+    "Caesarean section",
+    "Cystoscopy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/lumbar-epidural#906390",
+   "kind": "mcq",
+   "stem": "Lumbar epidural contraindications are the same as those for which technique?",
+   "options": [
+    "Peripheral nerve block",
+    "Spinal anaesthesia",
+    "Local infiltration",
+    "Intravenous sedation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/lumbar-epidural#ccb826",
+   "kind": "mcq",
+   "stem": "Which condition is a contraindication to lumbar epidural anaesthesia?",
+   "options": [
+    "Planned knee arthroscopy",
+    "Labour in progress",
+    "Raised intracranial pressure",
+    "Previous appendicectomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/lumbar-epidural#dd1d19",
+   "kind": "mcq",
+   "stem": "What is a key advantage of lumbar epidural over spinal anaesthesia?",
+   "options": [
+    "Faster onset",
+    "More complete block",
+    "Titratable",
+    "Denser sensory block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/lumbar-epidural#43a60b",
+   "kind": "mcq",
+   "stem": "How does the onset of lumbar epidural compare with spinal anaesthesia?",
+   "options": [
+    "Faster onset",
+    "Immediate onset",
+    "Slower onset",
+    "Same onset"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/lumbar-epidural#630621",
+   "kind": "mcq",
+   "stem": "Compared with spinal anaesthesia, how does lumbar epidural perform technically?",
+   "options": [
+    "Easier technically, faster, fails less often",
+    "Technically identical, but slower onset",
+    "Harder technically, takes longer, fails more often",
+    "Same difficulty and same failure rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/lumbar-epidural#b55480",
+   "kind": "mcq",
+   "stem": "In a parturient with uncorrected scoliosis, the epidural space midline shifts towards which side of the curve?",
+   "options": [
+    "Convex side of the curve",
+    "Concave side of the curve",
+    "Directly away from the curve",
+    "Unchanged along the spinal midline"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/lumbar-epidural#5354bc",
+   "kind": "mcq",
+   "stem": "In a parturient with uncorrected scoliosis, which side does injectate first spread to in about 80% of cases?",
+   "options": [
+    "Convex side of the curve",
+    "Midline only",
+    "Both sides equally",
+    "Concave side of the curve"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

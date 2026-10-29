@@ -1,0 +1,1213 @@
+{
+ "topic": "regional/spinal-anaesthesia-technique",
+ "questions": [
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#d60f37",
+   "kind": "statement",
+   "stem": "Which monitor setting is adjusted during spinal anaesthesia preparation, along with baseline vitals?",
+   "answer": "BP cycling interval",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#6a4005",
+   "kind": "statement",
+   "stem": "What must be identified during preparation for a spinal anaesthetic?",
+   "answer": "The interspace",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#8cf52e",
+   "kind": "statement",
+   "stem": "What does the nurse do while the operator scrubs for a spinal anaesthetic?",
+   "answer": "Opens the spinal set",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#ecdf07",
+   "kind": "statement",
+   "stem": "In spinal skin preparation, what comes after cleaning with antiseptic?",
+   "answer": "Draping",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#267519",
+   "kind": "blank",
+   "stem": "For spinal skin preparation, soak about ____ gauzes in chlorhexidine.",
+   "answer": "3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#fec639",
+   "kind": "mcq",
+   "stem": "Which interspaces are usually prepared for spinal anaesthesia skin preparation?",
+   "options": [
+    "L1/2 and L2/3",
+    "L3/4 and L4/5",
+    "T10/11 and T11/12",
+    "C7/T1 and T1/2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#37bacb",
+   "kind": "mcq",
+   "stem": "What is the chlorhexidine concentration in Hexodane for spinal skin preparation?",
+   "options": [
+    "0.5%",
+    "70%",
+    "10%",
+    "2%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#d1c28a",
+   "kind": "mcq",
+   "stem": "What povidone iodine concentration is used for spinal skin preparation?",
+   "options": [
+    "5%",
+    "2%",
+    "10%",
+    "0.5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#d344de",
+   "kind": "mcq",
+   "stem": "How much bupivacaine is drawn up for a spinal anaesthetic?",
+   "options": [
+    "About 2.2–2.3 ml",
+    "About 1.2–1.3 ml",
+    "About 3.2–3.3 ml",
+    "About 0.2–0.3 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#517342",
+   "kind": "mcq",
+   "stem": "How much lignocaine is used for skin infiltration before a spinal anaesthetic?",
+   "options": [
+    "About 1 ml",
+    "About 10 ml",
+    "About 4 ml",
+    "About 40 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#1f3439",
+   "kind": "mcq",
+   "stem": "Which fentanyl dose is drawn up for a spinal anaesthetic?",
+   "options": [
+    "About 1mcg",
+    "About 25mcg",
+    "About 10mcg",
+    "About 100mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#ded5d1",
+   "kind": "statement",
+   "stem": "What must you check yourself for every neuraxial drug before giving it?",
+   "answer": "Which drug it is and its expiry date",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#bc269f",
+   "kind": "statement",
+   "stem": "Is drying the skin with gauze required in spinal skin preparation?",
+   "answer": "It is optional",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#e55a73",
+   "kind": "statement",
+   "stem": "What two needle approaches can be chosen for a spinal anaesthetic?",
+   "answer": "Midline or paramedian",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#f459af",
+   "kind": "statement",
+   "stem": "How is correct spinal needle position confirmed before injecting?",
+   "answer": "Free flow of CSF from the hub",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#fd8108",
+   "kind": "mcq",
+   "stem": "With 26–29 gauge spinal needles, how long does CSF flow usually take to appear?",
+   "options": [
+    "Immediately on needle entry",
+    "1–2 seconds",
+    "5–10 seconds",
+    "2–3 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#8a847c",
+   "kind": "mcq",
+   "stem": "If no CSF flows from a spinal needle, what should be tried?",
+   "options": [
+    "Withdraw the needle and reinsert immediately",
+    "Inject the local anaesthetic anyway",
+    "Advance the needle a further 2 cm",
+    "Rotate the needle through 90 degrees"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#67d11e",
+   "kind": "mcq",
+   "stem": "Some operators rotate a spinal needle through 360 degrees; in what steps?",
+   "options": [
+    "45-degree steps",
+    "180-degree steps",
+    "90-degree steps",
+    "10-degree steps"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#0a1a10",
+   "kind": "mcq",
+   "stem": "How slowly should a spinal anaesthetic be injected?",
+   "options": [
+    "Within 1 second",
+    "Over 0.5 seconds",
+    "In one rapid push",
+    "Over 3–5 seconds"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#91efb8",
+   "kind": "statement",
+   "stem": "How is the spinal needle withdrawn after injection?",
+   "answer": "Together with the introducer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#702665",
+   "kind": "statement",
+   "stem": "What is applied to a spinal puncture site, besides gauze pressure for bleeding?",
+   "answer": "Spray dressing (Opsite)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#c3598e",
+   "kind": "statement",
+   "stem": "When is the patient laid supine at once after a spinal anaesthetic?",
+   "answer": "Unless aiming for a unilateral or saddle block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#31ccfd",
+   "kind": "mcq",
+   "stem": "After a saddle block, how long should the patient keep sitting?",
+   "options": [
+    "Lie flat immediately",
+    "Sit for 1 minute only",
+    "Sit for 2 hours",
+    "At least 5 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#8042ad",
+   "kind": "mcq",
+   "stem": "How often should blood pressure be measured after a spinal anaesthetic?",
+   "options": [
+    "Every 1–3 minutes",
+    "Every 10–15 minutes",
+    "Every 30–60 minutes",
+    "Only once at the start"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#25b11c",
+   "kind": "statement",
+   "stem": "Which stimulus is used to check spinal block level by sensory testing?",
+   "answer": "Ice",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#a8843e",
+   "kind": "mcq",
+   "stem": "For how long after spinal injection are cardiovascular response and block level most critical?",
+   "options": [
+    "1–2 hours",
+    "20–30 minutes",
+    "24 hours",
+    "5–10 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#57923c",
+   "kind": "mcq",
+   "stem": "When is the first block check made after spinal injection, to allow repositioning?",
+   "options": [
+    "At 30–60 seconds",
+    "At 10 minutes",
+    "At 1 hour",
+    "Only at full recovery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#277f8d",
+   "kind": "mcq",
+   "stem": "Cold testing usually gives a block level how many segments above pinprick?",
+   "options": [
+    "1–2 segments below",
+    "3–4 segments above",
+    "1–2 segments above",
+    "Same level as pinprick"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#90be42",
+   "kind": "mcq",
+   "stem": "Pinprick sensation is usually how far above light touch in spinal block testing?",
+   "options": [
+    "1–2 segments below",
+    "3–4 segments above",
+    "Same segment as touch",
+    "1–2 segments above"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#838ffd",
+   "kind": "mcq",
+   "stem": "Which findings warn of impending diaphragm paralysis after a high spinal?",
+   "options": [
+    "Isolated leg weakness",
+    "Upper limb sensory loss or weak forearm extension",
+    "Urinary retention",
+    "Ankle plantar flexion weakness"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#495992",
+   "kind": "statement",
+   "stem": "In the midline approach to spinal anaesthesia, what is the main advantage for finding the intrathecal space?",
+   "answer": "Each layer can be felt, making the space easier to identify",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#efc69d",
+   "kind": "statement",
+   "stem": "In the midline approach to spinal anaesthesia, where is the needle entered?",
+   "answer": "In the midline, between the spinous processes of the chosen interspace",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#4ceba5",
+   "kind": "mcq",
+   "stem": "In the midline approach to spinal anaesthesia, what is the common teaching for needle direction?",
+   "options": [
+    "Aim towards the xiphoid process",
+    "Aim towards the anterior superior iliac spine",
+    "Aim towards the umbilicus",
+    "Aim towards the sternal notch"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#4ceba5",
+   "kind": "mcq",
+   "stem": "In the midline approach to spinal anaesthesia, how far cephalad do some teachers advise angling the needle?",
+   "options": [
+    "10-15 degrees",
+    "70-80 degrees",
+    "45-55 degrees",
+    "30-35 degrees"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#261120",
+   "kind": "statement",
+   "stem": "In the midline approach, what should you do after hitting bone at a certain depth?",
+   "answer": "Note the depth, redirect more cephalad, then compare the next bone contact depth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#9c29d9",
+   "kind": "statement",
+   "stem": "In the midline approach to spinal anaesthesia, what should you do if the patient feels pain?",
+   "answer": "Ask which side the pain is on and correct towards the midline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#22de57",
+   "kind": "statement",
+   "stem": "In the midline approach to spinal anaesthesia, what layers are passed through, in order, to reach the subarachnoid space?",
+   "answer": "Skin, subcutaneous tissue, supraspinous and interspinous ligaments, ligamentum flavum, epidural space, dura, subdural space, arachnoid, subarachnoid space",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#6444c5",
+   "kind": "mcq",
+   "stem": "Which lumbar interspace is very hard to reach with the midline approach?",
+   "options": [
+    "L3/4",
+    "L4/5",
+    "L5/S1",
+    "L2/3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#61ee19",
+   "kind": "mcq",
+   "stem": "In the paramedian approach to spinal anaesthesia, how far lateral to the midline is the needle inserted?",
+   "options": [
+    "2-2.5cm",
+    "4-5cm",
+    "0.2-0.3cm",
+    "1 -1.5cm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#61ee19",
+   "kind": "mcq",
+   "stem": "In the paramedian approach to spinal anaesthesia, how far is the needle angled medially?",
+   "options": [
+    "10-15 degrees",
+    "70-80 degrees",
+    "45-55 degrees",
+    "30-35 degrees"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#f76f83",
+   "kind": "statement",
+   "stem": "In the paramedian approach to spinal anaesthesia, what determines how far cephalad the needle must be angled?",
+   "answer": "The horizontal entry point chosen, which differs between variants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#9ca419",
+   "kind": "statement",
+   "stem": "In the paramedian approach to spinal anaesthesia, what structure gives the first resistance felt?",
+   "answer": "Ligamentum flavum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#a9fb9b",
+   "kind": "statement",
+   "stem": "In the paramedian approach to spinal anaesthesia, what layers are passed through, in order?",
+   "answer": "Skin, subcutaneous tissue, erector spinae, ligamentum flavum, epidural space, dura, subdural space, arachnoid, subarachnoid space",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#3974b2",
+   "kind": "mcq",
+   "stem": "In spinal anaesthesia, after sitting hyperbaric local anaesthetic, how long should you wait before turning prone?",
+   "options": [
+    "1-2 minutes",
+    "30-40 minutes",
+    "15–20 minutes",
+    "45-60 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#d9878a",
+   "kind": "mcq",
+   "stem": "Which lumbar interspace is typically used for spinal insertion?",
+   "options": [
+    "T10/11",
+    "L1/2",
+    "L4/5",
+    "T12/L1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#e9367d",
+   "kind": "mcq",
+   "stem": "Which bony landmark helps locate the usual spinal insertion level at L4/5?",
+   "options": [
+    "Inferior angle of the scapula",
+    "Line joining the anterior superior iliac spines",
+    "Tuffier's (intercristal) line",
+    "Sternal angle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#25e009",
+   "kind": "mcq",
+   "stem": "Where does the adult spinal cord usually end?",
+   "options": [
+    "L1/L2",
+    "L3/L4",
+    "T10",
+    "S2"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#4f7dcb",
+   "kind": "mcq",
+   "stem": "In what percentage of adults does the spinal cord reach L3?",
+   "options": [
+    "5%",
+    "20%",
+    "2%",
+    "15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#4f7dcb",
+   "kind": "mcq",
+   "stem": "In what percentage of cases does the iliac crest line pick a space above L4?",
+   "options": [
+    "10%",
+    "15%",
+    "30%",
+    "51%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#8ff379",
+   "kind": "statement",
+   "stem": "In a patient with vertebral compression fractures, which interspace should be avoided?",
+   "answer": "L2/3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#b044d1",
+   "kind": "mcq",
+   "stem": "What gauge range do pencil-point spinal needles such as Whitacre, Sprotte or Pencan come in?",
+   "options": [
+    "16-18G",
+    "29-31G",
+    "23-27G",
+    "20-22G"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#b044d1",
+   "kind": "statement",
+   "stem": "Which pencil-point spinal needle types need an introducer?",
+   "answer": "Whitacre, Sprotte, Pencan",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#781a48",
+   "kind": "mcq",
+   "stem": "Which spinal needle type needs no introducer?",
+   "options": [
+    "Whitacre",
+    "Sprotte",
+    "Pencan",
+    "Quincke (cutting)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#ccb01c",
+   "kind": "statement",
+   "stem": "What two forms of bupivacaine 0.5% are used for spinal anaesthesia?",
+   "answer": "Heavy (hyperbaric) or plain (slightly hypobaric)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#4974ee",
+   "kind": "mcq",
+   "stem": "For spinal bupivacaine, what volume range is chosen according to the block height and duration needed?",
+   "options": [
+    "0.1-0.2ml",
+    "1.5-3ml",
+    "5-7ml",
+    "10-12ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#982019",
+   "kind": "mcq",
+   "stem": "What intrathecal fentanyl dose improves spinal block quality and prolongs analgesia?",
+   "options": [
+    "1-2mcg",
+    "10-15mcg",
+    "50-75mcg",
+    "100-150mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#982019",
+   "kind": "statement",
+   "stem": "What does intrathecal fentanyl 10-15mcg add to a spinal?",
+   "answer": "Improves block quality and prolongs analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#9d9a5b",
+   "kind": "statement",
+   "stem": "After heavy bupivacaine is injected for a spinal, what positioning is used?",
+   "answer": "Sitting, Trendelenburg or reverse Trendelenburg as needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#bd0d12",
+   "kind": "mcq",
+   "stem": "After intrathecal local anaesthetic, how long until the spread seems to stop?",
+   "options": [
+    "2 to 5 minutes",
+    "30 to 40 minutes",
+    "15 to 25 minutes",
+    "45 to 60 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#bd0d12",
+   "kind": "statement",
+   "stem": "After intrathecal local anaesthetic, when does patient position matter most for block spread?",
+   "answer": "In the first few minutes after injection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#01a193",
+   "kind": "mcq",
+   "stem": "Which sensory level is needed for perianal surgery under saddle block?",
+   "options": [
+    "L2",
+    "T10",
+    "T4",
+    "S2-S5"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#046885",
+   "kind": "mcq",
+   "stem": "Which sensory level is needed for foot and ankle surgery under spinal anaesthesia?",
+   "options": [
+    "T6",
+    "L2",
+    "S2-S5",
+    "T10"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#40d1f3",
+   "kind": "mcq",
+   "stem": "Which sensory level is needed for thigh and knee surgery under spinal anaesthesia?",
+   "options": [
+    "S2",
+    "T4",
+    "L1",
+    "L4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#b77c29",
+   "kind": "mcq",
+   "stem": "What sensory level is needed for TURP under spinal anaesthesia?",
+   "options": [
+    "T4",
+    "T10",
+    "T6",
+    "L2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#8ace2f",
+   "kind": "mcq",
+   "stem": "What sensory level is needed for appendicectomy under spinal anaesthesia?",
+   "options": [
+    "T10",
+    "T4",
+    "T6",
+    "L1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#ae3312",
+   "kind": "mcq",
+   "stem": "What sensory level is needed for caesarean section under spinal anaesthesia?",
+   "options": [
+    "T10",
+    "T6",
+    "L1",
+    "T4"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#d62724",
+   "kind": "mcq",
+   "stem": "What sensory level does the peritoneum need during spinal anaesthesia?",
+   "options": [
+    "T10",
+    "T6",
+    "T4",
+    "L1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#10cc37",
+   "kind": "statement",
+   "stem": "What two factors most affect spinal block height after injection?",
+   "answer": "Baricity and patient position just after injection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#e9cf61",
+   "kind": "statement",
+   "stem": "How is baricity defined for a local anaesthetic solution?",
+   "answer": "LA density divided by CSF density at 37°C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#e9cf61",
+   "kind": "statement",
+   "stem": "For local anaesthetic baricity, how does solution density change as temperature rises?",
+   "answer": "It falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#de96c8",
+   "kind": "statement",
+   "stem": "What baricity value makes a local anaesthetic solution hyperbaric?",
+   "answer": "Clearly above 1.0000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#844da2",
+   "kind": "mcq",
+   "stem": "How is plain bupivacaine's baricity described at 37°C?",
+   "options": [
+    "Markedly hyperbaric",
+    "Strongly hypobaric",
+    "Slightly hypobaric",
+    "Markedly isobaric"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#eda534",
+   "kind": "mcq",
+   "stem": "For hyperbaric bupivacaine, between which doses does block height stay similar?",
+   "options": [
+    "2 and 5 mg",
+    "10 and 20 mg",
+    "25 and 40 mg",
+    "30 and 50 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#92433f",
+   "kind": "mcq",
+   "stem": "For unilateral surgery with hyperbaric solution, how long stay side-down before turning supine?",
+   "options": [
+    "1-2min",
+    "30-45min",
+    "6-20min",
+    "60-90min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#92433f",
+   "kind": "statement",
+   "stem": "For unilateral surgery with hypobaric solution, which side should be up?",
+   "answer": "The operative side",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#7f9fab",
+   "kind": "mcq",
+   "stem": "After a small hyperbaric dose given sitting, how long should the patient stay sitting?",
+   "options": [
+    "1 to 2mins",
+    "5 to 30mins",
+    "45 to 60mins",
+    "2 to 3hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#7f9fab",
+   "kind": "statement",
+   "stem": "What block does a small hyperbaric dose given sitting produce?",
+   "answer": "Perineal block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#a1a54e",
+   "kind": "mcq",
+   "stem": "How long does intrathecal bupivacaine take to regress two dermatomes?",
+   "options": [
+    "15-25min",
+    "4-5hr",
+    "6-8hr",
+    "1.5-2.5hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#0e88ed",
+   "kind": "statement",
+   "stem": "For intrathecal local anaesthetic, what mainly determines how long the block lasts?",
+   "answer": "Dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#436ba3",
+   "kind": "statement",
+   "stem": "In spinal anaesthesia, why does isobaric local anaesthetic usually last longer than hyperbaric?",
+   "answer": "Higher blocks regress faster",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#f9e143",
+   "kind": "mcq",
+   "stem": "By about how much do intrathecal vasoconstrictors prolong a spinal block?",
+   "options": [
+    "5-10%",
+    "80-100%",
+    "25-50%",
+    "2-3 times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#f9e143",
+   "kind": "mcq",
+   "stem": "What epinephrine dose added intrathecally to bupivacaine prolongs the block?",
+   "options": [
+    "0.01-0.02 mg",
+    "0.1–0.2 mg",
+    "1–2 mg",
+    "10-20 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#f710d6",
+   "kind": "mcq",
+   "stem": "What is the main advantage of a unilateral spinal in elderly patients?",
+   "options": [
+    "Faster onset of block",
+    "Less hypotension",
+    "Longer block duration",
+    "Higher block height"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#5a6556",
+   "kind": "mcq",
+   "stem": "Which solution type is used for a unilateral spinal?",
+   "options": [
+    "Full-dose isobaric",
+    "High-dose hyperbaric",
+    "Low-dose hypobaric",
+    "Full-dose hypobaric"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#e06dd6",
+   "kind": "mcq",
+   "stem": "After a unilateral spinal, how long should the patient stay lateral before turning supine?",
+   "options": [
+    "1-2 minutes",
+    "30-40 minutes",
+    "5–10 minutes",
+    "45-60 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#512ebd",
+   "kind": "statement",
+   "stem": "For a unilateral spinal, what needle type should you consider?",
+   "answer": "25-gauge or 27-gauge pencil-point needle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#512ebd",
+   "kind": "mcq",
+   "stem": "For a unilateral spinal, which way should the needle opening face?",
+   "options": [
+    "Towards the non-operative side",
+    "Towards the operative side",
+    "Straight up towards the ceiling",
+    "Towards the midline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#9154bc",
+   "kind": "statement",
+   "stem": "How should local anaesthetic be injected to give a one-sided unilateral spinal block?",
+   "answer": "Slowly, to give laminar flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#8c3d0a",
+   "kind": "mcq",
+   "stem": "Which sacral roots does a saddle block cover?",
+   "options": [
+    "L1-2",
+    "T10-12",
+    "S2-4",
+    "L4-5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#111143",
+   "kind": "mcq",
+   "stem": "What is the main indication for a saddle block?",
+   "options": [
+    "Perianal surgery",
+    "Hip surgery",
+    "Caesarean section",
+    "Upper abdominal surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#c0eda2",
+   "kind": "statement",
+   "stem": "Why keep the patient sitting after a saddle block injection?",
+   "answer": "For the block to settle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#fa7b82",
+   "kind": "mcq",
+   "stem": "Which interspace is the widest, making it useful for very difficult neuraxial cases?",
+   "options": [
+    "L3-4",
+    "L5-S1",
+    "L2-3",
+    "L4-5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#e1f480",
+   "kind": "mcq",
+   "stem": "In what year was the Taylor approach first described?",
+   "options": [
+    "1904",
+    "1960",
+    "1922",
+    "1940"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#f6f879",
+   "kind": "statement",
+   "stem": "Does the Taylor approach need the patient to flex the spine?",
+   "answer": "No, it does not need flexion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#a8450d",
+   "kind": "mcq",
+   "stem": "How far medial to the PSIS is the needle inserted in the Taylor approach?",
+   "options": [
+    "3 cm",
+    "5 cm",
+    "1 cm",
+    "2.5 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#381fa7",
+   "kind": "mcq",
+   "stem": "What cephalad angle does the Taylor approach use to reach the midline at L5–S1?",
+   "options": [
+    "45-55 degrees",
+    "10-15 degrees",
+    "70-80 degrees",
+    "25-30 degrees"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#79d3f6",
+   "kind": "mcq",
+   "stem": "Which needle is used to enter the subarachnoid space for a continuous spinal?",
+   "options": [
+    "Quincke needle",
+    "Tuohy needle",
+    "Sprotte needle",
+    "Whitacre needle"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#79d3f6",
+   "kind": "mcq",
+   "stem": "In a continuous spinal, how far in is the catheter threaded?",
+   "options": [
+    "2–3 cm",
+    "10–12 cm",
+    "0.5–1 cm",
+    "5–6 cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#96153b",
+   "kind": "statement",
+   "stem": "If a continuous spinal catheter will not pass, what should be done to the Tuohy needle?",
+   "answer": "Rotate it 180°",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#9e85dc",
+   "kind": "statement",
+   "stem": "Why does continuous spinal anaesthesia carry a much higher post-dural puncture headache risk?",
+   "answer": "The larger needle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#2726ee",
+   "kind": "statement",
+   "stem": "For continuous spinal anaesthesia, what drug-related risk must be guarded against?",
+   "answer": "Accidental intrathecal injection of drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#825432",
+   "kind": "mcq",
+   "stem": "The FDA advises against continuous spinal catheters smaller than which gauge?",
+   "options": [
+    "20 gauge",
+    "28 gauge",
+    "24 gauge",
+    "30 gauge"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#825432",
+   "kind": "statement",
+   "stem": "Which neurological complication is reported with fine continuous spinal catheters?",
+   "answer": "Cauda equina syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#6fab9e",
+   "kind": "statement",
+   "stem": "Why are spinal anaesthetics traditionally given below the conus?",
+   "answer": "To avoid cord injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#ee362f",
+   "kind": "statement",
+   "stem": "On supine MRI, where does the mid to lower thoracic cord lie relative to the dura?",
+   "answer": "Anteriorly, with CSF between it and the dura",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia-technique#913c5b",
+   "kind": "statement",
+   "stem": "In the spinal technique workflow, what follows placing the introducer?",
+   "answer": "Insert the spinal needle, then rotate 360 to confirm flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

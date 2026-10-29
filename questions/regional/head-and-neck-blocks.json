@@ -1,0 +1,401 @@
+{
+ "topic": "regional/head-and-neck-blocks",
+ "questions": [
+  {
+   "fact_id": "regional/head-and-neck-blocks#87efb0",
+   "kind": "statement",
+   "stem": "Which functions does the trigeminal nerve, the fifth cranial nerve, have?",
+   "answer": "Sensory and motor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#1937fb",
+   "kind": "mcq",
+   "stem": "In which dural pocket does the trigeminal ganglion sit?",
+   "options": [
+    "Cavernous sinus",
+    "Meckel's cave",
+    "Pituitary fossa",
+    "Internal acoustic meatus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#f20f6d",
+   "kind": "mcq",
+   "stem": "How many divisions leave the trigeminal ganglion?",
+   "options": [
+    "Two",
+    "Four",
+    "Three",
+    "Five"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#d93bf8",
+   "kind": "mcq",
+   "stem": "Through which opening does the ophthalmic division (V1) enter the orbit?",
+   "options": [
+    "Foramen rotundum",
+    "Inferior orbital fissure",
+    "Superior orbital fissure",
+    "Foramen ovale"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#c53a2c",
+   "kind": "mcq",
+   "stem": "Through which foramen does the maxillary division (V2) leave the skull?",
+   "options": [
+    "Foramen ovale",
+    "Foramen rotundum",
+    "Superior orbital fissure",
+    "Foramen spinosum"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#79f30f",
+   "kind": "mcq",
+   "stem": "Through which foramen does the mandibular division (V3) leave the skull?",
+   "options": [
+    "Foramen rotundum",
+    "Foramen ovale",
+    "Foramen spinosum",
+    "Jugular foramen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#79f30f",
+   "kind": "mcq",
+   "stem": "Which motor function does the mandibular division (V3) supply in the head?",
+   "options": [
+    "Extraocular muscles",
+    "Muscles of facial expression",
+    "Muscles of mastication",
+    "Intrinsic laryngeal muscles"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#c4a5f5",
+   "kind": "statement",
+   "stem": "Besides the skull base, where can trigeminal divisions be blocked?",
+   "answer": "Where they leave the facial bones",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#2c3786",
+   "kind": "mcq",
+   "stem": "How many simple nerve blocks can anaesthetise the whole face?",
+   "options": [
+    "Three",
+    "Seven",
+    "Five",
+    "Nine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#ad0a5a",
+   "kind": "statement",
+   "stem": "What can subarachnoid or epidural spread cause in head and neck blocks?",
+   "answer": "High spinal and brainstem anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#b3d7bc",
+   "kind": "blank",
+   "stem": "Intra-arterial volumes of ____ or less can cause seizures in head and neck blocks.",
+   "answer": "0.5 mL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#6abd33",
+   "kind": "mcq",
+   "stem": "Which needle gauge reduces bruising for superficial head and neck blocks?",
+   "options": [
+    "10-gauge",
+    "18-gauge",
+    "25- or 27-gauge",
+    "14-gauge"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#1b709f",
+   "kind": "statement",
+   "stem": "Blocking which nerves can cause respiratory distress during head and neck blocks?",
+   "answer": "Phrenic or recurrent laryngeal nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#07b3d1",
+   "kind": "mcq",
+   "stem": "In which situation is a trigeminal ganglion block reserved?",
+   "options": [
+    "Acute dental pain after extraction",
+    "Migraine not responding to triptans",
+    "Trigeminal neuralgia not responding to drugs",
+    "Scalp laceration repair"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#ad0024",
+   "kind": "mcq",
+   "stem": "Why is a trigeminal ganglion or division block done before neurolysis?",
+   "options": [
+    "Long-term pain relief",
+    "A diagnostic test",
+    "Prevention of nerve regrowth",
+    "Preparing the nerve for surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#0d760a",
+   "kind": "mcq",
+   "stem": "Classically, how many nerves are blocked for a scalp block?",
+   "options": [
+    "Five",
+    "Seven",
+    "Nine",
+    "Three"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#9943f6",
+   "kind": "mcq",
+   "stem": "Which spinal segments give the greater occipital, lesser occipital and great auricular nerves?",
+   "options": [
+    "C1 and C2",
+    "C2 and C3",
+    "C4 and C5",
+    "C3 and C4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#66ddaa",
+   "kind": "mcq",
+   "stem": "Which trigeminal division gives rise to the supraorbital and supratrochlear nerves?",
+   "options": [
+    "Maxillary (V2)",
+    "Mandibular (V3)",
+    "Ophthalmic (V1)",
+    "Greater occipital (C2)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#d14138",
+   "kind": "mcq",
+   "stem": "Which trigeminal division gives the zygomaticotemporal nerve?",
+   "options": [
+    "Ophthalmic (V1)",
+    "Mandibular (V3)",
+    "Maxillary (V2)",
+    "Greater occipital (C2)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#00f68a",
+   "kind": "mcq",
+   "stem": "Which skin area does the auriculotemporal nerve supply in a scalp block?",
+   "options": [
+    "Lower eyelid skin",
+    "Posterior temple skin",
+    "Upper lip skin",
+    "Occipital scalp skin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#ddf5d8",
+   "kind": "statement",
+   "stem": "Which chronic pain condition can scalp blocks be used to diagnose and treat?",
+   "answer": "Muscular or neural headache",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#19e98b",
+   "kind": "statement",
+   "stem": "During craniotomy, what does scalp block blunt when the head is pinned?",
+   "answer": "Haemodynamic responses to pins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#6070ed",
+   "kind": "statement",
+   "stem": "Why is scalp block essential for awake craniotomy?",
+   "answer": "The patient must cooperate with testing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#0ccaff",
+   "kind": "statement",
+   "stem": "In scalp blocks, all nerves become superficial above which landmark line?",
+   "answer": "A line from the occipital protuberance to the eyebrows, along the top of the ear",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#4b6eed",
+   "kind": "mcq",
+   "stem": "Which adrenaline concentration is used with local anaesthetic for circumferential scalp infiltration?",
+   "options": [
+    "1:1,000",
+    "1:10,000",
+    "1:200,000",
+    "1:50,000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#69ffa5",
+   "kind": "mcq",
+   "stem": "What volume of local anaesthetic is needed for a scalp ring block?",
+   "options": [
+    "About 10 mL",
+    "About 30 mL",
+    "About 60 mL",
+    "About 100 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#f61ca5",
+   "kind": "mcq",
+   "stem": "How are the supraorbital and supratrochlear nerves blocked?",
+   "options": [
+    "Deep injection into the pterygopalatine fossa",
+    "Intradermal needle where they leave the orbit",
+    "Subcutaneous fan behind the ear",
+    "Injection at the mastoid tip"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#740624",
+   "kind": "mcq",
+   "stem": "How far in front of the ear, at tragus level, is the auriculotemporal nerve blocked?",
+   "options": [
+    "0.5 cm",
+    "1.5 cm",
+    "3 cm",
+    "5 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#a56f2f",
+   "kind": "mcq",
+   "stem": "Which nerve's postauricular branches are blocked 1.5 cm behind the ear?",
+   "options": [
+    "Auriculotemporal",
+    "Great auricular",
+    "Zygomaticotemporal",
+    "Supratrochlear"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#0d2afb",
+   "kind": "statement",
+   "stem": "Along the superior nuchal line, where are the greater and lesser occipital nerves infiltrated?",
+   "answer": "Halfway between the occipital protuberance and mastoid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#8e0f76",
+   "kind": "mcq",
+   "stem": "What is the most common complication of a scalp block?",
+   "options": [
+    "Corneal abrasion",
+    "Facial nerve palsy",
+    "Haematoma at the injection site",
+    "Dural puncture"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#ac01ec",
+   "kind": "statement",
+   "stem": "Why must you aspirate carefully before injecting a scalp block?",
+   "answer": "The scalp is very vascular",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/head-and-neck-blocks#3b5053",
+   "kind": "mcq",
+   "stem": "Which adrenaline dilutions are usually considered safe against toxic plasma levels in scalp blocks?",
+   "options": [
+    "1:1,000 or 1:2,000",
+    "1:100,000 or 1:200,000",
+    "1:10,000 or 1:20,000",
+    "1:50,000 or 1:60,000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

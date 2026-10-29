@@ -1,0 +1,41 @@
+{
+ "topic": "regional/interpleural-block",
+ "questions": [
+  {
+   "fact_id": "regional/interpleural-block#04a632",
+   "kind": "mcq",
+   "stem": "In an interpleural block, between which two layers is the local anaesthetic placed?",
+   "options": [
+    "Skin and subcutaneous fat",
+    "Lung and mediastinum",
+    "Parietal and visceral pleura",
+    "Chest wall and diaphragm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interpleural-block#c95e08",
+   "kind": "mcq",
+   "stem": "What sensory distribution does an interpleural block produce?",
+   "options": [
+    "Contralateral block of a single cervical dermatome",
+    "Ipsilateral somatic block of multiple thoracic dermatomes",
+    "Bilateral sympathetic block of lumbar dermatomes",
+    "Ipsilateral block of multiple lumbar dermatomes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interpleural-block#071a31",
+   "kind": "statement",
+   "stem": "In an interpleural block, what sign is used to identify the interpleural space?",
+   "answer": "Negative pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

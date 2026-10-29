@@ -1,0 +1,171 @@
+{
+ "topic": "regional/failed-regional-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#778c3a",
+   "kind": "mcq",
+   "stem": "Which is an anaesthetic cause of failed regional anaesthesia?",
+   "options": [
+    "Patient anxiety or distress",
+    "Surgery outlasting a single-shot spinal",
+    "Inadequate block (patchy or incomplete)",
+    "Excessive surgical bleeding"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#496b16",
+   "kind": "mcq",
+   "stem": "A single-shot spinal wears off before a long operation ends. Which category of cause is this?",
+   "options": [
+    "Equipment",
+    "Patient",
+    "Surgical",
+    "Psychological"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#fd54c6",
+   "kind": "mcq",
+   "stem": "What is the first management step when a regional block fails during surgery?",
+   "options": [
+    "Give an IV opioid bolus immediately",
+    "Tell the surgeon and pause the operation",
+    "Repeat the same spinal dose",
+    "Increase the local anaesthetic concentration"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#d645c6",
+   "kind": "statement",
+   "stem": "When a regional block fails, what possible reasons should be checked?",
+   "answer": "No block, patchy block, slow onset, receding block, anxiety.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#b7245e",
+   "kind": "mcq",
+   "stem": "If surgical closure is near when a block fails, what may be enough?",
+   "options": [
+    "Full repeat of the original block",
+    "Immediate spinal re-injection at higher dose",
+    "Local infiltration or a little IV supplement",
+    "Abandoning the case at once"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#5a0215",
+   "kind": "mcq",
+   "stem": "After a failed regional block, why communicate with the surgeon and patient?",
+   "options": [
+    "Speeds up the surgeon's closure",
+    "Keeps trust and lowers PTSD risk",
+    "Avoids any need to document",
+    "Reduces the drug dose needed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#a1d805",
+   "kind": "statement",
+   "stem": "Why should a failed regional block be documented?",
+   "answer": "For medicolegal reasons.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#ef231f",
+   "kind": "mcq",
+   "stem": "What incidence of Tarlov cysts is quoted for failed spinal anaesthesia?",
+   "options": [
+    "Up to 1%",
+    "Up to 25%",
+    "Up to 9%",
+    "Up to 50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#ef231f",
+   "kind": "statement",
+   "stem": "In a patient with Tarlov cysts, what happens after CSF is aspirated during a spinal?",
+   "answer": "No block follows.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#c139c5",
+   "kind": "mcq",
+   "stem": "In a failed spinal, anxiety or distress is sometimes mistaken for what?",
+   "options": [
+    "Local anaesthetic toxicity",
+    "Block failure",
+    "Excessive spinal spread",
+    "Post-dural puncture headache"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#4964be",
+   "kind": "mcq",
+   "stem": "What is a common cause of a failed peripheral nerve block?",
+   "options": [
+    "Injecting a very large volume",
+    "Not waiting long enough",
+    "Using a 25G needle",
+    "Taking antihistamines beforehand"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#9e1a21",
+   "kind": "statement",
+   "stem": "For a failed peripheral nerve block, what needle placements cause failure?",
+   "answer": "Injection outside the paraneural sheath, or into a vessel or an unconnected fascial plane.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#06c1bc",
+   "kind": "mcq",
+   "stem": "Why can a fascial plane block fail?",
+   "options": [
+    "Too much volume",
+    "Too little volume",
+    "Too much adrenaline",
+    "Too short a wait"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/failed-regional-anaesthesia#1fe709",
+   "kind": "statement",
+   "stem": "In lumbar plexus blocks, what anatomical variation can cause some nerves to be spared?",
+   "answer": "Accessory nerves, e.g. obturator sparing.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

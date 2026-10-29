@@ -1,0 +1,451 @@
+{
+ "topic": "regional/peripheral-nerve-block-technique",
+ "questions": [
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#a7507f",
+   "kind": "statement",
+   "stem": "What must be confirmed at the Stop Before You Block step of a peripheral nerve block?",
+   "answer": "Side and site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#fc44fa",
+   "kind": "statement",
+   "stem": "When describing an ultrasound-guided nerve block, what two things must you state about the probe?",
+   "answer": "Probe type and transducer position",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#4c9875",
+   "kind": "statement",
+   "stem": "When describing a nerve block, what should you state about the needle?",
+   "answer": "Needle length, insertion site, in-plane or out-of-plane and direction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#d166e6",
+   "kind": "mcq",
+   "stem": "In a peripheral nerve block, after negative aspiration for blood, what initial volume is injected?",
+   "options": [
+    "10-20 ml",
+    "1-2 ml",
+    "0.5 ml",
+    "5-10 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#36fd23",
+   "kind": "mcq",
+   "stem": "In a peripheral nerve block, what aliquot size is used when continuing the injection slowly?",
+   "options": [
+    "10 ml",
+    "1 ml",
+    "5 ml",
+    "20 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#dbadb5",
+   "kind": "statement",
+   "stem": "If the needle needs repositioning during a peripheral nerve block, what should you do?",
+   "answer": "Reposition the needle and inject further volume with the same checks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#95a9fc",
+   "kind": "mcq",
+   "stem": "After a peripheral nerve block, which dressing is suggested once the needle is removed?",
+   "options": [
+    "Adhesive gauze and tape",
+    "Spray film dressing",
+    "Hydrocolloid pad",
+    "Elastic compression bandage"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#bb4ab8",
+   "kind": "statement",
+   "stem": "In the general peripheral nerve block technique, what is Step 3?",
+   "answer": "Asepsis; sterile skin preparation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#c52aba",
+   "kind": "blank",
+   "stem": "In the general peripheral nerve block technique, Step 4 is to ____ the transducer position or needle insertion point.",
+   "answer": "landmark",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#06c5d7",
+   "kind": "mcq",
+   "stem": "In the general peripheral nerve block technique, how many methods identify the correct needle position at Step 5?",
+   "options": [
+    "two",
+    "three",
+    "four",
+    "five"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#728504",
+   "kind": "statement",
+   "stem": "In the general peripheral nerve block technique, what should aspiration at Step 6 show?",
+   "answer": "No blood",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#1c8ab9",
+   "kind": "statement",
+   "stem": "In the general peripheral nerve block technique, what should Step 7 injection not produce?",
+   "answer": "Paraesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#c04cb3",
+   "kind": "mcq",
+   "stem": "Which ultrasound probe frequency suits a nerve block target less than 2cm deep, such as wrist or ankle?",
+   "options": [
+    "12-15MHz",
+    "5-10MHz",
+    "3-5MHz",
+    "10-12MHz"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#85feed",
+   "kind": "mcq",
+   "stem": "Which ultrasound frequency suits a nerve block target 2-4cm deep, such as interscalene or femoral?",
+   "options": [
+    "12-15MHz",
+    "10-12MHz",
+    "5-10MHz",
+    "3-5MHz"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#f017b2",
+   "kind": "mcq",
+   "stem": "Which ultrasound frequency suits a nerve block target 4-10cm deep, such as popliteal or infraclavicular?",
+   "options": [
+    "10-12MHz",
+    "5-10MHz",
+    "12-15MHz",
+    "3-5MHz"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#3e4e9a",
+   "kind": "mcq",
+   "stem": "Which ultrasound frequency suits a nerve block target more than 10cm deep, such as coeliac ganglion block?",
+   "options": [
+    "5-10MHz",
+    "10-12MHz",
+    "3-5MHz",
+    "12-15MHz"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#f577f8",
+   "kind": "blank",
+   "stem": "Superficial, high frequency (5-13 MHz) probes that suit most nerve blocks are ____ probes.",
+   "answer": "linear",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#927805",
+   "kind": "statement",
+   "stem": "Which probe type, used for ankle and elbow blocks, has a small footprint and narrower field?",
+   "answer": "Hockey stick",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#a2402d",
+   "kind": "mcq",
+   "stem": "Which probe shape is low frequency and deep with a wide field, used for sciatic block?",
+   "options": [
+    "Hockey stick",
+    "Linear",
+    "Curvilinear",
+    "Phased array"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#5f5250",
+   "kind": "statement",
+   "stem": "Why does an echogenic needle appear brighter on ultrasound?",
+   "answer": "Its etched, cross-hatched shaft scatters more of the beam back to the probe",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#01d90c",
+   "kind": "blank",
+   "stem": "A nerve can be imaged in a short-axis view or a ____ view.",
+   "answer": "long-axis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#3d028a",
+   "kind": "blank",
+   "stem": "On ultrasound, nerves look round, oval or triangular, and are hyperechoic or ____.",
+   "answer": "hypoechoic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#b10d51",
+   "kind": "statement",
+   "stem": "How do you confirm on ultrasound that a structure is the nerve you think it is?",
+   "answer": "Slide the probe along it, cephalad-caudad",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#2199b4",
+   "kind": "statement",
+   "stem": "In a pre-block ultrasound scan, what should the planned needle path avoid?",
+   "answer": "Vessels, pleura and periosteum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#a2c0ff",
+   "kind": "mcq",
+   "stem": "How does a needle's brightness on ultrasound change as it runs closer to parallel with the probe face?",
+   "options": [
+    "Dimmer",
+    "Unchanged",
+    "Brighter",
+    "Invisible"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#4639a4",
+   "kind": "statement",
+   "stem": "What should stay in view at all times while advancing a needle for a nerve block?",
+   "answer": "The shaft and tip",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#f708c2",
+   "kind": "mcq",
+   "stem": "In a peripheral nerve block, what volume of dextrose or LA is injected to locate the needle tip?",
+   "options": [
+    "5ml",
+    "<1ml",
+    "10ml",
+    "20ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#4d20b2",
+   "kind": "statement",
+   "stem": "How should a needle be advanced when crossing fascia during a nerve block?",
+   "answer": "Slowly, then wait for a pop or give",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#c1a6ac",
+   "kind": "mcq",
+   "stem": "In ultrasound-guided nerve blocks, what is hydrodissection?",
+   "options": [
+    "Aspirating fluid to confirm needle position",
+    "Injecting a test dose to exclude intravascular needle",
+    "Injecting contrast to show the block spread",
+    "Injecting fluid on purpose to separate tissue planes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#59cd17",
+   "kind": "statement",
+   "stem": "When injecting local anaesthetic around a nerve, which two things should be avoided?",
+   "answer": "Intravascular and intraneural injection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#0890ea",
+   "kind": "mcq",
+   "stem": "In the local anaesthetic injection step of a nerve block, what volume is injected after aspirating?",
+   "options": [
+    "5-10 mL",
+    "10-20 mL",
+    "1-2 mL",
+    "0.5-1 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#86b402",
+   "kind": "blank",
+   "stem": "When injecting around a nerve, aim for ____ spread, also called doughnut or halo.",
+   "answer": "circumferential",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#bc65ac",
+   "kind": "statement",
+   "stem": "Which technique keeps the needle still for large-volume plexus and major nerve blocks?",
+   "answer": "Immobile needle technique",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#bac13a",
+   "kind": "statement",
+   "stem": "In continuous nerve blocks, why are catheters hard to see on ultrasound?",
+   "answer": "They coil within tissue sheaths",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#3dfe18",
+   "kind": "mcq",
+   "stem": "For a continuous block, how far past the tip must you go before needle, nerve and catheter never share a plane?",
+   "options": [
+    "3-5 cm",
+    "1-2 cm",
+    "10-15 cm",
+    "6-8 cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#9ac94e",
+   "kind": "statement",
+   "stem": "What is the best check of catheter tip position in a continuous nerve block?",
+   "answer": "Watching the spread of injectate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#94662a",
+   "kind": "mcq",
+   "stem": "When testing a nerve block catheter, what volume is injected through it?",
+   "options": [
+    "5mL",
+    "1mL",
+    "10mL",
+    "20mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#b8e4a4",
+   "kind": "statement",
+   "stem": "If no distinct pops are felt during needle advance for a nerve block, what should you do?",
+   "answer": "Withdraw, recheck landmarks, change angle or entry point",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#53ec0f",
+   "kind": "mcq",
+   "stem": "In a peripheral nerve block, what does bone contact during needle advance suggest?",
+   "options": [
+    "The needle is too superficial",
+    "The needle is too deep",
+    "The injectate is too concentrated",
+    "The probe frequency is too low"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#22f727",
+   "kind": "mcq",
+   "stem": "In a peripheral nerve block, if blood returns on aspiration, how long should you press on the site after removing the needle?",
+   "options": [
+    "30 seconds",
+    "2 minutes",
+    "5 minutes",
+    "10 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#35a2ae",
+   "kind": "statement",
+   "stem": "During a nerve block, what should you do if there is resistance to injection?",
+   "answer": "Do not inject",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#b90fd8",
+   "kind": "blank",
+   "stem": "Signs of local anaesthetic toxicity include circumoral ____, tinnitus, dizziness and seizure.",
+   "answer": "numbness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-technique#153af1",
+   "kind": "statement",
+   "stem": "If a nerve block gives no pain relief after 30 minutes, what should be done next?",
+   "answer": "Give a further 20 ml of low-concentration LA, or consider other analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "topic": "regional/rebound-pain-perineural-adjuncts",
+ "questions": [
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#ff5b8b",
+   "kind": "statement",
+   "stem": "What is rebound pain after regional anaesthesia?",
+   "answer": "Acute postoperative pain once effective regional anaesthesia wears off, as surgical pain is unmasked",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#91ae43",
+   "kind": "mcq",
+   "stem": "How common is rebound pain after regional anaesthesia?",
+   "options": [
+    "Up to 5-10% of patients",
+    "Up to 80-90% of patients",
+    "Up to 40-50% of patients",
+    "Up to 15-20% of patients"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#fb0216",
+   "kind": "statement",
+   "stem": "After which kind of regional technique is rebound pain most common?",
+   "answer": "Techniques that give complete analgesia and surgical anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#0fc72d",
+   "kind": "mcq",
+   "stem": "Which patients are at higher risk of rebound pain after regional anaesthesia?",
+   "options": [
+    "Older men having soft tissue surgery",
+    "Patients with no preoperative pain",
+    "Patients who never use opioids",
+    "Bony surgery, preoperative pain or opioid use, young women"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#1ad405",
+   "kind": "statement",
+   "stem": "What does the evidence show about hyperalgesia as a cause of rebound pain?",
+   "answer": "Little evidence that hyperalgesia causes it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#5f714f",
+   "kind": "statement",
+   "stem": "What can be done before surgery to help prevent rebound pain?",
+   "answer": "Warn patients what to expect as the block wears off and surgical pain starts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#a09cd6",
+   "kind": "mcq",
+   "stem": "What analgesic strategy is recommended to prevent rebound pain?",
+   "options": [
+    "PRN paracetamol only, on request",
+    "Regular multimodal analgesia",
+    "Single high-dose opioid on discharge",
+    "Withholding analgesia until pain starts"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#54b0d7",
+   "kind": "statement",
+   "stem": "Which non-drug measure can help prevent rebound pain after regional anaesthesia?",
+   "answer": "Elevating the limb",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#9a350a",
+   "kind": "statement",
+   "stem": "For selected patients, what can help prevent rebound pain beyond single-shot blocks?",
+   "answer": "Catheter techniques or perineural adjuncts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#bd0d41",
+   "kind": "statement",
+   "stem": "What role do perineural adjuncts play in prolonging single-shot blocks?",
+   "answer": "An alternative to continuous catheters",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#65c9f8",
+   "kind": "statement",
+   "stem": "What are possible harms of perineural adjuncts?",
+   "answer": "Drug errors from mixing, longer motor block, side effects, neurotoxicity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#99a01a",
+   "kind": "mcq",
+   "stem": "By which routes can dexamethasone be given as a block adjunct?",
+   "options": [
+    "Subcutaneously only, as a skin wheal",
+    "Perineurally or intravenously",
+    "Orally before surgery only",
+    "Topically only, on the skin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#a1ad2e",
+   "kind": "mcq",
+   "stem": "At about what perineural dexamethasone dose is there a ceiling effect?",
+   "options": [
+    "About 1mg",
+    "About 8mg",
+    "About 4mg",
+    "About 12mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#55832e",
+   "kind": "mcq",
+   "stem": "How does perineural dexmedetomidine act on the nerve?",
+   "options": [
+    "Activates alpha-2 receptors on peripheral axons",
+    "Inhibits prostaglandin synthesis in the nerve",
+    "Blocks HCN channels, which restore resting potential",
+    "Stimulates potassium efflux to deepen the membrane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#25d990",
+   "kind": "statement",
+   "stem": "Why does perineural dexmedetomidine not depend on alpha-2 receptors?",
+   "answer": "Peripheral nerve axons lack alpha-2 receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#bad7b6",
+   "kind": "mcq",
+   "stem": "What effect does adrenaline have on the onset of a perineural block?",
+   "options": [
+    "Delays onset of the block",
+    "Speeds onset of the block",
+    "Has no effect on onset",
+    "Reverses the block early"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#bad7b6",
+   "kind": "mcq",
+   "stem": "Adding adrenaline to a local anaesthetic lowers the risk of which complication?",
+   "options": [
+    "Postoperative nausea and vomiting",
+    "Haematoma at the puncture site",
+    "Hypotension from sympathetic block",
+    "Local anaesthetic systemic toxicity"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/rebound-pain-perineural-adjuncts#af458a",
+   "kind": "statement",
+   "stem": "When can adrenaline used as a perineural adjunct be neurotoxic?",
+   "answer": "At higher concentrations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

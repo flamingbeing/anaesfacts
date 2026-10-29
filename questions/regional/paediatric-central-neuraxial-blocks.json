@@ -1,0 +1,363 @@
+{
+ "topic": "regional/paediatric-central-neuraxial-blocks",
+ "questions": [
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#58d61a",
+   "kind": "mcq",
+   "stem": "In children, under what state are central neuraxial blocks normally performed?",
+   "options": [
+    "Awake, with no sedation",
+    "Under general anaesthesia",
+    "Under local infiltration alone",
+    "Under regional anaesthesia alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#0560c6",
+   "kind": "statement",
+   "stem": "Why can children under 8 not reliably signal local anaesthetic toxicity even when awake?",
+   "answer": "They do not reliably report toxicity symptoms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#df7880",
+   "kind": "blank",
+   "stem": "Paediatric central neuraxial blocks are contraindicated by ____ at the insertion site.",
+   "answer": "Local sepsis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#3fc626",
+   "kind": "statement",
+   "stem": "Are some neurological diseases an absolute or relative contraindication to paediatric central blocks?",
+   "answer": "Relative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#dc3162",
+   "kind": "mcq",
+   "stem": "In young infants, which local anaesthetic toxicity has a lower threshold?",
+   "options": [
+    "Neurotoxicity",
+    "Cardiotoxicity",
+    "Hepatotoxicity",
+    "Nephrotoxicity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#45e165",
+   "kind": "statement",
+   "stem": "What should be immediately available wherever paediatric blocks are done, awake or asleep?",
+   "answer": "Resuscitation drugs and equipment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#9fcfcc",
+   "kind": "statement",
+   "stem": "What must consent for every paediatric block cover?",
+   "answer": "Common and serious risks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#a9a61e",
+   "kind": "statement",
+   "stem": "What should local anaesthetic dosing in children account for?",
+   "answer": "Age-related differences in pharmacology and physiology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#b7afda",
+   "kind": "statement",
+   "stem": "Central blocks in children may need what size of local anaesthetic volume?",
+   "answer": "Relatively large",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#1afd46",
+   "kind": "mcq",
+   "stem": "Until about what age is nerve myelination incomplete in children?",
+   "options": [
+    "about 6 months",
+    "about 5 years",
+    "about 2 years",
+    "about 10 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#038dbd",
+   "kind": "mcq",
+   "stem": "How does the neonatal amide elimination half-life compare with the adult value?",
+   "options": [
+    "Half the adult value",
+    "At least double the adult value",
+    "About a quarter of the adult value",
+    "Same as the adult value"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#ffa9e7",
+   "kind": "statement",
+   "stem": "Which plasma protein binds local anaesthetic with high affinity?",
+   "answer": "α-1 acid glycoprotein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#102b21",
+   "kind": "statement",
+   "stem": "For low-dose paediatric blocks, how is the choice of local anaesthetic made?",
+   "answer": "Personal preference",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#e54292",
+   "kind": "statement",
+   "stem": "When should conservative local anaesthetic doses or a single enantiomer be used in children?",
+   "answer": "Hepatic impairment, intravascular injection risk, rapid absorption or long infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#774945",
+   "kind": "statement",
+   "stem": "Why are free local anaesthetic levels higher in infants under 6 months?",
+   "answer": "Immature hepatic amide metabolism and low α-1 acid glycoprotein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#6c2455",
+   "kind": "mcq",
+   "stem": "What mg/kg local anaesthetic dose do children over 6 months receive, compared with adults?",
+   "options": [
+    "Half the adult mg/kg dose",
+    "Double the adult mg/kg dose",
+    "Same mg/kg dose as adults",
+    "A third of the adult mg/kg dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#1dc5cb",
+   "kind": "mcq",
+   "stem": "Which bupivacaine infusion concentration usually gives good postoperative analgesia in children?",
+   "options": [
+    "0.5% or 0.75%",
+    "0.1% or 0.125%",
+    "1% or 2%",
+    "0.01% or 0.05%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#55fa04",
+   "kind": "mcq",
+   "stem": "When do peak ropivacaine levels occur after injection in children?",
+   "options": [
+    "5-10 min after injection",
+    "30-115 min after injection",
+    "120-180 min after injection",
+    "1-2 min after injection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#39b326",
+   "kind": "mcq",
+   "stem": "What is the maximum dose of ropivacaine in children?",
+   "options": [
+    "10 mg/kg",
+    "3 mg/kg",
+    "7 mg/kg",
+    "2.5 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#e3fabb",
+   "kind": "mcq",
+   "stem": "What is the maximum dose of prilocaine in children?",
+   "options": [
+    "3 mg/kg",
+    "8 mg/kg",
+    "5 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#a34336",
+   "kind": "statement",
+   "stem": "How does local anaesthetic toxicity often present in children?",
+   "answer": "Cardiovascular collapse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#b45b60",
+   "kind": "statement",
+   "stem": "Which guidelines give the initial treatment for local anaesthetic toxicity in children?",
+   "answer": "APLS guidelines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#1c6cad",
+   "kind": "mcq",
+   "stem": "Which antiarrhythmic is no longer available for ventricular arrhythmias in toxicity?",
+   "options": [
+    "Amiodarone",
+    "Magnesium",
+    "Bretylium",
+    "Phenytoin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#3fc6a0",
+   "kind": "mcq",
+   "stem": "What is the magnesium initial dose for local anaesthetic toxicity in children?",
+   "options": [
+    "25 mg/kg over 15 min",
+    "50 mg/kg over 5 min",
+    "50 mg/kg over 15 min",
+    "100 mg/kg over 30 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#3fc6a0",
+   "kind": "mcq",
+   "stem": "What magnesium infusion rate follows the initial dose in local anaesthetic toxicity?",
+   "options": [
+    "10 mg/kg/hour",
+    "50 mg/kg/hour",
+    "25 mg/kg/hour",
+    "15 mg/kg/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#0667e0",
+   "kind": "mcq",
+   "stem": "What IV dose of phenytoin is used for local anaesthetic toxicity in children?",
+   "options": [
+    "1-2 mg/kg IV",
+    "5-10 mg/kg IV",
+    "15-20 mg/kg IV",
+    "50-100 mg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#2c45a7",
+   "kind": "mcq",
+   "stem": "What is the IV bolus dose of amiodarone for local anaesthetic toxicity in children?",
+   "options": [
+    "1 mg/kg IV over 3 min",
+    "5 mg/kg IV over 30 min",
+    "5 mg/kg IV over 3 min",
+    "5 mcg/kg IV over 3 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#2c45a7",
+   "kind": "mcq",
+   "stem": "What amiodarone infusion follows the bolus for local anaesthetic toxicity in children?",
+   "options": [
+    "1-2 mcg/kg/min",
+    "5-15 mcg/kg/min",
+    "50-150 mcg/kg/min",
+    "20-30 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#d779cb",
+   "kind": "mcq",
+   "stem": "What is the initial Intralipid 20% bolus for local anaesthetic toxicity in children?",
+   "options": [
+    "0.25 mL/kg over 1 min",
+    "1 mL/kg over 10 min",
+    "5 mL/kg over 1 min",
+    "1 mL/kg over 1 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#d779cb",
+   "kind": "mcq",
+   "stem": "What Intralipid 20% infusion rate follows the boluses in local anaesthetic toxicity?",
+   "options": [
+    "0.5 mL/kg/min",
+    "1 mL/kg/min",
+    "0.25 mL/kg/min",
+    "2.5 mL/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#d779cb",
+   "kind": "blank",
+   "stem": "Repeat the Intralipid 20% bolus every ____ min in local anaesthetic toxicity.",
+   "answer": "3-5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#79e4cf",
+   "kind": "statement",
+   "stem": "Where should drug doses for local anaesthetic toxicity be checked in your department?",
+   "answer": "The local departmental protocol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "topic": "regional/paeds-peripheral-nerve-blocks",
+ "questions": [
+  {
+   "fact_id": "regional/paeds-peripheral-nerve-blocks#ebf84c",
+   "kind": "blank",
+   "stem": "Nearly all paediatric nerve blocks are performed under ____ anaesthesia.",
+   "answer": "general",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paeds-peripheral-nerve-blocks#36ab77",
+   "kind": "statement",
+   "stem": "Why explain the expected sensation to a child before a nerve block?",
+   "answer": "Children can find paraesthesia distressing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paeds-peripheral-nerve-blocks#88c744",
+   "kind": "statement",
+   "stem": "What largely prevents a paediatric nerve block catheter from dislodging?",
+   "answer": "Tunnelling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paeds-peripheral-nerve-blocks#e3494a",
+   "kind": "statement",
+   "stem": "What should be done if a paediatric nerve block fails during surgery?",
+   "answer": "Add local infiltration or IV analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paeds-peripheral-nerve-blocks#d12792",
+   "kind": "mcq",
+   "stem": "A child is agitated in recovery after a nerve block. What should be assumed?",
+   "options": [
+    "Emergence agitation, so observe only",
+    "Pain, so treat promptly",
+    "Hypoglycaemia, so check glucose",
+    "Urinary retention, so catheterise"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

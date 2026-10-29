@@ -1,0 +1,397 @@
+{
+ "topic": "regional/thoracic-paravertebral-block",
+ "questions": [
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#8c69d1",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block is an established analgesic for which procedures?",
+   "options": [
+    "Lower limb orthopaedic surgery",
+    "Thoracic, chest wall and breast surgery, and rib fractures",
+    "Hip fracture surgery in the elderly",
+    "Cataract surgery under sedation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#a2cc03",
+   "kind": "statement",
+   "stem": "How good is thoracic paravertebral block as an anaesthetic for major surgery?",
+   "answer": "High-quality, enough for major surgery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#9bb293",
+   "kind": "mcq",
+   "stem": "How many dermatomes does one thoracic paravertebral injection cover?",
+   "options": [
+    "2-3",
+    "4-6",
+    "7-9",
+    "10-12"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#2f70f5",
+   "kind": "mcq",
+   "stem": "At which spinal levels can a paravertebral block be performed?",
+   "options": [
+    "Thoracic level only",
+    "Lumbar and sacral levels",
+    "Cervical, thoracic or lumbar",
+    "Sacral and coccygeal levels"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#8d7cd3",
+   "kind": "statement",
+   "stem": "What can ultrasound help with during a paravertebral block?",
+   "answer": "Finding the paravertebral space, guiding the needle and watching LA spread.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#94e210",
+   "kind": "mcq",
+   "stem": "What shape is the thoracic paravertebral space?",
+   "options": [
+    "Rectangular",
+    "Wedge-shaped",
+    "Circular",
+    "Tubular"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#810f95",
+   "kind": "statement",
+   "stem": "Why is the thoracic paravertebral space limited inferiorly?",
+   "answer": "Psoas major arises at L1.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#44a697",
+   "kind": "mcq",
+   "stem": "Which is a contraindication to thoracic paravertebral block?",
+   "options": [
+    "Planned breast surgery",
+    "Tumour in the paravertebral space",
+    "Previous laparoscopic cholecystectomy",
+    "Diabetes mellitus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#edd5e1",
+   "kind": "statement",
+   "stem": "Which two conditions call for caution with thoracic paravertebral block?",
+   "answer": "Previous thoracotomy, and chest wall deformity (including kyphoscoliosis).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#bb501f",
+   "kind": "mcq",
+   "stem": "At which thoracic level is paravertebral block placed for sternotomy or breast surgery?",
+   "options": [
+    "T2",
+    "T4",
+    "T6",
+    "T8"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#bb501f",
+   "kind": "mcq",
+   "stem": "Which dermatomes must be covered for sternotomy or breast surgery?",
+   "options": [
+    "T1 – T4",
+    "T4 – T10",
+    "T2 – T6",
+    "T6 – T12"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#5ef1e8",
+   "kind": "mcq",
+   "stem": "At which thoracic levels is paravertebral block placed for thoracotomy?",
+   "options": [
+    "T2-T3",
+    "T8-T9",
+    "T5-T6",
+    "T10-T11"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#5ef1e8",
+   "kind": "mcq",
+   "stem": "Which dermatomes must be covered for thoracotomy?",
+   "options": [
+    "T1 – T5",
+    "T3 – T9",
+    "T4 – T10",
+    "T5 – T12"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#94e495",
+   "kind": "mcq",
+   "stem": "At which level is paravertebral block placed for upper abdominal surgery such as hepatectomy?",
+   "options": [
+    "T4",
+    "T8",
+    "T12",
+    "L2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#410493",
+   "kind": "mcq",
+   "stem": "At which level is paravertebral block placed for midline laparotomy?",
+   "options": [
+    "T6",
+    "T8",
+    "T10",
+    "T12"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#410493",
+   "kind": "mcq",
+   "stem": "Which dermatomes must be covered for midline laparotomy?",
+   "options": [
+    "T1 – T4",
+    "T6 – T12",
+    "T4 – L1",
+    "T9 – L3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#57ae4a",
+   "kind": "mcq",
+   "stem": "In parasagittal scanning, how far lateral do you start the paravertebral scan?",
+   "options": [
+    "1-2 cm",
+    "5-10 cm",
+    "15-20 cm",
+    "25-30 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#57ae4a",
+   "kind": "statement",
+   "stem": "In parasagittal scanning, what appears at the starting point laterally?",
+   "answer": "Rounded ribs, with pleura below.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#e48373",
+   "kind": "mcq",
+   "stem": "In parasagittal scanning, how far from the midline do transverse processes appear?",
+   "options": [
+    "0-1cm",
+    "2-3cm",
+    "5-6cm",
+    "8-10cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#e48373",
+   "kind": "statement",
+   "stem": "On medial parasagittal scanning, how do transverse processes look compared with the ribs?",
+   "answer": "Squarer and deeper than the ribs.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#490423",
+   "kind": "mcq",
+   "stem": "In the in-plane parasagittal paravertebral block, what volume at one level gives caudal and cranial spread?",
+   "options": [
+    "5-10ml",
+    "15-20ml",
+    "30-40ml",
+    "50-60ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#903530",
+   "kind": "mcq",
+   "stem": "In the out-of-plane parasagittal technique, how far deeper than the transverse process do you walk off before injecting?",
+   "options": [
+    "0.5-1 cm",
+    "1-1.5 cm",
+    "3-4 cm",
+    "5-6 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#92e1c4",
+   "kind": "mcq",
+   "stem": "For the transverse thoracic paravertebral technique, which patient positions are used?",
+   "options": [
+    "Prone or supine",
+    "Sitting or lateral",
+    "Lithotomy only",
+    "Supine only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#78dbac",
+   "kind": "mcq",
+   "stem": "Which ultrasound probe is used for the transverse paravertebral technique?",
+   "options": [
+    "Curvilinear low-frequency",
+    "Linear high-frequency",
+    "Phased array cardiac",
+    "Endocavity probe"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#78dbac",
+   "kind": "mcq",
+   "stem": "What starting depth is used for the transverse paravertebral technique?",
+   "options": [
+    "about 1 cm",
+    "about 3 cm",
+    "about 6 cm",
+    "about 10 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#9fd637",
+   "kind": "statement",
+   "stem": "On ultrasound during transverse paravertebral injection, what confirms correct spread?",
+   "answer": "LA pushes the pleura down.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#6f129b",
+   "kind": "mcq",
+   "stem": "In the landmark thoracic paravertebral technique, how far lateral to the spinous process do you go?",
+   "options": [
+    "1cm",
+    "2cm",
+    "4cm",
+    "6cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#cc0b56",
+   "kind": "statement",
+   "stem": "In the landmark thoracic PVB, what is the maximum depth before reaching the transverse process?",
+   "answer": "4cm.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#cf78b9",
+   "kind": "statement",
+   "stem": "In the landmark PVB, what do you do after contacting the transverse process?",
+   "answer": "Withdraw a little, angle caudally, walk off the transverse process.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#5d3a96",
+   "kind": "blank",
+   "stem": "In the landmark PVB, attach a loss-of-resistance syringe and proceed as for an ____.",
+   "answer": "epidural",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#80db20",
+   "kind": "statement",
+   "stem": "In the landmark thoracic PVB, within what distance is the space usually found?",
+   "answer": "Within about 1cm.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#aa4a68",
+   "kind": "statement",
+   "stem": "Where does true paravertebral block place local anaesthetic relative to the superior costotransverse ligament?",
+   "answer": "Anterior to it, between it and the pleura.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#ebb527",
+   "kind": "statement",
+   "stem": "How do paravertebral-lite (proxy) blocks differ from true PVB in where LA goes?",
+   "answer": "They place LA outside the paravertebral space.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracic-paravertebral-block#656fcf",
+   "kind": "statement",
+   "stem": "What umbrella term did the ASRA/ESRA 2020 consensus propose for MTP and its successors?",
+   "answer": "ITP.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

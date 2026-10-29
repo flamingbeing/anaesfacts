@@ -1,0 +1,223 @@
+{
+ "topic": "regional/wrist-block",
+ "questions": [
+  {
+   "fact_id": "regional/wrist-block#3e0f39",
+   "kind": "statement",
+   "stem": "For which surgery is a wrist block indicated?",
+   "answer": "Hand and finger surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#c8faf9",
+   "kind": "statement",
+   "stem": "How is the ultrasound probe oriented for a wrist block, and where is it placed?",
+   "answer": "Transverse, at the wrist crease or distal third of the forearm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#775b6d",
+   "kind": "statement",
+   "stem": "In a wrist block, where should local anaesthetic be placed?",
+   "answer": "Beside the median and ulnar nerves and the superficial branch of the radial nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#dbc853",
+   "kind": "mcq",
+   "stem": "What is the total local anaesthetic volume for a wrist block?",
+   "options": [
+    "5–10 mL",
+    "10–15 mL",
+    "20–25 mL",
+    "30–40 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#4d6041",
+   "kind": "statement",
+   "stem": "Which hand territory is not anaesthetised by a wrist block?",
+   "answer": "The deep radial branch territory",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#77cb0d",
+   "kind": "mcq",
+   "stem": "How far above the wrist crease is a wrist block often done?",
+   "options": [
+    "1–2 cm",
+    "5–10 cm",
+    "20–25 cm",
+    "30–35 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#7f22cc",
+   "kind": "statement",
+   "stem": "How should the needle approach for a wrist block be chosen?",
+   "answer": "By ergonomics: in-plane or out-of-plane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#dd07c2",
+   "kind": "statement",
+   "stem": "What complication can arterial puncture cause during a wrist block?",
+   "answer": "Haematoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#485ca2",
+   "kind": "statement",
+   "stem": "Why is circumferential spread of local anaesthetic usually not needed in a wrist block?",
+   "answer": "Nerves are small with thin epineurium, so local anaesthetic diffuses quickly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#27a1bc",
+   "kind": "mcq",
+   "stem": "How much local anaesthetic per nerve is enough in a wrist block if placed right beside the nerve?",
+   "options": [
+    "1–2 mL",
+    "3–4 mL",
+    "7–8 mL",
+    "15–20 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#e0476b",
+   "kind": "mcq",
+   "stem": "Under which structure does the median nerve enter the carpal tunnel?",
+   "options": [
+    "Extensor retinaculum",
+    "Palmar aponeurosis",
+    "Flexor retinaculum",
+    "Pronator teres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#e0476b",
+   "kind": "mcq",
+   "stem": "Where does the median nerve lie relative to the brachial artery at the elbow?",
+   "options": [
+    "Lateral to it",
+    "Medial to it",
+    "Anterior to it",
+    "Posterior to it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#c83c7d",
+   "kind": "statement",
+   "stem": "At the wrist crease, what is easily confused with the median nerve on ultrasound?",
+   "answer": "Tendons",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#99053e",
+   "kind": "mcq",
+   "stem": "How far proximally on the volar forearm should you slide to find the median nerve alone?",
+   "options": [
+    "1–2 cm",
+    "5–10 cm",
+    "15–20 cm",
+    "25–30 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#169992",
+   "kind": "statement",
+   "stem": "For a wrist block, where is the median nerve often simplest to block?",
+   "answer": "Mid-forearm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#0e8afa",
+   "kind": "mcq",
+   "stem": "Where does the ulnar nerve lie relative to the ulnar artery from mid-forearm to wrist?",
+   "options": [
+    "Radial (lateral) side",
+    "Ulnar (medial) side",
+    "Anterior side",
+    "Posterior side"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#b88f81",
+   "kind": "statement",
+   "stem": "At the wrist, which tendon lies superficial to the ulnar nerve?",
+   "answer": "Flexor carpi ulnaris tendon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#106647",
+   "kind": "statement",
+   "stem": "In the forearm, how can you confirm the ulnar nerve on its ulnar side?",
+   "answer": "Slide up and down, following the artery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#3a7f5a",
+   "kind": "statement",
+   "stem": "Why is ultrasound of little help for the superficial radial nerve at the wrist?",
+   "answer": "It splits into terminal branches there",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#d4836d",
+   "kind": "statement",
+   "stem": "What works well for blocking the superficial radial nerve at the wrist?",
+   "answer": "Subcutaneous field block around the radial styloid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#c3e2fb",
+   "kind": "statement",
+   "stem": "On ultrasound, where is the superficial radial nerve at the elbow or mid-forearm?",
+   "answer": "Thin bright structure lateral to the radial artery, above the radius",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/wrist-block#2fdbc8",
+   "kind": "statement",
+   "stem": "Between which two tendons does the superficial radial nerve leave the antebrachial fascia?",
+   "answer": "Brachioradialis and extensor carpi radialis tendons",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

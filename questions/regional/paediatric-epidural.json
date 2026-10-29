@@ -1,0 +1,405 @@
+{
+ "topic": "regional/paediatric-epidural",
+ "questions": [
+  {
+   "fact_id": "regional/paediatric-epidural#512a5b",
+   "kind": "statement",
+   "stem": "Why has paediatric epidural analgesia become more popular?",
+   "answer": "More focus on good analgesia in children",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#e69b46",
+   "kind": "statement",
+   "stem": "Beyond good analgesia, what does a paediatric epidural allow?",
+   "answer": "Light anaesthesia, minimal opioid, early extubation and no postoperative ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#6cb4e6",
+   "kind": "statement",
+   "stem": "In which high-risk paediatric cases do epidurals give better outcomes?",
+   "answer": "Open fundoplication, severe respiratory disease with abdominal surgery, neonatal oesophageal atresia repair",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#c3b921",
+   "kind": "mcq",
+   "stem": "How are paediatric epidural catheter openings usually arranged?",
+   "options": [
+    "Several side holes and no end hole",
+    "One end hole and no side holes",
+    "Two end holes and side holes",
+    "Side holes only, with a blind tip"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#579bd8",
+   "kind": "mcq",
+   "stem": "Which surgery types suit a paediatric epidural for intra- and postoperative analgesia?",
+   "options": [
+    "Head and neck surgery only",
+    "Thoracic, abdominal or lower body surgery",
+    "Hand and forearm surgery only",
+    "Dental extraction surgery only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#b45380",
+   "kind": "statement",
+   "stem": "When is a paediatric epidural most useful for analgesia?",
+   "answer": "After major surgery with prolonged severe pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#5134a6",
+   "kind": "mcq",
+   "stem": "How strong is the evidence that paediatric epidurals beat IV opioids for analgesia?",
+   "options": [
+    "Strong evidence, clearly superior to IV opioids",
+    "Limited evidence; not clearly better than IV opioids",
+    "No evidence of any benefit over IV opioids",
+    "Good evidence, but only in neonates"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#6fd38d",
+   "kind": "statement",
+   "stem": "Paediatric epidural contraindications match those of which blocks?",
+   "answer": "Other central blocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#d72e01",
+   "kind": "statement",
+   "stem": "Is a ventriculoperitoneal shunt a contraindication to a paediatric epidural?",
+   "answer": "No; use strict asepsis and consider prophylactic antibiotics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#f7a823",
+   "kind": "mcq",
+   "stem": "What is the rough lumbar epidural depth rule for a child over 1 year?",
+   "options": [
+    "0.5 mm/kg",
+    "1 mm/kg",
+    "2 mm/kg",
+    "1 cm/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#1ffb7d",
+   "kind": "mcq",
+   "stem": "Which lumbar interspaces suit a paediatric epidural, given that young children's cords end lower?",
+   "options": [
+    "L1/L2 or L2/L3",
+    "L4/L5 or L5/S1",
+    "T8/T9 or T9/T10",
+    "C6/C7 or C7/T1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#e41272",
+   "kind": "statement",
+   "stem": "How does paediatric epidural technique differ from the adult technique?",
+   "answer": "Much the same, except the child is anaesthetised",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#3acb38",
+   "kind": "mcq",
+   "stem": "Which loss-of-resistance medium is preferred when placing a paediatric epidural?",
+   "options": [
+    "Air",
+    "Saline",
+    "Dextrose 5%",
+    "Contrast medium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#9b094e",
+   "kind": "statement",
+   "stem": "Which approaches are used for paediatric epidural placement?",
+   "answer": "Caudal, sacral intervertebral, lumbar, thoracic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#10df4a",
+   "kind": "mcq",
+   "stem": "Do cervical epidurals have a place in paediatric practice?",
+   "options": [
+    "Yes, for upper limb surgery",
+    "Yes, routinely for thoracic surgery",
+    "No, they have no place in children",
+    "Yes, for neonatal spinal deformity"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#836fd1",
+   "kind": "mcq",
+   "stem": "What Tuohy needle angle is best for a lumbar paediatric epidural?",
+   "options": [
+    "74° pointing cephalad",
+    "45° pointing caudad",
+    "90° pointing cephalad",
+    "30° pointing caudad"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#367154",
+   "kind": "statement",
+   "stem": "In a paramedian paediatric epidural, how is the ligamentum flavum reached?",
+   "answer": "Contact the lamina, then walk off its upper edge",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#83bde1",
+   "kind": "statement",
+   "stem": "Which methods check the position of a paediatric epidural catheter tip?",
+   "answer": "X-ray, ultrasound (young children), or Tsui methods (ECG morphology or electrical stimulation)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#8c48b7",
+   "kind": "mcq",
+   "stem": "At which level is the sacral intervertebral block easiest in children?",
+   "options": [
+    "L4/5, level with the iliac crest",
+    "T10/11, level with the umbilicus",
+    "S2/3, just below the posterior superior iliac spine line",
+    "C7/T1, level with the shoulder line"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#d89c60",
+   "kind": "mcq",
+   "stem": "What is the usual initial lumbar epidural bolus in children?",
+   "options": [
+    "0.2 mL/kg of 0.25% bupivacaine",
+    "0.7 mL/kg of 0.25% bupivacaine",
+    "1.5 mL/kg of 0.5% bupivacaine",
+    "0.7 mL/kg of 0.1% bupivacaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#481b50",
+   "kind": "mcq",
+   "stem": "Which bupivacaine concentrations are usually used for a paediatric epidural infusion?",
+   "options": [
+    "0.25% or 0.5%",
+    "0.1% or 0.125%",
+    "0.75% or 1%",
+    "1% or 1.5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#980102",
+   "kind": "mcq",
+   "stem": "What is the maximum epidural bupivacaine infusion for children older than 6 months?",
+   "options": [
+    "0.4 mg/kg/hour",
+    "0.5 mg/kg/hour",
+    "0.6 mg/kg/hour",
+    "0.8 mg/kg/hour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#980102",
+   "kind": "blank",
+   "stem": "Maximum epidural bupivacaine infusion in infants under 6 months: ____ mg/kg/hour.",
+   "answer": "0.25",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#dfb145",
+   "kind": "mcq",
+   "stem": "What is the standard paediatric epidural ropivacaine infusion?",
+   "options": [
+    "0.2 mL/kg/hour of 0.2%",
+    "0.2 mL/kg/hour of 0.1%",
+    "0.4 mL/kg/hour of 0.2%",
+    "0.1 mL/kg/hour of 0.2%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#1ca454",
+   "kind": "statement",
+   "stem": "Which epidural adjunct type has a good safety record in children?",
+   "answer": "Low-dose opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#ab7e12",
+   "kind": "mcq",
+   "stem": "What is the typical morphine epidural infusion rate in children?",
+   "options": [
+    "10-50 mcg/kg/hour",
+    "1-5 mcg/kg/hour",
+    "0.1-0.5 mcg/kg/hour",
+    "20-100 mcg/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#60416d",
+   "kind": "mcq",
+   "stem": "What is the typical fentanyl epidural infusion rate in children?",
+   "options": [
+    "0.1-0.5 mcg/kg/hour",
+    "1-5 mcg/kg/hour",
+    "5-25 mcg/kg/hour",
+    "0.01-0.05 mcg/kg/hour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#79e7cf",
+   "kind": "mcq",
+   "stem": "What is the typical diamorphine epidural infusion rate in children?",
+   "options": [
+    "1-5 mcg/kg/hour",
+    "0.1-0.5 mcg/kg/hour",
+    "5-25 mcg/kg/hour",
+    "50-100 mcg/kg/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#c2a795",
+   "kind": "mcq",
+   "stem": "Which effect of epidural opioids in children needs monitoring?",
+   "options": [
+    "Hypertension",
+    "Sedation",
+    "Polyuria",
+    "Tachycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#6f3b43",
+   "kind": "statement",
+   "stem": "Where are children with a paediatric epidural often nursed?",
+   "answer": "High dependency unit (HDU)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#9605f9",
+   "kind": "statement",
+   "stem": "Why do small children have fewer cardiovascular effects from epidurals?",
+   "answer": "Immature sympathetic system and low vascular tone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#eada93",
+   "kind": "mcq",
+   "stem": "Hypotension without bleeding during a paediatric epidural most suggests what?",
+   "options": [
+    "Intravascular catheter placement",
+    "Subarachnoid or subdural catheter",
+    "Excessive local anaesthetic absorption",
+    "Dural puncture headache"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#7249b9",
+   "kind": "mcq",
+   "stem": "Above what age is hypotension more common with a paediatric epidural?",
+   "options": [
+    "Under 2 years",
+    "Under 5 years",
+    "Over 8 years",
+    "Under 8 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#6e076f",
+   "kind": "statement",
+   "stem": "Which factors make a bloody tap more likely during paediatric epidural insertion?",
+   "answer": "IVC obstruction or excessive spinal flexion during insertion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/paediatric-epidural#f0b78c",
+   "kind": "mcq",
+   "stem": "A neonatal epidural catheter leaks but the block works. What should be done?",
+   "options": [
+    "Remove and re-site the catheter",
+    "Ignore the leak",
+    "Stop the infusion immediately",
+    "Give an extra bolus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

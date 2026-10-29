@@ -1,0 +1,393 @@
+{
+ "topic": "regional/neuraxial-anticoagulation",
+ "questions": [
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#161d1f",
+   "kind": "mcq",
+   "stem": "Before a neuraxial block in an anticoagulated patient, what platelet count is the threshold?",
+   "options": [
+    "50k",
+    "80k",
+    "150k",
+    "20k"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#9d1f94",
+   "kind": "mcq",
+   "stem": "What INR counts as normal before a neuraxial block?",
+   "options": [
+    "< 1.5",
+    "< 2.0",
+    "< 1.2",
+    "< 3.0"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#770b75",
+   "kind": "mcq",
+   "stem": "Which INR limit do European guidelines accept before a neuraxial block?",
+   "options": [
+    "1.4 or less",
+    "2.0 or less",
+    "3.0 or less",
+    "1.8 or less"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#62af97",
+   "kind": "statement",
+   "stem": "Do neuraxial coagulation thresholds vary between anaesthetists, and who should they be discussed with?",
+   "answer": "They vary; discuss them with your consultant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#cbd0a1",
+   "kind": "mcq",
+   "stem": "Does aspirin need stopping before a neuraxial block?",
+   "options": [
+    "Stop 3 days before",
+    "No, aspirin is fine",
+    "Stop 5 days before",
+    "Stop 24 hours before"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#ad84d7",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should clopidogrel (Plavix) be stopped?",
+   "options": [
+    "7 days",
+    "2 days",
+    "24 hours",
+    "14 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#a08e57",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should ticagrelor be stopped?",
+   "options": [
+    "24 hours",
+    "5–7 days",
+    "7–10 days",
+    "10-14 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#cfd743",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should prasugrel be stopped?",
+   "options": [
+    "5–7 days",
+    "48 hours",
+    "24 hours",
+    "7–10 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#41375d",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should ticlopidine be stopped?",
+   "options": [
+    "7–10 days",
+    "5–7 days",
+    "48 hours",
+    "10-14 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#a9b698",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should abciximab (a GP IIb/IIIa inhibitor) be stopped?",
+   "options": [
+    "24 hours",
+    "48 hours",
+    "7 days",
+    "12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#acedfb",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should warfarin be stopped, and what must the INR be?",
+   "options": [
+    "5 days, INR normal",
+    "2 days, INR normal",
+    "3 days, INR normal",
+    "10 days, INR normal"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#1d10fc",
+   "kind": "statement",
+   "stem": "How long before a neuraxial block should IV unfractionated heparin be stopped, and what is checked then?",
+   "answer": "4–6 hours, then check aPTT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#741362",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should once-nightly prophylactic LMWH be stopped?",
+   "options": [
+    "24hrs",
+    "4hrs",
+    "72hrs",
+    "12hrs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#0b0863",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should twice-daily treatment-dose LMWH be stopped?",
+   "options": [
+    "12hrs",
+    "24hrs",
+    "48hrs",
+    "72hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#6d7003",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should high-dose twice-daily apixaban be stopped?",
+   "options": [
+    "72hrs",
+    "36hrs",
+    "24hrs",
+    "48hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#15ad09",
+   "kind": "statement",
+   "stem": "For apixaban before a neuraxial block, what level-based alternative to a fixed wait does ASRA 2024 give?",
+   "answer": "Apixaban level < 30 ng/mL or anti-Xa activity ≤ 0.1 IU/mL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#6b51dd",
+   "kind": "mcq",
+   "stem": "How long before a neuraxial block should rivaroxaban be stopped?",
+   "options": [
+    "72 hours",
+    "24 hours",
+    "5 days",
+    "48 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#99fad4",
+   "kind": "statement",
+   "stem": "How long before a neuraxial block should dabigatran be stopped, and when is longer needed?",
+   "answer": "72 hours, longer if CrCl < 50ml/min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#fa7053",
+   "kind": "statement",
+   "stem": "In anticoagulated patients, what is the general rule about stopping essential drugs to allow a spinal?",
+   "answer": "Do not stop essential drugs just to allow a spinal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#608c63",
+   "kind": "statement",
+   "stem": "Which anticoagulants are acceptable while a neuraxial catheter is in place?",
+   "answer": "Only short-acting, low-dose agents such as UFH or prophylactic enoxaparin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#d4e423",
+   "kind": "mcq",
+   "stem": "After neuraxial catheter placement, how long should you wait before giving unfractionated heparin?",
+   "options": [
+    "4hrs",
+    "30 minutes",
+    "12hrs",
+    "1hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#1b3468",
+   "kind": "mcq",
+   "stem": "After neuraxial catheter placement, how long should you wait before a prophylactic enoxaparin dose?",
+   "options": [
+    "24hrs",
+    "1hr",
+    "4hrs",
+    "12hrs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#07fb3c",
+   "kind": "statement",
+   "stem": "Compared with the original puncture, how does removing or manipulating a catheter affect bleeding risk?",
+   "answer": "Same bleeding risk as the original puncture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#5f8775",
+   "kind": "mcq",
+   "stem": "On anticoagulants, do most peripheral nerve blocks need neuraxial-level restrictions?",
+   "options": [
+    "Yes, always the same restrictions",
+    "No; careful PNB is possible on anticoagulants",
+    "Only if the catheter stays in",
+    "Only for paediatric patients"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#484763",
+   "kind": "statement",
+   "stem": "Which peripheral nerve blocks should follow neuraxial anticoagulation rules?",
+   "answer": "Deep, non-compressible or high bleeding-risk blocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#c84268",
+   "kind": "statement",
+   "stem": "How can haematoma risk be reduced before a neuraxial block in an anticoagulated patient?",
+   "answer": "Check coagulation, follow ASRA guidance, avoid deep sites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#732ac1",
+   "kind": "statement",
+   "stem": "After a neuraxial block on anticoagulants, what post-block checks help catch haematoma early?",
+   "answer": "Early neurological checks; inspect the catheter site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#34aa53",
+   "kind": "mcq",
+   "stem": "How long after catheter removal can prophylactic enoxaparin be restarted?",
+   "options": [
+    "12hr",
+    "1hr",
+    "8hr",
+    "4hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#d2df0e",
+   "kind": "mcq",
+   "stem": "How long after catheter removal can IV unfractionated heparin be restarted?",
+   "options": [
+    "2hr",
+    "30 minutes",
+    "6hr",
+    "8hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#90ad45",
+   "kind": "mcq",
+   "stem": "How long after catheter removal can clopidogrel, warfarin or DOACs be restarted?",
+   "options": [
+    "4hr",
+    "24hr",
+    "6hr",
+    "2hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#1f591d",
+   "kind": "mcq",
+   "stem": "After neuraxial catheter removal, which procedures do the restart timings apply to?",
+   "options": [
+    "Only clean, atraumatic procedures",
+    "Bloody taps and clean procedures alike",
+    "Only procedures with multiple attempts",
+    "Only paediatric procedures"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/neuraxial-anticoagulation#f4d6fe",
+   "kind": "mcq",
+   "stem": "After a bloody tap or multiple attempts, how long may anticoagulant restart need delaying postop?",
+   "options": [
+    "24-48hrs postop",
+    "2-4hrs postop",
+    "6-12hrs postop",
+    "1-2hrs postop"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

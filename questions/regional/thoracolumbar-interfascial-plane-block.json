@@ -1,0 +1,55 @@
+{
+ "topic": "regional/thoracolumbar-interfascial-plane-block",
+ "questions": [
+  {
+   "fact_id": "regional/thoracolumbar-interfascial-plane-block#eaf711",
+   "kind": "mcq",
+   "stem": "The thoracolumbar interfascial plane block is used for which type of surgery?",
+   "options": [
+    "Spine surgery",
+    "Cardiac surgery",
+    "Hernia repair",
+    "Hip arthroplasty"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracolumbar-interfascial-plane-block#eaf711",
+   "kind": "blank",
+   "stem": "Compared with the erector spinae plane block, the TLIP block is more ____.",
+   "answer": "targeted",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracolumbar-interfascial-plane-block#4bc2ff",
+   "kind": "mcq",
+   "stem": "In the classical (medial) thoracolumbar interfascial plane block, which plane is targeted?",
+   "options": [
+    "Between longissimus and iliocostalis",
+    "Between multifidus and longissimus",
+    "Between erector spinae and psoas",
+    "Between transversus abdominis and internal oblique"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/thoracolumbar-interfascial-plane-block#c1dafd",
+   "kind": "mcq",
+   "stem": "In the modified (lateral) thoracolumbar interfascial plane block, which plane is targeted?",
+   "options": [
+    "Between erector spinae and psoas",
+    "Between transversus abdominis and internal oblique",
+    "Between multifidus and longissimus",
+    "Between longissimus and iliocostalis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

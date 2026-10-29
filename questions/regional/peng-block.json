@@ -1,0 +1,319 @@
+{
+ "topic": "regional/peng-block",
+ "questions": [
+  {
+   "fact_id": "regional/peng-block#e102cd",
+   "kind": "mcq",
+   "stem": "In what year was the PENG block first described?",
+   "options": [
+    "2015",
+    "2018",
+    "2020",
+    "2023"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#365bf0",
+   "kind": "mcq",
+   "stem": "In the PENG block, which structure lies in front of the injection plane?",
+   "options": [
+    "Sartorius muscle",
+    "Pubic ramus",
+    "Psoas tendon",
+    "Iliacus muscle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#48d215",
+   "kind": "mcq",
+   "stem": "For which surgery was the PENG block originally developed for postoperative analgesia?",
+   "options": [
+    "Total knee arthroplasty",
+    "Lumbar spinal fusion",
+    "Total hip arthroplasty",
+    "Carpal tunnel release"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#218c4a",
+   "kind": "mcq",
+   "stem": "Compared with femoral or fascia iliaca blocks, what does the PENG block aim to be for hip pain?",
+   "options": [
+    "A less complete, motor-blocking alternative",
+    "A more complete, motor-blocking alternative",
+    "A less complete, motor-sparing alternative",
+    "A more complete, motor-sparing alternative"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#63b950",
+   "kind": "mcq",
+   "stem": "Which nerve supplying the anterior hip capsule is present only in some patients?",
+   "options": [
+    "Femoral nerve",
+    "Sciatic nerve",
+    "Accessory obturator nerve",
+    "Superior gluteal nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#83e1df",
+   "kind": "mcq",
+   "stem": "Which nerve mainly supplies the posterior hip capsule?",
+   "options": [
+    "Obturator nerve",
+    "Nerve to quadratus femoris",
+    "Femoral nerve",
+    "Lateral femoral cutaneous nerve"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#677326",
+   "kind": "statement",
+   "stem": "Why is the anterior hip capsule the target of the PENG block?",
+   "answer": "It carries most of the joint's sensory supply and most postoperative hip pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#4a8c13",
+   "kind": "statement",
+   "stem": "Which three nerves' articular branches to the hip capsule does the PENG block cover?",
+   "answer": "Femoral, obturator and accessory obturator nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#7de0eb",
+   "kind": "mcq",
+   "stem": "Down to which level does the PENG block cover proximal hip fractures?",
+   "options": [
+    "Subtrochanteric level",
+    "Femoral shaft",
+    "Intertrochanteric level",
+    "Distal femoral condyle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#5a3c9f",
+   "kind": "mcq",
+   "stem": "What provides intertrochanteric cover with the PENG block?",
+   "options": [
+    "Caudal spread of local anaesthetic",
+    "Cranial spread into the iliacus",
+    "Direct injection into the femoral head",
+    "Blockade of the sciatic nerve"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#5a3c9f",
+   "kind": "mcq",
+   "stem": "What volume is described for achieving intertrochanteric cover with the PENG block?",
+   "options": [
+    "5 mL",
+    "40 mL",
+    "20 mL",
+    "60 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#476937",
+   "kind": "mcq",
+   "stem": "Which cutaneous nerve is not blocked by the PENG block?",
+   "options": [
+    "Femoral nerve",
+    "Obturator nerve",
+    "Lateral femoral cutaneous nerve",
+    "Accessory obturator nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#1ebfa1",
+   "kind": "mcq",
+   "stem": "After which surgery is the PENG block indicated for postoperative analgesia?",
+   "options": [
+    "Knee arthroscopy",
+    "Shoulder arthroscopy",
+    "Ankle fracture fixation",
+    "Hip joint surgery"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#c6f79a",
+   "kind": "mcq",
+   "stem": "For pain from which fractures is the PENG block indicated?",
+   "options": [
+    "Distal femur fractures",
+    "Tibial plateau fractures",
+    "Proximal femur or femoral head fractures",
+    "Distal radius fractures"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#7cc5f2",
+   "kind": "mcq",
+   "stem": "What position is the patient in for the PENG block?",
+   "options": [
+    "Prone",
+    "Lateral decubitus",
+    "Sitting",
+    "Supine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#f94ecc",
+   "kind": "mcq",
+   "stem": "Where is the linear probe placed transversely for the PENG block?",
+   "options": [
+    "Over the greater trochanter",
+    "Over the pubic symphysis",
+    "Over the posterior superior iliac spine",
+    "Over the anterior superior iliac spine (ASIS)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#f4c766",
+   "kind": "mcq",
+   "stem": "In the PENG block, how is the probe rotated to line up with the pubic ramus?",
+   "options": [
+    "About 90 degrees, perpendicular to the inguinal crease",
+    "About 15 degrees, parallel to the inguinal crease",
+    "Rotate about 45 degrees, parallel to the inguinal crease",
+    "About 60 degrees, perpendicular to the inguinal crease"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#4d4252",
+   "kind": "statement",
+   "stem": "In the PENG block, which landmarks should be clear after sliding the probe medially?",
+   "answer": "Anterior inferior iliac spine (AIIS), iliopubic eminence (IPE) and psoas tendon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#b8ee8c",
+   "kind": "mcq",
+   "stem": "In the PENG block, what does sliding distally or tilting caudally show?",
+   "options": [
+    "The sciatic nerve",
+    "The obturator internus",
+    "The iliopsoas bursa",
+    "The femoral head"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#7af474",
+   "kind": "statement",
+   "stem": "In the PENG block, where should the psoas tendon sit when you return to the scanning line?",
+   "answer": "Between AIIS and IPE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#65c501",
+   "kind": "mcq",
+   "stem": "What needle length is used for the PENG block?",
+   "options": [
+    "50mm",
+    "25mm",
+    "150mm",
+    "100mm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#65c501",
+   "kind": "statement",
+   "stem": "In the PENG block, in which direction is the in-plane needle advanced?",
+   "answer": "Lateral to medial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#e7de53",
+   "kind": "mcq",
+   "stem": "What volume of long-acting local anaesthetic is injected in the PENG block?",
+   "options": [
+    "5-10ml",
+    "30-40ml",
+    "15-20ml",
+    "40-50ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#e7de53",
+   "kind": "mcq",
+   "stem": "Which long-acting local anaesthetic is given as an example for the PENG block?",
+   "options": [
+    "0.2% ropivacaine",
+    "0.5% ropivacaine",
+    "2% lidocaine",
+    "1% prilocaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peng-block#7f291c",
+   "kind": "statement",
+   "stem": "What common PENG error can mimic a true lift of the psoas tendon?",
+   "answer": "Spread just under the epimysium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
