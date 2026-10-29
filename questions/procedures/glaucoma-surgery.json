@@ -1,0 +1,335 @@
+{
+ "topic": "procedures/glaucoma-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/glaucoma-surgery#670c9a",
+   "kind": "statement",
+   "stem": "What is the particular risk for glaucoma patients if a sight-threatening complication occurs?",
+   "answer": "Higher risk of losing sight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#03e0c1",
+   "kind": "statement",
+   "stem": "What other name is given to wipe-out in glaucoma surgery?",
+   "answer": "Snuff syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#694b56",
+   "kind": "mcq",
+   "stem": "How common is wipe-out after glaucoma surgery in some studies?",
+   "options": [
+    "Up to 10-15%",
+    "Up to 0.01%",
+    "Up to 5-8%",
+    "Up to 1-2%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#b45916",
+   "kind": "statement",
+   "stem": "What are the likely causes of wipe-out after glaucoma surgery?",
+   "answer": "The optic nerve itself, surgical factors, or IOP changes after surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#b45916",
+   "kind": "mcq",
+   "stem": "What is the current evidence on an anaesthetic cause of wipe-out in glaucoma surgery?",
+   "options": [
+    "Strong trial evidence for one",
+    "Case series show one clearly",
+    "No anaesthetic mechanism proven",
+    "Blood loss is the cause"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#e83e24",
+   "kind": "mcq",
+   "stem": "What systemic effect can topical timolol for glaucoma cause?",
+   "options": [
+    "Systemic muscarinic blockade",
+    "Systemic beta-blockade",
+    "Systemic carbonic anhydrase inhibition",
+    "Systemic opioid receptor blockade"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#e83e24",
+   "kind": "mcq",
+   "stem": "What class of drug is topical timolol?",
+   "options": [
+    "Topical alpha-agonist",
+    "Topical cholinesterase inhibitor",
+    "Topical beta-blocker",
+    "Topical prostaglandin analogue"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#def5a7",
+   "kind": "mcq",
+   "stem": "Which drug class does acetazolamide belong to when used to lower IOP?",
+   "options": [
+    "Beta-adrenergic blocker",
+    "Cholinesterase inhibitor",
+    "Carbonic anhydrase inhibitor",
+    "Osmotic diuretic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#703d89",
+   "kind": "mcq",
+   "stem": "What complication can mannitol cause in glaucoma patients through osmotic diuresis?",
+   "options": [
+    "Gastric distension",
+    "Ankle oedema",
+    "Bladder distension",
+    "Hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#703d89",
+   "kind": "statement",
+   "stem": "Why is mannitol sometimes used in glaucoma surgery?",
+   "answer": "To lower intraocular pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#6c307c",
+   "kind": "mcq",
+   "stem": "Which glaucoma filtration operation is the standard procedure?",
+   "options": [
+    "Vitrectomy",
+    "Cyclocryotherapy",
+    "Phacoemulsification",
+    "Trabeculectomy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#552c7d",
+   "kind": "mcq",
+   "stem": "How long does a trabeculectomy usually take?",
+   "options": [
+    "20-60 min",
+    "5-10 min",
+    "90-120 min",
+    "2-3 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#9b5b4c",
+   "kind": "mcq",
+   "stem": "For how long are anticoagulants and antiplatelets usually stopped before trabeculectomy?",
+   "options": [
+    "1-3 days",
+    "6-8 weeks",
+    "1-3 weeks",
+    "3-6 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#9b5b4c",
+   "kind": "statement",
+   "stem": "Why are anticoagulants and antiplatelets stopped before trabeculectomy?",
+   "answer": "Risk of sight-threatening choroidal haemorrhage while IOP is low early on",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#07b2fd",
+   "kind": "statement",
+   "stem": "What is the main cause of trabeculectomy failure?",
+   "answer": "Scarring (over-healing) of Tenon's layer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#47ca93",
+   "kind": "statement",
+   "stem": "What is the purpose of topical antimetabolites such as mitomycin C in trabeculectomy?",
+   "answer": "To reduce scarring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#47ca93",
+   "kind": "blank",
+   "stem": "In trabeculectomy, topical mitomycin C or 5-fluorouracil is used to reduce ____.",
+   "answer": "scarring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#d707fe",
+   "kind": "mcq",
+   "stem": "Which valved glaucoma drainage device is most often used?",
+   "options": [
+    "Baerveldt tube",
+    "Schlemm canal stent",
+    "Ahmed tube",
+    "Cyclocryotherapy probe"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#d707fe",
+   "kind": "statement",
+   "stem": "What feature defines a valved glaucoma drainage device?",
+   "answer": "An IOP-regulating valve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#a26742",
+   "kind": "mcq",
+   "stem": "How does glaucoma drainage device surgery compare with trabeculectomy in length?",
+   "options": [
+    "Shorter",
+    "Longer",
+    "The same",
+    "Much quicker"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#841bdc",
+   "kind": "statement",
+   "stem": "Name two non-penetrating glaucoma operations.",
+   "answer": "Viscocanalostomy, deep sclerectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#348935",
+   "kind": "mcq",
+   "stem": "Which is a cyclodestructive glaucoma procedure?",
+   "options": [
+    "Viscocanalostomy",
+    "Deep sclerectomy",
+    "Cyclodiode laser",
+    "Ahmed tube insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#1612fa",
+   "kind": "statement",
+   "stem": "How does combining glaucoma and cataract surgery affect the operation?",
+   "answer": "A longer operation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#82b8e3",
+   "kind": "statement",
+   "stem": "Name three things to avoid in glaucoma anaesthesia to stop IOP rising.",
+   "answer": "Straining, coughing or hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#f857ac",
+   "kind": "mcq",
+   "stem": "Which regional anaesthesia risk relates to wipe-out in glaucoma patients?",
+   "options": [
+    "Hypotension from sympathectomy",
+    "Local anaesthetic mass effect behind the eye",
+    "Respiratory depression from opioids",
+    "Hypokalaemia from diuretics"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#e1a8fc",
+   "kind": "mcq",
+   "stem": "Why maintain mean arterial pressure during glaucoma surgery?",
+   "options": [
+    "Lowering corneal thickness",
+    "Preventing postoperative nausea",
+    "Improving wound healing",
+    "Optic nerve perfusion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#f0d9ce",
+   "kind": "statement",
+   "stem": "What complication does postoperative hypotony risk in glaucoma surgery?",
+   "answer": "Choroidal haemorrhage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#0e99f7",
+   "kind": "mcq",
+   "stem": "Which glaucoma procedure causes the most postoperative pain?",
+   "options": [
+    "Cyclodestructive procedures",
+    "Trabeculectomy",
+    "Viscocanalostomy",
+    "Drainage device insertion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#db7f04",
+   "kind": "statement",
+   "stem": "In which glaucoma type is examination under anaesthesia most often needed?",
+   "answer": "Congenital glaucoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/glaucoma-surgery#12e8b8",
+   "kind": "statement",
+   "stem": "What is the main aim of examination under anaesthesia in glaucoma?",
+   "answer": "Avoid anything that changes IOP significantly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

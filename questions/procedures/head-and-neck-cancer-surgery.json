@@ -1,0 +1,633 @@
+{
+ "topic": "procedures/head-and-neck-cancer-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#7a2176",
+   "kind": "mcq",
+   "stem": "In head and neck cancer surgery, if a tracheostomy may be done later, which initial airway is fine?",
+   "options": [
+    "A laryngeal mask airway",
+    "A normal ETT",
+    "A double-lumen tube",
+    "A jet ventilation catheter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#88d1cf",
+   "kind": "mcq",
+   "stem": "In head and neck cancer surgery, which monitor is advised for major resections and flaps?",
+   "options": [
+    "Pulmonary artery catheter",
+    "Epidural catheter",
+    "Arterial line",
+    "Bispectral index monitor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#b6866b",
+   "kind": "statement",
+   "stem": "Which vein is suggested for large-bore IV access in head and neck cancer surgery?",
+   "answer": "Saphenous vein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#562ff8",
+   "kind": "statement",
+   "stem": "Which two monitoring items does the note list for long head and neck cancer surgery?",
+   "answer": "Urinary catheter and temperature monitoring (rectal probe)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#0b0ae3",
+   "kind": "mcq",
+   "stem": "In head and neck cancer surgery, if a central line is needed, where should it go to avoid the neck?",
+   "options": [
+    "Internal jugular or external jugular",
+    "Radial or brachial artery",
+    "Femoral or subclavian",
+    "Cephalic or basilic vein"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#8b1763",
+   "kind": "mcq",
+   "stem": "What position in head and neck cancer surgery improves venous drainage and reduces ooze?",
+   "options": [
+    "Head-down (Trendelenburg)",
+    "Head-up (reverse Trendelenburg)",
+    "Lateral tilt",
+    "Flat supine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#c3a507",
+   "kind": "statement",
+   "stem": "In long head and neck cancer surgery, what should be carefully padded?",
+   "answer": "Pressure points (back, heels)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#f317cb",
+   "kind": "mcq",
+   "stem": "In head and neck cancer surgery with nerve monitoring, which drug class is contraindicated?",
+   "options": [
+    "Opioid analgesics",
+    "Volatile anaesthetic agents",
+    "Neuromuscular blockers",
+    "Antiemetic drugs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#f317cb",
+   "kind": "statement",
+   "stem": "Which two nerves may be monitored in head and neck cancer surgery to protect them?",
+   "answer": "Spinal accessory and facial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#7ea646",
+   "kind": "statement",
+   "stem": "Which complication is uncommon but a concern in radical neck surgery?",
+   "answer": "Venous air embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#12af90",
+   "kind": "statement",
+   "stem": "What haemodynamic effects can carotid sinus and stellate ganglion handling cause in radical neck dissection?",
+   "answer": "Wide BP swings, arrhythmias, sinus arrest, prolonged QT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#12af90",
+   "kind": "mcq",
+   "stem": "Handling which two structures in radical neck dissection can cause wide BP swings and arrhythmias?",
+   "options": [
+    "Carotid sinus and stellate ganglion",
+    "Phrenic nerve and pleura",
+    "Vagus and recurrent laryngeal nerve",
+    "Thoracic duct and cisterna chyli"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#03773b",
+   "kind": "mcq",
+   "stem": "Traction on the maxilla in head and neck surgery causes which heart rate change?",
+   "options": [
+    "Tachycardia",
+    "Bradycardia",
+    "Atrial fibrillation",
+    "Ventricular tachycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#03773b",
+   "kind": "statement",
+   "stem": "Which reflex links maxillary traction to bradycardia?",
+   "answer": "Trigeminovagal reflex",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#d5d5e7",
+   "kind": "statement",
+   "stem": "In head and neck cancer surgery without a tracheostomy, what makes extubation timing crucial?",
+   "answer": "Oedema and airway distortion from surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#ba0dc3",
+   "kind": "mcq",
+   "stem": "After long head and neck cancer surgery with free flaps, where may the patient stay intubated overnight?",
+   "options": [
+    "Recovery room",
+    "General ward",
+    "Intensive care unit",
+    "Anaesthetic room"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#e9965f",
+   "kind": "statement",
+   "stem": "In head and neck cancer surgery, where can some patients be extubated fully awake?",
+   "answer": "In theatre or recovery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#3ff448",
+   "kind": "statement",
+   "stem": "At extubation after head and neck cancer surgery, what equipment should be kept ready?",
+   "answer": "The same airway equipment as at induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#9f78ef",
+   "kind": "statement",
+   "stem": "After head and neck cancer surgery, what should emergence aim for to limit bleeding?",
+   "answer": "A smooth emergence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#db2586",
+   "kind": "statement",
+   "stem": "After head and neck cancer surgery, which complication can compress the trachea?",
+   "answer": "Neck haematoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#25c0f2",
+   "kind": "mcq",
+   "stem": "Which veins does radical neck dissection remove?",
+   "options": [
+    "Subclavian and axillary veins",
+    "Internal and external jugular veins",
+    "Femoral and saphenous veins",
+    "Vertebral and brachiocephalic veins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#e01de8",
+   "kind": "statement",
+   "stem": "Before radical neck dissection, which assessment is emphasised?",
+   "answer": "Careful airway assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#0750aa",
+   "kind": "mcq",
+   "stem": "Mandibulectomy in head and neck cancer surgery is usually done for which lesion?",
+   "options": [
+    "Dental abscess",
+    "Malignant oral tumours",
+    "Salivary gland stones",
+    "Traumatic jaw fracture"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#3cd0bb",
+   "kind": "statement",
+   "stem": "What procedure is mandibulectomy often combined with in head and neck cancer surgery?",
+   "answer": "Neck dissection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#67e18f",
+   "kind": "statement",
+   "stem": "In head and neck cancer surgery, what does mandibulectomy usually need afterwards?",
+   "answer": "Reconstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#73a074",
+   "kind": "mcq",
+   "stem": "After mandibulectomy in head and neck cancer surgery, what airway is usually needed?",
+   "options": [
+    "Nasal intubation",
+    "Laryngeal mask airway",
+    "Tracheostomy",
+    "Awake fibreoptic intubation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#73a074",
+   "kind": "mcq",
+   "stem": "After an intraoral marginal resection closed locally in head and neck cancer surgery, how long may intubation suffice instead of a tracheostomy?",
+   "options": [
+    "2–3 days",
+    "5–7 days",
+    "10–14 days",
+    "12–18 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#b3bcf8",
+   "kind": "mcq",
+   "stem": "What is the usual surgical time for mandibulectomy in head and neck cancer surgery, before the flap?",
+   "options": [
+    "2-3 h",
+    "6-8 h",
+    "12-14 h",
+    "4-5 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#b3bcf8",
+   "kind": "mcq",
+   "stem": "How much extra time does the flap add to mandibulectomy surgery in head and neck cancer?",
+   "options": [
+    "8-10 h",
+    "3-6 h",
+    "1-2 h",
+    "12 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#1a1d53",
+   "kind": "statement",
+   "stem": "Which extents of maxillectomy does the note list for head and neck cancer surgery?",
+   "answer": "Total (with or without orbital exenteration), subtotal or limited",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#1a1d53",
+   "kind": "mcq",
+   "stem": "Maxillectomy in head and neck cancer surgery is mostly done for which kind of disease?",
+   "options": [
+    "Benign bone cysts",
+    "Malignant tumours",
+    "Dental infections",
+    "Traumatic midface fractures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#4ac5d0",
+   "kind": "mcq",
+   "stem": "In maxillectomy, which venous structure is the usual source of heavy bleeding?",
+   "options": [
+    "Cavernous sinus",
+    "Pterygoid plexus",
+    "Facial vein",
+    "Internal jugular vein"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#4ac5d0",
+   "kind": "mcq",
+   "stem": "How does bleeding change in maxillectomy as dissection moves from front to back?",
+   "options": [
+    "It stays constant",
+    "It decreases",
+    "It increases",
+    "It falls then rises"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#7426d4",
+   "kind": "mcq",
+   "stem": "What mean blood loss is recorded for maxillectomy in head and neck cancer surgery?",
+   "options": [
+    "1242.7 ml",
+    "1422.7 ml",
+    "846.6 ml",
+    "1522.7 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#7426d4",
+   "kind": "mcq",
+   "stem": "What mean blood loss is recorded for major mandibulectomy in head and neck cancer surgery?",
+   "options": [
+    "684.6 ml",
+    "846.6 ml",
+    "426.0 ml",
+    "1422.7 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#7426d4",
+   "kind": "mcq",
+   "stem": "What mean blood loss is recorded for minor mandibulectomy in head and neck cancer surgery?",
+   "options": [
+    "326.0 ml",
+    "426.0 ml",
+    "462.0 ml",
+    "540.0 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#ee91c8",
+   "kind": "mcq",
+   "stem": "What airway is usually used for maxillectomy in head and neck cancer surgery?",
+   "options": [
+    "Tracheostomy",
+    "Oral intubation",
+    "Laryngeal mask airway",
+    "Awake fibreoptic nasal intubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#b3c067",
+   "kind": "mcq",
+   "stem": "Glossectomy in head and neck cancer surgery is done partially or totally for which condition?",
+   "options": [
+    "Laryngeal stenosis",
+    "Tongue tumours",
+    "Pharyngeal stricture",
+    "Thyroid nodules"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#ab0cb7",
+   "kind": "statement",
+   "stem": "What mouth gag is used for exposure in glossectomy?",
+   "answer": "Side-biting or Dingman gag",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#ab0cb7",
+   "kind": "statement",
+   "stem": "In head and neck cancer surgery, how is the wound usually closed after glossectomy?",
+   "answer": "Closed primarily",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#7e8c99",
+   "kind": "statement",
+   "stem": "Why is total glossectomy often combined with laryngectomy?",
+   "answer": "Because of aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#8c6b1e",
+   "kind": "statement",
+   "stem": "Glossectomy in head and neck cancer surgery may be combined with which two procedures?",
+   "answer": "Neck dissection or mandibulectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#922be9",
+   "kind": "mcq",
+   "stem": "After glossectomy in head and neck cancer surgery, how long may oral intubation suffice without a tracheostomy?",
+   "options": [
+    "6–8 h",
+    "3–5 days",
+    "24–48 h",
+    "7–10 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#922be9",
+   "kind": "statement",
+   "stem": "In glossectomy, what decides whether a tracheostomy may be needed?",
+   "answer": "The extent and site of resection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#bce612",
+   "kind": "statement",
+   "stem": "Which two resections are combined with pharyngectomy in head and neck cancer surgery?",
+   "answer": "Glossectomy plus radical tonsillectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#bce612",
+   "kind": "mcq",
+   "stem": "What extra step may pharyngectomy need in head and neck cancer surgery?",
+   "options": [
+    "Thyroidectomy",
+    "Sternotomy",
+    "Mandibular split and tissue transfer",
+    "Tracheal resection"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#b11b65",
+   "kind": "mcq",
+   "stem": "For pharyngectomy, which free flap is noted in the preoperative access discussion?",
+   "options": [
+    "Latissimus dorsi flap",
+    "Forearm free flap",
+    "Rectus abdominis flap",
+    "Scapular flap"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#b11b65",
+   "kind": "statement",
+   "stem": "Before pharyngectomy in head and neck cancer surgery, which assessment is emphasised?",
+   "answer": "Careful airway assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#62474f",
+   "kind": "statement",
+   "stem": "Besides removing the larynx, what does laryngectomy create in head and neck cancer surgery?",
+   "answer": "End tracheostomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#88b1d0",
+   "kind": "statement",
+   "stem": "Which therapy prepares laryngectomy patients for life with a stoma?",
+   "answer": "Speech and language therapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#88b1d0",
+   "kind": "statement",
+   "stem": "What preoperative assessment is needed before laryngectomy in head and neck cancer surgery?",
+   "answer": "Thorough airway assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#b33b42",
+   "kind": "statement",
+   "stem": "After which two radical resections is flap reconstruction often needed?",
+   "answer": "Maxillectomy or mandibulectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#6eaade",
+   "kind": "statement",
+   "stem": "In head and neck flap reconstruction, how is the flap type chosen?",
+   "answer": "By the defect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#6eaade",
+   "kind": "statement",
+   "stem": "Which flap type in head and neck reconstruction combines bone and skin?",
+   "answer": "Osteocutaneous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#e71a98",
+   "kind": "statement",
+   "stem": "Which vasoconstrictor is infiltrated to reduce bleeding in head and neck flap surgery?",
+   "answer": "Adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#f0980f",
+   "kind": "statement",
+   "stem": "In head and neck flap surgery, what does crossing the midline do to the defect?",
+   "answer": "Makes it much larger",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#f8850a",
+   "kind": "statement",
+   "stem": "Before a raised flap is needed, how is it kept perfused?",
+   "answer": "Under warm packs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#f8850a",
+   "kind": "statement",
+   "stem": "In head and neck flap surgery, which result comes first before the flap is used?",
+   "answer": "Frozen section results",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/head-and-neck-cancer-surgery#4636d1",
+   "kind": "mcq",
+   "stem": "What haematocrit range is desirable for flow in free flap surgery?",
+   "options": [
+    "15-20%",
+    "27-30%",
+    "35-40%",
+    "45-50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

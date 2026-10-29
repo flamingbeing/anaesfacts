@@ -1,0 +1,123 @@
+{
+ "topic": "procedures/paediatric-ent-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#a68090",
+   "kind": "statement",
+   "stem": "What does the shared airway in paediatric ENT surgery require?",
+   "answer": "Very good communication between surgeon and anaesthetist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#664c6a",
+   "kind": "mcq",
+   "stem": "In paediatric ENT surgery, which setting suits many procedures?",
+   "options": [
+    "Day surgery",
+    "Intensive care unit",
+    "Specialist neonatal unit",
+    "Home anaesthesia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#a9a288",
+   "kind": "mcq",
+   "stem": "In paediatric ENT surgery, where are most operations done?",
+   "options": [
+    "In specialist paediatric centres",
+    "In general hospitals",
+    "In private clinics only",
+    "In military field hospitals"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#867c58",
+   "kind": "statement",
+   "stem": "What knowledge does paediatric ENT anaesthesia need?",
+   "answer": "Sound knowledge of paediatric airway anatomy, physiology and pathology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#b1e1d2",
+   "kind": "statement",
+   "stem": "What should be known about rare conditions in paediatric ENT surgery?",
+   "answer": "They may be linked to a difficult airway and intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#5e7b9a",
+   "kind": "mcq",
+   "stem": "In paediatric ENT nasal intubation, what should replace co-phenylcaine spray?",
+   "options": [
+    "Lidocaine gel",
+    "Iliadin nose drops",
+    "Adrenaline pledgets",
+    "Amethocaine drops"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#1d68cb",
+   "kind": "mcq",
+   "stem": "In paediatric nasal intubation, does the tube need downsizing?",
+   "options": [
+    "No, it does not need downsizing",
+    "Yes, one size smaller",
+    "Yes, half a size smaller",
+    "Yes, two sizes smaller"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#da693a",
+   "kind": "statement",
+   "stem": "In paediatric ENT surgery, what are examples of middle ear surgery?",
+   "answer": "Mastoidectomy and tympanoplasty",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#4df7fa",
+   "kind": "statement",
+   "stem": "In paediatric ENT surgery, what is the procedure for a preauricular sinus?",
+   "answer": "Excision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#6b5e5b",
+   "kind": "statement",
+   "stem": "Give one example of a face lump excision in paediatric ENT surgery.",
+   "answer": "Pinna cyst excision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ent-surgery#8b6167",
+   "kind": "mcq",
+   "stem": "Why is botox injected into salivary glands in paediatric ENT surgery?",
+   "options": [
+    "To treat hypersalivation",
+    "To treat dry mouth",
+    "To treat salivary stones",
+    "To relieve parotid pain"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

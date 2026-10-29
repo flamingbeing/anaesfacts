@@ -1,0 +1,289 @@
+{
+ "topic": "procedures/hand-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/hand-surgery#28a676",
+   "kind": "statement",
+   "stem": "Why is a full assessment as for GA needed before hand surgery?",
+   "answer": "The patient may ask for GA and blocks can fail",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#3430f6",
+   "kind": "statement",
+   "stem": "If hand surgery is done with the patient awake, what must they be able to do?",
+   "answer": "Lie flat for the length of the operation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#e1dc3e",
+   "kind": "statement",
+   "stem": "What must be checked about the operative arm before hand surgery?",
+   "answer": "Whether they can reach the position needed for the block and surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#e04ae2",
+   "kind": "mcq",
+   "stem": "Which blocks usually control pain well in hand surgery?",
+   "options": [
+    "Femoral nerve block",
+    "Wrist or digital block",
+    "Lumbar epidural",
+    "Stellate ganglion block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#21912c",
+   "kind": "mcq",
+   "stem": "How much blood loss is usual in hand surgery?",
+   "options": [
+    "Massive, needing transfusion",
+    "Around one litre",
+    "Minimal",
+    "Moderate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#28dccd",
+   "kind": "mcq",
+   "stem": "Where is the drip and plug placed in hand surgery?",
+   "options": [
+    "Under the surgical drape",
+    "Non-operative side",
+    "Lower leg",
+    "Central line only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#28dccd",
+   "kind": "statement",
+   "stem": "What valve is used on the drip and plug in hand surgery?",
+   "answer": "Anti-reflux valve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#2c67f2",
+   "kind": "statement",
+   "stem": "Most hand procedures can be done as day cases under which anaesthesia types?",
+   "answer": "Local or regional anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#4f25f4",
+   "kind": "mcq",
+   "stem": "Which of these is a local anaesthetic technique for hand surgery?",
+   "options": [
+    "Lumbar epidural",
+    "Caudal block",
+    "Local infiltration",
+    "Spinal anaesthesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#7062d1",
+   "kind": "mcq",
+   "stem": "Which regional technique is commonly used for hand surgery?",
+   "options": [
+    "Thoracic epidural",
+    "Nerve block",
+    "Caudal block",
+    "Intraperitoneal instillation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#4eaf53",
+   "kind": "mcq",
+   "stem": "Which surgery suits IV regional anaesthesia in hand surgery?",
+   "options": [
+    "Above-elbow surgery over 60 min",
+    "Chest wall surgery of any length",
+    "Intra-abdominal surgery of 30 min or less",
+    "Below-elbow surgery of 30 min or less"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#4eaf53",
+   "kind": "statement",
+   "stem": "How commonly is IV regional anaesthesia used in hand surgery now?",
+   "answer": "Rarely",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#27c2be",
+   "kind": "statement",
+   "stem": "What largely decides whether local or regional anaesthesia alone is tolerated in hand surgery?",
+   "answer": "The site and duration of the upper-arm tourniquet",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#d0c084",
+   "kind": "mcq",
+   "stem": "How long does a good brachial plexus block usually allow arm ischaemia?",
+   "options": [
+    "10–20 min",
+    "30–40 min",
+    "60–90 min",
+    "120–150 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#1760e9",
+   "kind": "mcq",
+   "stem": "Which nerve is blocked to reduce upper-arm tourniquet pain?",
+   "options": [
+    "Radial nerve",
+    "Musculocutaneous nerve",
+    "Ulnar nerve",
+    "Intercostobrachial nerve"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#0d806d",
+   "kind": "mcq",
+   "stem": "What should be avoided near the digits in hand surgery?",
+   "options": [
+    "Plain saline irrigation",
+    "Tourniquet cuffs on the wrist",
+    "Adrenaline-containing solutions",
+    "Warmed intravenous fluid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#ba45f2",
+   "kind": "statement",
+   "stem": "If a splint goes on after skin closure in hand surgery, what should the anaesthetic plan be?",
+   "answer": "Keep the patient anaesthetised during splinting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#0fb1f9",
+   "kind": "mcq",
+   "stem": "Which type of hand surgery causes less pain afterwards?",
+   "options": [
+    "Bone and joint surgery",
+    "Skin and soft tissue surgery",
+    "Both equally painful",
+    "Joint replacement surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#f798c6",
+   "kind": "mcq",
+   "stem": "What may painful hand surgery cases need beyond simple analgesic combinations?",
+   "options": [
+    "Opioids or a regional catheter",
+    "Oral antibiotics only",
+    "Nothing beyond dressings",
+    "Ice packs alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#0067a7",
+   "kind": "statement",
+   "stem": "Who can give a digital block at the end of hand surgery?",
+   "answer": "Surgeons",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#42d09c",
+   "kind": "mcq",
+   "stem": "Carpal tunnel release is usually done under which anaesthetic?",
+   "options": [
+    "General anaesthesia with intubation",
+    "Local or wrist block",
+    "Spinal anaesthesia",
+    "Epidural anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#b6c971",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is usually used for digit replantation?",
+   "options": [
+    "Local infiltration alone",
+    "General anaesthesia",
+    "Digital block alone",
+    "IV regional anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#b6c971",
+   "kind": "statement",
+   "stem": "What does a regional block provide during digit replantation?",
+   "answer": "A sympathectomy effect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#bbd3e6",
+   "kind": "statement",
+   "stem": "Which patients often undergo MCP joint replacement?",
+   "answer": "Frailer patients with systemic disease, including rheumatoid arthritis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-surgery#0669f8",
+   "kind": "mcq",
+   "stem": "Why must any nerve block be distal for tenolysis?",
+   "options": [
+    "To keep the hand immobile for surgery",
+    "To prevent hypotension during the block",
+    "To allow the patient to move the hand for testing",
+    "To reduce bleeding at the operative site"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "topic": "procedures/knee-arthroscopy",
+ "questions": [
+  {
+   "fact_id": "procedures/knee-arthroscopy#dd1cba",
+   "kind": "blank",
+   "stem": "In knee arthroscopy, patients are usually ____ than joint replacement patients.",
+   "answer": "younger",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#7fdb51",
+   "kind": "statement",
+   "stem": "For smaller knee arthroscopy day cases, what must the technique allow?",
+   "answer": "Early walking and discharge.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#e217c4",
+   "kind": "mcq",
+   "stem": "Knee EUA with or without washout can be done under which anaesthetic alone?",
+   "options": [
+    "General anaesthesia with a laryngeal mask",
+    "Spinal anaesthesia with intrathecal opioid",
+    "Intra-articular and infiltration local anaesthetic",
+    "Intravenous midazolam sedation alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#ea3574",
+   "kind": "statement",
+   "stem": "Why are nerve blocks of limited use for knee arthroscopy?",
+   "answer": "Long duration, and they fail to cover the thigh tourniquet site.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#171a56",
+   "kind": "mcq",
+   "stem": "What premedication is given before knee arthroscopy?",
+   "options": [
+    "Intravenous morphine and cyclizine",
+    "Oral midazolam and hyoscine",
+    "Paracetamol and an NSAID",
+    "Oral diazepam and ondansetron"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#081e2f",
+   "kind": "mcq",
+   "stem": "In standard day-case knee arthroscopy under GA with an LMA, which IV opioid dose is given as an example?",
+   "options": [
+    "Fentanyl 2 mcg/kg",
+    "Fentanyl 1 mcg/kg",
+    "Fentanyl 3 mcg/kg",
+    "Morphine 0.1 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#40a902",
+   "kind": "mcq",
+   "stem": "What low dose of IV ketamine has been suggested to improve analgesia in knee arthroscopy?",
+   "options": [
+    "0.5 mg/kg",
+    "0.15 mg/kg",
+    "1.5 mg/kg",
+    "0.015 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#a99688",
+   "kind": "statement",
+   "stem": "In knee arthroscopy day cases, why should IV morphine be avoided if possible?",
+   "answer": "High rate of postoperative nausea and vomiting (PONV).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#d07e4c",
+   "kind": "statement",
+   "stem": "What analgesics are used to discharge patients after knee arthroscopy?",
+   "answer": "NSAIDs and strong oral analgesics.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#47e8ab",
+   "kind": "mcq",
+   "stem": "After knee arthroscopy, what volume of 0.5% bupivacaine do many surgeons inject into the joint?",
+   "options": [
+    "1–2 ml",
+    "40–50 ml",
+    "100–120 ml",
+    "10–20 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#47e8ab",
+   "kind": "blank",
+   "stem": "Many surgeons inject 10–20 ml of 0.5% bupivacaine, with or without ____ 10 mg, into the joint.",
+   "answer": "morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/knee-arthroscopy#db597e",
+   "kind": "mcq",
+   "stem": "After knee arthroscopy, what effect do nerve blocks have on postoperative mobilisation?",
+   "options": [
+    "They speed up mobilisation",
+    "They slow mobilisation",
+    "They have no effect on mobilisation",
+    "They shorten length of stay"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

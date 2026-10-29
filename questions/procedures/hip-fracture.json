@@ -1,0 +1,397 @@
+{
+ "topic": "procedures/hip-fracture",
+ "questions": [
+  {
+   "fact_id": "procedures/hip-fracture#dfa7f4",
+   "kind": "mcq",
+   "stem": "For hip fracture surgery, predicted mortality is similar to which emergency operation?",
+   "options": [
+    "Elective knee replacement",
+    "Laparoscopic cholecystectomy",
+    "Emergency laparotomy",
+    "Elective hernia repair"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#e3419e",
+   "kind": "statement",
+   "stem": "Before hip fracture surgery, which specialists should jointly assess the patient?",
+   "answer": "Surgeons, orthogeriatricians and anaesthetists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#231c7a",
+   "kind": "statement",
+   "stem": "For a hip fracture, which two operations are chosen between, based on fracture type and life expectancy?",
+   "answer": "Fixation or femoral head replacement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#02a950",
+   "kind": "mcq",
+   "stem": "What is the average age of hip fracture patients?",
+   "options": [
+    "63 years",
+    "73 years",
+    "83 years",
+    "93 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#8115c4",
+   "kind": "statement",
+   "stem": "Before hip fracture surgery, who should the risks be discussed with?",
+   "answer": "The patient and family",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#91ce1f",
+   "kind": "statement",
+   "stem": "What benefits come from early repair of a hip fracture?",
+   "answer": "Analgesia, less delirium, faster mobilisation, and lower mortality and complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#f88618",
+   "kind": "mcq",
+   "stem": "For hip fracture surgery, what list timing should be aimed for?",
+   "options": [
+    "Next available list after 48 hours",
+    "Routine elective list in a week",
+    "Earliest possible daytime list",
+    "Night list at the end of the week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#dbf6f7",
+   "kind": "statement",
+   "stem": "Under the English BPT and Scottish audit standard, within what time should hip fracture repair happen?",
+   "answer": "Within 36 h of admission",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#9ee03b",
+   "kind": "statement",
+   "stem": "Under the Irish Hip Fracture Database standard, within what time should hip fracture surgery happen?",
+   "answer": "Within 48 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#192c4f",
+   "kind": "mcq",
+   "stem": "Under the stricter standard for hip fracture, within what time should repair happen?",
+   "options": [
+    "within 36 h",
+    "under 24 h",
+    "within 48 h",
+    "within 72 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#192c4f",
+   "kind": "statement",
+   "stem": "In hip fracture, what relative rise in 30-day mortality is linked to repair after 24 h?",
+   "answer": "9.4%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#1ffead",
+   "kind": "statement",
+   "stem": "What happens to hip fracture patients when surgery is delayed beyond 48 h?",
+   "answer": "More mortality, morbidity and longer stay",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#18d75b",
+   "kind": "statement",
+   "stem": "When is delaying hip fracture surgery justified?",
+   "answer": "Only if optimisation gives a real benefit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#41195e",
+   "kind": "statement",
+   "stem": "Why is not operating often riskier for a hip fracture patient?",
+   "answer": "It means weeks of painful immobility",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#5db3ef",
+   "kind": "statement",
+   "stem": "What may active cardiac or chest disease need before hip fracture surgery?",
+   "answer": "Specialist input",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#787e70",
+   "kind": "mcq",
+   "stem": "What share of hip fracture patients has an undiagnosed murmur?",
+   "options": [
+    "About 5%",
+    "About 25%",
+    "About 50%",
+    "About 75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#c9ae6a",
+   "kind": "statement",
+   "stem": "What should be corrected while a hip fracture patient waits for theatre?",
+   "answer": "Anaemia and electrolytes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#867d71",
+   "kind": "statement",
+   "stem": "What worsens preoperative anaemia in hip fracture patients?",
+   "answer": "Blood loss from the fracture and surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#45b4ac",
+   "kind": "statement",
+   "stem": "Which fracture type and surgery cause larger haemoglobin falls in hip fracture?",
+   "answer": "Extracapsular fractures and complex surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#d98d0e",
+   "kind": "mcq",
+   "stem": "What haemoglobin target does the Association of Anaesthetists give for frail hip fracture patients?",
+   "options": [
+    "7 g/dl",
+    "11 g/dl",
+    "9 g/dl",
+    "8 g/dl"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#79b53a",
+   "kind": "mcq",
+   "stem": "What haemoglobin target applies to hip fracture patients with ischaemic heart disease?",
+   "options": [
+    "9 g/dl",
+    "7 g/dl",
+    "10 g/dl",
+    "12 g/dl"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#106d21",
+   "kind": "statement",
+   "stem": "What approach to hip fracture pain reduces opioid needs?",
+   "answer": "Multimodal analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#367852",
+   "kind": "statement",
+   "stem": "Why are fascia iliaca, femoral and 3-in-1 blocks incomplete for hip fracture pain?",
+   "answer": "The hip is supplied by both lumbar and sacral plexuses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#04ef51",
+   "kind": "mcq",
+   "stem": "For hip fracture fixation, how long does surgery usually take?",
+   "options": [
+    "15 min",
+    "45 min",
+    "3 hours",
+    "5 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#9cdee8",
+   "kind": "statement",
+   "stem": "In bipolar hemiarthroplasty, when does surgery take longer?",
+   "answer": "With more blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#9db4cb",
+   "kind": "mcq",
+   "stem": "How long does bipolar hemiarthroplasty usually take?",
+   "options": [
+    "15-20 min",
+    "30–45 min",
+    "2-3 hours",
+    "60-90 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#2f252c",
+   "kind": "statement",
+   "stem": "What is femoral head excision for hip fracture also known as?",
+   "answer": "Girdlestone procedure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#761408",
+   "kind": "mcq",
+   "stem": "How long does femoral head excision usually take?",
+   "options": [
+    "15-20 min",
+    "60-90 min",
+    "2-3 hours",
+    "30–45 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#c3c971",
+   "kind": "statement",
+   "stem": "What blood loss is expected in hip fracture surgery?",
+   "answer": "Under 400 ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#4fcd56",
+   "kind": "statement",
+   "stem": "Why may measured blood loss in hip fracture surgery overestimate true loss?",
+   "answer": "Much measured loss is old haematoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#c581d4",
+   "kind": "statement",
+   "stem": "When should tranexamic acid be considered in hip fracture surgery?",
+   "answer": "If at higher risk of bleeding or anaemia complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#482e62",
+   "kind": "statement",
+   "stem": "What measures help avoid hypothermia during hip fracture surgery?",
+   "answer": "Monitor temperature, active warming, cover the head, wrap the chest and lower abdomen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#7160af",
+   "kind": "statement",
+   "stem": "What should the team do to reduce blood loss in hip fracture surgery?",
+   "answer": "Operate promptly and keep surgery short",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#63515a",
+   "kind": "statement",
+   "stem": "For hip fracture surgery, what does the evidence show about neuraxial versus general anaesthesia?",
+   "answer": "No convincing evidence either is better",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#832ed2",
+   "kind": "mcq",
+   "stem": "On a vitamin K antagonist, at what INR can a spinal be done for hip fracture surgery?",
+   "options": [
+    "2.0 or less",
+    "1.5 or less",
+    "2.5 or less",
+    "3.0 or less"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#b94683",
+   "kind": "mcq",
+   "stem": "Under the ASAP standard, what is the maximum spinal bupivacaine dose for hip fracture?",
+   "options": [
+    "15 mg or less",
+    "10 mg or less",
+    "20 mg or less",
+    "25 mg or less"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#b94683",
+   "kind": "statement",
+   "stem": "Under the ASAP standard, if an intrathecal opioid is used for hip fracture spinal, which one?",
+   "answer": "Fentanyl only",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#cbb601",
+   "kind": "statement",
+   "stem": "When should a regional block such as fascia iliaca be given for general anaesthesia in hip fracture?",
+   "answer": "Before induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#f2a666",
+   "kind": "statement",
+   "stem": "In cemented hemiarthroplasty, what is the name for sharp falls in BP, ETCO2 and heart rate at cement insertion?",
+   "answer": "Bone cement implantation syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-fracture#0356d0",
+   "kind": "statement",
+   "stem": "Why should hip fracture patients have a low threshold for high dependency care?",
+   "answer": "High morbidity and mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

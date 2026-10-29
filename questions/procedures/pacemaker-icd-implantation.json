@@ -1,0 +1,205 @@
+{
+ "topic": "procedures/pacemaker-icd-implantation",
+ "questions": [
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#60a7cb",
+   "kind": "statement",
+   "stem": "What range of patients undergo pacemaker or ICD implantation?",
+   "answer": "From fit young adults to elderly patients with poor cardiac function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#e1aa9e",
+   "kind": "statement",
+   "stem": "In pacemaker or ICD implantation, why is coronary sinus cannulation needed?",
+   "answer": "To reach the left ventricle in CRT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#7e4fd5",
+   "kind": "mcq",
+   "stem": "Which vein is usually used for access in pacemaker or ICD implantation?",
+   "options": [
+    "Right internal jugular vein",
+    "Right femoral vein",
+    "Left subclavian artery",
+    "Left cephalic vein"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#d0e234",
+   "kind": "statement",
+   "stem": "Why is strict asepsis important in pacemaker or ICD implantation?",
+   "answer": "To avoid infecting the device",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#20ddae",
+   "kind": "statement",
+   "stem": "During pacemaker or ICD implantation, what should be tracked from the cardiologist's local anaesthetic?",
+   "answer": "The total local anaesthetic dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#d34f9e",
+   "kind": "statement",
+   "stem": "For pacemaker or ICD implantation, which patient factors matter for anaesthetic planning?",
+   "answer": "Indication for the device, cardiac function and comorbidities",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#6c0c43",
+   "kind": "statement",
+   "stem": "Which surgical considerations apply to pacemaker or ICD implantation?",
+   "answer": "Remote location, sterility, local anaesthetic dose, VF testing, complications, day surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#853149",
+   "kind": "statement",
+   "stem": "Which anaesthetic considerations apply to pacemaker or ICD implantation?",
+   "answer": "Monitoring, resuscitation drugs and equipment, defibrillation pads, sedation vs GA, disposition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#32fd74",
+   "kind": "statement",
+   "stem": "What should be assessed preoperatively for pacemaker or ICD implantation?",
+   "answer": "Cardiac disease and functional reserve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#f73a8a",
+   "kind": "statement",
+   "stem": "What must be established before pacemaker or ICD implantation?",
+   "answer": "The indication for the PPM or ICD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#716ec0",
+   "kind": "mcq",
+   "stem": "What can surgical diathermy cause in a patient with an existing pacemaker?",
+   "options": [
+    "Improved pacing threshold",
+    "Higher defibrillation energy needed",
+    "Loss of pacemaker function",
+    "Shorter procedure time"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#350b59",
+   "kind": "statement",
+   "stem": "What should be explained to the patient before pacemaker or ICD implantation?",
+   "answer": "The procedure and the sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#b7f7b6",
+   "kind": "blank",
+   "stem": "For pacemaker or ICD implantation, anaesthetic planning must cover a ____ location.",
+   "answer": "Remote",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#291cb2",
+   "kind": "mcq",
+   "stem": "Which vagolytic drug should be ready during pacemaker or ICD implantation?",
+   "options": [
+    "Ephedrine",
+    "Metaraminol",
+    "Adrenaline",
+    "Glycopyrrolate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#291cb2",
+   "kind": "statement",
+   "stem": "Which two drug classes should be ready as resuscitation drugs for device implantation?",
+   "answer": "Vasopressors and vagolytics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#661515",
+   "kind": "statement",
+   "stem": "What equipment should be available for pacemaker or ICD implantation?",
+   "answer": "Temporary pacing and defibrillation equipment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#b62a50",
+   "kind": "mcq",
+   "stem": "When should external defibrillator pads be placed for an ICD insertion?",
+   "options": [
+    "After the device is placed",
+    "Only if VF occurs",
+    "Before starting the procedure",
+    "At the end of the case"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#2b803b",
+   "kind": "statement",
+   "stem": "Who should be present for pacemaker or ICD implantation?",
+   "answer": "Skilled anaesthetist and trained assistant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#2088d1",
+   "kind": "statement",
+   "stem": "Which airway equipment and drugs should be available for device implantation?",
+   "answer": "Airway trolley and GA drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#9f3bae",
+   "kind": "statement",
+   "stem": "What should be given throughout pacemaker or ICD implantation?",
+   "answer": "Supplemental oxygen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#4cfad3",
+   "kind": "statement",
+   "stem": "Which patients suit day surgery after pacemaker or ICD implantation?",
+   "answer": "Young, normal cardiac reserve, sedation only, uncomplicated procedure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pacemaker-icd-implantation#84bc95",
+   "kind": "statement",
+   "stem": "Which patients need overnight monitoring after pacemaker or ICD implantation?",
+   "answer": "Elderly, limited cardiac reserve, GA, or complicated procedure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

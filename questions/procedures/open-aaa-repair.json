@@ -1,0 +1,695 @@
+{
+ "topic": "procedures/open-aaa-repair",
+ "questions": [
+  {
+   "fact_id": "procedures/open-aaa-repair#f16c02",
+   "kind": "statement",
+   "stem": "What does the aortic cross-clamp provide in elective open AAA repair?",
+   "answer": "Haemodynamic control and reperfusion.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#57ad7d",
+   "kind": "mcq",
+   "stem": "In elective open AAA repair, which organ protection is especially emphasised?",
+   "options": [
+    "Hepatic protection",
+    "Renal protection",
+    "Cerebral protection",
+    "Splenic protection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#fd44c3",
+   "kind": "statement",
+   "stem": "For emergency ruptured AAA repair, what arterial monitoring is needed around induction?",
+   "answer": "An arterial line.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#0753c3",
+   "kind": "mcq",
+   "stem": "What systolic BP target is used in ruptured AAA resuscitation?",
+   "options": [
+    "60mmHg",
+    "120mmHg",
+    "150mmHg",
+    "90mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#c72435",
+   "kind": "statement",
+   "stem": "What must be prepared for in ruptured AAA surgery?",
+   "answer": "Blood loss.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#00ccde",
+   "kind": "statement",
+   "stem": "What blood pressure pattern can occur when the aorta is cross-clamped in ruptured AAA?",
+   "answer": "Hypertension, then hypotension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#00ccde",
+   "kind": "mcq",
+   "stem": "Which drugs should be ready during cross-clamping of a ruptured AAA?",
+   "options": [
+    "Only inotropes",
+    "Vasopressors and vasodilators",
+    "Only beta-blockers",
+    "Only diuretics"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#1d42b8",
+   "kind": "mcq",
+   "stem": "Which vascular surgery is in the highest vascular risk tier?",
+   "options": [
+    "Carotid endarterectomy",
+    "Peripheral bypass",
+    "Aortic surgery",
+    "Varicose vein surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#186aae",
+   "kind": "mcq",
+   "stem": "What is the approximate mortality of emergency AAA repair?",
+   "options": [
+    "10-20%",
+    "25-30%",
+    ">50%",
+    "5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#3fd03b",
+   "kind": "statement",
+   "stem": "How does uncontrolled cardiovascular disease affect AAA surgery risk?",
+   "answer": "Risk is much higher.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#eb4a24",
+   "kind": "mcq",
+   "stem": "Which test is the gold standard for risk assessment before open or EVAR AAA repair?",
+   "options": [
+    "Dobutamine stress echo",
+    "Cardiopulmonary exercise testing (CPET)",
+    "Spirometry alone",
+    "Coronary angiography"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#125bd6",
+   "kind": "statement",
+   "stem": "What is checked in COPD or heavy smokers before AAA repair?",
+   "answer": "Baseline SpO2 and room-air ABG.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#a6b871",
+   "kind": "statement",
+   "stem": "What are the two main issues the aneurysm poses for surgery?",
+   "answer": "Vascular comorbidity; preventing rupture during surgery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#898ace",
+   "kind": "mcq",
+   "stem": "In AAA, what is the male-to-female ratio?",
+   "options": [
+    "1:4",
+    "2:1",
+    "4:1",
+    "10:1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#e11fb6",
+   "kind": "mcq",
+   "stem": "What is the biggest risk factor for AAA?",
+   "options": [
+    "Diabetes mellitus",
+    "Smoking",
+    "Low body mass",
+    "Alcohol excess"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#e11fb6",
+   "kind": "mcq",
+   "stem": "What proportion of AAA patients are current or former smokers?",
+   "options": [
+    "50%",
+    "70%",
+    "90%",
+    "20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#e40b3c",
+   "kind": "statement",
+   "stem": "Which rarer inherited conditions are linked to AAA?",
+   "answer": "Marfan syndrome and vascular (type IV) Ehlers-Danlos syndrome.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#e40b3c",
+   "kind": "mcq",
+   "stem": "In AAA, which defect underlies Marfan syndrome?",
+   "options": [
+    "Type III procollagen defect",
+    "Fibrillin-1 defect",
+    "Elastin gene deletion",
+    "Dystrophin gene defect"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#957318",
+   "kind": "statement",
+   "stem": "How is a symptomatic AAA managed, regardless of its size?",
+   "answer": "Any symptomatic AAA, whatever its size; treat as impending rupture.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#28161e",
+   "kind": "mcq",
+   "stem": "What is the diameter threshold for elective AAA repair in men?",
+   "options": [
+    ">5.0 cm",
+    ">4.5 cm",
+    ">5.5 cm",
+    ">6.0 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#6d6af0",
+   "kind": "mcq",
+   "stem": "What is the diameter threshold for elective AAA repair in women?",
+   "options": [
+    ">4.5 cm",
+    ">5.5 cm",
+    ">5.0 cm",
+    ">6.0 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#6001dc",
+   "kind": "mcq",
+   "stem": "What is the annual rupture risk for a 55 mm AAA in men?",
+   "options": [
+    "18%",
+    "6%",
+    "25%",
+    "12%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#7a647f",
+   "kind": "mcq",
+   "stem": "What aortic diameter defines an aneurysm?",
+   "options": [
+    ">20mm",
+    ">40mm",
+    ">30mm",
+    ">25mm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#907fe3",
+   "kind": "mcq",
+   "stem": "What growth counts as rapid growth for an AAA?",
+   "options": [
+    ">0.5 cm in 1 year",
+    ">2.0 cm in 1 year",
+    ">1.0 cm in 1 year",
+    ">1.0 cm in 5 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#702616",
+   "kind": "statement",
+   "stem": "Why might saccular AAAs be repaired earlier than fusiform ones?",
+   "answer": "They are less stable.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#2ca4eb",
+   "kind": "statement",
+   "stem": "How is the aneurysm managed in elective open AAA repair?",
+   "answer": "Sac excised and replaced with a synthetic tube or bifurcated (trouser) graft.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#a96fd0",
+   "kind": "mcq",
+   "stem": "What is the mortality of elective open AAA repair?",
+   "options": [
+    "<1%",
+    "15-20%",
+    "<7%",
+    "above 50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#b66ba1",
+   "kind": "statement",
+   "stem": "Which complication of aortic clamping can embolise to the legs in elective AAA repair?",
+   "answer": "Atheroembolism.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#57fba7",
+   "kind": "statement",
+   "stem": "Which comorbidities typify AAA patients needing preoperative assessment?",
+   "answer": "IHD, valve disease and renal impairment.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#3d966f",
+   "kind": "statement",
+   "stem": "What general anaesthetic technique is used for open AAA repair?",
+   "answer": "GA with ETT and IPPV.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#3d966f",
+   "kind": "mcq",
+   "stem": "What patient position is used for open AAA repair?",
+   "options": [
+    "Prone",
+    "Lateral decubitus",
+    "Supine with arms out",
+    "Reverse Trendelenburg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#973a58",
+   "kind": "mcq",
+   "stem": "For open AAA repair with an epidural, which thoracic levels are used?",
+   "options": [
+    "T1-T4",
+    "L1-L3",
+    "T6-T11",
+    "C7-T1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#d36f85",
+   "kind": "mcq",
+   "stem": "What epidural haematoma risk is quoted as a reason against epidural in AAA repair?",
+   "options": [
+    "1:100",
+    "1:500",
+    "1:1000",
+    "1:10000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#c86c09",
+   "kind": "mcq",
+   "stem": "What mean blood loss should be expected in open AAA repair?",
+   "options": [
+    "250 mL",
+    "500 mL",
+    "1 L",
+    "3 L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#c08cf8",
+   "kind": "statement",
+   "stem": "Which rapid infuser is specified for open AAA repair?",
+   "answer": "Level 1 or Belmont",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#86bbdf",
+   "kind": "statement",
+   "stem": "Why keep mean arterial pressure up during open AAA repair?",
+   "answer": "To maintain spinal cord and renal perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#1e39f0",
+   "kind": "mcq",
+   "stem": "What heparin dose is given before aortic clamping in open AAA repair?",
+   "options": [
+    "1000-2000units",
+    "3000-5000units",
+    "10000-15000units",
+    "5000-7000units"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#6a472e",
+   "kind": "mcq",
+   "stem": "How long is the aortic clamp usually on during open AAA repair?",
+   "options": [
+    "5-10mins",
+    "30-60mins",
+    "90-120mins",
+    "2-3 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#a246bf",
+   "kind": "mcq",
+   "stem": "What example adrenaline bolus is given for vasopressor support in open AAA repair?",
+   "options": [
+    "5mcg",
+    "1mg",
+    "10mcg",
+    "100mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#3af4ea",
+   "kind": "statement",
+   "stem": "How is coagulopathy corrected during open AAA repair?",
+   "answer": "Guide with ACT and TEG, then replace deficits",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#5907a9",
+   "kind": "mcq",
+   "stem": "Which platelet count is set as a threshold in open AAA repair?",
+   "options": [
+    "<50",
+    "<100",
+    "<150",
+    "<200"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#fca9ad",
+   "kind": "mcq",
+   "stem": "What activated clotting time is normal during open AAA repair?",
+   "options": [
+    "<90s",
+    "<140s",
+    "<180s",
+    "<220s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#37d213",
+   "kind": "statement",
+   "stem": "Which analgesia is often needed on emergence after open AAA repair?",
+   "answer": "PCA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#c11fb1",
+   "kind": "statement",
+   "stem": "Where do patients usually go after open AAA repair?",
+   "answer": "ICU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#73f9bf",
+   "kind": "statement",
+   "stem": "How is the ruptured sac managed in emergency AAA repair?",
+   "answer": "Excised and replaced with a tube or trouser graft",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#4b4575",
+   "kind": "mcq",
+   "stem": "What overall mortality is quoted for ruptured or dissected AAA?",
+   "options": [
+    "10%",
+    "40%",
+    "75%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#7237f4",
+   "kind": "mcq",
+   "stem": "What share of ruptured AAA patients die before reaching hospital?",
+   "options": [
+    "50%",
+    "10%",
+    "25%",
+    "90%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#1b3945",
+   "kind": "mcq",
+   "stem": "What share of ruptured AAA patients die in hospital?",
+   "options": [
+    "10%",
+    "35%",
+    "40%",
+    "25%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#405fab",
+   "kind": "mcq",
+   "stem": "What is the operative survival for ruptured or dissected AAA?",
+   "options": [
+    "15%",
+    "30%",
+    "50%",
+    "85%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#3f8fd0",
+   "kind": "mcq",
+   "stem": "What target systolic BP is set before control of a ruptured AAA?",
+   "options": [
+    "70mmHg",
+    "120mmHg",
+    "140mmHg",
+    "90mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#47fb32",
+   "kind": "statement",
+   "stem": "Which test guides haemorrhage management in ruptured AAA maintenance?",
+   "answer": "ROTEM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#46de05",
+   "kind": "mcq",
+   "stem": "Which vasodilator is given around aortic clamp on and off in AAA repair?",
+   "options": [
+    "Phenylephrine",
+    "Noradrenaline",
+    "GTN",
+    "Vasopressin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#056fcd",
+   "kind": "statement",
+   "stem": "Which operations use aortic cross-clamping?",
+   "answer": "Thoracic and abdominal aortic surgery, sometimes trauma resuscitation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#fd679e",
+   "kind": "mcq",
+   "stem": "Which aortic clamp level has the greatest physiological effect?",
+   "options": [
+    "Infrarenal",
+    "Supracoeliac",
+    "Suprarenal-infracoeliac",
+    "Mid-thoracic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#5b038e",
+   "kind": "statement",
+   "stem": "What is the main haemodynamic change when the aorta is clamped?",
+   "answer": "Hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#fa5de1",
+   "kind": "statement",
+   "stem": "What haemodynamic problems follow aortic unclamping?",
+   "answer": "Hypotension and shock",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#e4eb80",
+   "kind": "mcq",
+   "stem": "Which metabolic derangement follows aortic unclamping in AAA repair?",
+   "options": [
+    "Hypoglycaemia",
+    "Hypernatraemia",
+    "Hypothermia",
+    "Lactic acidosis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#f37855",
+   "kind": "mcq",
+   "stem": "What happens to left ventricular afterload when the aorta is clamped?",
+   "options": [
+    "It falls",
+    "It is unchanged",
+    "It rises",
+    "It is abolished"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#f3ec64",
+   "kind": "mcq",
+   "stem": "What haemoglobin level is aimed for to balance supply and demand after clamping?",
+   "options": [
+    "Hb >5-6",
+    "Hb >8-9",
+    "Hb >11-12",
+    "Hb >13-14"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/open-aaa-repair#18729e",
+   "kind": "statement",
+   "stem": "If ECG changes persist with STEMI after clamp-related heart failure, what is urgent?",
+   "answer": "Urgent angiography",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

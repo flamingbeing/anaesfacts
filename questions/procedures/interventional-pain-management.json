@@ -1,0 +1,319 @@
+{
+ "topic": "procedures/interventional-pain-management",
+ "questions": [
+  {
+   "fact_id": "procedures/interventional-pain-management#875dd7",
+   "kind": "mcq",
+   "stem": "In interventional pain management, what placebo response rate is given for pain?",
+   "options": [
+    "About 10%",
+    "About 30%",
+    "About 50%",
+    "About 70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#0598fe",
+   "kind": "mcq",
+   "stem": "In interventional pain management, which imaging guides procedures besides X-ray?",
+   "options": [
+    "Magnetic resonance imaging",
+    "Ultrasound",
+    "Computed tomography",
+    "Electrocardiogram"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#623013",
+   "kind": "mcq",
+   "stem": "Which interventional pain technique is destructive?",
+   "options": [
+    "Pulsed radiofrequency",
+    "Conventional radiofrequency ablation",
+    "Spinal cord stimulator implant",
+    "Diagnostic medial branch block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#62b88e",
+   "kind": "blank",
+   "stem": "In the classification of interventional pain procedures, the two groups are spinal and ____.",
+   "answer": "non-spinal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#77b15c",
+   "kind": "statement",
+   "stem": "What equipment does radiofrequency ablation need?",
+   "answer": "Insulated needles, a thermocouple and an RF generator",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#e2d753",
+   "kind": "mcq",
+   "stem": "What temperature and time are usually used for conventional radiofrequency ablation?",
+   "options": [
+    "42 degrees for about 2 mins",
+    "80-90 degrees for about 2 mins",
+    "60-70 degrees for about 5 mins",
+    "100-110 degrees for about 1 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#87a92d",
+   "kind": "mcq",
+   "stem": "What is the maximum temperature used in pulsed radiofrequency?",
+   "options": [
+    "60 degrees",
+    "42 degrees",
+    "80 degrees",
+    "90 degrees"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#87a92d",
+   "kind": "statement",
+   "stem": "What structure does pulsed radiofrequency preserve?",
+   "answer": "Nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#107404",
+   "kind": "mcq",
+   "stem": "Which radiofrequency ablation technique covers a larger treated area?",
+   "options": [
+    "Conventional radiofrequency",
+    "Pulsed radiofrequency",
+    "Cooled radiofrequency",
+    "Ultrasound-guided injection"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#421776",
+   "kind": "statement",
+   "stem": "What two drawbacks does radiofrequency ablation have?",
+   "answer": "Costly; needs an operating theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#2665af",
+   "kind": "statement",
+   "stem": "Per ASRA 2018, why are non-aspirin NSAIDs stopped before interventional pain procedures?",
+   "answer": "Not needed for heart or brain protection; stop timed by half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#e61770",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, do COX-2 inhibitors need stopping before interventional pain procedures?",
+   "options": [
+    "Stop 7 days",
+    "Stop 5 days",
+    "No need to stop",
+    "Stop 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#af2f53",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how many days before a pain procedure should clopidogrel be stopped?",
+   "options": [
+    "3 days",
+    "5 days",
+    "7 days",
+    "10 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#af2f53",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, when can clopidogrel be restarted after a pain procedure?",
+   "options": [
+    "2hrs",
+    "24hr",
+    "12hr",
+    "8hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#c71e07",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how long before a pain procedure should prasugrel be stopped?",
+   "options": [
+    "3-5 days",
+    "5 days",
+    "7-10 days",
+    "14 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#a4703b",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how many days before a pain procedure should ticagrelor be stopped?",
+   "options": [
+    "3 days",
+    "5 days",
+    "7 days",
+    "10 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#35a938",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how many days before a pain procedure should glycoprotein IIb/IIIa inhibitors such as abciximab be stopped?",
+   "options": [
+    "2 days",
+    "7 days",
+    "10 days",
+    "5 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#d56732",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, what INR must be reached before a pain procedure on warfarin?",
+   "options": [
+    "below 2.0",
+    "below 1.8",
+    "below 1.2",
+    "below 3.0"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#31f212",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how many hours before a pain procedure should unfractionated heparin be stopped?",
+   "options": [
+    "4 hrs",
+    "12 hrs",
+    "24 hrs",
+    "6 hrs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#789b5c",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how many hours before a pain procedure should prophylactic-dose LMWH be stopped?",
+   "options": [
+    "24hr",
+    "4hrs",
+    "8hrs",
+    "12hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#a73cfe",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how many hours before a high-risk pain procedure should therapeutic-dose LMWH be stopped?",
+   "options": [
+    "12hr",
+    "8hrs",
+    "24hr",
+    "4hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#45d926",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how many days before a pain procedure should apixaban be stopped?",
+   "options": [
+    "5d",
+    "3d",
+    "4d",
+    "7d"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#ee926a",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, how many days should dabigatran be stopped in renal disease?",
+   "options": [
+    "3d",
+    "4d",
+    "10d",
+    "5-6d"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#e22a33",
+   "kind": "mcq",
+   "stem": "Per ASRA 2018, what should be done with SSRIs before interventional pain procedures?",
+   "options": [
+    "Stop 3 days",
+    "Stop 7 days",
+    "Continue",
+    "Stop 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/interventional-pain-management#f77408",
+   "kind": "statement",
+   "stem": "In stellate ganglion block, which two conditions have improved blood flow?",
+   "answer": "Raynaud's disease or CREST syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

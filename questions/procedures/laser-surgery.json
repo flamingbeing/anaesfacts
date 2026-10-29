@@ -1,0 +1,151 @@
+{
+ "topic": "procedures/laser-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/laser-surgery#eff770",
+   "kind": "mcq",
+   "stem": "For airway laser surgery, which gas should be avoided?",
+   "options": [
+    "Medical air",
+    "Nitrous oxide",
+    "Helium",
+    "Argon"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#205f1c",
+   "kind": "mcq",
+   "stem": "Which skin preparation fluid should be avoided with lasers because it is flammable?",
+   "options": [
+    "Sterile saline",
+    "Povidone-iodine solution",
+    "Chlorhexidine in water",
+    "Alcohol"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#c8f3da",
+   "kind": "mcq",
+   "stem": "Which instrument surface finish reduces laser beam reflection?",
+   "options": [
+    "Polished mirror-finish metal",
+    "Bright chrome plating",
+    "Matt-black, non-reflective",
+    "Glossy white plastic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#646621",
+   "kind": "mcq",
+   "stem": "During laser surgery, what should be placed outside every theatre door?",
+   "options": [
+    "Staff rosters",
+    "Warning signs",
+    "Equipment service labels",
+    "Visitor sign-in sheets"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#646621",
+   "kind": "blank",
+   "stem": "While the laser is in use, you should ____ theatre doors from inside.",
+   "answer": "lock",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#bd786b",
+   "kind": "blank",
+   "stem": "A designated ____ is present whenever the laser is in use.",
+   "answer": "laser safety officer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#d29ce7",
+   "kind": "statement",
+   "stem": "Why does standing further from the laser add little safety?",
+   "answer": "The beam is high energy and does not diverge",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#ce3204",
+   "kind": "statement",
+   "stem": "Why is airway fire a high risk during airway laser surgery?",
+   "answer": "Oxygen-rich gas plus high thermal energy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#ce3204",
+   "kind": "mcq",
+   "stem": "Which materials can a laser ignite during airway laser surgery?",
+   "options": [
+    "Stainless steel and glass",
+    "Ceramic and titanium",
+    "Plastic and rubber",
+    "Lead and ceramic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#d99759",
+   "kind": "statement",
+   "stem": "How should the airway be handled in airway laser surgery?",
+   "answer": "Plan it carefully",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#235ebf",
+   "kind": "mcq",
+   "stem": "What maximum oxygen concentration should be used in airway laser surgery to reduce fire risk?",
+   "options": [
+    "50% or more",
+    "25% or less",
+    "30% or more",
+    "100% oxygen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#59e81c",
+   "kind": "mcq",
+   "stem": "During airway laser surgery, what should be kept immediately available?",
+   "options": [
+    "A 10-mL syringe of saline",
+    "Sterile water in a basin",
+    "A 50-mL syringe of saline",
+    "Two 100-mL saline bags"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laser-surgery#59e81c",
+   "kind": "blank",
+   "stem": "Keep a 50-mL syringe of ____ immediately available.",
+   "answer": "saline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

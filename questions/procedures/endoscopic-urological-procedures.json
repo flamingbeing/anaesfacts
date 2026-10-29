@@ -1,0 +1,107 @@
+{
+ "topic": "procedures/endoscopic-urological-procedures",
+ "questions": [
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#331727",
+   "kind": "statement",
+   "stem": "What does an endoscope allow in endoscopic urological procedures?",
+   "answer": "View and treat the lower urinary tract",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#b7a922",
+   "kind": "blank",
+   "stem": "In endoscopic urology, ureteric stenting is indicated for ____.",
+   "answer": "obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#b7a922",
+   "kind": "statement",
+   "stem": "Which endoscopic urology indication involves removing stones?",
+   "answer": "Stone extraction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#bc76c1",
+   "kind": "mcq",
+   "stem": "What position is usually used for endoscopic urological procedures?",
+   "options": [
+    "Supine",
+    "Lithotomy",
+    "Prone",
+    "Lateral decubitus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#b0f7f6",
+   "kind": "statement",
+   "stem": "Why is irrigation fluid used in endoscopic urological procedures?",
+   "answer": "To see clearly and wash out debris",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#739d3a",
+   "kind": "mcq",
+   "stem": "How long do endoscopic urological procedures usually take?",
+   "options": [
+    "Under 3 h",
+    "Under 1 h",
+    "Over 2 h",
+    "Over 4 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#2e8253",
+   "kind": "mcq",
+   "stem": "Which postoperative analgesia is usually sufficient after endoscopic urological surgery?",
+   "options": [
+    "Long-acting opioids",
+    "Short-acting opioids",
+    "Continuous epidural infusion",
+    "Continuous femoral nerve block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#563996",
+   "kind": "mcq",
+   "stem": "How soon after endoscopic urological surgery are patients often discharged home?",
+   "options": [
+    "Two to three days later",
+    "A few hours after surgery",
+    "About one week later",
+    "Two weeks later"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-urological-procedures#9f09c0",
+   "kind": "mcq",
+   "stem": "What block height is needed for spinal or epidural anaesthesia in lower genitourinary tract surgery?",
+   "options": [
+    "T4 or higher",
+    "T10 or higher",
+    "L2 or lower",
+    "T6 or higher"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

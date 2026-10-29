@@ -1,0 +1,319 @@
+{
+ "topic": "procedures/off-pump-cabg",
+ "questions": [
+  {
+   "fact_id": "procedures/off-pump-cabg#766b0b",
+   "kind": "statement",
+   "stem": "In off-pump CABG, what is the main benefit compared with on-pump surgery?",
+   "answer": "Avoids cardiopulmonary bypass and its effects on almost every system.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#4e9229",
+   "kind": "mcq",
+   "stem": "Compared with on-pump CABG, how do off-pump recovery and cost compare?",
+   "options": [
+    "Slower recovery and higher cost",
+    "Faster recovery and lower cost",
+    "Slower recovery but lower cost",
+    "Faster recovery but higher cost"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#504ba1",
+   "kind": "statement",
+   "stem": "What are two drawbacks of off-pump CABG compared with on-pump surgery?",
+   "answer": "Risk of incomplete revascularisation and more graft failure than on-pump.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#2d3de4",
+   "kind": "mcq",
+   "stem": "Which incision is used for standard off-pump CABG?",
+   "options": [
+    "Left anterior thoracotomy",
+    "Median sternotomy",
+    "Subcostal laparotomy",
+    "Right mini-thoracotomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#bec8be",
+   "kind": "statement",
+   "stem": "What is the key cardiac feature of off-pump CABG?",
+   "answer": "The heart keeps beating; no CPB or cardioplegia is used.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#8cab7a",
+   "kind": "statement",
+   "stem": "How is the operative field kept visible during off-pump CABG?",
+   "answer": "Stabilisers such as Octopus suction arms, and CO2 blowers.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#5393e7",
+   "kind": "mcq",
+   "stem": "What does avoiding sternotomy give in MIDCAB?",
+   "options": [
+    "Higher graft patency rates",
+    "Greater access to all coronary arteries",
+    "Less pain, better lung mechanics, earlier on-table extubation",
+    "Longer ventilation and slower recovery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#13df22",
+   "kind": "mcq",
+   "stem": "Which airway does MIDCAB require?",
+   "options": [
+    "Single-lumen cuffed tube",
+    "Laryngeal mask airway",
+    "Tracheostomy tube",
+    "Double-lumen tube"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#08cde4",
+   "kind": "statement",
+   "stem": "What surgical access is used for MIDCAB?",
+   "answer": "Small left anterior transverse (keyhole) thoracotomy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#c6ceb9",
+   "kind": "statement",
+   "stem": "How is the heart stabilised during MIDCAB grafting?",
+   "answer": "Latex sutures and a small compression foot.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#80d420",
+   "kind": "mcq",
+   "stem": "What graft is usually used in MIDCAB?",
+   "options": [
+    "Single RIMA to RCA graft",
+    "Two SVGs to diagonal branches",
+    "Single LIMA to LAD graft",
+    "Single SVG to circumflex"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#068b6d",
+   "kind": "statement",
+   "stem": "For off-pump CABG with thoracotomy, what airway and equipment should be ready?",
+   "answer": "Double-lumen tube and defibrillator pads.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#2fee63",
+   "kind": "mcq",
+   "stem": "Which monitor is mandatory for off-pump CABG anaesthesia?",
+   "options": [
+    "Bispectral index monitoring",
+    "Transoesophageal echocardiography (TOE)",
+    "Pulmonary artery catheter only",
+    "Oesophageal Doppler only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#7b329b",
+   "kind": "statement",
+   "stem": "During grafting in off-pump CABG, how should the anaesthetist manage haemodynamic instability?",
+   "answer": "Stay vigilant and communicate with the surgeons.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#5a0a1f",
+   "kind": "statement",
+   "stem": "Why can myocardial ischaemia occur during off-pump CABG anastomosis?",
+   "answer": "The target coronary may be briefly occluded.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#bb1acd",
+   "kind": "mcq",
+   "stem": "Why keep heart rate low during off-pump CABG?",
+   "options": [
+    "Raise coronary perfusion pressure",
+    "Cut oxygen demand and surgical motion",
+    "Increase stroke volume",
+    "Prevent graft thrombosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#7d4725",
+   "kind": "mcq",
+   "stem": "Which drugs are kept ready to slow the heart rate further in off-pump CABG?",
+   "options": [
+    "Atropine or isoprenaline",
+    "Adrenaline or dopamine",
+    "Esmolol or adenosine",
+    "Digoxin or verapamil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#69de2f",
+   "kind": "mcq",
+   "stem": "Which intervention is advised if heart rate is too slow during off-pump CABG?",
+   "options": [
+    "Atropine",
+    "Atrial pacing",
+    "Isoprenaline infusion",
+    "Adrenaline bolus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#7e5ca3",
+   "kind": "mcq",
+   "stem": "Which ventilation pattern reduces field movement during off-pump CABG?",
+   "options": [
+    "Large tidal volumes, lower rate",
+    "Large tidal volumes, higher rate",
+    "Small tidal volumes, higher rate",
+    "Small tidal volumes, lower rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#8fff12",
+   "kind": "mcq",
+   "stem": "In off-pump CABG, what heparin dose is typically given?",
+   "options": [
+    "5000 units",
+    "20000 units",
+    "10000 units",
+    "40000 units"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#664d03",
+   "kind": "mcq",
+   "stem": "What activated clotting time (ACT) target is used in off-pump CABG?",
+   "options": [
+    "Above 150-180",
+    "Below 120",
+    "Above 250-300",
+    "Above 400-450"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#125c68",
+   "kind": "mcq",
+   "stem": "How much protamine is usually enough to reverse heparin after off-pump CABG?",
+   "options": [
+    "10 mg",
+    "50 mg",
+    "100 mg",
+    "200 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#9f548a",
+   "kind": "mcq",
+   "stem": "If off-pump CABG urgently converts to cardiopulmonary bypass, what heparin dose is given at once?",
+   "options": [
+    "100 units/kg",
+    "10000 units",
+    "200 units/kg",
+    "400 units/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#5513f5",
+   "kind": "statement",
+   "stem": "Why must hypothermia be aggressively prevented in off-pump CABG?",
+   "answer": "There is no CPB heat exchanger to warm the patient.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#cc58be",
+   "kind": "blank",
+   "stem": "In off-pump CABG, temperature control is especially important for ____.",
+   "answer": "on-table extubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#ba7b6f",
+   "kind": "mcq",
+   "stem": "Which analgesic approach allows on-table extubation after off-pump CABG?",
+   "options": [
+    "Large opioid boluses",
+    "Ketamine infusion alone",
+    "Paracetamol alone",
+    "Regional blocks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#d59fd1",
+   "kind": "statement",
+   "stem": "Name three reasons off-pump CABG may need urgent conversion to bypass.",
+   "answer": "Intractable VF, uncontrolled bleeding, or ischaemic collapse.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/off-pump-cabg#f7a6c2",
+   "kind": "blank",
+   "stem": "In off-pump CABG, a ____ should be immediately available in case bypass is needed.",
+   "answer": "Perfusionist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

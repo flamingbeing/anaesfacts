@@ -1,0 +1,35 @@
+{
+ "topic": "procedures/living-donor-liver-transplant",
+ "questions": [
+  {
+   "fact_id": "procedures/living-donor-liver-transplant#d37a43",
+   "kind": "mcq",
+   "stem": "How does cold ischaemia time in living donor liver transplant compare with deceased donor grafts?",
+   "options": [
+    "Much longer",
+    "About the same",
+    "Slightly longer",
+    "Much shorter"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-liver-transplant#1d14b4",
+   "kind": "statement",
+   "stem": "What injury is a small-for-size partial graft prone to, compared with whole deceased donor grafts?",
+   "answer": "Congestion and hyperperfusion injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-liver-transplant#b7a75d",
+   "kind": "statement",
+   "stem": "What is the main goal in living liver donor management?",
+   "answer": "Donor safety",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

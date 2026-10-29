@@ -1,0 +1,161 @@
+{
+ "topic": "procedures/laryngotracheal-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#8ff68f",
+   "kind": "blank",
+   "stem": "In laryngotracheal surgery, diagnosing and treating airway disease is core ____ work.",
+   "answer": "ENT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#2e8c8c",
+   "kind": "statement",
+   "stem": "What airway technique is sometimes needed in laryngotracheal surgery because difficult airways are more common?",
+   "answer": "Awake intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#bdd5db",
+   "kind": "mcq",
+   "stem": "In laryngotracheal surgery, which two energy sources carry an airway fire risk?",
+   "options": [
+    "Suction or irrigation",
+    "Nerve stimulator or ultrasound",
+    "Diathermy or laser",
+    "Warming blanket or humidifier"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#db73a8",
+   "kind": "statement",
+   "stem": "Which postoperative problems in laryngotracheal surgery can compromise the airway?",
+   "answer": "Swelling, recurrent laryngeal nerve injury or bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#6dd4b4",
+   "kind": "statement",
+   "stem": "What do suspension laryngoscope and laryngeal manipulation cause during laryngotracheal surgery?",
+   "answer": "Intense stimulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#0050c7",
+   "kind": "statement",
+   "stem": "What three features of head and neck surgery are key airway considerations in laryngotracheal surgery?",
+   "answer": "Shared airway, limited access, surgical disruption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#5fc2f1",
+   "kind": "mcq",
+   "stem": "In laryngotracheal surgery, what usually decides whether ventilation is tubed or tubeless?",
+   "options": [
+    "Patient body mass index",
+    "Anaesthetist's preferred agent",
+    "What the surgeon needs",
+    "Length of the operation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#7ad820",
+   "kind": "mcq",
+   "stem": "Which advantage does tubed ventilation give in laryngotracheal surgery?",
+   "options": [
+    "Clear view of posterior cords",
+    "Ventilation without any tube",
+    "Accurate ETCO2",
+    "Higher FiO2 needed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#d1a0d7",
+   "kind": "mcq",
+   "stem": "What is the main disadvantage of tubed ventilation in laryngotracheal surgery?",
+   "options": [
+    "Cannot measure ETCO2 reliably",
+    "Blocks the surgeon's view",
+    "Needs higher FiO2",
+    "Requires spontaneous breathing"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#a6ca3f",
+   "kind": "statement",
+   "stem": "In tubeless laryngotracheal surgery, which two gas measurements cannot be relied on?",
+   "answer": "ETCO2 and FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#a6ca3f",
+   "kind": "blank",
+   "stem": "In tubeless laryngotracheal surgery, ____ cannot be used.",
+   "answer": "volatiles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#ee8663",
+   "kind": "statement",
+   "stem": "What oxygen requirement and risk come with spontaneous ventilation in tubeless laryngotracheal surgery?",
+   "answer": "Higher FiO2, so fire risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#dc0636",
+   "kind": "mcq",
+   "stem": "When is a laryngeal mask airway used in laryngotracheal surgery?",
+   "options": [
+    "Major open laryngeal resection",
+    "Flexible-scope procedures such as laryngeal or subglottic biopsy",
+    "Rigid bronchoscopy for foreign body removal",
+    "Tubed ventilation for posterior cord lesions"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#b5bfae",
+   "kind": "blank",
+   "stem": "In laryngotracheal airway surgery, conventional intubation is followed by ____.",
+   "answer": "tracheostomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laryngotracheal-surgery#b890e0",
+   "kind": "mcq",
+   "stem": "For rigid bronchoscopy in laryngotracheal surgery, which airway approach is needed?",
+   "options": [
+    "Standard cuffed tracheal tube",
+    "Nasal tracheal intubation",
+    "Tubeless technique",
+    "Laryngeal mask airway"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

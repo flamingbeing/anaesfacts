@@ -1,0 +1,553 @@
+{
+ "topic": "procedures/liver-resection",
+ "questions": [
+  {
+   "fact_id": "procedures/liver-resection#805b9b",
+   "kind": "statement",
+   "stem": "Which three tumour types are usual indications for liver resection?",
+   "answer": "Hepatocellular carcinoma, cholangiocarcinoma or metastatic colorectal adenocarcinoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#f38fd7",
+   "kind": "mcq",
+   "stem": "In liver resection, what proportion of the liver is removed in a major resection?",
+   "options": [
+    "10-20%",
+    "30-75%",
+    "80-95%",
+    "5-10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#7ca534",
+   "kind": "blank",
+   "stem": "Liver resection was traditionally performed as ____ surgery.",
+   "answer": "open",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#7ecefc",
+   "kind": "statement",
+   "stem": "Which approach to liver resection is increasingly common?",
+   "answer": "Laparoscopic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#e0c42f",
+   "kind": "statement",
+   "stem": "In liver resection, what does the staged approach ALPPS stand for?",
+   "answer": "Associating liver partition and portal vein ligation for staged hepatectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#dffabc",
+   "kind": "mcq",
+   "stem": "Roughly how much blood flows through the liver each minute in liver resection?",
+   "options": [
+    "0.5L/min",
+    "1.5L/min",
+    "3L/min",
+    "5L/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#dd5b44",
+   "kind": "mcq",
+   "stem": "In liver resection, what share of hepatic blood flow comes via the portal vein?",
+   "options": [
+    "10%",
+    "50%",
+    "80%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#5044bf",
+   "kind": "mcq",
+   "stem": "In liver resection, what share of hepatic blood flow comes via the hepatic artery?",
+   "options": [
+    "5%",
+    "20%",
+    "40%",
+    "60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#c91c3c",
+   "kind": "statement",
+   "stem": "How does the liver regenerate after liver resection?",
+   "answer": "By hyperplasia of the remnant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#3164ad",
+   "kind": "mcq",
+   "stem": "How many Couinaud segments is the liver divided into for liver resection?",
+   "options": [
+    "4",
+    "6",
+    "7",
+    "9"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#3164ad",
+   "kind": "statement",
+   "stem": "In liver resection, what three things does each Couinaud segment have its own of?",
+   "answer": "Inflow, outflow and bile duct",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#cf7c23",
+   "kind": "statement",
+   "stem": "Why can the portal triad be controlled during dissection in liver resection?",
+   "answer": "It sits in a fibrous capsule",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#f5a49a",
+   "kind": "statement",
+   "stem": "Why should benzodiazepine sedatives be avoided before liver resection?",
+   "answer": "They may worsen postoperative encephalopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#b7b52b",
+   "kind": "statement",
+   "stem": "Why is there no IV fluid drip on the ward for liver resection patients?",
+   "answer": "To help keep CVP low",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#7aa7e0",
+   "kind": "statement",
+   "stem": "Which two anaesthetic agents are preferred to preserve hepatic blood flow in liver resection?",
+   "answer": "Isoflurane or desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#7aa7e0",
+   "kind": "statement",
+   "stem": "Which anaesthetic gas should be avoided in liver resection to preserve hepatic blood flow?",
+   "answer": "Nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#b55885",
+   "kind": "mcq",
+   "stem": "Intraoperatively in liver resection, which paracetamol dose is often still acceptable?",
+   "options": [
+    "250mg",
+    "500mg",
+    "1g",
+    "2g"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#f820bf",
+   "kind": "statement",
+   "stem": "For liver resection, when should the rapid infuser be set up?",
+   "answer": "When needed, rather than primed in advance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#343ec4",
+   "kind": "mcq",
+   "stem": "In liver resection, up to how many units should be considered for crossmatching?",
+   "options": [
+    "4U",
+    "6U",
+    "10U",
+    "20U"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#7f22e3",
+   "kind": "statement",
+   "stem": "Why is transfusion undesirable in liver resection?",
+   "answer": "It is immunosuppressive and, after major bleeding, raises the risk of postoperative liver failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#ce4497",
+   "kind": "mcq",
+   "stem": "What CVP target is used to limit bleeding during liver resection?",
+   "options": [
+    "10 mmHg or less",
+    "20 mmHg or less",
+    "5 mmHg or less",
+    "12 mmHg or less"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#ce4497",
+   "kind": "statement",
+   "stem": "Which two measures can replace CVP to guide fluid in liver resection?",
+   "answer": "Pulse pressure variation or stroke volume variation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#879212",
+   "kind": "mcq",
+   "stem": "During liver resection, what fluid limit is advised to reduce bleeding?",
+   "options": [
+    "Up to 3 bags",
+    "No more than 1 bag",
+    "2 or more bags",
+    "Up to 5 bags"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#bcead3",
+   "kind": "mcq",
+   "stem": "During liver resection, what systolic BP is kept above using vasopressors?",
+   "options": [
+    "Over 60 mm Hg",
+    "Over 90 mm Hg",
+    "Over 110 mm Hg",
+    "Over 130 mm Hg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#bcead3",
+   "kind": "mcq",
+   "stem": "During liver resection, what urine output is kept above using vasopressors?",
+   "options": [
+    "Over 15 mL/h",
+    "Over 25 mL/h",
+    "Over 50 mL/h",
+    "Over 40 mL/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#cf8a67",
+   "kind": "statement",
+   "stem": "Why is a very low CVP risky in laparoscopic liver resection?",
+   "answer": "It increases the pressure gradient and the risk of gas embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#a45032",
+   "kind": "mcq",
+   "stem": "What SBP range is used for permissive hypotension in liver resection?",
+   "options": [
+    "90-100mmHg",
+    "50-60mmHg",
+    "110-120mmHg",
+    "70-80mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#5fe250",
+   "kind": "mcq",
+   "stem": "What does the CUSA (Cavitron ultrasonic surgical aspirator) use to destroy liver parenchyma?",
+   "options": [
+    "Laser energy",
+    "Argon beam coagulation",
+    "Radiofrequency energy",
+    "About 25 kHz ultrasound"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#5fe250",
+   "kind": "statement",
+   "stem": "In liver resection, what does CUSA spare while destroying parenchyma?",
+   "answer": "Vessels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#c713ab",
+   "kind": "statement",
+   "stem": "During liver resection, when will the surgeon say fluids can be given?",
+   "answer": "Once the parenchymal resection is nearly done",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#0044ec",
+   "kind": "statement",
+   "stem": "In liver resection, how is the portal triad controlled once vascular anatomy is identified?",
+   "answer": "With sutures or clips",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#cc46b2",
+   "kind": "mcq",
+   "stem": "In liver resection, how many mg of ICG powder is dissolved in 10ml water?",
+   "options": [
+    "10mg",
+    "15mg",
+    "25mg",
+    "50mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#cc46b2",
+   "kind": "mcq",
+   "stem": "In liver resection, roughly what volume of ICG solution is given?",
+   "options": [
+    "0.5ml",
+    "6ml",
+    "2ml",
+    "20ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#cc46b2",
+   "kind": "statement",
+   "stem": "Why should ICG for liver resection not be prepared early?",
+   "answer": "It degrades in light",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#3783da",
+   "kind": "mcq",
+   "stem": "In liver resection, by how much does the Pringle manoeuvre reduce cardiac output?",
+   "options": [
+    "5%",
+    "10%",
+    "20%",
+    "30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#3783da",
+   "kind": "mcq",
+   "stem": "In liver resection, by how much does afterload rise with the Pringle manoeuvre?",
+   "options": [
+    "5-10%",
+    "20-30%",
+    "40-50%",
+    "60-70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#8c5661",
+   "kind": "mcq",
+   "stem": "In liver resection, by how much does cardiac output fall with major cardiovascular compromise?",
+   "options": [
+    "10%",
+    "20%",
+    "60%",
+    "80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#85fb43",
+   "kind": "statement",
+   "stem": "After liver resection, what level of care is used to monitor the liver?",
+   "answer": "High dependency care",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#7c9b8f",
+   "kind": "mcq",
+   "stem": "After liver resection, which marker should be trended postoperatively?",
+   "options": [
+    "Troponin",
+    "Amylase",
+    "Creatinine",
+    "Lactate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#3b8639",
+   "kind": "mcq",
+   "stem": "When does postoperative liver failure peak after liver resection?",
+   "options": [
+    "24hrs",
+    "48hrs",
+    "72hrs",
+    "7 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#3b8639",
+   "kind": "mcq",
+   "stem": "What is the incidence of postoperative liver failure after liver resection?",
+   "options": [
+    "1%",
+    "3%",
+    "10%",
+    "15%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#bed63f",
+   "kind": "mcq",
+   "stem": "On which day does coagulopathy peak after liver resection?",
+   "options": [
+    "Day 1",
+    "Day 2",
+    "Day 3",
+    "Day 5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#bed63f",
+   "kind": "mcq",
+   "stem": "What INR range is seen at the postoperative coagulopathy peak after liver resection?",
+   "options": [
+    "1.0-1.2",
+    "1.2-1.8",
+    "2.0-2.5",
+    "2.5-3.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#bc91b0",
+   "kind": "mcq",
+   "stem": "In intermittent clamping for liver resection, how long is the vessel clamped each cycle?",
+   "options": [
+    "5-10min",
+    "10-15min",
+    "20-30min",
+    "30-45min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#bc91b0",
+   "kind": "mcq",
+   "stem": "In intermittent clamping for liver resection, how long is perfusion allowed between clamps?",
+   "options": [
+    "1min",
+    "2min",
+    "5min",
+    "30min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#da7fdb",
+   "kind": "mcq",
+   "stem": "What share of patients have complications after liver resection?",
+   "options": [
+    "5%",
+    "15%",
+    "30%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#0d11d3",
+   "kind": "statement",
+   "stem": "After liver resection, what ascites is expected in the first 48hrs?",
+   "answer": "Self-limiting ascites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#4600d7",
+   "kind": "statement",
+   "stem": "Per PROSPECT 2019, which two analgesics are recommended for liver resection unless contraindicated?",
+   "answer": "Paracetamol plus an NSAID",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-resection#963370",
+   "kind": "statement",
+   "stem": "Per PROSPECT 2019, when should systemic opioids be used in liver resection?",
+   "answer": "Only as postoperative rescue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "topic": "procedures/major-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/major-surgery#11900f",
+   "kind": "mcq",
+   "stem": "Which is a main consideration in major surgery?",
+   "options": [
+    "Brief operating time",
+    "Prolonged surgery",
+    "Negligible blood loss",
+    "Hypersensitivity to latex"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#fc3531",
+   "kind": "mcq",
+   "stem": "In major surgery, fluid shifts can cause haemodynamic instability and which kidney problem?",
+   "options": [
+    "Renal calculi",
+    "Acute kidney injury (AKI)",
+    "Nephrotic syndrome",
+    "Chronic kidney stones"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#ac68e8",
+   "kind": "mcq",
+   "stem": "In major surgery, blood loss can lead to haemodynamic instability and what else?",
+   "options": [
+    "Dialysis",
+    "Transfusion",
+    "Tracheostomy",
+    "Thrombolysis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#71e2be",
+   "kind": "mcq",
+   "stem": "Which risk in major surgery calls for active temperature management?",
+   "options": [
+    "Sepsis",
+    "Hypothermia",
+    "Thrombosis",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#4a56fc",
+   "kind": "mcq",
+   "stem": "What does extensive surgery mean for postoperative analgesia?",
+   "options": [
+    "Low analgesic needs",
+    "No analgesia required",
+    "Analgesia only on day three",
+    "High postoperative analgesic needs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#aa3287",
+   "kind": "mcq",
+   "stem": "Before induction for major surgery, which IV cannula should be inserted?",
+   "options": [
+    "Smallest possible, pink or blue",
+    "Largest possible, green or grey",
+    "Single small cannula only",
+    "Largest possible, purple or yellow"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#d77df5",
+   "kind": "mcq",
+   "stem": "In major surgery, when can arterial and central lines be inserted?",
+   "options": [
+    "Only before induction",
+    "Before or after induction",
+    "Only after surgery ends",
+    "Only in recovery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#2b71b4",
+   "kind": "mcq",
+   "stem": "After induction in major surgery, which viscoelastic test is included?",
+   "options": [
+    "Serum magnesium",
+    "ROTEM",
+    "Urine microscopy",
+    "Serum amylase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#424968",
+   "kind": "mcq",
+   "stem": "How should blood be kept for major surgery?",
+   "options": [
+    "In theatre at room temperature",
+    "Discarded until needed",
+    "On standby in the fridge",
+    "Sent to pathology only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#15e6a3",
+   "kind": "mcq",
+   "stem": "How often is urine output and blood loss charted during major surgery?",
+   "options": [
+    "Every four hours",
+    "Only at the end",
+    "Once a day",
+    "Hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/major-surgery#cdec57",
+   "kind": "mcq",
+   "stem": "What analgesia method is commonly used after major surgery?",
+   "options": [
+    "Oral paracetamol alone",
+    "Intramuscular pethidine",
+    "Topical lignocaine patch",
+    "PCA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

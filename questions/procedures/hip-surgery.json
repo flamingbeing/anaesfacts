@@ -1,0 +1,47 @@
+{
+ "topic": "procedures/hip-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/hip-surgery#2aca1e",
+   "kind": "mcq",
+   "stem": "For hip joint analgesia, the anterior capsule's articular branches come from which plexus?",
+   "options": [
+    "Sacral plexus",
+    "Lumbar plexus",
+    "Brachial plexus",
+    "Cervical plexus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-surgery#2aca1e",
+   "kind": "mcq",
+   "stem": "How many nerves give articular branches to the anterior hip capsule?",
+   "options": [
+    "2 nerves",
+    "3 nerves",
+    "4 nerves",
+    "5 nerves"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hip-surgery#56f477",
+   "kind": "mcq",
+   "stem": "Which part of the hip joint capsule carries most of its sensory supply?",
+   "options": [
+    "The posterior capsule",
+    "The anterior capsule",
+    "The inferior capsule",
+    "The superior capsule"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

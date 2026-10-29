@@ -1,0 +1,139 @@
+{
+ "topic": "procedures/lower-limb-angioplasty",
+ "questions": [
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#e0ba85",
+   "kind": "mcq",
+   "stem": "Where may lower limb angioplasty be performed?",
+   "options": [
+    "Main surgical theatre only",
+    "Standard ward bedside",
+    "Remote site or hybrid theatre",
+    "Dedicated day surgery bay"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#8da921",
+   "kind": "statement",
+   "stem": "Because access to the patient and lines is limited in lower limb angioplasty, what should be used?",
+   "answer": "Long extensions.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#5d3274",
+   "kind": "statement",
+   "stem": "Why can blood loss be underestimated during lower limb angioplasty?",
+   "answer": "Large volumes can be hidden in the drapes at the puncture site.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#ca3abe",
+   "kind": "statement",
+   "stem": "What can revascularisation release during lower limb angioplasty?",
+   "answer": "Toxic metabolites.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#46182a",
+   "kind": "statement",
+   "stem": "Who usually undergoes lower limb angioplasty?",
+   "answer": "Vasculopaths.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#40e81b",
+   "kind": "mcq",
+   "stem": "Does a pacemaker usually need special action before lower limb angioplasty?",
+   "options": [
+    "Yes, always reprogram to asynchronous mode",
+    "No, usually no special action needed",
+    "Yes, always switch it off",
+    "Yes, always needs cardiology review"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#dded3a",
+   "kind": "mcq",
+   "stem": "What is local anaesthesia with sedation called in lower limb angioplasty?",
+   "options": [
+    "GA",
+    "MAC",
+    "Spinal",
+    "Epidural"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#072d50",
+   "kind": "statement",
+   "stem": "Which anaesthetic technique is usually preferred for lower limb angioplasty?",
+   "answer": "Regional.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#f6290e",
+   "kind": "statement",
+   "stem": "When is general anaesthesia used for lower limb angioplasty?",
+   "answer": "If the patient cannot tolerate MAC or regional.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#b246b6",
+   "kind": "statement",
+   "stem": "Which step of lower limb angioplasty is painful for the patient?",
+   "answer": "Balloon inflation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#7915a4",
+   "kind": "mcq",
+   "stem": "What is the usual IV GTN bolus given at the angioplasty site?",
+   "options": [
+    "10mcg",
+    "1mg",
+    "100mcg",
+    "500mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#3ccfc5",
+   "kind": "statement",
+   "stem": "Who usually gives heparin in lower limb angioplasty, and by what route?",
+   "answer": "Surgeons, locally.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-angioplasty#a17fe4",
+   "kind": "mcq",
+   "stem": "How long is the groin compressed after lower limb angioplasty?",
+   "options": [
+    "5 min",
+    "15 min",
+    "30 min",
+    "60 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

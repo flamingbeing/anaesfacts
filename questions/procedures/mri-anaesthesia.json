@@ -1,0 +1,641 @@
+{
+ "topic": "procedures/mri-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/mri-anaesthesia#866f71",
+   "kind": "statement",
+   "stem": "Why is general anaesthesia often chosen for MRI scans at remote sites?",
+   "answer": "Poor access to the patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#ea9713",
+   "kind": "statement",
+   "stem": "Why is sedation or general anaesthesia often needed for MRI?",
+   "answer": "To keep still through long scans in a loud, claustrophobic tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#123068",
+   "kind": "statement",
+   "stem": "What must all equipment used in the MRI suite do?",
+   "answer": "Suit the MR environment and allow safe anaesthesia and monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#e77753",
+   "kind": "mcq",
+   "stem": "Which nuclei spin in MRI and so create a magnetic field?",
+   "options": [
+    "Sodium ions",
+    "Oxygen nuclei",
+    "Hydrogen nuclei (protons)",
+    "Calcium ions"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#978307",
+   "kind": "statement",
+   "stem": "What do proton spins do in a strong MRI magnetic field?",
+   "answer": "Align with the static field (B0)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#fec4d0",
+   "kind": "statement",
+   "stem": "What does pulsed radio-frequency energy (B1) do to aligned protons in MRI?",
+   "answer": "Tips them out of alignment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#e566fc",
+   "kind": "statement",
+   "stem": "What is picked up by the receiver coil as protons relax in MRI?",
+   "answer": "The energy they release as they relax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#dd26ea",
+   "kind": "statement",
+   "stem": "How is MRI relaxation measured?",
+   "answer": "T1 and T2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#bda489",
+   "kind": "mcq",
+   "stem": "On T1-weighted MRI, which tissue appears bright?",
+   "options": [
+    "Cerebrospinal fluid",
+    "Bone",
+    "Air",
+    "Fat"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#fc64d0",
+   "kind": "mcq",
+   "stem": "On T2-weighted MRI, which tissues appear bright?",
+   "options": [
+    "Fat and bone",
+    "Water and CSF",
+    "Air and bone",
+    "Muscle and fat"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#08f32f",
+   "kind": "statement",
+   "stem": "Which relaxation time does gadolinium mainly shorten?",
+   "answer": "T1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#154c86",
+   "kind": "mcq",
+   "stem": "What field strength range do clinical MRI magnets have?",
+   "options": [
+    "0.1 to 0.2 Tesla",
+    "5 to 10 Tesla",
+    "1.5 to 3.0 Tesla",
+    "10 to 20 Tesla"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#16d392",
+   "kind": "mcq",
+   "stem": "How many Gauss are in 1 Tesla?",
+   "options": [
+    "1000 Gauss",
+    "100 000 Gauss",
+    "100 Gauss",
+    "10 000 Gauss"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#16d392",
+   "kind": "mcq",
+   "stem": "What is the approximate strength of Earth's magnetic field, in Gauss?",
+   "options": [
+    "5 to 10 Gauss",
+    "0.5 to 1.0 Gauss",
+    "50 to 100 Gauss",
+    "0.05 to 0.1 Gauss"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#3d3a4b",
+   "kind": "statement",
+   "stem": "What do the superconducting coils of an MRI magnet sit in?",
+   "answer": "Liquid helium, below 4.2 Kelvin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#550706",
+   "kind": "statement",
+   "stem": "How does MRI magnetic field strength change with distance from the magnet?",
+   "answer": "It falls off exponentially",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#a3d77a",
+   "kind": "mcq",
+   "stem": "What field strength defines the 5 gauss safety line?",
+   "options": [
+    "5 mTesla",
+    "50 mTesla",
+    "0.5mTesla",
+    "0.05mTesla"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#d34e78",
+   "kind": "mcq",
+   "stem": "At what field strength does the second MRI safety line, with strong projectile pull, lie?",
+   "options": [
+    "5 Gauss",
+    "500 Gauss",
+    "50 Gauss",
+    "5000 Gauss"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#3f0182",
+   "kind": "statement",
+   "stem": "On most modern MRI scanners, when is the magnetic field on?",
+   "answer": "Always, even between scans",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#2170ec",
+   "kind": "statement",
+   "stem": "What main hazards do ferromagnetic objects pose near an MRI scanner?",
+   "answer": "Attraction and projectiles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#ebf398",
+   "kind": "mcq",
+   "stem": "What term describes objects inside the 50 Gauss line twisting to align with the field?",
+   "options": [
+    "Hysteresis",
+    "Inertia",
+    "Torque",
+    "Induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#2d64c5",
+   "kind": "statement",
+   "stem": "What must happen before anyone crosses the 5 Gauss contour in MRI?",
+   "answer": "An MR safety check for implants and other contraindications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#b1afb0",
+   "kind": "mcq",
+   "stem": "Which MRI hazard arises from the pulsed energy used to excite protons?",
+   "options": [
+    "Acoustic noise",
+    "Radiofrequency heating",
+    "Helium escape",
+    "Induced currents"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#c63650",
+   "kind": "statement",
+   "stem": "Which MRI hazard comes from time-varying magnetic fields?",
+   "answer": "Induced currents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#0cb471",
+   "kind": "mcq",
+   "stem": "In MRI, gradient switching usually exceeds which safe noise level?",
+   "options": [
+    "65 dB",
+    "75 dB",
+    "120 dB",
+    "85 dB"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#a4b6ec",
+   "kind": "statement",
+   "stem": "What is the term for sudden helium escape from an MRI magnet?",
+   "answer": "Quench",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#a239ea",
+   "kind": "mcq",
+   "stem": "About how many litres of liquid helium does an MRI cryostat hold?",
+   "options": [
+    "100 litres",
+    "10 litres",
+    "1000 litres",
+    "10 000 litres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#5d74d6",
+   "kind": "mcq",
+   "stem": "What dose of gadolinium contrast is given for MRI?",
+   "options": [
+    "0.02 ml/kg",
+    "0.5 ml/kg",
+    "0.1 ml/kg",
+    "0.2 ml/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#5d74d6",
+   "kind": "statement",
+   "stem": "What are the minor side effects of gadolinium contrast in MRI?",
+   "answer": "Nausea, vomiting, pain on injection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#f23536",
+   "kind": "statement",
+   "stem": "What does UK advice suggest about MRI scanning in pregnancy?",
+   "answer": "Ideally not to scan in the first trimester",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#bf7661",
+   "kind": "mcq",
+   "stem": "Which implanted device is a hazard for a patient entering an MRI scanner?",
+   "options": [
+    "Titanium hip replacement",
+    "Silicone breast implant",
+    "Pacemaker",
+    "Plastic heart valve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#acf08a",
+   "kind": "mcq",
+   "stem": "What metal must oxygen cylinders used in MRI be made of?",
+   "options": [
+    "Steel",
+    "Cast iron",
+    "Nickel plate",
+    "Aluminium"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#65a596",
+   "kind": "statement",
+   "stem": "In MRI safety, which personal item must be tested for compatibility before scanning?",
+   "answer": "Test glasses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#8ac2eb",
+   "kind": "statement",
+   "stem": "What must be done for the patient during an MRI scan?",
+   "answer": "Keep them comfortable and completely still",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#02880b",
+   "kind": "mcq",
+   "stem": "How long can each sequence of a full MRI study last at most?",
+   "options": [
+    "5 min",
+    "30 min",
+    "10 min",
+    "2 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#cb387c",
+   "kind": "mcq",
+   "stem": "How long can a complex MRI study last?",
+   "options": [
+    "30 min",
+    "5 h",
+    "2 h",
+    "8 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#976540",
+   "kind": "mcq",
+   "stem": "In MRI anaesthesia, where must MR Conditional equipment (yellow triangle) stay?",
+   "options": [
+    "Inside the 50 Gauss line, near the magnet",
+    "Inside the 5 Gauss line",
+    "Behind the 50 Gauss line",
+    "Beside the magnet bore, on the table"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#af4f2c",
+   "kind": "mcq",
+   "stem": "In MRI anaesthesia, where must MR Unsafe equipment (red circle) be kept?",
+   "options": [
+    "Inside the 50 Gauss line, near the magnet",
+    "On the table beside the patient",
+    "Outside the 5 Gauss line",
+    "Inside the scan room, away from the bore"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#6f6a0d",
+   "kind": "statement",
+   "stem": "Which anaesthetic machines, ventilators and vaporisers should be used for MRI anaesthesia?",
+   "answer": "MRI-compatible machines, ventilators and vaporisers, which are widely available",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#221ff2",
+   "kind": "statement",
+   "stem": "What standard should monitoring meet during anaesthesia for an MRI scan?",
+   "answer": "The same standard as theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#52ea04",
+   "kind": "mcq",
+   "stem": "How long is the capnography delay caused by a long sample line during MRI anaesthesia?",
+   "options": [
+    "About 2 minutes",
+    "About 5 seconds",
+    "About 20 seconds",
+    "About 60 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#52ea04",
+   "kind": "statement",
+   "stem": "Why is there a delay in capnography sampling during MRI anaesthesia?",
+   "answer": "The long gas sample line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#2ed6d1",
+   "kind": "mcq",
+   "stem": "Above what field strength may MR-conditional infusion pumps fail in MRI?",
+   "options": [
+    "5 Gauss",
+    "10 Gauss",
+    "30 Gauss",
+    "50 Gauss"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#2ed6d1",
+   "kind": "statement",
+   "stem": "Which anaesthetic technique do MR-conditional infusion pumps allow in MRI?",
+   "answer": "TIVA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#3bbabd",
+   "kind": "statement",
+   "stem": "In MRI anaesthesia, how far should IV extension lines reach?",
+   "answer": "To the 5 Gauss line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#008277",
+   "kind": "statement",
+   "stem": "In MRI anaesthesia, what must be done with all needles and sharps?",
+   "answer": "Count all into the sharps bin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#125a7c",
+   "kind": "statement",
+   "stem": "In MRI anaesthesia, what limits access to the patient?",
+   "answer": "A narrow bore, and head coils reduce access further",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#b653ee",
+   "kind": "statement",
+   "stem": "Who should work in the MRI suite, which is often far from theatres?",
+   "answer": "Only trained staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#29b9ad",
+   "kind": "statement",
+   "stem": "Why should MRI anaesthetists rely on visual cues rather than sound?",
+   "answer": "Noise can mask alarms and partial airway obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#e18d84",
+   "kind": "statement",
+   "stem": "Why is deep sedation needed throughout an MRI scan?",
+   "answer": "Noise, claustrophobia and the need for stillness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#cda3e3",
+   "kind": "statement",
+   "stem": "Which drug may be used for deep sedation during an MRI scan?",
+   "answer": "Propofol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#c32ce1",
+   "kind": "statement",
+   "stem": "What discharge pathway applies to many children after general anaesthesia for MRI?",
+   "answer": "Day case, going home once standard discharge criteria are met",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#f3eb26",
+   "kind": "mcq",
+   "stem": "Where should general anaesthesia be induced for an MRI scan?",
+   "options": [
+    "Inside the scan room beside the magnet",
+    "In the main theatre complex, far away",
+    "In a dedicated anaesthetic room next to the scanner",
+    "On the scanner table inside the 5 Gauss line"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#a1530d",
+   "kind": "statement",
+   "stem": "Why can resuscitation not be done inside the MRI scan room or 5 Gauss line?",
+   "answer": "Projectile risk and poor access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#8321b0",
+   "kind": "statement",
+   "stem": "In an MRI emergency, where should the patient be moved quickly?",
+   "answer": "The induction room, which holds resuscitation drugs and kit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#f56058",
+   "kind": "statement",
+   "stem": "In an MRI emergency, who directs the resuscitation team to the induction room?",
+   "answer": "Radiology staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#83bc73",
+   "kind": "statement",
+   "stem": "What does intraoperative MRI (iMRI) provide during neurosurgery?",
+   "answer": "Near real-time imaging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#9d49bc",
+   "kind": "statement",
+   "stem": "What is the main risk in the inner controlled area of an iMRI suite?",
+   "answer": "Projectiles, above 50 Gauss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#4f9279",
+   "kind": "statement",
+   "stem": "What is the main risk in the larger MR-controlled area of an iMRI suite?",
+   "answer": "Implant risk, above 5 Gauss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#4f9279",
+   "kind": "statement",
+   "stem": "How is access controlled to the larger MR-controlled area in iMRI?",
+   "answer": "Self-locking doors or cards",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#a1ebbd",
+   "kind": "statement",
+   "stem": "In iMRI, if the table is inside the 5 Gauss area, what must all instruments be?",
+   "answer": "MR safe (non-ferrous)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#d7f06f",
+   "kind": "statement",
+   "stem": "In iMRI, what is the alternative to keeping the table inside the 5 Gauss area?",
+   "answer": "Table outside the 5 Gauss line with full instruments, moving the patient into the magnet for imaging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mri-anaesthesia#dba028",
+   "kind": "statement",
+   "stem": "In iMRI, what anaesthetic concern is added to those of standard MRI?",
+   "answer": "Potentially complex neuroanaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

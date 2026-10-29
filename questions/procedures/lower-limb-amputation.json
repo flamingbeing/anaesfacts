@@ -1,0 +1,169 @@
+{
+ "topic": "procedures/lower-limb-amputation",
+ "questions": [
+  {
+   "fact_id": "procedures/lower-limb-amputation#588f6b",
+   "kind": "mcq",
+   "stem": "Which patient position is used for lower limb amputation?",
+   "options": [
+    "Prone",
+    "Lateral decubitus",
+    "Supine",
+    "Lithotomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#eb46bd",
+   "kind": "mcq",
+   "stem": "When should invasive arterial monitoring be considered for lower limb amputation?",
+   "options": [
+    "Routinely for every patient",
+    "If septic or haemodynamically unstable",
+    "Only under general anaesthesia",
+    "Never, cuff pressure is enough"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#0c7962",
+   "kind": "mcq",
+   "stem": "For an above knee amputation under regional anaesthesia alone, how many nerves must be blocked?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#0c7962",
+   "kind": "statement",
+   "stem": "Which four nerves must be blocked for an above knee amputation under regional anaesthesia alone?",
+   "answer": "Sciatic, femoral, obturator and lateral cutaneous nerve of thigh.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#3a7bb9",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique can be used for lower limb amputation with or without sedation?",
+   "options": [
+    "Caudal block",
+    "Spinal anaesthesia",
+    "Lumbar plexus block",
+    "Bier block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#e5da32",
+   "kind": "mcq",
+   "stem": "For how long does a peripheral nerve block give good analgesia after lower limb amputation?",
+   "options": [
+    "Up to 2 hours",
+    "Up to 24 hours",
+    "Up to 6 hours",
+    "Up to 72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#e0e435",
+   "kind": "mcq",
+   "stem": "What is a typical infusion via a surgeon-placed stump catheter after amputation?",
+   "options": [
+    "Bupivacaine 0.5% at 10 mL/h",
+    "Bupivacaine 0.25% at 15 mL/h",
+    "Bupivacaine 0.25% at 5 mL/h",
+    "Lignocaine 1% at 10 mL/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#da4448",
+   "kind": "mcq",
+   "stem": "If an epidural is not feasible for amputation analgesia, what is the alternative?",
+   "options": [
+    "Caudal with morphine",
+    "Spinal with morphine",
+    "Paravertebral block alone",
+    "Intrathecal clonidine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#a9e4bf",
+   "kind": "blank",
+   "stem": "Systemic adjunct drugs for amputation analgesia include ketamine and ____.",
+   "answer": "gabapentin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#d1beaa",
+   "kind": "mcq",
+   "stem": "Which surgeons often do not use a tourniquet for lower limb amputation?",
+   "options": [
+    "Orthopaedic surgeons",
+    "Vascular surgeons",
+    "Plastic surgeons",
+    "Trauma surgeons"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#d05532",
+   "kind": "mcq",
+   "stem": "What blood preparation is needed for lower limb amputation blood loss?",
+   "options": [
+    "Platelet transfusion",
+    "Group and crossmatch",
+    "Plasma exchange",
+    "Fresh frozen plasma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#0cf1eb",
+   "kind": "mcq",
+   "stem": "How common is phantom limb pain after amputation?",
+   "options": [
+    "10–20%",
+    "30–40%",
+    "60–70%",
+    "90–100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-amputation#659c2c",
+   "kind": "statement",
+   "stem": "How should suspected phantom limb pain be distinguished and managed after amputation?",
+   "answer": "Distinguish it from surgical pain; involve the pain team.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

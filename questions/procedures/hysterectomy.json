@@ -1,0 +1,273 @@
+{
+ "topic": "procedures/hysterectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/hysterectomy#fd87f8",
+   "kind": "mcq",
+   "stem": "In a total hysterectomy with the ovaries left in place, which organs are removed?",
+   "options": [
+    "Uterus only, cervix kept",
+    "Uterus and cervix",
+    "Uterus, cervix, tubes and ovaries",
+    "Cervix and upper vagina only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#19c7dc",
+   "kind": "mcq",
+   "stem": "Which organs does a total hysterectomy with bilateral salpingo-oophorectomy remove?",
+   "options": [
+    "Uterus and cervix only",
+    "Uterus, cervix and upper vagina",
+    "Body of uterus only",
+    "Uterus, cervix, tubes and ovaries"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#7a79df",
+   "kind": "mcq",
+   "stem": "Which structures does a radical hysterectomy remove?",
+   "options": [
+    "Body of uterus only, cervix kept",
+    "Uterus, cervix, upper vagina and most surrounding pelvic tissue",
+    "Uterus and cervix only",
+    "Uterus, tubes and ovaries only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#7a79df",
+   "kind": "blank",
+   "stem": "In a radical hysterectomy, the surgeon sometimes also removes the pelvic ____.",
+   "answer": "lymph nodes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#ad05e7",
+   "kind": "mcq",
+   "stem": "In a supracervical (subtotal) hysterectomy, which part is kept?",
+   "options": [
+    "Ovaries",
+    "Upper vagina",
+    "Fallopian tubes",
+    "Cervix"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#75cc30",
+   "kind": "mcq",
+   "stem": "How long is the abdominal incision in an open abdominal hysterectomy?",
+   "options": [
+    "About two to three inches",
+    "About one inch",
+    "About six to eight inches",
+    "About ten to twelve inches"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#e60b6d",
+   "kind": "mcq",
+   "stem": "Does an abdominal hysterectomy always include removal of the ovaries?",
+   "options": [
+    "Yes, the ovaries are always removed",
+    "No, ovaries may be included",
+    "No, ovaries are never removed",
+    "Yes, the ovaries are always left in"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#fe084b",
+   "kind": "mcq",
+   "stem": "How does pelvic lymph node dissection affect an abdominal hysterectomy?",
+   "options": [
+    "It can make the operation much shorter",
+    "It removes the need for an arterial line",
+    "It can make the operation much longer",
+    "It has no effect on operation length"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#df9af5",
+   "kind": "mcq",
+   "stem": "Before abdominal hysterectomy for heavy or postmenopausal bleeding, which checks should be made?",
+   "options": [
+    "Liver function and clotting screen",
+    "Thyroid function and HbA1c",
+    "Serum calcium and magnesium",
+    "Hb, group and hold"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#b2887a",
+   "kind": "mcq",
+   "stem": "Why check urea and electrolytes before abdominal hysterectomy?",
+   "options": [
+    "Possible hypoglycaemia",
+    "Possible ureteric obstruction",
+    "Possible anaemia from bleeding",
+    "Possible airway oedema"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#893405",
+   "kind": "mcq",
+   "stem": "Why is the patient positioned head down in abdominal hysterectomy?",
+   "options": [
+    "To improve access to the vagina",
+    "So bowel falls away from the uterus",
+    "To reduce ventilation pressures",
+    "To lower the risk of aspiration"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#56d422",
+   "kind": "mcq",
+   "stem": "For abdominal hysterectomy under GA with IPPV, which neuromuscular blocker class is used?",
+   "options": [
+    "Depolarising agent such as suxamethonium",
+    "Opioid infusion only",
+    "Non-depolarising neuromuscular blocker",
+    "Inhalational agent only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#72fe39",
+   "kind": "mcq",
+   "stem": "What postoperative analgesia is suggested after abdominal hysterectomy?",
+   "options": [
+    "Simple analgesia alone",
+    "Epidural opioid only",
+    "Oral opioid tablets only",
+    "Simple analgesia plus PCA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#3c1d64",
+   "kind": "mcq",
+   "stem": "In vaginal hysterectomy, what mainly determines how difficult the surgery is?",
+   "options": [
+    "Degree of prolapse",
+    "Patient's body mass index",
+    "Duration of the anaesthetic",
+    "Type of suture material"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#357219",
+   "kind": "statement",
+   "stem": "In vaginal hysterectomy, what kind of patient is often seen?",
+   "answer": "Older, and may be frail",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#369d83",
+   "kind": "mcq",
+   "stem": "Which airway suits general anaesthesia for vaginal hysterectomy?",
+   "options": [
+    "Double-lumen tube",
+    "Tracheostomy tube",
+    "LMA",
+    "Nasopharyngeal airway"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#fa2398",
+   "kind": "mcq",
+   "stem": "What patient position is used for vaginal hysterectomy?",
+   "options": [
+    "Supine with head down",
+    "Prone with arms tucked",
+    "Lithotomy with legs down",
+    "Lateral decubitus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#e8a13b",
+   "kind": "mcq",
+   "stem": "Why might a laparoscopic hysterectomy use a total laparoscopic approach?",
+   "options": [
+    "To remove the cervix only",
+    "To leave tubes and ovaries in place",
+    "To also remove tubes and ovaries",
+    "To shorten the operating time"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#9d685d",
+   "kind": "mcq",
+   "stem": "Which airway is used for laparoscopic hysterectomy?",
+   "options": [
+    "Facemask ventilation only",
+    "Oropharyngeal airway",
+    "Tracheostomy",
+    "Endotracheal tube"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysterectomy#d5fefd",
+   "kind": "mcq",
+   "stem": "Which analgesic combination suits laparoscopic hysterectomy?",
+   "options": [
+    "Opioids, NSAIDs and local anaesthetic",
+    "Opioids alone",
+    "NSAIDs alone",
+    "Benzodiazepines and opioids"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

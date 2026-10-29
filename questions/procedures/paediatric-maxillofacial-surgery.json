@@ -1,0 +1,485 @@
+{
+ "topic": "procedures/paediatric-maxillofacial-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#8727c8",
+   "kind": "statement",
+   "stem": "What range of patients and conditions is seen in paediatric maxillofacial surgery?",
+   "answer": "Congenital and acquired conditions, across all ages.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#e2dd79",
+   "kind": "mcq",
+   "stem": "Which anaesthetic problems are common in paediatric maxillofacial surgery?",
+   "options": [
+    "Airway and intubation problems",
+    "Cardiac arrhythmias from local anaesthetic",
+    "Malignant hyperthermia in most cases",
+    "Massive haemorrhage at induction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#081b96",
+   "kind": "statement",
+   "stem": "How are procedures in infants described in paediatric maxillofacial surgery?",
+   "answer": "Complex and long.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#196de6",
+   "kind": "statement",
+   "stem": "What are the main problems in paediatric maxillofacial surgery?",
+   "answer": "Difficult airway, temperature control and blood loss.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#8a6fa2",
+   "kind": "statement",
+   "stem": "What long-term concerns come with repeated maxillofacial operations in childhood?",
+   "answer": "Possible psychological harm and self-image concerns.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#6e8d64",
+   "kind": "statement",
+   "stem": "Where is paediatric maxillofacial surgery usually done?",
+   "answer": "In centralised multidisciplinary units.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#4fd4b1",
+   "kind": "mcq",
+   "stem": "What proportion of paediatric facial trauma is soft tissue injury?",
+   "options": [
+    "About 25%",
+    "About 70%",
+    "About 5%",
+    "About 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#4fd4b1",
+   "kind": "mcq",
+   "stem": "What proportion of paediatric facial trauma is dental trauma?",
+   "options": [
+    "About 5%",
+    "About 70%",
+    "About 50%",
+    "About 25%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#4f0b22",
+   "kind": "mcq",
+   "stem": "Which facial fracture sites are commonest in children?",
+   "options": [
+    "Frontal sinus and skull base",
+    "Orbital floor and zygoma",
+    "Nasal bones and mandible",
+    "Cervical spine and clavicle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#f676f4",
+   "kind": "mcq",
+   "stem": "When is paediatric nasal fracture manipulation usually done?",
+   "options": [
+    "Immediately in the emergency department",
+    "Electively, 2-5 days after injury",
+    "Within 2 hours of injury",
+    "At least 3 weeks after injury"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#b1d786",
+   "kind": "mcq",
+   "stem": "What proportion of paediatric mandibular fractures are condylar?",
+   "options": [
+    "20%",
+    "60%",
+    "35%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#0e5bd0",
+   "kind": "mcq",
+   "stem": "Le Fort fractures in children are which type of facial fracture?",
+   "options": [
+    "Isolated nasal bone fractures",
+    "Mandibular condylar fractures",
+    "Dental luxation injuries",
+    "Midface fractures"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#fce54e",
+   "kind": "statement",
+   "stem": "When is facial fracture repair done relative to other injuries in a child?",
+   "answer": "After the primary survey, resuscitation and more urgent injuries.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#064a8e",
+   "kind": "statement",
+   "stem": "Before surgery for paediatric facial trauma, which other injury must be excluded?",
+   "answer": "Cervical spine injury.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#10170a",
+   "kind": "statement",
+   "stem": "If paediatric facial trauma surgery is not urgent, what should be done?",
+   "answer": "Fast the child and operate on a daytime trauma list.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#61ae96",
+   "kind": "statement",
+   "stem": "What intraoral signs usually accompany paediatric mandibular fractures?",
+   "answer": "Gum tears and haematomas on the buccal and lingual sides.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#19c0bf",
+   "kind": "mcq",
+   "stem": "In bilateral condylar fractures in a child, which way is the mandible displaced?",
+   "options": [
+    "Displaced forwards",
+    "Displaced backwards",
+    "Rotated sharply to one side",
+    "Locked in an open position"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#7334f3",
+   "kind": "statement",
+   "stem": "What causes airway obstruction risk after paediatric facial trauma?",
+   "answer": "Mobile fragments, oedema, bleeding, vomit, bone fragments, foreign bodies.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#bb5834",
+   "kind": "statement",
+   "stem": "What finding about teeth must be documented in a child with facial trauma?",
+   "answer": "Loose teeth.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#230e9c",
+   "kind": "mcq",
+   "stem": "When is inhalational induction chosen for a child with facial trauma?",
+   "options": [
+    "Only for nasal fracture manipulation",
+    "If facial injuries may threaten the airway",
+    "When intravenous access is already secure",
+    "For isolated loose teeth"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#794fe1",
+   "kind": "mcq",
+   "stem": "What airway is used for brief paediatric nasal fracture manipulation?",
+   "options": [
+    "Oral tube with IPPV",
+    "Face mask with IPPV",
+    "LMA with spontaneous ventilation",
+    "Tracheostomy with controlled ventilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#ced742",
+   "kind": "statement",
+   "stem": "How is surgery for other paediatric facial fractures described?",
+   "answer": "Complex and long.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#eadb8d",
+   "kind": "mcq",
+   "stem": "What ventilation is usual during maintenance for paediatric facial fracture surgery?",
+   "options": [
+    "Spontaneous ventilation",
+    "Hand bagging throughout",
+    "IPPV",
+    "Jet ventilation only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#c9c6f8",
+   "kind": "mcq",
+   "stem": "What intraoperative IV morphine dose is used for paediatric facial fracture surgery?",
+   "options": [
+    "100-150 mcg/kg IV",
+    "10-15 mcg/kg IV",
+    "1-1.5 mg/kg IV",
+    "300-400 mcg/kg IV"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#c9c6f8",
+   "kind": "mcq",
+   "stem": "What intraoperative IV fentanyl dose is used for paediatric facial fracture surgery?",
+   "options": [
+    "20-40 mcg/kg IV",
+    "0.2-0.4 mcg/kg IV",
+    "2-4 mcg/kg IV",
+    "100-150 mcg/kg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#225d97",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is used in paediatric facial fracture surgery?",
+   "options": [
+    "0.025-0.05 mcg/kg/min",
+    "2-4 mcg/kg/min",
+    "0.25-0.5 mcg/kg/min",
+    "5-10 mcg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#225d97",
+   "kind": "statement",
+   "stem": "Why use a remifentanil infusion in paediatric facial fracture surgery?",
+   "answer": "Cardiovascular stability, with less volatile needed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#5036b4",
+   "kind": "mcq",
+   "stem": "What rectal paracetamol dose is given intraoperatively in paediatric facial surgery?",
+   "options": [
+    "15 mg/kg rectal",
+    "4 mg/kg rectal",
+    "40 mg/kg rectal",
+    "150 mg/kg rectal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#aea6d5",
+   "kind": "mcq",
+   "stem": "Which crystalloid is given for fasting deficit and maintenance in paediatric facial surgery?",
+   "options": [
+    "Albumin 4%",
+    "Hartmann's",
+    "Hydroxyethyl starch",
+    "Gelatin 4%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#3aa502",
+   "kind": "mcq",
+   "stem": "In paediatric facial trauma surgery, when is blood loss usually large?",
+   "options": [
+    "When a nasal bone is manipulated",
+    "When an artery is injured",
+    "When a warming mattress is used",
+    "When the child is fasted overnight"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#7eb7c1",
+   "kind": "mcq",
+   "stem": "After paediatric maxillofacial surgery, when is HDU admission indicated?",
+   "options": [
+    "For routine uncomplicated nasal manipulation",
+    "For every child after maxillofacial surgery",
+    "If significant oral or facial swelling could threaten the airway",
+    "For any child under five years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#1806cb",
+   "kind": "mcq",
+   "stem": "When is ITU with continued intubation indicated after paediatric maxillofacial surgery?",
+   "options": [
+    "If the child has no oral swelling",
+    "If airway patency is in doubt",
+    "For routine pain control with oral analgesia",
+    "Only after a tracheostomy is placed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#0397fa",
+   "kind": "statement",
+   "stem": "After facial surgery in a child, how is fluid given until the child drinks?",
+   "answer": "IV maintenance fluids.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#765218",
+   "kind": "statement",
+   "stem": "How is postoperative analgesia chosen after paediatric facial surgery?",
+   "answer": "According to the extent of surgery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#bf097b",
+   "kind": "mcq",
+   "stem": "What is the oral paracetamol dose after paediatric facial surgery?",
+   "options": [
+    "60 mg/kg oral 4-hourly",
+    "15 mg/kg oral 4-hourly",
+    "1.5 mg/kg oral 4-hourly",
+    "40 mg/kg oral 4-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#43168a",
+   "kind": "mcq",
+   "stem": "What is the oral ibuprofen dose after paediatric facial surgery?",
+   "options": [
+    "100 mg/kg oral 6-hourly",
+    "10 mg/kg oral 6-hourly",
+    "1 mg/kg oral 6-hourly",
+    "40 mg/kg oral 6-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#972054",
+   "kind": "mcq",
+   "stem": "What is the oral morphine dose after paediatric facial surgery?",
+   "options": [
+    "20-30 mcg/kg 4-hourly",
+    "200-300 mcg/kg 4-hourly",
+    "2-3 mg/kg 4-hourly",
+    "500-600 mcg/kg 4-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#fd7718",
+   "kind": "statement",
+   "stem": "When might IV morphine infusion or PCA be used after paediatric facial surgery?",
+   "answer": "Other injuries, or when unable to take oral drugs.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#fb7a14",
+   "kind": "statement",
+   "stem": "What does elective paediatric facial reconstruction aim to correct?",
+   "answer": "Congenital or developmental deformity, such as mandibular hypoplasia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#f1b7ce",
+   "kind": "mcq",
+   "stem": "Which deformity cause is more common in children than adults for facial reconstruction?",
+   "options": [
+    "Acquired deformity after trauma",
+    "Congenital syndromes, e.g. Treacher Collins",
+    "Degenerative joint disease",
+    "Post-radiotherapy fibrosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#6b191e",
+   "kind": "mcq",
+   "stem": "What causes a difficult airway in children having elective facial reconstruction?",
+   "options": [
+    "Nasal bone fracture with epistaxis",
+    "Limited mouth opening or mandibular hypoplasia",
+    "Dental caries with loose molars",
+    "Tracheal stenosis after prior intubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-maxillofacial-surgery#a1beeb",
+   "kind": "statement",
+   "stem": "Why do large blood losses matter more in children having facial reconstruction?",
+   "answer": "Children have small blood volumes.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

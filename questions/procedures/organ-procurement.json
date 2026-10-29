@@ -1,0 +1,537 @@
+{
+ "topic": "procedures/organ-procurement",
+ "questions": [
+  {
+   "fact_id": "procedures/organ-procurement#5810b3",
+   "kind": "mcq",
+   "stem": "In organ procurement, when does cold ischaemic time start?",
+   "options": [
+    "When the organ is implanted and warms up",
+    "When the donor's arterial line trace goes flat",
+    "At aortic cross-clamp or cold preservation flush",
+    "When the organ is removed from the donor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#1ca4cd",
+   "kind": "mcq",
+   "stem": "What is the cold ischaemic time limit for the heart in organ procurement?",
+   "options": [
+    "8–12 hours",
+    "24–36 hours",
+    "4–6 hours",
+    "6–8 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#1ca4cd",
+   "kind": "statement",
+   "stem": "Why must a donor heart be reimplanted quickly after cold storage?",
+   "answer": "It has little cellular reserve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#f1e6ee",
+   "kind": "mcq",
+   "stem": "What is the cold ischaemic time limit for lungs in organ procurement?",
+   "options": [
+    "4–6 hours",
+    "6–8 hours",
+    "15 hours",
+    "8–12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#9f7712",
+   "kind": "mcq",
+   "stem": "What is the cold ischaemic time limit for the liver in organ procurement?",
+   "options": [
+    "15 hours",
+    "4–6 hours",
+    "8–12 hours",
+    "24–36 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#9f7712",
+   "kind": "statement",
+   "stem": "Why does longer cold ischaemic time matter for a donor liver?",
+   "answer": "Raises risk of ischaemic cholangiopathy (bile duct injury)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#36e9f2",
+   "kind": "mcq",
+   "stem": "What is the cold ischaemic time limit for the pancreas in organ procurement?",
+   "options": [
+    "8–12 hours",
+    "15 hours",
+    "6–8 hours",
+    "24–36 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#36e9f2",
+   "kind": "statement",
+   "stem": "Why is prolonged cold ischaemia a concern for a donor pancreas?",
+   "answer": "Predisposes to post-transplant pancreatitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#f79147",
+   "kind": "mcq",
+   "stem": "What is the cold ischaemic time limit for the kidney in organ procurement?",
+   "options": [
+    "4–6 hours",
+    "24–36 hours",
+    "15 hours",
+    "8–12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#f79147",
+   "kind": "statement",
+   "stem": "Why can a donor kidney tolerate long cold ischaemic times?",
+   "answer": "Low metabolic demand when it is not filtering",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#796f9b",
+   "kind": "statement",
+   "stem": "In organ transplantation, what is warm ischaemic time (WIT)?",
+   "answer": "Time at body temperature with blood supply stopped or reduced",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#5e192d",
+   "kind": "statement",
+   "stem": "In organ implantation, what marks the end of warm ischaemic time?",
+   "answer": "Completion of the anastomosis (reperfusion)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#dbc574",
+   "kind": "mcq",
+   "stem": "What is the warm ischaemic time limit for the heart in transplantation?",
+   "options": [
+    "<30 minutes",
+    "<60 minutes",
+    "<90 minutes",
+    "<45 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#cb10ba",
+   "kind": "mcq",
+   "stem": "What is the warm ischaemic time limit per lung in transplantation?",
+   "options": [
+    "<60 minutes",
+    "<90 minutes",
+    "<20-25 minutes",
+    "<30-45 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#1b2af1",
+   "kind": "mcq",
+   "stem": "What is the warm ischaemic time limit for the liver in transplantation?",
+   "options": [
+    "<60 min",
+    "<90 min",
+    "<30-45 min",
+    "<15 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#add842",
+   "kind": "blank",
+   "stem": "In transplantation, the warm ischaemic time limit for the kidney is ____.",
+   "answer": "<30-45 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#ebf9f0",
+   "kind": "statement",
+   "stem": "In donation after circulatory death, what is the extra donor warm ischaemic period?",
+   "answer": "Unavoidable warm ischaemia before cold perfusion begins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#a71f2e",
+   "kind": "statement",
+   "stem": "In DCD donors, what does the agonal phase cover?",
+   "answer": "From start of treatment withdrawal to cessation of cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#8dd32d",
+   "kind": "statement",
+   "stem": "In DCD donors, what does absolute warm ischaemic time run between?",
+   "answer": "Cardiac arrest to start of the cold flush",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#003e04",
+   "kind": "statement",
+   "stem": "In DCD donors, when does functional donor warm ischaemic time start?",
+   "answer": "When donor perfusion falls below a set limit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#6f1e43",
+   "kind": "mcq",
+   "stem": "In the DCD functional DWIT memory aid LHP30, K60, L90, what does K60 mean?",
+   "options": [
+    "Liver limit of 60 minutes",
+    "Lung limit of 60 minutes",
+    "Heart limit of 60 minutes",
+    "Kidney limit of 60 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#7da94f",
+   "kind": "mcq",
+   "stem": "What is the functional donor warm ischaemic time limit for the liver in DCD?",
+   "options": [
+    "<60 min",
+    "<30 min",
+    "<90 min",
+    "<45 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#aa90dd",
+   "kind": "mcq",
+   "stem": "What is the functional donor warm ischaemic time limit for the heart in DCD?",
+   "options": [
+    "<45 min",
+    "<90 min",
+    "<30 min",
+    "<15 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#31e032",
+   "kind": "mcq",
+   "stem": "What is the functional donor warm ischaemic time limit for the pancreas in DCD?",
+   "options": [
+    "<60 min",
+    "<90 min",
+    "<120 min",
+    "<30 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#8bfed7",
+   "kind": "mcq",
+   "stem": "What is the functional donor warm ischaemic time limit for kidneys in DCD?",
+   "options": [
+    "<30 min",
+    "<90 min",
+    "<45 min",
+    "<60 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#8bfed7",
+   "kind": "statement",
+   "stem": "In DCD kidney donation, what starts the timing of the functional warm ischaemic limit?",
+   "answer": "SBP <50 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#9d72a7",
+   "kind": "mcq",
+   "stem": "What is the functional donor warm ischaemic time limit for lungs in DCD?",
+   "options": [
+    "<60 min",
+    "<30-45 min",
+    "<120 min",
+    "<90 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#05f138",
+   "kind": "statement",
+   "stem": "In DCD donors, what event starts donor warm ischaemic time?",
+   "answer": "Organ blood flow stops",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#136a9a",
+   "kind": "statement",
+   "stem": "Which ischaemic timer starts at the cold flush or cross-clamp in organ procurement?",
+   "answer": "Cold ischaemic time (CIT)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#319c39",
+   "kind": "mcq",
+   "stem": "At implantation, when does the organ's warm ischaemic time begin?",
+   "options": [
+    "At aortic cross-clamp",
+    "When the cold flush starts",
+    "When the organ starts to warm during implantation",
+    "At reperfusion with recipient blood"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#b54699",
+   "kind": "blank",
+   "stem": "In donation after brain death, the donor may need ____ blood for retrieval.",
+   "answer": "crossmatched",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#48e2bd",
+   "kind": "mcq",
+   "stem": "How is anaesthetic drug use during brain-dead donor retrieval regarded?",
+   "options": [
+    "Settled and universally required",
+    "Forbidden by transplant guidelines",
+    "Debated",
+    "Only given after cross-clamp"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#f949ff",
+   "kind": "statement",
+   "stem": "In brain-dead donor retrieval, what is the aim of anaesthesia regarding spinal reflexes?",
+   "answer": "Block haemodynamic and motor responses from spinal reflexes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#7864b4",
+   "kind": "statement",
+   "stem": "Why may opioids alone be inadequate during brain-dead donor retrieval?",
+   "answer": "They may not control catecholamine surges from surgical stimulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#5cc5e4",
+   "kind": "blank",
+   "stem": "In donation after brain death, continue ICU ____ care.",
+   "answer": "supportive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#136037",
+   "kind": "mcq",
+   "stem": "What heparin dose is given to brain-dead donors before aortic cross-clamp?",
+   "options": [
+    "100–200 units/kg",
+    "30–40 units/kg",
+    "500–600 units/kg",
+    "300–400 units/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#136037",
+   "kind": "mcq",
+   "stem": "How long before aortic cross-clamp is heparin given to brain-dead donors?",
+   "options": [
+    "15-20 minutes",
+    "1-2 minutes",
+    "30-60 minutes",
+    "3-5 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#136037",
+   "kind": "statement",
+   "stem": "Through which access is heparin given to a brain-dead donor before cross-clamp?",
+   "answer": "Central line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#410161",
+   "kind": "statement",
+   "stem": "In brain-dead donor retrieval, when are the ventilator and monitors switched off?",
+   "answer": "Once the aorta is clamped and cold flush starts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#dfd9f7",
+   "kind": "statement",
+   "stem": "In brain-dead donor retrieval, what is the usual order of organ removal?",
+   "answer": "Heart, lung, pancreas, liver, kidney",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#db52be",
+   "kind": "statement",
+   "stem": "After organ removal in brain-dead donation, where is the deceased sent?",
+   "answer": "The mortuary",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#23cb87",
+   "kind": "statement",
+   "stem": "In DCD donation, which warm ischaemic time measure applies to the donor?",
+   "answer": "Functional warm ischaemic time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#63b931",
+   "kind": "statement",
+   "stem": "In DCD, what happens if the agonal plus no-touch period is too long?",
+   "answer": "The transplant is called off",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#c62622",
+   "kind": "statement",
+   "stem": "What does withdrawal of care involve in DCD donation?",
+   "answer": "Extubation and stopping inotropes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#338e49",
+   "kind": "mcq",
+   "stem": "In DCD, how long is the no-touch period after a flat arterial line trace?",
+   "options": [
+    "2 mins",
+    "10 mins",
+    "5 mins",
+    "15 mins"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#7149c4",
+   "kind": "mcq",
+   "stem": "In DCD donation, how many certifiers must certify death?",
+   "options": [
+    "2 certifiers",
+    "1 certifier",
+    "3 certifiers",
+    "4 certifiers"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#250124",
+   "kind": "mcq",
+   "stem": "In DCD donation, within what window must death occur?",
+   "options": [
+    "30 mins",
+    "90 mins",
+    "120 mins",
+    "60 mins"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#7734f3",
+   "kind": "statement",
+   "stem": "What is the purpose of organ-preserving CPR?",
+   "answer": "To preserve organs for donation, not to revive the patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#5b32c6",
+   "kind": "statement",
+   "stem": "What can organ-preserving CPR do for patients and families?",
+   "answer": "Honour the wish to donate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/organ-procurement#038496",
+   "kind": "statement",
+   "stem": "What is a drawback of aggressive organ-preserving CPR?",
+   "answer": "May injure the patient and cause psychological harm to families and staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

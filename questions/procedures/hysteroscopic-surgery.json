@@ -1,0 +1,223 @@
+{
+ "topic": "procedures/hysteroscopic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#67da1d",
+   "kind": "mcq",
+   "stem": "Which fibroid operation is performed hysteroscopically?",
+   "options": [
+    "Abdominal hysterectomy",
+    "Caesarean section",
+    "Fibroid resection or myomectomy",
+    "Laparoscopic cholecystectomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#3d012b",
+   "kind": "statement",
+   "stem": "Hysteroscopic surgery usually has small blood loss, but what can still occur?",
+   "answer": "Serious complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#45b9e7",
+   "kind": "mcq",
+   "stem": "In hysteroscopic surgery, which patient position is usually used?",
+   "options": [
+    "Prone, sometimes reverse Trendelenburg",
+    "Lateral decubitus",
+    "Lithotomy, sometimes Trendelenburg",
+    "Supine, sometimes sitting"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#29166f",
+   "kind": "mcq",
+   "stem": "Which risk is associated with the irrigation fluid used in hysteroscopic surgery?",
+   "options": [
+    "Anaphylaxis to contrast",
+    "Ketoacidosis",
+    "Fluid overload",
+    "Pulmonary embolism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#3fd157",
+   "kind": "mcq",
+   "stem": "Which intraoperative complication of hysteroscopic surgery involves air entering the circulation?",
+   "options": [
+    "Hypoglycaemia",
+    "Urinary retention",
+    "Post-dural puncture headache",
+    "Air embolism"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#b8ccea",
+   "kind": "mcq",
+   "stem": "After uterine perforation during hysteroscopy, how should possible intra-abdominal injury be checked?",
+   "options": [
+    "By chest X-ray alone",
+    "By urine dipstick alone",
+    "By laparoscopy or laparotomy",
+    "By serum potassium alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#a98bd3",
+   "kind": "mcq",
+   "stem": "Which anaesthetic can suffice for a diagnostic hysteroscopy?",
+   "options": [
+    "General anaesthesia with a tracheal tube",
+    "Intrathecal morphine alone",
+    "Local or paracervical block",
+    "Epidural catheter alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#372320",
+   "kind": "mcq",
+   "stem": "What anaesthetic usually suits operative hysteroscopy?",
+   "options": [
+    "Neuraxial or GA",
+    "Local infiltration only",
+    "Sedation alone",
+    "Topical anaesthetic only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#c8c079",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is most common for hysteroscopic surgery?",
+   "options": [
+    "Paracervical block",
+    "Spinal anaesthesia",
+    "General anaesthesia",
+    "Epidural anaesthesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#c90192",
+   "kind": "mcq",
+   "stem": "Why may regional anaesthesia be preferred for operative hysteroscopy?",
+   "options": [
+    "It removes the need for fluid monitoring",
+    "It prevents uterine perforation",
+    "It allows early detection of hyponatraemia and fluid overload",
+    "It avoids any risk of air embolism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#42676f",
+   "kind": "mcq",
+   "stem": "What is key to preventing fluid overload during hysteroscopic surgery?",
+   "options": [
+    "Routine chest drain insertion",
+    "Tracking fluid balance closely",
+    "Pre-operative bowel preparation",
+    "Routine nasogastric tube insertion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#e62641",
+   "kind": "mcq",
+   "stem": "What can intramyometrial vasopressin, injected by surgeons, cause?",
+   "options": [
+    "Hypotension and tachycardia",
+    "Bronchospasm and wheeze",
+    "Hypoglycaemia and sweating",
+    "Hypertension and bradycardia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#d631e9",
+   "kind": "mcq",
+   "stem": "If complications occur during hysteroscopic surgery, what should the team be ready for?",
+   "options": [
+    "Conversion to laparoscopy or laparotomy",
+    "Emergency caesarean section",
+    "Emergency tracheostomy",
+    "Immediate cardiac bypass"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#ec3945",
+   "kind": "mcq",
+   "stem": "If fluid overload occurs during hysteroscopic surgery, what airway step may be needed?",
+   "options": [
+    "Extubation and sedation",
+    "Tracheostomy",
+    "Intubation",
+    "Facemask only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#28e78e",
+   "kind": "mcq",
+   "stem": "After hysteroscopic surgery, which analgesic usually suffices?",
+   "options": [
+    "NSAIDs",
+    "Epidural infusion",
+    "Patient-controlled opioid",
+    "Spinal morphine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hysteroscopic-surgery#b325e6",
+   "kind": "mcq",
+   "stem": "What type of discharge is usual after hysteroscopic surgery?",
+   "options": [
+    "Discharge after a week",
+    "Discharge to intensive care",
+    "Day-case discharge",
+    "Discharge only after bowel function returns"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

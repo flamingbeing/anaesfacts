@@ -1,0 +1,139 @@
+{
+ "topic": "procedures/laparoscopic-gynaecological-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#2c3f71",
+   "kind": "statement",
+   "stem": "What type of patient is usually seen for gynaecological laparoscopy?",
+   "answer": "Fit young adults",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#5187e9",
+   "kind": "blank",
+   "stem": "Preoperative assessment for gynaecological laparoscopy notes that consent is needed for ____.",
+   "answer": "suppositories",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#093249",
+   "kind": "statement",
+   "stem": "Which drug class is given before gynaecological laparoscopy?",
+   "answer": "NSAIDs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#f3811d",
+   "kind": "statement",
+   "stem": "What patient positions are used in gynaecological laparoscopy, and in what order?",
+   "answer": "Supine, then lithotomy with head-down tilt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#b04505",
+   "kind": "mcq",
+   "stem": "What mivacurium dose gives about 15min of block in gynaecological laparoscopy?",
+   "options": [
+    "0.5mg/kg",
+    "0.05mg/kg",
+    "0.15mg/kg",
+    "0.25mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#b04505",
+   "kind": "mcq",
+   "stem": "Mivacurium 0.15mg/kg gives roughly how long of block in gynaecological laparoscopy?",
+   "options": [
+    "About 5min",
+    "About 15min",
+    "About 45min",
+    "About 90min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#7404c6",
+   "kind": "mcq",
+   "stem": "Which short-acting opioid is used in gynaecological laparoscopy?",
+   "options": [
+    "Morphine",
+    "Methadone",
+    "Pethidine",
+    "Fentanyl"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#be8ce2",
+   "kind": "statement",
+   "stem": "In gynaecological laparoscopy, what should the anaesthetist ask the surgeon to use?",
+   "answer": "Local anaesthetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#b4bf81",
+   "kind": "statement",
+   "stem": "What intraoperative injury must be watched for in gynaecological laparoscopy?",
+   "answer": "Perforation of abdominal organs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#bbd826",
+   "kind": "statement",
+   "stem": "What intraoperative gas complication must be watched for in gynaecological laparoscopy?",
+   "answer": "CO2 gas embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#be482d",
+   "kind": "statement",
+   "stem": "Which opioid may be needed after gynaecological laparoscopy?",
+   "answer": "Morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#e7391f",
+   "kind": "mcq",
+   "stem": "Which pain is common after gynaecological laparoscopy?",
+   "options": [
+    "Calf pain on walking",
+    "Lower back pain from lithotomy",
+    "Shoulder tip pain",
+    "Jaw pain on waking"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-gynaecological-surgery#e7391f",
+   "kind": "mcq",
+   "stem": "How can shoulder tip pain be reduced at the end of gynaecological laparoscopy?",
+   "options": [
+    "Keep the abdomen fully inflated",
+    "Increase the intravenous fluid rate",
+    "Delay all oral fluids",
+    "Expel as much CO2 as possible"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

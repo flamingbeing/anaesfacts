@@ -1,0 +1,51 @@
+{
+ "topic": "procedures/femoral-endarterectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/femoral-endarterectomy#8693eb",
+   "kind": "statement",
+   "stem": "For localised common femoral artery disease, which treatment is the gold standard?",
+   "answer": "Endarterectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/femoral-endarterectomy#d31f81",
+   "kind": "statement",
+   "stem": "Why is stenting often avoided for common femoral artery disease?",
+   "answer": "The hip moves a lot, so stents risk fracturing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/femoral-endarterectomy#bf18f4",
+   "kind": "statement",
+   "stem": "In femoral endarterectomy, how should a vasculopath be assessed preoperatively?",
+   "answer": "As for any patient with vascular disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/femoral-endarterectomy#9dabe7",
+   "kind": "statement",
+   "stem": "Which vascular event follows arterial clamping in femoral endarterectomy?",
+   "answer": "Reperfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/femoral-endarterectomy#a987d3",
+   "kind": "mcq",
+   "stem": "Which is the most common specific complication after femoral endarterectomy?",
+   "options": [
+    "Myocardial infarction",
+    "Air embolism",
+    "Groin haematoma or pseudoaneurysm",
+    "Stent fracture"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

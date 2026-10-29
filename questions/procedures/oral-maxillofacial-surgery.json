@@ -1,0 +1,447 @@
+{
+ "topic": "procedures/oral-maxillofacial-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#7971a3",
+   "kind": "statement",
+   "stem": "In simple oral and maxillofacial surgery, what are the key airway features?",
+   "answer": "Shared airway; nasal intubation and throat pack",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#39db33",
+   "kind": "statement",
+   "stem": "What are the two main concerns in major oral and maxillofacial surgery?",
+   "answer": "Airway oedema; bleeding risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#f316e8",
+   "kind": "statement",
+   "stem": "What airway problems can an intraoral abscess cause?",
+   "answer": "Trismus and airway obstruction, which can worsen after surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#19b4d2",
+   "kind": "statement",
+   "stem": "What airway issues arise in oral and maxillofacial surgery?",
+   "answer": "Shared airway, throat pack, blood in the airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#267240",
+   "kind": "mcq",
+   "stem": "At extubation after oral and maxillofacial surgery, what should happen to the throat pack?",
+   "options": [
+    "Leave it in until the ward round",
+    "Replace it with a fresh pack",
+    "Remove it at extubation",
+    "Remove it only if bleeding"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#94d9e8",
+   "kind": "mcq",
+   "stem": "Which reflex causes bradyarrhythmias from traction on the maxilla in oral and maxillofacial surgery?",
+   "options": [
+    "Bainbridge reflex",
+    "Trigeminovagal reflex",
+    "Hering-Breuer reflex",
+    "Carotid body chemoreflex"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#c58996",
+   "kind": "statement",
+   "stem": "In oral and maxillofacial surgery, what does orthognathic surgery involve?",
+   "answer": "Cutting and repositioning the mandible, maxilla or both to correct lower facial skeletal disproportion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#0a2cee",
+   "kind": "blank",
+   "stem": "In orthognathic surgery, airway measures include nasal intubation, a throat pack, good suction, ____ and high dependency care for airway monitoring.",
+   "answer": "dexamethasone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#e77053",
+   "kind": "mcq",
+   "stem": "Which antifibrinolytic drug reduces bleeding in orthognathic surgery?",
+   "options": [
+    "Protamine sulphate",
+    "Desmopressin",
+    "Frusemide",
+    "Tranexamic acid"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#b335df",
+   "kind": "mcq",
+   "stem": "In orthognathic surgery with postoperative intermaxillary fixation, which anaesthetic technique is used?",
+   "options": [
+    "Spinal anaesthesia",
+    "TIVA",
+    "Oral analgesia only",
+    "Nitrous oxide alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#b335df",
+   "kind": "mcq",
+   "stem": "How many antiemetics are advised for postoperative intermaxillary fixation in orthognathic surgery?",
+   "options": [
+    "2 antiemetics",
+    "1 antiemetic",
+    "3 antiemetics",
+    "4 antiemetics"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#00aac0",
+   "kind": "statement",
+   "stem": "Why should the airway be assessed carefully before orthognathic surgery?",
+   "answer": "The patient may have a major craniofacial abnormality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#2d7a14",
+   "kind": "statement",
+   "stem": "Why does orthognathic surgery need a valid group and crossmatch?",
+   "answer": "Bleeding can be heavy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#998fe3",
+   "kind": "mcq",
+   "stem": "Which opioid is used with TIVA in orthognathic surgery?",
+   "options": [
+    "Remifentanil",
+    "Morphine",
+    "Pethidine",
+    "Nalbuphine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#153c04",
+   "kind": "mcq",
+   "stem": "Which steroid is given at high dose in orthognathic surgery?",
+   "options": [
+    "Hydrocortisone",
+    "Dexamethasone",
+    "Prednisolone",
+    "Methylprednisolone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#bc0908",
+   "kind": "statement",
+   "stem": "In orthognathic surgery, why may large volumes of local anaesthetic with adrenaline be injected?",
+   "answer": "For pain and bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#b0464d",
+   "kind": "mcq",
+   "stem": "What adrenaline concentration is in the dental local anaesthetic mix used in orthognathic surgery?",
+   "options": [
+    "1:200,000",
+    "1:1,000",
+    "1:10,000",
+    "1:80,000"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#c63552",
+   "kind": "mcq",
+   "stem": "In orthognathic surgery, what is the maximum adrenaline dose per hour with local anaesthetic?",
+   "options": [
+    "300 mcg per hour",
+    "100 mcg per hour",
+    "600 mcg per hour",
+    "1 mg per hour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#70952e",
+   "kind": "statement",
+   "stem": "In orthognathic surgery, which donor sites can supply a bone graft?",
+   "answer": "Iliac crest or rib",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#5a5020",
+   "kind": "mcq",
+   "stem": "In orthognathic surgery, which serious complication is a recognised risk?",
+   "options": [
+    "Pneumothorax",
+    "Tracheal rupture",
+    "Oesophageal perforation",
+    "Dural tear"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#cffb06",
+   "kind": "statement",
+   "stem": "In orthognathic surgery, when is the patient usually not extubated at the end?",
+   "answer": "If surgery was long or involved extensive pharyngeal mucosal handling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#a4ec12",
+   "kind": "mcq",
+   "stem": "How long may high-risk orthognathic patients stay intubated in ICU?",
+   "options": [
+    "2-4 hours",
+    "6-8 hours",
+    "24-48 hours",
+    "3-5 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#69e517",
+   "kind": "statement",
+   "stem": "In orthognathic surgery, what is intermaxillary fixation?",
+   "answer": "Jaws wired together",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#b8b9f2",
+   "kind": "statement",
+   "stem": "In orthognathic surgery, what two roles does a nasopharyngeal airway play?",
+   "answer": "Maintains the airway and gives a suction route",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#ec6103",
+   "kind": "mcq",
+   "stem": "What level of postoperative care is definitely needed after orthognathic surgery?",
+   "options": [
+    "Routine ward care",
+    "High dependency care",
+    "Day-case recovery",
+    "Theatre recovery only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#230608",
+   "kind": "statement",
+   "stem": "In facial trauma, who should the anaesthetist assess the airway with?",
+   "answer": "The surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#cd151a",
+   "kind": "mcq",
+   "stem": "In facial trauma, which drug is given to limit swelling?",
+   "options": [
+    "Dexamethasone",
+    "Frusemide",
+    "Adrenaline",
+    "Paracetamol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#090f8d",
+   "kind": "mcq",
+   "stem": "Which antibiotic is used in facial trauma?",
+   "options": [
+    "Gentamicin",
+    "Augmentin",
+    "Vancomycin",
+    "Metronidazole"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#bb5eaf",
+   "kind": "statement",
+   "stem": "In facial trauma, what reaction can occur when the zygomatic fracture is elevated?",
+   "answer": "Reflex bradycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#ed7134",
+   "kind": "statement",
+   "stem": "In facial trauma, which two complications are at risk?",
+   "answer": "Oedema and haematoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#050b30",
+   "kind": "mcq",
+   "stem": "In facial trauma, which test helps decide between extubation and staying intubated?",
+   "options": [
+    "Spirometry",
+    "Capnography waveform",
+    "Bispectral index",
+    "Cuff leak test"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#59a498",
+   "kind": "mcq",
+   "stem": "For how long can airway swelling worsen after facial trauma?",
+   "options": [
+    "48 hours",
+    "6 hours",
+    "24 hours",
+    "7 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#8b5856",
+   "kind": "statement",
+   "stem": "In facial trauma, what may need to happen to sutures or clips, and when?",
+   "answer": "Remove them at once",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#5d7a01",
+   "kind": "statement",
+   "stem": "In intraoral abscess surgery, what airway risks should be anticipated?",
+   "answer": "Possible difficult airway or airway obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#4827cf",
+   "kind": "statement",
+   "stem": "In intraoral abscess surgery with a difficult airway, what technique should be used?",
+   "answer": "AFOI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#44f1c4",
+   "kind": "statement",
+   "stem": "Why should Yankauer suction be ready in intraoral abscess surgery?",
+   "answer": "The abscess may rupture during airway manipulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#5a2d2e",
+   "kind": "mcq",
+   "stem": "In intraoral abscess surgery, how quickly does high-dose dexamethasone for airway swelling act?",
+   "options": [
+    "Within minutes",
+    "Not immediate",
+    "Within seconds",
+    "Only after extubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#57c70a",
+   "kind": "mcq",
+   "stem": "Which extubation approach is used after intraoral abscess surgery?",
+   "options": [
+    "Deep extubation",
+    "Extubation after reversal only",
+    "Exchange to tracheostomy",
+    "Awake extubation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#e66e6e",
+   "kind": "statement",
+   "stem": "Which conditions can make airway oedema worse after intraoral abscess surgery?",
+   "answer": "Ludwig angina or parapharyngeal spread",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#71f574",
+   "kind": "mcq",
+   "stem": "Which drug class is used for pain after intraoral abscess surgery?",
+   "options": [
+    "Opioid infusion",
+    "Ketamine infusion",
+    "Nitrous oxide",
+    "NSAIDs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oral-maxillofacial-surgery#6ff5a0",
+   "kind": "blank",
+   "stem": "In intraoral abscess surgery, life-threatening floor-of-mouth cellulitis involves the submandibular and ____ spaces.",
+   "answer": "sublingual",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

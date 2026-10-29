@@ -1,0 +1,203 @@
+{
+ "topic": "procedures/drug-induced-sleep-endoscopy",
+ "questions": [
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#e5fcde",
+   "kind": "statement",
+   "stem": "In drug-induced sleep endoscopy, what is nasendoscopy done to find?",
+   "answer": "The site of upper airway obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#15075a",
+   "kind": "statement",
+   "stem": "In drug-induced sleep endoscopy, how deep must sedation be for a valid assessment?",
+   "answer": "Deep enough to bring on snoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#97bf8a",
+   "kind": "statement",
+   "stem": "In drug-induced sleep endoscopy, why may the mandible be pulled forward?",
+   "answer": "To see if the airway opens",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#4d5bf8",
+   "kind": "statement",
+   "stem": "During drug-induced sleep endoscopy, what is the rule about airway devices?",
+   "answer": "No airway device can be used",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#c45509",
+   "kind": "mcq",
+   "stem": "For a day-case drug-induced sleep endoscopy in OSA patients, which sedatives should be avoided?",
+   "options": [
+    "Long-acting sedatives",
+    "Short-acting sedatives",
+    "Propofol infusion",
+    "Nitrous oxide"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#3b5db8",
+   "kind": "mcq",
+   "stem": "How long does the drug-induced sleep endoscopy procedure itself take?",
+   "options": [
+    "About 45 minutes",
+    "About 60 minutes",
+    "About 5 minutes",
+    "About 15 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#5a723b",
+   "kind": "statement",
+   "stem": "In drug-induced sleep endoscopy, how are the patient's eyes managed to help sleep?",
+   "answer": "Covered with a paper mask",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#13b686",
+   "kind": "mcq",
+   "stem": "Besides routine monitoring, what is used in drug-induced sleep endoscopy?",
+   "options": [
+    "BIS",
+    "Arterial line",
+    "Transoesophageal echo",
+    "Cardiac output monitor"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#1b4544",
+   "kind": "mcq",
+   "stem": "Which pump is used for propofol during drug-induced sleep endoscopy?",
+   "options": [
+    "PCA pump",
+    "TCI pump",
+    "Ventilator",
+    "Blood warmer"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#561499",
+   "kind": "mcq",
+   "stem": "What is the starting effect-site target for the slow propofol TCI technique in DISE?",
+   "options": [
+    "1.5 mcg/ml",
+    "2.5 mcg/ml",
+    "0.5 mcg/ml",
+    "4 mcg/ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#561499",
+   "kind": "statement",
+   "stem": "In the slow propofol TCI technique for DISE, when is the target held?",
+   "answer": "When the snoring-apnoea cycle starts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#03e250",
+   "kind": "mcq",
+   "stem": "What is the starting effect-site target for the rapid propofol TCI technique in DISE?",
+   "options": [
+    "1.5 mcg/ml",
+    "0.5 mcg/ml",
+    "4 mcg/ml",
+    "2.5 mcg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#6cc181",
+   "kind": "blank",
+   "stem": "In DISE, IV midazolam 3–5 mg and propofol ____ mg are given, titrated to sleep.",
+   "answer": "30–50",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#6cc181",
+   "kind": "mcq",
+   "stem": "In DISE with propofol and midazolam, what is the IV midazolam starting dose?",
+   "options": [
+    "10–20 mg",
+    "3–5 mg",
+    "0.5–1 mg",
+    "30–50 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#bc01a1",
+   "kind": "mcq",
+   "stem": "In DISE, how often are further 20 mg propofol boluses given to maintain sedation?",
+   "options": [
+    "Every two minutes",
+    "Every 10 minutes",
+    "Every 30 seconds",
+    "Every 5 minutes"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#7ea500",
+   "kind": "mcq",
+   "stem": "What is the dexmedetomidine loading dose for drug-induced sleep endoscopy?",
+   "options": [
+    "1 mcg/kg over 2 min",
+    "0.2 mcg/kg/h",
+    "1 mcg/kg over 10 min",
+    "5 mcg/kg over 10 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#7ea500",
+   "kind": "statement",
+   "stem": "In DISE, what is the dexmedetomidine maintenance range?",
+   "answer": "0.2- 0.7 mcg/kg/h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/drug-induced-sleep-endoscopy#a4dbdf",
+   "kind": "blank",
+   "stem": "After drug-induced sleep endoscopy in OSA patients, observe in PACU for at least ____.",
+   "answer": "an hour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

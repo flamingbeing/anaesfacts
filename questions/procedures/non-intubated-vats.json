@@ -1,0 +1,247 @@
+{
+ "topic": "procedures/non-intubated-vats",
+ "questions": [
+  {
+   "fact_id": "procedures/non-intubated-vats#f3f688",
+   "kind": "statement",
+   "stem": "What defines non-intubated VATS compared with standard VATS for airway and ventilation?",
+   "answer": "Deep sedation, spontaneous ventilation, no ETT or lung isolation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#7f4075",
+   "kind": "statement",
+   "stem": "Which requirement is emphasised for non-intubated VATS anaesthesia?",
+   "answer": "Good analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#0e7d92",
+   "kind": "statement",
+   "stem": "How is cough suppressed during non-intubated VATS?",
+   "answer": "Vagal nerve block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#f0ec33",
+   "kind": "statement",
+   "stem": "What may non-intubated VATS require partway through the operation?",
+   "answer": "Conversion to GA with intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#fe2557",
+   "kind": "mcq",
+   "stem": "What is the main drawback of non-intubated VATS?",
+   "options": [
+    "Requires a double-lumen tube",
+    "Needs a central venous line",
+    "Patient must breathe spontaneously",
+    "Demands neuromuscular blockade"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#8a470b",
+   "kind": "mcq",
+   "stem": "What respiratory rate is aimed for during non-intubated VATS?",
+   "options": [
+    "8 to 12 per minute",
+    "12 to 20 per minute",
+    "20 to 30 per minute",
+    "30 to 40 per minute"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#32f748",
+   "kind": "mcq",
+   "stem": "What supplemental oxygen flow by nasal cannula is used in non-intubated VATS?",
+   "options": [
+    "1-2 litres/minute",
+    "3-4 litres/minute",
+    "6-8 litres/minute",
+    "10-15 litres/minute"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#899558",
+   "kind": "statement",
+   "stem": "How is hypercapnia monitored during non-intubated VATS?",
+   "answer": "Good end-tidal CO2 trace plus arterial gases before and after the surgical pneumothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#7d635f",
+   "kind": "statement",
+   "stem": "When should the airway be secured during sedation for non-intubated VATS?",
+   "answer": "If upper airway obstruction is a concern",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#25776f",
+   "kind": "mcq",
+   "stem": "In non-intubated VATS with an LMA, what tidal volume is targeted?",
+   "options": [
+    "Above 4 ml/kg",
+    "Above 8 ml/kg",
+    "Below 2 ml/kg",
+    "Exactly 6 ml/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#7d97d8",
+   "kind": "statement",
+   "stem": "What ventilation approach is accepted during non-intubated VATS with continuous ETCO2 monitoring?",
+   "answer": "Permissive hypercapnia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#d39bd5",
+   "kind": "statement",
+   "stem": "Which analgesic approach works well for the chest wall and parietal pleura in non-intubated VATS?",
+   "answer": "Regional techniques",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#d17bc5",
+   "kind": "mcq",
+   "stem": "In non-intubated VATS, how much 1% lidocaine is infiltrated onto the vagus nerve to suppress cough?",
+   "options": [
+    "0.5-1 ml",
+    "2-3 ml",
+    "10-15 ml",
+    "20-30 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#ae1b2b",
+   "kind": "statement",
+   "stem": "What is the status of postoperative analgesia after non-intubated VATS?",
+   "answer": "Best approach still unsettled",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#551c99",
+   "kind": "statement",
+   "stem": "Near which lesions is coughing a particular problem during non-intubated VATS?",
+   "answer": "Central intrathoracic lesions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#551c99",
+   "kind": "statement",
+   "stem": "Why must cough suppression in non-intubated VATS be short-lived?",
+   "answer": "A returning cough reflex reduces postoperative chest complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#6beca7",
+   "kind": "statement",
+   "stem": "What events may occasionally force conversion to intubated GA during non-intubated VATS?",
+   "answer": "Significant bleeding, pleural adhesions, inadequate anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#06985b",
+   "kind": "mcq",
+   "stem": "When converting non-intubated VATS to intubated GA, what is Plan A?",
+   "options": [
+    "Emergency tracheostomy",
+    "Intubation through the existing SGA with fibreoptic guidance",
+    "Lung isolation through the existing SGA",
+    "Rapid sequence induction in theatre"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#e1a40e",
+   "kind": "statement",
+   "stem": "What is Plan B when converting non-intubated VATS to intubated GA?",
+   "answer": "Intubation through the existing SGA with fibreoptic guidance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#05c6ac",
+   "kind": "statement",
+   "stem": "What is Plan C when converting non-intubated VATS to intubated GA?",
+   "answer": "Laryngoscopy and intubation in the lateral position",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#443e7c",
+   "kind": "statement",
+   "stem": "What is Plan D when converting non-intubated VATS to intubated GA?",
+   "answer": "Emergency supine intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#661767",
+   "kind": "statement",
+   "stem": "What extra monitoring should be considered for non-intubated VATS?",
+   "answer": "Invasive arterial pressure monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#335540",
+   "kind": "mcq",
+   "stem": "What tidal volume is used for gentle recruitment at emergence from non-intubated VATS?",
+   "options": [
+    "4 ml/kg",
+    "6 ml/kg",
+    "8 ml/kg",
+    "10 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#f0f43b",
+   "kind": "statement",
+   "stem": "After non-intubated VATS, what must happen before transfer to PACU on a face mask?",
+   "answer": "ETCO2 back to normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/non-intubated-vats#f0f43b",
+   "kind": "statement",
+   "stem": "Where can the SGA be removed after non-intubated VATS?",
+   "answer": "In theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

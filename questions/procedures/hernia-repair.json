@@ -1,0 +1,377 @@
+{
+ "topic": "procedures/hernia-repair",
+ "questions": [
+  {
+   "fact_id": "procedures/hernia-repair#49543a",
+   "kind": "mcq",
+   "stem": "In hernia repair, which patient group most often needs the operation?",
+   "options": [
+    "Elderly women after childbirth",
+    "Teenage girls only",
+    "Women over 70 only",
+    "Adult men or young children"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#0c275b",
+   "kind": "mcq",
+   "stem": "In what setting is hernia repair usually performed?",
+   "options": [
+    "Day-case",
+    "Five-day inpatient stay",
+    "Intensive care admission",
+    "Seven-day ward admission"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#3d7e96",
+   "kind": "statement",
+   "stem": "In an obstructed or incarcerated hernia, which two concerns shape the preoperative assessment?",
+   "answer": "Aspiration risk and possible ischaemic bowel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#241baf",
+   "kind": "mcq",
+   "stem": "Before hernia repair, which condition should be treated to reduce recurrence?",
+   "options": [
+    "Atrial fibrillation",
+    "Ascites",
+    "Hypothyroidism",
+    "Iron deficiency anaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#241baf",
+   "kind": "statement",
+   "stem": "In hernia repair, why treat COPD with chronic cough, BPH or ascites before surgery?",
+   "answer": "Raised intra-abdominal pressure predisposes to recurrence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#f8161c",
+   "kind": "blank",
+   "stem": "In laparoscopic inguinal hernia repair, the hernia is often ____.",
+   "answer": "bilateral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#5c930c",
+   "kind": "mcq",
+   "stem": "Which airway is commonly used for laparoscopic inguinal hernia repair?",
+   "options": [
+    "Oropharyngeal airway",
+    "Face mask",
+    "LMA",
+    "Nasopharyngeal airway"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#5c930c",
+   "kind": "blank",
+   "stem": "For laparoscopic inguinal hernia repair, the neuromuscular blocker commonly used is ____.",
+   "answer": "atracurium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#ad275b",
+   "kind": "statement",
+   "stem": "What patient position is used for laparoscopic inguinal hernia repair?",
+   "answer": "Supine; left arm out, or both arms in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#14cb72",
+   "kind": "mcq",
+   "stem": "Which antibiotic is given for laparoscopic inguinal hernia repair?",
+   "options": [
+    "Cefazolin",
+    "Gentamicin",
+    "Metronidazole",
+    "Vancomycin"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#f47aa3",
+   "kind": "statement",
+   "stem": "What must the anaesthetist do during pneumoperitoneum in laparoscopic hernia repair?",
+   "answer": "Mind ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#df1615",
+   "kind": "mcq",
+   "stem": "How long does laparoscopic inguinal hernia repair usually take, unilateral or bilateral?",
+   "options": [
+    "15 to 30 minutes",
+    "3 to 4 hours",
+    "5 to 6 hours",
+    "45 min to 2 hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#0990e5",
+   "kind": "mcq",
+   "stem": "What blood loss is expected in laparoscopic inguinal hernia repair?",
+   "options": [
+    "Around 500 ml",
+    "Minimal",
+    "Over one litre",
+    "Massive, needing transfusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#1a2e9c",
+   "kind": "mcq",
+   "stem": "What morphine dose is given for moderate pain after laparoscopic inguinal hernia repair?",
+   "options": [
+    "0.5 mg/kg",
+    "0.005 mg/kg",
+    "0.1 mg/kg",
+    "0.05 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#1a2e9c",
+   "kind": "statement",
+   "stem": "Which two non-opioid analgesics are given for moderate pain after laparoscopic inguinal hernia repair?",
+   "answer": "Paracetamol and parecoxib",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#a1e810",
+   "kind": "statement",
+   "stem": "For PONV after laparoscopic inguinal hernia repair, what is suggested?",
+   "answer": "Consider dual antiemetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#411f3e",
+   "kind": "mcq",
+   "stem": "What is the usual postoperative stay after laparoscopic inguinal hernia repair?",
+   "options": [
+    "Five-day inpatient stay",
+    "Seven-day admission",
+    "23-hour stay",
+    "Overnight intensive care stay"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#a5ca8e",
+   "kind": "mcq",
+   "stem": "Which airway technique is used for open hernia repair?",
+   "options": [
+    "Spinal anaesthesia alone",
+    "Endotracheal tube with sedation alone",
+    "Face mask with spontaneous breathing",
+    "LMA with paralysis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#7b1ad1",
+   "kind": "mcq",
+   "stem": "What patient position is used for open hernia repair?",
+   "options": [
+    "Supine; either arm out",
+    "Prone with arms tucked",
+    "Lithotomy",
+    "Lateral decubitus"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#bfc68f",
+   "kind": "mcq",
+   "stem": "In open hernia repair, when should the patient stay paralysed?",
+   "options": [
+    "Until the skin is closed",
+    "Until the mesh is in",
+    "Until the hernia sac is opened",
+    "Until the patient wakes up"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#db9f5e",
+   "kind": "mcq",
+   "stem": "How long does open hernia repair usually take?",
+   "options": [
+    "15 to 30 minutes",
+    "2 to 3 hours",
+    "4 to 5 hours",
+    "45 min to 1.5 hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#55963b",
+   "kind": "mcq",
+   "stem": "What morphine dose is given for moderate, size-dependent pain after open hernia repair?",
+   "options": [
+    "0.01-0.02 mg/kg",
+    "0.2-0.3 mg/kg",
+    "0.5-1 mg/kg",
+    "0.05-0.1 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#06ffba",
+   "kind": "statement",
+   "stem": "For PONV after open hernia repair, given bowel handling, what is suggested?",
+   "answer": "Consider dual antiemetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#774a73",
+   "kind": "mcq",
+   "stem": "What is the usual postoperative setting after open hernia repair?",
+   "options": [
+    "Five-day ward admission",
+    "Day surgery",
+    "Intensive care admission",
+    "Seven-day inpatient stay"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#16f82a",
+   "kind": "statement",
+   "stem": "In hernia repair, what roles can an inguinal field block play?",
+   "answer": "Sole technique or adjunct to GA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#df3650",
+   "kind": "mcq",
+   "stem": "Where should the iliohypogastric and ilioinguinal nerves be blocked for hernia repair?",
+   "options": [
+    "2 cm caudal and medial to the ASIS",
+    "2 cm cranial and medial to the ASIS",
+    "2 cm caudal and lateral to the ASIS",
+    "2 cm cranial and lateral to the ASIS"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#cfb83f",
+   "kind": "statement",
+   "stem": "In hernia repair, where is the genitofemoral nerve found for an inguinal field block?",
+   "answer": "1–2 cm above the midpoint of the inguinal ligament, deep to the external oblique aponeurosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#cfb83f",
+   "kind": "statement",
+   "stem": "In hernia repair, who can perform the genitofemoral nerve block to avoid vascular or peritoneal puncture?",
+   "answer": "The surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#d6d06c",
+   "kind": "mcq",
+   "stem": "What tramadol dose is given for discharge analgesia after day-case hernia repair?",
+   "options": [
+    "25–50 mg four times daily",
+    "100–150 mg four times daily",
+    "10–20 mg four times daily",
+    "50–100 mg four times daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#46c989",
+   "kind": "statement",
+   "stem": "What systemic analgesia does PROSPECT 2019 recommend for hernia repair?",
+   "answer": "Paracetamol plus NSAID or COX-2 inhibitor, started before or during surgery and continued after",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#c136b4",
+   "kind": "mcq",
+   "stem": "Which drug given as a single IV dose does PROSPECT 2019 recommend for hernia repair?",
+   "options": [
+    "Ketamine",
+    "Gabapentin",
+    "Dexamethasone",
+    "Midazolam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#596a95",
+   "kind": "statement",
+   "stem": "Which local or regional techniques does PROSPECT 2019 recommend for hernia repair?",
+   "answer": "LA infiltration and/or regional analgesia (ilioinguinal/iliohypogastric block or TAP block)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hernia-repair#11b9c7",
+   "kind": "statement",
+   "stem": "When does PROSPECT 2019 recommend a local anaesthetic technique for hernia repair?",
+   "answer": "If the surgeon is experienced in it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
