@@ -31,7 +31,9 @@ existing files only). Rebuild all three with `node tools/build-index.mjs`.
 
 ## Using it from an app
 
-Read the files at build time, or fetch them at run time from
+Apps that want everything at once read `app/index.json` (each area's version and counts) and `app/<area>.json` (that
+area's verified topics with their facts and questions, in short arrays; `tools/lib.mjs` `buildApp` says the shape).
+Otherwise read the files at build time, or fetch them at run time from
 `https://cdn.jsdelivr.net/gh/flamingbeing/anaesfacts@main/index.json` (and the same path prefix for a
 topic file). Filter on `status: verified`. Pin a commit instead of `@main` if the app needs a fixed version.
 
