@@ -78,3 +78,8 @@ Shared, often tubeless airway (rigid bronchoscopy) in patients whose airway may 
   - A: IPPV via the Storz side port, jet ventilation, apnoeic oxygenation, or spontaneous ventilation
 - Q: Which way should the patient lie after a lung biopsy?
   - A: Biopsied side down
+
+<!-- related:start (generated) -->
+## Related
+- [Rigid Bronchoscopy](rigid-bronchoscopy.md)
+<!-- related:end -->

@@ -125,6 +125,8 @@ Fixed cardiac output state: keep heart rate slow, SVR and preload up, and corona
 ## Related
 - [Aortic Valve Replacement](../procedures/aortic-valve-replacement.md)
 - [Mitral Stenosis](mitral-stenosis.md)
+- [Valvular Heart Disease and Murmurs](valvular-heart-disease.md)
+- [Transcatheter Aortic Valve Implantation](../procedures/tavi.md)
 - [Aortic Regurgitation](aortic-regurgitation.md)
 - [Cardiomyopathy (HOCM, DCM, Restrictive)](cardiomyopathy.md)
 - [Prosthetic Heart Valves](prosthetic-heart-valves.md)

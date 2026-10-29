@@ -67,3 +67,8 @@ Thoracic procedures to obliterate the pleural space, usually under one-lung vent
   - A: To allow the irritant in, then oppose the pleural layers so adhesions form
 - Q: Risk of turning a patient with a large effusion effusion side up?
   - A: Cardiovascular collapse from mediastinal shift and reduced venous return
+
+<!-- related:start (generated) -->
+## Related
+- [Video-Assisted Thoracoscopic Surgery (VATS)](vats.md)
+<!-- related:end -->

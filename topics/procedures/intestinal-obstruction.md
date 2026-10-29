@@ -78,4 +78,5 @@ Hypovolaemic, electrolyte-deranged, aspiration-prone patients: optimise first, R
 ## Related
 - [Abdominal Surgery and Laparotomy](abdominal-surgery-and-laparotomy.md)
 - [Nitrous oxide](../drugs/nitrous-oxide.md)
+- [Sepsis](../comorbidities/sepsis.md)
 <!-- related:end -->

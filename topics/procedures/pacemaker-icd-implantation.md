@@ -85,4 +85,5 @@ Anaesthesia or sedation for permanent pacemaker (PPM), implantable cardioverter 
 <!-- related:start (generated) -->
 ## Related
 - [Cardiac Implantable Electronic Devices](../comorbidities/cardiac-implantable-electronic-devices.md)
+- [Cardiac Anaesthesia](cardiac-anaesthesia.md)
 <!-- related:end -->

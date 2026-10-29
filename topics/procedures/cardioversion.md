@@ -171,4 +171,5 @@ R-wave synchronised shock to restore sinus rhythm; usually brief sedation or sho
 ## Related
 - [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
 - [Remote Site Anaesthesia](remote-site-anaesthesia.md)
+- [Catheter Ablation Procedures (AF and VT Ablation)](catheter-ablation.md)
 <!-- related:end -->

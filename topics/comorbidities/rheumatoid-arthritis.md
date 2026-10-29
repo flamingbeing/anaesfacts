@@ -92,6 +92,10 @@ Multisystem inflammatory arthritis: the key risks are an unstable cervical spine
 <!-- related:start (generated) -->
 ## Related
 - [Ankylosing Spondylitis](ankylosing-spondylitis.md)
+- [Perioperative Steroids and Stress Dosing](perioperative-steroids.md)
 - [Juvenile Chronic Arthritis](juvenile-chronic-arthritis.md)
+- [Systemic Lupus Erythematosus](systemic-lupus-erythematosus.md)
+- [Systemic Sclerosis](systemic-sclerosis.md)
+- [Unstable Cervical Spine and Cervical Myelopathy](unstable-cervical-spine.md)
 - [Orthopaedic Surgery](../procedures/orthopaedic-surgery.md)
 <!-- related:end -->

@@ -37,5 +37,7 @@ A radioactive source is placed beside the tumour through an applicator; often fo
 
 <!-- related:start (generated) -->
 ## Related
+- [Spinal Anaesthesia](../regional/spinal-anaesthesia.md)
 - [Epidural Anaesthesia](../regional/epidural-anaesthesia.md)
+- [Prostatectomy (Open, Laparoscopic, Robotic)](prostatectomy.md)
 <!-- related:end -->

@@ -79,4 +79,6 @@ Radical or partial kidney removal: watch for IVC tumour extension, large blood l
 <!-- related:start (generated) -->
 ## Related
 - [Living Kidney Donor Nephrectomy](living-donor-nephrectomy.md)
+- [Robotic Surgery](robotic-surgery.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 <!-- related:end -->

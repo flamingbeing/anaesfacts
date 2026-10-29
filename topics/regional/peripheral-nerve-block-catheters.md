@@ -61,6 +61,7 @@ A catheter left near a nerve or plexus after localisation allows repeat boluses 
 - [Nerve stimulation in peripheral nerve blocks](nerve-stimulation-in-peripheral-nerve-blocks.md)
 - [Peripheral Nerve Block Technique](peripheral-nerve-block-technique.md)
 - [Nerve injury and residual block after peripheral nerve blocks](nerve-injury-after-peripheral-nerve-blocks.md)
+- [Epidural and Paravertebral Technique](epidural-and-paravertebral-technique.md)
 - [Peripheral nerve blocks in children](paeds-peripheral-nerve-blocks.md)
 - [Peripheral Nerve Block Follow-up](peripheral-nerve-block-follow-up.md)
 - [Rectus sheath block](rectus-sheath-block.md)

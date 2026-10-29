@@ -68,4 +68,5 @@ Perforation leads to mediastinitis and sepsis; repair needs RSI, often one-lung 
 ## Related
 - [Oesophageal Surgery and POEM](oesophageal-surgery.md)
 - [Oesophagectomy](oesophagectomy.md)
+- [Rigid Oesophagoscopy](rigid-oesophagoscopy.md)
 <!-- related:end -->

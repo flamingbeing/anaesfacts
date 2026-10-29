@@ -79,4 +79,5 @@ Pain limits breathing and coughing, so good multimodal and regional analgesia is
 <!-- related:start (generated) -->
 ## Related
 - [Erector Spinae Plane Block](../regional/erector-spinae-plane-block.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 <!-- related:end -->

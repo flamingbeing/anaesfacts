@@ -64,7 +64,9 @@ Catheter technique giving titratable, open-ended neuraxial block; slower and les
 
 <!-- related:start (generated) -->
 ## Related
+- [Spinal Anaesthesia](spinal-anaesthesia.md)
 - [Labour Analgesia](labour-analgesia.md)
 - [Caesarean Section](../procedures/caesarean-section.md)
 - [Epidural Anaesthesia](epidural-anaesthesia.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](thoracic-epidural.md)
 <!-- related:end -->

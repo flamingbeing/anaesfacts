@@ -55,6 +55,7 @@ Superficial ultrasound-guided block of the LFCN between tensor fasciae latae and
 - [Lumbar Plexus (Psoas) Block](lumbar-plexus-block.md)
 - [Fascia Iliaca Block](fascia-iliaca-block.md)
 - [Femoral Nerve Block](femoral-nerve-block.md)
+- [Skin Grafting](../procedures/skin-grafting.md)
 - [PENG Block](peng-block.md)
 - [Posterior Cutaneous Nerve of the Thigh Block](posterior-femoral-cutaneous-nerve-block.md)
 <!-- related:end -->

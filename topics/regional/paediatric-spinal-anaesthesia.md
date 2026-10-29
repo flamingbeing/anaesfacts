@@ -91,6 +91,7 @@ Technically easy, low-toxicity neuraxial block, mainly for ex-premature infants 
 
 <!-- related:start (generated) -->
 ## Related
+- [Spinal Anaesthesia](spinal-anaesthesia.md)
 - [Paediatric Epidural Blockade](paediatric-epidural.md)
 - [Paediatric General and Urological Surgery](../procedures/paediatric-surgery.md)
 <!-- related:end -->

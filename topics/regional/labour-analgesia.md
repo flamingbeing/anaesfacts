@@ -448,6 +448,7 @@ Neuraxial analgesia is the gold standard; aim for good analgesia with minimal mo
 ## Related
 - [Caesarean Section](../procedures/caesarean-section.md)
 - [Lumbar Epidural Anaesthesia and Analgesia](lumbar-epidural.md)
+- [Spinal Anaesthesia](spinal-anaesthesia.md)
 - [Entonox](../drugs/entonox.md)
 - [Obstetric Anaesthesia](../procedures/obstetric-anaesthesia.md)
 - [Lumbar Epidural Technique](lumbar-epidural-technique.md)

@@ -225,5 +225,6 @@ Shared, often difficult airway surgery where the choice of ventilation technique
 
 <!-- related:start (generated) -->
 ## Related
+- [Rigid Bronchoscopy](rigid-bronchoscopy.md)
 - [Laryngotracheal Airway Surgery](laryngotracheal-surgery.md)
 <!-- related:end -->

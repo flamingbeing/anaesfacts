@@ -77,4 +77,6 @@ Most common valve replacement; manage the dominant lesion: stenosis "slow and ti
 ## Related
 - [Aortic Stenosis](../comorbidities/aortic-stenosis.md)
 - [Aortic Regurgitation](../comorbidities/aortic-regurgitation.md)
+- [Transcatheter Aortic Valve Implantation](tavi.md)
+- [Valve Replacement and Repair](valve-replacement-and-repair.md)
 <!-- related:end -->

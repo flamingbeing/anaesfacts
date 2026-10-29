@@ -93,4 +93,5 @@ Replacement or repair for stenosis or regurgitation: control rate and PVR, prote
 ## Related
 - [Mitral Stenosis](../comorbidities/mitral-stenosis.md)
 - [Mitral Regurgitation and Mitral Valve Prolapse](../comorbidities/mitral-regurgitation.md)
+- [Valve Replacement and Repair](valve-replacement-and-repair.md)
 <!-- related:end -->

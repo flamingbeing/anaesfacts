@@ -265,4 +265,5 @@ Choose patients well, use short-acting drugs, prevent pain and PONV aggressively
 - [Drug-Induced Sleep Endoscopy (DISE)](drug-induced-sleep-endoscopy.md)
 - [Hernia Repair](hernia-repair.md)
 - [Paediatric day case surgery](paediatric-day-case-surgery.md)
+- [Tension-Free Vaginal Tape](tension-free-vaginal-tape.md)
 <!-- related:end -->

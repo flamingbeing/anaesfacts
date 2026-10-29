@@ -86,3 +86,8 @@ Long major laparotomy with bleeding and leak risk: GA (often TIVA), arterial lin
   - A: 500-750 ml
 - Q: How is a pancreatic leak detected?
   - A: Drain amylase
+
+<!-- related:start (generated) -->
+## Related
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
+<!-- related:end -->

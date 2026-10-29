@@ -82,5 +82,6 @@ Block of the anterior and posterior obturator branches in the adductor fascial p
 - [Lower Limb Blocks](lower-limb-blocks.md)
 - [Adductor Canal Block](adductor-canal-block.md)
 - [Femoral Nerve Block](femoral-nerve-block.md)
+- [Transurethral Resection of Bladder Tumour (TURBT)](../procedures/turbt.md)
 - [Lumbar Plexus (Psoas) Block](lumbar-plexus-block.md)
 <!-- related:end -->

@@ -45,3 +45,11 @@ Endoscopic surgery on the lower urinary tract: brief, lithotomy, often day case,
   - A: Usually under 1 h
 - Q: Which anaesthetic is usually preferred for day-case endoscopic urology?
   - A: GA, though a short-acting spinal may suit
+
+<!-- related:start (generated) -->
+## Related
+- [Transurethral Resection of the Prostate (TURP)](turp.md)
+- [Urological Surgery](urology-surgery.md)
+- [Spinal Anaesthesia](../regional/spinal-anaesthesia.md)
+- [Ureteroscopy, Laser Lithotripsy, DJ Stent and RIRS](ureteroscopy.md)
+<!-- related:end -->

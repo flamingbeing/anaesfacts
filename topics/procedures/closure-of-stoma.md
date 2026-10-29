@@ -38,4 +38,5 @@ Local closure of a colostomy or loop ileostomy: short operation, moderate pain, 
 ## Related
 - [Colorectal Surgery](colorectal-surgery.md)
 - [Rectus sheath block](../regional/rectus-sheath-block.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 <!-- related:end -->

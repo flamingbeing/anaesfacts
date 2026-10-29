@@ -73,8 +73,10 @@ Pause, find the cause and the surgical stage, then repeat, supplement or convert
 
 <!-- related:start (generated) -->
 ## Related
+- [Spinal Anaesthesia](spinal-anaesthesia.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [High Spinal and Total Spinal Anaesthesia](../crises/high-spinal.md)
+- [Sedation and Regional Anaesthesia in High-Risk Patients](../procedures/sedation-and-regional-anaesthesia-in-high-risk-patients.md)
 - [Peripheral Nerve Block Technique](peripheral-nerve-block-technique.md)
 - [Peripheral Nerve Blocks Overview](peripheral-nerve-blocks.md)
 - [Regional Anaesthesia](regional-anaesthesia.md)

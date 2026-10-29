@@ -183,5 +183,6 @@ Microlaryngoscopy, bronchoscopy and choanal atresia repair in children: shared o
 <!-- related:start (generated) -->
 ## Related
 - [Laryngotracheal Airway Surgery](laryngotracheal-surgery.md)
+- [Rigid Bronchoscopy](rigid-bronchoscopy.md)
 - [Paediatric ENT Surgery](paediatric-ent-surgery.md)
 <!-- related:end -->

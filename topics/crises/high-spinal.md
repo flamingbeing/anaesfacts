@@ -81,6 +81,7 @@ Excessive spread of neuraxial local anaesthetic: support airway, breathing and c
 
 <!-- related:start (generated) -->
 ## Related
+- [Spinal Anaesthesia](../regional/spinal-anaesthesia.md)
 - [Epidural Anaesthesia](../regional/epidural-anaesthesia.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](local-anaesthetic-systemic-toxicity.md)
 - [Caesarean Section](../procedures/caesarean-section.md)
@@ -88,4 +89,5 @@ Excessive spread of neuraxial local anaesthetic: support airway, breathing and c
 - [Cervical Plexus Block](../regional/cervical-plexus-block.md)
 - [Complications of Neuraxial Blocks](../regional/complications-of-neuraxial-blocks.md)
 - [Failed Regional Anaesthesia](../regional/failed-regional-anaesthesia.md)
+- [Spinal Anaesthesia Technique](../regional/spinal-anaesthesia-technique.md)
 <!-- related:end -->

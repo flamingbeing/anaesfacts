@@ -68,5 +68,6 @@ Rapidly spreading deep soft tissue infection needing broad-spectrum IV antibioti
 
 <!-- related:start (generated) -->
 ## Related
+- [Sepsis](sepsis.md)
 - [Major lower limb amputation](../procedures/lower-limb-amputation.md)
 <!-- related:end -->

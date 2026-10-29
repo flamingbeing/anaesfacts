@@ -129,4 +129,5 @@ Emergency paediatric neurosurgery is mostly blocked VP shunts, with fewer head i
 <!-- related:start (generated) -->
 ## Related
 - [Paediatric Neurosurgery](paediatric-neurosurgery.md)
+- [Traumatic Brain Injury Surgery](traumatic-brain-injury-surgery.md)
 <!-- related:end -->

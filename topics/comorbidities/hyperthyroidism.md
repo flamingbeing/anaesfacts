@@ -83,6 +83,7 @@ Make patients clinically and biochemically euthyroid before surgery and guard ag
 
 <!-- related:start (generated) -->
 ## Related
+- [Thyroidectomy](../procedures/thyroidectomy.md)
 - [Hypothyroidism](hypothyroidism.md)
 - [Anterior Mediastinal Mass](anterior-mediastinal-mass.md)
 <!-- related:end -->

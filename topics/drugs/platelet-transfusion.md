@@ -57,5 +57,6 @@ Platelets for low counts or poor function; targets depend on bleeding, brain inj
 
 <!-- related:start (generated) -->
 ## Related
+- [Thrombocytopaenia](../comorbidities/thrombocytopaenia.md)
 - [Blood Groups and Blood Components](../physiology/blood-groups.md)
 <!-- related:end -->

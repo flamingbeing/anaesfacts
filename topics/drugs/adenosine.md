@@ -67,5 +67,6 @@ Endogenous purine nucleoside that briefly blocks the AV node; used to terminate 
 
 <!-- related:start (generated) -->
 ## Related
+- [Wolff-Parkinson-White Syndrome](../comorbidities/wolff-parkinson-white-syndrome.md)
 - [Intracranial Aneurysm Clipping and Coiling](../procedures/intracranial-aneurysm-surgery.md)
 <!-- related:end -->

@@ -89,5 +89,6 @@ Small and large bowel surgery: plan for emergency vs elective, open vs laparosco
 ## Related
 - [Emergency Laparotomy](emergency-laparotomy.md)
 - [Rectus sheath block](../regional/rectus-sheath-block.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 - [Closure and Revision of Colostomy or Ileostomy](closure-of-stoma.md)
 <!-- related:end -->

@@ -100,6 +100,7 @@ Anaesthesia for urgent abdominal surgery in an acute abdomen: resuscitate, rapid
 
 <!-- related:start (generated) -->
 ## Related
+- [Sepsis](../comorbidities/sepsis.md)
 - [Colorectal Surgery](colorectal-surgery.md)
 - [Appendicectomy](appendicectomy.md)
 - [Surgery for Complications of Pancreatitis](pancreatitis-surgery.md)

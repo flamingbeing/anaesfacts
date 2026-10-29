@@ -188,6 +188,7 @@ Flexible fibreoptic or video scope for airway inspection, intubation and lung is
 
 <!-- related:start (generated) -->
 ## Related
+- [Rigid Bronchoscopy](../procedures/rigid-bronchoscopy.md)
 - [Airway Topicalisation and Airway Blocks for Awake Intubation](../airway/airway-topicalisation.md)
 - [Mucopolysaccharidoses](../comorbidities/mucopolysaccharidoses.md)
 <!-- related:end -->

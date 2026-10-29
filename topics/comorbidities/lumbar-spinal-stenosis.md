@@ -28,5 +28,6 @@ Narrowing of the lumbar canal; mainly matters for neuraxial anaesthesia and docu
 
 <!-- related:start (generated) -->
 ## Related
+- [Spinal Anaesthesia Technique](../regional/spinal-anaesthesia-technique.md)
 - [Lumbar Epidural Technique](../regional/lumbar-epidural-technique.md)
 <!-- related:end -->

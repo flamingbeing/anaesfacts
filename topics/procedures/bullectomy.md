@@ -76,4 +76,5 @@ Non-anatomical resection of hyperinflated, poorly functioning lung in COPD with 
 ## Related
 - [Thoracic Anaesthesia Overview](thoracic-anaesthesia.md)
 - [COPD, Bronchiectasis and Cystic Fibrosis](../comorbidities/copd.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 <!-- related:end -->

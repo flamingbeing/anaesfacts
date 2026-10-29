@@ -77,4 +77,5 @@ Shared airway, often difficult intubation; tube sited between the second and thi
 <!-- related:start (generated) -->
 ## Related
 - [Paediatric tonsillectomy and adenoidectomy](paediatric-tonsillectomy-and-adenoidectomy.md)
+- [Surgical Tracheostomy](../airway/surgical-tracheostomy.md)
 <!-- related:end -->

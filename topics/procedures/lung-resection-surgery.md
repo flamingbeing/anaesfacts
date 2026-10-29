@@ -214,5 +214,6 @@ Elderly smokers with lung cancer: assess fitness with the three-legged stool, th
 
 <!-- related:start (generated) -->
 ## Related
+- [Video-Assisted Thoracoscopic Surgery (VATS)](vats.md)
 - [Non-Intubated VATS](non-intubated-vats.md)
 <!-- related:end -->

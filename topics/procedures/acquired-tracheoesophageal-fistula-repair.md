@@ -103,4 +103,5 @@ The main danger is aspiration: avoid positive pressure until the fistula is isol
 <!-- related:start (generated) -->
 ## Related
 - [Bronchopleural Fistula Repair](bronchopleural-fistula-repair.md)
+- [Rigid Bronchoscopy](rigid-bronchoscopy.md)
 <!-- related:end -->

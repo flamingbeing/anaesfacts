@@ -41,4 +41,5 @@ Local anaesthetic injected between parietal and visceral pleura, giving one-side
 ## Related
 - [Erector Spinae Plane Block](erector-spinae-plane-block.md)
 - [Intercostal Nerve Block](intercostal-nerve-block.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](thoracic-epidural.md)
 <!-- related:end -->

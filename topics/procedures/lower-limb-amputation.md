@@ -71,4 +71,5 @@ Removal of necrotic or infected limb tissue (below or above knee), often in sick
 - [Popliteal Sciatic Block](../regional/popliteal-sciatic-block.md)
 - [Adductor Canal Block](../regional/adductor-canal-block.md)
 - [Lower Limb Revascularisation and Critical Limb Ischaemia](lower-limb-revascularisation.md)
+- [Wound Debridement](wound-debridement.md)
 <!-- related:end -->

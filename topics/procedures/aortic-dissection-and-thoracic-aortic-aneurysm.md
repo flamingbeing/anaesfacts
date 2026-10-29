@@ -225,5 +225,7 @@ Two main thoracic aortic pathologies, aneurysm and dissection: anti-impulse cont
 <!-- related:start (generated) -->
 ## Related
 - [Adult Cardiac Surgery with Cardiopulmonary Bypass](cardiac-surgery-with-cardiopulmonary-bypass.md)
+- [Thoracoabdominal Aortic Aneurysm Repair](thoracoabdominal-aortic-aneurysm-repair.md)
 - [Abdominal Aortic Aneurysm and Open Repair](open-aaa-repair.md)
+- [Cardiac Anaesthesia](cardiac-anaesthesia.md)
 <!-- related:end -->

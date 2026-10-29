@@ -188,6 +188,8 @@ Mean PA pressure > 20 mmHg; high perioperative risk. Keep PVR from rising, prote
 - [Adults with Congenital Heart Disease](adult-congenital-heart-disease.md)
 - [Anaesthesia after Lung Transplant](anaesthesia-after-lung-transplant.md)
 - [Mitral Stenosis](mitral-stenosis.md)
+- [Systemic Sclerosis](systemic-sclerosis.md)
+- [Tricuspid Regurgitation](tricuspid-regurgitation.md)
 - [Bone Cement Implantation Syndrome](../crises/bone-cement-implantation-syndrome.md)
 - [Endothelin receptor antagonists](../drugs/endothelin-receptor-antagonists.md)
 - [Epoprostenol](../drugs/epoprostenol.md)

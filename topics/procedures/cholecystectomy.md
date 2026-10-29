@@ -106,4 +106,5 @@ Gallbladder removal, usually laparoscopic and often day case; watch for sepsis a
 <!-- related:start (generated) -->
 ## Related
 - [Laparoscopic Surgery](laparoscopic-surgery.md)
+- [Sepsis](../comorbidities/sepsis.md)
 <!-- related:end -->

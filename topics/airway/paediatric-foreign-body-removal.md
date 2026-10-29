@@ -96,3 +96,8 @@ Anaesthesia for removal of inhaled or swallowed foreign bodies by laryngoscopy, 
   - A: Up to 4 mg/kg.
 - Q: Nebulised adrenaline dose for post-extraction stridor and how long it lasts?
   - A: 400 mcg/kg of 1:1000; lasts 2-3 hours.
+
+<!-- related:start (generated) -->
+## Related
+- [Rigid Bronchoscopy](../procedures/rigid-bronchoscopy.md)
+<!-- related:end -->

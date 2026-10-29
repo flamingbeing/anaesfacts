@@ -42,5 +42,6 @@ Open-eye front-of-eye surgery where intraocular pressure control is critical, as
 
 <!-- related:start (generated) -->
 ## Related
+- [Vitreoretinal Surgery](vitreoretinal-surgery.md)
 - [Cataract Surgery (Phacoemulsification)](cataract-surgery.md)
 <!-- related:end -->

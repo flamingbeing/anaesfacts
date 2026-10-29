@@ -179,4 +179,5 @@ Low-potency anaesthetic and analgesic gas (MAC 105%), with fast onset and offset
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
 - [Intestinal Obstruction and Laparotomy](../procedures/intestinal-obstruction.md)
 - [IVF Oocyte Retrieval and Embryo Transfer](../procedures/ivf-oocyte-retrieval.md)
+- [Vitreoretinal Surgery](../procedures/vitreoretinal-surgery.md)
 <!-- related:end -->
