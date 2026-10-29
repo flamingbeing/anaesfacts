@@ -341,5 +341,7 @@ One-page summary of common ultrasound-guided blocks: level, indications, positio
 ## Related
 - [Upper Limb Blocks Introduction](upper-limb-blocks-introduction.md)
 - [Intercostobrachial Nerve Block](intercostobrachial-nerve-block.md)
+- [Fascia Iliaca Block](fascia-iliaca-block.md)
+- [Erector Spinae Plane Block](erector-spinae-plane-block.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 <!-- related:end -->

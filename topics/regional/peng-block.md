@@ -65,3 +65,12 @@ Motor-sparing fascial plane block between the psoas tendon and pubic ramus for h
   - A: 15-20ml long-acting LA, e.g. 0.5% ropivacaine, via a 100mm needle in-plane lateral to medial.
 - Q: Which nerve does PENG miss, and how do you cover it?
   - A: Lateral femoral cutaneous nerve; add an LFCN block or wound infiltration.
+
+<!-- related:start (generated) -->
+## Related
+- [Fascia Iliaca Block](fascia-iliaca-block.md)
+- [Femoral Nerve Block](femoral-nerve-block.md)
+- [Lateral Femoral Cutaneous Nerve Block](lateral-femoral-cutaneous-nerve-block.md)
+- [Lumbar Plexus (Psoas) Block](lumbar-plexus-block.md)
+- [Lower Limb Blocks](lower-limb-blocks.md)
+<!-- related:end -->

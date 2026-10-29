@@ -118,5 +118,6 @@ Packed red cells (PCT) restore oxygen-carrying capacity; use restrictive Hb trig
 <!-- related:start (generated) -->
 ## Related
 - [Fluid warmers and rapid infusers](../equipment/fluid-warmers-and-rapid-infusers.md)
+- [Blood Groups and Blood Components](../physiology/blood-groups.md)
 - [Intraoperative bleeding and patient blood management](../procedures/intraoperative-bleeding-and-blood-management.md)
 <!-- related:end -->

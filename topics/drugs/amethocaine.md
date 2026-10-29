@@ -25,3 +25,8 @@ Ester local anaesthetic used for topical anaesthesia of the eye and skin (Ametop
 ## Adverse effects
 
 - Eye drops: burning on first instillation
+
+<!-- related:start (generated) -->
+## Related
+- [Topical Cutaneous Anaesthesia](topical-cutaneous-anaesthesia.md)
+<!-- related:end -->

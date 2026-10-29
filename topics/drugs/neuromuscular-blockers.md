@@ -67,6 +67,8 @@ Overview of depolarising and non-depolarising neuromuscular blockers (NMBs): sha
 
 <!-- related:start (generated) -->
 ## Related
+- [Suxamethonium](suxamethonium.md)
 - [Rocuronium](rocuronium.md)
+- [Sugammadex](sugammadex.md)
 - [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
 <!-- related:end -->

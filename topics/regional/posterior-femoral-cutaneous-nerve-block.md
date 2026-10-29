@@ -57,5 +57,7 @@ Superficial block for skin over the back of the thigh, given at the gluteal fold
 <!-- related:start (generated) -->
 ## Related
 - [Popliteal Sciatic Block](popliteal-sciatic-block.md)
+- [Sciatic Nerve Block and Parasacral Sacral Plexus Block](sciatic-nerve-block.md)
+- [Lateral Femoral Cutaneous Nerve Block](lateral-femoral-cutaneous-nerve-block.md)
 - [Peripheral Nerve Blocks Overview](peripheral-nerve-blocks.md)
 <!-- related:end -->

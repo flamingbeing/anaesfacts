@@ -128,5 +128,8 @@ MAC is the standard measure of inhalational agent potency; potency follows lipid
 
 <!-- related:start (generated) -->
 ## Related
+- [Sevoflurane](../drugs/sevoflurane.md)
+- [Isoflurane](../drugs/isoflurane.md)
+- [Desflurane](../drugs/desflurane.md)
 - [Nitrous oxide](../drugs/nitrous-oxide.md)
 <!-- related:end -->

@@ -47,3 +47,8 @@ Plane blocks next to the sternum that give analgesia to the anterior chest wall;
   - A: Downward movement of the pleura
 - Q: Key vessel at risk?
   - A: Internal mammary artery
+
+<!-- related:start (generated) -->
+## Related
+- [Erector Spinae Plane Block](erector-spinae-plane-block.md)
+<!-- related:end -->

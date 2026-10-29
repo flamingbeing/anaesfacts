@@ -91,9 +91,11 @@ Endogenous catecholamine (adrenaline minus a methyl group) used as a vasopressor
 ## Related
 - [Adrenaline (Epinephrine)](adrenaline.md)
 - [Dopamine](dopamine.md)
+- [Vasopressin](vasopressin.md)
 - [Phenylephrine](phenylephrine.md)
 - [Enoximone](enoximone.md)
 - [Levosimendan](levosimendan.md)
 - [Metaraminol](metaraminol.md)
+- [Terlipressin](terlipressin.md)
 - [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
 <!-- related:end -->

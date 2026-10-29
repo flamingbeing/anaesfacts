@@ -208,5 +208,7 @@ Competitive antagonists of acetylcholine at the motor end plate; two chemical fa
 ## Related
 - [Rocuronium](rocuronium.md)
 - [Atracurium](atracurium.md)
+- [Suxamethonium](suxamethonium.md)
+- [Sugammadex](sugammadex.md)
 - [Neostigmine](neostigmine.md)
 <!-- related:end -->

@@ -197,4 +197,5 @@ Five main patterns; the response pattern describes the block.
 ## Related
 - [Neuromuscular blockers](../drugs/neuromuscular-blockers.md)
 - [Neostigmine](../drugs/neostigmine.md)
+- [Sugammadex](../drugs/sugammadex.md)
 <!-- related:end -->

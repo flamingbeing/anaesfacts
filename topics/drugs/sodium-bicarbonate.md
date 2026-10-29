@@ -82,3 +82,9 @@ Alkalinising agent for selected metabolic acidoses, sodium channel blocker toxic
   - A: Normal anion gap acidosis from bicarbonate loss, sodium channel blocker overdose, urinary alkalinisation for salicylates, hyperkalaemia
 - Q: Why must ventilation be increased when giving bicarbonate?
   - A: It generates CO2, which causes hypercapnia and worsens intracellular acidosis
+
+<!-- related:start (generated) -->
+## Related
+- [Tricyclic Antidepressants](tricyclic-antidepressants.md)
+- [Types of Fluid Replacement](types-of-fluid-replacement.md)
+<!-- related:end -->

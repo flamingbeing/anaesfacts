@@ -139,5 +139,8 @@ How inhaled agents reach the brain and leave it: speed depends on inspired conce
 <!-- related:start (generated) -->
 ## Related
 - [Nitrous oxide](../drugs/nitrous-oxide.md)
+- [Sevoflurane](../drugs/sevoflurane.md)
+- [Desflurane](../drugs/desflurane.md)
+- [Isoflurane](../drugs/isoflurane.md)
 - [Inhaled anaesthetics](../drugs/inhaled-anaesthetics.md)
 <!-- related:end -->

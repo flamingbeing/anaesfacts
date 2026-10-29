@@ -46,3 +46,8 @@ Blocks the supraclavicular nerve (from the cervical plexus, not the brachial ple
   - A: Supraclavicular brachial plexus block (interscalene often covers it)
 - Q: Which vessel should be avoided?
   - A: External jugular vein
+
+<!-- related:start (generated) -->
+## Related
+- [Interscalene Block](interscalene-block.md)
+<!-- related:end -->

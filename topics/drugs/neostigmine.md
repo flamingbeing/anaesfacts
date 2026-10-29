@@ -79,5 +79,7 @@ Reversible acetylcholinesterase inhibitor (quaternary amine), mainly used to rev
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
 - [Rocuronium](rocuronium.md)
+- [Sugammadex](sugammadex.md)
+- [Suxamethonium](suxamethonium.md)
 - [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
 <!-- related:end -->

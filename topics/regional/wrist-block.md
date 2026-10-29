@@ -61,4 +61,6 @@ Blocks of the median, ulnar and superficial radial nerves at the wrist or forear
 <!-- related:start (generated) -->
 ## Related
 - [Peripheral Nerve Block Technique](peripheral-nerve-block-technique.md)
+- [Digital Ring Block and Metacarpal Block](digital-ring-block.md)
+- [Forearm and Elbow Level Blocks](forearm-blocks.md)
 <!-- related:end -->

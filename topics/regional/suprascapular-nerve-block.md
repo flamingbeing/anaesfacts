@@ -55,6 +55,7 @@ Block of the suprascapular nerve at the suprascapular notch, an analgesic adjunc
 
 <!-- related:start (generated) -->
 ## Related
+- [Interscalene Block](interscalene-block.md)
 - [Peripheral Nerve Blocks Overview](peripheral-nerve-blocks.md)
 - [Upper Limb Blocks Introduction](upper-limb-blocks-introduction.md)
 <!-- related:end -->

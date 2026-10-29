@@ -159,4 +159,5 @@ Old, now seldom used antidepressants that block amine breakdown; the anaesthetic
 - [Tramadol](tramadol.md)
 - [Ephedrine](ephedrine.md)
 - [Phenylephrine](phenylephrine.md)
+- [Tricyclic Antidepressants](tricyclic-antidepressants.md)
 <!-- related:end -->

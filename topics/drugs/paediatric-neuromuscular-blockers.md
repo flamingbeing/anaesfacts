@@ -67,7 +67,9 @@ How age changes the response to suxamethonium, non-depolarising blockers and the
 
 <!-- related:start (generated) -->
 ## Related
+- [Suxamethonium](suxamethonium.md)
 - [Rocuronium](rocuronium.md)
 - [Atracurium](atracurium.md)
 - [Neostigmine](neostigmine.md)
+- [Sugammadex](sugammadex.md)
 <!-- related:end -->
