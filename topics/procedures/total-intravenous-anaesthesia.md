@@ -236,4 +236,5 @@ Induction and maintenance with IV agents in oxygen/air (nitrous oxide sometimes 
 ## Related
 - [Propofol](../drugs/propofol.md)
 - [Remifentanil](../drugs/remifentanil.md)
+- [General Anaesthesia](general-anaesthesia.md)
 <!-- related:end -->

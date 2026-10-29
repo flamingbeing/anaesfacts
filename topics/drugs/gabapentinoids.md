@@ -106,5 +106,6 @@ Gabapentin and pregabalin: anticonvulsants acting on the alpha-2-delta-1 (α2δ-
 - [Ketamine](ketamine.md)
 - [Carbamazepine](carbamazepine.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
+- [Anticonvulsants](anticonvulsants.md)
 - [Visceral Pain and Sympathetic Blocks](../regional/visceral-pain.md)
 <!-- related:end -->

@@ -71,4 +71,6 @@ Overview of depolarising and non-depolarising neuromuscular blockers (NMBs): sha
 - [Rocuronium](rocuronium.md)
 - [Sugammadex](sugammadex.md)
 - [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
+- [Anorexia Nervosa](../comorbidities/anorexia-nervosa.md)
+- [Anaesthesia and Immunity](../physiology/anaesthesia-and-immunity.md)
 <!-- related:end -->

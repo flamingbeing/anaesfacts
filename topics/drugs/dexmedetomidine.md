@@ -107,5 +107,6 @@ Highly selective full alpha-2 agonist (Precedex) giving rousable sedation and an
 <!-- related:start (generated) -->
 ## Related
 - [Analgesic adjuncts](analgesic-adjuncts.md)
+- [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
 - [Rebound Pain and Perineural Adjuncts](../regional/rebound-pain-perineural-adjuncts.md)
 <!-- related:end -->

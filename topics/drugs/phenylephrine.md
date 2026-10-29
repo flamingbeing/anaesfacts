@@ -72,5 +72,6 @@ Direct-acting pure α1 agonist: raises SVR and blood pressure with a reflex brad
 - [Ephedrine](ephedrine.md)
 - [Metaraminol](metaraminol.md)
 - [Noradrenaline](noradrenaline.md)
+- [Tetralogy of Fallot](../comorbidities/tetralogy-of-fallot.md)
 - [Monoamine oxidase inhibitors](monoamine-oxidase-inhibitors.md)
 <!-- related:end -->

@@ -79,6 +79,7 @@ Benzofuran antiarrhythmic, mainly class III but with class I, II and IV actions;
 
 <!-- related:start (generated) -->
 ## Related
+- [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
 - [Digoxin](digoxin.md)
 - [Disopyramide](disopyramide.md)
 - [Flecainide](flecainide.md)

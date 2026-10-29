@@ -59,5 +59,6 @@ Anticonvulsant used for focal seizures, bipolar disorder and trigeminal neuralgi
 
 <!-- related:start (generated) -->
 ## Related
+- [Anticonvulsants](anticonvulsants.md)
 - [Gabapentinoids](gabapentinoids.md)
 <!-- related:end -->

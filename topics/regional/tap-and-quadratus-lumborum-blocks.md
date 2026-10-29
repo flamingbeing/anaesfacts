@@ -153,4 +153,6 @@ Fascial plane blocks of the abdominal wall: TAP blocks give somatic (wall and pa
 - [Ilioinguinal and Iliohypogastric Nerve Block](ilioinguinal-iliohypogastric-block.md)
 - [Erector Spinae Plane Block](erector-spinae-plane-block.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Appendicectomy](../procedures/appendicectomy.md)
+- [Regional anaesthesia review](regional-anaesthesia-review.md)
 <!-- related:end -->

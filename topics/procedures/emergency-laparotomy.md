@@ -97,3 +97,9 @@ Anaesthesia for urgent abdominal surgery in an acute abdomen: resuscitate, rapid
   - A: Rising peak inspiratory pressure and hypotension
 - Q: When should the patient stay intubated for ICU?
   - A: Temporary abdominal closure, or unstable haemodynamics, high lactate or acidosis, respiratory problems
+
+<!-- related:start (generated) -->
+## Related
+- [Colorectal Surgery](colorectal-surgery.md)
+- [Appendicectomy](appendicectomy.md)
+<!-- related:end -->

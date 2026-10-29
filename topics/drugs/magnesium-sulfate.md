@@ -90,5 +90,7 @@ Main uses: torsades, AF, asthma, pre-eclampsia, pain and blood pressure control;
 
 <!-- related:start (generated) -->
 ## Related
+- [Asthma](../comorbidities/asthma.md)
+- [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
 <!-- related:end -->

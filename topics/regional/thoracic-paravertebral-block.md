@@ -115,4 +115,6 @@ Injection into the paravertebral space for unilateral chest, breast and abdomina
 - [Erector Spinae Plane Block](erector-spinae-plane-block.md)
 - [Intercostal Nerve Block](intercostal-nerve-block.md)
 - [PECS and Serratus Anterior Plane Blocks](pecs-and-serratus-anterior-plane-blocks.md)
+- [Breast reduction and augmentation](../procedures/breast-reduction-and-augmentation.md)
+- [Regional anaesthesia review](regional-anaesthesia-review.md)
 <!-- related:end -->

@@ -182,6 +182,7 @@ The only depolarising neuromuscular blocker in clinical use: fastest onset and s
 - [Rocuronium](rocuronium.md)
 - [Neostigmine](neostigmine.md)
 - [Sugammadex](sugammadex.md)
+- [Burns](../comorbidities/burns.md)
 - [Neuromuscular blockers](neuromuscular-blockers.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)

@@ -95,6 +95,7 @@ Naturally occurring phenanthrene opioid and the reference against which all othe
 - [Fentanyl](fentanyl.md)
 - [Remifentanil](remifentanil.md)
 - [Naloxone](naloxone.md)
+- [Breastfeeding Women](../comorbidities/breastfeeding.md)
 - [Codeine](codeine.md)
 - [Opioid prescribing and conversion](opioid-conversion.md)
 - [Opioids](opioids.md)

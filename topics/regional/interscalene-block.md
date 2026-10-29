@@ -147,6 +147,7 @@ Brachial plexus block at the roots/trunks between the scalene muscles, for shoul
 - [Infraclavicular Block](infraclavicular-block.md)
 - [Cervical Plexus Block](cervical-plexus-block.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [COPD, Bronchiectasis and Cystic Fibrosis](../comorbidities/copd.md)
 - [Axillary Brachial Plexus Block](axillary-block.md)
 - [Brachial Plexus Blocks Introduction](brachial-plexus-blocks-introduction.md)
 - [Intercostobrachial Nerve Block](intercostobrachial-nerve-block.md)

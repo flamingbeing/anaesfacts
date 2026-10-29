@@ -71,3 +71,8 @@ CO binds haemoglobin far more avidly than oxygen and blocks mitochondrial respir
 
 - High-flow oxygen
 - Hyperbaric oxygen
+
+<!-- related:start (generated) -->
+## Related
+- [Burns](../comorbidities/burns.md)
+<!-- related:end -->
