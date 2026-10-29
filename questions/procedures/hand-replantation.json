@@ -1,0 +1,83 @@
+{
+ "topic": "procedures/hand-replantation",
+ "questions": [
+  {
+   "fact_id": "procedures/hand-replantation#d3abbb",
+   "kind": "mcq",
+   "stem": "What priority level does hand replantation receive?",
+   "options": [
+    "P3",
+    "Elective",
+    "P1",
+    "P2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-replantation#035a33",
+   "kind": "statement",
+   "stem": "What can theatre time be used for first in hand replantation?",
+   "answer": "Benchwork on the amputated part",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-replantation#53eabd",
+   "kind": "mcq",
+   "stem": "Which catheter is needed for a long hand replantation case?",
+   "options": [
+    "Chest drain",
+    "Nasogastric tube",
+    "Urinary catheter",
+    "Epidural catheter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-replantation#21645d",
+   "kind": "mcq",
+   "stem": "Which monitoring line is placed for a long hand replantation?",
+   "options": [
+    "Nasogastric tube",
+    "Arterial line",
+    "Chest drain",
+    "Epidural catheter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-replantation#b886ba",
+   "kind": "mcq",
+   "stem": "Which regional anaesthetic catheter is needed for hand replantation?",
+   "options": [
+    "Lumbar epidural catheter",
+    "Paravertebral catheter",
+    "Upper limb nerve catheter",
+    "Intrathecal catheter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hand-replantation#199080",
+   "kind": "mcq",
+   "stem": "When is the upper limb nerve catheter best inserted for a hand replant?",
+   "options": [
+    "Before surgery, while benchwork is under way",
+    "After skin closure in recovery",
+    "Only once surgery is underway",
+    "Postoperatively on the ward"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

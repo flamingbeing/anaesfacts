@@ -1,0 +1,317 @@
+{
+ "topic": "procedures/mediastinoscopy",
+ "questions": [
+  {
+   "fact_id": "procedures/mediastinoscopy#9f2cdb",
+   "kind": "mcq",
+   "stem": "Which incision gives access for mediastinoscopy?",
+   "options": [
+    "Full median sternotomy incision",
+    "Large posterolateral thoracotomy incision",
+    "Small suprasternal or anterior intercostal incision",
+    "Small left flank or subcostal incision"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#f10347",
+   "kind": "mcq",
+   "stem": "What position is the patient placed in for mediastinoscopy?",
+   "options": [
+    "Prone",
+    "Lateral decubitus",
+    "Reverse Trendelenburg",
+    "Supine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#f10347",
+   "kind": "statement",
+   "stem": "Why must the patient stay completely still during mediastinoscopy?",
+   "answer": "Movement can cause the scope to injure nearby organs.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#050e58",
+   "kind": "mcq",
+   "stem": "What is the reported mortality of mediastinoscopy in experienced hands?",
+   "options": [
+    "About 0.5%",
+    "Under 0.1%",
+    "About 2.5%",
+    "About 10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#050e58",
+   "kind": "blank",
+   "stem": "In experienced hands, mediastinoscopy morbidity is ____.",
+   "answer": "about 1.5%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#1328e6",
+   "kind": "mcq",
+   "stem": "Which great artery can the scope compress during mediastinoscopy?",
+   "options": [
+    "Left subclavian artery",
+    "Brachiocephalic (innominate) artery",
+    "Pulmonary trunk",
+    "Descending aorta"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#edde37",
+   "kind": "mcq",
+   "stem": "Which pulse should be watched to detect stroke risk during mediastinoscopy?",
+   "options": [
+    "Right arm pulse",
+    "Left radial pulse",
+    "Dorsalis pedis pulse",
+    "Femoral pulse"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#29331c",
+   "kind": "mcq",
+   "stem": "What is the reported rate of major haemorrhage from great vessel injury in mediastinoscopy?",
+   "options": [
+    "0.2%",
+    "2.5%",
+    "1.2%",
+    "0.4%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#0dc647",
+   "kind": "mcq",
+   "stem": "In cervical mediastinoscopy with a shared airway, which neck position risks dislodging the tube?",
+   "options": [
+    "Neck flexed and midline",
+    "Neck extended and straight",
+    "Neck extended and turned",
+    "Head tilted down and flexed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#17cee5",
+   "kind": "statement",
+   "stem": "Before mediastinoscopy, what must the anaesthetist agree with the surgeon?",
+   "answer": "Extent of dissection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#aa6f5d",
+   "kind": "blank",
+   "stem": "Before mediastinoscopy, make sure a valid ____ is available.",
+   "answer": "group and crossmatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#116491",
+   "kind": "statement",
+   "stem": "What does a high-risk anterior mediastinal mass need at induction in mediastinoscopy?",
+   "answer": "A specific induction plan",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#e6666f",
+   "kind": "statement",
+   "stem": "In mediastinoscopy, what drug choice applies if thoracotomy may follow straight away?",
+   "answer": "Drugs suited to a procedure that may be cut short",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#ebbf11",
+   "kind": "mcq",
+   "stem": "Which airway problem can an anterior mediastinal mass cause?",
+   "options": [
+    "Pleural effusion",
+    "Tracheobronchial compression",
+    "Oesophageal stricture",
+    "Diaphragmatic palsy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#21b242",
+   "kind": "mcq",
+   "stem": "Which syndrome can an anterior mediastinal mass cause by obstructing venous return from the head?",
+   "options": [
+    "Horner syndrome",
+    "Dressler syndrome",
+    "SVC syndrome",
+    "Cushing syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#ea36b6",
+   "kind": "mcq",
+   "stem": "What neurological complication can brachiocephalic artery compression cause in mediastinoscopy?",
+   "options": [
+    "Seizure",
+    "Stroke",
+    "Epidural abscess",
+    "Subdural haematoma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#64887e",
+   "kind": "mcq",
+   "stem": "Which mediastinoscopy complication is the most common and important?",
+   "options": [
+    "Tracheal compression or injury",
+    "Venous air embolism",
+    "Major haemorrhage from great vessels",
+    "Chylothorax from duct injury"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#4e26b0",
+   "kind": "mcq",
+   "stem": "Which hollow-organ injury is a complication of mediastinoscopy?",
+   "options": [
+    "Gastric perforation",
+    "Oesophageal injury",
+    "Splenic laceration",
+    "Hepatic capsule tear"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#e6b2ff",
+   "kind": "mcq",
+   "stem": "Thoracic duct injury during mediastinoscopy leads to which pleural complication?",
+   "options": [
+    "Pneumothorax",
+    "Haemothorax",
+    "Chylothorax",
+    "Pyothorax"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#87b020",
+   "kind": "mcq",
+   "stem": "Which recurrent laryngeal nerve is more often injured during mediastinoscopy?",
+   "options": [
+    "Right recurrent laryngeal nerve",
+    "Superior laryngeal nerve",
+    "Left recurrent laryngeal nerve",
+    "Both nerves equally often"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#87b020",
+   "kind": "blank",
+   "stem": "Bilateral recurrent laryngeal nerve injury during mediastinoscopy can be ____.",
+   "answer": "life threatening",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#9fa82e",
+   "kind": "mcq",
+   "stem": "What is the risk if a vein is opened during mediastinoscopy with the head up?",
+   "options": [
+    "Tension pneumothorax",
+    "Venous air embolism",
+    "Pulmonary oedema",
+    "Acute bronchospasm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#497d40",
+   "kind": "statement",
+   "stem": "Which four complications can follow mediastinoscopy?",
+   "answer": "Infection, tumour seeding, haemiparesis, tracheal collapse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#ddbcae",
+   "kind": "statement",
+   "stem": "Depending on stability, what urgent surgery may a mediastinoscopy complication require?",
+   "answer": "Conversion to sternotomy or lateral thoracotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#1edf1d",
+   "kind": "statement",
+   "stem": "In mediastinoscopy, what determines postoperative disposition?",
+   "answer": "Severity of the AMM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#04b5ce",
+   "kind": "mcq",
+   "stem": "Which postoperative analgesia is advised after mediastinoscopy?",
+   "options": [
+    "Thoracic epidural infusion",
+    "Intrathecal morphine",
+    "Simple analgesia",
+    "Patient-controlled opioid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mediastinoscopy#075986",
+   "kind": "statement",
+   "stem": "After mediastinoscopy, what three things should be monitored for?",
+   "answer": "Pneumothorax, bleeding and cerebral ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "topic": "procedures/dental-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/dental-surgery#c3b001",
+   "kind": "statement",
+   "stem": "In dental surgery under GA, which airways are shared with the surgeon?",
+   "answer": "Nasal intubation or flexible LMA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#ec4dd1",
+   "kind": "statement",
+   "stem": "In dental surgery, what measure helps reduce postoperative nausea and vomiting?",
+   "answer": "Throat pack",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#1858a9",
+   "kind": "statement",
+   "stem": "In dental surgery, who gives the local anaesthetic?",
+   "answer": "The surgeons",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#c21e13",
+   "kind": "mcq",
+   "stem": "In dental surgery, when is infective endocarditis prophylaxis given?",
+   "options": [
+    "Routinely for every patient",
+    "When indicated",
+    "Only after extubation",
+    "Only for children"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#00386d",
+   "kind": "statement",
+   "stem": "In dental surgery, how is a dental abscess managed?",
+   "answer": "As for oral and maxillofacial infections",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#88ac28",
+   "kind": "blank",
+   "stem": "In dental surgery, secure the tube and circuit well, especially the ____.",
+   "answer": "ETCO2 line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#7c988d",
+   "kind": "statement",
+   "stem": "In dental surgery, does every patient need antibiotic cover such as Augmentin?",
+   "answer": "No, not all need it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#bbf97f",
+   "kind": "statement",
+   "stem": "Which airway is most often used for dental surgery under GA?",
+   "answer": "Nasal tube (north-facing RAE)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#8aaf68",
+   "kind": "blank",
+   "stem": "In dental surgery, with local anaesthetic working well, ____ alone is often enough for analgesia.",
+   "answer": "fentanyl",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#77871c",
+   "kind": "mcq",
+   "stem": "How long does lidocaine 2% with adrenaline 1:80,000 last in dental work?",
+   "options": [
+    "About 30 minutes",
+    "About 90 minutes",
+    "About 4 hours",
+    "About 8 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#77871c",
+   "kind": "blank",
+   "stem": "Maximum dose of lidocaine 2% with adrenaline 1:80,000 in dental work is ____ mg/kg.",
+   "answer": "7",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#9f45bd",
+   "kind": "mcq",
+   "stem": "How long can plain bupivacaine 0.25-0.5% anaesthesia last in dental surgery?",
+   "options": [
+    "Up to 2 hours",
+    "Up to 8 hours",
+    "Up to 90 minutes",
+    "Up to 30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#d9de4c",
+   "kind": "statement",
+   "stem": "In dental day surgery, what causes the PONV risk?",
+   "answer": "Swallowed blood",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#e3c171",
+   "kind": "statement",
+   "stem": "Which scheduling feature should dental day surgery avoid?",
+   "answer": "Late-finishing lists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#48f0a2",
+   "kind": "blank",
+   "stem": "Most dental procedures are done under ____ without an anaesthetist.",
+   "answer": "local anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#7f9aee",
+   "kind": "statement",
+   "stem": "When is sedation used for dental procedures?",
+   "answer": "For patients who will not tolerate local alone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#db068d",
+   "kind": "statement",
+   "stem": "Who should monitor a patient sedated for dental work?",
+   "answer": "Trained staff other than the dentist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#de78d7",
+   "kind": "blank",
+   "stem": "Dental nitrous oxide sedation starts at ____ in oxygen for 1 minute.",
+   "answer": "10%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#0ad5a9",
+   "kind": "statement",
+   "stem": "In dental nitrous oxide sedation, how are concentrations raised after the first steps?",
+   "answer": "In 5% steps to a maximum of 50% until sedated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#d0a0f5",
+   "kind": "mcq",
+   "stem": "How does dental nitrous oxide sedation end?",
+   "options": [
+    "With room air",
+    "With 50% nitrous oxide held",
+    "With 100% oxygen",
+    "With sedative boluses"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#e522c6",
+   "kind": "statement",
+   "stem": "What range of dental work is done under general anaesthesia?",
+   "answer": "From simple wisdom tooth extraction to extensive oral rehabilitation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#ae098e",
+   "kind": "statement",
+   "stem": "What helps anxious or uncooperative patients for dental extraction under GA?",
+   "answer": "Premedication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#e941e7",
+   "kind": "statement",
+   "stem": "Which patients may have complex medical problems in dental surgery under GA?",
+   "answer": "Syndromic patients (e.g. Down syndrome)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#bb2e1b",
+   "kind": "blank",
+   "stem": "Wisdom tooth extraction under GA can be done with a ____ LMA.",
+   "answer": "flexible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#8759b3",
+   "kind": "statement",
+   "stem": "Which antibiotic is usually used, optionally, for dental extraction under GA?",
+   "answer": "Augmentin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#e8db52",
+   "kind": "statement",
+   "stem": "Why are long-acting opioids not needed after dental extraction under GA?",
+   "answer": "Local anaesthetic is given",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#a0ce4e",
+   "kind": "statement",
+   "stem": "How is bleeding from sockets managed after dental extraction under GA?",
+   "answer": "Gauze packs on sockets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#a5a274",
+   "kind": "statement",
+   "stem": "After dental extraction under GA, how is pain usually when the local anaesthetic works?",
+   "answer": "Minimal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dental-surgery#595f25",
+   "kind": "statement",
+   "stem": "For dental extraction under GA as day surgery, what must be met before discharge?",
+   "answer": "Day surgery discharge criteria",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

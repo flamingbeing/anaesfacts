@@ -1,0 +1,111 @@
+{
+ "topic": "procedures/diagnostic-radiology",
+ "questions": [
+  {
+   "fact_id": "procedures/diagnostic-radiology#e7c88c",
+   "kind": "mcq",
+   "stem": "How is demand for anaesthesia in scanning and interventional radiology changing?",
+   "options": [
+    "Growing",
+    "Shrinking",
+    "Stable",
+    "Rare"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#d82b40",
+   "kind": "statement",
+   "stem": "Which radiation-safety measure protects staff and patients in diagnostic radiology?",
+   "answer": "Shielding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#bd5dfd",
+   "kind": "statement",
+   "stem": "In diagnostic radiology, how should total radiation exposure time be kept?",
+   "answer": "Short",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#640400",
+   "kind": "mcq",
+   "stem": "Which law explains why staff keep their distance from the radiation source?",
+   "options": [
+    "Inverse square law",
+    "Boyle's law",
+    "Ohm's law",
+    "Henderson-Hasselbalch equation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#652836",
+   "kind": "statement",
+   "stem": "In radiology anaesthesia, what large equipment may need to move around the patient?",
+   "answer": "C-arms or O-arms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#8522e3",
+   "kind": "mcq",
+   "stem": "Which imaging setting is hardest for anaesthesia because standard equipment is often unsafe?",
+   "options": [
+    "MRI",
+    "CT scanning",
+    "Interventional radiology",
+    "Plain X-ray"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#8522e3",
+   "kind": "blank",
+   "stem": "In MRI, most standard pumps, laryngoscope blades, stethoscopes and monitors are not ____-safe.",
+   "answer": "magnet",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#4af757",
+   "kind": "statement",
+   "stem": "In scanner anaesthesia, where is the patient relative to the anaesthetist?",
+   "answer": "In another room and inside the scanner",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#e795b0",
+   "kind": "statement",
+   "stem": "At a remote radiology site with limited equipment, which technique may be needed?",
+   "answer": "TIVA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#10d22a",
+   "kind": "statement",
+   "stem": "Before a patient goes into the scanner, what should the anaesthetist get to know?",
+   "answer": "Staff, resources and equipment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/diagnostic-radiology#e16ad9",
+   "kind": "statement",
+   "stem": "For sedation for CT, who usually gives IV midazolam?",
+   "answer": "Non-anaesthetists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

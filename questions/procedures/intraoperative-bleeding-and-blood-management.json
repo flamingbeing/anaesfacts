@@ -1,0 +1,949 @@
+{
+ "topic": "procedures/intraoperative-bleeding-and-blood-management",
+ "questions": [
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#e4f13f",
+   "kind": "mcq",
+   "stem": "For allowable blood loss (ABL), what blood volume per kg is used for adult males?",
+   "options": [
+    "65 ml/kg",
+    "60 ml/kg",
+    "70 ml/kg",
+    "85 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#7e7c40",
+   "kind": "statement",
+   "stem": "Which two rapid infusers should be ready for major surgical bleeding?",
+   "answer": "Hotline, Belmont",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#d81f98",
+   "kind": "statement",
+   "stem": "In massive ongoing intraoperative bleeding, which three factors should be avoided?",
+   "answer": "hypothermia, acidosis and coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#48d60a",
+   "kind": "mcq",
+   "stem": "What blood volume per kg is used for premature neonates in allowable blood loss?",
+   "options": [
+    "85 ml/kg",
+    "80 ml/kg",
+    "70 ml/kg",
+    "95 ml/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#65368b",
+   "kind": "mcq",
+   "stem": "What blood volume per kg is used for a term neonate in allowable blood loss?",
+   "options": [
+    "95 ml/kg",
+    "85 ml/kg",
+    "75 ml/kg",
+    "70 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#99205a",
+   "kind": "mcq",
+   "stem": "What blood volume per kg is used for infants in allowable blood loss?",
+   "options": [
+    "80 ml/kg",
+    "75 ml/kg",
+    "85 ml/kg",
+    "65 ml/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#a2264a",
+   "kind": "mcq",
+   "stem": "What blood volume per kg is used for young children in allowable blood loss?",
+   "options": [
+    "70 ml/kg",
+    "80 ml/kg",
+    "75 ml/kg",
+    "95 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#128ca3",
+   "kind": "mcq",
+   "stem": "Which formula gives allowable blood loss, using estimated blood volume (EBV) and Hi and Hf?",
+   "options": [
+    "ABL = [EBV x (Hi + Hf)] / Hf",
+    "ABL = [EBV x Hf] / (Hi - Hf)",
+    "ABL = [EBV x (Hi - Hf)] / Hi",
+    "ABL = [Hi x (EBV - Hf)] / EBV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#7ee246",
+   "kind": "statement",
+   "stem": "Before moderate to high bleeding risk surgery, what should be checked for blood conservation?",
+   "answer": "Check Hb and correct anaemia; check bleeding risk (platelets, PT/PTT)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#aeb59c",
+   "kind": "mcq",
+   "stem": "Before moderate to high bleeding risk surgery, which blood-bank step must be ensured?",
+   "options": [
+    "Only a group, no crossmatch",
+    "A valid group and crossmatch",
+    "Routine cryoprecipitate for all",
+    "Routine platelets for all"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#4b0c20",
+   "kind": "statement",
+   "stem": "What should be prepared for possible instability in surgery with moderate to high bleeding risk?",
+   "answer": "Good vascular access, arterial line, with or without CVP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#942a3d",
+   "kind": "statement",
+   "stem": "What four factors make up the lethal diamond to avoid in blood conservation?",
+   "answer": "hypothermia, acidosis, coagulopathy, hypocalcaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#7a8faf",
+   "kind": "statement",
+   "stem": "In surgery with moderate to high bleeding risk, what two things treat bleeding?",
+   "answer": "Colloids, transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#990566",
+   "kind": "statement",
+   "stem": "Where should patients at risk of instability after high bleeding risk surgery be cared for?",
+   "answer": "High dependency care for postoperative haemodynamic monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#0941b3",
+   "kind": "statement",
+   "stem": "How can blood loss be judged clinically during surgery?",
+   "answer": "Watch the field, listen to the sucker",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#c2f7a5",
+   "kind": "statement",
+   "stem": "What should be charted to estimate blood loss in theatre?",
+   "answer": "Gauze, suction bottles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#2d7e7e",
+   "kind": "statement",
+   "stem": "How is haemoglobin followed during bleeding in theatre?",
+   "answer": "Baseline and serial ABG for Hb",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#0212c0",
+   "kind": "mcq",
+   "stem": "In theatre, what does a suction unit running a lot usually indicate?",
+   "options": [
+    "Less bleeding",
+    "No change in bleeding",
+    "More bleeding",
+    "Clotting problems"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#b0f9fc",
+   "kind": "statement",
+   "stem": "What does it usually mean if the surgeon is worried about blood loss?",
+   "answer": "The loss is usually significant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#d75e06",
+   "kind": "mcq",
+   "stem": "Approximately how much blood does a fully soaked 10x10 Raytec gauze hold?",
+   "options": [
+    "About 5 ml",
+    "About 10 ml",
+    "About 50 ml",
+    "About 100 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#523164",
+   "kind": "mcq",
+   "stem": "Approximately how much blood does a fully soaked 30x30 large swab (penny towel) hold?",
+   "options": [
+    "About 10 ml",
+    "About 50 ml",
+    "About 200 ml",
+    "About 100 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#9ea7e2",
+   "kind": "statement",
+   "stem": "Where can hidden blood loss occur during surgery?",
+   "answer": "Under drapes and on the floor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#4d4fdf",
+   "kind": "statement",
+   "stem": "How can blood loss be estimated from haematocrit change?",
+   "answer": "The fall from preoperative to postoperative haematocrit, as a % of TBV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#89f615",
+   "kind": "statement",
+   "stem": "What should be given first to replace intraoperative blood loss and keep normovolaemia?",
+   "answer": "Crystalloid or colloid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#536519",
+   "kind": "mcq",
+   "stem": "Under newer teaching, how much crystalloid is given per 1 ml of blood lost?",
+   "options": [
+    "1 ml",
+    "3 ml",
+    "1.5 ml",
+    "4.5 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#3dc143",
+   "kind": "mcq",
+   "stem": "How much colloid is given per 1 ml of blood lost during intraoperative bleeding?",
+   "options": [
+    "0.5 ml",
+    "1.5 ml",
+    "1 ml",
+    "3 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#c5bb56",
+   "kind": "statement",
+   "stem": "When should red cells be transfused for intraoperative bleeding?",
+   "answer": "When the risk of anaemia outweighs the risk of transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#dd18c0",
+   "kind": "mcq",
+   "stem": "What Hb trigger for transfusion is used for a fit and healthy patient with intraoperative bleeding?",
+   "options": [
+    "Hb 6",
+    "Hb 8",
+    "Hb 7",
+    "Hb 9"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#9052bf",
+   "kind": "mcq",
+   "stem": "What Hb trigger is used for renal failure, neurological disease or ischaemic heart disease (IHD)?",
+   "options": [
+    "Hb 7",
+    "Hb 6",
+    "Hb 10",
+    "Hb 8"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#390682",
+   "kind": "statement",
+   "stem": "In ongoing bleeding with IHD, what higher Hb threshold may be chosen if more loss is suspected?",
+   "answer": "9 instead of 8",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#50f153",
+   "kind": "mcq",
+   "stem": "Which formula gives the volume of blood to transfuse, using desired and current Hct, EBV and transfused Hct?",
+   "options": [
+    "(Hct current - Hct desired) x EBV / Hct of transfused blood",
+    "(Hct desired - Hct current) x Hct of transfused blood / EBV",
+    "(Hct desired - Hct current) x EBV / Hct of transfused blood",
+    "(Hct desired - Hct current) x EBV x Hct of transfused blood"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#e0b5d1",
+   "kind": "statement",
+   "stem": "Why is anaemia hard to recognise during general anaesthesia?",
+   "answer": "Signs of poor oxygen delivery are hard to spot",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#2f59c4",
+   "kind": "statement",
+   "stem": "Where should blood be kept on standby for a bleeding patient in theatre?",
+   "answer": "In the theatre fridge",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#bf3159",
+   "kind": "mcq",
+   "stem": "What blood pressure approach should be considered while bleeding continues?",
+   "options": [
+    "Aim for higher BP",
+    "Keep BP unchanged",
+    "Aim for lower BP",
+    "Aim for a much higher BP"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#e4efb7",
+   "kind": "mcq",
+   "stem": "What is the most accepted adult definition of massive transfusion?",
+   "options": [
+    "4 or more units of red cells in 24 hours",
+    "10 or more units of red cells in 6 hours",
+    "6 or more units of red cells in 24 hours",
+    "10 or more units of red cells in the first 24 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#091152",
+   "kind": "mcq",
+   "stem": "What defines ultra-massive transfusion in the notes?",
+   "options": [
+    "10 or more units of red cells in 24 hours",
+    "30 or more units of red cells in 24 hours",
+    "20 or more units of red cells in 24 or 48 hours",
+    "15 or more units of red cells in 12 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#78855d",
+   "kind": "statement",
+   "stem": "Massive haemorrhage can be defined as losing more than one blood volume within how many hours?",
+   "answer": "24 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#d7fbb3",
+   "kind": "mcq",
+   "stem": "Massive haemorrhage can be defined by losing what share of blood volume within 3 hours?",
+   "options": [
+    "Less than 20%",
+    "More than 25%",
+    "More than 75%",
+    "More than 50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#fff987",
+   "kind": "statement",
+   "stem": "What rate of blood loss counts as massive haemorrhage?",
+   "answer": "More than 150 ml/min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#3d9ec6",
+   "kind": "mcq",
+   "stem": "Which trauma score predicts the need for massive transfusion?",
+   "options": [
+    "GCS score",
+    "ISS score",
+    "ABC score",
+    "APACHE II score"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#a04981",
+   "kind": "statement",
+   "stem": "In massive transfusion, what FFP:platelets:red cells ratio is often used?",
+   "answer": "1:1:1 or 1:1:2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#0094cc",
+   "kind": "mcq",
+   "stem": "What is the ideal haemostatic resuscitation ratio of FFP, platelets and packed red cells?",
+   "options": [
+    "1:1:2",
+    "2:1:1",
+    "1:1:1",
+    "1:2:1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#7ff6a1",
+   "kind": "statement",
+   "stem": "Which viscoelastic test guides haemostatic resuscitation in massive transfusion?",
+   "answer": "ROTEM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#fa8656",
+   "kind": "mcq",
+   "stem": "How is dilutional coagulopathy in massive transfusion treated?",
+   "options": [
+    "Crystalloid only",
+    "FFP and platelets",
+    "Albumin alone",
+    "Vitamin K only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#dbc051",
+   "kind": "statement",
+   "stem": "In massive transfusion with hypothermia, what should be done to blood products?",
+   "answer": "Warm all blood products",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#3c1e5f",
+   "kind": "mcq",
+   "stem": "Why does stored blood cause hypocalcaemia in massive transfusion?",
+   "options": [
+    "Citrate binds calcium",
+    "Platelets consume calcium",
+    "Plasma dilutes calcium",
+    "Stored blood lacks calcium"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#733e02",
+   "kind": "mcq",
+   "stem": "What is NovoSeven in massive transfusion?",
+   "options": [
+    "Recombinant factor 7 (VIIa)",
+    "Plasma-derived factor 8",
+    "Recombinant factor 8",
+    "Fibrinogen concentrate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#8c4346",
+   "kind": "statement",
+   "stem": "In massive haemorrhage in theatre, what two things should be called for?",
+   "answer": "Help and the crash trolley",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#715eb6",
+   "kind": "statement",
+   "stem": "In massive haemorrhage in theatre, what should be confirmed with the surgeon?",
+   "answer": "The surgeon is actively controlling bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#274cc7",
+   "kind": "mcq",
+   "stem": "In massive theatre haemorrhage, what oxygen concentration is used for ventilation until resolved?",
+   "options": [
+    "21% O2",
+    "40% O2",
+    "60% O2",
+    "100% O2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#7c6251",
+   "kind": "mcq",
+   "stem": "In massive theatre haemorrhage, how many large-bore peripheral IV lines should be placed?",
+   "options": [
+    "1 line",
+    "3 lines",
+    "2 lines",
+    "4 lines"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#665337",
+   "kind": "statement",
+   "stem": "Name a way to run fluid fast in massive theatre haemorrhage.",
+   "answer": "Pressure bag or rapid infuser",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#c9410c",
+   "kind": "statement",
+   "stem": "In massive theatre haemorrhage, what should the blood bank be asked to do?",
+   "answer": "Activate the MTP and crossmatch early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#b6b59c",
+   "kind": "statement",
+   "stem": "What extra staff should be arranged for massive ongoing haemorrhage?",
+   "answer": "Extra anaesthetic doctor and extra anaesthetic assistant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#7f2676",
+   "kind": "mcq",
+   "stem": "When preparing theatre for massive ongoing haemorrhage, how many ultrasound machines should be available?",
+   "options": [
+    "1x",
+    "3x",
+    "4x",
+    "2x"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#647c98",
+   "kind": "statement",
+   "stem": "In patient blood management, which three independent factors are risk factors for poor outcome?",
+   "answer": "Anaemia, bleeding and transfusion.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#dc7056",
+   "kind": "blank",
+   "stem": "Patient blood management has three phases: preoperative, ____ and postoperative.",
+   "answer": "intraoperative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#f0c1c7",
+   "kind": "statement",
+   "stem": "In patient blood management, in which type of surgery is it most important?",
+   "answer": "Surgery with major blood loss (more than 1000 ml).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#ddfb1c",
+   "kind": "statement",
+   "stem": "Which surgery is given as an example where blood conservation strategies are indicated?",
+   "answer": "Multilevel spine surgery, such as scoliosis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#f7e814",
+   "kind": "statement",
+   "stem": "In blood conservation, what should be screened for and treated?",
+   "answer": "Anaemia and coagulopathy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#3f7145",
+   "kind": "statement",
+   "stem": "In blood conservation, what should be prepared in case transfusion is needed?",
+   "answer": "Valid group and crossmatch, with products on standby.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#cd7cf2",
+   "kind": "mcq",
+   "stem": "How commonly is preoperative autologous donation (PAD) used?",
+   "options": [
+    "Commonly used",
+    "Routinely used",
+    "Always required",
+    "Rarely used"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#4e9e35",
+   "kind": "mcq",
+   "stem": "In preoperative autologous donation, how many units of whole blood are collected serially?",
+   "options": [
+    "6–8 units",
+    "10–12 units",
+    "1–4 units",
+    "15–20 units"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#4e9e35",
+   "kind": "mcq",
+   "stem": "In preoperative autologous donation, how many weeks before surgery is serial collection done?",
+   "options": [
+    "2–5 weeks",
+    "6–8 weeks",
+    "1–2 weeks",
+    "12–16 weeks"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#4e9e35",
+   "kind": "blank",
+   "stem": "For preoperative autologous donation, the last collection should be more than ____ hours before induction.",
+   "answer": "72",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#66e28c",
+   "kind": "mcq",
+   "stem": "In blood conservation, acute normovolaemic haemodilution (ANH) is especially used for which group?",
+   "options": [
+    "Patients with haemophilia",
+    "Patients with sickle cell disease",
+    "Jehovah's Witnesses",
+    "Children under two years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#b0fea0",
+   "kind": "statement",
+   "stem": "In blood conservation, which 'lethal diamond' factors should be avoided?",
+   "answer": "Coagulopathy, hypothermia, acidosis and hypocalcaemia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#963a53",
+   "kind": "mcq",
+   "stem": "In blood conservation, when is cell salvage used?",
+   "options": [
+    "If expected loss is under 200 ml",
+    "Only in children under two years",
+    "If expected loss is more than 1000 ml",
+    "Never, because it causes haemolysis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#d8b346",
+   "kind": "mcq",
+   "stem": "In blood conservation, what example MAP target is given for controlled (hypotensive) anaesthesia?",
+   "options": [
+    "MAP 60-65",
+    "MAP 40-45",
+    "MAP 80-85",
+    "MAP 100-105"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#65c6fe",
+   "kind": "statement",
+   "stem": "What surgical measures help reduce bleeding in blood conservation?",
+   "answer": "Meticulous haemostasis, topical haemostatic agents and tourniquets.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#d66f0b",
+   "kind": "blank",
+   "stem": "For adults, a potential blood loss of more than ____ ml is a procedure-specific bleeding risk.",
+   "answer": "500",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#4539f9",
+   "kind": "mcq",
+   "stem": "Which expected blood loss defines a low procedure-specific bleeding risk?",
+   "options": [
+    "500–1000 ml",
+    "Less than 500 ml",
+    "More than 1 l",
+    "More than 2 l"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#60e3fb",
+   "kind": "blank",
+   "stem": "Moderate procedure-specific bleeding risk is expected blood loss of ____ ml.",
+   "answer": "500–1000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#bb3e84",
+   "kind": "statement",
+   "stem": "How is a high procedure-specific bleeding risk defined?",
+   "answer": "Surgery losing more than 1 l, or with risk of major morbidity or mortality.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#139881",
+   "kind": "mcq",
+   "stem": "In paediatric bleeding and transfusion, what figure in ml/kg is given for a premature newborn?",
+   "options": [
+    "70 ml/kg",
+    "110 ml/kg",
+    "95 ml/kg",
+    "4 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#77dc02",
+   "kind": "mcq",
+   "stem": "In paediatric bleeding and transfusion, what figure in ml/kg is given for a term newborn?",
+   "options": [
+    "70 ml/kg",
+    "85 ml/kg",
+    "110 ml/kg",
+    "4 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#8041cf",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, how much packed red cells in ml/kg raises Hb by 1 g/dl?",
+   "options": [
+    "2 ml/kg",
+    "8 ml/kg",
+    "15 ml/kg",
+    "4 ml/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#d84df6",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, what example haemoglobin target is given for neonates?",
+   "options": [
+    "3-5 g/dl",
+    "12-14 g/dl",
+    "8-12 g/dl",
+    "6-8 g/dl"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#e545dd",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, how many ml/kg of platelets raises the count by 30-50 x 10^9/l?",
+   "options": [
+    "1-2 ml/kg",
+    "15-20 ml/kg",
+    "5-10 ml/kg",
+    "20-30 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#074e78",
+   "kind": "mcq",
+   "stem": "In paediatric surgery, above which platelet count should you aim?",
+   "options": [
+    "20 x 10^9/l",
+    "30 x 10^9/l",
+    "50 x 10^9/l",
+    "100 x 10^9/l"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#a88dcf",
+   "kind": "mcq",
+   "stem": "In paediatric bleeding and transfusion, what FFP volume in ml/kg is given?",
+   "options": [
+    "2 to 5 ml/kg",
+    "10 to 20 ml/kg",
+    "30 to 40 ml/kg",
+    "50 to 60 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#416387",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, what INR target is aimed for?",
+   "options": [
+    "INR <1.1",
+    "INR >3.0",
+    "INR >1.5",
+    "INR >2.5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#eeaf5f",
+   "kind": "mcq",
+   "stem": "In paediatric bleeding and transfusion, what cryoprecipitate dose in ml/kg is given?",
+   "options": [
+    "1 ml/kg",
+    "10 ml/kg",
+    "5 ml/kg",
+    "20 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#eeaf5f",
+   "kind": "blank",
+   "stem": "In paediatric transfusion, cryoprecipitate can be given as 1-2 units per ____ kg.",
+   "answer": "10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#4df4b3",
+   "kind": "mcq",
+   "stem": "In paediatric surgery, what fibrinogen level is aimed for?",
+   "options": [
+    "More than 1 g/l",
+    "Less than 0.5 g/l",
+    "Less than 1 g/l",
+    "Exactly 4 g/l"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

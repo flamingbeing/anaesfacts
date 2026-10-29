@@ -1,0 +1,891 @@
+{
+ "topic": "procedures/liver-transplantation",
+ "questions": [
+  {
+   "fact_id": "procedures/liver-transplantation#a9ce9a",
+   "kind": "statement",
+   "stem": "In liver transplant indications, what defines acute liver failure?",
+   "answer": "Rapid-onset encephalopathy and coagulopathy (INR ≥ 1.5) without prior liver disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#b45c5d",
+   "kind": "mcq",
+   "stem": "Which liver-based metabolic disease is an indication for liver transplantation?",
+   "options": [
+    "Coeliac disease",
+    "Haemochromatosis",
+    "Myasthenia gravis",
+    "Sarcoidosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#14542e",
+   "kind": "statement",
+   "stem": "What does MELD-Na predict in patients on the liver transplant waiting list?",
+   "answer": "3-month waiting-list mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#91cee7",
+   "kind": "mcq",
+   "stem": "In Child-Pugh scoring, what does class C indicate?",
+   "options": [
+    "Mild dysfunction",
+    "Moderate dysfunction",
+    "Severe dysfunction",
+    "Compensated function"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#91cee7",
+   "kind": "statement",
+   "stem": "Name the five parameters scored in the Child-Pugh classification.",
+   "answer": "Albumin, bilirubin, INR, ascites, encephalopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#58b00d",
+   "kind": "mcq",
+   "stem": "In fulminant hepatic failure, what sustained ICP is a contraindication to transplant?",
+   "options": [
+    "CPP < 20 mmHg",
+    "ICP > 30 mmHg",
+    "ICP > 50 mmHg",
+    "ICP > 80 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#58b00d",
+   "kind": "mcq",
+   "stem": "In fulminant hepatic failure, what sustained CPP is a contraindication to transplant?",
+   "options": [
+    "CPP > 60 mmHg",
+    "CPP > 90 mmHg",
+    "CPP < 40 mmHg",
+    "CPP > 20 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#eb51fd",
+   "kind": "mcq",
+   "stem": "Which severe systemic disease is a contraindication to liver transplantation?",
+   "options": [
+    "Well-controlled type 2 diabetes",
+    "Uncontrolled sepsis",
+    "Controlled hypertension",
+    "Stable mild asthma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#3e5b23",
+   "kind": "statement",
+   "stem": "Which kind of anatomy finding is a contraindication to liver transplantation?",
+   "answer": "Anatomical abnormality that makes transplant technically impossible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#205c0c",
+   "kind": "statement",
+   "stem": "Which social factors are contraindications to liver transplantation?",
+   "answer": "Ongoing alcohol or drug misuse, persistent non-adherence, no social support",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#20a254",
+   "kind": "mcq",
+   "stem": "Which BMI range is a relative contraindication to liver transplantation?",
+   "options": [
+    "BMI < 15 or BMI > 35",
+    "BMI < 18 or BMI > 40",
+    "BMI < 25 or BMI > 30",
+    "BMI < 20 or BMI > 45"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#b6328a",
+   "kind": "statement",
+   "stem": "Name a neurological complication of fulminant liver failure other than hepatic encephalopathy.",
+   "answer": "Raised ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#f2a291",
+   "kind": "mcq",
+   "stem": "In liver failure, what does ascites increase the risk of during anaesthesia?",
+   "options": [
+    "Deep vein thrombosis",
+    "Hypothermia",
+    "Aspiration",
+    "Pressure sores"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#88efc2",
+   "kind": "mcq",
+   "stem": "In liver failure, which hepatorenal syndrome type is chronic?",
+   "options": [
+    "Type 1",
+    "Type 2",
+    "Type 3",
+    "Type 4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#097bb8",
+   "kind": "statement",
+   "stem": "What is the advice on timing of transplant referral in liver disease?",
+   "answer": "Refer early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#6765e9",
+   "kind": "mcq",
+   "stem": "In liver transplant assessment, what pulmonary artery systolic pressure (PASP) prompts a right heart catheter?",
+   "options": [
+    ">25",
+    ">40",
+    ">60",
+    ">80"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#1c2fb4",
+   "kind": "mcq",
+   "stem": "Which mean pulmonary artery pressure (mPAP) is considered safe for liver transplant?",
+   "options": [
+    "> 60 mmHg",
+    "35–45 mmHg",
+    "< 35 mmHg",
+    "> 50 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#f2cefa",
+   "kind": "mcq",
+   "stem": "Which mPAP range is high risk for liver transplant and needs cardiology co-management?",
+   "options": [
+    "< 35 mmHg",
+    "35–45 mmHg",
+    "> 50 mmHg",
+    "20–30 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#3a1533",
+   "kind": "mcq",
+   "stem": "Which mPAP is an absolute contraindication to liver transplantation?",
+   "options": [
+    "> 25 mmHg",
+    "35–40 mmHg",
+    "< 35 mmHg",
+    "> 45 mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#e84314",
+   "kind": "statement",
+   "stem": "What coronary tests are done in liver transplant assessment for patients at risk of coronary artery disease?",
+   "answer": "CT coronary angiogram, then coronary angiography",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#3ea803",
+   "kind": "mcq",
+   "stem": "Which exercise test is used for high-risk or marginal liver transplant candidates?",
+   "options": [
+    "Renal ultrasound",
+    "CPET",
+    "Carotid Doppler",
+    "Bone densitometry"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#a06e05",
+   "kind": "statement",
+   "stem": "Which lung function pattern is common on PFTs in liver disease patients with ascites?",
+   "answer": "Restrictive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#7116ef",
+   "kind": "statement",
+   "stem": "Which two tests detect intrapulmonary vascular dilatation when hepatopulmonary syndrome (HPS) is suspected?",
+   "answer": "Contrast echo and lung perfusion scan",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#367ac9",
+   "kind": "statement",
+   "stem": "What do donor graft quality factors affect in liver transplantation?",
+   "answer": "Reperfusion haemodynamics, bleeding and early graft function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#2a3a2c",
+   "kind": "mcq",
+   "stem": "What is the ideal warm ischaemia time for a liver graft?",
+   "options": [
+    "<60min",
+    "<15min",
+    "<30min",
+    "<45min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#2a3a2c",
+   "kind": "mcq",
+   "stem": "What is the cut-off warm ischaemia time for a liver graft?",
+   "options": [
+    "60min",
+    "45min",
+    "20min",
+    "90min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#310367",
+   "kind": "mcq",
+   "stem": "What is the ideal cold ischaemia time for a liver graft?",
+   "options": [
+    "<12hr",
+    "<4hr",
+    "<8hr",
+    "<24hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#310367",
+   "kind": "mcq",
+   "stem": "What is the cut-off cold ischaemia time for a liver graft?",
+   "options": [
+    "6h",
+    "12h",
+    "24h",
+    "8h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#3823bb",
+   "kind": "statement",
+   "stem": "Which liver cells are most sensitive to cold ischaemia?",
+   "answer": "Liver sinusoidal endothelial cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#3823bb",
+   "kind": "statement",
+   "stem": "Which liver cells are most sensitive to warm ischaemia?",
+   "answer": "Hepatocytes and cholangiocytes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#1efc4a",
+   "kind": "mcq",
+   "stem": "What sodium target is used for ICP control in acute liver failure?",
+   "options": [
+    "Na 135–140 mmol/L",
+    "Na 120–130 mmol/L",
+    "Na 160–170 mmol/L",
+    "Na 145–155 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#7f6511",
+   "kind": "mcq",
+   "stem": "What g/kg dose is given for suspected ICP surges in acute liver failure?",
+   "options": [
+    "2–3 g/kg",
+    "0.1–0.2 g/kg",
+    "0.5–1 g/kg",
+    "5–10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#7f6511",
+   "kind": "mcq",
+   "stem": "Which osmotic agent is used for suspected ICP surges in acute liver failure?",
+   "options": [
+    "Furosemide",
+    "Albumin 20%",
+    "Mannitol",
+    "Sodium bicarbonate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#f68cb7",
+   "kind": "mcq",
+   "stem": "In acute liver failure optimisation, what mean arterial pressure is targeted?",
+   "options": [
+    "MAP 50–55 mmHg",
+    "MAP 65–70 mmHg",
+    "MAP 75–80 mmHg",
+    "MAP 85–90 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#f68cb7",
+   "kind": "mcq",
+   "stem": "Which fluid is used for volume support in acute liver failure optimisation?",
+   "options": [
+    "Mannitol",
+    "Glucose 50%",
+    "Albumin",
+    "Sodium bicarbonate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#0b9480",
+   "kind": "statement",
+   "stem": "In acute liver failure, at what grade of hepatic encephalopathy should the patient be intubated?",
+   "answer": "Grade 2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#df1433",
+   "kind": "mcq",
+   "stem": "In acute liver failure, what bowel frequency does lactulose aim for?",
+   "options": [
+    "Once every 3 days",
+    "≥ 3 times a day",
+    "Once a week",
+    "Twice a month"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#df1433",
+   "kind": "statement",
+   "stem": "Besides lactulose, what GI measure is advised in acute liver failure optimisation?",
+   "answer": "Stress ulcer prophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#671b60",
+   "kind": "statement",
+   "stem": "In acute liver failure, what are the indications for early CRRT?",
+   "answer": "Metabolic acidosis or fluid overload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#671b60",
+   "kind": "mcq",
+   "stem": "Which drug is used for hepatorenal syndrome in acute liver failure?",
+   "options": [
+    "Desmopressin",
+    "Terlipressin",
+    "Oxytocin",
+    "Mannitol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#c89b38",
+   "kind": "mcq",
+   "stem": "What dose of IV vitamin K is given in acute liver failure coagulation optimisation?",
+   "options": [
+    "1mg",
+    "5mg",
+    "20mg",
+    "10mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#c89b38",
+   "kind": "statement",
+   "stem": "When should FFP, cryoprecipitate and platelets be given in acute liver failure?",
+   "answer": "Only for active bleeding or before a procedure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#be1545",
+   "kind": "mcq",
+   "stem": "What blood glucose target is used in acute liver failure metabolic optimisation?",
+   "options": [
+    "8–10 mmol/L",
+    "2–3 mmol/L",
+    "6–8 mmol/L",
+    "4–6 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#be1545",
+   "kind": "mcq",
+   "stem": "In acute liver failure, which ammonia level prompts reducing protein intake?",
+   "options": [
+    "> 50umol",
+    "> 80umol",
+    "> 300umol",
+    "> 150umol"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#be1545",
+   "kind": "statement",
+   "stem": "What metabolic treatment is considered in acute liver failure optimisation?",
+   "answer": "High-volume plasma exchange (HVPE)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#e70dba",
+   "kind": "mcq",
+   "stem": "Which solution is used to flush the donor liver at retrieval in deceased donor transplant?",
+   "options": [
+    "Warm Hartmann's solution",
+    "Cold HTK or UW solution",
+    "Room-temperature albumin",
+    "Warm 0.9% saline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#9eeb9a",
+   "kind": "statement",
+   "stem": "In deceased donor liver transplant, what work is done on the bench?",
+   "answer": "Graft inspection and vessel preparation on ice",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#e630e2",
+   "kind": "statement",
+   "stem": "What is the recipient explant step in deceased donor liver transplant?",
+   "answer": "Total hepatectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#6a9667",
+   "kind": "statement",
+   "stem": "What is the name of the phase in which the donor liver is implanted?",
+   "answer": "Neohepatic phase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#7e76b9",
+   "kind": "mcq",
+   "stem": "Which cardiac output monitor is used in liver transplant monitoring?",
+   "options": [
+    "Bispectral index monitor",
+    "FloTrac",
+    "Peak flow meter",
+    "Pulse oximeter probe"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#7e76b9",
+   "kind": "statement",
+   "stem": "In liver transplant monitoring, when is a pulmonary artery catheter used?",
+   "answer": "If pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#49f8eb",
+   "kind": "mcq",
+   "stem": "In liver transplant, are oesophageal varices an absolute contraindication to TEE?",
+   "options": [
+    "Yes, always an absolute contraindication",
+    "No, not necessarily an absolute contraindication",
+    "Only in acute bleeding",
+    "Only with grade 3 varices"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#f454e6",
+   "kind": "mcq",
+   "stem": "How many arterial lines are advised in liver transplant, ideally radial?",
+   "options": [
+    "4",
+    "1",
+    "3",
+    "2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#f454e6",
+   "kind": "statement",
+   "stem": "In liver transplant, what are the two arterial lines used for?",
+   "answer": "One for sampling, one for monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#a459d6",
+   "kind": "statement",
+   "stem": "Name examples of large-bore IV access used in liver transplantation.",
+   "answer": "PA catheter sheath, dialysis catheter, rapid infusion catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#22ded6",
+   "kind": "statement",
+   "stem": "What point-of-care coagulation tests are used in theatre during liver transplant?",
+   "answer": "TEG or ROTEM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#e57c11",
+   "kind": "statement",
+   "stem": "Which step is the first of the three intraoperative phases of liver transplant?",
+   "answer": "Liver mobilisation and skeletonisation of the porta hepatis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#24f91e",
+   "kind": "statement",
+   "stem": "During liver mobilisation in transplant, what causes bleeding and what makes it worse?",
+   "answer": "Haemorrhage from varices and adhesions, worse with coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#0b5cd2",
+   "kind": "statement",
+   "stem": "During liver mobilisation in transplant, what causes haemodynamic instability?",
+   "answer": "Ascitic drainage and low SVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#28378c",
+   "kind": "statement",
+   "stem": "In liver transplant, when does the anhepatic phase start?",
+   "answer": "When the hepatic arteries are divided",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#6bb578",
+   "kind": "statement",
+   "stem": "In liver transplant, which step starts the warm ischaemia time?",
+   "answer": "New liver in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#212403",
+   "kind": "statement",
+   "stem": "What does partial or full IVC clamping do to venous return and preload?",
+   "answer": "Reduces venous return and preload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#cf44d8",
+   "kind": "statement",
+   "stem": "In liver transplant, what causes coagulopathy and bleeding during the operation?",
+   "answer": "No clotting factor production and low fibrinogen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#4f33e3",
+   "kind": "statement",
+   "stem": "In liver transplant, why do hypocalcaemia and metabolic acidosis occur?",
+   "answer": "No citrate or lactate metabolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#c819ee",
+   "kind": "mcq",
+   "stem": "In liver transplant reperfusion, which clamp is released first?",
+   "options": [
+    "Portal vein clamp",
+    "IVC clamp",
+    "Splenic artery clamp",
+    "Hepatic artery clamp"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#88d6a6",
+   "kind": "mcq",
+   "stem": "What happens to preload when the IVC clamp is released in liver transplant?",
+   "options": [
+    "Gradual fall in preload",
+    "Sudden fall in preload",
+    "No change in preload",
+    "Sudden rise in preload"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#8103b9",
+   "kind": "mcq",
+   "stem": "What fall in MAP defines post-reperfusion syndrome in liver transplant?",
+   "options": [
+    ">10%",
+    ">20%",
+    ">50%",
+    ">30%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#8103b9",
+   "kind": "mcq",
+   "stem": "Within how many minutes of reperfusion is the MAP fall judged for post-reperfusion syndrome?",
+   "options": [
+    "1 min",
+    "15 min",
+    "30 min",
+    "5 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#47b6c8",
+   "kind": "mcq",
+   "stem": "What methylprednisolone dose is given at reperfusion in liver transplant?",
+   "options": [
+    "1mg/kg",
+    "5mg/kg",
+    "20mg/kg",
+    "10mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#47b6c8",
+   "kind": "statement",
+   "stem": "What is methylprednisolone given for at reperfusion in liver transplant?",
+   "answer": "Protection against reperfusion injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#a277c1",
+   "kind": "statement",
+   "stem": "What coagulation process is noted after reperfusion in liver transplant?",
+   "answer": "Fibrinolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#a3d56c",
+   "kind": "mcq",
+   "stem": "Which of these is a sign of good graft function after liver transplant reperfusion?",
+   "options": [
+    "Rising lactate",
+    "Falling calcium",
+    "Bile production",
+    "Worsening haemodynamics"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#fed63d",
+   "kind": "mcq",
+   "stem": "What MAP target is used in liver transplant maintenance?",
+   "options": [
+    "MAP >40",
+    "MAP >60",
+    "MAP >80",
+    "MAP >50"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#1b9e13",
+   "kind": "statement",
+   "stem": "How should fluids and blood products be given during liver transplant maintenance?",
+   "answer": "Judiciously",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#cd9de2",
+   "kind": "mcq",
+   "stem": "How often are ABGs checked after the anhepatic phase in liver transplant?",
+   "options": [
+    "Every 15 minutes",
+    "Every 2 hours",
+    "Every 30 minutes",
+    "Every 60 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#cc4f86",
+   "kind": "mcq",
+   "stem": "What urine output is aimed for in renal protection during liver transplant?",
+   "options": [
+    ">0.1ml/kg/hr",
+    ">2ml/kg/hr",
+    ">0.5ml/kg/hr",
+    ">5ml/kg/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#697a35",
+   "kind": "mcq",
+   "stem": "Which drug reduces splanchnic flow and portal pressure in liver transplant?",
+   "options": [
+    "Frusemide",
+    "Octreotide",
+    "Insulin",
+    "Heparin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#ff47f0",
+   "kind": "statement",
+   "stem": "After liver transplantation, where do most patients go and in what state?",
+   "answer": "ICU, intubated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#67c874",
+   "kind": "statement",
+   "stem": "Which immunosuppression complication is given as an example in previous liver transplant patients?",
+   "answer": "Renal impairment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/liver-transplantation#bf7b77",
+   "kind": "statement",
+   "stem": "In a patient with a previous liver transplant, how is the graft protected during anaesthesia?",
+   "answer": "Maintain MAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

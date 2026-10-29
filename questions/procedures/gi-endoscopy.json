@@ -1,0 +1,249 @@
+{
+ "topic": "procedures/gi-endoscopy",
+ "questions": [
+  {
+   "fact_id": "procedures/gi-endoscopy#f3a63b",
+   "kind": "statement",
+   "stem": "For upper endoscopy (OGD), which anaesthetic concerns does the topic highlight?",
+   "answer": "Shared airway, aspiration risk, remote location",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#82c182",
+   "kind": "statement",
+   "stem": "Name the common GI endoscopy procedures.",
+   "answer": "Colonoscopy, upper endoscopy (OGD), ERCP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#e5758c",
+   "kind": "mcq",
+   "stem": "During GI endoscopy, what do endoscopists most want the patient to be like?",
+   "options": [
+    "Gags freely to help scope passage",
+    "Intubated before every endoscopy",
+    "Does not gag or move",
+    "Breathing through a tracheostomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#d0f1e2",
+   "kind": "mcq",
+   "stem": "Which haemostatic powder used in GI endoscopy is described as the weaker option?",
+   "options": [
+    "Hemospray",
+    "Tranexamic acid powder",
+    "Endoclot",
+    "Adrenaline spray"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#78115c",
+   "kind": "mcq",
+   "stem": "What anaesthetic level is routine for OGD and colonoscopy?",
+   "options": [
+    "Sedation",
+    "Spinal anaesthesia",
+    "Regional nerve block alone",
+    "Epidural anaesthesia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#c98a66",
+   "kind": "mcq",
+   "stem": "Which drug type suits routine OGD and colonoscopy, usually done as day surgery?",
+   "options": [
+    "Long-acting oral sedatives",
+    "Short-acting drugs",
+    "Epidural local anaesthetic",
+    "Intrathecal opioids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#21d93b",
+   "kind": "mcq",
+   "stem": "What is applied to the mouth before OGD under routine anaesthesia?",
+   "options": [
+    "Oral antibiotic paste",
+    "Intravenous atropine bolus",
+    "Nasal decongestant spray",
+    "Local anaesthetic spray to the mouth"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#ec074d",
+   "kind": "mcq",
+   "stem": "Before GI endoscopy in a patient on dual antiplatelet therapy, which drug is usually stopped?",
+   "options": [
+    "Metformin",
+    "Clopidogrel",
+    "Aspirin",
+    "Ramipril"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#47a097",
+   "kind": "mcq",
+   "stem": "In GI endoscopy, when is general anaesthesia preferred over sedation?",
+   "options": [
+    "Routine colonoscopy in a fit adult",
+    "Upper GI bleed with risk of haematemesis and aspiration",
+    "Simple OGD in a young patient",
+    "Short colonoscopy in day surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#a4aa99",
+   "kind": "statement",
+   "stem": "Which hypnotic and amnesic drugs are chosen for GI endoscopy, based on the patient?",
+   "answer": "Midazolam, propofol, etomidate or ketamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#23ecfe",
+   "kind": "mcq",
+   "stem": "What do opioids such as fentanyl or remifentanil do during GI endoscopy?",
+   "options": [
+    "Blunt gag, cough and pain",
+    "Reverse sedation quickly",
+    "Increase gastric acid output",
+    "Cause profound muscle paralysis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#a8f0b7",
+   "kind": "statement",
+   "stem": "Why can't the anaesthetist mask-ventilate a patient during OGD or ERCP?",
+   "answer": "The scope passes through the mouth, sharing the airway; mask ventilation needs the procedure stopped",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#f556f2",
+   "kind": "mcq",
+   "stem": "When GI endoscopy needs an intubated patient, which induction technique is usual?",
+   "options": [
+    "Inhalational induction",
+    "RSI",
+    "Awake fibreoptic intubation",
+    "Gradual titration to effect"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#32613b",
+   "kind": "mcq",
+   "stem": "For GI endoscopy intubation, which relaxant pairing suits a case expected to be short?",
+   "options": [
+    "Atracurium with neostigmine",
+    "Rocuronium with sugammadex",
+    "Cisatracurium with neostigmine",
+    "Pancuronium with neostigmine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#784bd0",
+   "kind": "mcq",
+   "stem": "How long do GI endoscopy cases usually last?",
+   "options": [
+    "45–90 min",
+    "5–30 min",
+    "2–3 hours",
+    "90–120 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#0d8a74",
+   "kind": "statement",
+   "stem": "What is the key airway problem during GI endoscopy procedures?",
+   "answer": "Shared airway with poor access during the procedure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#ca8476",
+   "kind": "statement",
+   "stem": "Why must anaesthetic depth in GI endoscopy be adjusted almost instantly?",
+   "answer": "Stimulation swings widely, such as during scope insertion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#e2a07a",
+   "kind": "mcq",
+   "stem": "In GI endoscopy, what IV glucagon dose might the endoscopist request?",
+   "options": [
+    "0.1mg",
+    "5mg",
+    "1mg",
+    "10mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#e2a07a",
+   "kind": "mcq",
+   "stem": "What hyoscine butylbromide (Buscopan) dose might an endoscopist request in GI endoscopy?",
+   "options": [
+    "10mg",
+    "1mg",
+    "40mg",
+    "20mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gi-endoscopy#757d9c",
+   "kind": "mcq",
+   "stem": "After GI endoscopy, what is the main cause of discomfort when pain is minimal?",
+   "options": [
+    "Wound pain from incision",
+    "Headache from spinal puncture",
+    "Blood loss from surgery",
+    "Bloating from insufflation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

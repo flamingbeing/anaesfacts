@@ -1,0 +1,209 @@
+{
+ "topic": "procedures/evacuation-of-uterus",
+ "questions": [
+  {
+   "fact_id": "procedures/evacuation-of-uterus#a257dd",
+   "kind": "statement",
+   "stem": "In uterine evacuation, which gestational window applies to incomplete miscarriage?",
+   "answer": "6-12 weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#0185b7",
+   "kind": "mcq",
+   "stem": "Up to what gestation is suction termination of pregnancy used?",
+   "options": [
+    "8 weeks",
+    "12 weeks",
+    "16 weeks",
+    "20 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#29d49f",
+   "kind": "mcq",
+   "stem": "Beyond 12 weeks, surgical termination of pregnancy is done by which method?",
+   "options": [
+    "Suction aspiration",
+    "Dilatation and curettage",
+    "Medical prostaglandin induction",
+    "Hysteroscopic resection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#a8145f",
+   "kind": "mcq",
+   "stem": "For medical termination of pregnancy beyond 16 weeks, which drug class is given?",
+   "options": [
+    "Nitroglycerin",
+    "Tranexamic acid",
+    "Propofol",
+    "Prostaglandin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#e09663",
+   "kind": "statement",
+   "stem": "In evacuation of the uterus, what is the first anaesthetic goal?",
+   "answer": "Uterine relaxation to allow manual exploration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#46fd02",
+   "kind": "mcq",
+   "stem": "What IV dose of nitroglycerin relaxes the uterus for manual exploration?",
+   "options": [
+    "50mcg",
+    "100mcg",
+    "400mcg",
+    "1mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#fb6e1c",
+   "kind": "statement",
+   "stem": "Once manual exploration is done, what goal reduces blood loss during uterine evacuation?",
+   "answer": "Improve uterine tone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#075d26",
+   "kind": "mcq",
+   "stem": "After manual exploration, what IV oxytocin dose is given to improve uterine tone?",
+   "options": [
+    "1IU",
+    "2IU",
+    "5IU",
+    "10IU"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#28dd0a",
+   "kind": "statement",
+   "stem": "Before uterine evacuation, how is blood loss so far assessed?",
+   "answer": "Vital signs and Hb",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#3d9bb1",
+   "kind": "mcq",
+   "stem": "For uterine evacuation under 16 weeks, which airway is used?",
+   "options": [
+    "Endotracheal tube",
+    "Face mask",
+    "Nasopharyngeal airway",
+    "LMA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#e51239",
+   "kind": "statement",
+   "stem": "For uterine evacuation over 16 weeks, what airway is placed after rapid sequence induction?",
+   "answer": "ETT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#822615",
+   "kind": "mcq",
+   "stem": "From which gestation is a pregnant patient treated as a full stomach?",
+   "options": [
+    "8 weeks",
+    "12 weeks",
+    "16 weeks",
+    "24 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#822615",
+   "kind": "blank",
+   "stem": "Treat a pregnant patient as a full stomach from 16 weeks gestation until ____ post-partum.",
+   "answer": "48 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#72c1da",
+   "kind": "statement",
+   "stem": "Which full-stomach cut-off in pregnancy does Chestnut give?",
+   "answer": "First trimester",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#566e8f",
+   "kind": "statement",
+   "stem": "If retained products are removed after delivery with an epidural in place, what can be done?",
+   "answer": "Top up the epidural",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#defd92",
+   "kind": "mcq",
+   "stem": "Besides oxytocin, which drug should be considered to limit bleeding during uterine evacuation?",
+   "options": [
+    "Tranexamic acid",
+    "Nitroglycerin",
+    "Ondansetron",
+    "Phenylephrine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#3e64bd",
+   "kind": "mcq",
+   "stem": "After uterine evacuation, which analgesia route is advised?",
+   "options": [
+    "Intravenous patient-controlled analgesia",
+    "Epidural infusion",
+    "Intrathecal morphine",
+    "Oral analgesia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evacuation-of-uterus#d4815c",
+   "kind": "mcq",
+   "stem": "What antiemetic approach is used after uterine evacuation?",
+   "options": [
+    "Single antiemetic dose",
+    "No routine antiemetic",
+    "Dual antiemetics",
+    "Antiemetic only if vomiting"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

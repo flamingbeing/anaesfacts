@@ -1,0 +1,797 @@
+{
+ "topic": "procedures/paediatric-anaesthesia-for-imaging",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#5bd86b",
+   "kind": "statement",
+   "stem": "In paediatric anaesthesia for imaging, what do purpose-built suites provide for elective lists such as MRI?",
+   "answer": "Piped gases, induction and recovery areas, integrated monitors, radiology-ready machines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#5a1b02",
+   "kind": "statement",
+   "stem": "For paediatric elective scans, how are many children commonly sedated?",
+   "answer": "Under sedation without an anaesthetist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#8d50f6",
+   "kind": "statement",
+   "stem": "What makes unusual paediatric imaging studies at remote sites riskier?",
+   "answer": "Poorer kit and staff not used to anaesthetised children",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#5e71ef",
+   "kind": "statement",
+   "stem": "In paediatric imaging anaesthesia, where is oxygen often sourced, and what should be kept as backup?",
+   "answer": "A cylinder; have a spare",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#f32068",
+   "kind": "statement",
+   "stem": "What suction equipment should be dedicated in paediatric imaging anaesthesia?",
+   "answer": "Anaesthetic suction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#db2500",
+   "kind": "statement",
+   "stem": "What emergency equipment should be present in a paediatric imaging suite?",
+   "answer": "Resuscitation trolley and defibrillator",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#f170c3",
+   "kind": "mcq",
+   "stem": "In paediatric imaging anaesthesia, where is it usually better to move a child in cardiac arrest?",
+   "options": [
+    "The recovery bay",
+    "The scanner room",
+    "The induction room",
+    "The radiology reporting room"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#75f725",
+   "kind": "statement",
+   "stem": "In paediatric MRI, who should never be let into the MRI room during a child's anaesthetic?",
+   "answer": "The resuscitation team",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#3221f2",
+   "kind": "statement",
+   "stem": "For paediatric imaging anaesthesia, which staff are needed, as for any general anaesthetic?",
+   "answer": "Anaesthetic assistant and recovery nurse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#35f6ac",
+   "kind": "statement",
+   "stem": "In paediatric imaging, who may help move larger children on and off the table?",
+   "answer": "Radiology staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#c069a7",
+   "kind": "statement",
+   "stem": "What two requirements apply to anaesthetic equipment used for paediatric imaging?",
+   "answer": "Meet standards and be familiar to the team",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#56b530",
+   "kind": "statement",
+   "stem": "How should children be assessed before paediatric imaging under anaesthesia?",
+   "answer": "As for any GA, with attention to syndromes and other illnesses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#7ccccb",
+   "kind": "mcq",
+   "stem": "In paediatric imaging anaesthesia, which investigations are common?",
+   "options": [
+    "Cardiac catheter studies",
+    "Abdominal ultrasound",
+    "CNS investigations",
+    "Dental radiographs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#421e10",
+   "kind": "statement",
+   "stem": "In children going for imaging under anaesthesia, which assessment needs particular care?",
+   "answer": "Airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#a1f35a",
+   "kind": "mcq",
+   "stem": "With modern shielded, coned X-ray equipment, beyond what distance is exposure negligible?",
+   "options": [
+    "More than 2 m",
+    "More than 10 m",
+    "More than 0.5 m",
+    "More than 5 m"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#615c1b",
+   "kind": "statement",
+   "stem": "What personal protection should staff use to minimise radiation exposure during paediatric imaging?",
+   "answer": "Lead apron, thyroid shield, exposure badge if exposed often",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#b08b51",
+   "kind": "statement",
+   "stem": "In paediatric imaging, if the child is properly monitored, where should the anaesthetist watch from?",
+   "answer": "Behind leaded glass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#70c030",
+   "kind": "statement",
+   "stem": "In paediatric imaging, which organs should be shielded where possible?",
+   "answer": "Testes, ovaries, thyroid and eyes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#6f8f4f",
+   "kind": "statement",
+   "stem": "In paediatric imaging rooms, what can keep anaesthetic kit away from the patient?",
+   "answer": "Limited space, fixed tables and equipment, dark rooms and many staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#7698e8",
+   "kind": "statement",
+   "stem": "During paediatric imaging, what items snag and dislodge easily?",
+   "answer": "Long breathing circuits and IV lines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#a232bc",
+   "kind": "statement",
+   "stem": "Before paediatric MRI, what should be requested to judge how much slack is needed?",
+   "answer": "A trial run of the table into the scanner",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#457152",
+   "kind": "statement",
+   "stem": "In paediatric MRI, why are the scanner rooms kept cold?",
+   "answer": "Superconducting magnets need cooling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#b4f8fd",
+   "kind": "mcq",
+   "stem": "In paediatric imaging, for which scans should temperature be measured?",
+   "options": [
+    "Only the longest scans",
+    "Never, it is not needed",
+    "All but the shortest scans",
+    "Only in neonates"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#cd564d",
+   "kind": "statement",
+   "stem": "In paediatric MRI, why are warming blankets a concern?",
+   "answer": "They can degrade images",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#d9d9f8",
+   "kind": "statement",
+   "stem": "Which iodinated contrast reactions are dose-dependent?",
+   "answer": "Heat, pain, vasodilation, cardiac depression, hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#48d5b4",
+   "kind": "statement",
+   "stem": "Which iodinated contrast reactions are dose-independent?",
+   "answer": "Nausea and vomiting, hypersensitivity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#c55c60",
+   "kind": "mcq",
+   "stem": "What percentage of iodinated contrast administrations cause a moderate reaction?",
+   "options": [
+    "0.1%",
+    "10%",
+    "1%",
+    "5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#c55c60",
+   "kind": "mcq",
+   "stem": "What percentage of iodinated contrast administrations cause a severe reaction?",
+   "options": [
+    "0.1%",
+    "0.01%",
+    "1%",
+    "10%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#9dabd0",
+   "kind": "mcq",
+   "stem": "In iodinated contrast reactions, what does atopy do to the incidence?",
+   "options": [
+    "Halves it",
+    "Triples it",
+    "Doubles the incidence",
+    "No effect on it"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#494c35",
+   "kind": "mcq",
+   "stem": "What is the mortality rate of iodinated contrast reactions?",
+   "options": [
+    "1:750",
+    "1:5000",
+    "1:75000",
+    "1:100000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#fa2fd2",
+   "kind": "mcq",
+   "stem": "For iodinated contrast, which agent type is used for all intra-arterial injections?",
+   "options": [
+    "High-osmolar agents",
+    "Low-osmolar agents",
+    "Ionic agents",
+    "Gadolinium agents"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#368f7a",
+   "kind": "statement",
+   "stem": "In CT imaging, how is a 2D image of a thin cross-section built?",
+   "answer": "Rotating X-ray source and detector, from many angles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#d85cb6",
+   "kind": "statement",
+   "stem": "What does CT imaging separate well?",
+   "answer": "Structures of different density, such as bone and muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#a18160",
+   "kind": "mcq",
+   "stem": "How long do CT head scans often take?",
+   "options": [
+    "Under 5 minutes",
+    "Under 30 seconds",
+    "Over 2 minutes",
+    "Under 10 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#8cbbce",
+   "kind": "statement",
+   "stem": "In CT imaging, what anaesthetic and monitoring equipment can be used?",
+   "answer": "Any anaesthetic and monitoring equipment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#ed61ca",
+   "kind": "statement",
+   "stem": "Because CT radiation doses are relatively high, from where should the child be monitored if possible?",
+   "answer": "The control room",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#cb599b",
+   "kind": "statement",
+   "stem": "What is the range of patients undergoing paediatric CT?",
+   "answer": "Well, fasted infants to trauma patients being resuscitated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#b7b343",
+   "kind": "statement",
+   "stem": "Airway access is limited for head CT scans, so what should be done first?",
+   "answer": "Secure the airway before scanning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#603309",
+   "kind": "statement",
+   "stem": "In paediatric CT, how should IV sites be kept?",
+   "answer": "Visible and reachable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#995943",
+   "kind": "statement",
+   "stem": "In paediatric CT, why should metal leads such as ECG cables be kept out of the scan field?",
+   "answer": "To avoid image artefact",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#1e131e",
+   "kind": "blank",
+   "stem": "For paediatric CT, moving a child from trolley to table needs ____ for a controlled transfer.",
+   "answer": "Enough staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#6f6626",
+   "kind": "mcq",
+   "stem": "Before paediatric CT with contrast, which allergy must be checked for?",
+   "options": [
+    "Latex allergy",
+    "Penicillin allergy",
+    "Iodine allergy",
+    "Egg allergy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#e1f226",
+   "kind": "statement",
+   "stem": "Why is inhalational induction often preferred for elective paediatric CT under anaesthesia?",
+   "answer": "Many elective cases are infants, where it is often easier than IV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#d85276",
+   "kind": "mcq",
+   "stem": "Which airway device is sometimes suitable for a child having a CT scan?",
+   "options": [
+    "Nasopharyngeal airway",
+    "Laryngeal mask airway",
+    "Tracheostomy tube",
+    "Facemask only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#797ec6",
+   "kind": "statement",
+   "stem": "When is an endotracheal tube often better than an LMA for paediatric CT?",
+   "answer": "Small child with limited access, or chest CT needing brief inspiratory apnoea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#05a7bd",
+   "kind": "statement",
+   "stem": "What maintenance options are used for paediatric anaesthesia for CT?",
+   "answer": "Volatile in oxygen with air or nitrous oxide, or propofol infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#5379d1",
+   "kind": "mcq",
+   "stem": "Which induction suits a child with head injury and reduced consciousness going for CT?",
+   "options": [
+    "Inhalational induction in oxygen",
+    "Awake fibreoptic intubation",
+    "Spinal anaesthesia",
+    "IV rapid sequence induction"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#6790e3",
+   "kind": "mcq",
+   "stem": "How soon can elective paediatric CT patients usually feed and go home?",
+   "options": [
+    "Within 6-8 hours",
+    "Within 24 hours",
+    "Within 3-4 days",
+    "Within 1-2 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#9eca17",
+   "kind": "statement",
+   "stem": "Where do emergency paediatric CT patients go, depending on the scan and clinical state?",
+   "answer": "Theatre, ITU or HDU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#baf31b",
+   "kind": "statement",
+   "stem": "In MRI, what does radiofrequency energy at the spin frequency do to the spins?",
+   "answer": "Tips them to 90° to the magnetic field",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#e28338",
+   "kind": "mcq",
+   "stem": "What property of liquid-helium-cooled wire lets an MRI superconducting magnet carry a huge current?",
+   "options": [
+    "High electrical resistance",
+    "Strong magnetic shielding",
+    "No electrical resistance",
+    "Low electrical capacitance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#ad2b42",
+   "kind": "mcq",
+   "stem": "What is the field strength range, in Tesla, of MRI magnets?",
+   "options": [
+    "0.05 to 0.15 Tesla",
+    "0.5 to 1.5 Tesla",
+    "5 to 15 Tesla",
+    "10 to 50 Tesla"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#ad2b42",
+   "kind": "mcq",
+   "stem": "How many Gauss equal one Tesla in MRI field strength?",
+   "options": [
+    "1000 Gauss",
+    "100 Gauss",
+    "10000 Gauss",
+    "50000 Gauss"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#cc526b",
+   "kind": "mcq",
+   "stem": "Roughly how many times stronger is an MRI magnet than Earth's magnetic field?",
+   "options": [
+    "About 100 times",
+    "About 1000 times",
+    "About 100000 times",
+    "About 10000 times"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#cc526b",
+   "kind": "statement",
+   "stem": "What is the approximate strength of Earth's magnetic field in Gauss?",
+   "answer": "0.3-0.7 Gauss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#f94ed9",
+   "kind": "statement",
+   "stem": "In MRI, which materials does the magnetic field affect?",
+   "answer": "Any ferromagnetic material",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#606b76",
+   "kind": "statement",
+   "stem": "What does the 0.5 mT (5 Gauss) line mark in an MRI room?",
+   "answer": "Below 0.5 mT, where the effect is considered minimal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#96fdcc",
+   "kind": "statement",
+   "stem": "How close to the 0.5 mT line may magnetic material, such as syringe pumps, be kept?",
+   "answer": "Not closer than the 0.5 mT line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#cbd318",
+   "kind": "mcq",
+   "stem": "Which labels must anaesthetic equipment carry before use in MRI?",
+   "options": [
+    "Latex free or sterile",
+    "Single use or disposable",
+    "Radiolucent or X-ray proof",
+    "MR safe or MR compatible"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#de7a70",
+   "kind": "mcq",
+   "stem": "Which MRI equipment label means no risk to patient or staff, but the image may degrade?",
+   "options": [
+    "MR unsafe",
+    "MR conditional",
+    "MR compatible",
+    "MR safe"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#839736",
+   "kind": "statement",
+   "stem": "What does the label MR compatible mean for equipment used in MRI?",
+   "answer": "Safe, works normally and does not affect the image",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#be2770",
+   "kind": "statement",
+   "stem": "How should MRI monitoring cables be handled to reduce burn risk?",
+   "answer": "Padded or kept off the skin, never coiled",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#3ceb9b",
+   "kind": "statement",
+   "stem": "Which monitoring items are available as MR-compatible for paediatric MRI?",
+   "answer": "Fibreoptic oximeter cables, temperature probes and carbon fibre ECG electrodes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#4899e4",
+   "kind": "statement",
+   "stem": "What effect does long capnography tubing have during MRI?",
+   "answer": "It delays the reading",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#4fdc18",
+   "kind": "statement",
+   "stem": "Why is the ECG unreliable in an MRI scanner?",
+   "answer": "Field-induced currents in the heart and great vessels show as artefact",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#99203d",
+   "kind": "statement",
+   "stem": "Why might monitor alarms be missed during paediatric MRI?",
+   "answer": "Over scanner noise, especially with ear defenders",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#926430",
+   "kind": "statement",
+   "stem": "How do many anaesthetists monitor a child during MRI scanning?",
+   "answer": "Stay outside with a slave monitor, watching through a window",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#ecc924",
+   "kind": "mcq",
+   "stem": "How loud is MRI scanner noise, in decibels?",
+   "options": [
+    "45-50 decibels",
+    "60-65 decibels",
+    "85-90 decibels",
+    "120-130 decibels"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#ecc924",
+   "kind": "statement",
+   "stem": "When should ear defenders go on a child during paediatric MRI?",
+   "answer": "Once the child is asleep",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#7928a7",
+   "kind": "mcq",
+   "stem": "Which contrast agent is most often used for paediatric MRI?",
+   "options": [
+    "Iodinated contrast",
+    "Gadolinium DTPA",
+    "Barium sulphate",
+    "Microbubble ultrasound agent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#820643",
+   "kind": "statement",
+   "stem": "What happens to ferromagnetic objects in the MRI field?",
+   "answer": "They accelerate towards the strongest point of the field",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#6fc055",
+   "kind": "statement",
+   "stem": "What is an MRI quench?",
+   "answer": "Sudden large release of helium, deliberate or from a fault",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#6fc055",
+   "kind": "statement",
+   "stem": "Why is an MRI quench dangerous in the scanner room?",
+   "answer": "Rising helium makes the room hypoxic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#5dddd4",
+   "kind": "statement",
+   "stem": "What emergencies must the MRI unit be able to manage itself?",
+   "answer": "CPR, anaphylaxis and anaesthetic complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#2e15d7",
+   "kind": "statement",
+   "stem": "What should be watched for in children having paediatric MRI?",
+   "answer": "Conditions or syndromes with specific anaesthetic concerns",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#542482",
+   "kind": "statement",
+   "stem": "Apart from noise, what else about MRI can be stimulating for a child?",
+   "answer": "The enclosed space",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#72c1cf",
+   "kind": "mcq",
+   "stem": "How are most older, cooperative children scanned in paediatric MRI?",
+   "options": [
+    "Under general anaesthesia with a tube",
+    "Heavily sedated with a propofol infusion",
+    "Under spinal anaesthesia",
+    "Awake, with music and a parent present"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#fd648d",
+   "kind": "statement",
+   "stem": "Who needs anaesthesia or sedation for paediatric MRI?",
+   "answer": "Children too young to lie still, or whose condition limits cooperation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#865080",
+   "kind": "statement",
+   "stem": "What factors guide choosing an ETT or LMA for paediatric MRI?",
+   "answer": "Age, reflux risk, respiratory function and ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#3c0e39",
+   "kind": "mcq",
+   "stem": "When is intermittent positive pressure ventilation needed for a child having MRI?",
+   "options": [
+    "For all children under anaesthesia",
+    "Only for children over ten years",
+    "Only when a scan exceeds one hour",
+    "Neonates, poor respiratory function or raised ICP"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia-for-imaging#e60fce",
+   "kind": "statement",
+   "stem": "For paediatric MRI maintenance, why might a propofol infusion be chosen?",
+   "answer": "Easy to titrate, quick offset, may reduce nausea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

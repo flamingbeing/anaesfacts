@@ -1,0 +1,1267 @@
+{
+ "topic": "procedures/electroconvulsive-therapy",
+ "questions": [
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e20916",
+   "kind": "mcq",
+   "stem": "Who should agree the propofol and suxamethonium doses and timing for ECT?",
+   "options": [
+    "The ward nurse in charge",
+    "Psychiatry",
+    "The patient's general practitioner",
+    "The theatre porter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#5e8fe1",
+   "kind": "mcq",
+   "stem": "In ECT, what is the order of propofol and suxamethonium?",
+   "options": [
+    "Suxamethonium first, then propofol",
+    "Give propofol, wait a little, then suxamethonium",
+    "Both together in one syringe",
+    "Wait for eyes to close before suxamethonium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#91adbe",
+   "kind": "mcq",
+   "stem": "What should be done while suxamethonium takes effect during ECT?",
+   "options": [
+    "Bag vigorously to ventilate",
+    "Stop ventilation until fasciculation",
+    "Insert the bite block immediately",
+    "Bag gently"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7adac9",
+   "kind": "mcq",
+   "stem": "When should the bite block be inserted during ECT?",
+   "options": [
+    "Before giving propofol",
+    "Before preoxygenation",
+    "After fasciculation",
+    "After the seizure has started"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7d8150",
+   "kind": "statement",
+   "stem": "In the ECT workflow, to whom does the anaesthetist hand over for the stimulus?",
+   "answer": "Psychiatry",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#59317f",
+   "kind": "statement",
+   "stem": "During ECT, what should staff do about touching the patient?",
+   "answer": "Do not touch the patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c0a76b",
+   "kind": "mcq",
+   "stem": "What is done with the bite block after an ECT seizure?",
+   "options": [
+    "Leave it in until the patient wakes",
+    "Remove it and stop bagging",
+    "Remove the bite block and bag until breathing returns",
+    "Leave it in and stop bagging"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#ccaab2",
+   "kind": "mcq",
+   "stem": "What is the main indication for ECT?",
+   "options": [
+    "Mild seasonal low mood",
+    "Severe or drug-resistant depression",
+    "Chronic low back pain",
+    "Simple phobia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#dc93c4",
+   "kind": "mcq",
+   "stem": "What kind of seizure does ECT produce?",
+   "options": [
+    "Focal seizure with aura",
+    "Absence seizure",
+    "Generalised tonic-clonic seizure",
+    "Myoclonic jerks only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#16be84",
+   "kind": "mcq",
+   "stem": "In what year was ECT first described?",
+   "options": [
+    "1952",
+    "1915",
+    "1967",
+    "1938"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#16be84",
+   "kind": "statement",
+   "stem": "What is the current state of knowledge about how ECT works?",
+   "answer": "Mechanism still unknown",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#bb205e",
+   "kind": "statement",
+   "stem": "How is current delivered in ECT?",
+   "answer": "Passed through the scalp via two electrodes, bilateral or unilateral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#32ae0c",
+   "kind": "statement",
+   "stem": "What is the aim of the electrical current in ECT?",
+   "answer": "A generalised seizure with typical EEG changes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#731d73",
+   "kind": "statement",
+   "stem": "How well established is the ideal seizure length in ECT?",
+   "answer": "Uncertain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c3546a",
+   "kind": "mcq",
+   "stem": "Which seizure durations may reduce ECT efficacy?",
+   "options": [
+    "Under 3 s or over 60 s",
+    "Under 20 s or over 180 s",
+    "Under 10 s or over 120 s",
+    "Under 45 s or over 90 s"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c3546a",
+   "kind": "blank",
+   "stem": "In ECT, seizures under 10 s or over ____ may reduce efficacy.",
+   "answer": "120 s",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#0ec1b3",
+   "kind": "mcq",
+   "stem": "How often is ECT usually given?",
+   "options": [
+    "Once a month",
+    "Daily for two weeks",
+    "2 - 3 times a week",
+    "Once a week for a year"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#0ec1b3",
+   "kind": "statement",
+   "stem": "How many treatments usually make up an ECT course?",
+   "answer": "Six to twelve treatments",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#d9bdc2",
+   "kind": "statement",
+   "stem": "How is maintenance ECT generally regarded?",
+   "answer": "Not usually recommended",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#0acb4c",
+   "kind": "mcq",
+   "stem": "What happens to intracranial pressure during ECT?",
+   "options": [
+    "Increases",
+    "Decreases",
+    "Stays unchanged",
+    "Falls then rises"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c68484",
+   "kind": "mcq",
+   "stem": "Which side effect of ECT is the most common?",
+   "options": [
+    "Hypotension lasting days",
+    "Renal failure",
+    "Cognitive effects",
+    "Pneumothorax"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#0f4713",
+   "kind": "mcq",
+   "stem": "What share of patients have short-term memory problems for several weeks after ECT?",
+   "options": [
+    "Fewer than 5%",
+    "About 10%",
+    "More than 50%",
+    "Around 25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#0f4713",
+   "kind": "statement",
+   "stem": "For how long do short-term memory problems usually last after ECT?",
+   "answer": "Several weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#141a7f",
+   "kind": "mcq",
+   "stem": "Within what time do ECT memory problems usually resolve?",
+   "options": [
+    "Within 5 years",
+    "Within 3 days",
+    "Within 6 months",
+    "Never resolve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#67e614",
+   "kind": "statement",
+   "stem": "In epilepsy, what do anticonvulsants do to the ECT seizure threshold?",
+   "answer": "Raise the seizure threshold",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#9cd521",
+   "kind": "mcq",
+   "stem": "ECT has been used to treat which life-threatening condition?",
+   "options": [
+    "Acute asthma",
+    "Status epilepticus",
+    "Diabetic ketoacidosis",
+    "Anaphylaxis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#9cd521",
+   "kind": "mcq",
+   "stem": "How does the seizure threshold change over an ECT course?",
+   "options": [
+    "Falls",
+    "Stays the same",
+    "Rises",
+    "Doubles at once"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#719c5b",
+   "kind": "statement",
+   "stem": "What drives the cardiovascular response to ECT?",
+   "answer": "Autonomic activation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#b140b6",
+   "kind": "mcq",
+   "stem": "How long does the initial parasympathetic discharge after ECT last?",
+   "options": [
+    "5–8 s",
+    "10–15 s",
+    "20–30 s",
+    "45–60 s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#b140b6",
+   "kind": "mcq",
+   "stem": "Which dangerous rhythm can the early parasympathetic discharge of ECT cause?",
+   "options": [
+    "Sinus tachycardia",
+    "Atrial fibrillation",
+    "Asystole",
+    "Ventricular tachycardia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#9daa62",
+   "kind": "mcq",
+   "stem": "When does the sympathetic surge after ECT peak?",
+   "options": [
+    "3-5 minutes",
+    "30-60 seconds",
+    "10-15 minutes",
+    "Within 10 seconds"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#03f774",
+   "kind": "mcq",
+   "stem": "By how much may systolic blood pressure rise after ECT?",
+   "options": [
+    "10-15%",
+    "30-40%",
+    "60-70%",
+    "100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#03f774",
+   "kind": "mcq",
+   "stem": "By how much may heart rate rise after ECT?",
+   "options": [
+    "5%",
+    "50%",
+    "20%",
+    "2%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#383e68",
+   "kind": "mcq",
+   "stem": "What happens to myocardial oxygen demand during ECT?",
+   "options": [
+    "Falls",
+    "Unchanged",
+    "Halves",
+    "Rises"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#5a4ce0",
+   "kind": "statement",
+   "stem": "Which cardiac risks does ECT carry, especially with existing heart disease?",
+   "answer": "Arrhythmia, ischaemia and infarction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#9fdb97",
+   "kind": "mcq",
+   "stem": "How long can left ventricular function stay impaired after ECT?",
+   "options": [
+    "Up to 1 h",
+    "Up to 24 h",
+    "Up to 6 h",
+    "Up to 3 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#9fdb97",
+   "kind": "statement",
+   "stem": "Which left ventricular functions can be impaired after ECT?",
+   "answer": "Systolic and diastolic function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#067bc5",
+   "kind": "statement",
+   "stem": "What happens to intraocular pressure during ECT?",
+   "answer": "Increases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c8046c",
+   "kind": "statement",
+   "stem": "What happens to intragastric pressure during ECT?",
+   "answer": "Increases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c8046c",
+   "kind": "statement",
+   "stem": "What symptoms can ECT cause from raised intragastric pressure?",
+   "answer": "Nausea and anorexia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#974401",
+   "kind": "statement",
+   "stem": "What muscle complaint can follow ECT?",
+   "answer": "Myalgia from the seizure or suxamethonium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c4e819",
+   "kind": "statement",
+   "stem": "Fractures and dislocations were common with which type of ECT?",
+   "answer": "Unmodified ECT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c4e819",
+   "kind": "statement",
+   "stem": "What is the WHO moving to ban in relation to ECT?",
+   "answer": "ECT without anaesthesia and paralysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#b2fc71",
+   "kind": "statement",
+   "stem": "What may some ECT patients develop?",
+   "answer": "Intense fear of treatment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#3187c8",
+   "kind": "statement",
+   "stem": "How is the risk of ECT described despite frequent use in elderly patients with comorbidity?",
+   "answer": "Low risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7a411e",
+   "kind": "mcq",
+   "stem": "What is the approximate mortality of ECT per patient?",
+   "options": [
+    "About 1 per 1 000 patients",
+    "About 1 per 10 000 patients",
+    "About 1 per 100 patients",
+    "About 1 per 500 patients"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7a411e",
+   "kind": "blank",
+   "stem": "For ECT, mortality is about 1 per ____ treatments.",
+   "answer": "80 000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7a411e",
+   "kind": "statement",
+   "stem": "What is ECT mortality comparable to?",
+   "answer": "Anaesthesia for minor surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#bcd1ee",
+   "kind": "statement",
+   "stem": "Which rare serious complications can ECT cause?",
+   "answer": "Cardiovascular compromise, postictal agitation, prolonged seizures or status epilepticus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#4f0238",
+   "kind": "statement",
+   "stem": "What is the main medical complication of ECT?",
+   "answer": "Cardiac problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#4f0238",
+   "kind": "statement",
+   "stem": "Which cardiac problem is by far the most common with ECT?",
+   "answer": "Arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#a042cb",
+   "kind": "mcq",
+   "stem": "Which of these is a relative contraindication to ECT?",
+   "options": [
+    "Well-controlled asthma",
+    "Previous appendicectomy",
+    "Mild migraine",
+    "Stroke within 3 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#1f59f1",
+   "kind": "mcq",
+   "stem": "Which cardiac condition is a relative contraindication to ECT?",
+   "options": [
+    "Well-controlled type 2 diabetes",
+    "Controlled hypertension",
+    "Myocardial infarction within 3 months",
+    "Treated sleep apnoea"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#d72289",
+   "kind": "mcq",
+   "stem": "Which eye conditions are relative contraindications to ECT?",
+   "options": [
+    "Cataract or dry eye",
+    "Conjunctivitis or ptosis",
+    "Short-sightedness or cataract",
+    "Retinal detachment or glaucoma"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#d07227",
+   "kind": "statement",
+   "stem": "Which injuries are relative contraindications to ECT?",
+   "answer": "Unstable major fracture or cervical spine injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#611144",
+   "kind": "statement",
+   "stem": "What should be done before ECT for a patient with a cochlear or other brain implant?",
+   "answer": "Discuss with neurology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e9935a",
+   "kind": "statement",
+   "stem": "Which functions of a cardiac implantable device must be turned off before ECT?",
+   "answer": "Defibrillation and anti-tachycardia functions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e9935a",
+   "kind": "statement",
+   "stem": "When should a cardiac device's defibrillation and anti-tachycardia functions be turned back on after ECT?",
+   "answer": "Straight after ECT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#b99cda",
+   "kind": "statement",
+   "stem": "What is the status of a cerebral aneurysm for ECT?",
+   "answer": "Contraindication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#30f1f8",
+   "kind": "statement",
+   "stem": "Where is ECT often given, needing resuscitation equipment at hand?",
+   "answer": "Remote sites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#30f1f8",
+   "kind": "statement",
+   "stem": "At remote sites, what must be at hand for ECT?",
+   "answer": "Resuscitation equipment and drugs, trained help and recovery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#bfd2bc",
+   "kind": "statement",
+   "stem": "Which age group do ECT patients often belong to?",
+   "answer": "Often young",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#a82676",
+   "kind": "statement",
+   "stem": "Which effects of ECT are the most dangerous?",
+   "answer": "Cardiovascular and CNS responses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e3fba3",
+   "kind": "statement",
+   "stem": "What is the anaesthetic aim for unconsciousness and muscle relaxation in ECT?",
+   "answer": "Rapid onset and offset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#171e7b",
+   "kind": "statement",
+   "stem": "Why does anaesthetic choice affect ECT efficacy?",
+   "answer": "Many agents are anticonvulsant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#171e7b",
+   "kind": "statement",
+   "stem": "In ECT anaesthesia, what must be balanced against seizure quality?",
+   "answer": "Adequate depth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#88d145",
+   "kind": "mcq",
+   "stem": "Which of these should be looked for in pre-ECT assessment?",
+   "options": [
+    "Mild seasonal allergy",
+    "Uncontrolled hypertension",
+    "Well-controlled asthma",
+    "Old appendix scar"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#88d145",
+   "kind": "statement",
+   "stem": "Which dental problem is checked for in pre-ECT assessment?",
+   "answer": "Poor teeth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#88d145",
+   "kind": "statement",
+   "stem": "Which pre-ECT finding needs fluids before treatment?",
+   "answer": "Dehydration needing fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#b6903e",
+   "kind": "statement",
+   "stem": "Why can history be unreliable in some ECT patients?",
+   "answer": "Severe depression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#f8b1a2",
+   "kind": "mcq",
+   "stem": "At what ASA grade should ECT at a remote site be discussed first?",
+   "options": [
+    "ASA I only",
+    "ASA II only",
+    "ASA III or higher",
+    "ASA I or II"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#b60b68",
+   "kind": "statement",
+   "stem": "What must be weighed when deciding on ECT?",
+   "answer": "Risks of untreated depression against ECT and anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#aa9d0a",
+   "kind": "statement",
+   "stem": "Before ECT, which class of premedication should be avoided?",
+   "answer": "Sedative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#aa9d0a",
+   "kind": "statement",
+   "stem": "What does sedative premedication do to emergence and the seizure?",
+   "answer": "Slows emergence and hinders the seizure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e14209",
+   "kind": "statement",
+   "stem": "How should patients with suicide risk be managed around ECT?",
+   "answer": "Escort them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#63377f",
+   "kind": "statement",
+   "stem": "What should be assessed first before consent to ECT?",
+   "answer": "Capacity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#774291",
+   "kind": "statement",
+   "stem": "For informal ECT patients lacking capacity but not resisting, what legislation may apply?",
+   "answer": "Incapacity legislation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#4cc03f",
+   "kind": "statement",
+   "stem": "When a detained patient resists ECT, what must a second opinion confirm?",
+   "answer": "ECT is only to save life or prevent serious deterioration or suffering",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#bd6c67",
+   "kind": "statement",
+   "stem": "What may emergency ECT proceed without?",
+   "answer": "Consent or formal second opinion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#55ee38",
+   "kind": "statement",
+   "stem": "When is an advance directive refusing ECT normally overridden?",
+   "answer": "Only in an emergency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#73c97e",
+   "kind": "statement",
+   "stem": "How is the induction agent dose for ECT first chosen?",
+   "answer": "By weight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7fc451",
+   "kind": "mcq",
+   "stem": "What is advised for the induction agent across an ECT course?",
+   "options": [
+    "Use the same agent throughout",
+    "Change agent after each session",
+    "Alternate two agents each session",
+    "Choose a new agent at each session"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#f6af6f",
+   "kind": "statement",
+   "stem": "What does the systematic review say about choosing an ECT induction agent?",
+   "answer": "All current agents are suitable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#85fd4d",
+   "kind": "mcq",
+   "stem": "What is the usual ECT dose range of methohexital?",
+   "options": [
+    "2–5 mg/kg",
+    "0.15–0.3 mg/kg",
+    "0.5–1.5 mg/kg",
+    "0.75–2.5 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#85fd4d",
+   "kind": "statement",
+   "stem": "Besides alone, what can methohexital be given with for ECT?",
+   "answer": "An opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#2b5e2d",
+   "kind": "mcq",
+   "stem": "What is the usual ECT dose range of propofol?",
+   "options": [
+    "0.5–1.5 mg/kg",
+    "0.75–2.5 mg/kg",
+    "2–5 mg/kg",
+    "0.15–0.3 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7c49d9",
+   "kind": "mcq",
+   "stem": "One ECT induction agent shortens seizures more than which agent?",
+   "options": [
+    "Etomidate",
+    "Thiopental",
+    "Propofol",
+    "Ketamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7c49d9",
+   "kind": "mcq",
+   "stem": "In that ECT induction agent comparison, what is the mean seizure-duration difference?",
+   "options": [
+    "3 s",
+    "9 s",
+    "29 s",
+    "90 s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#264021",
+   "kind": "mcq",
+   "stem": "What is the usual ECT dose range of thiopental?",
+   "options": [
+    "2–5 mg/kg",
+    "0.5–1.5 mg/kg",
+    "0.75–2.5 mg/kg",
+    "0.15–0.3 mg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#1b9326",
+   "kind": "mcq",
+   "stem": "What is the usual ECT dose range of etomidate?",
+   "options": [
+    "0.5–1.5 mg/kg",
+    "0.15–0.3 mg/kg",
+    "2–5 mg/kg",
+    "0.75–2.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#adbd30",
+   "kind": "mcq",
+   "stem": "Which ketamine dose range is used to induce anaesthesia for ECT?",
+   "options": [
+    "0.1–0.3 mg/kg",
+    "0.7–2.8 mg/kg",
+    "5–10 mg/kg",
+    "20–40 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#6f7687",
+   "kind": "mcq",
+   "stem": "What inspired sevoflurane concentration is used to induce ECT anaesthesia?",
+   "options": [
+    "2–3%",
+    "4–5%",
+    "6–8%",
+    "10–12%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#6f7687",
+   "kind": "mcq",
+   "stem": "After sevoflurane induction for ECT, what level is then given?",
+   "options": [
+    "0.5–0.7 MAC",
+    "1–2 MAC",
+    "3–4 MAC",
+    "5–6 MAC"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#55d797",
+   "kind": "statement",
+   "stem": "Why can an opioid lengthen the seizure during ECT?",
+   "answer": "It spares induction agent and blunts the haemodynamic response.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e17bd4",
+   "kind": "mcq",
+   "stem": "What remifentanil dose is given slowly for ECT induction?",
+   "options": [
+    "0.25 mcg/kg",
+    "1 mcg/kg",
+    "2 mcg/kg",
+    "10 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e17bd4",
+   "kind": "mcq",
+   "stem": "Over what time is remifentanil given for ECT induction?",
+   "options": [
+    "5–10 s",
+    "30–60 s",
+    "2–3 min",
+    "5–10 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#8330fc",
+   "kind": "mcq",
+   "stem": "What alfentanil dose is used for ECT induction?",
+   "options": [
+    "1–2.5 mcg/kg",
+    "10–25 mcg/kg",
+    "100–250 mcg/kg",
+    "50–75 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#8f4fea",
+   "kind": "statement",
+   "stem": "Why are neuromuscular blocking drugs given during ECT?",
+   "answer": "To reduce convulsive movement and the risk of serious injury.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#3a2c24",
+   "kind": "mcq",
+   "stem": "Which is the better way to monitor an ECT seizure when paralysis is only partial?",
+   "options": [
+    "Pulse oximetry",
+    "Arterial waveform",
+    "EEG",
+    "Capnography"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e4982b",
+   "kind": "mcq",
+   "stem": "What suxamethonium dose is most commonly used for ECT?",
+   "options": [
+    "0.5 mg/kg",
+    "0.1 mg/kg",
+    "2 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e4982b",
+   "kind": "statement",
+   "stem": "What property of suxamethonium suits its use in ECT?",
+   "answer": "Fast on and off.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#3afd31",
+   "kind": "mcq",
+   "stem": "What is the maximum suxamethonium dose for ECT in severe cachexia, osteoporosis or skeletal injury?",
+   "options": [
+    "5 mg/kg",
+    "3 mg/kg",
+    "1.5 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#39d3a9",
+   "kind": "mcq",
+   "stem": "What minimum mivacurium dose is advised to modify the ECT seizure?",
+   "options": [
+    "0.02 mg/kg",
+    "0.04 mg/kg",
+    "0.08 mg/kg",
+    "0.15 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#5a1b7e",
+   "kind": "statement",
+   "stem": "Why can rocuronium and vecuronium now be used fully in ECT, not only for precurarisation?",
+   "answer": "Sugammadex now exists.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#f2d3e5",
+   "kind": "statement",
+   "stem": "What is the main reason for giving adjunct drugs in ECT anaesthesia?",
+   "answer": "To control cardiovascular responses in high-risk patients.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#cd24c1",
+   "kind": "mcq",
+   "stem": "Which drugs are used against the parasympathetic effects of ECT?",
+   "options": [
+    "Atropine or glycopyrrolate",
+    "Labetalol or esmolol",
+    "Dexmedetomidine or GTN",
+    "Neostigmine or sugammadex"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#f3c38e",
+   "kind": "mcq",
+   "stem": "Which beta-blocker is given beforehand to blunt the sympathetic response to ECT?",
+   "options": [
+    "Atropine",
+    "Glycopyrrolate",
+    "Atenolol",
+    "Remifentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#32ca24",
+   "kind": "mcq",
+   "stem": "In ECT with high ischaemic risk, which drug should be considered to blunt the sympathetic surge?",
+   "options": [
+    "Atropine",
+    "Suxamethonium",
+    "GTN",
+    "Ketamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#2f804a",
+   "kind": "mcq",
+   "stem": "When is tracheal intubation used in ECT anaesthesia?",
+   "options": [
+    "Only after a failed face mask trial",
+    "Routinely, for every session",
+    "Only when the seizure is prolonged",
+    "Reflux risk, such as in pregnancy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#7e827c",
+   "kind": "statement",
+   "stem": "How is breathing supported immediately after induction for ECT?",
+   "answer": "Gentle face mask assistance.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#0dd5d2",
+   "kind": "mcq",
+   "stem": "What does a bite block protect during ECT?",
+   "options": [
+    "Eyes and ears",
+    "Teeth, lips and tongue",
+    "Nose and sinuses",
+    "Spine and joints"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#9247a6",
+   "kind": "statement",
+   "stem": "How is the patient ventilated during and after the ECT seizure?",
+   "answer": "Gentle hand ventilation until breathing returns.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#c0bf84",
+   "kind": "statement",
+   "stem": "Why might early ECT sessions need extra induction boluses?",
+   "answer": "The stimulus may be titrated up.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#0fd5b5",
+   "kind": "statement",
+   "stem": "How long is oxygen continued after ECT?",
+   "answer": "Until saturation is adequate on air.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#df4915",
+   "kind": "statement",
+   "stem": "How do most patients get discharged after ECT?",
+   "answer": "They recover fast and go home by standard criteria.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#dee1c6",
+   "kind": "statement",
+   "stem": "Name the common problems that can follow ECT.",
+   "answer": "Confusion, agitation, violent behaviour, amnesia, headache, myalgia, nausea and vomiting.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#5d8872",
+   "kind": "mcq",
+   "stem": "Which drug is given in small doses for emergence agitation after ECT?",
+   "options": [
+    "Naloxone",
+    "Flumazenil",
+    "Midazolam",
+    "Neostigmine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/electroconvulsive-therapy#e9820f",
+   "kind": "mcq",
+   "stem": "What is the status of cardiovascular complications after ECT?",
+   "options": [
+    "They never occur after ECT",
+    "They can still occur",
+    "They occur only in children",
+    "They occur only with etomidate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

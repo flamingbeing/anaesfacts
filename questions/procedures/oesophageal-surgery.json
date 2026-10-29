@@ -1,0 +1,131 @@
+{
+ "topic": "procedures/oesophageal-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/oesophageal-surgery#f28021",
+   "kind": "statement",
+   "stem": "How is surgery for hiatal hernia, achalasia or reflux usually performed?",
+   "answer": "Laparoscopically",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#7b2aa5",
+   "kind": "statement",
+   "stem": "Which induction method is used for achalasia or reflux surgery, treating the patient as a full stomach?",
+   "answer": "RSI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#09431b",
+   "kind": "blank",
+   "stem": "In severe reflux, consider recurrent aspiration ____ and reduced pulmonary reserve.",
+   "answer": "pneumonia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#3f957e",
+   "kind": "statement",
+   "stem": "What scope is used to perform POEM for achalasia?",
+   "answer": "An OGD scope fitted with a mucosal cap or hood",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#cb396a",
+   "kind": "mcq",
+   "stem": "In POEM for achalasia, how far above the GEJ is the mucosal bleb raised?",
+   "options": [
+    "2–3 cm",
+    "20–25 cm",
+    "10–12 cm",
+    "30–35 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#a123e2",
+   "kind": "mcq",
+   "stem": "Which instrument makes the longitudinal mucosal incision in POEM?",
+   "options": [
+    "Endoscopic snare loop",
+    "Electrocautery knife",
+    "Balloon dilator",
+    "Hot biopsy forceps"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#eb210b",
+   "kind": "mcq",
+   "stem": "In POEM for achalasia, how far is the submucosal tunnel dissected past the GEJ?",
+   "options": [
+    "1 cm",
+    "3 cm",
+    "6 cm",
+    "10 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#1923c8",
+   "kind": "mcq",
+   "stem": "In POEM for achalasia, which muscle fibres are divided during the myotomy?",
+   "options": [
+    "Longitudinal muscle fibres",
+    "Circular muscle fibres",
+    "Mucosal fibres only",
+    "Submucosal blood vessels"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#766eca",
+   "kind": "mcq",
+   "stem": "How is the mucosal entry closed in POEM for achalasia?",
+   "options": [
+    "Endoscopic clips",
+    "Absorbable sutures",
+    "Fibrin glue",
+    "Stapling device"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#dad591",
+   "kind": "blank",
+   "stem": "During POEM, to clear insufflated CO2 you should ____.",
+   "answer": "Hyperventilate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#dad591",
+   "kind": "statement",
+   "stem": "During POEM, what should be done if ETCO2 keeps rising?",
+   "answer": "Pause the procedure for several minutes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-surgery#9f4442",
+   "kind": "statement",
+   "stem": "What does a sudden rise in ETCO2 or peak airway pressure during POEM suggest?",
+   "answer": "Capnothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

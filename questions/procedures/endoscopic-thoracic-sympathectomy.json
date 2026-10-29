@@ -1,0 +1,231 @@
+{
+ "topic": "procedures/endoscopic-thoracic-sympathectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#831446",
+   "kind": "statement",
+   "stem": "What is the main indication for endoscopic thoracic sympathectomy?",
+   "answer": "Palmar hyperhidrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#d22d5e",
+   "kind": "statement",
+   "stem": "Besides palmar hyperhidrosis, which two conditions can endoscopic thoracic sympathectomy treat?",
+   "answer": "Angina and long QT syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#e04393",
+   "kind": "mcq",
+   "stem": "Which ASA physical status grades are typical for patients having endoscopic thoracic sympathectomy?",
+   "options": [
+    "ASA 3/4",
+    "ASA 1/2",
+    "ASA 4/5",
+    "ASA 3/5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#27d0a0",
+   "kind": "mcq",
+   "stem": "In endoscopic thoracic sympathectomy anatomy, between which spinal levels do the paravertebral sympathetic chains arise?",
+   "options": [
+    "T4-T12",
+    "T1-L2",
+    "C8-T2",
+    "L2-S2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#94a317",
+   "kind": "mcq",
+   "stem": "In the sympathetic chain used in thoracic sympathectomy, which fibres are long and run to the effector sites?",
+   "options": [
+    "Preganglionic fibres",
+    "Afferent visceral fibres",
+    "Postganglionic fibres",
+    "Parasympathetic efferent fibres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#5d7810",
+   "kind": "blank",
+   "stem": "In the neck, the lower cervical and upper thoracic ganglia usually fuse to form the ____ ganglion.",
+   "answer": "stellate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#580e55",
+   "kind": "mcq",
+   "stem": "In endoscopic thoracic sympathectomy, which thoracic segments supply the head and neck?",
+   "options": [
+    "T6-8",
+    "T1-2",
+    "T9-11",
+    "L1-L3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#cbb640",
+   "kind": "mcq",
+   "stem": "In endoscopic thoracic sympathectomy, which thoracic segments supply the upper limb?",
+   "options": [
+    "T9-11",
+    "T2-5",
+    "T6-8",
+    "L1-L3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#42c760",
+   "kind": "mcq",
+   "stem": "In endoscopic thoracic sympathectomy, which thoracic segments supply the thoracic viscera?",
+   "options": [
+    "T5-8",
+    "T9-11",
+    "T1-4",
+    "L1-L3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#a9f658",
+   "kind": "statement",
+   "stem": "Where does the sympathetic chain run relative to the pleura and ribs in thoracic sympathectomy?",
+   "answer": "Beneath the parietal pleura, over the necks of the ribs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#52b78e",
+   "kind": "statement",
+   "stem": "How can the sympathetic chain be interrupted in endoscopic thoracic sympathectomy, and which method is reversible?",
+   "answer": "Resection, cutting or clipping; clipping is reversible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#9d4098",
+   "kind": "mcq",
+   "stem": "Which thoracic levels are divided for palmar hyperhidrosis in endoscopic thoracic sympathectomy?",
+   "options": [
+    "T4-5",
+    "T6-7",
+    "T2-3",
+    "T9-10"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#a82204",
+   "kind": "mcq",
+   "stem": "Which thoracic levels are divided for axillary hyperhidrosis in endoscopic thoracic sympathectomy?",
+   "options": [
+    "T5-6",
+    "T2-4",
+    "T7-8",
+    "T9-10"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#2ec7fc",
+   "kind": "mcq",
+   "stem": "Which thoracic levels are divided for angina or long QT syndrome in endoscopic thoracic sympathectomy?",
+   "options": [
+    "T6-7",
+    "T2-4/5",
+    "T8-9",
+    "T10-11"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#06199a",
+   "kind": "statement",
+   "stem": "What must be checked in the preoperative assessment for endoscopic thoracic sympathectomy?",
+   "answer": "Whether it is for angina or long QT syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#88f4f5",
+   "kind": "statement",
+   "stem": "How is the sympathetic chain seen during endoscopic thoracic sympathectomy?",
+   "answer": "Small volumes of CO2 insufflated into the chest during apnoea or with lung down",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#906f5a",
+   "kind": "statement",
+   "stem": "Is an arterial line required for endoscopic thoracic sympathectomy?",
+   "answer": "Optional",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#9ade7c",
+   "kind": "mcq",
+   "stem": "In endoscopic thoracic sympathectomy, what palm skin temperature change confirms a successful sympathectomy?",
+   "options": [
+    "A sudden fall, usually >2deg C",
+    "A gradual rise, usually >5deg C",
+    "A sudden rise, usually >10deg C",
+    "A sudden rise, usually >2deg C"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#d54044",
+   "kind": "mcq",
+   "stem": "Which patient positions are used for endoscopic thoracic sympathectomy?",
+   "options": [
+    "Supine with arms out",
+    "Lateral, or beach chair",
+    "Prone jackknife",
+    "Lithotomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endoscopic-thoracic-sympathectomy#089122",
+   "kind": "statement",
+   "stem": "What should the team be ready for during endoscopic thoracic sympathectomy?",
+   "answer": "Open thoracotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

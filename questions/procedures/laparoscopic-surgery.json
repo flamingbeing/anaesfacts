@@ -1,0 +1,635 @@
+{
+ "topic": "procedures/laparoscopic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/laparoscopic-surgery#9f3680",
+   "kind": "blank",
+   "stem": "A common laparoscopic procedure is Heller's ____.",
+   "answer": "myotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#7b588e",
+   "kind": "statement",
+   "stem": "In laparoscopic surgery, what does gas in the peritoneal cavity do to the abdominal wall?",
+   "answer": "Lifts it off the viscera",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#4f3cfd",
+   "kind": "mcq",
+   "stem": "Which insufflation gas is the most common in laparoscopic surgery?",
+   "options": [
+    "N2O",
+    "O2",
+    "CO2",
+    "Air"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#a1e679",
+   "kind": "mcq",
+   "stem": "What insufflation flow rate is usual in laparoscopic surgery?",
+   "options": [
+    "1-2 l/min",
+    "10-12 l/min",
+    "4-6 l/min",
+    "20-25 l/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#a1e679",
+   "kind": "mcq",
+   "stem": "What insufflation pressure is usual in laparoscopic surgery?",
+   "options": [
+    "4-6 mmHg",
+    "10-15 mmHg",
+    "20-25 mmHg",
+    "30-35 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#0e7c31",
+   "kind": "statement",
+   "stem": "In long laparoscopic cases with rising ETCO2, what temporary measure may be needed?",
+   "answer": "A 'CO2 break'",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#b46270",
+   "kind": "statement",
+   "stem": "What three factors cause rising ETCO2 during laparoscopic surgery?",
+   "answer": "Peritoneal absorption, ventilatory effects of pneumoperitoneum, positioning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#953a51",
+   "kind": "mcq",
+   "stem": "Which sign during laparoscopic surgery suggests CO2 absorption?",
+   "options": [
+    "Rapidly falling ETCO2",
+    "Gradually rising ETCO2 over hours",
+    "Rapidly rising ETCO2",
+    "Falling oxygen saturation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#edd613",
+   "kind": "mcq",
+   "stem": "In laparoscopic surgery, which age is a listed risk factor?",
+   "options": [
+    "Age under 18",
+    "Age under 30",
+    "Age over 65",
+    "Age under 50"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#edd613",
+   "kind": "statement",
+   "stem": "In laparoscopic surgery, what duration of surgery is a listed risk factor?",
+   "answer": "Surgery over 200 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#edd613",
+   "kind": "statement",
+   "stem": "Which fundoplication is a listed risk factor in laparoscopic surgery?",
+   "answer": "Nissen fundoplication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#cbb407",
+   "kind": "statement",
+   "stem": "In laparoscopic surgery with rising ETCO2, what often fixes it quickly?",
+   "answer": "Letting the CO2 out",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#ff16df",
+   "kind": "mcq",
+   "stem": "Compared with air, how many times less harmful is CO2 in venous gas embolism?",
+   "options": [
+    "2 times",
+    "6.5 times",
+    "10 times",
+    "20 times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#ff16df",
+   "kind": "statement",
+   "stem": "Why is CO2 less harmful than air in venous embolism?",
+   "answer": "It is more soluble",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#c1bbf7",
+   "kind": "statement",
+   "stem": "In venous gas embolism during laparoscopic surgery, what happens to ETCO2?",
+   "answer": "ETCO2 falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#c1bbf7",
+   "kind": "statement",
+   "stem": "Which sign of venous gas embolism reflects low oxygen levels?",
+   "answer": "Desaturation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#7ee434",
+   "kind": "statement",
+   "stem": "What causes hypothermia during laparoscopic surgery?",
+   "answer": "Dry gas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#0add2c",
+   "kind": "statement",
+   "stem": "Above what intra-abdominal pressure are cardiopulmonary effects of laparoscopy significant?",
+   "answer": "Above 12 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#2df55a",
+   "kind": "statement",
+   "stem": "During pneumoperitoneum, what happens to SVR and heart rate?",
+   "answer": "Both increase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#10599f",
+   "kind": "statement",
+   "stem": "Above what intra-abdominal pressure does venous return fall in laparoscopic surgery?",
+   "answer": "Above 20 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#d231ed",
+   "kind": "statement",
+   "stem": "Above what intra-abdominal pressure does ventricular compliance fall in laparoscopic surgery?",
+   "answer": "Above 30 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#820822",
+   "kind": "statement",
+   "stem": "What should be used instead of high CVP and PCWP to judge filling during laparoscopy?",
+   "answer": "Echo (2D)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#820822",
+   "kind": "statement",
+   "stem": "Why do CVP and PCWP rise during pneumoperitoneum?",
+   "answer": "IAP is transmitted to the vena cava and pulmonary vessels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#3ab02a",
+   "kind": "statement",
+   "stem": "Above what intra-abdominal pressure does mesenteric flow fall in laparoscopic surgery?",
+   "answer": "Above 20 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#3ab02a",
+   "kind": "statement",
+   "stem": "Above what intra-abdominal pressure does gut mucosal ischaemia occur in laparoscopic surgery?",
+   "answer": "Above 40 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#f2aa8a",
+   "kind": "statement",
+   "stem": "Above what intra-abdominal pressure does hepatic flow fall in laparoscopic surgery?",
+   "answer": "Above 20 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#4dc485",
+   "kind": "mcq",
+   "stem": "At what intra-abdominal pressure does oliguria occur in laparoscopic surgery?",
+   "options": [
+    "0-5 mmHg",
+    "5-10 mmHg",
+    "15-20 mmHg",
+    "10-12 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#4dc485",
+   "kind": "statement",
+   "stem": "Above what intra-abdominal pressure does anuria occur in laparoscopic surgery?",
+   "answer": "Above 30 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#bd84a7",
+   "kind": "statement",
+   "stem": "What formula gives the renal filtration gradient in laparoscopic surgery?",
+   "answer": "(MAP - IAP) - proximal tubular pressure (PTP)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#bd84a7",
+   "kind": "mcq",
+   "stem": "What normal proximal tubular pressure is quoted when IAP impairs renal filtration?",
+   "options": [
+    "5-8 mmHg",
+    "15-18 mmHg",
+    "25-30 mmHg",
+    "35-40 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#5d4d75",
+   "kind": "mcq",
+   "stem": "Which positioning is used for upper abdominal laparoscopic surgery?",
+   "options": [
+    "Trendelenburg (head down)",
+    "Left lateral tilt",
+    "Reverse Trendelenburg (head up)",
+    "Flat supine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#60e8b2",
+   "kind": "mcq",
+   "stem": "Which positioning is used for lower abdominal laparoscopic surgery?",
+   "options": [
+    "Trendelenburg (head down)",
+    "Reverse Trendelenburg (head up)",
+    "Left lateral tilt",
+    "Flat supine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#742dfa",
+   "kind": "mcq",
+   "stem": "Which tilt is given as an example for cholecystectomy in laparoscopic surgery?",
+   "options": [
+    "Right tilt",
+    "Flat supine",
+    "Left tilt",
+    "Trendelenburg (head down)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#fc1595",
+   "kind": "statement",
+   "stem": "In laparoscopic surgery, which injury may go unnoticed at the time it happens?",
+   "answer": "Organ injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#7505fb",
+   "kind": "mcq",
+   "stem": "What does massive bleeding from a major vessel injury in laparoscopic surgery usually require?",
+   "options": [
+    "Observation for 24 hours",
+    "Conversion to open surgery",
+    "Simple port site closure",
+    "Reduced insufflation pressure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#7e509b",
+   "kind": "statement",
+   "stem": "What risk does a small operative field pose in laparoscopic surgery?",
+   "answer": "Hidden bleeding may be missed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#b37cda",
+   "kind": "statement",
+   "stem": "Are the contraindications to laparoscopic surgery absolute or relative?",
+   "answer": "Relative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#b37cda",
+   "kind": "statement",
+   "stem": "In laparoscopic surgery, which three conditions raise the risk?",
+   "answer": "Cardiac disease, hypovolaemia, raised ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#4e5a70",
+   "kind": "statement",
+   "stem": "Why should analgesia for laparoscopic surgery also cover open surgery?",
+   "answer": "Every case may convert to open",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#591c04",
+   "kind": "mcq",
+   "stem": "Which premedication suits a laparoscopy patient at risk of regurgitation?",
+   "options": [
+    "Opioid premedication",
+    "H2 antagonist or PPI",
+    "Benzodiazepine sedation",
+    "Anticholinergic alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#591c04",
+   "kind": "statement",
+   "stem": "Which two conditions put a laparoscopy patient at risk of regurgitation?",
+   "answer": "Obesity and hiatus hernia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#8361a0",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is considered safest for laparoscopic surgery?",
+   "options": [
+    "Sedation with spontaneous ventilation",
+    "GA with ETT, relaxation and controlled ventilation",
+    "Spinal anaesthesia alone",
+    "Local anaesthetic infiltration only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#8361a0",
+   "kind": "statement",
+   "stem": "During GA with ETT in laparoscopic surgery, controlled ventilation helps control which blood gas value?",
+   "answer": "PaCO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#9515d3",
+   "kind": "statement",
+   "stem": "Why is nitrous oxide debated for laparoscopic surgery?",
+   "answer": "Possible bowel distension and more PONV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#a0cfdd",
+   "kind": "statement",
+   "stem": "In laparoscopic surgery, what ventilation aim balances CO2 absorption and raised IAP?",
+   "answer": "Normocapnia without excessive pressures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#a0cfdd",
+   "kind": "statement",
+   "stem": "What do CO2 absorption and raised IAP require from the ventilator in laparoscopic surgery?",
+   "answer": "Higher minute volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#dd302b",
+   "kind": "statement",
+   "stem": "In which laparoscopic cases may ETCO2 be hard to control?",
+   "answer": "Long cases, obesity and head down",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#dd302b",
+   "kind": "statement",
+   "stem": "If ETCO2 is hard to control in laparoscopic surgery, what occasional measures can help?",
+   "answer": "Occasional release of gas or accepting some hypercapnia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#27ddb5",
+   "kind": "mcq",
+   "stem": "In laparoscopic surgery with high peak pressures, what should be checked?",
+   "options": [
+    "Central venous pressure",
+    "Core temperature",
+    "ETT position",
+    "Urine output"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#27ddb5",
+   "kind": "mcq",
+   "stem": "What PEEP setting is suggested for high peak pressures in laparoscopic surgery?",
+   "options": [
+    "PEEP 2 cmH2O",
+    "PEEP 10 cmH2O",
+    "PEEP 15 cmH2O",
+    "PEEP 5 cmH2O"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#27ddb5",
+   "kind": "statement",
+   "stem": "In laparoscopic surgery with high peak pressures, which I:E ratio is suggested with pressure control?",
+   "answer": "I:E 1:1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#823aad",
+   "kind": "statement",
+   "stem": "Why should hypovolaemia be avoided in laparoscopic surgery?",
+   "answer": "It worsens the cardiovascular effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#ecfee3",
+   "kind": "statement",
+   "stem": "During laparoscopic surgery, which two parameters should be watched closely?",
+   "answer": "ETCO2 and airway pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#4dba3a",
+   "kind": "statement",
+   "stem": "What should the anaesthetist ask the surgeon to do at the end of laparoscopic surgery to reduce pain?",
+   "answer": "Expel as much gas as possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#6d900d",
+   "kind": "mcq",
+   "stem": "After laparoscopic surgery, what reduces analgesic needs?",
+   "options": [
+    "Oral diazepam before induction",
+    "Intravenous fentanyl infusion only",
+    "Local anaesthetic to port sites and intraperitoneally",
+    "Routine nasogastric tube insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#fb7c42",
+   "kind": "mcq",
+   "stem": "What volume of 0.25% bupivacaine goes on the gallbladder bed in laparoscopic cholecystectomy?",
+   "options": [
+    "5 to 10 ml",
+    "20 to 30 ml",
+    "40 to 50 ml",
+    "60 to 80 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#fb7c42",
+   "kind": "mcq",
+   "stem": "What concentration of bupivacaine goes on the gallbladder bed in laparoscopic cholecystectomy?",
+   "options": [
+    "0.1%",
+    "0.5%",
+    "0.25%",
+    "1%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#89096f",
+   "kind": "statement",
+   "stem": "After laparoscopic surgery, when is pain usually worst?",
+   "answer": "In the first few hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#89096f",
+   "kind": "mcq",
+   "stem": "What does significant pain beyond day 1 after laparoscopic surgery suggest?",
+   "options": [
+    "Normal healing pain",
+    "Brief shoulder tip pain",
+    "An intra-abdominal complication",
+    "Expected port site soreness"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#9b150b",
+   "kind": "statement",
+   "stem": "What causes shoulder tip pain after laparoscopic surgery?",
+   "answer": "Diaphragmatic irritation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#53a093",
+   "kind": "mcq",
+   "stem": "Which analgesics are given regularly after laparoscopic surgery?",
+   "options": [
+    "Regular morphine infusion",
+    "Opioids alone",
+    "Paracetamol and NSAIDs",
+    "Regular intramuscular pethidine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#53a093",
+   "kind": "statement",
+   "stem": "For bigger laparoscopic cases, what analgesic is given as needed?",
+   "answer": "Opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/laparoscopic-surgery#38ebe2",
+   "kind": "statement",
+   "stem": "After laparoscopic surgery, what should be done about PONV, which is common?",
+   "answer": "Give prophylaxis and prescribe antiemetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

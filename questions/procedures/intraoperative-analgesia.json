@@ -1,0 +1,43 @@
+{
+ "topic": "procedures/intraoperative-analgesia",
+ "questions": [
+  {
+   "fact_id": "procedures/intraoperative-analgesia#7655fe",
+   "kind": "statement",
+   "stem": "What effect does intraoperative analgesia have on the body's response to surgery?",
+   "answer": "Blunts the autonomic (sympathetic) response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-analgesia#e91bc1",
+   "kind": "statement",
+   "stem": "What is the pre-emptive effect of intraoperative analgesia?",
+   "answer": "Avoids sensitisation of pain receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-analgesia#412fd4",
+   "kind": "mcq",
+   "stem": "In intraoperative analgesia monitoring, which is a clinical sign of nociception?",
+   "options": [
+    "Bradycardia",
+    "Hypotension",
+    "Tachycardia",
+    "Hypothermia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-analgesia#412fd4",
+   "kind": "statement",
+   "stem": "Name the three clinical signs of nociception listed for intraoperative analgesia.",
+   "answer": "Tachycardia, hypertension, lacrimation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

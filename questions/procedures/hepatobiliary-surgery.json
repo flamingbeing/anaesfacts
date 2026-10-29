@@ -1,0 +1,139 @@
+{
+ "topic": "procedures/hepatobiliary-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#de5386",
+   "kind": "statement",
+   "stem": "In hepatobiliary liver surgery, which tumours are an indication?",
+   "answer": "Primary or metastatic tumours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#49c2a6",
+   "kind": "mcq",
+   "stem": "In liver surgery, how are major resections usually performed?",
+   "options": [
+    "By laparoscopy alone",
+    "By laparotomy",
+    "Through a thoracotomy",
+    "By percutaneous drainage"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#94a085",
+   "kind": "statement",
+   "stem": "Which liver tumours can bleed heavily during surgery?",
+   "answer": "Tumours involving vessels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#10c937",
+   "kind": "mcq",
+   "stem": "In liver surgery with unclear extent at the start, when should arterial and central lines be placed?",
+   "options": [
+    "After resection is complete",
+    "Only when bleeding starts",
+    "Before incision",
+    "At the end of the case"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#5c468d",
+   "kind": "mcq",
+   "stem": "What CVP range reduces blood loss in liver surgery by limiting hepatic vein distension?",
+   "options": [
+    "8–10 mmHg",
+    "2–5 mmHg",
+    "12–15 mmHg",
+    "15–20 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#5c468d",
+   "kind": "statement",
+   "stem": "Why does a low CVP reduce blood loss in liver surgery?",
+   "answer": "Less distension of hepatic veins and sinusoids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#e593fa",
+   "kind": "mcq",
+   "stem": "Which clotting factor is not made by the liver?",
+   "options": [
+    "Factor II",
+    "Factor IX",
+    "Factor VIII",
+    "Fibrinogen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#e593fa",
+   "kind": "statement",
+   "stem": "What complication can hepatic impairment cause in liver surgery?",
+   "answer": "Coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#723451",
+   "kind": "statement",
+   "stem": "What range of biliary tract surgery is described, from simplest to most complex?",
+   "answer": "Simple laparoscopic cholecystectomy to complex bile duct tumour surgery in very sick patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#b2387e",
+   "kind": "statement",
+   "stem": "In biliary tract surgery, what should the anaesthetic be tailored to?",
+   "answer": "Disease severity and surgical extent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#52fe66",
+   "kind": "mcq",
+   "stem": "How is gallbladder surgery usually performed in biliary tract surgery?",
+   "options": [
+    "Open via laparotomy",
+    "Laparoscopic",
+    "Endoscopic retrograde",
+    "Percutaneous drainage"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#52fe66",
+   "kind": "statement",
+   "stem": "In biliary tract surgery, gallbladder surgery is often done as what type of case?",
+   "answer": "Elective day case",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/hepatobiliary-surgery#4a51e7",
+   "kind": "statement",
+   "stem": "In biliary tract surgery, how are the arms usually positioned?",
+   "answer": "Left arm out, right arm tucked",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

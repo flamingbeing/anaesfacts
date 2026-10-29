@@ -1,0 +1,189 @@
+{
+ "topic": "procedures/living-donor-nephrectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#41ea56",
+   "kind": "statement",
+   "stem": "For an altruistic living kidney donor, what should anaesthesia aim for during donor nephrectomy?",
+   "answer": "Minimise discomfort and pain; use blocks.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#e16680",
+   "kind": "mcq",
+   "stem": "What ASA physical status do most living kidney donors have?",
+   "options": [
+    "ASA 3 and 4",
+    "ASA 2 and 3",
+    "ASA 1 and 2",
+    "ASA 4 and 5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#1cd5e2",
+   "kind": "statement",
+   "stem": "How can a living kidney donor be accepted across ABO blood groups, given that an ABO match is usually needed?",
+   "answer": "Time and immunosuppressant treatment.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#700bfd",
+   "kind": "statement",
+   "stem": "In living kidney donor assessment, when is hypertension not a contraindication to donation?",
+   "answer": "When creatinine is normal and there is no proteinuria.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#64480b",
+   "kind": "mcq",
+   "stem": "Which condition is a contraindication to living kidney donation?",
+   "options": [
+    "Diabetes mellitus",
+    "Hypertension with normal creatinine",
+    "Hypertension without proteinuria",
+    "Previous appendicectomy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#06cb26",
+   "kind": "blank",
+   "stem": "In living donor nephrectomy, routine prophylactic ____ are not given.",
+   "answer": "antibiotics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#ffca30",
+   "kind": "mcq",
+   "stem": "Which anticoagulant is given prophylactically in living donor nephrectomy?",
+   "options": [
+    "Oral warfarin",
+    "Intravenous paracetamol",
+    "Clopidogrel",
+    "Low molecular weight heparin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#a4f81c",
+   "kind": "statement",
+   "stem": "Which regional options can accompany general anaesthesia for living donor nephrectomy?",
+   "answer": "Epidural, paravertebral block or wound catheters.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#8a5942",
+   "kind": "mcq",
+   "stem": "Which analgesic class is avoided in living kidney donors?",
+   "options": [
+    "Opioids",
+    "NSAIDs",
+    "Paracetamol",
+    "Gabapentinoids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#6b5467",
+   "kind": "mcq",
+   "stem": "Why is a fluid load given during living donor nephrectomy?",
+   "options": [
+    "To reduce the need for vasopressors",
+    "To increase the need for vasopressors",
+    "To lower urine output",
+    "To reduce the need for protamine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#054de3",
+   "kind": "blank",
+   "stem": "In living donor nephrectomy, heparin is given before arterial clamping, then ____ after the kidney is isolated.",
+   "answer": "protamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#0ac521",
+   "kind": "mcq",
+   "stem": "What urine output does living donor nephrectomy aim for?",
+   "options": [
+    "Low-normal urine output",
+    "Minimal urine output",
+    "High-normal urine output",
+    "Oliguria accepted"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#25f003",
+   "kind": "mcq",
+   "stem": "Which postoperative analgesia is used after living donor nephrectomy?",
+   "options": [
+    "Morphine PCA",
+    "Ketamine infusion",
+    "Fentanyl PCA",
+    "Oral codeine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#0dd0ba",
+   "kind": "blank",
+   "stem": "After living donor nephrectomy, a transient rise in creatinine usually returns to normal within ____.",
+   "answer": "1 month",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#dd5a48",
+   "kind": "statement",
+   "stem": "What is the effect on mortality of removing one kidney from an otherwise healthy living donor?",
+   "answer": "It does not affect mortality.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#025119",
+   "kind": "mcq",
+   "stem": "What long-term renal function does a living kidney donor typically settle at?",
+   "options": [
+    "About 50%",
+    "About 90%",
+    "About 100%",
+    "About 75%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/living-donor-nephrectomy#025119",
+   "kind": "statement",
+   "stem": "What happens to the remaining kidney after living donor nephrectomy?",
+   "answer": "It hypertrophies.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "topic": "procedures/ectopic-pregnancy-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/ectopic-pregnancy-surgery#3d010e",
+   "kind": "statement",
+   "stem": "How can a ruptured ectopic pregnancy present before surgery?",
+   "answer": "From haemodynamically normal to severe hypovolaemic shock",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/ectopic-pregnancy-surgery#9028f8",
+   "kind": "mcq",
+   "stem": "Which vascular access should be secured before surgery for a ruptured ectopic pregnancy?",
+   "options": [
+    "Small-bore cannula in the hand",
+    "Large-bore IV access",
+    "No IV access until in theatre",
+    "One peripheral cannula in the foot"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/ectopic-pregnancy-surgery#67ac13",
+   "kind": "mcq",
+   "stem": "Which tests should be sent on arrival for a ruptured ectopic pregnancy?",
+   "options": [
+    "Urine pregnancy test only",
+    "Blood glucose and electrolytes",
+    "Crossmatch, FBC and coagulation screen",
+    "Arterial blood gas and lactate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/ectopic-pregnancy-surgery#d4bc11",
+   "kind": "mcq",
+   "stem": "What should be done if a ruptured ectopic patient is unstable before induction?",
+   "options": [
+    "Delay induction until blood pressure recovers",
+    "Proceed alone and call for a porter",
+    "Get a second anaesthetist to help",
+    "Cancel surgery and send to ward"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/ectopic-pregnancy-surgery#06e299",
+   "kind": "statement",
+   "stem": "When should rapid sequence induction be given for a shocked ruptured ectopic pregnancy?",
+   "answer": "With the patient draped and the surgeon scrubbed and ready to operate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/ectopic-pregnancy-surgery#173bf8",
+   "kind": "statement",
+   "stem": "Which induction agent is a good choice for a ruptured ectopic pregnancy in shock?",
+   "answer": "Ketamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/ectopic-pregnancy-surgery#930075",
+   "kind": "mcq",
+   "stem": "What should be done for the patient during surgery for a ruptured ectopic pregnancy?",
+   "options": [
+    "Cool the patient to reduce bleeding",
+    "Restrict crystalloid to limit bleeding",
+    "Keep the patient warm",
+    "Position the patient head down"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

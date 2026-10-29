@@ -1,0 +1,529 @@
+{
+ "topic": "procedures/paediatric-day-case-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#a1e965",
+   "kind": "statement",
+   "stem": "How suitable are children generally for paediatric day case surgery?",
+   "answer": "Excellent candidates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#4f016a",
+   "kind": "mcq",
+   "stem": "What share of elective paediatric surgery is recommended to be done as day cases?",
+   "options": [
+    "10-20%",
+    "80-90%",
+    "50-70%",
+    "95-100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#3be8a7",
+   "kind": "statement",
+   "stem": "What does paediatric day case surgery need besides careful selection?",
+   "answer": "Experienced multidisciplinary team, suitable facilities, and clear protocols for analgesia, discharge and follow-up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#733cf3",
+   "kind": "mcq",
+   "stem": "How many areas should paediatric day case selection criteria cover?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#733cf3",
+   "kind": "statement",
+   "stem": "Which four areas should paediatric day case selection criteria cover?",
+   "answer": "Patient, procedure, anaesthetic factors, social circumstances",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#4243c8",
+   "kind": "mcq",
+   "stem": "What minimum age do many units set for infants having day case surgery?",
+   "options": [
+    "6 weeks",
+    "3 months",
+    "6 months",
+    "12 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#4243c8",
+   "kind": "statement",
+   "stem": "Which procedures may suit term babies over one month as day cases?",
+   "answer": "Examination under anaesthesia without surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#a86117",
+   "kind": "statement",
+   "stem": "For day surgery, below what postconceptual age are ex-preterm babies at risk of postoperative apnoea?",
+   "answer": "50 weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#daea75",
+   "kind": "statement",
+   "stem": "Up to what postconceptual age may apnoea risk persist in ex-preterm babies with chronic lung disease?",
+   "answer": "60 weeks or more",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#d17010",
+   "kind": "statement",
+   "stem": "What kind of procedure is ideal for paediatric day case surgery?",
+   "answer": "Superficial, short, with pain controlled by oral analgesics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#cae58a",
+   "kind": "statement",
+   "stem": "What is ideal for a paediatric day case regarding body cavities and bleeding?",
+   "answer": "No body cavity entry and low risk of postoperative bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#9fc4aa",
+   "kind": "mcq",
+   "stem": "What is the ideal maximum duration of a paediatric day case anaesthetic?",
+   "options": [
+    "2 hours",
+    "4 hours",
+    "1 hour",
+    "6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#9fc4aa",
+   "kind": "statement",
+   "stem": "Why is a longer anaesthetic a problem for children in day surgery?",
+   "answer": "Delays recovery and increases complications such as PONV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#36d2a0",
+   "kind": "statement",
+   "stem": "Is adenotonsillectomy as a day case settled in children?",
+   "answer": "Debated; may become common as bleeding techniques improve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#66bf29",
+   "kind": "statement",
+   "stem": "What may exclude a child from day surgery?",
+   "answer": "Previous anaesthetic problems or a difficult airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#707271",
+   "kind": "statement",
+   "stem": "What must a family have for a child's paediatric day surgery?",
+   "answer": "A telephone and transport back to hospital if required",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#8fdc1d",
+   "kind": "statement",
+   "stem": "Where should paediatric day case patients be cared for, relative to acutely ill inpatients?",
+   "answer": "Designated day case area, not mixed with acutely ill inpatients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#43ce85",
+   "kind": "statement",
+   "stem": "Under paediatric day case quality standards, with whom must children not be admitted or treated?",
+   "answer": "Adults",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#a7f84e",
+   "kind": "statement",
+   "stem": "What kind of environment should a paediatric day case unit provide?",
+   "answer": "Child-friendly, meeting child safety standards",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#d3b6ba",
+   "kind": "statement",
+   "stem": "What must be completed before a child is discharged from day surgery?",
+   "answer": "Key documentation for aftercare and follow-up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#cb19fe",
+   "kind": "statement",
+   "stem": "What improves the day case service at the preoperative assessment stage?",
+   "answer": "Streamlined advance assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#c8bd08",
+   "kind": "statement",
+   "stem": "What kind of fasting instructions should be given before paediatric day surgery?",
+   "answer": "Clear verbal and written instructions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#c8bd08",
+   "kind": "statement",
+   "stem": "What do liberal clear fluids before paediatric day surgery do for children?",
+   "answer": "Reduce distress and improve behaviour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#dfe1df",
+   "kind": "mcq",
+   "stem": "What is the oral midazolam premedication dose in selected children?",
+   "options": [
+    "0.1 mg/kg",
+    "0.5 mg/kg",
+    "2 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#dfe1df",
+   "kind": "mcq",
+   "stem": "What is the maximum oral midazolam premedication dose in children?",
+   "options": [
+    "5 mg",
+    "50 mg",
+    "20 mg",
+    "100 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#ee6342",
+   "kind": "statement",
+   "stem": "In PONV prevention for day case children, what should be given if an opioid is used?",
+   "answer": "An antiemetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#9f43a7",
+   "kind": "statement",
+   "stem": "Which fluid measure helps prevent PONV in paediatric day case surgery?",
+   "answer": "Adequate fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#465864",
+   "kind": "mcq",
+   "stem": "How important is good analgesia in paediatric day case surgery?",
+   "options": [
+    "Optional",
+    "Essential",
+    "Rarely needed",
+    "Only for adults"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#9eb886",
+   "kind": "statement",
+   "stem": "Which analgesic techniques should be used wherever possible in paediatric day case surgery?",
+   "answer": "Local and regional techniques: topical, infiltration, peripheral nerve blocks, caudal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#8bbfc9",
+   "kind": "mcq",
+   "stem": "What ketamine dose, as a block adjunct, prolongs a block in children?",
+   "options": [
+    "0.1 mg/kg",
+    "2 mg/kg",
+    "0.5 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#8bbfc9",
+   "kind": "mcq",
+   "stem": "What clonidine dose, as a block adjunct, prolongs a block in children?",
+   "options": [
+    "0.1 mcg/kg",
+    "5 mcg/kg",
+    "10 mcg/kg",
+    "1 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#8bbfc9",
+   "kind": "statement",
+   "stem": "What side effects can clonidine used as a block adjunct cause in children?",
+   "answer": "Sedation and transient hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#2a3007",
+   "kind": "statement",
+   "stem": "Which two drug groups improve analgesia in paediatric day case surgery?",
+   "answer": "Paracetamol and NSAIDs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#87d74f",
+   "kind": "mcq",
+   "stem": "What is the preoperative oral paracetamol loading dose in children?",
+   "options": [
+    "2 mg/kg",
+    "20 mg/kg",
+    "50 mg/kg",
+    "100 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#87d74f",
+   "kind": "mcq",
+   "stem": "What is the rectal paracetamol dose given after induction in children?",
+   "options": [
+    "1-2 mg/kg",
+    "5-10 mg/kg",
+    "30-40 mg/kg",
+    "100-150 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#5d3be5",
+   "kind": "statement",
+   "stem": "Why may IV paracetamol 15 mg/kg be better than the rectal route in children?",
+   "answer": "Erratic rectal absorption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#c99b73",
+   "kind": "mcq",
+   "stem": "What ibuprofen dose is used for analgesia in children having day surgery?",
+   "options": [
+    "1-2 mg/kg",
+    "20-30 mg/kg",
+    "5-10 mg/kg",
+    "50-60 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#c99b73",
+   "kind": "mcq",
+   "stem": "What diclofenac dose is used for analgesia in children having day surgery?",
+   "options": [
+    "0.1 mg/kg",
+    "5 mg/kg",
+    "1 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#e0a0d7",
+   "kind": "mcq",
+   "stem": "What fentanyl dose can be given as a single perioperative opioid in children?",
+   "options": [
+    "0.1-0.2 mcg/kg",
+    "1-2 mcg/kg",
+    "10-20 mcg/kg",
+    "50-60 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#e0a0d7",
+   "kind": "mcq",
+   "stem": "What morphine dose given IV can be used as a single perioperative opioid in children?",
+   "options": [
+    "5-10 mcg/kg",
+    "10-15 mcg/kg",
+    "100-150 mcg/kg",
+    "500-600 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#68f14a",
+   "kind": "statement",
+   "stem": "What is the main home analgesia after paediatric day surgery?",
+   "answer": "Paracetamol and NSAIDs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#9cfec0",
+   "kind": "mcq",
+   "stem": "How many doses of an oral opioid may be supplied for parents to give at home?",
+   "options": [
+    "1 or 2",
+    "3 or 4",
+    "7 or 8",
+    "10 or 12"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#9cfec0",
+   "kind": "mcq",
+   "stem": "Which oral opioid may be supplied for parents to give at home after paediatric day surgery?",
+   "options": [
+    "Oral codeine",
+    "Oral morphine",
+    "Oral tramadol",
+    "Oral oxycodone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#8ce95f",
+   "kind": "statement",
+   "stem": "What airway findings must be present before discharge after paediatric day surgery?",
+   "answer": "Airway reflexes intact; no respiratory distress or stridor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#78f18f",
+   "kind": "statement",
+   "stem": "What must be true of vital signs and conscious level before day case discharge?",
+   "answer": "Stable vital signs; conscious level appropriate for the child",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#158f67",
+   "kind": "statement",
+   "stem": "What level of pain and PONV is required before day case discharge?",
+   "answer": "No or minimal pain and PONV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#2e727c",
+   "kind": "statement",
+   "stem": "Is drinking required before discharge after paediatric day surgery?",
+   "answer": "Desirable but not essential",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#590621",
+   "kind": "statement",
+   "stem": "What must parents receive at discharge from paediatric day surgery?",
+   "answer": "Written and verbal instructions with clear hospital contact",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#ae480d",
+   "kind": "statement",
+   "stem": "How must a child be taken home after paediatric day surgery?",
+   "answer": "Escorted by a responsible adult by private car or taxi",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#45e79c",
+   "kind": "statement",
+   "stem": "What are the commonest causes of unplanned admission after paediatric day surgery?",
+   "answer": "PONV and severe pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#7043f4",
+   "kind": "mcq",
+   "stem": "What is the benchmark unplanned admission rate after paediatric day surgery?",
+   "options": [
+    "0.1-0.2%",
+    "1-2%",
+    "5-10%",
+    "20-25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-day-case-surgery#123fc9",
+   "kind": "statement",
+   "stem": "What should paediatric day surgery audit for quality?",
+   "answer": "Cancellations, unplanned admissions, morbidity, parent and child satisfaction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

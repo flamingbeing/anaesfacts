@@ -1,0 +1,59 @@
+{
+ "topic": "procedures/gastric-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/gastric-surgery#b9397a",
+   "kind": "statement",
+   "stem": "In gastric surgery, what does chronic blood loss from malignancy cause?",
+   "answer": "Anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gastric-surgery#de7d37",
+   "kind": "statement",
+   "stem": "What does acute bleeding before gastric surgery lead to?",
+   "answer": "Hypovolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gastric-surgery#1feceb",
+   "kind": "statement",
+   "stem": "What does gastric perforation before surgery lead to?",
+   "answer": "Sepsis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gastric-surgery#91efcf",
+   "kind": "statement",
+   "stem": "Why is respiratory risk high in gastric surgery?",
+   "answer": "Upper abdominal incision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gastric-surgery#b326d5",
+   "kind": "statement",
+   "stem": "How does regional anaesthesia help breathing in gastric surgery?",
+   "answer": "It helps the patient breathe deeply",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/gastric-surgery#a4abc6",
+   "kind": "mcq",
+   "stem": "Which postoperative respiratory support is contraindicated after gastric surgery?",
+   "options": [
+    "Supplemental oxygen",
+    "Incentive spirometry",
+    "Non-invasive ventilation",
+    "Chest physiotherapy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,613 @@
+{
+ "topic": "procedures/lumbar-spine-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#6fbf30",
+   "kind": "mcq",
+   "stem": "Laminectomy, fusion and TLIF in lumbar spine surgery corrects which conditions causing pain or instability?",
+   "options": [
+    "Cervical cord compression",
+    "Hip osteoarthritis",
+    "Pelvic ring fracture",
+    "Spondylolisthesis or spinal stenosis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#e113fc",
+   "kind": "mcq",
+   "stem": "Laminectomy, fusion and TLIF in lumbar spine surgery can be performed at how many levels?",
+   "options": [
+    "Single level only",
+    "Single or multiple levels",
+    "Exactly two levels only",
+    "Always four or more levels"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#530af8",
+   "kind": "blank",
+   "stem": "Laminectomy, fusion and TLIF use a ____ approach with the patient prone.",
+   "answer": "Posterior",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#ff4976",
+   "kind": "mcq",
+   "stem": "In lumbar fusion surgery, where may the bone graft be taken from?",
+   "options": [
+    "The femoral shaft",
+    "The clavicle",
+    "The pelvis",
+    "The sternum"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#74f976",
+   "kind": "mcq",
+   "stem": "In lumbar laminectomy and fusion, what drives the operating time and blood loss?",
+   "options": [
+    "Patient body mass index",
+    "Number of levels operated on",
+    "Choice of antibiotic",
+    "Position of the arm boards"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#200913",
+   "kind": "mcq",
+   "stem": "In lumbar fusion surgery, which haemodynamic target protects the spinal cord?",
+   "options": [
+    "Keep MAP low",
+    "Maintain MAP",
+    "Keep heart rate above 100",
+    "Restrict all fluid intake"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#d8df63",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is used for neuromonitoring in lumbar fusion surgery?",
+   "options": [
+    "Sevoflurane with nitrous oxide",
+    "Desflurane with fentanyl",
+    "TIVA with remifentanil",
+    "Spinal anaesthesia with bupivacaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#695ca9",
+   "kind": "mcq",
+   "stem": "In lumbar fusion surgery, which warming method is used intraoperatively?",
+   "options": [
+    "Forced-air warming",
+    "Cooled saline infusion",
+    "Ice packs on the limbs",
+    "Room temperature only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#367290",
+   "kind": "mcq",
+   "stem": "Which position may be prolonged during lumbar fusion surgery?",
+   "options": [
+    "Prone",
+    "Supine",
+    "Lateral decubitus",
+    "Lithotomy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#cb53f4",
+   "kind": "mcq",
+   "stem": "Why might a surgeon ask for a Valsalva manoeuvre during lumbar fusion surgery?",
+   "options": [
+    "To reduce intracranial pressure",
+    "To check venous haemostasis or the dural repair",
+    "To clear the airway of secretions",
+    "To expand the lungs before extubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#d05532",
+   "kind": "mcq",
+   "stem": "What blood preparation is needed before lumbar fusion surgery?",
+   "options": [
+    "Full blood count only",
+    "Coagulation screen only",
+    "Group and crossmatch",
+    "Blood glucose only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#582ca6",
+   "kind": "blank",
+   "stem": "In lumbar fusion surgery, the arms rest above the head on ____.",
+   "answer": "arm boards",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#4cb88a",
+   "kind": "statement",
+   "stem": "In lumbar fusion surgery, why should the arterial pressure transducer stay on the bed?",
+   "answer": "Because the table is raised and lowered often",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#66f154",
+   "kind": "mcq",
+   "stem": "What anaesthetic technique is used for lumbar fusion surgery?",
+   "options": [
+    "General anaesthesia with tracheal tube",
+    "Spinal anaesthesia alone",
+    "Sedation with face mask",
+    "Epidural anaesthesia alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#154005",
+   "kind": "mcq",
+   "stem": "Which prophylactic antibiotic is given for lumbar fusion surgery?",
+   "options": [
+    "Gentamicin",
+    "Cefazolin",
+    "Metronidazole",
+    "Ciprofloxacin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#14ddcb",
+   "kind": "mcq",
+   "stem": "In lumbar fusion surgery, why should excess intravenous fluid be avoided?",
+   "options": [
+    "To improve wound healing",
+    "To limit oedema",
+    "To raise blood pressure",
+    "To prevent urine retention"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#16ef3c",
+   "kind": "mcq",
+   "stem": "During a long, major lumbar fusion, what blood pressure approach is advised?",
+   "options": [
+    "Keep blood pressure high",
+    "Keep blood pressure at baseline",
+    "Keep blood pressure low",
+    "Allow blood pressure to rise"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#d4032c",
+   "kind": "mcq",
+   "stem": "Which imaging equipment is needed for lumbar fusion surgery?",
+   "options": [
+    "An image intensifier",
+    "A dental radiograph unit",
+    "A portable chest X-ray",
+    "An ultrasound probe only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#e8a525",
+   "kind": "mcq",
+   "stem": "What is a typical morphine dose for analgesia after lumbar fusion surgery?",
+   "options": [
+    "1mg/kg",
+    "0.01mg/kg",
+    "0.1mg/kg",
+    "10mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#37dac5",
+   "kind": "statement",
+   "stem": "In lumbar fusion surgery, which antiemetic also helps reduce airway oedema?",
+   "answer": "Dexamethasone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#c305e9",
+   "kind": "mcq",
+   "stem": "In prone lumbar fusion surgery, how do some teams secure the endotracheal tube?",
+   "options": [
+    "Tape on the cheek only",
+    "Suture into the gum",
+    "Tie around the neck",
+    "Glue to the lip"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#03c93a",
+   "kind": "mcq",
+   "stem": "How severe is pain typically in recovery after lumbar fusion surgery?",
+   "options": [
+    "Mild only",
+    "Often severe",
+    "Usually absent",
+    "Rarely present"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#4c151d",
+   "kind": "mcq",
+   "stem": "After lumbar fusion surgery, how often is high dependency care needed?",
+   "options": [
+    "Usually not needed",
+    "Always needed",
+    "Needed for every patient",
+    "Needed only for day cases"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#ba17bd",
+   "kind": "mcq",
+   "stem": "After lumbar laminectomy, which combined analgesia is started before or during surgery?",
+   "options": [
+    "Morphine alone via PCA",
+    "Gabapentin plus ketamine only",
+    "Tramadol alone for all patients",
+    "Paracetamol plus an NSAID or COX-2 inhibitor"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#bd9e90",
+   "kind": "statement",
+   "stem": "In lumbar laminectomy, what local anaesthetic step is done just before wound closure?",
+   "answer": "Wound infiltration or instillation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#f1841e",
+   "kind": "mcq",
+   "stem": "After lumbar laminectomy, how should opioids be used?",
+   "options": [
+    "As first-line analgesia",
+    "As rescue analgesia only",
+    "Scheduled as the main analgesic",
+    "Avoided entirely in all patients"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#f16012",
+   "kind": "mcq",
+   "stem": "How long does a lumbar discectomy or microdiscectomy usually take?",
+   "options": [
+    "Under 30 minutes",
+    "3–4 hr",
+    "1–2 hr",
+    "6–8 hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#855fc4",
+   "kind": "mcq",
+   "stem": "Which lumbar spine procedure can be done as a day case?",
+   "options": [
+    "Microdiscectomy",
+    "Laminectomy with fusion",
+    "Lumbar fracture fixation",
+    "Multilevel TLIF"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#38da74",
+   "kind": "mcq",
+   "stem": "Which headrest is used for prone positioning in lumbar microdiscectomy?",
+   "options": [
+    "Horseshoe head ring",
+    "Prone headrest",
+    "Foam pillow under the head",
+    "Gel head ring"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#1bfb3a",
+   "kind": "mcq",
+   "stem": "In lumbar microdiscectomy, where is the IV cannula usually placed?",
+   "options": [
+    "Left foot",
+    "Left hand",
+    "Right hand",
+    "Right elbow"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#3ac59c",
+   "kind": "mcq",
+   "stem": "For lumbar microdiscectomy with neuromonitoring, which technique is used?",
+   "options": [
+    "Spinal anaesthesia alone",
+    "Caudal block alone",
+    "Nitrous oxide only",
+    "TIVA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#61e80e",
+   "kind": "mcq",
+   "stem": "When is the image intensifier used during lumbar microdiscectomy?",
+   "options": [
+    "Throughout the whole case",
+    "Only at the end",
+    "Never used in this surgery",
+    "Only at the start"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#114786",
+   "kind": "mcq",
+   "stem": "Which equipment is central to a lumbar microdiscectomy?",
+   "options": [
+    "Laser scalpel",
+    "Operating microscope",
+    "Cell saver machine",
+    "Harmonic scalpel"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#2c9719",
+   "kind": "statement",
+   "stem": "Which opioid and which COX-2 inhibitor are used for microdiscectomy analgesia?",
+   "answer": "Morphine and parecoxib",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#c0dd5e",
+   "kind": "mcq",
+   "stem": "Is the patient able to get into position for a lumbar foraminal block?",
+   "options": [
+    "No, full general anaesthesia is needed",
+    "Yes, the patient can position themselves",
+    "No, a surgeon must position them",
+    "No, they must be intubated"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#c3af78",
+   "kind": "mcq",
+   "stem": "In a lumbar foraminal block, why is the IV extension used?",
+   "options": [
+    "To give antibiotics before positioning",
+    "To avoid cannulating the right hand",
+    "To monitor arterial pressure",
+    "To give fentanyl from behind the lead shield"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#3a0b78",
+   "kind": "mcq",
+   "stem": "What sedation approach with monitoring is used for a lumbar foraminal block?",
+   "options": [
+    "GA with a tracheal tube",
+    "MAC with face mask and EtCO2",
+    "Local anaesthetic only, no monitoring",
+    "Sedation via cannula alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#07d813",
+   "kind": "mcq",
+   "stem": "What dose of fentanyl is suggested for sedation in a lumbar foraminal block?",
+   "options": [
+    "100-150 mcg",
+    "5-10 mcg",
+    "25-50 mcg",
+    "250-500 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#66694b",
+   "kind": "mcq",
+   "stem": "Is antibiotic prophylaxis given for a lumbar foraminal block?",
+   "options": [
+    "Cefazolin is given before the block",
+    "Gentamicin is given before the block",
+    "Vancomycin is given before the block",
+    "No antibiotic is given"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#8dfcce",
+   "kind": "mcq",
+   "stem": "How is the operating table adjusted during a lumbar foraminal block?",
+   "options": [
+    "By the anaesthetist at the head end",
+    "Table locked, no adjustment possible",
+    "With the remote from behind the lead shield",
+    "By a nurse with a hand crank"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#1db8ad",
+   "kind": "mcq",
+   "stem": "In a lumbar foraminal block, how long does the injection itself take?",
+   "options": [
+    "about 15 mins",
+    "about 1 hour",
+    "about 5 mins",
+    "about 30 mins"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#1e9e30",
+   "kind": "mcq",
+   "stem": "Why is spinal nursing precaution used after lumbar spine fracture fixation?",
+   "options": [
+    "The airway is usually difficult",
+    "The spine may be unstable",
+    "Bowel sounds are often absent",
+    "The patient is at risk of aspiration"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#8c9ee2",
+   "kind": "mcq",
+   "stem": "Which other major injury may coexist with lumbar spine fracture?",
+   "options": [
+    "Isolated nasal fracture",
+    "Mild ankle sprain",
+    "Rib fractures",
+    "Simple finger laceration"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#643838",
+   "kind": "mcq",
+   "stem": "In lumbar spine fracture fixation, which muscle relaxant may be contraindicated?",
+   "options": [
+    "Rocuronium",
+    "Suxamethonium",
+    "Atracurium",
+    "Cisatracurium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#92831d",
+   "kind": "mcq",
+   "stem": "Where might a patient with lumbar spine fracture already be before fixation?",
+   "options": [
+    "Awake in recovery",
+    "In ICU and ventilated",
+    "Fasting in the day unit",
+    "Under spinal anaesthesia on the ward"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lumbar-spine-surgery#08ee73",
+   "kind": "mcq",
+   "stem": "After a lumbar spine fracture, is a neurological deficit usually reversible?",
+   "options": [
+    "Often irreversible",
+    "Usually fully reversible",
+    "Always resolves within a day",
+    "Resolves with steroids alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

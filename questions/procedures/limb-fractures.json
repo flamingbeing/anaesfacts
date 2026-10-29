@@ -1,0 +1,259 @@
+{
+ "topic": "procedures/limb-fractures",
+ "questions": [
+  {
+   "fact_id": "procedures/limb-fractures#d44fff",
+   "kind": "mcq",
+   "stem": "How long can limb fracture surgery last?",
+   "options": [
+    "30min to 1 hour",
+    "5min to many hours",
+    "1 to 2 hours only",
+    "Several days or more"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#faa207",
+   "kind": "mcq",
+   "stem": "Which patient position is usually used for limb fracture surgery?",
+   "options": [
+    "Lithotomy",
+    "Head-down tilt",
+    "Supine",
+    "Sitting upright"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#9c19ea",
+   "kind": "mcq",
+   "stem": "What is the maximum expected blood loss in open limb fracture surgery?",
+   "options": [
+    "Up to 500ml",
+    "Up to 1000ml",
+    "Up to 2000ml",
+    "Up to 50ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#46c2a1",
+   "kind": "statement",
+   "stem": "Which anaesthetic techniques are used for limb fracture surgery?",
+   "answer": "GA with or without a block, or regional block alone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#e8a922",
+   "kind": "mcq",
+   "stem": "In limb fracture surgery, which procedures are classed as less urgent?",
+   "options": [
+    "Bone grafting from the pelvis",
+    "ORIF, nailing",
+    "Emergency closed reduction",
+    "Wound flap closure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#ca089a",
+   "kind": "statement",
+   "stem": "Name a bone graft donor site in limb fracture surgery that is painful.",
+   "answer": "Pelvis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#fe2584",
+   "kind": "mcq",
+   "stem": "In limb fracture surgery, which sites carry the fat embolism risk?",
+   "options": [
+    "Femur and pelvis",
+    "Wrist and hand",
+    "Ankle and foot",
+    "Lower leg fractures"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#f179ac",
+   "kind": "statement",
+   "stem": "What do some limb fractures come with, besides the fracture itself?",
+   "answer": "High-energy trauma and associated injuries",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#41cb85",
+   "kind": "blank",
+   "stem": "A limb fracture patient may be in the surgical ____.",
+   "answer": "ICU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#a25ca3",
+   "kind": "statement",
+   "stem": "Why check whether more surgery is likely before limb fracture manipulation?",
+   "answer": "Manipulation under anaesthesia may become ORIF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#fbada9",
+   "kind": "statement",
+   "stem": "If planning a block for limb fracture surgery, what risk should be discussed?",
+   "answer": "Compartment syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#d024c7",
+   "kind": "statement",
+   "stem": "Preoperatively in limb fracture trauma, which other significant injuries should be looked for?",
+   "answer": "Significant chest, abdominal or head injuries",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#b8d194",
+   "kind": "mcq",
+   "stem": "Which head injury needs careful thought before non-lifesaving limb fracture surgery?",
+   "options": [
+    "Remote (>1 year) minor head injury",
+    "Recent (<24hr) moderate or severe head injury",
+    "Chest injury without head trauma",
+    "Old ankle fracture, healed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#9086da",
+   "kind": "statement",
+   "stem": "Relative to the time of injury, what should be noted before limb fracture surgery?",
+   "answer": "Time of last food or drink",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#b13f5d",
+   "kind": "statement",
+   "stem": "Why is general anaesthesia risky with a head injury in limb fracture surgery?",
+   "answer": "It can hide a falling conscious level and may raise ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#296cc8",
+   "kind": "statement",
+   "stem": "A regional block can mask which neurological signs in limb fracture surgery?",
+   "answer": "Neurological signs of developing compartment syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#0a1d4d",
+   "kind": "statement",
+   "stem": "When nerve damage is suspected in limb fracture surgery, what do blocks hinder?",
+   "answer": "Assessment of nerve damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#f63bb0",
+   "kind": "mcq",
+   "stem": "For limb surgery, what should be fitted to the IV line?",
+   "options": [
+    "Three-way stopcock",
+    "In-line filter",
+    "Antireflux valve",
+    "Blood warmer"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#679968",
+   "kind": "statement",
+   "stem": "In limb fracture surgery, what does blood loss depend on?",
+   "answer": "The surgical site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#0c43d5",
+   "kind": "statement",
+   "stem": "In limb fracture surgery, what can contraindicate a tourniquet?",
+   "answer": "Fracture type or site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#cf163e",
+   "kind": "statement",
+   "stem": "In limb fracture surgery, what is often the only procedure performed?",
+   "answer": "Debridement and external fixation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#1bf1fb",
+   "kind": "mcq",
+   "stem": "Besides cefazolin, which antibiotic may be added in limb fracture surgery depending on contamination?",
+   "options": [
+    "Amoxicillin",
+    "Metronidazole",
+    "Gentamicin",
+    "Fluconazole"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#bb13b2",
+   "kind": "statement",
+   "stem": "What may an open wound left after limb fracture surgery later need?",
+   "answer": "A flap",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#069f45",
+   "kind": "statement",
+   "stem": "What is the postoperative analgesia plan after closed reductions of limb fractures?",
+   "answer": "Perioperative opioid, then oral NSAIDs, paracetamol and opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/limb-fractures#be80ee",
+   "kind": "mcq",
+   "stem": "Which analgesia may complex limb fracture repairs, including external fixation, need?",
+   "options": [
+    "Oral paracetamol only",
+    "PCA",
+    "No postoperative analgesia",
+    "Oral NSAIDs only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

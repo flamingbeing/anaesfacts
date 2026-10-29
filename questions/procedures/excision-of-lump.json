@@ -1,0 +1,49 @@
+{
+ "topic": "procedures/excision-of-lump",
+ "questions": [
+  {
+   "fact_id": "procedures/excision-of-lump#b5a566",
+   "kind": "blank",
+   "stem": "Excision of a lump can be performed under ____ anaesthesia alone.",
+   "answer": "Local",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/excision-of-lump#dcd9f7",
+   "kind": "mcq",
+   "stem": "For excision of a lump under general anaesthesia, which airway is usually used?",
+   "options": [
+    "Endotracheal tube",
+    "Oropharyngeal airway",
+    "LMA",
+    "Face mask"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/excision-of-lump#0c3f41",
+   "kind": "statement",
+   "stem": "For excision of a lump, what determines the patient's positioning?",
+   "answer": "The site of the lump",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/excision-of-lump#5bd342",
+   "kind": "mcq",
+   "stem": "For a lump on the back needing prone positioning, which airway is advised?",
+   "options": [
+    "LMA",
+    "Face mask",
+    "ETT",
+    "Oropharyngeal airway"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

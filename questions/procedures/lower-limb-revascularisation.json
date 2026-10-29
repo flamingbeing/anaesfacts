@@ -1,0 +1,119 @@
+{
+ "topic": "procedures/lower-limb-revascularisation",
+ "questions": [
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#d3164e",
+   "kind": "mcq",
+   "stem": "Which is an indication for surgery in critical limb ischaemia?",
+   "options": [
+    "Asymptomatic stenosis",
+    "Mild intermittent claudication",
+    "Ischaemic rest pain",
+    "Normal ankle pressures"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#3de9f7",
+   "kind": "mcq",
+   "stem": "Which finding is an indication for surgery in critical limb ischaemia?",
+   "options": [
+    "Tissue loss (ulceration or gangrene)",
+    "Asymptomatic stenosis",
+    "Mild intermittent claudication",
+    "Normal ankle pressures"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#3d9a40",
+   "kind": "mcq",
+   "stem": "Which claudication pattern is an indication for surgery in critical limb ischaemia?",
+   "options": [
+    "Mild claudication with proximal disease",
+    "Severe claudication with distal disease",
+    "Asymptomatic stenosis",
+    "Normal ankle pressures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#a03162",
+   "kind": "mcq",
+   "stem": "What must have happened for surgery to be indicated in critical limb ischaemia?",
+   "options": [
+    "Asymptomatic stenosis",
+    "Normal ankle pressures",
+    "Failed non-surgical treatment",
+    "Mild intermittent claudication"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#79d68d",
+   "kind": "mcq",
+   "stem": "How are most lower limb revascularisation patients treated?",
+   "options": [
+    "Open surgical bypass",
+    "Percutaneous angioplasty",
+    "Immediate amputation",
+    "Endarterectomy under general anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#d2b11f",
+   "kind": "statement",
+   "stem": "What disease pattern is typical of patients who come to lower limb revascularisation surgery?",
+   "answer": "Extensive, diffuse or advanced disease.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#9b2e78",
+   "kind": "statement",
+   "stem": "In lower limb revascularisation, which preoperative assessment item is hard to judge?",
+   "answer": "Effort tolerance.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#f91f78",
+   "kind": "mcq",
+   "stem": "Which intraoperative ECG monitoring is used in lower limb revascularisation?",
+   "options": [
+    "3 lead ECG",
+    "12 lead ECG",
+    "5 lead ECG",
+    "No ECG monitoring"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lower-limb-revascularisation#aa4a04",
+   "kind": "mcq",
+   "stem": "Why is spinal anaesthesia often contraindicated in lower limb revascularisation?",
+   "options": [
+    "Severe anaemia",
+    "Anticoagulation or dual antiplatelet therapy",
+    "Need for airway control",
+    "Hyperkalaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

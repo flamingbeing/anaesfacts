@@ -1,0 +1,587 @@
+{
+ "topic": "procedures/neuroanaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/neuroanaesthesia#50c8e4",
+   "kind": "statement",
+   "stem": "In neuroanaesthesia, why are short-acting drugs chosen?",
+   "answer": "For early neurological assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#ee0c57",
+   "kind": "mcq",
+   "stem": "In neuroanaesthesia positioning, which way should the head be turned?",
+   "options": [
+    "Towards the anaesthetist",
+    "Away from the anaesthetist",
+    "Straight up, facing the ceiling",
+    "Fully flexed towards the chest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#5dd9ed",
+   "kind": "mcq",
+   "stem": "Which line is often used to monitor blood pressure in neuroanaesthesia?",
+   "options": [
+    "Peripheral cannula",
+    "Arterial line",
+    "Urinary catheter",
+    "Nasogastric tube"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#c7c4f5",
+   "kind": "mcq",
+   "stem": "What level of postoperative care is common after neurosurgery?",
+   "options": [
+    "Routine general ward admission",
+    "Neurosurgical high dependency care",
+    "Immediate day-case discharge",
+    "Recovery unit then home"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#0ef24c",
+   "kind": "statement",
+   "stem": "In neuroanaesthesia, what is probably one of the most important ways to prevent brain injury?",
+   "answer": "Blood pressure control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#9b78ed",
+   "kind": "mcq",
+   "stem": "What cerebral perfusion pressure should neuroanaesthesia aim for?",
+   "options": [
+    "30-40mmHg",
+    "60-70mmHg",
+    "90-100mmHg",
+    "10-15mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#e23afb",
+   "kind": "blank",
+   "stem": "With an ICP monitor in place, neuroanaesthesia aims for a CPP of ____.",
+   "answer": ">60-70",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#980cc6",
+   "kind": "mcq",
+   "stem": "In neuroanaesthesia, how close should blood pressure stay to baseline?",
+   "options": [
+    "Within 40-50% of baseline",
+    "Double the baseline value",
+    "Within 2-3 times baseline",
+    "Within 10-20% of baseline"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#bf0768",
+   "kind": "statement",
+   "stem": "In neuroanaesthesia, what determines the blood pressure target?",
+   "answer": "The pathology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#bac430",
+   "kind": "mcq",
+   "stem": "In ischaemic stroke with thrombolysis contraindicated, what SBP limit applies?",
+   "options": [
+    "<180",
+    "<220",
+    "<160",
+    "<140"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#bac430",
+   "kind": "mcq",
+   "stem": "In ischaemic stroke given thrombolysis, what SBP limit applies?",
+   "options": [
+    "<220",
+    "<160",
+    "<180",
+    "<140"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#26d9d4",
+   "kind": "mcq",
+   "stem": "In subarachnoid haemorrhage, what SBP limit applies until the aneurysm is secured?",
+   "options": [
+    "<140",
+    "<160",
+    "<180",
+    "<220"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#2d7f0d",
+   "kind": "mcq",
+   "stem": "For intracerebral haemorrhage other than SAH, what SBP target applies?",
+   "options": [
+    "<180",
+    "<160",
+    "<140",
+    "<120"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#ee02ff",
+   "kind": "statement",
+   "stem": "Which lines are used to monitor and control blood pressure in neuroanaesthesia?",
+   "answer": "Arterial line, with or without a central venous catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#01e535",
+   "kind": "mcq",
+   "stem": "What is the IV dose of labetalol for blood pressure control in neuroanaesthesia?",
+   "options": [
+    "5-10 mg IV",
+    "1-2 mg IV",
+    "50-100 mg IV",
+    "0.1-0.2 mg IV"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#0770f1",
+   "kind": "mcq",
+   "stem": "What is the IV dose of nicardipine for blood pressure control in neuroanaesthesia?",
+   "options": [
+    "5-10 mg IV",
+    "0.1-0.2 mg IV",
+    "1-2 mg IV",
+    "50-100 mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#024d95",
+   "kind": "statement",
+   "stem": "For neuroprotection in neuroanaesthesia, which physiological states should be maintained?",
+   "answer": "Normotension, normoxia, normocarbia, normothermia and normoglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#a0a72d",
+   "kind": "mcq",
+   "stem": "In neuroanaesthesia, when is seizure prophylaxis given?",
+   "options": [
+    "Only after a seizure has occurred",
+    "Never, to avoid drug interactions",
+    "Routinely, before the dura is opened",
+    "If the surgeons request it"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#137a58",
+   "kind": "statement",
+   "stem": "In neuroanaesthesia, when should brain relaxation be achieved?",
+   "answer": "Before the dura is opened",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#b0daf7",
+   "kind": "mcq",
+   "stem": "In neuroanaesthesia, how far should the head be raised to help venous drainage?",
+   "options": [
+    "45-60 degrees",
+    "0-5 degrees",
+    "15-20 degrees",
+    "90 degrees"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#d85465",
+   "kind": "statement",
+   "stem": "For brain relaxation in neuroanaesthesia, what must be adequate, and what should be avoided on emergence?",
+   "answer": "Anaesthetic depth, analgesia and paralysis; avoid agitation on emergence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#16fac9",
+   "kind": "mcq",
+   "stem": "What PaCO2 is targeted during neuroanaesthesia surgery?",
+   "options": [
+    "40-45 mm Hg",
+    "20-25 mm Hg",
+    "50-55 mm Hg",
+    "30-35 mm Hg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#8abc79",
+   "kind": "mcq",
+   "stem": "What core temperature is targeted for normothermia in neuroanaesthesia?",
+   "options": [
+    "32-33°C",
+    "38-39°C",
+    "36-37°C",
+    "40-41°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#141c22",
+   "kind": "statement",
+   "stem": "In neuroanaesthesia, what PEEP ceiling is advised, and why?",
+   "answer": "PEEP at or below 10 cm H2O: higher levels impair venous drainage and raise ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#9425df",
+   "kind": "mcq",
+   "stem": "How quickly should mannitol be given in neuroanaesthesia?",
+   "options": [
+    "Rapid bolus over 1 min",
+    "Infusion over 2 hours",
+    "Slowly, over ~ 10 mins",
+    "Push over 30 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#9425df",
+   "kind": "mcq",
+   "stem": "What adverse effect can mannitol cause in neuroanaesthesia?",
+   "options": [
+    "Hypertension",
+    "Bradycardia",
+    "Hyperglycaemia",
+    "Hypotension"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#2591ab",
+   "kind": "mcq",
+   "stem": "Which diuretic replaces mannitol or hypertonic saline in cardiac disease in neuroanaesthesia?",
+   "options": [
+    "Acetazolamide 250mg",
+    "Bumetanide 1mg",
+    "Spironolactone 25mg",
+    "Furosemide 10-20mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#2591ab",
+   "kind": "statement",
+   "stem": "Why are patients with cardiac disease given furosemide instead of mannitol or hypertonic saline?",
+   "answer": "They may not tolerate a volume load",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#4c7ac0",
+   "kind": "mcq",
+   "stem": "What dexamethasone dose is given for tumours in neuroanaesthesia, if indicated?",
+   "options": [
+    "4mg",
+    "8mg",
+    "16mg",
+    "0.5mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#c3329a",
+   "kind": "mcq",
+   "stem": "What MAC range is kept for isoflurane or sevoflurane in neuroanaesthesia?",
+   "options": [
+    "0.6-0.8MAC",
+    "1.2-1.5MAC",
+    "0.1-0.2MAC",
+    "2-2.5MAC"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#c3329a",
+   "kind": "statement",
+   "stem": "Why must volatile anaesthetic concentration stay below 1 MAC in neuroanaesthesia?",
+   "answer": "To avoid raising ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#f19832",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is often preferred for intracranial surgery?",
+   "options": [
+    "Propofol TIVA",
+    "Sevoflurane with nitrous oxide",
+    "Desflurane inhalational",
+    "Ketamine infusion alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#af3040",
+   "kind": "statement",
+   "stem": "Why is propofol TIVA thought to suit intracranial surgery?",
+   "answer": "It keeps cerebral flow-metabolism coupling and CO2 reactivity intact",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#bf3f8d",
+   "kind": "mcq",
+   "stem": "Which drug class is the gold standard for cerebral protection in neuroanaesthesia?",
+   "options": [
+    "Benzodiazepines",
+    "Opioids",
+    "Barbiturates",
+    "Volatile anaesthetics"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#87ce63",
+   "kind": "statement",
+   "stem": "What does etomidate progressively do to cerebral metabolism in neuroanaesthesia?",
+   "answer": "Lowers it to an isoelectric EEG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#a1afed",
+   "kind": "mcq",
+   "stem": "Why are benzodiazepines not used for cerebral protection in neuroanaesthesia?",
+   "options": [
+    "They cannot fully suppress the EEG",
+    "They strongly raise cerebral blood flow",
+    "They are too short acting to use",
+    "They increase cerebral oxygen demand"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#d9383f",
+   "kind": "mcq",
+   "stem": "Which opioid should be avoided in neuroanaesthesia?",
+   "options": [
+    "Fentanyl",
+    "Remifentanil",
+    "Morphine",
+    "Alfentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#b4f90b",
+   "kind": "statement",
+   "stem": "In neuroanaesthesia, which relaxant class do most prefer over suxamethonium?",
+   "answer": "A non-depolarising NMBD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#063342",
+   "kind": "mcq",
+   "stem": "In neuroanaesthesia, why is nitrous oxide a concern for intracranial pressure?",
+   "options": [
+    "Cerebral vasoconstriction, lowering CBF and ICP",
+    "Cerebral vasodilation, raising CBF and ICP",
+    "Deep suppression of cerebral metabolism",
+    "Reduced cerebral blood flow with no ICP change"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#063342",
+   "kind": "statement",
+   "stem": "What does nitrous oxide do to air-filled spaces, and what risk does that carry?",
+   "answer": "Expands air: venous air embolism, pneumocephalus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#2f85f1",
+   "kind": "mcq",
+   "stem": "What does ketamine do to intracranial pressure in neuroanaesthesia?",
+   "options": [
+    "Lowers it markedly",
+    "No effect at all",
+    "Lowers it through vasoconstriction",
+    "Increases it"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#2f85f1",
+   "kind": "statement",
+   "stem": "What emergence problem may ketamine cause in neuroanaesthesia?",
+   "answer": "Emergence delirium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#d25d56",
+   "kind": "statement",
+   "stem": "What neurological drawback does morphine have after neurosurgery?",
+   "answer": "Hampers postoperative neurological monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#d25d56",
+   "kind": "statement",
+   "stem": "What respiratory effect does morphine have in neuroanaesthesia?",
+   "answer": "Respiratory depression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#682820",
+   "kind": "statement",
+   "stem": "In neuroanaesthesia, how should benzodiazepines be used, and why?",
+   "answer": "Sparingly, to allow rapid emergence and neurological assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#86ea50",
+   "kind": "mcq",
+   "stem": "Which is the fluid of choice in neuroanaesthesia?",
+   "options": [
+    "0.9% saline or Sterofundin without dextrose",
+    "5% dextrose in water",
+    "0.45% saline",
+    "Hartmann's solution"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#6e367a",
+   "kind": "mcq",
+   "stem": "Which fluid should be avoided in neuroanaesthesia because it worsens cerebral oedema?",
+   "options": [
+    "0.9% saline",
+    "Sterofundin without dextrose",
+    "Hypotonic fluids (e.g. Hartmann's)",
+    "Plasma-Lyte"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#fa2a62",
+   "kind": "mcq",
+   "stem": "Which fluid type should be avoided in neuroanaesthesia because it worsens ischaemia and oedema?",
+   "options": [
+    "Sterofundin without dextrose",
+    "0.9% saline",
+    "Plasma-Lyte",
+    "Glucose-containing fluids"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#a8885c",
+   "kind": "statement",
+   "stem": "Why is fluid restriction no longer used for raised ICP in neuroanaesthesia?",
+   "answer": "Only moderately effective; causes hypotension and cerebral and renal hypoperfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#9de51f",
+   "kind": "statement",
+   "stem": "Which neurocritical care monitors may patients arrive with for neuroanaesthesia?",
+   "answer": "External ventricular drain (EVD), SjVO2 catheter, brain tissue oxygen probe",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroanaesthesia#fcc4c3",
+   "kind": "statement",
+   "stem": "In neuroanaesthesia, what should happen to neurocritical care monitors where possible?",
+   "answer": "Continue them through the perioperative period",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

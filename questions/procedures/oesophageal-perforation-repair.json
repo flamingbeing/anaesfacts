@@ -1,0 +1,109 @@
+{
+ "topic": "procedures/oesophageal-perforation-repair",
+ "questions": [
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#2b37c4",
+   "kind": "blank",
+   "stem": "Oesophageal perforation after endoscopy or oesophageal dilatation is classed as ____.",
+   "answer": "Iatrogenic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#b0f379",
+   "kind": "mcq",
+   "stem": "What mechanism causes rupture in Boerhaave's syndrome of the oesophagus?",
+   "options": [
+    "Ischaemic necrosis",
+    "Caustic injury",
+    "Barogenic rupture",
+    "Tumour erosion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#a4098a",
+   "kind": "mcq",
+   "stem": "How long after placement is a temporary oesophageal stent removed for perforation?",
+   "options": [
+    "24-48 hours later",
+    "1-2 weeks later",
+    "6-12 months later",
+    "6-12 weeks later"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#7c777f",
+   "kind": "statement",
+   "stem": "What determines the approach to oesophageal repair after perforation?",
+   "answer": "The level of the rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#93b5d0",
+   "kind": "statement",
+   "stem": "What does a preoperative CT chest and abdomen show in oesophageal perforation?",
+   "answer": "Pneumomediastinum and pleural effusions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#7e6cd2",
+   "kind": "mcq",
+   "stem": "For a thoracoscopic oesophageal perforation repair, which ventilation strategy is used?",
+   "options": [
+    "Two-lung ventilation with a single-lumen tube",
+    "High-frequency jet ventilation",
+    "Spontaneous ventilation with a face mask",
+    "One-lung ventilation with a DLT or bronchial blocker"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#d3f545",
+   "kind": "statement",
+   "stem": "Why is rapid sequence induction used for oesophageal perforation repair?",
+   "answer": "Aspiration risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#175eb1",
+   "kind": "statement",
+   "stem": "Why should coughing and straining be avoided during oesophageal perforation repair?",
+   "answer": "They risk extending the rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#bde2f2",
+   "kind": "mcq",
+   "stem": "Which analgesic is ideal for oesophageal perforation repair, within a multimodal plan?",
+   "options": [
+    "Oral paracetamol alone",
+    "Thoracic epidural",
+    "Patient-controlled IV opioid alone",
+    "Intravenous ketamine infusion alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/oesophageal-perforation-repair#e3cdfd",
+   "kind": "blank",
+   "stem": "Early enteral feeding after oesophageal perforation repair is given by a ____ tube.",
+   "answer": "nasojejunal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

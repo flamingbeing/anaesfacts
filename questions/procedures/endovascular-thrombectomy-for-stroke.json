@@ -1,0 +1,493 @@
+{
+ "topic": "procedures/endovascular-thrombectomy-for-stroke",
+ "questions": [
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#991dd7",
+   "kind": "statement",
+   "stem": "Which two anaesthetic approaches are weighed for endovascular thrombectomy for stroke?",
+   "answer": "GA versus monitored anaesthesia care (MAC)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#4f2c38",
+   "kind": "mcq",
+   "stem": "Which volatile agent is typical for general anaesthesia in endovascular thrombectomy for stroke?",
+   "options": [
+    "Desflurane",
+    "Sevoflurane",
+    "Halothane",
+    "Nitrous oxide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#4f2c38",
+   "kind": "mcq",
+   "stem": "Which vasopressor infusion is used around induction for general anaesthesia in stroke thrombectomy?",
+   "options": [
+    "Glyceryl trinitrate infusion",
+    "Dobutamine infusion",
+    "Phenylephrine infusion",
+    "Magnesium infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#9d5c30",
+   "kind": "mcq",
+   "stem": "For a high-risk stroke thrombectomy patient, who should be asked to insert a central line?",
+   "options": [
+    "The neurologist",
+    "The radiologist",
+    "The ICU nurse",
+    "The anaesthetic trainee"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#2a4c1d",
+   "kind": "mcq",
+   "stem": "Within how many hours of onset should thrombolysis and thrombectomy referral be decided in stroke?",
+   "options": [
+    "1 h",
+    "3 h",
+    "12 h",
+    "4.5 h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#2a4c1d",
+   "kind": "mcq",
+   "stem": "Ideally, arterial puncture for stroke thrombectomy should occur within how many hours of onset?",
+   "options": [
+    "1 h",
+    "3 h",
+    "12 h",
+    "6 h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#429c20",
+   "kind": "mcq",
+   "stem": "In stroke, how much does untreated ischaemic brain age for each hour?",
+   "options": [
+    "1.8 yr",
+    "3.6 yr",
+    "0.9 yr",
+    "7.2 yr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#106a2e",
+   "kind": "mcq",
+   "stem": "Within 6 hours, which stroke type gets the most benefit from thrombectomy?",
+   "options": [
+    "Small vessel lacunar stroke",
+    "Medium vessel occlusion stroke",
+    "Large vessel anterior circulation stroke",
+    "Venous sinus thrombosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#aa1fd2",
+   "kind": "statement",
+   "stem": "Which two trials support endovascular thrombectomy in the extended window up to 24hrs?",
+   "answer": "DAWN and DIFFUSE 3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#aa1fd2",
+   "kind": "mcq",
+   "stem": "What is the extended time window for endovascular thrombectomy for stroke?",
+   "options": [
+    "Up to 12hrs",
+    "Up to 36hrs",
+    "Up to 24hrs",
+    "Up to 48hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#2e6c76",
+   "kind": "statement",
+   "stem": "Which two groups have been added to the wider selection for stroke thrombectomy?",
+   "answer": "Posterior circulation and larger infarct cores",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#ffacbf",
+   "kind": "statement",
+   "stem": "Under the 2026 AHA/ASA guideline, EVT up to 24hrs from onset includes which two patient groups?",
+   "answer": "Large ischaemic core and basilar artery occlusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#fa3870",
+   "kind": "statement",
+   "stem": "Which two trials showed no benefit of thrombectomy in medium vessel occlusion as of 2025?",
+   "answer": "DISTAL and ESCALE-MePO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#c78df2",
+   "kind": "mcq",
+   "stem": "Which artery is usually used for access in endovascular thrombectomy for stroke?",
+   "options": [
+    "Radial artery",
+    "Femoral artery",
+    "Brachial artery",
+    "Axillary artery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#f083de",
+   "kind": "statement",
+   "stem": "In endovascular thrombectomy for stroke, where is the guide catheter first placed?",
+   "answer": "Into the internal carotid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#4042b8",
+   "kind": "mcq",
+   "stem": "What do some teams give to reduce catheter-related embolism in stroke thrombectomy?",
+   "options": [
+    "A continuous heparin infusion",
+    "A single heparin dose",
+    "A single aspirin dose",
+    "A single tranexamic acid dose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#86c80e",
+   "kind": "mcq",
+   "stem": "In stroke thrombectomy, what door-to-reperfusion time is considered good?",
+   "options": [
+    "<180min",
+    "<240min",
+    "<360min",
+    "<90min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#089c60",
+   "kind": "mcq",
+   "stem": "What proportion of stroke thrombectomy patients arrive hypertensive?",
+   "options": [
+    "About 10%",
+    "Under 40%",
+    "More than 60%",
+    "Under 20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#089c60",
+   "kind": "statement",
+   "stem": "What drives the hypertension seen in stroke thrombectomy patients on arrival?",
+   "answer": "Baseline hypertension, Cushing response to oedema mass effect, and a stress response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#716dde",
+   "kind": "mcq",
+   "stem": "What is the usual fasting status of patients for endovascular thrombectomy for stroke?",
+   "options": [
+    "Fasted overnight",
+    "Fasted for six hours",
+    "Unfasted",
+    "Fasted for one hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#a9ecce",
+   "kind": "statement",
+   "stem": "What should be documented in preoperative assessment for stroke thrombectomy?",
+   "answer": "Baseline neurology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#11f37c",
+   "kind": "statement",
+   "stem": "Given little time, which investigations should be used before stroke thrombectomy?",
+   "answer": "Admission investigations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#9bfead",
+   "kind": "statement",
+   "stem": "What do patients transferred from other hospitals need on arrival for stroke thrombectomy?",
+   "answer": "Urgent reassessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#86349a",
+   "kind": "mcq",
+   "stem": "What prior treatment may a stroke thrombectomy patient already have had?",
+   "options": [
+    "Tranexamic acid",
+    "rtPA",
+    "Desmopressin",
+    "Mannitol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#2624a4",
+   "kind": "statement",
+   "stem": "How settled is the choice between GA and MAC for endovascular thrombectomy for stroke?",
+   "answer": "Controversial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#05165d",
+   "kind": "mcq",
+   "stem": "For stroke thrombectomy under sedation, what is the risk of emergency conversion to GA?",
+   "options": [
+    "1-2%",
+    "4-10%",
+    "15-20%",
+    "25-30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#f40783",
+   "kind": "statement",
+   "stem": "How often is local anaesthesia without an anaesthetist used for stroke thrombectomy?",
+   "answer": "Rarely used",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#1bd462",
+   "kind": "statement",
+   "stem": "In endovascular thrombectomy, what did the 2022 GASS trial find about protocolised anaesthesia?",
+   "answer": "No difference in mRS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#1e3ab3",
+   "kind": "statement",
+   "stem": "In endovascular thrombectomy under general anaesthesia, what induction is used if fasting status is in doubt?",
+   "answer": "Rapid sequence induction (RSI)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#e606c1",
+   "kind": "blank",
+   "stem": "In thrombectomy under volatile anaesthesia, the volatile need not reach 1 MAC; about ____ MAC may be enough.",
+   "answer": "0.5-0.6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#575bc0",
+   "kind": "mcq",
+   "stem": "During endovascular thrombectomy, how deep should sedation be when it is used?",
+   "options": [
+    "Deep, to abolish all movement",
+    "Moderate, to obliterate reflexes",
+    "Very light",
+    "Absent, with general anaesthesia always"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#3892f4",
+   "kind": "mcq",
+   "stem": "For endovascular thrombectomy, when is the arterial line placed?",
+   "options": [
+    "After recanalisation is confirmed",
+    "During induction, to save time",
+    "Only when vasopressors start",
+    "After leaving the angiosuite"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#8e0fc5",
+   "kind": "mcq",
+   "stem": "For noradrenaline in thrombectomy, when may a central line be needed?",
+   "options": [
+    "If the patient is fasting",
+    "If arterial access fails",
+    "If ejection fraction is very low",
+    "If the stroke is posterior"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#916293",
+   "kind": "mcq",
+   "stem": "Why is an IV phenylephrine infusion commonly used during endovascular thrombectomy?",
+   "options": [
+    "Blood pressure usually rises at intubation",
+    "Heart rate usually falls after extubation",
+    "Ejection fraction usually rises during the case",
+    "Blood pressure usually falls after induction"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#de7984",
+   "kind": "mcq",
+   "stem": "Which drug infusion may be considered in thrombectomy to prevent patient movement?",
+   "options": [
+    "Phenylephrine",
+    "Atracurium",
+    "Noradrenaline",
+    "Nitroglycerin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#0a7fa0",
+   "kind": "statement",
+   "stem": "In endovascular thrombectomy, what two items does the anaesthetist not need to provide?",
+   "answer": "NG tube and heparin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#85d856",
+   "kind": "mcq",
+   "stem": "Per SNACC 2014, what systolic BP range before recanalisation perfuses the penumbra in thrombectomy?",
+   "options": [
+    "90-110mmHg",
+    "140-180mmHg",
+    "100-120mmHg",
+    "180-200mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#a9df4f",
+   "kind": "mcq",
+   "stem": "After successful recanalisation in thrombectomy, what systolic BP range is targeted?",
+   "options": [
+    "100-130",
+    "160-200",
+    "120-160",
+    "200-220"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#a20457",
+   "kind": "mcq",
+   "stem": "What do the 2026 ASA/AHA guidelines advise on blood pressure in thrombectomy?",
+   "options": [
+    "Target systolic BP below 140 routinely",
+    "Keep systolic BP below 220 throughout",
+    "Keep BP between 140 and 160 strictly",
+    "Keep BP below 180; no need to target below 140"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#12bc7a",
+   "kind": "statement",
+   "stem": "At the end of endovascular thrombectomy, what airway decision must be made?",
+   "answer": "Whether to extubate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#ddd4bf",
+   "kind": "statement",
+   "stem": "In thrombectomy, which patient positioning gave better neurological outcome in the ZODIAC trial?",
+   "answer": "Supine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#1e02a1",
+   "kind": "statement",
+   "stem": "When might open cerebral embolectomy be preferred over endovascular thrombectomy?",
+   "answer": "Large atherosclerotic plaque or foreign body",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/endovascular-thrombectomy-for-stroke#4e5958",
+   "kind": "mcq",
+   "stem": "How many levels does the modified Rankin Scale for disability after stroke have?",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "10"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

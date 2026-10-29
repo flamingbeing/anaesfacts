@@ -1,0 +1,269 @@
+{
+ "topic": "procedures/neuroradiology",
+ "questions": [
+  {
+   "fact_id": "procedures/neuroradiology#1e064e",
+   "kind": "mcq",
+   "stem": "In neuroradiology, which endovascular procedure is used for ischaemic stroke?",
+   "options": [
+    "Aneurysm coiling",
+    "Endovascular thrombectomy",
+    "Carotid stenting",
+    "AVM functional testing"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#8e37ce",
+   "kind": "blank",
+   "stem": "In neuroradiology, preoperative ____ of vessels feeding intracranial lesions is a procedure.",
+   "answer": "embolisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#c60e3a",
+   "kind": "blank",
+   "stem": "In neuroanaesthesia, ICP is controlled via PaCO2, venous return, sedation and ____.",
+   "answer": "paralysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#e58417",
+   "kind": "statement",
+   "stem": "What parameters must be maintained for neuroprotection during neuroradiology procedures?",
+   "answer": "CPP, PaO2, PaCO2, normoglycaemia and normothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#e58417",
+   "kind": "blank",
+   "stem": "For neuroprotection in neuroradiology, maintain CPP, PaO2, PaCO2, normoglycaemia and ____.",
+   "answer": "normothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#350224",
+   "kind": "statement",
+   "stem": "What should the anaesthetist be ready for during neuroradiology procedures?",
+   "answer": "Specific intraoperative crises",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#2bf1ed",
+   "kind": "mcq",
+   "stem": "Under which anaesthetic technique are most neuroradiology procedures performed?",
+   "options": [
+    "Spinal anaesthesia",
+    "Epidural anaesthesia",
+    "General anaesthesia",
+    "Caudal block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#b68049",
+   "kind": "statement",
+   "stem": "Besides general anaesthesia, what technique is possible for neuroradiology procedures?",
+   "answer": "Local anaesthesia with or without sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#904791",
+   "kind": "statement",
+   "stem": "During neuroradiology under local anaesthesia, which step is the main source of pain?",
+   "answer": "Femoral artery access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#c5ad47",
+   "kind": "statement",
+   "stem": "Why is an endotracheal tube generally preferred for neuroradiology procedures?",
+   "answer": "Long procedures, restricted access, and spontaneous breathing prevents control of EtCO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#a23327",
+   "kind": "mcq",
+   "stem": "In neuroradiology, which airway change can smooth extubation and emergence?",
+   "options": [
+    "Tracheostomy insertion",
+    "Exchange to an LMA",
+    "Nasal intubation",
+    "Double-lumen tube"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#9731b8",
+   "kind": "blank",
+   "stem": "After neuroradiology, if the arterial sheath is removed, press firmly on the ____.",
+   "answer": "groin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#9731b8",
+   "kind": "statement",
+   "stem": "What is suggested for the arterial sheath after neuroradiology procedures?",
+   "answer": "Consider leaving the arterial sheath in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#6bbb94",
+   "kind": "mcq",
+   "stem": "After a neuroradiology procedure, how long is bed rest usually?",
+   "options": [
+    "2hr",
+    "6hr",
+    "12hr",
+    "24hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#5db08c",
+   "kind": "statement",
+   "stem": "Why should the patient not be woken until the pressure dressing is on after neuroradiology?",
+   "answer": "Coughing can cause bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#4cb9d5",
+   "kind": "statement",
+   "stem": "What are the aims of arteriovenous malformation embolisation?",
+   "answer": "Obliterate the nidus, or shrink it before surgery or radiosurgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#3bcbc9",
+   "kind": "statement",
+   "stem": "How can hyperventilation help during arteriovenous malformation embolisation?",
+   "answer": "It reduces flow to normal brain while flow in the nidus is maintained",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#d17213",
+   "kind": "mcq",
+   "stem": "In AVM embolisation, how would you describe cyanoacrylate glue?",
+   "options": [
+    "High-viscosity solid polymer",
+    "Ionic blood-clotting gel",
+    "Low-viscosity liquid monomer",
+    "Non-ionic saline suspension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#d17213",
+   "kind": "statement",
+   "stem": "What happens when cyanoacrylate glue contacts blood during AVM embolisation?",
+   "answer": "It polymerises on contact with ionic blood",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#e30cae",
+   "kind": "mcq",
+   "stem": "What is the worst complication of glue embolisation for AVM?",
+   "options": [
+    "Contrast allergy",
+    "Local groin haematoma",
+    "Pulmonary embolism",
+    "Acute cerebral haemorrhage"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#8f7819",
+   "kind": "statement",
+   "stem": "What did CREST find when comparing carotid stenting with endarterectomy?",
+   "answer": "No significant overall difference over four years of follow-up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#8f7819",
+   "kind": "blank",
+   "stem": "CREST found no significant overall difference between stenting and endarterectomy over ____ years of follow-up.",
+   "answer": "four",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#09b4f8",
+   "kind": "statement",
+   "stem": "What must be assessed during carotid angioplasty and stenting?",
+   "answer": "Neurological function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#020654",
+   "kind": "statement",
+   "stem": "What causes rapid swings in blood pressure and heart rate during carotid stenting?",
+   "answer": "Balloon or stent stretch of the carotid triggering baroreceptor reflexes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#7ba1e2",
+   "kind": "mcq",
+   "stem": "During carotid stenting, which IV drug and dose treats the reflex swings in BP and heart rate?",
+   "options": [
+    "Atropine 0.05-0.1 mg",
+    "Atropine 0.5-1 mg",
+    "Glycopyrrolate 0.1 mg",
+    "Neostigmine 0.5 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#0912f2",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is usually used for carotid angioplasty and stenting?",
+   "options": [
+    "General anaesthesia",
+    "Spinal anaesthesia",
+    "Epidural anaesthesia",
+    "MAC"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neuroradiology#0912f2",
+   "kind": "statement",
+   "stem": "Why is general anaesthesia usually avoided in carotid angioplasty and stenting?",
+   "answer": "Neurology cannot be assessed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

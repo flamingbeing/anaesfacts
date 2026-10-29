@@ -1,0 +1,257 @@
+{
+ "topic": "procedures/foot-and-ankle-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#2fc327",
+   "kind": "mcq",
+   "stem": "Roughly how long does tendon transfer surgery in the foot and ankle take?",
+   "options": [
+    "1-2hrs",
+    "4-5hrs",
+    "≤1hr",
+    "2+ hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#c4b659",
+   "kind": "mcq",
+   "stem": "Roughly how long does joint arthrodesis in foot and ankle surgery take?",
+   "options": [
+    "≤1hr",
+    "1-2hrs",
+    "2+ hrs",
+    "5-6hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#92d32b",
+   "kind": "mcq",
+   "stem": "Roughly how long does open reduction and internal fixation in foot and ankle surgery take?",
+   "options": [
+    "45-60min",
+    "1.5–2hr",
+    "3-4hrs",
+    "10-15min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#023de0",
+   "kind": "mcq",
+   "stem": "Roughly how long does prosthetic joint replacement in the foot or ankle take?",
+   "options": [
+    "≤1hr",
+    "1-2hrs",
+    "1.5–2hr",
+    "2+ hrs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#c8d662",
+   "kind": "statement",
+   "stem": "Roughly how long does foot and ankle surgery usually last?",
+   "answer": "About 2hrs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#dab1dc",
+   "kind": "statement",
+   "stem": "Why is blood loss usually minimal in foot and ankle surgery?",
+   "answer": "A tourniquet is often used",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#563b55",
+   "kind": "statement",
+   "stem": "How is pain from foot and ankle surgery described?",
+   "answer": "Variable; can be very painful",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#580612",
+   "kind": "statement",
+   "stem": "What should be planned for because tourniquets are common in foot and ankle surgery?",
+   "answer": "Tourniquet pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#95714a",
+   "kind": "statement",
+   "stem": "After ankle trauma, when may ORIF be urgent?",
+   "answer": "If distal circulation is compromised",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#7f55e4",
+   "kind": "mcq",
+   "stem": "Which induction is best in trauma for ankle fracture fixation, given the full-stomach aspiration risk?",
+   "options": [
+    "Awake fibreoptic intubation",
+    "Slow inhalational induction",
+    "Rapid sequence induction",
+    "Propofol infusion alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#873c06",
+   "kind": "statement",
+   "stem": "What should be confirmed about other significant injuries before ankle fracture fixation?",
+   "answer": "They have been dealt with",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#375b54",
+   "kind": "statement",
+   "stem": "Why must concern about compartment syndrome be excluded before a nerve block for ankle ORIF?",
+   "answer": "A block would mask it postoperatively",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#c73389",
+   "kind": "statement",
+   "stem": "Which anaesthetic is a good alternative for ankle fracture ORIF?",
+   "answer": "Spinal anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#3f06b9",
+   "kind": "mcq",
+   "stem": "Which intrathecal opioid is used to prolong analgesia after ankle fracture fixation?",
+   "options": [
+    "Pethidine",
+    "Ketamine",
+    "Diamorphine",
+    "Paracetamol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#3f06b9",
+   "kind": "mcq",
+   "stem": "What intrathecal diamorphine dose is quoted to prolong analgesia in ankle ORIF?",
+   "options": [
+    "0.25–0.5mg",
+    "1-2mg",
+    "5-10mg",
+    "0.05–0.1mg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#07100f",
+   "kind": "statement",
+   "stem": "Which foot procedure is especially painful afterwards?",
+   "answer": "Osteotomies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#dd9e14",
+   "kind": "mcq",
+   "stem": "How long does a typical foot surgery case usually take?",
+   "options": [
+    "2 to 3hrs",
+    "30min to 1hr",
+    "3 to 4hrs",
+    "5 to 6hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#c40d38",
+   "kind": "statement",
+   "stem": "What do many foot surgery day cases need in order to be discharged?",
+   "answer": "Early mobilisation and good analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#98a571",
+   "kind": "statement",
+   "stem": "In foot surgery, which procedures benefit especially from blocks for postoperative analgesia?",
+   "answer": "Osteotomies and nail bed excision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#9225c8",
+   "kind": "mcq",
+   "stem": "How far before surgery should foot blocks be done if used without general anaesthesia?",
+   "options": [
+    "A full 15min",
+    "A full 40min",
+    "A full 5min",
+    "A full 10min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#8a705e",
+   "kind": "statement",
+   "stem": "For foot surgery, what is the usual purpose of nerve blocks combined with GA?",
+   "answer": "Postoperative analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#f63508",
+   "kind": "statement",
+   "stem": "Which foot blocks must not contain adrenaline?",
+   "answer": "Ring and web-space blocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#7966d3",
+   "kind": "mcq",
+   "stem": "When does breakthrough tourniquet pain become common in foot surgery?",
+   "options": [
+    "Surgery under 20min",
+    "Surgery longer than 45min",
+    "Surgery under 30min",
+    "Surgery under 10min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/foot-and-ankle-surgery#c08991",
+   "kind": "statement",
+   "stem": "Where should the tourniquet be placed to reduce tourniquet pain?",
+   "answer": "As distally as possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

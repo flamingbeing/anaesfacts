@@ -1,0 +1,103 @@
+{
+ "topic": "procedures/duration-of-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/duration-of-surgery#858d00",
+   "kind": "mcq",
+   "stem": "For a case under 30 minutes needing intubation, which relaxant avoids residual paralysis at emergence?",
+   "options": [
+    "High-dose vecuronium",
+    "Full-dose atracurium",
+    "Neostigmine alone",
+    "Suxamethonium or low-dose rocuronium"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#0f3f32",
+   "kind": "statement",
+   "stem": "For surgery of 30 minutes to 4 hours, what temperature management is used?",
+   "answer": "Forced-air warmer (Bair Hugger), with or without a temperature probe",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#a66c5b",
+   "kind": "mcq",
+   "stem": "For surgery over 4 hours, what temperature management is advised?",
+   "options": [
+    "Passive covering only",
+    "Forced-air warmer and temperature probe",
+    "Warmed fluids only",
+    "No warming needed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#40961b",
+   "kind": "statement",
+   "stem": "What should be watched in surgery over 4 hours?",
+   "answer": "Fluid balance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#91ab5d",
+   "kind": "statement",
+   "stem": "For surgery over 4 hours, what ergonomic advice is given?",
+   "answer": "Get comfortable and move as little as possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#685e8a",
+   "kind": "mcq",
+   "stem": "In surgery over 8 hours such as free flap, which opioid is used for intraoperative titration?",
+   "options": [
+    "Morphine",
+    "Remifentanil",
+    "Pethidine",
+    "Tramadol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#9c460b",
+   "kind": "statement",
+   "stem": "In surgery over 8 hours, why is an arterial line placed?",
+   "answer": "To spare repeated NIBP cuffing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#9c460b",
+   "kind": "blank",
+   "stem": "In long cases over 8 hours, ABG checks include lactate, Hb and ____.",
+   "answer": "glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#be7d71",
+   "kind": "statement",
+   "stem": "In surgery over 8 hours, which line gives reliable IV access?",
+   "answer": "Central line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/duration-of-surgery#9fa48b",
+   "kind": "statement",
+   "stem": "After a very long case over 8 hours, what disposition should be considered?",
+   "answer": "ICU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

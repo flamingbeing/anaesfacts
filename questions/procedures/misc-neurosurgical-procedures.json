@@ -1,0 +1,111 @@
+{
+ "topic": "procedures/misc-neurosurgical-procedures",
+ "questions": [
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#1e1b5b",
+   "kind": "mcq",
+   "stem": "How long is the usual operating time for a stereotactic brain biopsy, excluding localisation?",
+   "options": [
+    "About 3 hours",
+    "About 1.5 hours",
+    "About 6 hours",
+    "About 45 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#b5e3e5",
+   "kind": "statement",
+   "stem": "Why are antibiotics and dexamethasone withheld during stereotactic brain biopsy?",
+   "answer": "Until the frozen section is back, in case the lesion is an abscess or lymphoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#88f6df",
+   "kind": "statement",
+   "stem": "What are the indications for EC-IC bypass surgery?",
+   "answer": "Increase or maintain cerebral blood flow, or occlude an intracranial aneurysm that cannot be reached surgically",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#c868d1",
+   "kind": "statement",
+   "stem": "Which artery is usually the donor vessel in EC-IC bypass?",
+   "answer": "Superficial temporal artery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#f1d7b7",
+   "kind": "statement",
+   "stem": "What alternative graft is used in EC-IC bypass when an external carotid branch is unsuitable?",
+   "answer": "Temporalis muscle or omentum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#38c787",
+   "kind": "mcq",
+   "stem": "What MAP range is aimed for with controlled hypertension during EC-IC bypass?",
+   "options": [
+    "MAP 60-70",
+    "MAP 75-85",
+    "MAP 90-110",
+    "MAP 130-150"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#5b57e8",
+   "kind": "mcq",
+   "stem": "What temperature range do some centres use for mild hypothermia in EC-IC bypass?",
+   "options": [
+    "36-37 °C",
+    "33-34 °C",
+    "28-30 °C",
+    "24-26 °C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#1cdad3",
+   "kind": "blank",
+   "stem": "Before cerebral artery cross-clamping in EC-IC bypass, burst suppression is induced with thiopentone or ____ 1mg/kg.",
+   "answer": "propofol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#1cdad3",
+   "kind": "statement",
+   "stem": "When is burst suppression induced during a direct EC-IC bypass?",
+   "answer": "Just before the cerebral artery is cross-clamped",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#7813c6",
+   "kind": "statement",
+   "stem": "Which intraoperative neurophysiological monitoring is used during EC-IC bypass?",
+   "answer": "SSEP and EEG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/misc-neurosurgical-procedures#754fb6",
+   "kind": "statement",
+   "stem": "What postoperative risk is specific to EC-IC bypass?",
+   "answer": "Cerebral hyperperfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

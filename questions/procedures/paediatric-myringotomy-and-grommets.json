@@ -1,0 +1,197 @@
+{
+ "topic": "procedures/paediatric-myringotomy-and-grommets",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#ea8026",
+   "kind": "statement",
+   "stem": "How common is myringotomy and grommet surgery in UK paediatric practice?",
+   "answer": "One of the commonest paediatric operations.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#b4652b",
+   "kind": "statement",
+   "stem": "What does a myringotomy involve in paediatric ear surgery?",
+   "answer": "An incision in the tympanic membrane and suction of middle ear secretions.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#5da8b6",
+   "kind": "mcq",
+   "stem": "What is often inserted alongside a myringotomy in children?",
+   "options": [
+    "Septoplasty",
+    "Grommets (tympanostomy tubes)",
+    "Mastoidectomy",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#b6988a",
+   "kind": "statement",
+   "stem": "What are the main indications for myringotomy and grommets?",
+   "answer": "Recurrent otitis media and persistent middle ear effusion.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#db31f4",
+   "kind": "statement",
+   "stem": "What position is used for a short myringotomy procedure?",
+   "answer": "Supine with the head turned to the side.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#012e43",
+   "kind": "mcq",
+   "stem": "Is myringotomy usually done on one ear or both ears?",
+   "options": [
+    "Usually unilateral",
+    "Usually bilateral",
+    "Only on the dominant ear",
+    "Only if the ear is discharging"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#1d6def",
+   "kind": "statement",
+   "stem": "Why must the child be kept still during myringotomy?",
+   "answer": "An operating microscope gives a magnified field.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#e8857e",
+   "kind": "statement",
+   "stem": "Which age group mostly has myringotomy and grommets?",
+   "answer": "Infants and toddlers.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#9b834c",
+   "kind": "statement",
+   "stem": "Which symptoms are common in children presenting for myringotomy and grommets?",
+   "answer": "Respiratory symptoms.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#4fd40d",
+   "kind": "mcq",
+   "stem": "Which congenital condition is notably common in children having myringotomy and grommets?",
+   "options": [
+    "Turner syndrome",
+    "Marfan syndrome",
+    "Down's syndrome",
+    "Phenylketonuria"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#c2a8a2",
+   "kind": "mcq",
+   "stem": "Which induction is common for myringotomy in young children with difficult venous access?",
+   "options": [
+    "Rapid sequence induction with suxamethonium",
+    "Inhalational induction",
+    "Awake fibreoptic intubation",
+    "Intravenous induction only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#00130c",
+   "kind": "mcq",
+   "stem": "Which airway is usually used for myringotomy and grommets?",
+   "options": [
+    "Cuffed oral tracheal tube",
+    "Face mask or LMA",
+    "Nasal RAE tube",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#3d4cad",
+   "kind": "statement",
+   "stem": "What is the usual maintenance for myringotomy and grommets?",
+   "answer": "Volatile in oxygen with air or nitrous oxide.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#3b6409",
+   "kind": "mcq",
+   "stem": "Which ventilation is the norm during myringotomy and grommets?",
+   "options": [
+    "Controlled ventilation with muscle relaxant",
+    "Spontaneous ventilation",
+    "IPPV via tracheal tube",
+    "Jet ventilation through an LMA"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#e6d532",
+   "kind": "statement",
+   "stem": "Which airway complication can occur during myringotomy?",
+   "answer": "Laryngospasm.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#1e9a4f",
+   "kind": "statement",
+   "stem": "How does postoperative pain after grommets tend to vary?",
+   "answer": "Unpredictable, from none to an inconsolable child.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#67d679",
+   "kind": "mcq",
+   "stem": "What analgesia is usually enough after grommets?",
+   "options": [
+    "Intravenous morphine infusion",
+    "Simple analgesia such as paracetamol and NSAIDs",
+    "Epidural infusion",
+    "Patient-controlled fentanyl"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-myringotomy-and-grommets#da1e65",
+   "kind": "mcq",
+   "stem": "What may some anaesthetists give as premedication before grommets?",
+   "options": [
+    "Intramuscular morphine",
+    "Paracetamol or ibuprofen",
+    "Intravenous fentanyl",
+    "Oral codeine phosphate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

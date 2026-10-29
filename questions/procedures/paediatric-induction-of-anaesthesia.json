@@ -1,0 +1,251 @@
+{
+ "topic": "procedures/paediatric-induction-of-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#fd5c83",
+   "kind": "statement",
+   "stem": "When choosing a paediatric induction method, what should be done with the parent?",
+   "answer": "Explain the 2 methods and ask for any preference.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#7be449",
+   "kind": "mcq",
+   "stem": "In paediatric IV induction, what should be done if a cannula is already in place?",
+   "options": [
+    "Remove it and site a new cannula",
+    "Test that it is patent",
+    "Leave it untested until surgery",
+    "Replace it with a larger gauge cannula"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#cda2b0",
+   "kind": "mcq",
+   "stem": "A child needing IV induction has no cannula. Which gas can help cannulation if the child agrees?",
+   "options": [
+    "Oxygen via a face mask alone",
+    "Halothane given at high concentration",
+    "Nitrous oxide",
+    "Remifentanil infusion started first"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#2780ed",
+   "kind": "statement",
+   "stem": "How can propofol injection pain be reduced during paediatric IV induction?",
+   "answer": "Add lignocaine, dilute with normal saline, or give small aliquots instead of one bolus.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#bfc471",
+   "kind": "statement",
+   "stem": "How is inhalational induction regarded in paediatric anaesthesia?",
+   "answer": "A core paediatric technique, used often.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#006762",
+   "kind": "mcq",
+   "stem": "Which situation clinically indicates inhalational induction in a child?",
+   "options": [
+    "Asthma or a recent upper respiratory infection",
+    "Suspected epiglottitis or another potentially difficult airway",
+    "Known right to left cardiac shunt",
+    "Obstructive sleep apnoea or aspiration risk"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#f77eef",
+   "kind": "statement",
+   "stem": "When else might a paediatric inhalational induction be chosen, apart from clinical need?",
+   "answer": "When the child or parents request it, especially with repeat procedures.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#b8fbd9",
+   "kind": "mcq",
+   "stem": "Which venous access problem makes an anaesthetist prefer inhalational induction in a child?",
+   "options": [
+    "Recent upper respiratory tract infection",
+    "Limited cardiovascular reserve from hypovolaemia",
+    "Poor venous access, for example in a chubby toddler",
+    "Known right to left cardiac shunt"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#593abd",
+   "kind": "mcq",
+   "stem": "After inhalational induction, when should an IV cannula ideally be sited?",
+   "options": [
+    "Only after the child has woken from surgery",
+    "Before the mask is applied for induction",
+    "Only if the child becomes hypotensive",
+    "Before airway instrumentation or surgery"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#63576c",
+   "kind": "mcq",
+   "stem": "Which volatile agent is usually used for paediatric inhalational induction?",
+   "options": [
+    "Desflurane in oxygen",
+    "Sevoflurane in oxygen",
+    "Methoxyflurane in air",
+    "Ether in oxygen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#b3e194",
+   "kind": "statement",
+   "stem": "Why might oxygen and volatile be given alone, without nitrous oxide, during paediatric induction?",
+   "answer": "So the child is well oxygenated if the airway obstructs.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#523802",
+   "kind": "mcq",
+   "stem": "For inhalational induction with an anticipated difficult airway, which volatile is often chosen?",
+   "options": [
+    "Desflurane",
+    "Methoxyflurane",
+    "Halothane",
+    "Enflurane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#3113b3",
+   "kind": "statement",
+   "stem": "Why can sevoflurane be given at high concentration from the start during paediatric induction?",
+   "answer": "It is not an airway irritant.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#74d086",
+   "kind": "mcq",
+   "stem": "What rule of thumb guides increasing halothane during paediatric gas induction?",
+   "options": [
+    "2% every breath",
+    "0.5% every 4 breaths",
+    "1% every 2 breaths",
+    "5% every 10 breaths"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#74d086",
+   "kind": "statement",
+   "stem": "Why must halothane be stepped up gradually during a child's gas induction?",
+   "answer": "To avoid distress.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#dc5b8c",
+   "kind": "statement",
+   "stem": "What gas do most children accept first during inhalational induction?",
+   "answer": "Nitrous oxide, with volatile added gradually afterwards.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#75f094",
+   "kind": "statement",
+   "stem": "How does the anaesthetist apply the mask as a child gets drowsy?",
+   "answer": "Apply the mask with a gentle chin lift.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#a6ef69",
+   "kind": "statement",
+   "stem": "What is the main benefit of scented masks or lip balm during inhalational induction?",
+   "answer": "Ritual and the child's sense of control, not hiding the smell.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#0df693",
+   "kind": "statement",
+   "stem": "What can stimulating a child at too light an anaesthetic plane cause during induction?",
+   "answer": "Breath holding, coughing, laryngospasm and obstruction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#f4f214",
+   "kind": "mcq",
+   "stem": "Once a child is deep enough during gas induction, what should happen to the volatile?",
+   "options": [
+    "Increase the vaporiser to the maximum setting",
+    "Stop it completely before intubation",
+    "Keep it at the starting concentration",
+    "Reduce the inspired volatile concentration"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#46682d",
+   "kind": "statement",
+   "stem": "Why should a high volatile concentration not be given by bagging during gas induction?",
+   "answer": "It removes the built-in safety of gas induction and causes cardiovascular depression.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#495ecd",
+   "kind": "statement",
+   "stem": "Which children may be unsuitable for inhalational induction because of limited cardiovascular reserve?",
+   "answer": "Severe hypovolaemia, cardiac failure, right to left shunt, fixed cardiac output.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#598098",
+   "kind": "statement",
+   "stem": "What drawbacks come with repeated inhalational inductions in one day?",
+   "answer": "Pollution of the anaesthetic room and more staff fatigue.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-induction-of-anaesthesia#2156cd",
+   "kind": "statement",
+   "stem": "How do children often remember a prolonged difficult gas induction?",
+   "answer": "As very unpleasant.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

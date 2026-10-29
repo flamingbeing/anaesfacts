@@ -1,0 +1,95 @@
+{
+ "topic": "procedures/obstetric-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#c71c36",
+   "kind": "statement",
+   "stem": "In pregnancy, which maternal anaesthetic risk includes aspiration and desaturation?",
+   "answer": "Difficult airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#c2d70f",
+   "kind": "statement",
+   "stem": "What principle applies to the fetus during anaesthesia for surgery in pregnancy?",
+   "answer": "The fetus is the second patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#3e57a7",
+   "kind": "mcq",
+   "stem": "In pregnancy surgery, which fetal risk relates to drugs and radiation?",
+   "options": [
+    "Preterm labour",
+    "Fetal acidosis",
+    "Teratogenicity",
+    "Aortocaval compression"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#7905b8",
+   "kind": "statement",
+   "stem": "What should be maintained for the fetus during surgery in pregnancy?",
+   "answer": "Uteroplacental blood flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#7905b8",
+   "kind": "blank",
+   "stem": "During surgery in pregnancy, avoid fetal acidosis and ____.",
+   "answer": "hypoxaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#0b21ab",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is preferred for surgery in pregnancy?",
+   "options": [
+    "General anaesthesia",
+    "Regional anaesthesia",
+    "Sedation alone",
+    "Inhalational induction only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#25e178",
+   "kind": "statement",
+   "stem": "Which specialists should be involved in obstetric anaesthesia planning?",
+   "answer": "Obstetricians and neonatologists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#c58372",
+   "kind": "mcq",
+   "stem": "When is non-urgent surgery in pregnancy best timed, relative to delivery?",
+   "options": [
+    "2 weeks postpartum",
+    "6 weeks postpartum",
+    "12 weeks postpartum",
+    "6 months postpartum"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/obstetric-anaesthesia#c58372",
+   "kind": "statement",
+   "stem": "Apart from postpartum, when is non-urgent surgery in pregnancy best timed?",
+   "answer": "In the 2nd trimester",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

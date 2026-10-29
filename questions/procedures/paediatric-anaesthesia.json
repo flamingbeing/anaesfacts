@@ -1,0 +1,309 @@
+{
+ "topic": "procedures/paediatric-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#606044",
+   "kind": "mcq",
+   "stem": "In paediatric anaesthesia, which age group is often uncooperative before the procedure?",
+   "options": [
+    "Neonates",
+    "Preschool children",
+    "School-age children",
+    "Adolescents"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#1285b6",
+   "kind": "statement",
+   "stem": "In paediatric anaesthesia, what drug-related items should be ready in theatre before the child arrives?",
+   "answer": "Emergency drugs drawn up, saline flushes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#5285a8",
+   "kind": "statement",
+   "stem": "In paediatric anaesthesia, which equipment items must be checked and ready for the child?",
+   "answer": "Airway, breathing circuit, infusion pump",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#a45c8e",
+   "kind": "blank",
+   "stem": "In paediatric anaesthesia, always consider ____ to premedication, to inhalational induction and to day surgery.",
+   "answer": "contraindications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#af3844",
+   "kind": "statement",
+   "stem": "In paediatric preoperative assessment, which three issues should be checked before anaesthesia?",
+   "answer": "Asthma, upper respiratory tract infection, fasting time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#f303e5",
+   "kind": "statement",
+   "stem": "In paediatric preoperative assessment, what IV access detail should be checked?",
+   "answer": "Whether there is an IV cannula already",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#2b53c0",
+   "kind": "mcq",
+   "stem": "Which topical cream is applied to a child before paediatric anaesthesia?",
+   "options": [
+    "Co-phenylcaine spray",
+    "EMLA cream",
+    "Oxymetazoline nose drops",
+    "Lidocaine spray"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#64ff30",
+   "kind": "statement",
+   "stem": "In paediatric theatre preparation, how should the child be kept warm?",
+   "answer": "Warm the theatre; consider an underbody forced-air warmer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#46881e",
+   "kind": "statement",
+   "stem": "In paediatric theatre preparation, what should be precalculated and written down?",
+   "answer": "Drug doses, ETT size and depth, and fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#db04cb",
+   "kind": "statement",
+   "stem": "In paediatric theatre preparation, what should be drawn up beforehand?",
+   "answer": "Emergency drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#058d2a",
+   "kind": "mcq",
+   "stem": "In paediatric anaesthesia, below what weight is there a tenfold dosing error risk?",
+   "options": [
+    "Over 10 kg",
+    "Over 30 kg",
+    "Under 10 kg",
+    "Over 50 kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#8c41ef",
+   "kind": "blank",
+   "stem": "In paediatric theatre preparation, change to a paediatric ____ and tell the anaesthetic assistant the tube size.",
+   "answer": "head ring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#eee193",
+   "kind": "mcq",
+   "stem": "In paediatric theatre preparation, below what weight should a paediatric breathing circuit be used?",
+   "options": [
+    "Under 20 kg",
+    "Over 40 kg",
+    "Over 20 kg",
+    "Over 60 kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#eee193",
+   "kind": "statement",
+   "stem": "In paediatric theatre preparation, what ventilator mode should be used with the paediatric breathing circuit?",
+   "answer": "Pressure control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#7caf82",
+   "kind": "statement",
+   "stem": "In paediatric theatre preparation, what infusion equipment should be set up?",
+   "answer": "Syringe pump; short paediatric IV extension with priming syringe, or a remote injector",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#19e98d",
+   "kind": "statement",
+   "stem": "In paediatric theatre preparation, which monitor setting must be changed?",
+   "answer": "Monitor alarm limits",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#250eb7",
+   "kind": "mcq",
+   "stem": "In paediatric intraoperative management, what fluid volume is given over the first hour?",
+   "options": [
+    "20 ml/kg",
+    "5 ml/kg",
+    "2 ml/kg",
+    "10 ml/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#b72243",
+   "kind": "statement",
+   "stem": "What should be done to the hand and IV before emergence in paediatric anaesthesia?",
+   "answer": "Tape the hand and disconnect the IV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#6e4790",
+   "kind": "statement",
+   "stem": "In paediatric anaesthesia emergence, how can a child be extubated deep?",
+   "answer": "In the lateral position, with padded side rails",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#fe1f71",
+   "kind": "statement",
+   "stem": "In paediatric anaesthesia recovery, what monitoring is used?",
+   "answer": "SpO2 monitoring only",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#ea6872",
+   "kind": "statement",
+   "stem": "At the end of paediatric anaesthesia, who should receive the analgesia plan?",
+   "answer": "Recovery staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#12f751",
+   "kind": "mcq",
+   "stem": "For paediatric nasal intubation, which nasal preparation is preferred?",
+   "options": [
+    "Co-phenylcaine spray",
+    "Lidocaine gel",
+    "Adrenaline pledget",
+    "Oxymetazoline (Iliadin) nose drops"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#f4bf5c",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, what red cell volume raises Hb by 1?",
+   "options": [
+    "Weight x 2 ml",
+    "Weight x 10 ml",
+    "Weight x 5 ml",
+    "Weight x 15 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#7c2bc9",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, what platelet volume is given per kg?",
+   "options": [
+    "5-10 ml/kg",
+    "10-20 ml/kg",
+    "1-2 ml/kg",
+    "20-30 ml/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#a2599a",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, what dose of prothrombin complex concentrate is used?",
+   "options": [
+    "25 IU/kg",
+    "15 IU/kg",
+    "5 IU/kg",
+    "50 IU/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#6946dd",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, what FFP volume per kg is given?",
+   "options": [
+    "5-10 ml/kg",
+    "1-2 ml/kg",
+    "20-30 ml/kg",
+    "10-20 ml/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#2bca29",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, what cryoprecipitate volume per kg is given?",
+   "options": [
+    "10-20 ml/kg",
+    "5-10 ml/kg",
+    "1-2 ml/kg",
+    "20-30 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#705ed4",
+   "kind": "mcq",
+   "stem": "In paediatric transfusion, what fibrinogen concentrate dose per kg is given?",
+   "options": [
+    "10-20 mg/kg",
+    "30-50 mg/kg",
+    "5-10 ml/kg",
+    "1-2 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-anaesthesia#705ed4",
+   "kind": "statement",
+   "stem": "In paediatric transfusion, what alternative formula gives the fibrinogen concentrate dose?",
+   "answer": "Body weight / 160 x target increase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

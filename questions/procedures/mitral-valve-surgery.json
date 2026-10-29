@@ -1,0 +1,179 @@
+{
+ "topic": "procedures/mitral-valve-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/mitral-valve-surgery#605ba6",
+   "kind": "statement",
+   "stem": "In mitral stenosis, which pulmonary condition can be present, with or without?",
+   "answer": "Pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#b5281d",
+   "kind": "mcq",
+   "stem": "What heart rate target is advised during mitral valve replacement for stenosis?",
+   "options": [
+    "90-110 bpm",
+    "120-140 bpm",
+    "60–80 bpm",
+    "40-50 bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#036142",
+   "kind": "statement",
+   "stem": "What rhythm should be kept during mitral stenosis valve replacement, if possible?",
+   "answer": "Sinus rhythm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#753c6d",
+   "kind": "mcq",
+   "stem": "By how much can loss of atrial kick reduce cardiac output in mitral stenosis?",
+   "options": [
+    "5–10%",
+    "20–30%",
+    "50–60%",
+    "70–80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#e97386",
+   "kind": "statement",
+   "stem": "What preload goal is set for mitral stenosis surgery?",
+   "answer": "Full but not overloaded",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#d99620",
+   "kind": "statement",
+   "stem": "What afterload goal is set for mitral stenosis surgery?",
+   "answer": "Maintain SVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#adacad",
+   "kind": "statement",
+   "stem": "How should AF on warfarin be handled in mitral stenosis valve surgery?",
+   "answer": "Plan bridging, check INR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#0142ec",
+   "kind": "mcq",
+   "stem": "What is the commonest cause of failure to wean from bypass in mitral stenosis?",
+   "options": [
+    "Left ventricular failure",
+    "Tension pneumothorax",
+    "Hypovolaemia",
+    "Right ventricular failure"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#162184",
+   "kind": "mcq",
+   "stem": "How common is atrial fibrillation in mitral regurgitation?",
+   "options": [
+    "25%",
+    "75%",
+    "50%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#1be22a",
+   "kind": "statement",
+   "stem": "What haemodynamic goal is set for mitral regurgitation, in three words?",
+   "answer": "Fast, full, forward",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#d58092",
+   "kind": "statement",
+   "stem": "Why may LVEF fall after mitral valve replacement for regurgitation?",
+   "answer": "The LV has to work harder",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#049afa",
+   "kind": "mcq",
+   "stem": "What does systolic anterior motion (SAM) of the mitral valve after repair cause?",
+   "options": [
+    "Fixed aortic stenosis",
+    "Tricuspid regurgitation",
+    "Dynamic LVOT obstruction",
+    "Right ventricular outflow obstruction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#56304a",
+   "kind": "statement",
+   "stem": "How does anaesthetic management differ between mitral repair and replacement?",
+   "answer": "It is the same",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#df6abb",
+   "kind": "statement",
+   "stem": "In mitral valve surgery, what is a pulmonary artery catheter key for, if needed?",
+   "answer": "Key for PAP and PVR, especially MS with secondary pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#623cbf",
+   "kind": "statement",
+   "stem": "Why is bicaval cannulation needed in mitral valve surgery?",
+   "answer": "For a bloodless field in the atria",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#b39d4b",
+   "kind": "blank",
+   "stem": "Minimally invasive mitral valve surgery uses a double-lumen tube and ____ cannulation.",
+   "answer": "femoral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#90d823",
+   "kind": "statement",
+   "stem": "Why is epicardial pacing mandatory after mitral valve surgery?",
+   "answer": "The AV node lies close to the mitral annulus, so conduction block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/mitral-valve-surgery#a04892",
+   "kind": "statement",
+   "stem": "How is AV groove disruption described during mitral valve surgery?",
+   "answer": "Surgical catastrophe with massive haemorrhage on weaning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

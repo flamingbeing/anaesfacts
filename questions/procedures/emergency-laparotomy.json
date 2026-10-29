@@ -1,0 +1,169 @@
+{
+ "topic": "procedures/emergency-laparotomy",
+ "questions": [
+  {
+   "fact_id": "procedures/emergency-laparotomy#aaeb7b",
+   "kind": "mcq",
+   "stem": "Which tube is advised for aspiration risk in emergency laparotomy?",
+   "options": [
+    "Urinary catheter",
+    "Chest drain",
+    "Nasogastric tube",
+    "Central venous line"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#3df246",
+   "kind": "statement",
+   "stem": "When should a septic or dehydrated patient be resuscitated for emergency laparotomy?",
+   "answer": "Before induction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#4eea40",
+   "kind": "statement",
+   "stem": "Why is albumin given early in emergency laparotomy?",
+   "answer": "To prevent bowel oedema.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#9e8d59",
+   "kind": "statement",
+   "stem": "What option exists at the end of emergency laparotomy instead of primary abdominal closure?",
+   "answer": "Temporary abdominal closure.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#5a21bd",
+   "kind": "mcq",
+   "stem": "What category of surgery is emergency laparotomy?",
+   "options": [
+    "Minor abdominal surgery",
+    "Major abdominal surgery",
+    "Day-case surgery",
+    "Minor plastic surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#304866",
+   "kind": "statement",
+   "stem": "Why can cardiac status be hard to optimise before emergency laparotomy?",
+   "answer": "There is little time to optimise it.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#e2768c",
+   "kind": "statement",
+   "stem": "What must be judged before emergency laparotomy in terms of time?",
+   "answer": "Urgency and whether there is time to resuscitate.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#c2d4c4",
+   "kind": "mcq",
+   "stem": "Within what time should surgery be done for septic shock before emergency laparotomy?",
+   "options": [
+    "Within 1 hour",
+    "Within 3 hours",
+    "Within 6 hours",
+    "Within 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#b3cc15",
+   "kind": "mcq",
+   "stem": "Within what time should surgery be done for severe sepsis before emergency laparotomy?",
+   "options": [
+    "Within 12 hours",
+    "Within 6 hours",
+    "Within 24 hours",
+    "Within 48 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#dc54f2",
+   "kind": "statement",
+   "stem": "What should be assessed in a septic patient before emergency laparotomy?",
+   "answer": "Degree of organ dysfunction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#9a5cbc",
+   "kind": "statement",
+   "stem": "Which investigations are needed before emergency laparotomy?",
+   "answer": "FBC, U+E, Mg2+, coagulation, ECG, CXR, group and crossmatch, lactate.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#9a5cbc",
+   "kind": "mcq",
+   "stem": "Which pre-operative test for emergency laparotomy assesses clotting?",
+   "options": [
+    "Serum magnesium",
+    "Coagulation",
+    "Spirometry",
+    "Urine culture"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#bbb0e5",
+   "kind": "statement",
+   "stem": "Which drugs are added to IV resuscitation before emergency laparotomy if needed?",
+   "answer": "Vasopressors and inotropes.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#bbb0e5",
+   "kind": "statement",
+   "stem": "How should IV antibiotics be given before emergency laparotomy for sepsis?",
+   "answer": "Promptly, per sepsis guidelines.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#412e42",
+   "kind": "mcq",
+   "stem": "Which tube is placed before emergency laparotomy for bowel obstruction?",
+   "options": [
+    "Central venous line",
+    "Nasogastric tube",
+    "Urinary catheter",
+    "Chest drain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/emergency-laparotomy#17ba49",
+   "kind": "statement",
+   "stem": "What should be discussed with the patient and family before emergency laparotomy?",
+   "answer": "Likely morbidity and mortality.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
