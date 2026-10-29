@@ -1,0 +1,803 @@
+{
+ "topic": "procedures/craniotomy",
+ "questions": [
+  {
+   "fact_id": "procedures/craniotomy#9fc9bd",
+   "kind": "mcq",
+   "stem": "Which of these is an elective craniotomy procedure?",
+   "options": [
+    "Evacuation of subdural haematoma",
+    "Brain biopsy",
+    "Aneurysm clipping",
+    "Intracerebral haematoma evacuation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#4e88c9",
+   "kind": "mcq",
+   "stem": "Which craniotomy type is classed as emergency surgery?",
+   "options": [
+    "Palliative or debulking tumour surgery",
+    "Brain biopsy",
+    "Evacuation of subdural haematoma",
+    "Lumbar drain insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#a38c01",
+   "kind": "blank",
+   "stem": "Preoperative craniotomy neurological assessment covers GCS, deficits and signs of ____.",
+   "answer": "raised ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#2ded10",
+   "kind": "statement",
+   "stem": "In craniotomy assessment, which subarachnoid haemorrhage effect on the heart should be considered?",
+   "answer": "Neurocardiogenic effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#52a652",
+   "kind": "mcq",
+   "stem": "Which coagulation tests are on the preoperative investigation list for craniotomy?",
+   "options": [
+    "Serum amylase",
+    "PT/PTT/INR",
+    "Thyroid function tests",
+    "Serum lipase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#252006",
+   "kind": "mcq",
+   "stem": "Preoperative fluid restriction in craniotomy when cerebral oedema is present?",
+   "options": [
+    "60ml/kg/day",
+    "30ml/kg/day",
+    "100ml/kg/day",
+    "10ml/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#31c1b3",
+   "kind": "statement",
+   "stem": "Craniotomy patients with altered mental state, steroids, diuretics or contrast: what electrolyte action is advised?",
+   "answer": "Correct abnormalities before surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#2ce0f5",
+   "kind": "mcq",
+   "stem": "Phenytoin loading dose for seizure prophylaxis before craniotomy?",
+   "options": [
+    "5mg/kg",
+    "15mg/kg",
+    "25mg/kg",
+    "50mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#2ce0f5",
+   "kind": "mcq",
+   "stem": "Phenytoin maintenance dose after the loading dose in craniotomy prophylaxis?",
+   "options": [
+    "1-2mg/kg/day",
+    "3-4mg/kg/day",
+    "10mg/kg/day",
+    "300mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#d255b6",
+   "kind": "blank",
+   "stem": "Craniotomy thromboprophylaxis uses TED stockings and pneumatic ____ compression.",
+   "answer": "calf",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#98448a",
+   "kind": "blank",
+   "stem": "Before craniotomy, ensure a valid group and ____ and that blood products are available.",
+   "answer": "crossmatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#04e180",
+   "kind": "mcq",
+   "stem": "Which bed should be available for a craniotomy?",
+   "options": [
+    "Ward bed with telemetry",
+    "Day-surgery recovery chair",
+    "High dependency or ICU bed",
+    "Theatre recovery trolley"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#b9368a",
+   "kind": "mcq",
+   "stem": "Premedication before craniotomy with raised ICP concern: which drugs should be avoided?",
+   "options": [
+    "Antiemetics and antacids",
+    "Sedatives and opioids",
+    "Anticholinergic drugs only",
+    "Beta-blockers and calcium channel blockers"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#3cdbd5",
+   "kind": "blank",
+   "stem": "Sedatives and opioids depress breathing, raising CO2 and ICP, and cloud the ____ exam.",
+   "answer": "neurological",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#1c8a05",
+   "kind": "mcq",
+   "stem": "How much does cerebral blood flow change per 1 mm Hg change in pCO2?",
+   "options": [
+    "1-2 mL/100g/min",
+    "5-10 mL/100g/min",
+    "0.1-0.2 mL/100g/min",
+    "20-30 mL/100g/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#5d7235",
+   "kind": "statement",
+   "stem": "For craniotomy, what does the anaesthetic consent cover?",
+   "answer": "General anaesthesia, surgical risks and postoperative care",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#66caad",
+   "kind": "blank",
+   "stem": "For most intracranial surgery in craniotomy, general anaesthesia is given with an ____.",
+   "answer": "ETT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#1ee09d",
+   "kind": "statement",
+   "stem": "Which craniotomies are exceptions to general anaesthesia with an ETT?",
+   "answer": "Awake craniotomy for epilepsy surgery, or lesions in motor or speech cortex",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#b35558",
+   "kind": "mcq",
+   "stem": "Which monitoring is standard for craniotomy?",
+   "options": [
+    "NIBP, 5-lead ECG, EtCO2",
+    "Arterial line, CVP, 5-lead ECG",
+    "NIBP, 3-lead ECG, SpO2",
+    "Pulmonary artery catheter, TOE, SpO2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#b4d1ce",
+   "kind": "statement",
+   "stem": "Which craniotomies are the smallest, where invasive monitoring is not needed?",
+   "answer": "Stereotactic biopsy, burr hole drainage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#9fa531",
+   "kind": "statement",
+   "stem": "Why place an arterial line before induction for craniotomy?",
+   "answer": "Fast BP changes and frequent blood sampling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#899493",
+   "kind": "blank",
+   "stem": "For craniotomy, a second large-bore IV is sited at the ____ (e.g. for TIVA).",
+   "answer": "foot",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#55192d",
+   "kind": "mcq",
+   "stem": "Which warming measure is used during craniotomy?",
+   "options": [
+    "Ice packs on the scalp",
+    "Cooled fluids",
+    "Forced-air warming",
+    "Tepid sponging"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#676385",
+   "kind": "mcq",
+   "stem": "For craniotomy, which depth-of-anaesthesia monitor is used if possible?",
+   "options": [
+    "Capnography",
+    "Temperature probe",
+    "BIS",
+    "Pulse oximetry"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#9268f6",
+   "kind": "mcq",
+   "stem": "If TIVA is used for craniotomy, what equipment is needed?",
+   "options": [
+    "Infusion pumps",
+    "Cell saver",
+    "Warming cabinet",
+    "Suction catheters"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#68e2ed",
+   "kind": "blank",
+   "stem": "For transfusion in craniotomy, have rapid infusers or fluid ____ ready.",
+   "answer": "warmers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#fc7680",
+   "kind": "mcq",
+   "stem": "Which drugs are used to treat hypertension during craniotomy?",
+   "options": [
+    "Vasopressors",
+    "Beta-blockers or SNP",
+    "Calcium chloride infusion",
+    "Diuretic boluses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#2daacb",
+   "kind": "statement",
+   "stem": "In craniotomy, what is the purpose of intubation?",
+   "answer": "Control ventilation, optimise oxygen and CO2, avoid ICP rises",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#b5ff44",
+   "kind": "statement",
+   "stem": "In craniotomy, why must the endotracheal tube be secured very well?",
+   "answer": "The airway will be inaccessible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#e404fc",
+   "kind": "blank",
+   "stem": "In craniotomy induction, full paralysis and deep anaesthesia before laryngoscopy prevent hypertension and ____.",
+   "answer": "coughing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#8a9d60",
+   "kind": "mcq",
+   "stem": "Propofol IV induction dose for craniotomy?",
+   "options": [
+    "1-1.5mg/kg",
+    "2-3mg/kg",
+    "5-7mg/kg",
+    "10-12mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#8a9d60",
+   "kind": "mcq",
+   "stem": "Thiopentone IV induction dose for craniotomy?",
+   "options": [
+    "1-2mg/kg",
+    "3-5mg/kg",
+    "6-8mg/kg",
+    "10-15mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#8427ef",
+   "kind": "mcq",
+   "stem": "Which induction drug at 0.2-0.3 mg/kg may give a more stable induction for craniotomy?",
+   "options": [
+    "Ketamine",
+    "Etomidate",
+    "Nitrous oxide",
+    "Morphine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#54e984",
+   "kind": "mcq",
+   "stem": "What is the remifentanil infusion dose at induction for craniotomy?",
+   "options": [
+    "2-5mcg/kg/min",
+    "0.3-0.5mcg/kg/min",
+    "25-50mcg/kg/h",
+    "3-5mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#54e984",
+   "kind": "mcq",
+   "stem": "What is the IV fentanyl dose at induction for craniotomy?",
+   "options": [
+    "0.5-1mcg/kg",
+    "2-5mcg/kg",
+    "10-20mcg/kg",
+    "50-100mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#e7bdbb",
+   "kind": "mcq",
+   "stem": "Which agent at 1.5mg/kg IV, or sprayed on the cords, blunts the induction response in craniotomy?",
+   "options": [
+    "Ketamine",
+    "Midazolam",
+    "Lidocaine",
+    "Atracurium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#2a1a03",
+   "kind": "mcq",
+   "stem": "Atracurium dose at induction for craniotomy?",
+   "options": [
+    "0.06mg/kg",
+    "0.6mg/kg",
+    "6mg/kg",
+    "1.2mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#21edb2",
+   "kind": "mcq",
+   "stem": "How far should the head be raised in craniotomy positioning, with the neck neutral?",
+   "options": [
+    "5-10 degrees",
+    "30-40 degrees",
+    "15-20 degrees",
+    "Flat with no elevation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#49766a",
+   "kind": "statement",
+   "stem": "In craniotomy, what does a Mayfield 3-point fixator aim to blunt?",
+   "answer": "The haemodynamic response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#c685f2",
+   "kind": "statement",
+   "stem": "Why protect the eyes well in craniotomy positioning?",
+   "answer": "Skin prep can seep in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#1674bf",
+   "kind": "mcq",
+   "stem": "Volatile maintenance dose range for craniotomy, in MAC?",
+   "options": [
+    "1.2-1.5 MAC",
+    "0.2-0.3 MAC",
+    "0.6-0.8 MAC",
+    "1.5-2 MAC"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#1674bf",
+   "kind": "blank",
+   "stem": "Volatile maintenance in craniotomy is kept below ____ to avoid raising ICP.",
+   "answer": "1 MAC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#31212e",
+   "kind": "statement",
+   "stem": "Which opioid should be avoided in craniotomy maintenance?",
+   "answer": "Morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#80265d",
+   "kind": "blank",
+   "stem": "The muscle relaxant in craniotomy maintenance is given as a bolus or ____.",
+   "answer": "infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#79bce0",
+   "kind": "mcq",
+   "stem": "Which drug should be avoided during craniotomy maintenance?",
+   "options": [
+    "Fentanyl",
+    "Propofol",
+    "Nitrous oxide",
+    "Remifentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#03a37b",
+   "kind": "statement",
+   "stem": "What do serial ABGs guide in craniotomy maintenance?",
+   "answer": "Correcting Hb, acidosis and electrolytes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#a82720",
+   "kind": "statement",
+   "stem": "Which fluids should be avoided in craniotomy maintenance?",
+   "answer": "Hypotonic and glucose-containing fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#f65092",
+   "kind": "statement",
+   "stem": "In craniotomy, which events cause hypertensive responses that need blunting?",
+   "answer": "Laryngoscopy, pinning, skin incision, bone flap, extubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#9d39a0",
+   "kind": "mcq",
+   "stem": "Propofol IV dose to blunt hypertensive responses in craniotomy?",
+   "options": [
+    "5-7mg/kg",
+    "0.05-0.1mg/kg",
+    "0.5-1mg/kg",
+    "10-15mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#078b5e",
+   "kind": "mcq",
+   "stem": "Labetalol IV dose to blunt hypertensive responses in craniotomy?",
+   "options": [
+    "20-40mg",
+    "5-10mg",
+    "50-100mg",
+    "1-2mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#0cd1c3",
+   "kind": "mcq",
+   "stem": "During craniotomy, what cerebral perfusion pressure should be kept stable when BP falls?",
+   "options": [
+    "40-50mmHg",
+    "60-70mmHg",
+    "80-90mmHg",
+    "20-30mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#b72e79",
+   "kind": "blank",
+   "stem": "Seizure prophylaxis is given during craniotomy if the ____ request it.",
+   "answer": "surgeons",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#c3df80",
+   "kind": "mcq",
+   "stem": "What PaCO2 should be kept during craniotomy to reduce ICP?",
+   "options": [
+    "40-45 mm Hg",
+    "20-25 mm Hg",
+    "30-35 mm Hg",
+    "50-55 mm Hg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#dd2e2e",
+   "kind": "mcq",
+   "stem": "On surgical request in craniotomy, what dexamethasone dose is given?",
+   "options": [
+    "4mg",
+    "8mg",
+    "16mg",
+    "20mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#dd2e2e",
+   "kind": "mcq",
+   "stem": "On surgical request in craniotomy, what volume of 20% mannitol is given?",
+   "options": [
+    "50ml",
+    "250ml",
+    "100ml",
+    "500ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#dd2e2e",
+   "kind": "mcq",
+   "stem": "On surgical request in craniotomy, what furosemide dose is given?",
+   "options": [
+    "1-2mg",
+    "10-20mg",
+    "50-100mg",
+    "100-200mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#170b81",
+   "kind": "mcq",
+   "stem": "What core temperature should be kept during craniotomy?",
+   "options": [
+    "32-33°C",
+    "36-37°C",
+    "38-39°C",
+    "30-31°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#a7a491",
+   "kind": "mcq",
+   "stem": "Which preoperative finding in craniotomy points to postoperative ICU ventilation?",
+   "options": [
+    "Poor GCS (< 6)",
+    "Normal GCS of 15",
+    "Short uncomplicated procedure",
+    "Small superficial tumour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#47547a",
+   "kind": "statement",
+   "stem": "Name two problems to avoid during emergence from craniotomy.",
+   "answer": "Coughing and hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#10de21",
+   "kind": "mcq",
+   "stem": "Which analgesic is given as boluses at craniotomy emergence?",
+   "options": [
+    "Morphine",
+    "Fentanyl",
+    "Ketamine",
+    "Midazolam"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#83ee3e",
+   "kind": "mcq",
+   "stem": "Where should neuromonitoring be provided after craniotomy?",
+   "options": [
+    "General ward with hourly observations",
+    "Day-surgery recovery bay",
+    "Neurosurgical high dependency or ICU",
+    "Theatre recovery only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#77d365",
+   "kind": "statement",
+   "stem": "In craniotomy recovery, why are short-acting drugs preferred?",
+   "answer": "Allows early neurological assessment with little hangover",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#4a1a7e",
+   "kind": "mcq",
+   "stem": "Which analgesic after craniotomy carries a bleeding risk in intracerebral haemorrhage?",
+   "options": [
+    "Paracetamol",
+    "Codeine phosphate",
+    "NSAIDs",
+    "Tramadol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#4a1a7e",
+   "kind": "mcq",
+   "stem": "Codeine phosphate dose for postoperative analgesia after craniotomy?",
+   "options": [
+    "60-90mg",
+    "10-20mg",
+    "200-300mg",
+    "5-10mg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#926982",
+   "kind": "mcq",
+   "stem": "After craniotomy, when should enteral feeding start once planned surgery is complete?",
+   "options": [
+    "Within 6-8 hours",
+    "Within 24-48h",
+    "Within 3-5 days",
+    "Only after discharge"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#d70f40",
+   "kind": "mcq",
+   "stem": "IV esomeprazole dose for stress ulcer prophylaxis after craniotomy?",
+   "options": [
+    "20mg twice daily",
+    "40mg twice daily",
+    "80mg each morning",
+    "40mg each morning"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#d70f40",
+   "kind": "statement",
+   "stem": "When should stress ulcer prophylaxis stop after craniotomy?",
+   "answer": "When enteral feeding is established",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#71e77f",
+   "kind": "mcq",
+   "stem": "Which intracranial vascular lesion is a specific indication for craniotomy?",
+   "options": [
+    "Intracranial aneurysm",
+    "Carotid artery stenosis",
+    "Peripheral arterial aneurysm",
+    "Varicose veins"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/craniotomy#adba04",
+   "kind": "mcq",
+   "stem": "Which stroke type is a specific indication for craniotomy?",
+   "options": [
+    "Lacunar infarct",
+    "Haemorrhagic stroke",
+    "Transient ischaemic attack",
+    "Carotid stenosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

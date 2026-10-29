@@ -1,0 +1,871 @@
+{
+ "topic": "comorbidities/paediatric-liver-failure",
+ "questions": [
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#9f7b7a",
+   "kind": "mcq",
+   "stem": "What mortality is quoted for paediatric acute liver failure without supportive care and/or liver transplantation?",
+   "options": [
+    "Over 30%",
+    "Over 50%",
+    "Over 70%",
+    "Over 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#45f0f5",
+   "kind": "mcq",
+   "stem": "Under the adult definition, within how many weeks of the first signs of liver disease must hepatic dysfunction start in acute liver failure?",
+   "options": [
+    "4 weeks",
+    "8 weeks",
+    "12 weeks",
+    "26 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#4f0e38",
+   "kind": "blank",
+   "stem": "In children with acute liver failure, encephalopathy may be absent, late or ____ even when disease is severe.",
+   "answer": "missed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#099da3",
+   "kind": "mcq",
+   "stem": "In paediatric acute liver failure, hyperacute onset means liver dysfunction lasting up to how many days?",
+   "options": [
+    "5 days",
+    "10 days",
+    "30 days",
+    "60 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#8fa30f",
+   "kind": "statement",
+   "stem": "Liver dysfunction lasting 11-30 days is which onset category of liver failure in children?",
+   "answer": "Acute",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#f09ee0",
+   "kind": "statement",
+   "stem": "Liver dysfunction lasting over 30 days is which onset category, where jaundice is more common?",
+   "answer": "Subacute",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#d700b5",
+   "kind": "statement",
+   "stem": "Acute liver failure in a child may be the first presentation of which two kinds of underlying disease?",
+   "answer": "Metabolic (Wilson's disease) or autoimmune disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#ad82e9",
+   "kind": "mcq",
+   "stem": "In paediatric acute liver failure, what is the commonest cause in infants?",
+   "options": [
+    "Biliary atresia",
+    "Neonatal haemochromatosis",
+    "Hepatoblastoma",
+    "Gilbert syndrome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#d59769",
+   "kind": "blank",
+   "stem": "Viral hepatitis causes about ____ of fulminant hepatic failure in children of all ages.",
+   "answer": "80%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#5024fb",
+   "kind": "mcq",
+   "stem": "Which of these is an infective cause of acute liver failure in children?",
+   "options": [
+    "Parvovirus B19",
+    "Gilbert syndrome",
+    "Hepatoblastoma",
+    "Coeliac disease"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#5ff246",
+   "kind": "mcq",
+   "stem": "Which is a metabolic cause of acute liver failure in children?",
+   "options": [
+    "Coeliac disease",
+    "Hepatoblastoma",
+    "Gilbert syndrome",
+    "Tyrosinaemia type I"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#04e0cf",
+   "kind": "statement",
+   "stem": "Name three multisystem complications of paediatric acute liver failure.",
+   "answer": "Sepsis, acute renal failure, severe coagulopathy, GI bleeding, ascites, cerebral oedema, high-output cardiac failure with low SVR, hypoglycaemia, hypokalaemia, metabolic acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#bcaa7e",
+   "kind": "mcq",
+   "stem": "What is the commonest presenting symptom of paediatric acute liver failure?",
+   "options": [
+    "Seizures",
+    "Hypertension",
+    "Jaundice",
+    "Haematuria"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#52a307",
+   "kind": "statement",
+   "stem": "Apart from jaundice, name two common symptoms of paediatric acute liver failure.",
+   "answer": "Anorexia, nausea, vomiting, ascites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#40a4c2",
+   "kind": "blank",
+   "stem": "In neonates and infants with acute liver failure, encephalopathy is often not obvious; the first signs may be jaundice and ____.",
+   "answer": "coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#8a3685",
+   "kind": "statement",
+   "stem": "In hepatic encephalopathy grading, what does a higher grade indicate?",
+   "answer": "Worse disease and outcome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#aaaf95",
+   "kind": "mcq",
+   "stem": "Lethargy and a slightly reduced conscious level are which grade of hepatic encephalopathy?",
+   "options": [
+    "Grade 1",
+    "Grade 2",
+    "Grade 3",
+    "Grade 4"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#718766",
+   "kind": "mcq",
+   "stem": "Stupor, disorientation and combativeness are which grade of hepatic encephalopathy?",
+   "options": [
+    "Grade 1",
+    "Grade 2",
+    "Grade 3",
+    "Grade 4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#8d80b1",
+   "kind": "mcq",
+   "stem": "No response to command but a response to pain is which grade of hepatic encephalopathy?",
+   "options": [
+    "Grade 1",
+    "Grade 2",
+    "Grade 3",
+    "Grade 4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#a18625",
+   "kind": "mcq",
+   "stem": "No response to command or pain, with extensor posturing and rigidity, is which grade of hepatic encephalopathy?",
+   "options": [
+    "Grade 1",
+    "Grade 2",
+    "Grade 3",
+    "Grade 4"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#96ee60",
+   "kind": "statement",
+   "stem": "When should a child with acute liver failure be anaesthetised?",
+   "answer": "Emergency procedures only, due to high perioperative morbidity and mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#9d26aa",
+   "kind": "mcq",
+   "stem": "What is the incidence of chronic liver failure in children, per live births?",
+   "options": [
+    "1:100,000",
+    "6:100,000",
+    "60:100,000",
+    "600:100,000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#9d26aa",
+   "kind": "mcq",
+   "stem": "Jaundice persisting beyond how many days should prompt suspicion of chronic liver failure in an infant?",
+   "options": [
+    "7 days",
+    "14 days",
+    "28 days",
+    "60 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#fef52e",
+   "kind": "mcq",
+   "stem": "What is the commonest cause of chronic liver failure in children?",
+   "options": [
+    "Coeliac disease",
+    "Hepatoblastoma",
+    "Extrahepatic biliary atresia",
+    "Gilbert syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#c062af",
+   "kind": "mcq",
+   "stem": "When is a hepatic portoenterostomy (Kasai) done for biliary atresia?",
+   "options": [
+    "After the first year of life",
+    "Within the first 8 weeks of life",
+    "At about 6 months of age",
+    "Only once jaundice resolves"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#91b34f",
+   "kind": "mcq",
+   "stem": "If the Kasai procedure succeeds in biliary atresia, what is the 10-year survival?",
+   "options": [
+    "Up to 50%",
+    "Up to 70%",
+    "Up to 90%",
+    "Up to 99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#2bb013",
+   "kind": "mcq",
+   "stem": "Which metabolic condition is a cause of chronic liver failure in children?",
+   "options": [
+    "Gilbert syndrome",
+    "Hepatoblastoma",
+    "Wilson's disease",
+    "Coeliac disease"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#b4fc5d",
+   "kind": "statement",
+   "stem": "Chronic liver failure in children may first present in which three ways?",
+   "answer": "Asymptomatic, as acute liver failure, or with insidious onset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#a33e89",
+   "kind": "mcq",
+   "stem": "Which of these is a skin sign of chronic liver failure in children?",
+   "options": [
+    "Café-au-lait spots",
+    "Heliotrope rash",
+    "Caput medusae",
+    "Malar rash"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#8de8d3",
+   "kind": "mcq",
+   "stem": "Which of these is a trigger for encephalopathy in chronic liver failure?",
+   "options": [
+    "Low-protein diet",
+    "High-protein diet",
+    "Hyperkalaemia",
+    "Vitamin D supplements"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#16ed16",
+   "kind": "statement",
+   "stem": "What does the Child-Pugh score grade and predict in chronic liver failure?",
+   "answer": "Severity; prognosis and risk of major surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#ca9d66",
+   "kind": "mcq",
+   "stem": "A Child-Pugh score of 5–6 points corresponds to which class and mortality?",
+   "options": [
+    "Child's B, modest mortality (5-50%)",
+    "Child's A, minimal mortality (<5%)",
+    "Child's C, marked mortality (>50%)",
+    "Child's A, modest mortality (5-50%)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#49a3d0",
+   "kind": "mcq",
+   "stem": "A Child-Pugh score of 7–9 points corresponds to which class and mortality?",
+   "options": [
+    "Child's A, minimal mortality (<5%)",
+    "Child's B, marked mortality (>50%)",
+    "Child's C, marked mortality (>50%)",
+    "Child's B, modest mortality (5-50%)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#345b94",
+   "kind": "mcq",
+   "stem": "A Child-Pugh score of 10–15 points corresponds to which class and mortality?",
+   "options": [
+    "Child's C, marked mortality (>50%)",
+    "Child's B, modest mortality (5-50%)",
+    "Child's A, minimal mortality (<5%)",
+    "Child's C, modest mortality (5-50%)"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#b9e137",
+   "kind": "statement",
+   "stem": "Which three markers track disease progression well in chronic liver failure?",
+   "answer": "Bilirubin, albumin and prothrombin time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#2030d2",
+   "kind": "blank",
+   "stem": "Standard liver function tests are poor markers of function and have no ____ value.",
+   "answer": "prognostic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#6f9b76",
+   "kind": "statement",
+   "stem": "Name two causes of death in children with chronic liver failure.",
+   "answer": "Sepsis, massive haemorrhage, renal failure, worsening hepatic function with encephalopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#99e15f",
+   "kind": "statement",
+   "stem": "In liver failure, which clotting factor does the liver NOT make?",
+   "answer": "vWF (VIII)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#05ffb4",
+   "kind": "blank",
+   "stem": "In liver failure, the PTT and ____ are usually prolonged and are good markers of liver function.",
+   "answer": "INR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#484f41",
+   "kind": "blank",
+   "stem": "In liver failure, platelets fall in number and function mainly from ____ sequestration.",
+   "answer": "splenic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#8bea0c",
+   "kind": "statement",
+   "stem": "Portal hypertension in liver failure risks massive bleeding from which varices?",
+   "answer": "Oesophageal, gastric or rectal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#18c260",
+   "kind": "statement",
+   "stem": "Name three causes of anaemia in children with chronic liver disease.",
+   "answer": "Chronic disease, chronic bleeding and malnutrition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#997859",
+   "kind": "statement",
+   "stem": "What should be arranged before surgery in a child with liver failure to manage bleeding risk?",
+   "answer": "FBC, coagulation screen, crossmatch, and enough platelets and clotting factors available",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#04e183",
+   "kind": "mcq",
+   "stem": "What do oedema and ascites indicate in paediatric liver disease?",
+   "options": [
+    "Early, mild liver dysfunction",
+    "Advanced liver dysfunction",
+    "Good nutritional status",
+    "Resolved portal hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#343063",
+   "kind": "statement",
+   "stem": "Raised intra-abdominal pressure from ascites causes which two respiratory problems?",
+   "answer": "Diaphragmatic splinting and reduced FRC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#50e442",
+   "kind": "blank",
+   "stem": "Children with ascites may be on the diuretic ____.",
+   "answer": "spironolactone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#39e3ed",
+   "kind": "statement",
+   "stem": "Why should extra fluid be given after drainage of ascites during liver failure surgery?",
+   "answer": "Ascites reaccumulates, causing hypovolaemia and hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#9f8abc",
+   "kind": "statement",
+   "stem": "Name two causes of low PaO2 in children with liver failure.",
+   "answer": "Intrapulmonary shunts, V/Q mismatch, pleural effusions, ascites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#f8114f",
+   "kind": "statement",
+   "stem": "Name two chest complications that are more common perioperatively in liver failure.",
+   "answer": "Atelectasis and chest infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#13f7ed",
+   "kind": "mcq",
+   "stem": "Which haemodynamic pattern is typical in liver failure?",
+   "options": [
+    "High cardiac output, low SVR",
+    "Low cardiac output, high SVR",
+    "High cardiac output, high SVR",
+    "Low cardiac output, low SVR"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#ae9648",
+   "kind": "statement",
+   "stem": "Name two types of shunt seen in children with liver disease.",
+   "answer": "Cutaneous and porto-pulmonary shunts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#769226",
+   "kind": "mcq",
+   "stem": "How is renal impairment in paediatric liver failure related to outcome?",
+   "options": [
+    "Carries a good prognosis",
+    "Carries a poor prognosis",
+    "Has no prognostic significance",
+    "Predicts early recovery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#c9e549",
+   "kind": "mcq",
+   "stem": "In hepatorenal syndrome, what urinary sodium level is typically found?",
+   "options": [
+    "<10 mmol/L",
+    ">40 mmol/L",
+    "20 mmol/L",
+    "100 mmol/L"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#74241a",
+   "kind": "statement",
+   "stem": "Apart from hepatorenal syndrome, what two things can cause renal failure in paediatric liver failure?",
+   "answer": "Sepsis or acute tubular necrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#beccca",
+   "kind": "mcq",
+   "stem": "Why are children with liver failure at risk of hypoglycaemia?",
+   "options": [
+    "Excess glycogen stores",
+    "Low glycogen stores, impaired gluconeogenesis",
+    "Raised insulin clearance",
+    "Enhanced gluconeogenesis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#bb3b23",
+   "kind": "statement",
+   "stem": "What two factors can affect acid-base balance in children with liver failure?",
+   "answer": "Renal dysfunction or diuretics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#82ebb2",
+   "kind": "blank",
+   "stem": "For procedures in children with liver failure, ____ asepsis is needed.",
+   "answer": "Strict",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#490e7a",
+   "kind": "statement",
+   "stem": "In a child with liver failure, what two findings should prompt suspicion of infection?",
+   "answer": "Cardiovascular instability or worsening encephalopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#724af0",
+   "kind": "mcq",
+   "stem": "Which reactions does phase I hepatic drug metabolism involve?",
+   "options": [
+    "Hydrolysis, oxidation and reduction",
+    "Filtration, reabsorption and secretion",
+    "Glucuronidation and sulphation",
+    "Protein binding and ionisation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#877a1e",
+   "kind": "statement",
+   "stem": "What type of reaction does phase II hepatic drug metabolism involve?",
+   "answer": "Conjugation with glucuronide, sulphate, acetate, glycine or methyl groups",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#28f325",
+   "kind": "statement",
+   "stem": "Name two drug classes whose hepatic clearance is reduced in liver failure.",
+   "answer": "Opioids and benzodiazepines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#8bf619",
+   "kind": "mcq",
+   "stem": "Biliary obstruction reduces biliary excretion of which muscle relaxant, prolonging its block?",
+   "options": [
+    "Atracurium",
+    "Pancuronium",
+    "Suxamethonium",
+    "Mivacurium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#debedf",
+   "kind": "mcq",
+   "stem": "In liver failure with low albumin, how does the effect per dose of thiopental change?",
+   "options": [
+    "Less effect per dose",
+    "Greater effect per dose",
+    "No change in effect",
+    "Shorter duration of effect"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#248b6e",
+   "kind": "statement",
+   "stem": "What three factors increase the volume of distribution of drugs in liver failure?",
+   "answer": "Hypoalbuminaemia, ascites, sodium and water retention",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#560d60",
+   "kind": "statement",
+   "stem": "What effect do drugs that reduce cardiac output have on hepatic drug metabolism in liver failure?",
+   "answer": "They impair it, by reducing hepatic blood flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#08d027",
+   "kind": "statement",
+   "stem": "Name three preoperative investigations for a child with liver failure.",
+   "answer": "FBC, coagulation, U+E, LFTs, blood glucose, CXR, ABGs, hepatitis B serology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#58865d",
+   "kind": "mcq",
+   "stem": "Which premedication should be used with caution in liver failure, as it may precipitate encephalopathy?",
+   "options": [
+    "Benzodiazepine premedication",
+    "Opioid premedication",
+    "Antihistamine premedication",
+    "Anticholinergic premedication"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#d1059b",
+   "kind": "statement",
+   "stem": "In liver failure surgery, what should you have a low threshold for?",
+   "answer": "Invasive monitoring (CVP, arterial line, urine output) and booking an HDU or ICU bed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#02cb77",
+   "kind": "mcq",
+   "stem": "What drug class should be given to reduce aspiration risk from ascites in liver failure?",
+   "options": [
+    "H2 antagonist or PPI",
+    "Ondansetron",
+    "Glycopyrronium",
+    "Metoclopramide alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#9b0a35",
+   "kind": "mcq",
+   "stem": "How should the thiopentone induction dose be adjusted in paediatric liver failure?",
+   "options": [
+    "Reduce the dose",
+    "Increase the dose",
+    "Double the dose",
+    "Keep the usual dose"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#d02b4a",
+   "kind": "mcq",
+   "stem": "Why should the propofol induction dose be reduced in paediatric liver failure?",
+   "options": [
+    "To avoid hypotension",
+    "To avoid hypertension",
+    "To avoid bronchospasm",
+    "To avoid hyperkalaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#83962d",
+   "kind": "mcq",
+   "stem": "Which volatile anaesthetic should be avoided in liver failure because it reduces hepatic blood flow?",
+   "options": [
+    "Isoflurane",
+    "Halothane",
+    "Sevoflurane",
+    "Desflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#772e6d",
+   "kind": "mcq",
+   "stem": "Which drug class should be avoided perioperatively in paediatric liver failure?",
+   "options": [
+    "Opioids",
+    "NSAIDs",
+    "Ketamine",
+    "Gabapentin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#d4d7b9",
+   "kind": "statement",
+   "stem": "What two precautions apply to regional anaesthesia in paediatric liver failure?",
+   "answer": "Check coagulation; reduce local anaesthetic doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#e586a0",
+   "kind": "statement",
+   "stem": "Why keep careful fluid balance, counting blood loss, insensible loss and ascites, in liver failure?",
+   "answer": "To avoid renal failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#8d5cd4",
+   "kind": "mcq",
+   "stem": "Which type of intravenous fluid should be avoided in paediatric liver failure?",
+   "options": [
+    "Dextrose solutions",
+    "Lactate-containing solutions",
+    "Albumin solutions",
+    "Saline solutions"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#d7dde2",
+   "kind": "mcq",
+   "stem": "What should be used to replace fluid losses and keep intravascular volume in liver failure?",
+   "options": [
+    "Albumin",
+    "Lactate-containing solution",
+    "Dextrose-free saline",
+    "Plain water"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#5ca17e",
+   "kind": "statement",
+   "stem": "In paediatric liver failure with coagulopathy, which product may be the main replacement fluid?",
+   "answer": "FFP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-liver-failure#94dd24",
+   "kind": "mcq",
+   "stem": "What urine output should be kept at during liver failure surgery?",
+   "options": [
+    "0.5 mL/kg/hour",
+    "1 mL/kg/hour",
+    "3 mL/kg/hour",
+    "5 mL/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

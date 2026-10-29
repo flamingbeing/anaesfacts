@@ -1,0 +1,323 @@
+{
+ "topic": "drugs/endothelin-receptor-antagonists",
+ "questions": [
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#8afaef",
+   "kind": "statement",
+   "stem": "Which strong pulmonary vasoconstrictor is produced in excess in pulmonary arterial hypertension?",
+   "answer": "Endothelin-1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#957f30",
+   "kind": "mcq",
+   "stem": "Which endothelin receptor mainly mediates endothelin-1 vasoconstriction and smooth muscle proliferation?",
+   "options": [
+    "ETB receptors",
+    "ETA receptors",
+    "IP receptors",
+    "M3 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#c36b1e",
+   "kind": "blank",
+   "stem": "ETB receptors trigger release of prostacyclin and ____ from the endothelium.",
+   "answer": "NO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#c51cfd",
+   "kind": "mcq",
+   "stem": "Endothelin receptor antagonists are licensed for which condition?",
+   "options": [
+    "Acute asthma",
+    "Septic shock",
+    "Primary PAH",
+    "Left ventricular failure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#5ebe53",
+   "kind": "mcq",
+   "stem": "What is the starting dose of bosentan?",
+   "options": [
+    "125 mg twice daily for 4 weeks",
+    "62.5 mg once daily for 4 weeks",
+    "62.5 mg twice daily for 4 weeks",
+    "250 mg twice daily for 4 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#ac75d1",
+   "kind": "mcq",
+   "stem": "What is the maintenance dose of bosentan?",
+   "options": [
+    "62.5 mg twice daily",
+    "125 mg once daily",
+    "250 mg twice daily",
+    "125 mg twice daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#5dd849",
+   "kind": "mcq",
+   "stem": "Which endothelin receptors does bosentan block?",
+   "options": [
+    "ETA only",
+    "ETB only",
+    "ETA and ETB",
+    "Neither receptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#77ad65",
+   "kind": "mcq",
+   "stem": "Bosentan lowers vascular resistance, so what happens to its heart rate?",
+   "options": [
+    "Marked rise in heart rate",
+    "Fall in heart rate",
+    "No rise in heart rate",
+    "Doubling of heart rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#884ce7",
+   "kind": "mcq",
+   "stem": "What does bosentan improve in primary PAH?",
+   "options": [
+    "Symptoms only, not mortality",
+    "Mortality only, not symptoms",
+    "Neither symptoms nor mortality",
+    "Symptoms and mortality"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#c4ab3c",
+   "kind": "mcq",
+   "stem": "How is bosentan usually tolerated?",
+   "options": [
+    "Usually poorly tolerated",
+    "Usually well tolerated",
+    "Often causes anaphylaxis",
+    "Frequently needs dialysis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#4453ad",
+   "kind": "mcq",
+   "stem": "How often should bosentan's liver aminotransferases be checked?",
+   "options": [
+    "Weekly",
+    "Monthly",
+    "Yearly",
+    "Every six months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#b71492",
+   "kind": "mcq",
+   "stem": "Which of these is an adverse effect of bosentan?",
+   "options": [
+    "Bradycardia",
+    "Hypoglycaemia",
+    "Peripheral oedema",
+    "Hypertension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#709f87",
+   "kind": "mcq",
+   "stem": "Which adverse effect is a class effect of endothelin receptor antagonists?",
+   "options": [
+    "Bradycardia and syncope",
+    "Testicular atrophy and infertility",
+    "Acute pancreatitis",
+    "Renal stone formation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#e45add",
+   "kind": "mcq",
+   "stem": "What pregnancy risk does bosentan carry?",
+   "options": [
+    "Known to be non-teratogenic",
+    "Potentially teratogenic",
+    "Safe in the first trimester",
+    "Safe throughout pregnancy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#777826",
+   "kind": "mcq",
+   "stem": "In which patients is bosentan used for PAH?",
+   "options": [
+    "Adults only",
+    "Children only",
+    "Adults and children",
+    "Pregnant women only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#b3ef32",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of bosentan?",
+   "options": [
+    "10%",
+    "50%",
+    "90%",
+    "100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#66f5c4",
+   "kind": "mcq",
+   "stem": "What happens to bosentan plasma levels with ongoing use?",
+   "options": [
+    "Rise by 50%",
+    "Remain unchanged",
+    "Fall by 50%",
+    "Double"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#41c95f",
+   "kind": "mcq",
+   "stem": "How is bosentan excreted?",
+   "options": [
+    "In sweat",
+    "In tears",
+    "In bile",
+    "Via the lungs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#61e806",
+   "kind": "mcq",
+   "stem": "Which endothelin receptor does ambrisentan selectively block?",
+   "options": [
+    "ETB only",
+    "ETA only",
+    "Both ETA and ETB",
+    "Neither receptor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#5c5e5e",
+   "kind": "mcq",
+   "stem": "What is the usual oral dose of ambrisentan, taken once daily?",
+   "options": [
+    "62.5-125 mg",
+    "1-2 mg",
+    "5-10 mg",
+    "20-40 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#4ae84b",
+   "kind": "mcq",
+   "stem": "How do ambrisentan's efficacy and side effects compare with bosentan's?",
+   "options": [
+    "Much better",
+    "Much worse",
+    "Similar",
+    "Opposite"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#2b7980",
+   "kind": "statement",
+   "stem": "What liver monitoring does ambrisentan need, and how often?",
+   "answer": "Liver aminotransferase checks monthly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#c10469",
+   "kind": "mcq",
+   "stem": "Sitaxsentan is a selective antagonist of which endothelin receptor?",
+   "options": [
+    "ETB receptors",
+    "Both receptors",
+    "ETA receptors",
+    "Neither receptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/endothelin-receptor-antagonists#8d493d",
+   "kind": "mcq",
+   "stem": "Why was sitaxsentan withdrawn?",
+   "options": [
+    "Fatal liver injury",
+    "Fatal bone marrow suppression",
+    "Fatal arrhythmias",
+    "Fatal renal failure"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "topic": "comorbidities/hyperparathyroidism",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#e1aba8",
+   "kind": "mcq",
+   "stem": "In primary hyperparathyroidism, which lesion usually secretes the excess PTH?",
+   "options": [
+    "Parathyroid hyperplasia driven by low calcium",
+    "Medullary thyroid carcinoma secreting calcitonin",
+    "Pituitary tumour releasing growth hormone",
+    "Adenoma secreting excess PTH"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#eb71be",
+   "kind": "mcq",
+   "stem": "Primary hyperparathyroidism is associated with which inherited syndrome?",
+   "options": [
+    "Hereditary haemochromatosis",
+    "Cystic fibrosis of the pancreas",
+    "Familial multiple endocrine neoplasia (MEN) type 1",
+    "Autosomal dominant polycystic kidney disease"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#b9c57e",
+   "kind": "mcq",
+   "stem": "In primary hyperparathyroidism, how much is added to measured calcium for each 5g/L that albumin is below 40g/L?",
+   "options": [
+    "0.2mmol/L",
+    "0.5mmol/L",
+    "0.1mmol/L",
+    "1.0mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#b9c57e",
+   "kind": "blank",
+   "stem": "Correcting calcium for low albumin: add 0.1mmol/L to calcium for each ____ that albumin falls below 40g/L.",
+   "answer": "5g/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#8e3d7a",
+   "kind": "mcq",
+   "stem": "In primary hyperparathyroidism, methylene blue is often needed to locate the glands at what dose?",
+   "options": [
+    "2mg/kg",
+    "1mg/kg",
+    "5mg/kg",
+    "10mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#7220de",
+   "kind": "blank",
+   "stem": "In primary hyperparathyroidism, calcium-lowering drugs such as ____ may be used.",
+   "answer": "pamidronate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#6439cc",
+   "kind": "mcq",
+   "stem": "Primary hyperparathyroidism: what calcium level should be aimed for before proceeding with surgery?",
+   "options": [
+    "Below 2mmol/L",
+    "Above 3mmol/L",
+    "Below 3mmol/L",
+    "Above 2mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#68e94a",
+   "kind": "mcq",
+   "stem": "Primary hyperparathyroidism: surgery should be postponed for treatment if calcium is above what level?",
+   "options": [
+    "2mmol/L",
+    "3mmol/L",
+    "4mmol/L",
+    "5mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#f4b7b4",
+   "kind": "statement",
+   "stem": "In secondary hyperparathyroidism, what does chronic renal failure cause that drives parathyroid hyperplasia?",
+   "answer": "Low calcium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#8b895f",
+   "kind": "mcq",
+   "stem": "Secondary hyperparathyroidism is caused by which underlying condition?",
+   "options": [
+    "Parathyroid adenoma",
+    "Chronic renal failure",
+    "Vitamin D excess",
+    "Familial hypocalciuric hypercalcaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#59d1e4",
+   "kind": "mcq",
+   "stem": "In secondary hyperparathyroidism, medical treatment fails in what percentage of patients?",
+   "options": [
+    "10%",
+    "15%",
+    "25%",
+    "35%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#6a57c5",
+   "kind": "statement",
+   "stem": "In secondary hyperparathyroidism, what should be done for the patient before surgery?",
+   "answer": "Dialyse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#9d990a",
+   "kind": "blank",
+   "stem": "In tertiary hyperparathyroidism, hyperplasia progresses to ____ secretion, behaving like an adenoma.",
+   "answer": "autonomous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#ca452d",
+   "kind": "statement",
+   "stem": "In tertiary hyperparathyroidism, what is the course once the underlying renal failure is treated?",
+   "answer": "It persists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#74745f",
+   "kind": "mcq",
+   "stem": "In tertiary hyperparathyroidism, how many patients need parathyroid surgery?",
+   "options": [
+    "Most of them",
+    "Only a few",
+    "Nearly all of them",
+    "About half of them"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#45850d",
+   "kind": "statement",
+   "stem": "In tertiary hyperparathyroidism, what are the classic symptoms of hypercalcaemia, in mnemonic form?",
+   "answer": "Stones, bones, groans and psychic moans",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#5fe02e",
+   "kind": "statement",
+   "stem": "Hypercalcaemic crisis: in which patients is it most common?",
+   "answer": "Elderly patients with undiagnosed hyperparathyroidism and malignancy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#dd3911",
+   "kind": "statement",
+   "stem": "Hypercalcaemic crisis: what does dehydration lead to that worsens the crisis further?",
+   "answer": "Anorexia, diarrhoea and vomiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#0e2c86",
+   "kind": "statement",
+   "stem": "Hypercalcaemic crisis: apart from gut symptoms, which other features can occur?",
+   "answer": "Weakness, lethargy, mental changes, coma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#16a4b7",
+   "kind": "mcq",
+   "stem": "Hypercalcaemic crisis: calcium above what level in mmol/L is life threatening?",
+   "options": [
+    "3.5",
+    "4.5",
+    "5.5",
+    "6.5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#a12d26",
+   "kind": "mcq",
+   "stem": "Hypercalcaemic crisis: how many litres of IV fluids may be needed?",
+   "options": [
+    "0.5-1 litres",
+    "1-2 litres",
+    "4-6 litres",
+    "2-3 litres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#c26a69",
+   "kind": "mcq",
+   "stem": "Hypercalcaemic crisis: what dose of pamidronate is given?",
+   "options": [
+    "30mg",
+    "45mg",
+    "60mg",
+    "90mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#c26a69",
+   "kind": "mcq",
+   "stem": "Hypercalcaemic crisis: over how many hours is the pamidronate infusion given?",
+   "options": [
+    "1 hr",
+    "4 hrs",
+    "2 hrs",
+    "8 hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#c26a69",
+   "kind": "blank",
+   "stem": "Hypercalcaemic crisis: pamidronate 60mg is diluted in ____ of saline and given over 4 hrs.",
+   "answer": "500ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#8519e8",
+   "kind": "mcq",
+   "stem": "Hypercalcaemic crisis from malignancy: what daily IV hydrocortisone dose is given?",
+   "options": [
+    "50-100mg",
+    "100-200mg",
+    "200-400mg",
+    "500-1000mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#f9b5fb",
+   "kind": "mcq",
+   "stem": "Hypercalcaemic crisis: what is the initial IV calcitonin dose per kg?",
+   "options": [
+    "1unit/kg",
+    "2unit/kg",
+    "4unit/kg",
+    "8unit/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#f9b5fb",
+   "kind": "statement",
+   "stem": "Hypercalcaemic crisis: how often is subcutaneous calcitonin given?",
+   "answer": "Twice daily",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#5cc894",
+   "kind": "mcq",
+   "stem": "Hypercalcaemic crisis: what IV dose of furosemide is used for diuresis?",
+   "options": [
+    "20mg",
+    "40mg",
+    "10mg",
+    "80mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperparathyroidism#5cc894",
+   "kind": "statement",
+   "stem": "Hypercalcaemic crisis: how does furosemide lower calcium in the kidney?",
+   "answer": "Reduces proximal tubular calcium reabsorption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

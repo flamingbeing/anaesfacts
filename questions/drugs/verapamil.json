@@ -1,0 +1,413 @@
+{
+ "topic": "drugs/verapamil",
+ "questions": [
+  {
+   "fact_id": "drugs/verapamil#20888f",
+   "kind": "mcq",
+   "stem": "What tablet strength range is available for verapamil?",
+   "options": [
+    "5–80 mg",
+    "20–240 mg",
+    "40–480 mg",
+    "100–500 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#2308f4",
+   "kind": "mcq",
+   "stem": "What is the strength of the verapamil oral suspension?",
+   "options": [
+    "10 mg/5 ml",
+    "80 mg/5 ml",
+    "2.5 mg/ml",
+    "40 mg/5 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#7c17a3",
+   "kind": "mcq",
+   "stem": "What is the concentration of the verapamil IV solution?",
+   "options": [
+    "40 mg/5 ml",
+    "5 mg/ml",
+    "0.1 mg/ml",
+    "2.5 mg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#9d0c81",
+   "kind": "mcq",
+   "stem": "Verapamil is a synthetic derivative of which drug?",
+   "options": [
+    "Morphine",
+    "Atropine",
+    "Papaverine",
+    "Digoxin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#d40541",
+   "kind": "mcq",
+   "stem": "What is the first IV bolus dose of verapamil?",
+   "options": [
+    "0.5 mg/kg over 10 mins",
+    "0.1 mg/kg over 2 mins",
+    "2.5 mg over 2 mins",
+    "0.1 mg/kg over 10 mins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#d40541",
+   "kind": "mcq",
+   "stem": "How long after the first verapamil IV bolus can a repeat dose be given?",
+   "options": [
+    "5 mins",
+    "30 mins",
+    "15 mins",
+    "60 mins"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#0304e5",
+   "kind": "statement",
+   "stem": "What type of antagonism does verapamil show at Ca2+ channels?",
+   "answer": "Competitive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#ab4532",
+   "kind": "mcq",
+   "stem": "Where does verapamil block calcium entry to lower nodal automaticity?",
+   "options": [
+    "Ventricular myocytes only",
+    "Skeletal muscle sarcolemma",
+    "SA and AV nodes",
+    "Renal tubular cells"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#f857e7",
+   "kind": "mcq",
+   "stem": "Compared with its nodal effect, how strong is verapamil's effect on contractile myocardium?",
+   "options": [
+    "Much weaker",
+    "Much stronger",
+    "About equal",
+    "Opposite in direction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#f6d7aa",
+   "kind": "mcq",
+   "stem": "Which verapamil isomer carries the calcium channel blocking activity?",
+   "options": [
+    "D-isomer",
+    "Meso form",
+    "L-isomer",
+    "Hydrolysed acid form"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#231fdb",
+   "kind": "mcq",
+   "stem": "What is a central nervous system effect of verapamil?",
+   "options": [
+    "Cerebral vasoconstriction",
+    "Marked bronchospasm",
+    "Cerebral vasodilation",
+    "Pupillary dilatation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#f2bb1a",
+   "kind": "mcq",
+   "stem": "With long-term verapamil use, which muscle relaxants may be potentiated?",
+   "options": [
+    "Only depolarising relaxants",
+    "Only non-depolarising relaxants",
+    "Both depolarising and non-depolarising",
+    "Neither type"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#30d668",
+   "kind": "mcq",
+   "stem": "In WPW syndrome, what can verapamil given for SVT do to the accessory pathway?",
+   "options": [
+    "Increase accessory pathway conduction",
+    "Block accessory pathway conduction completely",
+    "Prolong the QT interval",
+    "Cause sinus arrest only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#7dd44d",
+   "kind": "mcq",
+   "stem": "Verapamil may precipitate heart failure in which patients?",
+   "options": [
+    "Patients with normal left ventricular function",
+    "Patients with isolated tricuspid regurgitation",
+    "Patients with poor left ventricular function",
+    "Patients with hypothyroidism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#2362b9",
+   "kind": "mcq",
+   "stem": "What is the danger of combining verapamil with other AV-slowing drugs?",
+   "options": [
+    "Tachycardia and marked hypertension",
+    "Severe bradycardia and AV block",
+    "Hypokalaemia and polyuria",
+    "Hyperglycaemia and ketosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#dd5db1",
+   "kind": "mcq",
+   "stem": "What does verapamil do to digoxin levels?",
+   "options": [
+    "Lowers digoxin levels",
+    "Raises digoxin levels",
+    "No effect on digoxin levels",
+    "Abolishes digoxin absorption"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#95544f",
+   "kind": "mcq",
+   "stem": "Which drink should be avoided because it raises verapamil levels?",
+   "options": [
+    "Apple juice",
+    "Grapefruit juice",
+    "Tonic water",
+    "Coffee"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#b11c7b",
+   "kind": "mcq",
+   "stem": "Verapamil causes hypotension through which effect?",
+   "options": [
+    "Vascular smooth muscle relaxation",
+    "Direct cardiac muscle stimulation",
+    "Beta-1 receptor blockade",
+    "Sodium channel blockade"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#450e0c",
+   "kind": "mcq",
+   "stem": "In WPW syndrome, verapamil is contraindicated in which arrhythmia?",
+   "options": [
+    "Atrial flutter with 2:1 block",
+    "Sinus tachycardia",
+    "Junctional ectopic tachycardia",
+    "Atrial fibrillation complicating WPW"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#a05b23",
+   "kind": "mcq",
+   "stem": "Verapamil is used for which supraventricular arrhythmias?",
+   "options": [
+    "Ventricular tachycardia only",
+    "Sick sinus syndrome only",
+    "SVT, AF or atrial flutter",
+    "Torsades de pointes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#6a6b50",
+   "kind": "mcq",
+   "stem": "Verapamil is used prophylactically for which condition?",
+   "options": [
+    "Asthma",
+    "Gout",
+    "Angina",
+    "Peptic ulcer"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#4d88ab",
+   "kind": "statement",
+   "stem": "Why is verapamil of limited value in hypertension?",
+   "answer": "Negative inotropy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#50e82d",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of verapamil?",
+   "options": [
+    "5% to 10%",
+    "90% to 95%",
+    "20% to 25%",
+    "60% to 70%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#50e82d",
+   "kind": "mcq",
+   "stem": "What percentage of an oral verapamil dose is absorbed from the gut?",
+   "options": [
+    "Around 20%",
+    "Around 50%",
+    "Almost 90%",
+    "Under 10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#0fc335",
+   "kind": "mcq",
+   "stem": "What proportion of verapamil is protein bound?",
+   "options": [
+    "About 10%",
+    "About 50%",
+    "About 90%",
+    "About 99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#3997b1",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of verapamil?",
+   "options": [
+    "0.5–1 l/kg",
+    "10–15 l/kg",
+    "3–5 l/kg",
+    "20–30 l/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#340cd6",
+   "kind": "mcq",
+   "stem": "How many metabolites does verapamil form in the liver?",
+   "options": [
+    "Exactly 2",
+    "At most 3",
+    "At least 12",
+    "No metabolites"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#340cd6",
+   "kind": "mcq",
+   "stem": "What percentage of verapamil is excreted in bile?",
+   "options": [
+    "More than 50%",
+    "Almost 100%",
+    "Exactly 20%",
+    "None"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#d6d6ad",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of verapamil?",
+   "options": [
+    "3–7 hours",
+    "15–20 minutes",
+    "24–48 hours",
+    "1–2 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/verapamil#d6d6ad",
+   "kind": "mcq",
+   "stem": "Why does verapamil's elimination half-life get longer at higher doses?",
+   "options": [
+    "Renal clearance falls to zero",
+    "Plasma protein binding rises to 100%",
+    "Liver enzymes saturate",
+    "Volume of distribution shrinks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

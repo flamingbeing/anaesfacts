@@ -1,0 +1,1165 @@
+{
+ "topic": "procedures/caesarean-section",
+ "questions": [
+  {
+   "fact_id": "procedures/caesarean-section#64de62",
+   "kind": "statement",
+   "stem": "What term describes abnormal labour as an indication for caesarean section?",
+   "answer": "Dystocia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#64de62",
+   "kind": "statement",
+   "stem": "Which caesarean section indication refers to the mother possibly dying soon?",
+   "answer": "Impending maternal death",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#a950cb",
+   "kind": "mcq",
+   "stem": "Which RCOG caesarean urgency category describes an immediate threat to life of mother or fetus?",
+   "options": [
+    "Category 1",
+    "Category 2",
+    "Category 3",
+    "Category 4"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#c01ba2",
+   "kind": "mcq",
+   "stem": "In caesarean urgency categories, what decision-to-delivery interval do ACOG and NICE give?",
+   "options": [
+    "10 min or less",
+    "30 min or less",
+    "45 min or less",
+    "120 min or less"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#fd7e2d",
+   "kind": "mcq",
+   "stem": "Within a 30-minute decision-to-delivery interval, how long is allowed for transfer to theatre?",
+   "options": [
+    "2 min",
+    "5 min",
+    "10 min",
+    "15 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#fd7e2d",
+   "kind": "mcq",
+   "stem": "Within a 30-minute decision-to-delivery interval, how long is allowed for prep and drape?",
+   "options": [
+    "2 min",
+    "10 min",
+    "5 min",
+    "15 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#0d30f2",
+   "kind": "mcq",
+   "stem": "Which RCOG category covers maternal or fetal compromise that is not immediately life threatening?",
+   "options": [
+    "Category 3",
+    "Category 1",
+    "Category 4",
+    "Category 2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#614eb4",
+   "kind": "mcq",
+   "stem": "What decision-to-delivery interval does NICE give in caesarean urgency categories?",
+   "options": [
+    "Less than 15 min",
+    "Less than 75 min",
+    "Less than 120 min",
+    "Less than 180 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#47184a",
+   "kind": "mcq",
+   "stem": "Which RCOG category needs early delivery without maternal or fetal compromise?",
+   "options": [
+    "Category 2",
+    "Category 4",
+    "Category 3",
+    "Category 1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#77888e",
+   "kind": "mcq",
+   "stem": "Which RCOG category allows delivery at a time to suit mother and team?",
+   "options": [
+    "Category 4",
+    "Category 1",
+    "Category 2",
+    "Category 3"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#977341",
+   "kind": "mcq",
+   "stem": "Which caesarean categories count as emergency?",
+   "options": [
+    "Categories 1–2",
+    "Categories 1–3",
+    "Categories 2–4",
+    "Categories 3–4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#977341",
+   "kind": "statement",
+   "stem": "Which caesarean category counts as elective?",
+   "answer": "Category 4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#1ca9f0",
+   "kind": "mcq",
+   "stem": "Which RCOG category is a crash caesarean section?",
+   "options": [
+    "Category 3",
+    "Category 4",
+    "Category 1",
+    "Category 2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#6905da",
+   "kind": "statement",
+   "stem": "Caesarean section urgency is classed as which three types?",
+   "answer": "Elective, emergency and crash",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#3c1f60",
+   "kind": "statement",
+   "stem": "In caesarean section, which two airway risks are higher?",
+   "answer": "Aspiration and difficult or failed intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#8d72c4",
+   "kind": "statement",
+   "stem": "In caesarean section, which anaesthetic complication carries a higher risk?",
+   "answer": "Awareness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#f0b946",
+   "kind": "statement",
+   "stem": "In caesarean section anaesthesia, which second patient must be protected?",
+   "answer": "The fetus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#e3eb1b",
+   "kind": "mcq",
+   "stem": "Which position avoids aortocaval compression in caesarean section?",
+   "options": [
+    "Right lateral tilt",
+    "Prone position",
+    "Left lateral tilt",
+    "Steep head-down tilt"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#736442",
+   "kind": "mcq",
+   "stem": "Which drug is considered before caesarean section as aspiration prophylaxis?",
+   "options": [
+    "Ondansetron",
+    "Hyoscine butylbromide",
+    "Metoclopramide",
+    "Glycopyrronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#38c2fd",
+   "kind": "statement",
+   "stem": "Which postoperative analgesic route needs consent before caesarean section?",
+   "answer": "Suppositories",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#c45647",
+   "kind": "statement",
+   "stem": "Which specialties make up the multidisciplinary team for caesarean section?",
+   "answer": "Obstetricians, anaesthetist and neonatologists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#4d4202",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is most common for caesarean section?",
+   "options": [
+    "Local infiltration alone",
+    "General anaesthesia",
+    "Neuraxial",
+    "Peripheral nerve block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#83d9b0",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is the standard for a crash caesarean section?",
+   "options": [
+    "Spinal anaesthesia",
+    "General anaesthesia",
+    "Epidural top-up",
+    "Combined spinal-epidural"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#83d9b0",
+   "kind": "statement",
+   "stem": "Why is general anaesthesia chosen for a crash caesarean section?",
+   "answer": "It is faster",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#1baff2",
+   "kind": "mcq",
+   "stem": "Which sensory level is ideal for caesarean section because of peritoneal traction?",
+   "options": [
+    "T12",
+    "T8",
+    "L2",
+    "T4"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#00e6b1",
+   "kind": "mcq",
+   "stem": "Which sensory level covers somatic pain in caesarean section?",
+   "options": [
+    "T6",
+    "T10",
+    "T12",
+    "L1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#00e6b1",
+   "kind": "statement",
+   "stem": "Which nerves carry the visceral pain that a T4 block covers in caesarean section?",
+   "answer": "Splanchnic nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#da37b8",
+   "kind": "mcq",
+   "stem": "In caesarean section, which INR counts as a coagulopathy threshold for neuraxial?",
+   "options": [
+    "INR >1.1",
+    "INR >1.3",
+    "INR >1.5",
+    "INR >2.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#da37b8",
+   "kind": "mcq",
+   "stem": "In caesarean section, which platelet count is a coagulopathy threshold for neuraxial?",
+   "options": [
+    "Platelets <50",
+    "Platelets <100",
+    "Platelets <75",
+    "Platelets <150"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#f5a370",
+   "kind": "mcq",
+   "stem": "For caesarean section under regional anaesthesia, what must the anaesthetist be ready to convert to?",
+   "options": [
+    "Sedation alone",
+    "Spinal anaesthesia",
+    "Local infiltration",
+    "General anaesthesia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#411bc7",
+   "kind": "mcq",
+   "stem": "What oral volume of sodium citrate is given before a spinal for caesarean section?",
+   "options": [
+    "10 mL",
+    "60 mL",
+    "30 mL",
+    "100 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#411bc7",
+   "kind": "mcq",
+   "stem": "What strength of oral sodium citrate is given before a spinal for caesarean section?",
+   "options": [
+    "0.1 M",
+    "0.5 M",
+    "0.3 M",
+    "1.0 M"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#411bc7",
+   "kind": "statement",
+   "stem": "Why is oral sodium citrate given before a spinal for caesarean section?",
+   "answer": "To reduce gastric acidity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#67d828",
+   "kind": "statement",
+   "stem": "In caesarean section, how is the surgical block confirmed before incision?",
+   "answer": "Objective testing, e.g. pin-prick",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#aca951",
+   "kind": "mcq",
+   "stem": "What heavy bupivacaine dose is used for a caesarean section spinal?",
+   "options": [
+    "5-7mg",
+    "10-12mg",
+    "15-20mg",
+    "25-30mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#aca951",
+   "kind": "statement",
+   "stem": "What determines the heavy bupivacaine dose for a caesarean spinal?",
+   "answer": "Maternal size",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#6025e5",
+   "kind": "statement",
+   "stem": "What class of intrathecal opioid helps with visceral discomfort in caesarean section?",
+   "answer": "Lipophilic opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#b16288",
+   "kind": "mcq",
+   "stem": "Which intrathecal opioid gives faster onset and a denser block in caesarean section?",
+   "options": [
+    "Morphine",
+    "Pethidine",
+    "Fentanyl",
+    "Diamorphine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#b16288",
+   "kind": "mcq",
+   "stem": "What is the example intrathecal fentanyl dose for caesarean section?",
+   "options": [
+    "10-15mcg",
+    "5-7mcg",
+    "20-25mcg",
+    "30-40mcg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#531e6d",
+   "kind": "mcq",
+   "stem": "Which intrathecal opioid gives good postoperative analgesia in caesarean section?",
+   "options": [
+    "Fentanyl",
+    "Pethidine",
+    "Morphine",
+    "Ketamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#531e6d",
+   "kind": "mcq",
+   "stem": "What is the example intrathecal morphine dose for caesarean section?",
+   "options": [
+    "10mcg",
+    "100mcg",
+    "500mcg",
+    "1000mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#8c87f9",
+   "kind": "mcq",
+   "stem": "What volume of heavy bupivacaine is in the typical caesarean spinal mix?",
+   "options": [
+    "1.2-1.3ml",
+    "2.2-2.3ml",
+    "3.2-3.3ml",
+    "4.2-4.3ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#f27421",
+   "kind": "statement",
+   "stem": "How is an epidural usually built up for caesarean section?",
+   "answer": "Intermittent boluses through an indwelling catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#ff0b3b",
+   "kind": "mcq",
+   "stem": "What volume of local anaesthetic gives the surgical block in a lumbar epidural for caesarean section?",
+   "options": [
+    "5–10 mL",
+    "15–25 mL",
+    "30–40 mL",
+    "45–50 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#ff0b3b",
+   "kind": "mcq",
+   "stem": "Which local anaesthetic at 3% gives the surgical block in a lumbar epidural for caesarean section?",
+   "options": [
+    "Prilocaine",
+    "Lidocaine",
+    "Chloroprocaine",
+    "Procaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#9a39f0",
+   "kind": "blank",
+   "stem": "In a caesarean top-up, a symmetrical labour epidural that controlled pain well can be extended with ____ LA.",
+   "answer": "concentrated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#56080c",
+   "kind": "mcq",
+   "stem": "What does a poorly working labour epidural, with missed segments or one-sided block, give at caesarean?",
+   "options": [
+    "Dense bilateral block",
+    "Inadequate surgical block",
+    "Faster onset of block",
+    "Reduced local anaesthetic need"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#4a6466",
+   "kind": "blank",
+   "stem": "Before a labour epidural top-up for caesarean, first confirm the ____.",
+   "answer": "catheter position",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#2ced91",
+   "kind": "mcq",
+   "stem": "Which small test dose is suggested first when topping up a labour epidural for caesarean?",
+   "options": [
+    "10ml",
+    "2ml",
+    "5ml",
+    "20ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#2ced91",
+   "kind": "blank",
+   "stem": "During a labour epidural top-up, assess side, level and density every ____ min.",
+   "answer": "3-5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#2cde72",
+   "kind": "mcq",
+   "stem": "In the labour epidural top-up reference, how long was onset after 3 ml epidural lidocaine 1.5%?",
+   "options": [
+    "3 min",
+    "6 min",
+    "9 min",
+    "15 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#b28938",
+   "kind": "mcq",
+   "stem": "In a labour epidural top-up for a category 1 caesarean, which approach may be appropriate in the delivery room?",
+   "options": [
+    "Slow small top-ups until the theatre",
+    "Withhold top-up until skin incision",
+    "Routine standard top-up dose only",
+    "More aggressive top-up with larger doses"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#2d2d60",
+   "kind": "blank",
+   "stem": "In the epidural top-up mix for caesarean, adrenaline 0.1 ml is given at strength ____.",
+   "answer": "1:1000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#2d2d60",
+   "kind": "mcq",
+   "stem": "What volume of lignocaine 2% is in the epidural top-up mix for caesarean?",
+   "options": [
+    "20 ml",
+    "10 ml",
+    "15 ml",
+    "30 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#95df02",
+   "kind": "mcq",
+   "stem": "Adrenaline in a labour epidural top-up mix is usually brought to about what concentration?",
+   "options": [
+    "50mcg/ml",
+    "1mcg/ml",
+    "10mcg/ml",
+    "5mcg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#ab639f",
+   "kind": "mcq",
+   "stem": "Why is sodium bicarbonate added to lidocaine in a labour epidural top-up?",
+   "options": [
+    "Increases unionised lidocaine and speeds onset",
+    "Increases ionised lidocaine and slows onset",
+    "Prolongs block by lowering pH",
+    "Adds vasoconstriction to limit spread"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#ab639f",
+   "kind": "mcq",
+   "stem": "How much bicarbonate 8.4% is added to 20 ml lidocaine in a labour epidural top-up?",
+   "options": [
+    "2 ml",
+    "1 ml",
+    "4 ml",
+    "10 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#ab639f",
+   "kind": "mcq",
+   "stem": "On average, by how many minutes does bicarbonate shorten lidocaine onset in a labour epidural top-up?",
+   "options": [
+    "1.5 min",
+    "4.5 min",
+    "9 min",
+    "15 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#5a6bcf",
+   "kind": "mcq",
+   "stem": "Which opioid, given epidurally at 50-75mcg, shortens onset of a labour epidural top-up further?",
+   "options": [
+    "Morphine",
+    "Pethidine",
+    "Fentanyl",
+    "Sufentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#123cf3",
+   "kind": "mcq",
+   "stem": "In a labour epidural top-up for caesarean, which agent needed the fewest intraoperative top-ups?",
+   "options": [
+    "Ropivacaine 0.7%",
+    "Bupivacaine 0.5%",
+    "Levobupivacaine 0.5%",
+    "Lignocaine 2%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#be8075",
+   "kind": "mcq",
+   "stem": "In the labour epidural top-up mix, how much saline is added to 10 ml ropivacaine 1%?",
+   "options": [
+    "6 ml",
+    "2 ml",
+    "8 ml",
+    "4 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#c938a8",
+   "kind": "mcq",
+   "stem": "What total volume results from 14 ml ropivacaine 1% plus 6 ml saline?",
+   "options": [
+    "20 ml",
+    "16 ml",
+    "24 ml",
+    "18 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#0ce234",
+   "kind": "mcq",
+   "stem": "Which local anaesthetics have the slowest onset and poorest block for a labour epidural top-up?",
+   "options": [
+    "Ropivacaine 0.7% and lignocaine 2%",
+    "Ropivacaine 1% and saline",
+    "Lignocaine 2% and bicarbonate",
+    "Bupivacaine 0.5% and levobupivacaine 0.5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#4a54d1",
+   "kind": "mcq",
+   "stem": "In caesarean under regional anaesthesia, what can a high spinal above T1 compromise?",
+   "options": [
+    "Breathing",
+    "Bowel function",
+    "Bladder emptying",
+    "Blood glucose"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#db68a0",
+   "kind": "mcq",
+   "stem": "During caesarean under spinal, vomiting often signals which problem?",
+   "options": [
+    "Hypertension",
+    "Hypotension",
+    "Hypoglycaemia",
+    "Hypothermia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#715871",
+   "kind": "mcq",
+   "stem": "For shivering during caesarean section, what IV pethidine dose is used?",
+   "options": [
+    "10mg + 10mg",
+    "5mg + 5mg",
+    "2.5mg + 2.5mg",
+    "25mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#715871",
+   "kind": "mcq",
+   "stem": "During caesarean under regional anaesthesia, shivering can make which readings difficult?",
+   "options": [
+    "NIBP readings",
+    "Blood glucose readings",
+    "Core temperature readings",
+    "Arterial blood gas results"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#5d49ea",
+   "kind": "mcq",
+   "stem": "After caesarean delivery, if not already given, what epidural morphine dose is advised?",
+   "options": [
+    "1mg",
+    "3mg",
+    "5mg",
+    "10mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#32ad2e",
+   "kind": "mcq",
+   "stem": "In caesarean GA, at what angle to the tilted table is cricoid pressure applied?",
+   "options": [
+    "30º",
+    "45º",
+    "90º",
+    "60º"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#32ad2e",
+   "kind": "mcq",
+   "stem": "In caesarean GA induction, cricoid pressure is kept on until what?",
+   "options": [
+    "Surgery starts",
+    "Tube position is confirmed",
+    "Baby is delivered",
+    "Extubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#7ef37a",
+   "kind": "mcq",
+   "stem": "In caesarean GA, what amnesia drawback does propofol have?",
+   "options": [
+    "Longer amnesia",
+    "Shorter amnesia",
+    "No amnesia effect",
+    "Deeper amnesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#7ef37a",
+   "kind": "mcq",
+   "stem": "In caesarean GA induction, what is the drawback of propofol for the neonate?",
+   "options": [
+    "Better neonatal profile",
+    "Poorer neonatal profile",
+    "No neonatal effect",
+    "Earlier neonatal feeding"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#833be9",
+   "kind": "mcq",
+   "stem": "In caesarean GA, what is the priority once induction is complete?",
+   "options": [
+    "Deliver the baby quickly",
+    "Give extra opioid before incision",
+    "Hold delivery until oxygenation improves",
+    "Start high-dose volatile first"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#eeef7f",
+   "kind": "mcq",
+   "stem": "In caesarean GA with fetal distress, what do some give before delivery?",
+   "options": [
+    "30% oxygen",
+    "Air at 21%",
+    "100% oxygen",
+    "Nitrous oxide only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#0149a2",
+   "kind": "blank",
+   "stem": "After GA caesarean with no working regional block, substantial analgesia can include IV paracetamol or ____.",
+   "answer": "parecoxib",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#3d2d59",
+   "kind": "blank",
+   "stem": "Caesarean antibiotic prophylaxis: give IV cefazolin 2g before the ____.",
+   "answer": "skin incision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#be1ebe",
+   "kind": "statement",
+   "stem": "In caesarean anaesthesia for either technique, what must be protected?",
+   "answer": "Placental perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#74c89d",
+   "kind": "mcq",
+   "stem": "For caesarean induction, which head-up tilt do some prefer?",
+   "options": [
+    "10º",
+    "30º",
+    "45º",
+    "60º"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#74c89d",
+   "kind": "mcq",
+   "stem": "Which benefit of a 30º head-up position helps laryngoscopy at caesarean induction?",
+   "options": [
+    "Faster skin incision",
+    "Higher risk of reflux",
+    "Less breast obstruction to laryngoscopy",
+    "Lower functional residual capacity"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#9bff84",
+   "kind": "statement",
+   "stem": "For caesarean with fetal distress as the indication, what oxygen approach should be considered?",
+   "answer": "Supplemental oxygen or high FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#8232db",
+   "kind": "mcq",
+   "stem": "Uterine relaxation to aid caesarean delivery uses GTN boluses of what size?",
+   "options": [
+    "5mcg",
+    "50mcg",
+    "100mcg",
+    "500mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#8232db",
+   "kind": "blank",
+   "stem": "GTN boluses for uterine relaxation at caesarean may help when the fetus is low after ____.",
+   "answer": "prolonged labour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#642aa8",
+   "kind": "mcq",
+   "stem": "After delivery at caesarean, which bleeding complication should management aim to reduce?",
+   "options": [
+    "PPH",
+    "Shivering",
+    "Nausea",
+    "Pruritus"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#747ae7",
+   "kind": "mcq",
+   "stem": "If bleeding is significant at caesarean, what IV tranexamic acid dose may surgeons request?",
+   "options": [
+    "500mg",
+    "1g",
+    "100mg",
+    "2g"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#bd608e",
+   "kind": "mcq",
+   "stem": "Which drug, given with 4mg ondansetron, is an example prophylactic antiemetic at caesarean?",
+   "options": [
+    "Dexamethasone",
+    "Cyclizine",
+    "Haloperidol",
+    "Droperidol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#fe4e79",
+   "kind": "mcq",
+   "stem": "At caesarean, which rectal NSAID is given, and at what dose?",
+   "options": [
+    "Diclofenac 100mg",
+    "Ibuprofen 400mg",
+    "Diclofenac 50mg",
+    "Naproxen 250mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#fba6d9",
+   "kind": "mcq",
+   "stem": "What total rectal paracetamol dose is given at caesarean, using 650mg suppositories?",
+   "options": [
+    "500mg",
+    "1000mg",
+    "1300mg",
+    "2600mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#d4fc9e",
+   "kind": "blank",
+   "stem": "At caesarean, document times: arrival in theatre, induction, anaesthesia ready, skin incision, ____, drugs given.",
+   "answer": "delivery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#6ed72c",
+   "kind": "mcq",
+   "stem": "After caesarean, which two drug groups form simple postoperative analgesia?",
+   "options": [
+    "Opioids and benzodiazepines",
+    "Paracetamol and NSAIDs",
+    "Ketamine and gabapentin",
+    "Local anaesthetic and steroid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#c61c95",
+   "kind": "mcq",
+   "stem": "After caesarean under neuraxial block, when are neuraxial opioids given?",
+   "options": [
+    "Two hours after surgery",
+    "At the time of the block",
+    "Only if pain becomes severe",
+    "At the end of surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#d41165",
+   "kind": "mcq",
+   "stem": "In PROSPECT 2020 elective caesarean analgesia, intrathecal morphine is given before surgery at what dose?",
+   "options": [
+    "10–20 mcg",
+    "50–100 mcg",
+    "200–300 mcg",
+    "1–2 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#d41165",
+   "kind": "mcq",
+   "stem": "Which IV drug is given after delivery in the PROSPECT 2020 elective caesarean regimen?",
+   "options": [
+    "Gabapentin",
+    "Dexamethasone",
+    "Pregabalin",
+    "Ketamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#71495e",
+   "kind": "mcq",
+   "stem": "In a crash caesarean section, which anaesthetic technique is the fastest?",
+   "options": [
+    "General anaesthesia",
+    "Epidural top-up",
+    "Local infiltration",
+    "Pudendal block"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/caesarean-section#bd001d",
+   "kind": "mcq",
+   "stem": "In a crash caesarean, what alternative to general anaesthesia may be tried?",
+   "options": [
+    "Slow titrated epidural",
+    "Rapid sequence spinal",
+    "Continuous spinal catheter",
+    "Oral premedication alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

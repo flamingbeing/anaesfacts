@@ -1,0 +1,203 @@
+{
+ "topic": "drugs/hyoscine-hydrobromide",
+ "questions": [
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#4470dd",
+   "kind": "statement",
+   "stem": "Hyoscine is a racemic mixture. Which of its isomers alone is active?",
+   "answer": "l-hyoscine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#526347",
+   "kind": "statement",
+   "stem": "Transdermal hyoscine works for PONV and motion sickness despite what?",
+   "answer": "very low plasma levels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#5c3533",
+   "kind": "mcq",
+   "stem": "What is the dosage range of hyoscine hydrobromide?",
+   "options": [
+    "0.03-0.065mg",
+    "0.3-0.65mg",
+    "3-6.5mg",
+    "1-2mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#2b2e88",
+   "kind": "mcq",
+   "stem": "How quickly does hyoscine hydrobromide take effect?",
+   "options": [
+    "5 to 10 minutes",
+    "30 minutes",
+    "<1min",
+    "1 to 2 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#2b2e88",
+   "kind": "mcq",
+   "stem": "How long does a dose of hyoscine hydrobromide last?",
+   "options": [
+    "30 minutes",
+    "2hrs",
+    "6hrs",
+    "12hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#13c2c0",
+   "kind": "blank",
+   "stem": "Hyoscine is an antimuscarinic whose effects are mainly central because it is highly ____.",
+   "answer": "lipid soluble",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#3eb782",
+   "kind": "blank",
+   "stem": "Hyoscine causes ____ anticholinergic effects, some of which are clinically useful.",
+   "answer": "Peripheral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#6ed217",
+   "kind": "statement",
+   "stem": "For which procedures is the drowsiness and mild sedation from hyoscine useful?",
+   "answer": "airway procedures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#70c121",
+   "kind": "mcq",
+   "stem": "Which central effects does hyoscine hydrobromide produce?",
+   "options": [
+    "Hypersalivation and bradycardia",
+    "Diuresis and miosis",
+    "Hypertension and hypoglycaemia",
+    "Amnesia and analgesia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#160d1b",
+   "kind": "statement",
+   "stem": "Hyoscine can cause central anticholinergic syndrome. What are its features?",
+   "answer": "Excitement, ataxia, hallucinations, behaviour change, drowsiness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#4b32e2",
+   "kind": "blank",
+   "stem": "Hyoscine hydrobromide is a potent ____.",
+   "answer": "antisialagogue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#fd2b62",
+   "kind": "blank",
+   "stem": "Hyoscine hydrobromide is a potent ____ that crosses the blood–brain barrier.",
+   "answer": "antiemetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#d6ffc5",
+   "kind": "mcq",
+   "stem": "With which drug was hyoscine premedication traditionally given?",
+   "options": [
+    "Oral benzodiazepine",
+    "Intravenous ketamine",
+    "Intramuscular opioid",
+    "Oral paracetamol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#bd7827",
+   "kind": "blank",
+   "stem": "Hyoscine hydrobromide is used for sedation and ____.",
+   "answer": "amnesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#a5c021",
+   "kind": "mcq",
+   "stem": "Which route of hyoscine hydrobromide is used for motion sickness?",
+   "options": [
+    "Intravenous bolus",
+    "Transdermal",
+    "Rectal suppository",
+    "Nebulised inhalation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#0ebae9",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of hyoscine hydrobromide?",
+   "options": [
+    "60% to 80%",
+    "10% to 50%",
+    "1% to 5%",
+    "90% to 100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#c74345",
+   "kind": "mcq",
+   "stem": "How is hyoscine hydrobromide mainly cleared from the body?",
+   "options": [
+    "Mostly excreted unchanged in urine",
+    "Extensively metabolised by liver esterases",
+    "Mainly excreted unchanged in bile",
+    "Cleared largely through the lungs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hyoscine-hydrobromide#b1ef09",
+   "kind": "mcq",
+   "stem": "How does the duration of hyoscine hydrobromide compare with atropine?",
+   "options": [
+    "Longer acting",
+    "Shorter acting",
+    "Equal duration",
+    "Twice as long"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

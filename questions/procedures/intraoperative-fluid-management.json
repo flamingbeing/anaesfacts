@@ -1,0 +1,593 @@
+{
+ "topic": "procedures/intraoperative-fluid-management",
+ "questions": [
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#fd6af7",
+   "kind": "statement",
+   "stem": "In intraoperative fluid management, what does the calculated approach add up?",
+   "answer": "Deficits, maintenance, ongoing losses and third spacing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#0399df",
+   "kind": "statement",
+   "stem": "In goal-directed fluid therapy (GDFT) during surgery, which four targets are used?",
+   "answer": "Urine output, lactate, SVV and cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#6fa788",
+   "kind": "mcq",
+   "stem": "For intraoperative blood loss, what crystalloid-to-blood replacement ratio is used?",
+   "options": [
+    "5:1",
+    "3:1",
+    "8:1",
+    "10:1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#952d79",
+   "kind": "statement",
+   "stem": "In the euvolaemia goal, oxygen delivery (DO2) equals cardiac output multiplied by what?",
+   "answer": "CaO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#dd7825",
+   "kind": "statement",
+   "stem": "In intraoperative fluid evaluation, what is the first of the three questions?",
+   "answer": "Does the patient need fluid?",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#45fa73",
+   "kind": "statement",
+   "stem": "In intraoperative fluid evaluation, what is the second of the three questions?",
+   "answer": "Will the patient respond to it?",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#c665a5",
+   "kind": "statement",
+   "stem": "In intraoperative fluid evaluation, what is the third of the three questions?",
+   "answer": "When to start and when to stop?",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#67da83",
+   "kind": "mcq",
+   "stem": "In intraoperative fluid therapy, by what percentage must cardiac output rise after 500 ml to show volume responsiveness?",
+   "options": [
+    "5 %",
+    "15 %",
+    "30 %",
+    "50 %"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#40a038",
+   "kind": "statement",
+   "stem": "In the phases of intraoperative fluid therapy, what does the fasting deficit come from?",
+   "answer": "Physiological output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#46c732",
+   "kind": "blank",
+   "stem": "Lamke suggests intravascular volume appears to stay ____ even after a 10 h overnight fast.",
+   "answer": "normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#3a52f0",
+   "kind": "statement",
+   "stem": "Which two conditions cause pathological fluid losses in intraoperative fluid therapy?",
+   "answer": "Bowel obstruction and burns",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#0c6587",
+   "kind": "mcq",
+   "stem": "Which rule gives general maintenance fluid, including urine output?",
+   "options": [
+    "4/2/1 rule",
+    "3:1 rule",
+    "Rule of nines",
+    "1-2-3 rule"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#583510",
+   "kind": "mcq",
+   "stem": "Under the 4/2/1 maintenance rule, what hourly rate applies to the first 10 kg?",
+   "options": [
+    "4 ml/kg/h",
+    "2 ml/kg/h",
+    "1 ml/kg/h",
+    "6 ml/kg/h"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#584bd5",
+   "kind": "mcq",
+   "stem": "Under the 4/2/1 maintenance rule, what hourly rate applies to the next 10 kg after the first 10 kg?",
+   "options": [
+    "1 ml/kg/h",
+    "4 ml/kg/h",
+    "2 ml/kg/h",
+    "0.5 ml/kg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#fc42f8",
+   "kind": "mcq",
+   "stem": "Under the 4/2/1 maintenance rule, what hourly rate applies to each kg after the first 20 kg?",
+   "options": [
+    "2 ml/kg/h",
+    "0.5 ml/kg/h",
+    "4 ml/kg/h",
+    "1 ml/kg/h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#06134b",
+   "kind": "blank",
+   "stem": "Current view: basal evaporation is 0.5 ml/kg/h, rising only to ____ in major abdominal surgery.",
+   "answer": "1 ml/kg/h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#c38cf8",
+   "kind": "mcq",
+   "stem": "For classic third space loss, which range in ml/kg is labelled minimal?",
+   "options": [
+    "0–2 ml/kg",
+    "2–4 ml/kg",
+    "4–8 ml/kg",
+    "6–8 ml/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#482d6b",
+   "kind": "mcq",
+   "stem": "For classic third space loss, which range in ml/kg is labelled moderate?",
+   "options": [
+    "0–2 ml/kg",
+    "4–8 ml/kg",
+    "2–4 ml/kg",
+    "6–8 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#9e5c55",
+   "kind": "mcq",
+   "stem": "For classic third space loss, which range in ml/kg is labelled severe?",
+   "options": [
+    "1–2 ml/kg",
+    "2–4 ml/kg",
+    "4–8 ml/kg",
+    "0–2 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#c9f4c9",
+   "kind": "mcq",
+   "stem": "For intraoperative blood loss, what ratio is given for replacing with crystalloid?",
+   "options": [
+    "1:3",
+    "1:1.5",
+    "5:1",
+    "10:1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#c8d6a3",
+   "kind": "mcq",
+   "stem": "In the liberal approach, what percentage weight loss defines severe dehydration?",
+   "options": [
+    "More than 10%",
+    "5–10%",
+    "Less than 5%",
+    "1–3%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#7b03e5",
+   "kind": "mcq",
+   "stem": "In the liberal approach, what is the typical maintenance rate in ml/kg/h?",
+   "options": [
+    "1.5",
+    "0.75",
+    "4",
+    "8"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#30179f",
+   "kind": "mcq",
+   "stem": "In the liberal approach, how much crystalloid is given for each 1 ml of blood lost?",
+   "options": [
+    "3 ml",
+    "0.5 ml",
+    "5 ml",
+    "10 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#d696a2",
+   "kind": "statement",
+   "stem": "In the liberal approach, what colloid-to-blood-loss ratio is used?",
+   "answer": "1:1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#e7dee6",
+   "kind": "mcq",
+   "stem": "In the liberal approach, which calcium-free crystalloid may be considered alongside blood?",
+   "options": [
+    "Hartmann's solution",
+    "Plasmalyte or normal saline",
+    "Lactated Ringer's",
+    "Ringer's solution"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#e36380",
+   "kind": "mcq",
+   "stem": "In the liberal approach to shock classes by blood loss, which class is the most severe?",
+   "options": [
+    "More than 40% blood loss",
+    "15–30% blood loss",
+    "30–40% blood loss",
+    "Less than 15% blood loss"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#5c322b",
+   "kind": "mcq",
+   "stem": "In the liberal approach, what fluid rate suits minimal tissue trauma such as herniorrhaphy?",
+   "options": [
+    "2–4 ml/kg/h",
+    "4–6 ml/kg/h",
+    "6–8 ml/kg/h",
+    "8–10 ml/kg/h"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#92337c",
+   "kind": "mcq",
+   "stem": "In the liberal approach, what fluid rate suits moderate tissue trauma such as cholecystectomy?",
+   "options": [
+    "8–10 ml/kg/h",
+    "2–4 ml/kg/h",
+    "6–8 ml/kg/h",
+    "4–6 ml/kg/h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#b83ceb",
+   "kind": "mcq",
+   "stem": "In the liberal approach, what fluid rate suits severe tissue trauma such as bowel resection?",
+   "options": [
+    "4–6 ml/kg/h",
+    "8–10 ml/kg/h",
+    "6–8 ml/kg/h",
+    "2–4 ml/kg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#f75b4b",
+   "kind": "statement",
+   "stem": "In the liberal approach, what effect does fever have on fluid losses?",
+   "answer": "Increases losses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#721f78",
+   "kind": "mcq",
+   "stem": "In the restrictive approach, what insensible loss rate applies with an open abdomen?",
+   "options": [
+    "3 ml/kg/h",
+    "5 ml/kg/h",
+    "1 ml/kg/h",
+    "2 ml/kg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#148291",
+   "kind": "statement",
+   "stem": "Under the restrictive approach, what should be replaced during surgery?",
+   "answer": "Only what is lost during surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#8c015d",
+   "kind": "mcq",
+   "stem": "In the restrictive approach, what rate of balanced crystalloid covers sensible and insensible losses?",
+   "options": [
+    "4 to 6 ml/kg/h",
+    "1 to 3 ml/kg/h",
+    "6 to 8 ml/kg/h",
+    "10 to 12 ml/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#6d79ee",
+   "kind": "mcq",
+   "stem": "In the restrictive approach, what crystalloid-to-blood ratio is optimal for extra fluid for blood loss?",
+   "options": [
+    "0.5:1.0",
+    "1.5:1.0",
+    "5.0:1.0",
+    "8.0:1.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#24efa1",
+   "kind": "statement",
+   "stem": "In the restrictive approach, should non-anatomical third space losses be replaced?",
+   "answer": "No: no benefit and possible harm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#7bf6de",
+   "kind": "mcq",
+   "stem": "In the restrictive approach, is crystalloid preload given before neuraxial block or induction?",
+   "options": [
+    "Yes, 500 ml of crystalloid",
+    "No crystalloid preload",
+    "Yes, 1 litre of crystalloid",
+    "Yes, 2 litres of crystalloid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#b5a2ae",
+   "kind": "mcq",
+   "stem": "In the restrictive approach, what treats anaesthetic- or block-related hypotension?",
+   "options": [
+    "Vasopressors such as phenylephrine or ephedrine",
+    "Large crystalloid boluses",
+    "Routine packed red cells",
+    "Hydroxyethyl starch boluses"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#c58847",
+   "kind": "statement",
+   "stem": "In hypovolaemic patients under the restrictive approach, what total fluid balance is appropriate?",
+   "answer": "Slightly above zero balance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#74448c",
+   "kind": "mcq",
+   "stem": "In goal-directed fluid therapy, what urine output target is set, in ml/kg/h?",
+   "options": [
+    "Less than 0.5 ml/kg/h",
+    "Less than 0.1 ml/kg/h",
+    "Exactly 0.5 ml/kg/h",
+    "More than 0.5 ml/kg/h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#4962a6",
+   "kind": "statement",
+   "stem": "In goal-directed fluid therapy, which dynamic measures are used as targets?",
+   "answer": "SVV and PPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#94b2c0",
+   "kind": "mcq",
+   "stem": "Which outcomes are linked to a liberal fluid approach in surgery?",
+   "options": [
+    "More PONV and more postoperative pain",
+    "Less PONV but more postoperative pain",
+    "Less PONV and less postoperative pain",
+    "More PONV but less postoperative pain"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#1963e0",
+   "kind": "mcq",
+   "stem": "For short, minimally or moderately invasive adult surgery, how much balanced crystalloid is considered?",
+   "options": [
+    "3 to 4 l",
+    "1 to 2 l",
+    "100 to 200 ml",
+    "5 to 6 l"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#2f717d",
+   "kind": "mcq",
+   "stem": "Over what time is balanced crystalloid usually given during short adult surgery?",
+   "options": [
+    "5 to 10 minutes",
+    "30 minutes to two hours",
+    "4 to 6 hours",
+    "12 to 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#94ec75",
+   "kind": "mcq",
+   "stem": "Compared with liberal or fixed-volume regimens, what do restrictive or goal-directed approaches give?",
+   "options": [
+    "More perioperative complications",
+    "Greater perioperative mortality",
+    "Fewer perioperative complications",
+    "No difference in complications"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#961cc1",
+   "kind": "statement",
+   "stem": "For major surgery, when is restrictive zero-balance fluid therapy considered?",
+   "answer": "Expected blood loss less than 500 ml without invasive dynamic monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#1beb88",
+   "kind": "statement",
+   "stem": "Goal-directed fluid therapy is considered for which patients having major surgery?",
+   "answer": "High-risk patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#ed4cc0",
+   "kind": "statement",
+   "stem": "Why do neonates and infants often need maintenance dextrose during surgery?",
+   "answer": "Small glycogen stores, to prevent hypoglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#caef0a",
+   "kind": "blank",
+   "stem": "A paediatric maintenance example is D5% with ____ saline.",
+   "answer": "0.45%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#8be6e8",
+   "kind": "statement",
+   "stem": "Which rule does the Holliday–Segar method use for paediatric maintenance fluid?",
+   "answer": "4/2/1 rule",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#9108e8",
+   "kind": "mcq",
+   "stem": "What paediatric fluid resuscitation bolus size is given in intraoperative fluid management?",
+   "options": [
+    "1 ml/kg",
+    "5 ml/kg",
+    "10 ml/kg",
+    "50 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intraoperative-fluid-management#1874d0",
+   "kind": "mcq",
+   "stem": "Which weight loss percentages are cut-offs for grading paediatric dehydration?",
+   "options": [
+    "2%, 4%, 6%",
+    "5%, 10%, 15%",
+    "10%, 20%, 30%",
+    "1%, 3%, 5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

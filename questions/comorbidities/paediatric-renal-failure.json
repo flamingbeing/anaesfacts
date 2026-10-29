@@ -1,0 +1,621 @@
+{
+ "topic": "comorbidities/paediatric-renal-failure",
+ "questions": [
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#c592ff",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what happens when the kidneys cannot excrete the normal solute load?",
+   "answer": "Nitrogenous waste builds up, fluid is retained and electrolytes are deranged",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#525650",
+   "kind": "mcq",
+   "stem": "In paediatric acute renal failure, what urine output defines oliguria in infants?",
+   "options": [
+    "< 1 mL/kg/hour",
+    "< 0.5 mL/kg/hour",
+    "< 0.3 mL/kg/hour",
+    "< 2 mL/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#525650",
+   "kind": "mcq",
+   "stem": "In paediatric acute renal failure, what 24-hour urine output per m2 defines oliguria?",
+   "options": [
+    "< 100 mL/m2/24 hours",
+    "< 500 mL/m2/24 hours",
+    "< 300 mL/m2/24 hours",
+    "< 50 mL/m2/24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#10b6ed",
+   "kind": "statement",
+   "stem": "In paediatric acute renal failure, what do urine tests help separate?",
+   "answer": "Prerenal from renal causes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#3b35a9",
+   "kind": "mcq",
+   "stem": "In paediatric acute renal failure, what urine osmolality suggests a prerenal cause?",
+   "options": [
+    "< 350 mosmol/L",
+    "> 500 mosmol/L",
+    "< 200 mosmol/L",
+    "< 100 mosmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#3b35a9",
+   "kind": "mcq",
+   "stem": "In paediatric acute renal failure, what urinary sodium suggests a prerenal cause?",
+   "options": [
+    "> 40 mmol/L",
+    "< 20 mmol/L",
+    "> 100 mmol/L",
+    "> 60 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#99fd64",
+   "kind": "mcq",
+   "stem": "In paediatric acute renal failure, what urine osmolality suggests a renal cause?",
+   "options": [
+    "> 500 mosmol/L",
+    "> 200 mosmol/L",
+    "> 1000 mosmol/L",
+    "< 350 mosmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#99fd64",
+   "kind": "mcq",
+   "stem": "In paediatric acute renal failure, what urinary sodium suggests a renal cause?",
+   "options": [
+    "< 20 mmol/L",
+    "< 10 mmol/L",
+    "> 40 mmol/L",
+    "< 5 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#0f29da",
+   "kind": "blank",
+   "stem": "In paediatric renal failure, chronic renal failure (CRF) develops over ____.",
+   "answer": "months to years",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#d81ef9",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, serum sodium is best described as:",
+   "options": [
+    "Always raised",
+    "Always low",
+    "Always normal",
+    "High, low or normal, depending on cause"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#fd3871",
+   "kind": "mcq",
+   "stem": "In paediatric glomerulonephritis with salt and water retention, what advice is given about salt?",
+   "options": [
+    "Give salt supplements",
+    "Restrict salt",
+    "Give extra fluid",
+    "No dietary change"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#682cb3",
+   "kind": "mcq",
+   "stem": "In paediatric congenital renal disease or obstructive uropathy, what should be given for salt and fluid?",
+   "options": [
+    "Salt restriction and fluid restriction",
+    "Salt supplements and extra fluid",
+    "Fluid restriction only",
+    "Salt restriction only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#45f468",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, how should hyperkalaemia be regarded?",
+   "options": [
+    "A routine problem",
+    "An emergency",
+    "A chronic problem only",
+    "A minor issue"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#8ac7f1",
+   "kind": "statement",
+   "stem": "In paediatric chronic renal failure, what buffers acid until used up, after which metabolic acidosis develops?",
+   "answer": "Bicarbonate, bone phosphate and proteins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#f616d2",
+   "kind": "blank",
+   "stem": "In paediatric renal failure, ionised calcium is ____, while phosphate and magnesium are raised.",
+   "answer": "low",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#142157",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what type of anaemia does uraemia cause?",
+   "options": [
+    "Microcytic hypochromic anaemia",
+    "Macrocytic anaemia",
+    "Iron-deficiency anaemia",
+    "Normochromic normocytic anaemia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#d214c4",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what haemoglobin is often seen in the anaemia?",
+   "options": [
+    "About 12 g/dL",
+    "About 10 g/dL",
+    "About 4 g/dL",
+    "About 8 g/dL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#0a36bf",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what treats symptomatic anaemia?",
+   "answer": "Recombinant erythropoietin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#5e3e6a",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, why should transfusion be avoided where possible?",
+   "answer": "Volume overload, hypertension and heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#ca799b",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what platelet defect does uraemia cause?",
+   "options": [
+    "Thrombocytopenia from marrow suppression",
+    "Excess platelet clumping",
+    "Poor aggregation and adhesion",
+    "Raised platelet count"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#bfeba0",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what desmopressin dose treats intraoperative bleeding?",
+   "options": [
+    "30 nanograms/kg",
+    "3 micrograms/kg",
+    "300 micrograms/kg",
+    "300 nanograms/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#23d0c3",
+   "kind": "statement",
+   "stem": "In paediatric chronic renal failure, what can cause hypertension?",
+   "answer": "Salt and water overload, or an abnormal renin-angiotensin-aldosterone system",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#24a3ab",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what three factors can cause congestive heart failure?",
+   "answer": "Fluid overload, hypertension and anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#7d6b80",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, where is the arteriovenous fistula for haemodialysis usually placed?",
+   "options": [
+    "In the leg",
+    "In the neck",
+    "In the arm",
+    "In the abdomen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#61f1b8",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what may previous dialysis central line sites become?",
+   "answer": "Hard to use again",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#0dfd03",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, which symptoms does uraemia cause?",
+   "options": [
+    "Diarrhoea and weight gain",
+    "Polyuria and polydipsia",
+    "Anorexia, nausea and vomiting",
+    "Tremor and sweating"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#4a3dea",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what gastric changes raise the risk of peptic ulceration?",
+   "answer": "Slow gastric emptying and more acid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#308a4c",
+   "kind": "blank",
+   "stem": "In paediatric renal failure, reflux occurs in up to ____ of children.",
+   "answer": "70%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#9cfbe8",
+   "kind": "mcq",
+   "stem": "In acute paediatric renal failure, which calorie sources are given because the state is hypercatabolic?",
+   "options": [
+    "Mainly protein and amino acids",
+    "Mainly carbohydrate and fat",
+    "Mainly salt and water",
+    "Mainly potassium supplements"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#723025",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what is the advice on protein intake, including on dialysis?",
+   "answer": "Not restricted; may be increased on dialysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#29b845",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what can cause reduced consciousness or seizures?",
+   "answer": "Uraemia, electrolyte disturbance (hyponatraemia) or hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#b3d2b3",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what is conservative management?",
+   "options": [
+    "Dialysis to remove waste",
+    "Transplant from a live donor",
+    "Diet and drugs to control fluid and electrolytes",
+    "Surgery to relieve obstruction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#59e254",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what is the alternative to conservative management?",
+   "options": [
+    "Renal replacement therapy",
+    "Intravenous fluid bolus",
+    "Nephrectomy only",
+    "Antibiotic prophylaxis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#902517",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what is 1-year graft survival from a live donor?",
+   "options": [
+    "70%",
+    "80%",
+    "90%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#31b90f",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure before surgery, who optimises fluids, electrolytes and dialysis timing?",
+   "options": [
+    "The surgical team alone",
+    "The renal team",
+    "The ward nurse alone",
+    "The anaesthetist alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#1fb1c9",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what should be checked before surgery after dialysis?",
+   "answer": "U&E, FBC and coagulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#e4d6b4",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what maximum potassium is allowed before surgery, even urgent?",
+   "options": [
+    "< 6.5 mmol/L",
+    "< 5.5 mmol/L",
+    "< 6.0 mmol/L",
+    "< 5.0 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#209d55",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what volume state may follow dialysis?",
+   "options": [
+    "Hypervolaemic",
+    "Hypovolaemic",
+    "Hypoglycaemic",
+    "Hyperkalaemic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#d2dff9",
+   "kind": "statement",
+   "stem": "In paediatric renal failure with hypertension or risk of heart failure, which investigations are needed before surgery?",
+   "answer": "ECG and CXR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#776a89",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what Hb is acceptable for low blood loss surgery without a top-up?",
+   "options": [
+    "8 g/dL",
+    "10 g/dL",
+    "4 g/dL",
+    "6 g/dL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#7e0742",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, how much does suxamethonium raise potassium?",
+   "options": [
+    "0.1-0.2 mmol/L",
+    "0.5-1 mmol/L",
+    "2-3 mmol/L",
+    "5-6 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#ae84cf",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, suxamethonium is safe if potassium is below what?",
+   "options": [
+    "< 5.0 mmol/L",
+    "< 4.5 mmol/L",
+    "< 5.5 mmol/L",
+    "< 6.0 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#b8603c",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, what percentage of thiopental is albumin-bound?",
+   "options": [
+    "50-60%",
+    "75-80%",
+    "20-30%",
+    "90-95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#b8603c",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what do hypoalbuminaemia and acidosis raise for thiopental, prompting dose reduction?",
+   "answer": "Free drug",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#38e619",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, which pethidine metabolite causes seizures?",
+   "options": [
+    "Morphine-6-glucuronide",
+    "Morphine",
+    "Pethidine",
+    "Norpethidine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#38e619",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, which two opioids form active metabolites that accumulate?",
+   "answer": "Morphine and pethidine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#eebcaf",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure on a PCA opioid, how far can the lockout be lengthened?",
+   "options": [
+    "Up to 5 min",
+    "Up to 60 min",
+    "Up to 15 min",
+    "Up to 2 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#eebcaf",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, what must be monitored when the PCA lockout is lengthened?",
+   "answer": "Respiratory depression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#b6763e",
+   "kind": "mcq",
+   "stem": "In paediatric chronic renal failure, how is the duration of local anaesthetic affected?",
+   "options": [
+    "Longer duration",
+    "Unchanged duration",
+    "Shorter duration",
+    "Duration doubles"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#b6763e",
+   "kind": "statement",
+   "stem": "In paediatric chronic renal failure, what risk does less protein binding raise for local anaesthetics?",
+   "answer": "Toxicity risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#79830f",
+   "kind": "statement",
+   "stem": "In paediatric renal failure, why should neuraxial block risks be weighed carefully?",
+   "answer": "Platelet dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#e6e435",
+   "kind": "mcq",
+   "stem": "In paediatric renal failure, which drug class should not be given postoperatively?",
+   "options": [
+    "Paracetamol",
+    "Ondansetron",
+    "NSAIDs",
+    "Dexamethasone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-renal-failure#7b330c",
+   "kind": "mcq",
+   "stem": "After surgery in paediatric renal failure, who should give regular input on fluids and dialysis?",
+   "options": [
+    "The anaesthetist alone",
+    "The ward nurse alone",
+    "The surgical team alone",
+    "The renal team"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

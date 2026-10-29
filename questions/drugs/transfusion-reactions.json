@@ -1,0 +1,943 @@
+{
+ "topic": "drugs/transfusion-reactions",
+ "questions": [
+  {
+   "fact_id": "drugs/transfusion-reactions#4c7f90",
+   "kind": "mcq",
+   "stem": "In transfusion reactions, what is the approximate overall risk of a severe reaction?",
+   "options": [
+    "1:100",
+    "1:10000",
+    "1:1000",
+    "1:100000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#866ecf",
+   "kind": "statement",
+   "stem": "In transfusion reactions, which category is massive transfusion usually grouped under?",
+   "answer": "Non-immune",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#1c09db",
+   "kind": "statement",
+   "stem": "In transfusion reactions, what usually underlies an immune reaction?",
+   "answer": "Recipient sensitised to donor cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#0216c5",
+   "kind": "statement",
+   "stem": "In transfusion reactions, which three conditions present with fever or chills?",
+   "answer": "AHTR, FNHTR, bacterial contamination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#1445ed",
+   "kind": "statement",
+   "stem": "Which two transfusion reactions present with prominent respiratory symptoms?",
+   "answer": "TRALI or TACO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#e6c50f",
+   "kind": "statement",
+   "stem": "Which two transfusion reactions can present with skin hives?",
+   "answer": "Urticarial reaction, anaphylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#619a8b",
+   "kind": "statement",
+   "stem": "Which three transfusion reactions can present with hypotension?",
+   "answer": "AHTR, bacterial contamination, anaphylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#cd585b",
+   "kind": "statement",
+   "stem": "When a transfusion reaction is suspected, what should be done to the transfusion at once?",
+   "answer": "Stop it; replace the whole giving set",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#a6dd1d",
+   "kind": "statement",
+   "stem": "In a suspected transfusion reaction, which vital signs are checked alongside ABC?",
+   "answer": "Fever, hypotension, desaturation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#971908",
+   "kind": "statement",
+   "stem": "What immediate clerical check is made in a suspected transfusion reaction?",
+   "answer": "Right product and right patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#e37d5b",
+   "kind": "statement",
+   "stem": "In transfusion reactions, which three complications need supportive care?",
+   "answer": "Renal protection, DIC, hyperkalaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#f3ed9b",
+   "kind": "mcq",
+   "stem": "In a mild transfusion reaction with fever alone, what temperature rise is allowed?",
+   "options": [
+    "Rise of 1-2C",
+    "Rise of <1C",
+    "Rise of >2C",
+    "Rise of 4C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#9fef7c",
+   "kind": "mcq",
+   "stem": "For a mild urticarial transfusion reaction, which drugs are given for treatment?",
+   "options": [
+    "Paracetamol 1g and ibuprofen 400mg",
+    "Adrenaline 0.5mg intramuscular",
+    "Chlorphenamine (Piriton) 4mg and hydrocortisone 100mg",
+    "Frusemide 40mg intravenous"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#14c1bd",
+   "kind": "statement",
+   "stem": "After a mild transfusion reaction, how should the transfusion be restarted?",
+   "answer": "At a slower rate; observe closely and review soon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#ba2362",
+   "kind": "statement",
+   "stem": "What blood product is used to prevent future febrile transfusion reactions?",
+   "answer": "Leucoreduced blood",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#839c00",
+   "kind": "statement",
+   "stem": "Besides usual transfusion risks, what extra problem does stored blood carry in massive transfusion?",
+   "answer": "Storage lesions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#2b8093",
+   "kind": "statement",
+   "stem": "What makes up the lethal diamond in massive transfusion?",
+   "answer": "Hypothermia, coagulopathy, acidosis, hypocalcaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#0a0467",
+   "kind": "statement",
+   "stem": "Why can massive transfusion cause coagulopathy even when clotting was normal beforehand?",
+   "answer": "Dilution of clotting proteins and platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#7b2cff",
+   "kind": "mcq",
+   "stem": "Which clotting factors are low in stored blood used for massive transfusion?",
+   "options": [
+    "Factors II, VII and X",
+    "Factors V, VIII and XI",
+    "Factors I, III and IX",
+    "Factors XII, XIII and VII"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#7b2cff",
+   "kind": "statement",
+   "stem": "In massive transfusion, when does coagulopathy become likely?",
+   "answer": "Once blood volume is replaced more than twice in 24 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#f2b7b7",
+   "kind": "mcq",
+   "stem": "In massive transfusion, how far does each 10 to 12 units of red cells lower the platelet count?",
+   "options": [
+    "By about 25 percent",
+    "By about 50 percent",
+    "By about 10 percent",
+    "By about 80 percent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#28834f",
+   "kind": "mcq",
+   "stem": "In massive transfusion, what is the real rise in clotting proteins per unit of FFP in an adult?",
+   "options": [
+    "About 25 percent",
+    "About 5 percent",
+    "About 2.5 percent",
+    "About 1 percent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#994817",
+   "kind": "mcq",
+   "stem": "In massive transfusion, by how much do clotting proteins fall per 500 mL of blood loss replaced?",
+   "options": [
+    "About 2.5 percent",
+    "About 50 percent",
+    "About 10 percent",
+    "About 25 percent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#c8d85e",
+   "kind": "mcq",
+   "stem": "In massive transfusion with cold blood, at what temperature does ventricular fibrillation (VF) occur?",
+   "options": [
+    "34°C",
+    "24°C",
+    "28°C",
+    "32°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#238bda",
+   "kind": "statement",
+   "stem": "In massive transfusion, what is the absolute indication regarding blood products and IV fluids?",
+   "answer": "Warming all blood products and IV fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#93cec6",
+   "kind": "mcq",
+   "stem": "In massive transfusion, at what transfusion rate does citrate toxicity risk rise?",
+   "options": [
+    "1 L per 30 minutes",
+    "500 mL per 10 minutes",
+    "1 L per 10 minutes",
+    "2 L per 10 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#88ef4f",
+   "kind": "statement",
+   "stem": "Besides massive transfusion, which liver condition makes citrate toxicity more likely?",
+   "answer": "Liver disease, where citrate is cleared poorly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#68c87b",
+   "kind": "statement",
+   "stem": "In massive transfusion, what ion does citrate bind, leading to hypocalcaemia?",
+   "answer": "Ca2+",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#a3f806",
+   "kind": "mcq",
+   "stem": "In massive transfusion with signs of hypocalcaemia, how much IV calcium gluconate is given per 2 units of blood?",
+   "options": [
+    "5 mL of 10% calcium gluconate",
+    "10 mL of 10% calcium gluconate",
+    "1 mL of 10% calcium gluconate",
+    "20 mL of 10% calcium gluconate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#4aefbf",
+   "kind": "mcq",
+   "stem": "After how long in storage does stored blood reach pH 6.5 to 6.8?",
+   "options": [
+    "6 weeks",
+    "3 days",
+    "2 weeks",
+    "6 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#287b76",
+   "kind": "mcq",
+   "stem": "In massive transfusion, after how many days of stored red cells can plasma potassium reach 30 mmol/L?",
+   "options": [
+    "7 days",
+    "14 days",
+    "30 days",
+    "60 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#ce501b",
+   "kind": "statement",
+   "stem": "After massive transfusion, when does potassium from stored blood become a problem?",
+   "answer": "If already hyperkalaemic, or persistently acidotic and hypotensive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#0f060e",
+   "kind": "statement",
+   "stem": "Which two factors raise the hyperkalaemia risk from transfused stored blood?",
+   "answer": "Storage time and irradiation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#3d4c5a",
+   "kind": "mcq",
+   "stem": "In massive transfusion, in what percentage of patients does hyperkalaemia occur?",
+   "options": [
+    "10%",
+    "1%",
+    "5%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#87c108",
+   "kind": "statement",
+   "stem": "What happens to 2,3-DPG in stored red cells?",
+   "answer": "Depletion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#a176c9",
+   "kind": "statement",
+   "stem": "How soon after transfusion does 2,3-DPG regenerate?",
+   "answer": "Within 24 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#131402",
+   "kind": "mcq",
+   "stem": "In stored blood, what size must clumps of fibrin, platelets and leucocytes exceed to count as microaggregates?",
+   "options": [
+    "2 μm",
+    "50 μm",
+    "5 μm",
+    "20 μm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#131402",
+   "kind": "statement",
+   "stem": "What mainly drives microaggregate formation in stored blood?",
+   "answer": "Platelet fibrinogen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#38b6c3",
+   "kind": "statement",
+   "stem": "What causes iron overload in transfusion-dependent patients such as those with β-thalassaemia major?",
+   "answer": "Repeated transfusion over a long time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#4e90cb",
+   "kind": "statement",
+   "stem": "Iron overload from repeated transfusion can cause which secondary condition?",
+   "answer": "Secondary haemochromatosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#6d8a52",
+   "kind": "statement",
+   "stem": "What is the usual treatment for transfusion-related iron overload?",
+   "answer": "Iron chelation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#6d8a52",
+   "kind": "statement",
+   "stem": "In transfusion-related iron overload, what is used for a patient no longer transfusion-dependent and not anaemic?",
+   "answer": "Phlebotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#4d94db",
+   "kind": "statement",
+   "stem": "In TRALI, when does new acute lung injury occur?",
+   "answer": "During or within 6 h of the end of transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#3343c4",
+   "kind": "statement",
+   "stem": "In TRALI, what is thought to activate recipient neutrophils?",
+   "answer": "Donor anti-HLA or anti-HNA antibodies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#9d7542",
+   "kind": "statement",
+   "stem": "In TRALI, which blood products were historically most often implicated?",
+   "answer": "Products with >60 mL of plasma (plasma, platelets)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#6c8e7c",
+   "kind": "mcq",
+   "stem": "For TRALI, what is the risk per unit transfused?",
+   "options": [
+    "1:100",
+    "1:1,000",
+    "1:10,000",
+    "1:100,000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#dbda5d",
+   "kind": "mcq",
+   "stem": "In TRALI, what PaO2/FiO2 ratio defines the severe hypoxaemia?",
+   "options": [
+    "Over 30 mmHg",
+    "Under 100 mmHg",
+    "<300 mmHg",
+    "Over 60 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#dbda5d",
+   "kind": "statement",
+   "stem": "What is the main presentation of TRALI within 6 hours of transfusion?",
+   "answer": "Acute respiratory failure with severe hypoxaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#a4e6db",
+   "kind": "mcq",
+   "stem": "In TRALI, how soon after transfusion do symptoms typically start?",
+   "options": [
+    "Within 30 minutes",
+    "12-24 h",
+    "2-4 h",
+    "Several days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#a4e6db",
+   "kind": "statement",
+   "stem": "How long does TRALI usually take to resolve?",
+   "answer": "24-72 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#75111e",
+   "kind": "mcq",
+   "stem": "In TRALI, what pulmonary wedge pressure shows the injury is non-cardiogenic?",
+   "options": [
+    "Over 25 mmHg",
+    "Over 30 mmHg",
+    "<18 mmHg",
+    "Over 40 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#e660b0",
+   "kind": "statement",
+   "stem": "How is TRALI managed?",
+   "answer": "As for ARDS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#238e9b",
+   "kind": "statement",
+   "stem": "What type of haemolysis does ABO incompatibility cause, and when?",
+   "answer": "Complement-mediated intravascular haemolysis, immediately after transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#6e1fb4",
+   "kind": "mcq",
+   "stem": "In ABO incompatibility, what is the risk per unit transfused?",
+   "options": [
+    "1 in 100",
+    "<1 in 10,000",
+    "1 in 1,000",
+    "1 in 50"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#fbade2",
+   "kind": "statement",
+   "stem": "What is the commonest presentation of ABO incompatibility?",
+   "answer": "Fever with or without chills",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#116274",
+   "kind": "statement",
+   "stem": "Which two serious complications can ABO incompatibility cause?",
+   "answer": "Acute renal failure and DIC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#5865e8",
+   "kind": "statement",
+   "stem": "In ABO incompatibility, how is blood pressure supported?",
+   "answer": "Generous IV fluids with or without inotropes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#7458f8",
+   "kind": "statement",
+   "stem": "In febrile transfusion reactions, what do recipient antibodies target?",
+   "answer": "Donor white cells and platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#da46d6",
+   "kind": "mcq",
+   "stem": "In febrile transfusion reactions, what is the risk per unit for a severe reaction?",
+   "options": [
+    "1 in 100",
+    "1 in 10,000",
+    "1 in 1,000",
+    "1 in 100,000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#8d82f0",
+   "kind": "mcq",
+   "stem": "Febrile transfusion reactions usually occur during transfusion, but up to how long after?",
+   "options": [
+    "30 minutes",
+    "6 hours",
+    "1-2 hours",
+    "24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#21160d",
+   "kind": "statement",
+   "stem": "In a febrile transfusion reaction, what must be excluded?",
+   "answer": "Haemolysis and infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#21160d",
+   "kind": "statement",
+   "stem": "Which antipyretics can be used for a febrile transfusion reaction?",
+   "answer": "Paracetamol, ibuprofen, diphenhydramine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#564479",
+   "kind": "statement",
+   "stem": "How can febrile transfusion reactions be prevented?",
+   "answer": "Leucodepleted blood or a leucocyte filter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#23aea1",
+   "kind": "statement",
+   "stem": "In urticarial transfusion reactions, what triggers mast cell histamine release?",
+   "answer": "IgE antibodies to donor plasma proteins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#2c7cee",
+   "kind": "mcq",
+   "stem": "In urticarial transfusion reactions, what is the risk per unit transfused?",
+   "options": [
+    "1 in 10,000",
+    "1 in 100",
+    "1 in 1,000",
+    "1 in 50"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#8c48b7",
+   "kind": "mcq",
+   "stem": "For a severe urticarial transfusion reaction, what IV hydrocortisone dose is given?",
+   "options": [
+    "500mg",
+    "100mg",
+    "4mg",
+    "50mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#a2055d",
+   "kind": "mcq",
+   "stem": "Antibodies to minor red cell antigens such as Rh or Kell cause which type of haemolysis?",
+   "options": [
+    "Complement-mediated intravascular",
+    "Extravascular",
+    "Osmotic",
+    "Cold agglutinin-mediated"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#15b822",
+   "kind": "mcq",
+   "stem": "For antibodies to minor red cell antigens, what is the quoted risk of haemolysis?",
+   "options": [
+    "1:500",
+    "1:10000",
+    "1:1000",
+    "1:50000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#9c7ab2",
+   "kind": "statement",
+   "stem": "When does haemolysis from minor-antigen antibodies occur after transfusion?",
+   "answer": "A few days to a month after transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#92e7f6",
+   "kind": "statement",
+   "stem": "In transfusion reactions, what is the commonest sign of an immune complication?",
+   "answer": "Falling haematocrit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#f87ceb",
+   "kind": "mcq",
+   "stem": "For an immune complication of transfusion, what is the recommended approach?",
+   "options": [
+    "Give IV calcium gluconate straight away",
+    "Re-transfuse the same unit at double speed",
+    "No specific treatment; record it for future transfusions",
+    "Give an oral antihistamine and continue transfusing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#e0ea40",
+   "kind": "statement",
+   "stem": "In transfusion reactions, what do donor T lymphocytes do to the recipient?",
+   "answer": "Attack the recipient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#252d0a",
+   "kind": "mcq",
+   "stem": "In transfusion-associated graft-versus-host disease, which patients are mostly at risk?",
+   "options": [
+    "Patients receiving platelet transfusions only",
+    "Patients aged over 80 years",
+    "Severely immunocompromised patients",
+    "Patients with iron deficiency anaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#14ccb3",
+   "kind": "mcq",
+   "stem": "In transfusion-associated graft-versus-host disease, how long after transfusion does it develop?",
+   "options": [
+    "2-6 h",
+    "4-30 d",
+    "Within 30 min",
+    "More than 90 d"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#7ce777",
+   "kind": "mcq",
+   "stem": "How is transfusion-associated graft-versus-host disease prevented?",
+   "options": [
+    "Anti-D immunoglobulin given before transfusion",
+    "Transfusing only fresh frozen plasma",
+    "Irradiated blood products",
+    "Pre-transfusion plasma exchange"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#d20b6e",
+   "kind": "mcq",
+   "stem": "Which Gram-positive organism can contaminate donated blood and cause transfusion infection?",
+   "options": [
+    "Escherichia coli",
+    "Pseudomonas aeruginosa",
+    "S. aureus",
+    "Serratia marcescens"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#e01296",
+   "kind": "mcq",
+   "stem": "Which Gram-negative organism can contaminate donated blood and cause transfusion infection?",
+   "options": [
+    "S. aureus",
+    "Bacillus cereus",
+    "Klebsiella",
+    "S. epidermidis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#cecba9",
+   "kind": "mcq",
+   "stem": "In infective transfusion complications, what is the risk for a red cell unit?",
+   "options": [
+    "1 in 10,000",
+    "1 in 100,000",
+    "1 in 1,000,000",
+    "1 in 1,000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#cecba9",
+   "kind": "mcq",
+   "stem": "In infective transfusion complications, what is the risk for a platelet unit?",
+   "options": [
+    "1 in 100,000",
+    "1 in 1,000",
+    "1 in 10,000",
+    "1 in 1,000,000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#cf04ef",
+   "kind": "mcq",
+   "stem": "A red cell unit has left the blood bank fridge. Within how many hours must the transfusion be finished?",
+   "options": [
+    "2 hours",
+    "4 hours",
+    "6 hours",
+    "12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#21a49f",
+   "kind": "mcq",
+   "stem": "Within what time after issue can an untransfused unit be returned to the blood bank?",
+   "options": [
+    "Within 2 hours of issue",
+    "Within 30 minutes of issue",
+    "Within 4 hours of issue",
+    "Within 24 hours of issue"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#ee478f",
+   "kind": "statement",
+   "stem": "In the infective complications of transfusion, what symptoms appear soon after the transfusion?",
+   "answer": "High spiking fever, chills and rigors; hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#ee7d98",
+   "kind": "blank",
+   "stem": "For a suspected septic transfusion reaction, give ____ IV antibiotics, as for sepsis without a clear source.",
+   "answer": "empirical broad-spectrum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#67ce72",
+   "kind": "statement",
+   "stem": "In transfusion infective complications, what can donated blood transmit?",
+   "answer": "Any virus, parasite or other pathogen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#3eb632",
+   "kind": "mcq",
+   "stem": "What is the approximate transfusion risk of hepatitis B from donated blood?",
+   "options": [
+    "<1 in 15,300",
+    "<1 in 153,000",
+    "<1 in 1,530,000",
+    "<1 in 70,000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#3eb632",
+   "kind": "mcq",
+   "stem": "What is the risk of acquiring HIV from donated blood?",
+   "options": [
+    "<1 in 2,300,000",
+    "<1 in 700,000",
+    "<1 in 7,000,000",
+    "<1 in 4,300,000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#0eceaf",
+   "kind": "mcq",
+   "stem": "Apart from hepatitis B, hepatitis C and HIV, which viruses can donated blood transmit?",
+   "options": [
+    "Norovirus, rotavirus and adenovirus",
+    "Measles, mumps and rubella",
+    "EBV, CMV, West Nile virus",
+    "Influenza A, RSV and parainfluenza"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/transfusion-reactions#89409e",
+   "kind": "mcq",
+   "stem": "Which infections are routinely screened for in blood donations?",
+   "options": [
+    "Influenza, RSV and measles",
+    "Herpes simplex, varicella and mumps",
+    "HIV, hepatitis A and E",
+    "HIV, hepatitis B and C"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

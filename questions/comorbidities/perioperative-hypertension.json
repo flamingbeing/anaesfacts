@@ -1,0 +1,349 @@
+{
+ "topic": "comorbidities/perioperative-hypertension",
+ "questions": [
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#707432",
+   "kind": "blank",
+   "stem": "Light anaesthesia causing intraoperative hypertension: deepen with ____ or a propofol bolus.",
+   "answer": "volatile",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#e92cea",
+   "kind": "blank",
+   "stem": "Intraoperative hypertension from pain: give an ____ such as fentanyl or remifentanil.",
+   "answer": "opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#4166eb",
+   "kind": "statement",
+   "stem": "Apart from pain, name three sympathetic stimuli that can raise intraoperative BP.",
+   "answer": "Hypercarbia, hypoxia, bladder distension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#d7d1cf",
+   "kind": "statement",
+   "stem": "Why might intraoperative BP stay high despite adequate anaesthesia?",
+   "answer": "Pre-existing essential or secondary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#2ddc04",
+   "kind": "statement",
+   "stem": "Name two measurement errors that can falsely raise intraoperative BP readings.",
+   "answer": "Arterial transducer at wrong level, wrong cuff size",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#baa108",
+   "kind": "statement",
+   "stem": "When intraoperative BP looks high, what should be checked first to confirm the reading?",
+   "answer": "Cuff placement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#fcf948",
+   "kind": "statement",
+   "stem": "While searching for the cause of intraoperative hypertension, what should be done?",
+   "answer": "Deepen anaesthesia or give opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#ff00a7",
+   "kind": "statement",
+   "stem": "For intraoperative hypertension, when should antihypertensives be given?",
+   "answer": "If depth and pain are unlikely causes, or deepening is not enough or not practical",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#ac0f51",
+   "kind": "mcq",
+   "stem": "What is the usual IV bolus dose of esmolol for intraoperative hypertension?",
+   "options": [
+    "1–2 mg IV",
+    "50–100 mg IV",
+    "10–20 mg IV",
+    "100–200 mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#295422",
+   "kind": "mcq",
+   "stem": "What is the usual IV bolus dose of labetalol for intraoperative hypertension?",
+   "options": [
+    "5–10 mg IV",
+    "50–100 mg IV",
+    "1–2 mg IV",
+    "100–200 mg IV"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#15bab5",
+   "kind": "mcq",
+   "stem": "What is the usual IV bolus dose of hydralazine for intraoperative hypertension?",
+   "options": [
+    "50–100 mg IV",
+    "1–2 mg IV",
+    "100–200 mg IV",
+    "5–10 mg IV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#68da58",
+   "kind": "mcq",
+   "stem": "In severe intraoperative hypertension, what IV bolus dose of GTN is occasionally given?",
+   "options": [
+    "500 mcg IV",
+    "50 mcg IV",
+    "5 mg IV",
+    "50 mg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#901422",
+   "kind": "mcq",
+   "stem": "How is deliberate hypotension defined?",
+   "options": [
+    "MAP 75-85 mmHg in normotensive patients, or a 5-10% fall from baseline",
+    "MAP 40-45 mmHg in hypertensive patients, or a 50% fall from baseline",
+    "MAP 55-65 mmHg in normotensive patients, or a 20-30% fall from baseline",
+    "MAP 55-65 mmHg in hypertensive patients, or a 40-50% fall from baseline"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#bb6fd0",
+   "kind": "statement",
+   "stem": "Name the two alpha-2 agonists used for deliberate hypotension.",
+   "answer": "Clonidine, dexmedetomidine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#a8a1e9",
+   "kind": "statement",
+   "stem": "Which blood gas problem in recovery (PACU) can cause hypertension?",
+   "answer": "Hypercarbia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#29166f",
+   "kind": "statement",
+   "stem": "Which volume problem in recovery (PACU) can cause hypertension?",
+   "answer": "Fluid overload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#04f3ec",
+   "kind": "statement",
+   "stem": "Before treating PACU hypertension, what urgent possibility must be excluded?",
+   "answer": "Hypertensive emergency or other urgent reason to lower BP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#4582cd",
+   "kind": "statement",
+   "stem": "In recovery (PACU), which cause of hypertension is treated with analgesia?",
+   "answer": "Pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#045c0f",
+   "kind": "statement",
+   "stem": "In recovery (PACU), which bladder state can raise blood pressure?",
+   "answer": "Full bladder",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#8607d1",
+   "kind": "blank",
+   "stem": "In PACU hypertension, leave ____ min between IV labetalol 5-10mg boluses.",
+   "answer": "10-15",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#14d23e",
+   "kind": "blank",
+   "stem": "In PACU hypertension, leave ____ between IV hydralazine 4-8mg boluses.",
+   "answer": "20 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#083a96",
+   "kind": "statement",
+   "stem": "On the ward or ICU, how should a high BP reading be confirmed?",
+   "answer": "Compare non-invasive and arterial readings",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#ba0f80",
+   "kind": "statement",
+   "stem": "On the ward or ICU, which common trigger of hypertension should be looked for?",
+   "answer": "Pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#9f7cc4",
+   "kind": "statement",
+   "stem": "On the ward or ICU, which features suggest end-organ damage in hypertension?",
+   "answer": "Headache, neurological signs, chest pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#e59a2c",
+   "kind": "statement",
+   "stem": "On the ward or ICU, what recent event should prompt a check before starting antihypertensives?",
+   "answer": "Recent hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#17fb2d",
+   "kind": "statement",
+   "stem": "Before treating ward or ICU hypertension, what should be checked first?",
+   "answer": "The BP target",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#b03946",
+   "kind": "statement",
+   "stem": "How quickly should hypertension be lowered on the ward or in ICU?",
+   "answer": "Over hours to days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#6fc63c",
+   "kind": "statement",
+   "stem": "If a usual antihypertensive is near its due time, what should be done on the ward?",
+   "answer": "Give it early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#b555c9",
+   "kind": "blank",
+   "stem": "Oral amlodipine on the ward: ____ every morning, up to 10mg every morning.",
+   "answer": "2.5-5mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#8a1316",
+   "kind": "blank",
+   "stem": "Oral enalapril on the ward: ____ every morning to 20mg twice daily.",
+   "answer": "5mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#d6d9e2",
+   "kind": "mcq",
+   "stem": "What is the usual IV bolus dose of hydralazine on the ward?",
+   "options": [
+    "40-80mg",
+    "4-8mg",
+    "0.5-1mg",
+    "400-800mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#1dd646",
+   "kind": "mcq",
+   "stem": "In surgical ICU patients, what initial MAP reduction is targeted over an hour?",
+   "options": [
+    "~10%",
+    "~50%",
+    "~75%",
+    "~25%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#b047a5",
+   "kind": "statement",
+   "stem": "Which history features suggest end-organ damage in ward or ICU hypertension?",
+   "answer": "Chest pain, breathlessness, blurred vision, headache",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#c4a4cc",
+   "kind": "blank",
+   "stem": "IV GTN infusion for ward or ICU hypertension: 5mcg/min, titrated up to ____.",
+   "answer": "100mcg/min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#6631ad",
+   "kind": "blank",
+   "stem": "IV hydralazine for ward or ICU hypertension: 10mg bolus (up to 20mg), then oral ____ three times daily.",
+   "answer": "50mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#dd9c2e",
+   "kind": "mcq",
+   "stem": "What IV labetalol infusion rate is used for ward or ICU hypertension?",
+   "options": [
+    "5 to 10 mg/min",
+    "0.5 to 2 mg/min",
+    "20 to 80 mg/min",
+    "0.05 to 0.2 mg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-hypertension#01d4f1",
+   "kind": "statement",
+   "stem": "For a young patient with hypertension, which tests make up the later work-up?",
+   "answer": "Plasma renin and aldosterone, renal ultrasound, 24hr urinary catecholamines or metanephrines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,619 @@
+{
+ "topic": "drugs/monoamine-oxidase-inhibitors",
+ "questions": [
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#1dde0c",
+   "kind": "statement",
+   "stem": "What serious reaction can follow tyramine-containing food in a patient on an MAOI?",
+   "answer": "Hypertensive crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#1eff15",
+   "kind": "mcq",
+   "stem": "Which MAOI is a reversible inhibitor, known as a RIMA?",
+   "options": [
+    "Phenelzine",
+    "Tranylcypromine",
+    "Moclobemide",
+    "Isocarboxazid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#6b1803",
+   "kind": "blank",
+   "stem": "Phenelzine is an ____ monoamine oxidase inhibitor.",
+   "answer": "irreversible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#89dab2",
+   "kind": "blank",
+   "stem": "MAOIs are taken orally and are well ____ from the gut.",
+   "answer": "absorbed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#644726",
+   "kind": "statement",
+   "stem": "Which irreversible MAOI is not a hydrazine?",
+   "answer": "Tranylcypromine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#efc01f",
+   "kind": "mcq",
+   "stem": "Moclobemide selectively and reversibly inhibits which monoamine oxidase subtype?",
+   "options": [
+    "MAO-B",
+    "COMT",
+    "MAO-A",
+    "Both subtypes equally"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#7dd2ad",
+   "kind": "mcq",
+   "stem": "Which MAOI is a selective MAO-B inhibitor?",
+   "options": [
+    "Moclobemide",
+    "Phenelzine",
+    "Tranylcypromine",
+    "Selegiline"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#206e7e",
+   "kind": "mcq",
+   "stem": "Which antibiotic for MRSA and VRE is also an MAOI?",
+   "options": [
+    "Vancomycin",
+    "Linezolid",
+    "Teicoplanin",
+    "Daptomycin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#3a4d0f",
+   "kind": "statement",
+   "stem": "How do MAOI doses for elderly patients compare with those for younger adults?",
+   "answer": "The same doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#17a732",
+   "kind": "mcq",
+   "stem": "At what daily dose does selegiline lose its MAO-B selectivity?",
+   "options": [
+    "5 mg per day",
+    "15 mg per day",
+    "30 mg per day",
+    "60 mg per day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#b9d74a",
+   "kind": "statement",
+   "stem": "What process do MAO enzymes use to inactivate dopamine, serotonin and noradrenaline?",
+   "answer": "Oxidative deamination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#675075",
+   "kind": "mcq",
+   "stem": "What proportion of brain MAO is type A?",
+   "options": [
+    "About 20%",
+    "About 60%",
+    "About 5%",
+    "About 90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#5ab47d",
+   "kind": "statement",
+   "stem": "Because MAO sits on the mitochondrial membrane, which amines can it reach?",
+   "answer": "Free cytoplasmic amines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#801eee",
+   "kind": "statement",
+   "stem": "Older irreversible MAOIs make which transmitter more available for release?",
+   "answer": "Noradrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#82b489",
+   "kind": "statement",
+   "stem": "What is thought to explain the antidepressant action of MAOIs?",
+   "answer": "Raised amine neurotransmitter levels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#d3b499",
+   "kind": "statement",
+   "stem": "Which depressed patients often respond to MAOIs?",
+   "answer": "Those who fail cyclic antidepressants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#bf16ef",
+   "kind": "blank",
+   "stem": "MAOIs are also effective in ____ disorder.",
+   "answer": "panic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#f40e09",
+   "kind": "mcq",
+   "stem": "In animal data, how do MAOIs change volatile anaesthetic requirement?",
+   "options": [
+    "Lower requirement",
+    "No change in requirement",
+    "Higher requirement",
+    "Abolished requirement"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#4594d3",
+   "kind": "statement",
+   "stem": "Why are MAOIs not used as first-line antidepressants?",
+   "answer": "Serious side effects, hepatic toxicity, lethal in overdose, awkward dosing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#9c7b56",
+   "kind": "statement",
+   "stem": "What is the commonest serious adverse effect of MAOIs?",
+   "answer": "Orthostatic hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#88fd37",
+   "kind": "statement",
+   "stem": "Which MAOI causes anticholinergic-type effects and sedation?",
+   "answer": "Phenelzine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#982805",
+   "kind": "statement",
+   "stem": "Which MAOI causes mild stimulant effects such as insomnia, without anticholinergic effects?",
+   "answer": "Tranylcypromine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#8961ff",
+   "kind": "statement",
+   "stem": "Which adverse effect of MAOIs may respond to pyridoxine?",
+   "answer": "Paraesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#84e2ad",
+   "kind": "statement",
+   "stem": "What rare liver adverse effect is associated with MAOIs?",
+   "answer": "Hepatitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#5cae00",
+   "kind": "statement",
+   "stem": "Unlike tricyclics, what cardiac effect do MAOIs not cause?",
+   "answer": "Arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#3472ee",
+   "kind": "mcq",
+   "stem": "Which MAO subtype in the gut and liver handles dietary tyramine?",
+   "options": [
+    "MAO-B",
+    "COMT",
+    "MAO-A",
+    "Cytochrome P450"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#d60b98",
+   "kind": "statement",
+   "stem": "When MAO is blocked, what does dietary tyramine release from sympathetic nerve endings?",
+   "answer": "A surge of catecholamines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#994f9e",
+   "kind": "statement",
+   "stem": "What state, resembling a phaeochromocytoma, does tyramine cause in MAOI patients?",
+   "answer": "Hyperadrenergic crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#b1936f",
+   "kind": "mcq",
+   "stem": "Which food is a tyramine trigger for patients on MAOIs?",
+   "options": [
+    "Plain boiled rice",
+    "Fresh white bread",
+    "Fresh apple",
+    "Pickled herring"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#7eaf37",
+   "kind": "statement",
+   "stem": "What diet must patients taking MAOIs follow?",
+   "answer": "A tyramine-free diet",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#54aac5",
+   "kind": "mcq",
+   "stem": "Which drug treats an MAOI hypertensive crisis as a peripheral vasodilator?",
+   "options": [
+    "Ephedrine",
+    "Nitroprusside",
+    "Phenylephrine",
+    "Noradrenaline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#3e9005",
+   "kind": "mcq",
+   "stem": "How do dietary rules for moclobemide compare with those for older MAOIs?",
+   "options": [
+    "Identical and equally strict",
+    "No dietary rules at all",
+    "Stricter, with tyramine foods banned",
+    "Looser, though tyramine foods still avoided"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#267152",
+   "kind": "statement",
+   "stem": "Does selegiline for Parkinson's disease need a tyramine-free diet at normal doses?",
+   "answer": "No",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#1e8fa7",
+   "kind": "statement",
+   "stem": "Name four drug classes that can cause hypertension, CNS excitation or death with MAOIs.",
+   "answer": "Opioids, sympathomimetics, tricyclics and SSRIs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#684167",
+   "kind": "mcq",
+   "stem": "What share of MAOI patients have had excitatory reactions to pethidine?",
+   "options": [
+    "About 2%",
+    "About 50%",
+    "About 20%",
+    "About 80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#1c7cc0",
+   "kind": "mcq",
+   "stem": "How often are reactions reported with fentanyl, sufentanil and alfentanil in MAOI patients, compared with pethidine?",
+   "options": [
+    "More often",
+    "Never reported",
+    "Equally often",
+    "Less often"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#98819f",
+   "kind": "statement",
+   "stem": "Name an opioid analgesic other than pethidine that should be avoided with an MAOI.",
+   "answer": "Tramadol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#636e22",
+   "kind": "statement",
+   "stem": "How might an MAOI change the effects of morphine?",
+   "answer": "Opioid effects may be enhanced",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#50bbcc",
+   "kind": "statement",
+   "stem": "Why do indirect sympathomimetics cause exaggerated hypertension in MAOI patients?",
+   "answer": "They rely heavily on MAO for breakdown",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#99b8a0",
+   "kind": "mcq",
+   "stem": "Which enzyme mainly breaks down direct sympathomimetics?",
+   "options": [
+    "Monoamine oxidase",
+    "Acetylcholinesterase",
+    "COMT",
+    "Pseudocholinesterase"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#1b24d0",
+   "kind": "blank",
+   "stem": "MAOI interactions can cause sympathetic overactivity with tachycardia, hyperthermia and ____.",
+   "answer": "mydriasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#a7aa30",
+   "kind": "statement",
+   "stem": "Besides supportive treatment, what is used after a serious MAOI interaction?",
+   "answer": "Gastric lavage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#7517db",
+   "kind": "mcq",
+   "stem": "Which drug is suggested for muscle rigidity and hypermetabolism in MAOI reactions?",
+   "options": [
+    "Neostigmine",
+    "Flumazenil",
+    "Dantrolene",
+    "Sugammadex"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#0ad86b",
+   "kind": "statement",
+   "stem": "Which analgesics should be avoided for anaesthetic analgesia in MAOI patients?",
+   "answer": "Pethidine and tramadol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#1b594b",
+   "kind": "mcq",
+   "stem": "Which indirect sympathomimetic should be avoided in MAOI patients?",
+   "options": [
+    "Phenylephrine",
+    "Ephedrine",
+    "Noradrenaline",
+    "Adrenaline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#28c6af",
+   "kind": "statement",
+   "stem": "If vasopressor support is needed in an MAOI patient, which type is used with great care?",
+   "answer": "Direct-acting agents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#55bc5b",
+   "kind": "statement",
+   "stem": "What should the anaesthetic technique avoid in an MAOI patient?",
+   "answer": "Sympathetic stimulation and drug-induced hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#f6e877",
+   "kind": "blank",
+   "stem": "Regional anaesthesia, for example in ____, is acceptable in MAOI patients.",
+   "answer": "parturients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#fd4abe",
+   "kind": "mcq",
+   "stem": "Which adrenaline concentration in local anaesthetic had no reported problems in MAOI patients?",
+   "options": [
+    "1:100,000",
+    "1:50,000",
+    "1:10,000",
+    "1:200,000"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#fc4e69",
+   "kind": "mcq",
+   "stem": "Which anaesthetic agents were used for ECT in MAOI patients without problems?",
+   "options": [
+    "Ketamine and propofol",
+    "Etomidate and thiopental",
+    "Pethidine and tramadol",
+    "Morphine and fentanyl"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#e75635",
+   "kind": "mcq",
+   "stem": "How is the response to non-depolarising neuromuscular blockers affected by MAOIs?",
+   "options": [
+    "Prolonged",
+    "Reversed",
+    "Abolished",
+    "Unchanged"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#2a6070",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of moclobemide?",
+   "options": [
+    "10% to 50%",
+    "60% to 80%",
+    "1% to 5%",
+    "90% to 100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#fbedf0",
+   "kind": "mcq",
+   "stem": "What proportion of Asians are slow metabolisers of moclobemide?",
+   "options": [
+    "5%",
+    "15%",
+    "30%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#660bdc",
+   "kind": "mcq",
+   "stem": "How long should an MAOI be stopped before starting another antidepressant?",
+   "options": [
+    "24 hours",
+    "5 days",
+    "2 weeks",
+    "6 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#569b08",
+   "kind": "statement",
+   "stem": "How long should pass between finishing a tricyclic and starting an MAOI?",
+   "answer": "2 weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#a03975",
+   "kind": "mcq",
+   "stem": "Before elective surgery, how long was it once routine to stop an MAOI?",
+   "options": [
+    "24 hours",
+    "2 to 3 days",
+    "6 to 8 weeks",
+    "2 to 3 weeks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#e693ee",
+   "kind": "mcq",
+   "stem": "Which MAOI is used in early Parkinson's disease?",
+   "options": [
+    "Phenelzine",
+    "Moclobemide",
+    "Selegiline",
+    "Isocarboxazid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/monoamine-oxidase-inhibitors#00118d",
+   "kind": "mcq",
+   "stem": "Which of these conditions is an indication for MAOIs?",
+   "options": [
+    "Schizophrenia",
+    "Obsessive-compulsive disorder",
+    "Bipolar mania",
+    "Generalised anxiety disorder"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

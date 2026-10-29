@@ -1,0 +1,319 @@
+{
+ "topic": "comorbidities/conns-syndrome",
+ "questions": [
+  {
+   "fact_id": "comorbidities/conns-syndrome#1bf58c",
+   "kind": "mcq",
+   "stem": "Which drug is commonly started before surgery in Conn's syndrome?",
+   "options": [
+    "Furosemide",
+    "Spironolactone",
+    "Glyceryl trinitrate",
+    "Labetalol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#769719",
+   "kind": "mcq",
+   "stem": "How do blood pressure swings during adrenal gland handling in Conn's compare with phaeochromocytoma?",
+   "options": [
+    "Less pronounced",
+    "More pronounced",
+    "Absent",
+    "Identical"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#24f774",
+   "kind": "statement",
+   "stem": "What treatment is required after bilateral adrenalectomy in Conn's syndrome?",
+   "answer": "Steroids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#4ee070",
+   "kind": "mcq",
+   "stem": "What is the underlying cause of Conn's syndrome?",
+   "options": [
+    "A unilateral aldosterone-secreting adrenal adenoma",
+    "A bilateral cortisol-secreting adrenal hyperplasia",
+    "An ACTH-secreting pituitary adenoma",
+    "A renin-secreting renal tumour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#c3452f",
+   "kind": "blank",
+   "stem": "In primary hyperaldosteronism, ACTH and renin levels are ____ while aldosterone is high.",
+   "answer": "low",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#27d94b",
+   "kind": "mcq",
+   "stem": "In primary hyperaldosteronism, what percentage of cases are due to adrenal adenoma?",
+   "options": [
+    "25%",
+    "60%",
+    "10%",
+    "85%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#d56515",
+   "kind": "mcq",
+   "stem": "In primary hyperaldosteronism, what percentage of cases are due to bilateral adrenal hyperplasia?",
+   "options": [
+    "10%",
+    "30%",
+    "45%",
+    "75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#1a4a2e",
+   "kind": "blank",
+   "stem": "In secondary hyperaldosteronism, the aldosterone/renin ratio is ____.",
+   "answer": "normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#b4bb02",
+   "kind": "blank",
+   "stem": "The Conn's triad occurs in a patient who is not taking ____.",
+   "answer": "diuretics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#787789",
+   "kind": "mcq",
+   "stem": "What causes the hypertension in Conn's syndrome?",
+   "options": [
+    "Hypervolaemia",
+    "Hypovolaemia",
+    "Hyperkalaemia",
+    "Hypoglycaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#69d062",
+   "kind": "mcq",
+   "stem": "In Conn's, below what potassium level should spontaneous hypokalaemia prompt suspicion?",
+   "options": [
+    "2.5mmol/L",
+    "3.5mmol/L",
+    "4.0mmol/L",
+    "5.0mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#6d0b29",
+   "kind": "statement",
+   "stem": "Why does Conn's syndrome cause metabolic alkalosis?",
+   "answer": "Aldosterone increases tubular hydrogen ion secretion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#62fafe",
+   "kind": "mcq",
+   "stem": "In Conn's syndrome, what proportion of patients have impaired glucose tolerance?",
+   "options": [
+    "5%",
+    "20%",
+    "35%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#fd6f03",
+   "kind": "mcq",
+   "stem": "What aldosterone/renin ratio suggests primary hyperaldosteronism?",
+   "options": [
+    "> 40 (pg/mL)/(ng/ml/h)",
+    "> 400 (pg/mL)/(ng/ml/h)",
+    "> 4 (pg/mL)/(ng/ml/h)",
+    "> 4000 (pg/mL)/(ng/ml/h)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#fbc2ff",
+   "kind": "mcq",
+   "stem": "In Conn's postural test, at what time are samples taken while the patient is lying down?",
+   "options": [
+    "7am",
+    "9am",
+    "11am",
+    "3pm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#b6fa6e",
+   "kind": "mcq",
+   "stem": "Adrenal scintigraphy in Conn's uses aldosterone precursors labelled with which isotopes?",
+   "options": [
+    "131I or 75Se",
+    "99mTc or 18F",
+    "123I or 111In",
+    "201Tl or 67Ga"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#b6fa6e",
+   "kind": "statement",
+   "stem": "What can adrenal scintigraphy help separate in Conn's syndrome?",
+   "answer": "Adenoma from hyperplasia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#243be8",
+   "kind": "mcq",
+   "stem": "What is the usual oral dose of spironolactone in Conn's syndrome?",
+   "options": [
+    "100mg/day",
+    "50mg/day",
+    "300mg/day",
+    "600mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#243be8",
+   "kind": "statement",
+   "stem": "What is the mechanism of spironolactone in Conn's syndrome?",
+   "answer": "Aldosterone antagonist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#7ec955",
+   "kind": "mcq",
+   "stem": "How many weeks before surgery should spironolactone be started in Conn's syndrome?",
+   "options": [
+    "1wk",
+    "2wks",
+    "8wks",
+    "4wks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#76d5ec",
+   "kind": "mcq",
+   "stem": "Which drug blocks the epithelial sodium channel (ENaC) in Conn's syndrome?",
+   "options": [
+    "Amiloride",
+    "Spironolactone",
+    "Furosemide",
+    "Hydralazine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#76d5ec",
+   "kind": "mcq",
+   "stem": "What is the oral amiloride dose range in Conn's syndrome?",
+   "options": [
+    "1-2mg/day",
+    "100-200mg/day",
+    "10-20mg/day",
+    "300-400mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#97d1ea",
+   "kind": "statement",
+   "stem": "In Conn's syndrome, which drug class is given for GRA?",
+   "answer": "Glucocorticoids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#542643",
+   "kind": "statement",
+   "stem": "In Conn's adrenalectomy, which surgical step causes haemodynamic instability?",
+   "answer": "Adrenal handling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#73bd6f",
+   "kind": "statement",
+   "stem": "Which hypertensive end-organ damage should be assessed before Conn's adrenalectomy?",
+   "answer": "LVH, IHD, PVD, nephropathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#bf6434",
+   "kind": "statement",
+   "stem": "Name two analgesia approaches for adrenalectomy in Conn's syndrome.",
+   "answer": "Systemic analgesia, regional techniques",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#ef261e",
+   "kind": "statement",
+   "stem": "Why may hypertension persist after removing a Conn's adenoma?",
+   "answer": "Permanent changes in vascular resistance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/conns-syndrome#41d63d",
+   "kind": "statement",
+   "stem": "After adrenalectomy in Conn's, which steroid continues IV until oral therapy is tolerated?",
+   "answer": "Hydrocortisone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,665 @@
+{
+ "topic": "comorbidities/pulmonary-hypertension",
+ "questions": [
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#2fd67b",
+   "kind": "blank",
+   "stem": "In pulmonary hypertension, the mean pulmonary artery pressure (mPAP) is defined as ____.",
+   "answer": "> 20mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#56f02e",
+   "kind": "statement",
+   "stem": "In pulmonary hypertension on echo, at what PASP is disease graded as moderate to severe?",
+   "answer": "PASP > 50 mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#1b8e51",
+   "kind": "statement",
+   "stem": "What is the name of the pulmonary hypertension group that includes pulmonary arterial hypertension (PAH)?",
+   "answer": "Pre-capillary PH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#cb9471",
+   "kind": "blank",
+   "stem": "Pre-capillary pulmonary hypertension is haemodynamically defined by a PVR above ____ Wood Units.",
+   "answer": "2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#a38dfc",
+   "kind": "blank",
+   "stem": "Pre-capillary pulmonary hypertension has a pulmonary artery wedge pressure (PAWP) of ____ mm Hg or less.",
+   "answer": "15",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#d2369e",
+   "kind": "statement",
+   "stem": "In pulmonary hypertension, what should anaesthesia mainly aim to prevent?",
+   "answer": "Sudden rises in PVR that worsen RV dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#154064",
+   "kind": "statement",
+   "stem": "Which symptoms of low cardiac output does pulmonary hypertension cause?",
+   "answer": "Dyspnoea, fatigue, syncope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#36944a",
+   "kind": "blank",
+   "stem": "In pulmonary hypertension, exertional chest pain comes from right ventricular ____.",
+   "answer": "ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#780194",
+   "kind": "statement",
+   "stem": "Which causes of pulmonary hypertension are relevant to preoperative assessment?",
+   "answer": "Smoking, COPD, VTE, illicit drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#da01ba",
+   "kind": "statement",
+   "stem": "Which signs suggest right heart failure from pulmonary hypertension?",
+   "answer": "Raised JVP, hepatomegaly, peripheral oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#d3c653",
+   "kind": "statement",
+   "stem": "Which murmur with large v waves suggests pulmonary hypertension on examination?",
+   "answer": "TR murmur",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#692cfe",
+   "kind": "blank",
+   "stem": "Right ventricular enlargement in pulmonary hypertension can cause a parasternal ____.",
+   "answer": "heave",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#71ac50",
+   "kind": "blank",
+   "stem": "Pulmonary hypertension on examination causes a loud ____.",
+   "answer": "P2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#ac8785",
+   "kind": "statement",
+   "stem": "Which investigation is essential in preoperative assessment of pulmonary hypertension?",
+   "answer": "TTE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#694aa5",
+   "kind": "statement",
+   "stem": "How is PASP estimated on echo from the TR jet using the modified Bernoulli equation?",
+   "answer": "PASP = 4v2 + RAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#d8c32f",
+   "kind": "mcq",
+   "stem": "On echo, pulmonary hypertension with PASP from 40 to under 50 mmHg is graded as what?",
+   "options": [
+    "Mild",
+    "Moderate",
+    "Severe",
+    "Normal"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#f52a2e",
+   "kind": "mcq",
+   "stem": "On echo, pulmonary hypertension with PASP from 50 to under 60 mmHg is graded as what?",
+   "options": [
+    "Mild",
+    "Normal",
+    "Moderate",
+    "Severe"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#b1ae79",
+   "kind": "mcq",
+   "stem": "On echo, pulmonary hypertension with PASP of 60 mmHg or more is graded as what?",
+   "options": [
+    "Moderate",
+    "Mild",
+    "Normal",
+    "Severe"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#e2a3ee",
+   "kind": "blank",
+   "stem": "The ESC cut-off for pulmonary hypertension on echo is a TR peak velocity above ____ m/s.",
+   "answer": "2.8",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#e2a3ee",
+   "kind": "mcq",
+   "stem": "With RA pressure of 5 mmHg, the ESC TR velocity cut-off equals what peak PA pressure?",
+   "options": [
+    "25 mmHg",
+    "36 mmHg",
+    "40 mmHg",
+    "50 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#3c21f9",
+   "kind": "statement",
+   "stem": "Which ECG changes suggest pulmonary hypertension?",
+   "answer": "Right atrial enlargement, RVH, RV strain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#d42e98",
+   "kind": "blank",
+   "stem": "In pulmonary hypertension, BNP or NT-proBNP is raised with RV or LV ____.",
+   "answer": "dilatation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#ee7949",
+   "kind": "mcq",
+   "stem": "Which investigation is the diagnostic gold standard for pulmonary hypertension?",
+   "options": [
+    "Transthoracic echocardiogram",
+    "Chest X-ray",
+    "Right heart catheter",
+    "Ventilation-perfusion scan"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#e4b06e",
+   "kind": "statement",
+   "stem": "In pulmonary hypertension with mPAP above 20 mmHg, what PAWP indicates post-capillary disease?",
+   "answer": "PAWP > 15mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#b239f7",
+   "kind": "statement",
+   "stem": "Which tests assess functional capacity in pulmonary hypertension?",
+   "answer": "6-minute walk test (6MWT), CPET",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#a8e235",
+   "kind": "statement",
+   "stem": "Which investigations help find the cause of pulmonary hypertension?",
+   "answer": "CXR, lung function, ABG, HRCT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#6414fa",
+   "kind": "statement",
+   "stem": "Which drug class is used mainly for Group 1 pulmonary hypertension?",
+   "answer": "Pulmonary vasodilators",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#987db1",
+   "kind": "mcq",
+   "stem": "Ambrisentan and bosentan act by blocking which vasoconstrictor peptide?",
+   "options": [
+    "Nitric oxide",
+    "Endothelin-1 (ET-1)",
+    "cGMP",
+    "Prostacyclin (PGI2)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#1c5c0a",
+   "kind": "mcq",
+   "stem": "Sildenafil and tadalafil stop the breakdown of which molecule in pulmonary hypertension?",
+   "options": [
+    "cAMP",
+    "cGMP",
+    "Endothelin-1",
+    "Prostacyclin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#c7bcd4",
+   "kind": "statement",
+   "stem": "Which receptor do epoprostenol and selexipag act on to cause vasodilation?",
+   "answer": "Prostacyclin (PGI2) receptor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#44551d",
+   "kind": "statement",
+   "stem": "Name two supportive, non-vasodilator treatments for pulmonary hypertension.",
+   "answer": "Diuretics, supplemental O2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#a2e3e3",
+   "kind": "mcq",
+   "stem": "Anticoagulation is used to treat the cause of pulmonary hypertension in which condition?",
+   "options": [
+    "COPD-related pulmonary hypertension",
+    "CTEPH",
+    "Left heart failure",
+    "Sarcoidosis-related pulmonary hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#638d87",
+   "kind": "blank",
+   "stem": "On echo risk assessment in pulmonary hypertension, an RVSP/SBP ratio above ____ is a risk marker.",
+   "answer": "0.6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#2db943",
+   "kind": "statement",
+   "stem": "Which values does right heart catheterisation give for pulmonary hypertension risk assessment?",
+   "answer": "mPAP, PVR, RAP, CI, ScO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#390c4f",
+   "kind": "statement",
+   "stem": "Which procedure factors increase risk in pulmonary hypertension surgery?",
+   "answer": "Emergency, major surgery, operating time > 3 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#197c41",
+   "kind": "statement",
+   "stem": "Which registry is the four-strata risk model for pulmonary hypertension taken from?",
+   "answer": "COMPERA 2.0",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#347383",
+   "kind": "statement",
+   "stem": "Which factors carry the most prognostic weight in pulmonary hypertension risk models?",
+   "answer": "Functional class with 6-minute walk distance, and NT-proBNP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#abaef4",
+   "kind": "statement",
+   "stem": "What should happen to a pulmonary hypertension patient's usual PH drugs before surgery?",
+   "answer": "Continue all PH therapy up to surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#e856e9",
+   "kind": "mcq",
+   "stem": "Newly diagnosed PH needing emergency surgery: what oral sildenafil dose is given before surgery?",
+   "options": [
+    "25-50mg",
+    "50-100mg",
+    "100-200mg",
+    "5-10mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#ec10c3",
+   "kind": "statement",
+   "stem": "In pulmonary hypertension, when are large haemodynamic swings most likely?",
+   "answer": "At induction and with positive pressure ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#df743e",
+   "kind": "statement",
+   "stem": "Why avoid acute rises in PVR during pulmonary hypertension anaesthesia?",
+   "answer": "They raise RV afterload and cut RV output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#b30d11",
+   "kind": "statement",
+   "stem": "In pulmonary hypertension anaesthesia, why keep mean arterial pressure up?",
+   "answer": "To perfuse the right ventricle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#d7c3f6",
+   "kind": "statement",
+   "stem": "What two right ventricular goals apply during pulmonary hypertension anaesthesia?",
+   "answer": "Maintain RV contractility and optimise RV preload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#a77182",
+   "kind": "statement",
+   "stem": "In pulmonary hypertension anaesthesia, what matters more than the choice of technique?",
+   "answer": "Sticking to the goals",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#c9e51e",
+   "kind": "statement",
+   "stem": "Why are peripheral nerve blocks favoured for pulmonary hypertension surgery?",
+   "answer": "Cardiostable, with good opioid-free analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#d3c165",
+   "kind": "statement",
+   "stem": "Why can neuraxial blocks be harmful in pulmonary hypertension surgery?",
+   "answer": "Sympathectomy lowers BP and RV perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#cec5f1",
+   "kind": "statement",
+   "stem": "What risks does sedation for regional anaesthesia carry in pulmonary hypertension?",
+   "answer": "Hypoxia and hypercarbia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#c932fd",
+   "kind": "blank",
+   "stem": "In pulmonary hypertension, place an ____ line before induction because changes are rapid.",
+   "answer": "arterial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#eb0ae2",
+   "kind": "statement",
+   "stem": "What is CVP used for in pulmonary hypertension anaesthesia?",
+   "answer": "Guiding vasopressors and an index of RV preload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#4eae07",
+   "kind": "statement",
+   "stem": "Why give vasoconstrictors alongside anaesthesia in pulmonary hypertension?",
+   "answer": "To hold SVR and MAP for RV perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#671bf0",
+   "kind": "statement",
+   "stem": "Which two anaesthetic agents should be used with caution in pulmonary hypertension because they raise PVR?",
+   "answer": "Ketamine and N2O",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#da1b86",
+   "kind": "blank",
+   "stem": "RV-protective ventilation in pulmonary hypertension: keep plateau pressure (Pplat) below ____.",
+   "answer": "26",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#da1b86",
+   "kind": "blank",
+   "stem": "RV-protective ventilation in pulmonary hypertension: keep driving pressure below ____.",
+   "answer": "17",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#79108e",
+   "kind": "statement",
+   "stem": "Why treat arrhythmias aggressively in pulmonary hypertension?",
+   "answer": "Atrial kick is needed for preload and output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#dc083f",
+   "kind": "mcq",
+   "stem": "Which vasopressor is first line in most centres for pulmonary hypertension, giving beta-1 support to the RV?",
+   "options": [
+    "Phenylephrine",
+    "Ephedrine",
+    "Noradrenaline",
+    "Metaraminol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#6ed84f",
+   "kind": "statement",
+   "stem": "Which opioids are preferred in pulmonary hypertension to avoid postoperative respiratory depression?",
+   "answer": "Short-acting opioids (e.g. remifentanil)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#9f2ecd",
+   "kind": "statement",
+   "stem": "Why is laparoscopy high risk in pulmonary hypertension?",
+   "answer": "Lower lung compliance and CO2 load",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#12c6cb",
+   "kind": "statement",
+   "stem": "When should a pulmonary hypertension patient be extubated after surgery?",
+   "answer": "Only when awake, fully reversed and ventilating well",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#a48869",
+   "kind": "statement",
+   "stem": "What happens when a sudden rise in PVR overwhelms the RV in pulmonary hypertension?",
+   "answer": "RV failure and systemic hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#a48869",
+   "kind": "blank",
+   "stem": "A pulmonary hypertensive crisis carries a mortality of ____%.",
+   "answer": "50",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#4b813a",
+   "kind": "statement",
+   "stem": "What is the aim of inhaled and IV pulmonary vasodilators in a pulmonary hypertensive crisis?",
+   "answer": "Lower PVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#9e84e8",
+   "kind": "mcq",
+   "stem": "What is the usual inhaled nitric oxide (iNO) dose range in a pulmonary hypertensive crisis?",
+   "options": [
+    "5-10ppm",
+    "20-40ppm",
+    "50-80ppm",
+    "100-200ppm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#e3e784",
+   "kind": "mcq",
+   "stem": "What dose of nebulised iloprost is given hourly in a pulmonary hypertensive crisis?",
+   "options": [
+    "25mcg in saline",
+    "50mcg in saline",
+    "100mcg in saline",
+    "5mcg in saline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#48aef1",
+   "kind": "blank",
+   "stem": "If inhaled prostacyclin is unavailable, IV prostacyclin is given at ____.",
+   "answer": "4-10ng/kg/min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#336015",
+   "kind": "statement",
+   "stem": "What CVP range should preload be optimised to in a pulmonary hypertensive crisis?",
+   "answer": "8–12 mm Hg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#75527f",
+   "kind": "mcq",
+   "stem": "What is the maximum noradrenaline dose in a pulmonary hypertensive crisis?",
+   "options": [
+    "0.05 mcg/kg/min",
+    "0.5 mcg/kg/min",
+    "1 mcg/kg/min",
+    "2 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#ba2312",
+   "kind": "mcq",
+   "stem": "What is the maximum low-dose vasopressin rate in a pulmonary hypertensive crisis?",
+   "options": [
+    "0.01 units/min",
+    "0.1 units/min",
+    "0.4 units/min",
+    "0.04 units/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#dc5c4f",
+   "kind": "blank",
+   "stem": "Milrinone lowers PVR; its loading bolus dose is ____.",
+   "answer": "50mcg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#b4c8e1",
+   "kind": "statement",
+   "stem": "What is ECMO used for in a severe pulmonary hypertensive crisis?",
+   "answer": "Supporting the RV as a bridge to recovery or transplant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#a86741",
+   "kind": "statement",
+   "stem": "Why do pulmonary hypertension patients need ICU care after surgery?",
+   "answer": "A PH crisis can still happen after surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#ef522f",
+   "kind": "statement",
+   "stem": "After surgery, how should interruptions to pulmonary hypertension therapy be managed?",
+   "answer": "Keep them to a minimum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pulmonary-hypertension#c21f85",
+   "kind": "statement",
+   "stem": "What postoperative ventilation goal reduces RV stress in pulmonary hypertension?",
+   "answer": "Early spontaneous ventilation and extubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

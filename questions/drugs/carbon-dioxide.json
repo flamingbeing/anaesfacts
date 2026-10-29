@@ -1,0 +1,171 @@
+{
+ "topic": "drugs/carbon-dioxide",
+ "questions": [
+  {
+   "fact_id": "drugs/carbon-dioxide#e6837d",
+   "kind": "mcq",
+   "stem": "In medical cylinders, what physical state is carbon dioxide stored in at 20°C?",
+   "options": [
+    "Gas",
+    "Liquid",
+    "Solid",
+    "Supercritical fluid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#1da5b5",
+   "kind": "mcq",
+   "stem": "What colour are carbon dioxide cylinders?",
+   "options": [
+    "Blue",
+    "Black",
+    "Grey",
+    "Green"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#1da5b5",
+   "kind": "mcq",
+   "stem": "What is the capacity of a size E carbon dioxide cylinder?",
+   "options": [
+    "900 litres",
+    "1000 litres",
+    "2400 litres",
+    "1800 litres"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#92dbc5",
+   "kind": "mcq",
+   "stem": "What is the boiling point of carbon dioxide?",
+   "options": [
+    "−42°C",
+    "−183°C",
+    "−78.5°C",
+    "31°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#44df54",
+   "kind": "mcq",
+   "stem": "What is the critical temperature of carbon dioxide?",
+   "options": [
+    "20°C",
+    "31°C",
+    "37°C",
+    "−78.5°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#44df54",
+   "kind": "mcq",
+   "stem": "What is the critical pressure of carbon dioxide?",
+   "options": [
+    "51 bar",
+    "73.8 bar",
+    "100 bar",
+    "1 bar"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#00443f",
+   "kind": "statement",
+   "stem": "Through what mechanism does carbon dioxide cause its cardiovascular effects?",
+   "answer": "Sympathetic stimulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#31ef9b",
+   "kind": "mcq",
+   "stem": "Does a high PaCO2 make carbon dioxide-related arrhythmias more or less likely?",
+   "options": [
+    "Less likely",
+    "No change",
+    "More likely",
+    "Only when PaCO2 is low"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#08f26a",
+   "kind": "statement",
+   "stem": "Raised PaCO2 increases minute volume by acting on which two sites?",
+   "answer": "Respiratory centre and peripheral chemoreceptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#5afcda",
+   "kind": "mcq",
+   "stem": "Above what PaCO2 can carbon dioxide cause respiratory depression?",
+   "options": [
+    "5 kPa",
+    "10 kPa",
+    "15 kPa",
+    "20 kPa"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#c40d57",
+   "kind": "mcq",
+   "stem": "As PaCO2 rises, what happens to cerebral blood flow and intracranial pressure?",
+   "options": [
+    "Both rise",
+    "Both fall",
+    "Blood flow rises, pressure falls",
+    "Both stay unchanged"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#6e0e52",
+   "kind": "statement",
+   "stem": "Which CNS effect of raised PaCO2 is possible above 10 kPa?",
+   "answer": "Narcosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#e3a5f0",
+   "kind": "statement",
+   "stem": "What is the main clinical use of carbon dioxide in laparoscopic surgery?",
+   "answer": "Insufflation gas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbon-dioxide#853961",
+   "kind": "statement",
+   "stem": "What is carbon dioxide occasionally given after general anaesthesia to do?",
+   "answer": "Stimulate breathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

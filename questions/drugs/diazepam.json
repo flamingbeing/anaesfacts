@@ -1,0 +1,223 @@
+{
+ "topic": "drugs/diazepam",
+ "questions": [
+  {
+   "fact_id": "drugs/diazepam#e7cec6",
+   "kind": "mcq",
+   "stem": "What is the usual IV sedation dose of diazepam?",
+   "options": [
+    "0.5-1 mg/kg",
+    "0.05-0.1 mg/kg",
+    "1-2 mg/kg",
+    "0.01-0.02 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#e7cec6",
+   "kind": "mcq",
+   "stem": "What is the maximum IV sedation dose of diazepam?",
+   "options": [
+    "0.1 mg/kg",
+    "0.5 mg/kg",
+    "0.25 mg/kg",
+    "1 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#3b9adb",
+   "kind": "mcq",
+   "stem": "What is the onset time of IV diazepam?",
+   "options": [
+    "4-5mins",
+    "1-2mins",
+    "10-15mins",
+    "30mins"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#8aa527",
+   "kind": "mcq",
+   "stem": "How long does the anticonvulsant effect of IV diazepam last?",
+   "options": [
+    "2-3hrs",
+    "20-30mins",
+    "3-8hrs",
+    "5-10mins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#612fcd",
+   "kind": "mcq",
+   "stem": "How long does IV diazepam sedation usually last?",
+   "options": [
+    "20-30mins",
+    "2-3hrs",
+    "20-40hrs",
+    "8-12hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#0124c3",
+   "kind": "mcq",
+   "stem": "How long after an oral dose does diazepam take to start working?",
+   "options": [
+    "4-5mins",
+    "30mins",
+    "2hrs",
+    "8hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#0124c3",
+   "kind": "mcq",
+   "stem": "How long does the effect of an oral dose of diazepam last?",
+   "options": [
+    "3-8hrs",
+    "20-40hrs",
+    "30mins",
+    "2-3hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#812dea",
+   "kind": "mcq",
+   "stem": "What is the paediatric dose of diazepam as an adjuvant analgesic?",
+   "options": [
+    "0.25-2mg/kg every 6 hours",
+    "0.5-1mg/kg every 12 hours",
+    "1-2mg/kg every 4 hours",
+    "0.025-0.2mg/kg every 6 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#0486f2",
+   "kind": "mcq",
+   "stem": "Which co-administered drugs make diazepam's respiratory depression worse?",
+   "options": [
+    "Beta-blockers or caffeine",
+    "Opioids or alcohol",
+    "Antibiotics or paracetamol",
+    "Steroids or ondansetron"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#ecf63a",
+   "kind": "mcq",
+   "stem": "What does diazepam do to the MAC of other anaesthetic agents?",
+   "options": [
+    "Increases it",
+    "No effect on it",
+    "Reduces it",
+    "Doubles it"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#76b893",
+   "kind": "mcq",
+   "stem": "Diazepam's good oral absorption and fast central effect are due to which property?",
+   "options": [
+    "Low lipid solubility",
+    "High lipid solubility",
+    "High water solubility",
+    "Rapid hepatic clearance"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#747335",
+   "kind": "mcq",
+   "stem": "What percentage of diazepam is protein bound?",
+   "options": [
+    "50%",
+    "70%",
+    "95%",
+    "99.9%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#9f2f81",
+   "kind": "statement",
+   "stem": "Which active metabolites does diazepam form by hepatic oxidation?",
+   "answer": "Desmethyldiazepam, oxazepam and temazepam",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#0a386e",
+   "kind": "mcq",
+   "stem": "How does diazepam's clearance compare with other common benzodiazepines?",
+   "options": [
+    "Highest clearance",
+    "Intermediate clearance",
+    "Lowest clearance",
+    "Similar to midazolam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#0a386e",
+   "kind": "mcq",
+   "stem": "What happens to diazepam's half-life with prolonged infusion?",
+   "options": [
+    "Unchanged",
+    "Shortened",
+    "Greatly prolonged",
+    "Halved"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diazepam#658b70",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of diazepam?",
+   "options": [
+    "2-4hrs",
+    "20-40hrs",
+    "8-12hrs",
+    "100-200hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

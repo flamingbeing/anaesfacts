@@ -1,0 +1,183 @@
+{
+ "topic": "comorbidities/venous-thromboembolism",
+ "questions": [
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#8622d6",
+   "kind": "mcq",
+   "stem": "In perioperative VTE management, which heparin may be used for bridging?",
+   "options": [
+    "Warfarin",
+    "Aspirin",
+    "Unfractionated heparin (UFH)",
+    "Dabigatran"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#e5be46",
+   "kind": "mcq",
+   "stem": "Antiphospholipid syndrome is commonly associated with which autoimmune disease?",
+   "options": [
+    "Asthma",
+    "SLE",
+    "Gout",
+    "Migraine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#c5d04b",
+   "kind": "statement",
+   "stem": "What may antiphospholipid syndrome patients need perioperatively?",
+   "answer": "Bridging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#114b86",
+   "kind": "statement",
+   "stem": "What is the name of the points-based VTE risk model used before surgery or admission?",
+   "answer": "Caprini Risk Assessment Model",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#e272ff",
+   "kind": "mcq",
+   "stem": "The Caprini score estimates VTE risk over what period?",
+   "options": [
+    "Within 7 days of surgery",
+    "Within 90 days of discharge",
+    "Within 1 year of admission",
+    "Within 30 days of surgery or admission"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#87abde",
+   "kind": "mcq",
+   "stem": "Which Caprini score range is high risk for VTE?",
+   "options": [
+    "3-4",
+    "0",
+    "1-2",
+    "5 or more"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#a6064a",
+   "kind": "mcq",
+   "stem": "What VTE risk applies to a Caprini score of 0?",
+   "options": [
+    "About 1.5%",
+    "Below 0.5%",
+    "About 3.0%",
+    "About 6.0%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#b20c40",
+   "kind": "mcq",
+   "stem": "What VTE risk applies to a Caprini score of 1-2?",
+   "options": [
+    "Below 0.5%",
+    "About 3.0%",
+    "About 1.5%",
+    "About 6.0%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#049629",
+   "kind": "mcq",
+   "stem": "What VTE risk applies to a Caprini score of 3-4?",
+   "options": [
+    "About 3.0%",
+    "About 1.5%",
+    "About 6.0%",
+    "Below 0.5%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#90622b",
+   "kind": "mcq",
+   "stem": "Which thromboprophylaxis is preferred for hip and knee arthroplasty or hip fracture?",
+   "options": [
+    "Low-dose aspirin",
+    "Low-dose UFH",
+    "DOACs",
+    "LMWH"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#2c6a44",
+   "kind": "mcq",
+   "stem": "What is first-line thromboprophylaxis in pregnancy?",
+   "options": [
+    "Warfarin",
+    "Aspirin",
+    "LMWH",
+    "Rivaroxaban"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#91138b",
+   "kind": "mcq",
+   "stem": "In obstetric thromboprophylaxis, which heparin is reserved for CrCl below 30 ml/min?",
+   "options": [
+    "Warfarin",
+    "LMWH",
+    "Unfractionated heparin (UFH)",
+    "DOACs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#91138b",
+   "kind": "mcq",
+   "stem": "Unfractionated heparin can be reversed with which agent?",
+   "options": [
+    "Vitamin K",
+    "Protamine",
+    "Idarucizumab",
+    "Tranexamic acid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/venous-thromboembolism#5d6e44",
+   "kind": "statement",
+   "stem": "Why is warfarin avoided in pregnancy for VTE?",
+   "answer": "It causes complications in pregnancy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

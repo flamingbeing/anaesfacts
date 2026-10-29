@@ -1,0 +1,339 @@
+{
+ "topic": "comorbidities/wolff-parkinson-white-syndrome",
+ "questions": [
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#7e80fc",
+   "kind": "statement",
+   "stem": "In Wolff-Parkinson-White syndrome, what perioperative arrhythmia risk should be anticipated?",
+   "answer": "SVT or atrial fibrillation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#c7b4d8",
+   "kind": "blank",
+   "stem": "In Wolff-Parkinson-White syndrome, have equipment ready for rapid pharmacological or electrical ____.",
+   "answer": "cardioversion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#bcbf0f",
+   "kind": "mcq",
+   "stem": "Which ECG finding should make you suspect Wolff-Parkinson-White syndrome?",
+   "options": [
+    "Peaked T waves",
+    "Pre-excitation delta waves",
+    "Prolonged QT interval",
+    "ST depression in V5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#c66b20",
+   "kind": "mcq",
+   "stem": "In Wolff-Parkinson-White syndrome, which patients carry the lower perioperative arrhythmia risk?",
+   "options": [
+    "Patients with syncope",
+    "Patients with recent palpitations",
+    "Asymptomatic patients",
+    "Patients with known atrial fibrillation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#7f0017",
+   "kind": "blank",
+   "stem": "Before surgery in Wolff-Parkinson-White syndrome, check the patient's ____.",
+   "answer": "electrolytes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#36be7d",
+   "kind": "statement",
+   "stem": "In Wolff-Parkinson-White syndrome, when should defibrillator pads be applied?",
+   "answer": "Before induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#4a0194",
+   "kind": "mcq",
+   "stem": "Which emergency antiarrhythmic drugs should be ready in theatre for Wolff-Parkinson-White syndrome?",
+   "options": [
+    "Verapamil and digoxin",
+    "Adenosine and atropine",
+    "Diltiazem and digoxin",
+    "Procainamide and amiodarone"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#809414",
+   "kind": "statement",
+   "stem": "In Wolff-Parkinson-White syndrome, what should be avoided to limit sympathetic stimulation?",
+   "answer": "Pain and anxiety",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#9d442f",
+   "kind": "statement",
+   "stem": "Why give adequate IV fluids in Wolff-Parkinson-White syndrome after prolonged fasting?",
+   "answer": "To avoid hypovolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#073edd",
+   "kind": "mcq",
+   "stem": "Which ECG monitoring is used intraoperatively in Wolff-Parkinson-White syndrome?",
+   "options": [
+    "3-lead ECG",
+    "7-lead ECG",
+    "5-lead ECG",
+    "12-lead ECG"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#8c39b2",
+   "kind": "statement",
+   "stem": "In Wolff-Parkinson-White syndrome, what is used to prevent shivering during surgery?",
+   "answer": "Temperature probe and forced-air warmer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#81f659",
+   "kind": "mcq",
+   "stem": "In orthodromic AVRT with Wolff-Parkinson-White, how often is IV verapamil 5 mg repeated?",
+   "options": [
+    "Every 1 min",
+    "Every 5 min",
+    "Every 10 min",
+    "Every 3 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#81f659",
+   "kind": "mcq",
+   "stem": "What is the maximum total IV verapamil dose in orthodromic AVRT with Wolff-Parkinson-White?",
+   "options": [
+    "20 mg",
+    "15 mg",
+    "30 mg",
+    "10 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#f75535",
+   "kind": "mcq",
+   "stem": "Which adenosine dose is given as a rapid bolus with flush in orthodromic AVRT in Wolff-Parkinson-White?",
+   "options": [
+    "1-2 mg IV over 1 min",
+    "150 mg IV over 10 min",
+    "20-50 mg/min IV infusion",
+    "6-12 mg IV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#ffb885",
+   "kind": "statement",
+   "stem": "What are the second-line drugs for orthodromic AVRT in Wolff-Parkinson-White syndrome?",
+   "answer": "Procainamide, beta blockers, amiodarone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#f7d706",
+   "kind": "mcq",
+   "stem": "What is the treatment for unstable antidromic AVRT in Wolff-Parkinson-White syndrome?",
+   "options": [
+    "IV verapamil",
+    "IV adenosine",
+    "Cardioversion",
+    "IV digoxin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#d033a1",
+   "kind": "mcq",
+   "stem": "Which IV drug is the choice for stable antidromic AVRT in Wolff-Parkinson-White syndrome?",
+   "options": [
+    "Procainamide",
+    "Verapamil",
+    "Digoxin",
+    "Adenosine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#d04087",
+   "kind": "mcq",
+   "stem": "What procainamide infusion rate is used for stable antidromic AVRT in Wolff-Parkinson-White?",
+   "options": [
+    "5 to 10 mg/min",
+    "100 to 150 mg/min",
+    "20 to 50 mg/min",
+    "1 to 2 mg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#d04087",
+   "kind": "mcq",
+   "stem": "How often should blood pressure be checked during procainamide for antidromic AVRT in Wolff-Parkinson-White?",
+   "options": [
+    "Every 5 to 10 min",
+    "Every 1 to 2 min",
+    "Every 30 to 60 min",
+    "Only at the end"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#7b6131",
+   "kind": "mcq",
+   "stem": "What is the maximum total procainamide dose in antidromic AVRT in Wolff-Parkinson-White syndrome?",
+   "options": [
+    "5 mg/kg",
+    "50 mg/kg",
+    "17 mg/kg",
+    "100 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#7b6131",
+   "kind": "mcq",
+   "stem": "Procainamide should be stopped in antidromic AVRT if which ECG change occurs?",
+   "options": [
+    "QRS narrows by more than 50%",
+    "QRS widens by more than 50%",
+    "PR interval shortens",
+    "QT interval shortens"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#912a19",
+   "kind": "statement",
+   "stem": "In antidromic AVRT with Wolff-Parkinson-White syndrome, which drug class should be avoided?",
+   "answer": "AV nodal blocking drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#2b591b",
+   "kind": "mcq",
+   "stem": "Which AV nodal blocker should be avoided in pre-excited AF in Wolff-Parkinson-White syndrome?",
+   "options": [
+    "Adenosine",
+    "Procainamide",
+    "Amiodarone",
+    "Ibutilide"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#f24a92",
+   "kind": "statement",
+   "stem": "What are the treatment goals for pre-excited AF in Wolff-Parkinson-White syndrome?",
+   "answer": "Rapid control of ventricular rate, ideally termination of AF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#b6d21e",
+   "kind": "statement",
+   "stem": "How should IV drugs be used for stable pre-excited AF in Wolff-Parkinson-White syndrome?",
+   "answer": "Careful trial of IV drugs; no clear first-line agent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#b3d008",
+   "kind": "mcq",
+   "stem": "What procainamide infusion rate is used for pre-excited AF in Wolff-Parkinson-White syndrome?",
+   "options": [
+    "5 to 10 mg/min",
+    "20 to 50 mg/min",
+    "100 to 150 mg/min",
+    "1 to 2 mg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#9c0b8a",
+   "kind": "mcq",
+   "stem": "What is the initial amiodarone loading dose for pre-excited AF in Wolff-Parkinson-White syndrome?",
+   "options": [
+    "300 mg over 1 hr",
+    "50 mg over 5 min",
+    "20 mg over 2 min",
+    "150 mg over 10 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#9c0b8a",
+   "kind": "statement",
+   "stem": "What amiodarone infusion follows the loading dose in pre-excited AF in Wolff-Parkinson-White syndrome?",
+   "answer": "1 mg/min for 6 hr",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/wolff-parkinson-white-syndrome#784f54",
+   "kind": "mcq",
+   "stem": "What is the ibutilide dose for pre-excited AF in Wolff-Parkinson-White syndrome in a patient over 60 kg?",
+   "options": [
+    "0.01 mg/kg over 1 min",
+    "0.1 mg/kg over 10 min",
+    "5 mg over 10 min",
+    "1 mg over 10 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

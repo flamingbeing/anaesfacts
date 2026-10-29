@@ -1,0 +1,989 @@
+{
+ "topic": "comorbidities/burns",
+ "questions": [
+  {
+   "fact_id": "comorbidities/burns#d08a48",
+   "kind": "statement",
+   "stem": "Which procedures does the anaesthetist give general anaesthesia for in burns care?",
+   "answer": "Debridement, dressings, skin grafting and escharotomy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#b7e5d2",
+   "kind": "mcq",
+   "stem": "In initial burn resuscitation, what comes before assessing severity?",
+   "options": [
+    "Calculate Baux score",
+    "Give IV steroids",
+    "Stabilise ABC",
+    "Assess burn depth"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#96d5f9",
+   "kind": "mcq",
+   "stem": "What two factors does the Baux score combine in burns assessment?",
+   "options": [
+    "Weight plus %BSA",
+    "Age plus %BSA",
+    "Age plus urine output",
+    "Depth plus %BSA"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#96d5f9",
+   "kind": "statement",
+   "stem": "Which four features are used to judge burn depth?",
+   "answer": "Colour, blanching, blisters, sensation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#d768d2",
+   "kind": "statement",
+   "stem": "In burns, which injury mechanism makes the airway a specific concern?",
+   "answer": "Inhalational injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#4b95b5",
+   "kind": "mcq",
+   "stem": "When is suxamethonium not contraindicated for RSI after a burn?",
+   "options": [
+    "Only after 72 hours",
+    "Within the first 24 hours",
+    "Only after 1 week",
+    "Never, at any time"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#fc01a4",
+   "kind": "statement",
+   "stem": "Besides the airway, which ABC element is affected by inhalational injury in burns?",
+   "answer": "Breathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#892c8b",
+   "kind": "mcq",
+   "stem": "What mechanism causes burn shock?",
+   "options": [
+    "Vasovagal reflex",
+    "Cardiac pump failure",
+    "Capillary leak",
+    "Wound haemorrhage"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#329288",
+   "kind": "statement",
+   "stem": "Under which primary survey heading are toxic gases assessed in burns?",
+   "answer": "Disability",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#8e0018",
+   "kind": "mcq",
+   "stem": "In burns with altered mental state, above what carboxyhaemoglobin level is 100% oxygen needed?",
+   "options": [
+    "COHb >5%",
+    "COHb >10%",
+    "COHb >20%",
+    "COHb >40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#8e0018",
+   "kind": "statement",
+   "stem": "What other toxicity should be considered with altered mental state or hypoxia after burns?",
+   "answer": "Cyanide toxicity.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#e9c2a6",
+   "kind": "mcq",
+   "stem": "In burns, which muscle breakdown condition causes hyperkalaemia and acute kidney injury?",
+   "options": [
+    "Pulmonary oedema",
+    "Pancreatitis",
+    "Rhabdomyolysis",
+    "Hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#78b1e8",
+   "kind": "mcq",
+   "stem": "Which survey in burns care looks for injuries other than the burn?",
+   "options": [
+    "Burn depth chart",
+    "Secondary survey",
+    "Fluid balance review",
+    "Urine output chart"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#4f0df1",
+   "kind": "statement",
+   "stem": "After emergency burn surgery, what should happen to the airway?",
+   "answer": "Keep the patient intubated.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#022fa4",
+   "kind": "mcq",
+   "stem": "In burns ICU airway care, which drug class is used to reduce oedema?",
+   "options": [
+    "Diuretics",
+    "Anticoagulants",
+    "Steroids",
+    "Beta blockers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#c474c8",
+   "kind": "statement",
+   "stem": "What breathing strategy is used in the burns ICU for lung injury?",
+   "answer": "ARDS strategy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#eca465",
+   "kind": "mcq",
+   "stem": "Which urine output target, in ml/kg/hr, guides burns ICU care?",
+   "options": [
+    "0.1-0.2ml/kg/hr",
+    "0.5-1ml/kg/hr",
+    "2-3ml/kg/hr",
+    "5-10ml/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#be5688",
+   "kind": "statement",
+   "stem": "Why does nutrition need special attention in burns ICU patients?",
+   "answer": "Hypermetabolic state.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#f1a1d1",
+   "kind": "statement",
+   "stem": "What is one opioid-related consideration in burns pain management?",
+   "answer": "Opioid tolerance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#4dbb2d",
+   "kind": "mcq",
+   "stem": "If a BP cuff and SpO2 probe are hard to place on burnt limbs, what monitoring is suggested?",
+   "options": [
+    "Central venous catheter",
+    "Arterial line",
+    "Pulmonary artery catheter",
+    "Oesophageal Doppler"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#62aca0",
+   "kind": "statement",
+   "stem": "Some anaesthetists use which induction method for burn debridement, because it counts as trauma?",
+   "answer": "RSI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#015086",
+   "kind": "mcq",
+   "stem": "In burns care, which antibiotic do some consultants prefer?",
+   "options": [
+    "Gentamicin",
+    "Vancomycin",
+    "Co-amoxiclav",
+    "Metronidazole"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#fdcb54",
+   "kind": "statement",
+   "stem": "Which trauma framework should guide burn management?",
+   "answer": "ATLS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#00878a",
+   "kind": "mcq",
+   "stem": "Which relaxant is contraindicated after the first 24 hours of a burn?",
+   "options": [
+    "Cisatracurium",
+    "Atracurium",
+    "Suxamethonium",
+    "Vecuronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#8bd89e",
+   "kind": "mcq",
+   "stem": "When does the hypermetabolic (flow) phase of burns develop?",
+   "options": [
+    "Within 1 to 6 hours",
+    "24 to 48 h after injury",
+    "48 to 72 h after injury",
+    "7 to 10 days after injury"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#6985ab",
+   "kind": "statement",
+   "stem": "What features characterise the hypermetabolic phase of a burn?",
+   "answer": "Higher oxygen use, CO2 production and protein wasting.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#a458f6",
+   "kind": "mcq",
+   "stem": "How many systemic phases does burn pathophysiology have?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#f0ead4",
+   "kind": "statement",
+   "stem": "How does burn depth behave after the initial assessment?",
+   "answer": "It may evolve.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#1d165c",
+   "kind": "statement",
+   "stem": "When estimating burn extent as %TBSA, which burn depth is excluded?",
+   "answer": "First-degree burns",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#b3da65",
+   "kind": "mcq",
+   "stem": "In burn airway management, which head position aids drainage?",
+   "options": [
+    "Head flat, fully supine",
+    "Head down 15 degrees",
+    "Head up 60-90 degrees",
+    "Head up 30-45 degrees"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#27f3b9",
+   "kind": "blank",
+   "stem": "Burn patients have a higher risk of failed ____.",
+   "answer": "intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#f6ec6f",
+   "kind": "mcq",
+   "stem": "After a burn, when is suxamethonium contraindicated?",
+   "options": [
+    "Within 2 hours of the burn",
+    "Within the first 6 hours",
+    "More than 24 hours after the burn",
+    "Only in the first 12 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#23a893",
+   "kind": "mcq",
+   "stem": "For how long after a burn does the suxamethonium risk persist?",
+   "options": [
+    "Up to 1 month after the burn",
+    "Up to 3 months after the burn",
+    "Up to 6 months after the burn",
+    "Up to 1 year after the burn"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#453124",
+   "kind": "statement",
+   "stem": "Which burn sites and extent usually come with inhalational injury?",
+   "answer": "Face, neck and chest burns with large %TBSA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#30ad7c",
+   "kind": "mcq",
+   "stem": "In inhalational injury, how soon can airway swelling develop?",
+   "options": [
+    "Within minutes of the burn",
+    "Usually within 24 hours",
+    "It may take hours to develop",
+    "Only after several days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#d9560a",
+   "kind": "statement",
+   "stem": "Why does thermal injury in inhalational burns usually stay in the supraglottis?",
+   "answer": "Dry air holds little heat, and the upper airway dissipates it well",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#893a84",
+   "kind": "statement",
+   "stem": "Which upper-airway signs suggest inhalational injury?",
+   "answer": "Oropharyngeal oedema, facial swelling, hoarseness, stridor, obstruction, drooling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#58e4b6",
+   "kind": "statement",
+   "stem": "What late problem can scarring from inhalational injury cause for airway access?",
+   "answer": "Limited mouth opening and neck extension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#88d5e1",
+   "kind": "statement",
+   "stem": "Below the glottis, what mainly causes injury in inhalational burns?",
+   "answer": "Chemical injury (direct and inflammatory), causing pulmonary oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#29dd61",
+   "kind": "statement",
+   "stem": "Which lower-airway signs suggest inhalational injury?",
+   "answer": "Dyspnoea, cough, wheeze, copious secretions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#2bfcfb",
+   "kind": "statement",
+   "stem": "What late lung complication can inhalational injury cause?",
+   "answer": "Lung fibrosis and restrictive disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#e709ce",
+   "kind": "mcq",
+   "stem": "In inhalational injury, what oxygen regimen is given to all patients?",
+   "options": [
+    "Low-flow 28% oxygen via Venturi mask",
+    "Nasal cannula 2 litres per minute",
+    "Room air until blood gas results",
+    "High-flow 100% oxygen via non-rebreather mask"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#18d9f7",
+   "kind": "mcq",
+   "stem": "What does 100% oxygen do to carbon monoxide's elimination half-life?",
+   "options": [
+    "From 4 h to about 2 h",
+    "From 8 h to under 4 h",
+    "From 4 h to under 1 h",
+    "From 2 h to under 30 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#ae13e7",
+   "kind": "mcq",
+   "stem": "At 3 atmospheres, what does hyperbaric oxygen do to carbon monoxide's half-life?",
+   "options": [
+    "Cuts it to about 2 hours",
+    "Cuts it to under 30 minutes",
+    "Leaves it unchanged at 4 hours",
+    "Lengthens it beyond 8 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#5b67c0",
+   "kind": "statement",
+   "stem": "Cyanide is released when which materials burn?",
+   "answer": "Nitrogen-containing materials",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#004e2d",
+   "kind": "statement",
+   "stem": "Why is early intubation favoured in inhalational injury?",
+   "answer": "Before fluid resuscitation worsens oedema, which may take hours to develop",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#ec3258",
+   "kind": "statement",
+   "stem": "What usually causes early airway compromise in burn patients?",
+   "answer": "A low GCS, not the burn itself",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#0894e6",
+   "kind": "statement",
+   "stem": "What does fibreoptic nasolaryngoscopy under local anaesthetic show in inhalational injury?",
+   "answer": "Soot, erythema or swelling of the pharynx, aryepiglottic folds and cords",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#58faf8",
+   "kind": "statement",
+   "stem": "What signs does fibreoptic bronchoscopy show in the lower airway in inhalational injury?",
+   "answer": "Soot, oedema, erythema, haemorrhage, ulceration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#21be3a",
+   "kind": "mcq",
+   "stem": "Which lavage solution has been used to neutralise acid deposits in inhalational injury?",
+   "options": [
+    "1.4% bicarbonate",
+    "0.9% saline",
+    "5% dextrose",
+    "0.45% saline"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#d3273d",
+   "kind": "statement",
+   "stem": "Which acute lung syndrome can major skin burns cause?",
+   "answer": "ARDS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#f5b91f",
+   "kind": "statement",
+   "stem": "What do circumferential deep dermal or full-thickness chest burns do to breathing?",
+   "answer": "Restrict chest movement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#d10e71",
+   "kind": "mcq",
+   "stem": "Where should a burn patient's cannula be placed?",
+   "options": [
+    "Only at the usual sites",
+    "Through unburnt skin",
+    "Through the burnt skin",
+    "Only into central veins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#3558bb",
+   "kind": "mcq",
+   "stem": "In a burn patient, what does early shock usually indicate?",
+   "options": [
+    "Hypovolaemia from the burn itself",
+    "Carbon monoxide poisoning",
+    "Bleeding elsewhere",
+    "Hypoglycaemia from the burn"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#389d14",
+   "kind": "mcq",
+   "stem": "How do major burns cause hypovolaemia?",
+   "options": [
+    "Bleeding from the burn wound",
+    "Renal salt wasting",
+    "Reduced oral intake",
+    "Capillary leak"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#57be57",
+   "kind": "mcq",
+   "stem": "What IV crystalloid bolus is given to a burn patient in shock?",
+   "options": [
+    "20ml/kg",
+    "10ml/kg",
+    "5ml/kg",
+    "50ml/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#6f543c",
+   "kind": "mcq",
+   "stem": "What is the Parkland starting fluid rate for burns?",
+   "options": [
+    "2 ml/kg/(%burn)",
+    "0.5 ml/kg/hr",
+    "4 ml/kg/(%burn)",
+    "10 ml/kg/(%burn)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#b338de",
+   "kind": "mcq",
+   "stem": "Which starting fluid formula does the American Burn Association now advise for second- and third-degree burns?",
+   "options": [
+    "4ml x weight in kg x %TBSA",
+    "2ml x weight in kg x %TBSA",
+    "0.5ml x weight in kg x %TBSA",
+    "2ml x weight in kg per hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#2c3ab3",
+   "kind": "statement",
+   "stem": "How should burn fluid formulas be used in practice?",
+   "answer": "Only as a starting point; catheterise and titrate to urine output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#c02ea2",
+   "kind": "mcq",
+   "stem": "What urine output target does ATLS give for adults with burns?",
+   "options": [
+    "1 mL/kg/hr",
+    "2 mL/kg/hr",
+    "0.5 mL/kg/hr",
+    "3 mL/kg/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#c02ea2",
+   "kind": "mcq",
+   "stem": "What urine output target does ATLS give for children under 30 kg with burns?",
+   "options": [
+    "0.5 mL/kg/hr",
+    "0.25 mL/kg/hr",
+    "2 mL/kg/hr",
+    "1 mL/kg/hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#f2a2d1",
+   "kind": "mcq",
+   "stem": "Which crystalloid is the fluid of choice in burn resuscitation?",
+   "options": [
+    "0.9% saline",
+    "Hartmann's solution",
+    "5% dextrose",
+    "Starch colloid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#ae6c2a",
+   "kind": "mcq",
+   "stem": "What target urine output range is used in burn resuscitation?",
+   "options": [
+    "0.1-0.2ml/kg",
+    "2-3ml/kg",
+    "0.5-1ml/kg",
+    "5-10ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#a87e8c",
+   "kind": "statement",
+   "stem": "Which electrolytes are commonly low in burn patients?",
+   "answer": "Potassium, phosphate, calcium and magnesium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#195927",
+   "kind": "statement",
+   "stem": "How should a burn patient be examined to estimate %TBSA and depth?",
+   "answer": "Fully, including the back, using a log roll",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#b7e11c",
+   "kind": "statement",
+   "stem": "What should be done early because burn patients cool quickly?",
+   "answer": "Cover and warm them early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#2f3c23",
+   "kind": "mcq",
+   "stem": "At what burn size does a systemic, hypermetabolic response occur?",
+   "options": [
+    "TBSA >5%",
+    "TBSA >10%",
+    "TBSA >15%",
+    "TBSA >20%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#217e9f",
+   "kind": "mcq",
+   "stem": "After a burn, when does the metabolic rate peak?",
+   "options": [
+    "2–3 days",
+    "7–10 days",
+    "3–4 weeks",
+    "5–6 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#217e9f",
+   "kind": "mcq",
+   "stem": "For how long can the hypermetabolic response after a burn last?",
+   "options": [
+    "1-2 days",
+    "1-2 weeks",
+    "1-2 months",
+    "1-2 yr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#ab775d",
+   "kind": "mcq",
+   "stem": "In burn patients, which sepsis source is linked to nasogastric tubes?",
+   "options": [
+    "Urinary tract",
+    "Eyes",
+    "Sinuses and middle ear",
+    "Burn wound"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#165bcb",
+   "kind": "statement",
+   "stem": "Which other complications of burns involve muscle breakdown?",
+   "answer": "Myoglobinuria and AKI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#9c936a",
+   "kind": "statement",
+   "stem": "What can prevent stress ulcers in burn patients?",
+   "answer": "Early enteral feeding or a PPI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#b42587",
+   "kind": "mcq",
+   "stem": "In burn patients, what does early enteral feeding improve?",
+   "options": [
+    "Urine output",
+    "Blood glucose control",
+    "Survival",
+    "Platelet count"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#b42587",
+   "kind": "statement",
+   "stem": "What do high-protein, high-carbohydrate feeds prevent in burn patients?",
+   "answer": "Protein loss, poor healing, immunosuppression and infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#67184a",
+   "kind": "mcq",
+   "stem": "Where should complex burns be managed?",
+   "options": [
+    "Any general ward",
+    "A general intensive care unit",
+    "A burns unit",
+    "Theatre recovery only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#11b710",
+   "kind": "statement",
+   "stem": "Which substitutes are used for burn grafting when donor skin is short?",
+   "answer": "Skin substitutes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#c7e367",
+   "kind": "statement",
+   "stem": "What does the anaesthetic plan for burn debridement and grafting depend on?",
+   "answer": "%TBSA, systemic illness and the area to be debrided and grafted",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#8ead16",
+   "kind": "mcq",
+   "stem": "For burn excision, how much blood loss should be planned per % area excised?",
+   "options": [
+    "5–10 ml",
+    "10–20 ml",
+    "100–200 ml",
+    "50–100 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#20ea5d",
+   "kind": "mcq",
+   "stem": "Why is suxamethonium avoided in burn patients more than 24 hours after injury?",
+   "options": [
+    "Exaggerated hypokalaemia",
+    "Reduced neuromuscular block",
+    "Exaggerated hyperkalaemia",
+    "Excess bronchial secretions"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#038b21",
+   "kind": "statement",
+   "stem": "How do burn patients typically respond to non-depolarising relaxants?",
+   "answer": "Resistance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#db1dde",
+   "kind": "mcq",
+   "stem": "In burn patients, from which days after injury do relaxant doses often need to be much higher?",
+   "options": [
+    "6 to 12 hours after injury",
+    "9 to 12 months after injury",
+    "3 to 7 days after injury",
+    "1 to 2 years after injury"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#2eb804",
+   "kind": "statement",
+   "stem": "Which receptor change contributes to relaxant resistance in burn patients?",
+   "answer": "Up-regulation of fetal and alpha7 (neuronal) receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#3ce161",
+   "kind": "statement",
+   "stem": "Which protein do drugs bind to more after burns, speeding their elimination?",
+   "answer": "Alpha1-acid glycoprotein (AAG)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#d9e3b2",
+   "kind": "mcq",
+   "stem": "What rocuronium dose is suggested for RSI in major burns?",
+   "options": [
+    "0.6 mg/kg",
+    "0.9 to 1.2 mg/kg",
+    "1.2 to 1.5 mg/kg",
+    "2 to 2.5 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#562ffa",
+   "kind": "mcq",
+   "stem": "How long is rocuronium onset at 1.5 mg/kg in burn patients?",
+   "options": [
+    "Under 60 seconds",
+    "About 3 minutes",
+    "About 5 minutes",
+    "About 90 seconds"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#cf2eb1",
+   "kind": "statement",
+   "stem": "How may drug clearance change early after a burn?",
+   "answer": "It may fall early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#bb6b74",
+   "kind": "statement",
+   "stem": "What reduces propofol's hypnotic effect in the hyperdynamic phase of burns?",
+   "answer": "Higher clearance and volume of distribution, plus central changes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#2a9ad3",
+   "kind": "mcq",
+   "stem": "In burns, which depth is typically painless?",
+   "options": [
+    "Superficial burns",
+    "Deep partial-thickness burns",
+    "Full-thickness burns",
+    "Superficial dermal burns"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#dad40d",
+   "kind": "statement",
+   "stem": "Which drug helps acute perioperative pain in burns, alongside the usual analgesic ladder?",
+   "answer": "Ketamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/burns#b3f697",
+   "kind": "statement",
+   "stem": "What limits the use of regional anaesthesia in burn patients?",
+   "answer": "Large areas and infection risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

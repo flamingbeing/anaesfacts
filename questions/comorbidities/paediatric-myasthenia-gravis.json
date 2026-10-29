@@ -1,0 +1,607 @@
+{
+ "topic": "comorbidities/paediatric-myasthenia-gravis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#0ffd34",
+   "kind": "statement",
+   "stem": "In paediatric myasthenia gravis, what do the IgG antibodies target at the neuromuscular junction?",
+   "answer": "Postsynaptic nicotinic acetylcholine receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#745db3",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, what three effects do the antibodies have on acetylcholine receptors?",
+   "answer": "Block acetylcholine binding, speed receptor breakdown, cause complement damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#5a5652",
+   "kind": "mcq",
+   "stem": "In paediatric myasthenia gravis, what is the typical pattern of weakness?",
+   "options": [
+    "Constant weakness that is worse at rest",
+    "Weakness and fatigue after exertion",
+    "Painful cramps on waking",
+    "Sensory loss in a glove pattern"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#47b59f",
+   "kind": "mcq",
+   "stem": "What is the approximate prevalence of myasthenia gravis in the general population?",
+   "options": [
+    "1:1000",
+    "1:10000",
+    "1:100000",
+    "1:500"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#47b59f",
+   "kind": "mcq",
+   "stem": "In paediatric myasthenia gravis, what proportion of cases have onset before age 16?",
+   "options": [
+    "about 2%",
+    "about 25%",
+    "about 11%",
+    "about 50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#97f9ae",
+   "kind": "statement",
+   "stem": "What are the three childhood forms of myasthenia gravis?",
+   "answer": "Juvenile, transient neonatal, congenital",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#1890f0",
+   "kind": "mcq",
+   "stem": "In juvenile myasthenia gravis, how often are girls affected compared with boys?",
+   "options": [
+    "Equally often",
+    "Twice as often",
+    "4 times as often",
+    "Half as often"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#68e075",
+   "kind": "statement",
+   "stem": "What is the commonest presentation of juvenile myasthenia gravis?",
+   "answer": "Ocular: strabismus, ptosis, diplopia, ophthalmoplegia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#e7545c",
+   "kind": "mcq",
+   "stem": "If juvenile myasthenia gravis is confined to the eye muscles, what proportion remit spontaneously?",
+   "options": [
+    "about 10%",
+    "about 30%",
+    "about 70%",
+    "about 95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#c7a53d",
+   "kind": "statement",
+   "stem": "Besides the eye muscles, what other weakness patterns can juvenile myasthenia gravis start with?",
+   "answer": "Bulbar, facial, generalised limb, or rarely respiratory weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#6b96ff",
+   "kind": "statement",
+   "stem": "What factors can worsen juvenile myasthenia gravis?",
+   "answer": "Infection, fever, surgery, emotional stress, and drugs such as aminoglycosides and anticonvulsants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#54c667",
+   "kind": "mcq",
+   "stem": "Which thymic finding is typical in juvenile myasthenia gravis?",
+   "options": [
+    "Thymic atrophy",
+    "Thymic lymphoma",
+    "Thymic hyperplasia",
+    "Thymic calcification"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#c5e487",
+   "kind": "statement",
+   "stem": "Name three autoimmune diseases often seen with juvenile myasthenia gravis.",
+   "answer": "Thyroiditis, SLE, rheumatoid arthritis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#a62269",
+   "kind": "mcq",
+   "stem": "In the edrophonium test for juvenile myasthenia gravis, how long does the improvement in strength last?",
+   "options": [
+    "about 30 seconds",
+    "about 5 min",
+    "about 2 hours",
+    "about 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#5b281a",
+   "kind": "mcq",
+   "stem": "What does a negative acetylcholine receptor antibody radioimmunoassay mean in juvenile myasthenia gravis?",
+   "options": [
+    "It rules out the disease",
+    "It confirms the disease",
+    "It does not exclude the disease",
+    "It indicates a thymoma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#f1339c",
+   "kind": "statement",
+   "stem": "What nerve study finding supports the diagnosis of juvenile myasthenia gravis?",
+   "answer": "Decrement with repetitive nerve stimulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#ae55de",
+   "kind": "mcq",
+   "stem": "Which drug class is first-line treatment for juvenile myasthenia gravis?",
+   "options": [
+    "Corticosteroids",
+    "Plasmapheresis",
+    "Thymectomy",
+    "Anticholinesterases"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#df9462",
+   "kind": "mcq",
+   "stem": "What is the usual initial dose of pyridostigmine bromide in juvenile myasthenia gravis?",
+   "options": [
+    "0.1 mg/kg 4-hourly",
+    "1 mg/kg 4-hourly",
+    "10 mg/kg 4-hourly",
+    "1 mg/kg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#df9462",
+   "kind": "statement",
+   "stem": "Why is pyridostigmine preferred over neostigmine in juvenile myasthenia gravis?",
+   "answer": "Longer half-life and fewer side effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#82d409",
+   "kind": "statement",
+   "stem": "When are steroids used in juvenile myasthenia gravis?",
+   "answer": "Short term, for exacerbations not controlled by more anticholinesterase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#63df7d",
+   "kind": "statement",
+   "stem": "What does plasmapheresis do in juvenile myasthenia gravis?",
+   "answer": "Removes the antibodies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#1c76e3",
+   "kind": "statement",
+   "stem": "When is IV immunoglobulin used in juvenile myasthenia gravis?",
+   "answer": "Before surgery or in crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#676d61",
+   "kind": "mcq",
+   "stem": "After thymectomy in juvenile myasthenia gravis, what proportion achieve marked improvement or remission?",
+   "options": [
+    "10-20%",
+    "30-40%",
+    "60-90%",
+    "95-100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#5dffc2",
+   "kind": "mcq",
+   "stem": "What proportion of infants of myasthenic mothers develop transient neonatal myasthenia gravis?",
+   "options": [
+    "5%",
+    "15%",
+    "40%",
+    "60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#5dffc2",
+   "kind": "statement",
+   "stem": "Why do infants of myasthenic mothers get transient neonatal myasthenia gravis?",
+   "answer": "Maternal antibodies cross the placenta",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#af6a1a",
+   "kind": "mcq",
+   "stem": "When does transient neonatal myasthenia gravis usually start?",
+   "options": [
+    "Within the first few hours",
+    "Within the first few weeks",
+    "Before birth, in utero",
+    "At about six months"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#6f01c6",
+   "kind": "statement",
+   "stem": "What features suggest transient neonatal myasthenia gravis?",
+   "answer": "Hypotonia, generalised weakness, poor feeding, apnoeas, respiratory distress, facial weakness, ptosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#bffb69",
+   "kind": "mcq",
+   "stem": "Which test may confirm transient neonatal myasthenia gravis?",
+   "options": [
+    "Suxamethonium",
+    "Atropine",
+    "Edrophonium",
+    "Lumbar puncture"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#289aef",
+   "kind": "mcq",
+   "stem": "Which drug is used in transient neonatal myasthenia gravis, alongside supportive care?",
+   "options": [
+    "Neostigmine",
+    "Ciclosporin",
+    "Atropine",
+    "Azathioprine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#15b1ed",
+   "kind": "mcq",
+   "stem": "How long does transient neonatal myasthenia gravis usually take to improve?",
+   "options": [
+    "1-2 days",
+    "4-6 weeks",
+    "6-12 months",
+    "2-3 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#15b1ed",
+   "kind": "statement",
+   "stem": "Does transient neonatal myasthenia gravis raise the risk of myasthenia later in life?",
+   "answer": "No higher risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#f0750a",
+   "kind": "mcq",
+   "stem": "How is congenital myasthenia gravis inherited?",
+   "options": [
+    "Autosomal dominant",
+    "Autosomal recessive",
+    "X-linked recessive",
+    "Mitochondrial"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#6a2649",
+   "kind": "mcq",
+   "stem": "When does congenital myasthenia gravis often present?",
+   "options": [
+    "Usually in middle age",
+    "Often at birth",
+    "Only after age five",
+    "Always in adolescence"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#af0063",
+   "kind": "statement",
+   "stem": "What features does a newborn with congenital myasthenia gravis typically show?",
+   "answer": "Severe weakness, hypotonia, recurrent apnoeas, poor feeding, ocular weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#345a1a",
+   "kind": "mcq",
+   "stem": "How do children with congenital myasthenia gravis respond to anticholinesterases?",
+   "options": [
+    "Variable response",
+    "Full recovery",
+    "No response at all",
+    "Worsening in all cases"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#4210c5",
+   "kind": "statement",
+   "stem": "Which teams should be involved in preoperative planning for paediatric myasthenia gravis?",
+   "answer": "Neurology, surgery, intensive care, and anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#cd1cfc",
+   "kind": "mcq",
+   "stem": "Which test assesses respiratory involvement before surgery in paediatric myasthenia gravis?",
+   "options": [
+    "Electrocardiogram",
+    "Echocardiogram",
+    "Blood glucose",
+    "Lung function tests"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#8ba4eb",
+   "kind": "statement",
+   "stem": "If weakness is severe before surgery in paediatric myasthenia gravis, what treatments are given?",
+   "answer": "IVIG or plasmapheresis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#cdc4c3",
+   "kind": "statement",
+   "stem": "What should happen to anticholinesterases the night before surgery in paediatric myasthenia gravis?",
+   "answer": "Omit them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#9778e5",
+   "kind": "statement",
+   "stem": "A child with myasthenia gravis on steroids may need what during surgery?",
+   "answer": "An extra intraoperative steroid dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#b8bada",
+   "kind": "statement",
+   "stem": "Why is intubation and ventilation usually used for paediatric myasthenia gravis surgery?",
+   "answer": "Most anaesthetic agents depress breathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#65e8d0",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker should be avoided in paediatric myasthenia gravis?",
+   "options": [
+    "Atracurium",
+    "Rocuronium",
+    "Suxamethonium",
+    "Mivacurium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#571dc0",
+   "kind": "mcq",
+   "stem": "In paediatric myasthenia gravis, resistance to neuromuscular blockers often needs what dose?",
+   "options": [
+    "1-2 times the normal dose",
+    "3-4 times the normal dose",
+    "Half the normal dose",
+    "Same as the normal dose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#0854b9",
+   "kind": "statement",
+   "stem": "Under what condition are non-depolarising relaxants safe in paediatric myasthenia gravis?",
+   "answer": "If titrated with neuromuscular monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#dad622",
+   "kind": "mcq",
+   "stem": "What dose of atracurium or mivacurium is preferred in paediatric myasthenia gravis?",
+   "options": [
+    "10-20% of the normal dose",
+    "50% of the normal dose",
+    "3-4 times the normal dose",
+    "Double the normal dose"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#7b3e4e",
+   "kind": "statement",
+   "stem": "Which bedside tests assess muscle weakness in paediatric myasthenia gravis?",
+   "answer": "5 sec head lift, vital capacity, inspiratory force",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#d2929c",
+   "kind": "statement",
+   "stem": "In paediatric myasthenia gravis, can intubation and surgery often be done without relaxants?",
+   "answer": "Yes, often",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#f3d631",
+   "kind": "mcq",
+   "stem": "Which intraoperative factor worsens weakness in paediatric myasthenia gravis?",
+   "options": [
+    "Warm operating theatre",
+    "Hypothermia",
+    "Paracetamol",
+    "Dexamethasone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#78a469",
+   "kind": "statement",
+   "stem": "Which analgesic options are suitable in paediatric myasthenia gravis?",
+   "answer": "Opioid infusion or PCA, regional, NSAIDs, paracetamol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#1aa335",
+   "kind": "statement",
+   "stem": "After surgery in paediatric myasthenia gravis, how soon should oral anticholinesterase be restarted?",
+   "answer": "As soon as possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#56d41a",
+   "kind": "statement",
+   "stem": "After surgery in paediatric myasthenia gravis with ileus, which IV drug is titrated slowly?",
+   "answer": "Neostigmine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#d6806d",
+   "kind": "mcq",
+   "stem": "In paediatric myasthenia gravis, what oral pyridostigmine dose equals 1 mg IV neostigmine?",
+   "options": [
+    "10 mg",
+    "30 mg",
+    "60 mg",
+    "100 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#0e467f",
+   "kind": "mcq",
+   "stem": "Which test helps tell myasthenic from cholinergic crisis after surgery in paediatric myasthenia gravis?",
+   "options": [
+    "Atropine",
+    "Neostigmine",
+    "Suxamethonium",
+    "Edrophonium"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#f5adae",
+   "kind": "statement",
+   "stem": "What treatments may some children need for postoperative weakness in paediatric myasthenia gravis?",
+   "answer": "Immunoglobulin, plasmapheresis or neostigmine infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-myasthenia-gravis#744773",
+   "kind": "mcq",
+   "stem": "After major body cavity surgery in paediatric myasthenia gravis, what care should be available?",
+   "options": [
+    "Ward bed with routine observations",
+    "ICU or HDU",
+    "Day-case recovery area",
+    "Theatre recovery only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
