@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Precedex, dexmed, alpha-2 agonist]
+related: [drugs/clonidine, drugs/atipamezole, drugs/analgesic-adjuncts, physiology/adrenergic-and-dopamine-receptors]
 sources: []
 tags: [alpha-2-agonist, sedation, analgesic-adjunct, sympatholytic]
 ---
@@ -104,12 +106,28 @@ Highly selective full alpha-2 agonist (Precedex) giving rousable sedation and an
 - Hepatic metabolism to inactive metabolites, excreted renally
   - Consider dose reduction in hepatic impairment
 
+## Flashcards
+- Q: What is the IV loading dose of dexmedetomidine?
+  - A: 0.5-1 mcg/kg over 10-20 mins
+- Q: What is the sedation infusion rate of dexmedetomidine?
+  - A: 0.2-0.7 mcg/kg/hr
+- Q: What is the alpha-2:alpha-1 ratio of dexmedetomidine?
+  - A: 1600:1
+- Q: What is the intranasal premedication dose of dexmedetomidine?
+  - A: 1-2 mcg/kg
+- Q: When should dexmedetomidine be switched off?
+  - A: 1-2 h before the end of surgery to avoid delayed waking
+
 <!-- related:start (generated) -->
 ## Related
-- [Perioperative Hypertension and Hypotensive Anaesthesia](../comorbidities/perioperative-hypertension.md)
+- [Clonidine](clonidine.md)
+- [Atipamezole](atipamezole.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
+- [Adrenergic and dopamine receptors](../physiology/adrenergic-and-dopamine-receptors.md)
+- [Perioperative Hypertension and Hypotensive Anaesthesia](../comorbidities/perioperative-hypertension.md)
 - [General Anaesthesia](../physiology/general-anaesthesia.md)
 - [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
 - [Drug-Induced Sleep Endoscopy (DISE)](../procedures/drug-induced-sleep-endoscopy.md)
+- [Intraoperative analgesia and nociception monitoring](../procedures/intraoperative-analgesia.md)
 - [Rebound Pain and Perineural Adjuncts](../regional/rebound-pain-perineural-adjuncts.md)
 <!-- related:end -->

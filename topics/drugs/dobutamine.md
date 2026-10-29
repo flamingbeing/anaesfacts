@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: []
+related: [drugs/dopamine, drugs/milrinone, drugs/levosimendan, drugs/noradrenaline, drugs/vasopressors-in-critical-care]
 sources: []
 tags: [inotrope, catecholamine, inodilator]
 ---
@@ -61,13 +63,27 @@ Synthetic catecholamine and inodilator: mainly β1, some β2 (about 3:1), weak �
 - Metabolised by COMT to inactive metabolites
 - Half-life about 2 min
 
+## Flashcards
+- Q: What is the starting dose of dobutamine?
+  - A: 3–5 mcg/kg/min
+- Q: What is the usual dose range of dobutamine?
+  - A: 5–20 mcg/kg/min
+- Q: What are the contraindications to dobutamine?
+  - A: Aortic stenosis, HOCM, cardiac tamponade
+- Q: How is dobutamine metabolised?
+  - A: By COMT to inactive metabolites; half-life about 2 min
+- Q: What is the beta-1:beta-2 ratio of dobutamine?
+  - A: About 3:1
+
 <!-- related:start (generated) -->
 ## Related
 - [Dopamine](dopamine.md)
+- [Milrinone](milrinone.md)
+- [Levosimendan](levosimendan.md)
+- [Noradrenaline](noradrenaline.md)
+- [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
+- [Adrenaline (Epinephrine)](adrenaline.md)
 - [Dopexamine](dopexamine.md)
 - [Enoximone](enoximone.md)
 - [Isoprenaline](isoprenaline.md)
-- [Levosimendan](levosimendan.md)
-- [Milrinone](milrinone.md)
-- [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
 <!-- related:end -->

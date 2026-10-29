@@ -3538,8 +3538,17 @@
    "smoke-inhalation",
    "burns"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "CO poisoning",
+   "carboxyhaemoglobin",
+   "COHb"
+  ],
+  "related": [
+   "drugs/oxygen",
+   "comorbidities/burns",
+   "crises/cholinergic-crisis",
+   "drugs/sodium-bicarbonate"
+  ]
  },
  {
   "path": "topics/crises/cholinergic-crisis.md",
@@ -3553,8 +3562,18 @@
    "poisoning",
    "atropine"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "organophosphate poisoning",
+   "SLUDGE",
+   "OP poisoning"
+  ],
+  "related": [
+   "drugs/acetylcholinesterase-inhibitors",
+   "drugs/atropine",
+   "drugs/anticholinergics",
+   "drugs/glycopyrrolate",
+   "comorbidities/myasthenia-gravis"
+  ]
  },
  {
   "path": "topics/crises/fat-embolism-syndrome.md",
@@ -3643,8 +3662,19 @@
    "neuromuscular-blockade",
    "edrophonium"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "anticholinesterases",
+   "cholinesterase inhibitors",
+   "AChE inhibitors",
+   "AChEI"
+  ],
+  "related": [
+   "drugs/neostigmine",
+   "drugs/pyridostigmine",
+   "crises/cholinergic-crisis",
+   "drugs/anticholinergics",
+   "physiology/acetylcholine-and-cholinergic-receptors"
+  ]
  },
  {
   "path": "topics/drugs/adenosine.md",
@@ -3657,8 +3687,16 @@
    "svt",
    "purine"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Adenocor",
+   "Adenocard"
+  ],
+  "related": [
+   "drugs/antiarrhythmics",
+   "drugs/verapamil",
+   "comorbidities/arrhythmias",
+   "drugs/theophylline-and-aminophylline"
+  ]
  },
  {
   "path": "topics/drugs/adrenaline.md",
@@ -3673,8 +3711,17 @@
    "anaphylaxis",
    "cardiac-arrest"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "epinephrine",
+   "Epi"
+  ],
+  "related": [
+   "drugs/noradrenaline",
+   "drugs/dobutamine",
+   "drugs/isoprenaline",
+   "drugs/vasopressors-in-critical-care",
+   "physiology/adrenergic-and-dopamine-receptors"
+  ]
  },
  {
   "path": "topics/drugs/alfentanil.md",
@@ -3709,8 +3756,16 @@
    "ester",
    "topical"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "tetracaine",
+   "Ametop"
+  ],
+  "related": [
+   "drugs/topical-cutaneous-anaesthesia",
+   "drugs/local-anaesthetics",
+   "drugs/local-anaesthetics-overview",
+   "procedures/cataract-surgery"
+  ]
  },
  {
   "path": "topics/drugs/amiodarone.md",
@@ -3723,8 +3778,16 @@
    "class-iii",
    "potassium-channel-blocker"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Cordarone"
+  ],
+  "related": [
+   "drugs/antiarrhythmics",
+   "drugs/sotalol",
+   "drugs/digoxin",
+   "comorbidities/atrial-fibrillation",
+   "comorbidities/arrhythmias"
+  ]
  },
  {
   "path": "topics/drugs/analgesic-adjuncts.md",
@@ -3763,8 +3826,17 @@
    "cardiovascular",
    "arrhythmia"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "antiarrhythmic drugs",
+   "Vaughan-Williams classification"
+  ],
+  "related": [
+   "drugs/amiodarone",
+   "drugs/flecainide",
+   "drugs/sotalol",
+   "drugs/digoxin",
+   "comorbidities/arrhythmias"
+  ]
  },
  {
   "path": "topics/drugs/anticholinergics.md",
@@ -3778,8 +3850,17 @@
    "drug-class",
    "atropine"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "antimuscarinics",
+   "muscarinic antagonists"
+  ],
+  "related": [
+   "drugs/atropine",
+   "drugs/glycopyrrolate",
+   "drugs/hyoscine-hydrobromide",
+   "crises/cholinergic-crisis",
+   "physiology/acetylcholine-and-cholinergic-receptors"
+  ]
  },
  {
   "path": "topics/drugs/anticonvulsants.md",
@@ -3822,8 +3903,27 @@
    "serotonin-syndrome",
    "analgesic-adjunct"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "SSRI",
+   "SNRI",
+   "SARI",
+   "NaSSA",
+   "NDRI",
+   "fluoxetine",
+   "sertraline",
+   "duloxetine",
+   "venlafaxine",
+   "mirtazapine",
+   "trazodone",
+   "bupropion"
+  ],
+  "related": [
+   "drugs/tricyclic-antidepressants",
+   "drugs/monoamine-oxidase-inhibitors",
+   "drugs/pethidine",
+   "comorbidities/psychiatric-patients",
+   "drugs/analgesic-adjuncts"
+  ]
  },
  {
   "path": "topics/drugs/antipsychotics.md",
@@ -3837,8 +3937,20 @@
    "dopamine-antagonist",
    "psychiatry"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "neuroleptics",
+   "haloperidol",
+   "quetiapine",
+   "olanzapine",
+   "risperidone",
+   "clozapine"
+  ],
+  "related": [
+   "comorbidities/psychiatric-patients",
+   "drugs/antidepressants",
+   "drugs/anticholinergics",
+   "comorbidities/parkinsons-disease"
+  ]
  },
  {
   "path": "topics/drugs/atipamezole.md",
@@ -3851,8 +3963,15 @@
    "antidote",
    "reversal"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Antisedan"
+  ],
+  "related": [
+   "drugs/dexmedetomidine",
+   "drugs/clonidine",
+   "drugs/flumazenil",
+   "drugs/naloxone"
+  ]
  },
  {
   "path": "topics/drugs/atracurium.md",
@@ -3865,8 +3984,15 @@
    "non-depolarising",
    "benzylisoquinolinium"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Tracrium"
+  ],
+  "related": [
+   "drugs/non-depolarising-neuromuscular-blockers",
+   "drugs/neuromuscular-blockers",
+   "drugs/rocuronium",
+   "drugs/neostigmine"
+  ]
  },
  {
   "path": "topics/drugs/atropine.md",
@@ -3881,7 +4007,13 @@
    "antisialagogue"
   ],
   "aliases": [],
-  "related": []
+  "related": [
+   "drugs/anticholinergics",
+   "drugs/glycopyrrolate",
+   "drugs/hyoscine-hydrobromide",
+   "drugs/neostigmine",
+   "crises/cholinergic-crisis"
+  ]
  },
  {
   "path": "topics/drugs/baclofen.md",
@@ -3895,8 +4027,17 @@
    "spasticity",
    "intrathecal"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Lioresal",
+   "intrathecal baclofen"
+  ],
+  "related": [
+   "drugs/eperisone",
+   "drugs/orphenadrine",
+   "drugs/benzodiazepines",
+   "comorbidities/cerebral-palsy",
+   "comorbidities/multiple-sclerosis"
+  ]
  },
  {
   "path": "topics/drugs/barbiturates.md",
@@ -3910,8 +4051,17 @@
    "anticonvulsant",
    "intravenous-anaesthetic"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "barbs",
+   "phenobarbital",
+   "thiopental"
+  ],
+  "related": [
+   "drugs/thiopentone",
+   "drugs/benzodiazepines",
+   "drugs/anticonvulsants",
+   "drugs/induction-agents"
+  ]
  },
  {
   "path": "topics/drugs/benzodiazepines.md",
@@ -3926,8 +4076,17 @@
    "anxiolysis",
    "anticonvulsant"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "benzos",
+   "BZDs"
+  ],
+  "related": [
+   "drugs/midazolam",
+   "drugs/diazepam",
+   "drugs/remimazolam",
+   "drugs/flumazenil",
+   "drugs/barbiturates"
+  ]
  },
  {
   "path": "topics/drugs/beta-blockers.md",
@@ -3941,8 +4100,21 @@
    "antiarrhythmic",
    "class-ii"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "beta-adrenoceptor antagonists",
+   "BB",
+   "esmolol",
+   "metoprolol",
+   "propranolol",
+   "labetalol"
+  ],
+  "related": [
+   "drugs/sotalol",
+   "drugs/antiarrhythmics",
+   "drugs/calcium-channel-blockers",
+   "comorbidities/hypertension",
+   "physiology/adrenergic-and-dopamine-receptors"
+  ]
  },
  {
   "path": "topics/drugs/bupivacaine.md",
@@ -3955,8 +4127,18 @@
    "amide",
    "cardiotoxicity"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Marcaine",
+   "heavy bupivacaine",
+   "hyperbaric bupivacaine"
+  ],
+  "related": [
+   "drugs/levobupivacaine",
+   "drugs/ropivacaine",
+   "drugs/lidocaine",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "drugs/local-anaesthetics"
+  ]
  },
  {
   "path": "topics/drugs/calcium-channel-blockers.md",
@@ -3970,8 +4152,17 @@
    "antiarrhythmic",
    "cardiovascular"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "CCB",
+   "CCBs",
+   "calcium antagonists"
+  ],
+  "related": [
+   "drugs/verapamil",
+   "drugs/antiarrhythmics",
+   "drugs/beta-blockers",
+   "comorbidities/hypertension"
+  ]
  },
  {
   "path": "topics/drugs/capsaicin.md",
@@ -3984,8 +4175,17 @@
    "topical",
    "trpv1"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Qutenza",
+   "capsaicin patch",
+   "TRPV1 agonist"
+  ],
+  "related": [
+   "drugs/analgesic-adjuncts",
+   "drugs/topical-cutaneous-anaesthesia",
+   "drugs/gabapentinoids",
+   "procedures/interventional-pain-management"
+  ]
  },
  {
   "path": "topics/drugs/carbamazepine.md",
@@ -3999,8 +4199,15 @@
    "trigeminal-neuralgia",
    "analgesic-adjunct"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Tegretol"
+  ],
+  "related": [
+   "drugs/anticonvulsants",
+   "drugs/gabapentinoids",
+   "drugs/analgesic-adjuncts",
+   "comorbidities/epilepsy"
+  ]
  },
  {
   "path": "topics/drugs/carbon-dioxide.md",
@@ -4013,8 +4220,15 @@
    "laparoscopy",
    "physiology"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "CO2"
+  ],
+  "related": [
+   "procedures/laparoscopic-surgery",
+   "physiology/anaesthetic-agents-icp-cbf-cmr",
+   "drugs/oxygen",
+   "drugs/medical-air"
+  ]
  },
  {
   "path": "topics/drugs/celecoxib.md",
@@ -4027,8 +4241,16 @@
    "cox-2-inhibitor",
    "analgesic"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Celebrex",
+   "COX-2 inhibitor"
+  ],
+  "related": [
+   "drugs/etoricoxib",
+   "drugs/parecoxib",
+   "drugs/nsaids",
+   "drugs/ibuprofen"
+  ]
  },
  {
   "path": "topics/drugs/chloral-hydrate.md",
@@ -4043,7 +4265,12 @@
    "paediatrics"
   ],
   "aliases": [],
-  "related": []
+  "related": [
+   "drugs/benzodiazepines",
+   "drugs/barbiturates",
+   "drugs/melatonin",
+   "procedures/paediatric-anaesthesia-for-imaging"
+  ]
  },
  {
   "path": "topics/drugs/clonidine.md",
@@ -4057,8 +4284,16 @@
    "analgesia",
    "premedication"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Catapres",
+   "alpha-2 agonist"
+  ],
+  "related": [
+   "drugs/dexmedetomidine",
+   "drugs/analgesic-adjuncts",
+   "physiology/adrenergic-and-dopamine-receptors",
+   "comorbidities/opioid-dependence"
+  ]
  },
  {
   "path": "topics/drugs/cocaine.md",
@@ -4072,8 +4307,15 @@
    "vasoconstrictor",
    "topical"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Moffat's solution"
+  ],
+  "related": [
+   "drugs/local-anaesthetics",
+   "drugs/amethocaine",
+   "airway/airway-topicalisation",
+   "procedures/endoscopic-sinus-surgery"
+  ]
  },
  {
   "path": "topics/drugs/codeine.md",
@@ -4110,8 +4352,23 @@
    "albumin",
    "volume-expansion"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "HES",
+   "hydroxyethyl starch",
+   "Voluven",
+   "Gelofusin",
+   "HAS",
+   "human albumin solution",
+   "albumin",
+   "dextran",
+   "gelatin"
+  ],
+  "related": [
+   "drugs/crystalloids",
+   "drugs/types-of-fluid-replacement",
+   "physiology/body-fluid-compartments",
+   "procedures/intraoperative-fluid-management"
+  ]
  },
  {
   "path": "topics/drugs/crystalloids.md",
@@ -4125,8 +4382,22 @@
    "balanced-solutions",
    "acid-base"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Hartmann's",
+   "Ringer's lactate",
+   "normal saline",
+   "0.9% saline",
+   "Plasma-Lyte",
+   "Sterofundin",
+   "5% dextrose",
+   "balanced crystalloids"
+  ],
+  "related": [
+   "drugs/colloids",
+   "drugs/types-of-fluid-replacement",
+   "physiology/fluid-terminology-and-chemistry",
+   "procedures/intraoperative-fluid-management"
+  ]
  },
  {
   "path": "topics/drugs/desflurane.md",
@@ -4165,8 +4436,17 @@
    "analgesic-adjunct",
    "sympatholytic"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Precedex",
+   "dexmed",
+   "alpha-2 agonist"
+  ],
+  "related": [
+   "drugs/clonidine",
+   "drugs/atipamezole",
+   "drugs/analgesic-adjuncts",
+   "physiology/adrenergic-and-dopamine-receptors"
+  ]
  },
  {
   "path": "topics/drugs/diazepam.md",
@@ -4179,8 +4459,15 @@
    "sedation",
    "anticonvulsant"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Valium"
+  ],
+  "related": [
+   "drugs/benzodiazepines",
+   "drugs/midazolam",
+   "drugs/flumazenil",
+   "drugs/remimazolam"
+  ]
  },
  {
   "path": "topics/drugs/diclofenac.md",
@@ -4263,7 +4550,13 @@
    "inodilator"
   ],
   "aliases": [],
-  "related": []
+  "related": [
+   "drugs/dopamine",
+   "drugs/milrinone",
+   "drugs/levosimendan",
+   "drugs/noradrenaline",
+   "drugs/vasopressors-in-critical-care"
+  ]
  },
  {
   "path": "topics/drugs/dopamine.md",
@@ -4522,8 +4815,16 @@
    "cox-2-inhibitor",
    "analgesic"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Arcoxia",
+   "COX-2 inhibitor"
+  ],
+  "related": [
+   "drugs/celecoxib",
+   "drugs/parecoxib",
+   "drugs/nsaids",
+   "drugs/diclofenac"
+  ]
  },
  {
   "path": "topics/drugs/fentanyl.md",
@@ -4563,8 +4864,24 @@
    "antiemetic",
    "sedation"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "H1 antagonists",
+   "chlorpheniramine",
+   "diphenhydramine",
+   "promethazine",
+   "Phenergan",
+   "cyclizine",
+   "hydroxyzine",
+   "Atarax",
+   "cinnarizine",
+   "dimenhydrinate"
+  ],
+  "related": [
+   "drugs/orphenadrine",
+   "drugs/anticholinergics",
+   "drugs/hyoscine-hydrobromide",
+   "drugs/antipsychotics"
+  ]
  },
  {
   "path": "topics/drugs/flecainide.md",
@@ -4598,8 +4915,15 @@
    "reversal",
    "antidote"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Anexate"
+  ],
+  "related": [
+   "drugs/benzodiazepines",
+   "drugs/midazolam",
+   "drugs/diazepam",
+   "drugs/naloxone"
+  ]
  },
  {
   "path": "topics/drugs/gabapentinoids.md",
@@ -4708,8 +5032,18 @@
    "calcium-gluconate",
    "calcium-chloride"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "hypocalcemia",
+   "calcium gluconate",
+   "calcium chloride",
+   "low calcium"
+  ],
+  "related": [
+   "comorbidities/hypoparathyroidism",
+   "procedures/parathyroid-surgery",
+   "comorbidities/hyperparathyroidism",
+   "procedures/intraoperative-bleeding-and-blood-management"
+  ]
  },
  {
   "path": "topics/drugs/ibuprofen.md",
@@ -5058,8 +5392,18 @@
    "cylinders",
    "pipeline"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "air",
+   "medical air",
+   "compressed air"
+  ],
+  "related": [
+   "drugs/oxygen",
+   "drugs/nitrous-oxide",
+   "drugs/entonox",
+   "drugs/heliox",
+   "equipment/anaesthetic-machine"
+  ]
  },
  {
   "path": "topics/drugs/melatonin.md",
@@ -5136,8 +5480,18 @@
    "premedication",
    "amnesia"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Dormicum",
+   "Hypnovel",
+   "Versed"
+  ],
+  "related": [
+   "drugs/benzodiazepines",
+   "drugs/remimazolam",
+   "drugs/diazepam",
+   "drugs/flumazenil",
+   "drugs/alfentanil"
+  ]
  },
  {
   "path": "topics/drugs/milrinone.md",
@@ -5250,8 +5604,16 @@
    "reversal",
    "neuromuscular-blockade"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Prostigmin"
+  ],
+  "related": [
+   "drugs/acetylcholinesterase-inhibitors",
+   "drugs/glycopyrrolate",
+   "drugs/pyridostigmine",
+   "drugs/sugammadex",
+   "equipment/neuromuscular-monitoring"
+  ]
  },
  {
   "path": "topics/drugs/neuromuscular-blockers.md",
@@ -5769,8 +6131,18 @@
    "anticholinesterase",
    "anticholinergic"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "parasympathomimetics",
+   "parasympatholytics",
+   "cholinergic drugs"
+  ],
+  "related": [
+   "physiology/acetylcholine-and-cholinergic-receptors",
+   "drugs/anticholinergics",
+   "drugs/acetylcholinesterase-inhibitors",
+   "drugs/sympathetic-drugs",
+   "drugs/atropine"
+  ]
  },
  {
   "path": "topics/drugs/parecoxib.md",
@@ -5784,8 +6156,18 @@
    "analgesic",
    "prodrug"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Dynastat",
+   "valdecoxib",
+   "Bextra"
+  ],
+  "related": [
+   "drugs/nsaids",
+   "drugs/celecoxib",
+   "drugs/etoricoxib",
+   "drugs/paracetamol",
+   "procedures/intraoperative-analgesia"
+  ]
  },
  {
   "path": "topics/drugs/perioperative-anticoagulants-and-antiplatelets.md",
@@ -6084,8 +6466,15 @@
    "myasthenia-gravis",
    "quaternary-amine"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Mestinon"
+  ],
+  "related": [
+   "drugs/neostigmine",
+   "drugs/acetylcholinesterase-inhibitors",
+   "comorbidities/myasthenia-gravis",
+   "crises/cholinergic-crisis"
+  ]
  },
  {
   "path": "topics/drugs/quinidine.md",
@@ -6174,8 +6563,16 @@
    "sedation",
    "tiva"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Byfavo"
+  ],
+  "related": [
+   "drugs/midazolam",
+   "drugs/benzodiazepines",
+   "drugs/remifentanil",
+   "drugs/flumazenil",
+   "procedures/total-intravenous-anaesthesia"
+  ]
  },
  {
   "path": "topics/drugs/rocuronium.md",
@@ -6310,8 +6707,17 @@
    "antiarrhythmic",
    "class-iii"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Sotacor",
+   "Betapace"
+  ],
+  "related": [
+   "drugs/beta-blockers",
+   "drugs/antiarrhythmics",
+   "drugs/amiodarone",
+   "comorbidities/arrhythmias",
+   "comorbidities/atrial-fibrillation"
+  ]
  },
  {
   "path": "topics/drugs/sugammadex.md",
@@ -6376,8 +6782,19 @@
    "sympatholytic",
    "vasopressor"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "sympathomimetics",
+   "sympatholytics",
+   "adrenergic drugs",
+   "vasopressors"
+  ],
+  "related": [
+   "physiology/adrenergic-and-dopamine-receptors",
+   "drugs/parasympathetic-drugs",
+   "drugs/vasopressors-in-critical-care",
+   "drugs/beta-blockers",
+   "drugs/noradrenaline"
+  ]
  },
  {
   "path": "topics/drugs/tadalafil.md",
@@ -6461,8 +6878,18 @@
    "barbiturate",
    "intravenous-anaesthetic"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "thiopental",
+   "sodium thiopental",
+   "Pentothal"
+  ],
+  "related": [
+   "drugs/barbiturates",
+   "drugs/induction-agents",
+   "drugs/propofol",
+   "drugs/etomidate",
+   "procedures/electroconvulsive-therapy"
+  ]
  },
  {
   "path": "topics/drugs/topical-cutaneous-anaesthesia.md",
@@ -6667,8 +7094,17 @@
    "svt",
    "non-dihydropyridine"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "Isoptin",
+   "Securon"
+  ],
+  "related": [
+   "drugs/calcium-channel-blockers",
+   "drugs/antiarrhythmics",
+   "drugs/adenosine",
+   "drugs/digoxin",
+   "comorbidities/arrhythmias"
+  ]
  },
  {
   "path": "topics/drugs/xenon.md",
@@ -7170,8 +7606,20 @@
    "nicotinic",
    "cholinesterase"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "ACh",
+   "nicotinic receptors",
+   "muscarinic receptors",
+   "nAChR",
+   "mAChR"
+  ],
+  "related": [
+   "physiology/adrenergic-and-dopamine-receptors",
+   "drugs/parasympathetic-drugs",
+   "drugs/acetylcholinesterase-inhibitors",
+   "drugs/anticholinergics",
+   "drugs/neuromuscular-blockers"
+  ]
  },
  {
   "path": "topics/physiology/adrenergic-and-dopamine-receptors.md",
@@ -7186,8 +7634,19 @@
    "camp",
    "g-protein"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "adrenoceptors",
+   "alpha receptors",
+   "beta receptors",
+   "dopamine receptors"
+  ],
+  "related": [
+   "physiology/acetylcholine-and-cholinergic-receptors",
+   "drugs/sympathetic-drugs",
+   "drugs/beta-blockers",
+   "drugs/phosphodiesterase-inhibitors",
+   "drugs/dexmedetomidine"
+  ]
  },
  {
   "path": "topics/physiology/anaesthesia-and-immunity.md",
@@ -7303,8 +7762,20 @@
    "blood-volume",
    "starling-forces"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "TBW",
+   "total body water",
+   "ICF",
+   "ECF",
+   "blood volume"
+  ],
+  "related": [
+   "drugs/crystalloids",
+   "drugs/colloids",
+   "physiology/fluid-status",
+   "procedures/intraoperative-fluid-management",
+   "drugs/paediatric-fluids-and-electrolytes"
+  ]
  },
  {
   "path": "topics/physiology/fluid-responsiveness.md",
@@ -9590,8 +10061,19 @@
    "nociception",
    "monitoring"
   ],
-  "aliases": [],
-  "related": []
+  "aliases": [
+   "nociception monitoring",
+   "ANI",
+   "SPI",
+   "NOL"
+  ],
+  "related": [
+   "drugs/opioids",
+   "drugs/analgesic-adjuncts",
+   "drugs/ketamine",
+   "equipment/depth-of-anaesthesia-monitoring",
+   "drugs/dexmedetomidine"
+  ]
  },
  {
   "path": "topics/procedures/intraoperative-bleeding-and-blood-management.md",

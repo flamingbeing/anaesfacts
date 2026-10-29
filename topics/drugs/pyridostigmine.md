@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Mestinon]
+related: [drugs/neostigmine, drugs/acetylcholinesterase-inhibitors, comorbidities/myasthenia-gravis, crises/cholinergic-crisis]
 sources: []
 tags: [anticholinesterase, myasthenia-gravis, quaternary-amine]
 ---
@@ -39,8 +41,23 @@ Quaternary amine anticholinesterase, mainly for myasthenia gravis; longer acting
 - Does not cross the blood–brain barrier
 - Compare physostigmine: tertiary amine, well absorbed orally, crosses the blood–brain barrier; formerly used for anticholinergic poisoning
 
+## Flashcards
+- Q: Usual starting and maintenance oral pyridostigmine doses?
+  - A: Start 30 mg three times daily; maintenance 60 mg four times daily while awake
+- Q: Usual maximum daily pyridostigmine dose?
+  - A: 600 mg/day; above this cholinergic crisis risk rises
+- Q: Oral 60 mg pyridostigmine equals what IV pyridostigmine dose?
+  - A: 2 mg IV (1/30th)
+- Q: Oral 60 mg pyridostigmine equals what neostigmine dose?
+  - A: 1 mg neostigmine IV/IM
+- Q: How much pyridostigmine is excreted unchanged in urine?
+  - A: 75%
+
 <!-- related:start (generated) -->
 ## Related
+- [Neostigmine](neostigmine.md)
+- [Acetylcholinesterase Inhibitors](acetylcholinesterase-inhibitors.md)
 - [Myasthenia Gravis and Lambert-Eaton Syndrome](../comorbidities/myasthenia-gravis.md)
+- [Cholinergic Crisis](../crises/cholinergic-crisis.md)
 - [Myasthenia Gravis in Children](../comorbidities/paediatric-myasthenia-gravis.md)
 <!-- related:end -->

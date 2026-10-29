@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [barbs, phenobarbital, thiopental]
+related: [drugs/thiopentone, drugs/benzodiazepines, drugs/anticonvulsants, drugs/induction-agents]
 sources: []
 tags: [barbiturate, gaba, anticonvulsant, intravenous-anaesthetic]
 ---
@@ -44,3 +46,22 @@ Barbituric acid derivatives that depress the CNS by enhancing GABA transmission.
 - Barbital
   - First commercial barbiturate; used as a hypnotic from 1903 until the mid-1950s
   - Name from barbituric acid plus veronal (possibly inspired by chloral hydrate)
+
+## Flashcards
+- Q: How do barbiturates depress the CNS?
+  - A: By enhancing GABA transmission
+- Q: Effect of replacing oxygen with sulfur at C2?
+  - A: Forms a thiobarbiturate: more lipid soluble and potent, highly protein bound, fully metabolised in the liver
+- Q: Effect of an N1 methyl group?
+  - A: Faster onset and offset but more excitatory effects
+- Q: What makes barbiturates water soluble?
+  - A: Keto-to-enol tautomerism favoured in alkaline solution
+
+<!-- related:start (generated) -->
+## Related
+- [Thiopentone](thiopentone.md)
+- [Benzodiazepines](benzodiazepines.md)
+- [Anticonvulsants](anticonvulsants.md)
+- [Induction agents](induction-agents.md)
+- [Chloral hydrate](chloral-hydrate.md)
+<!-- related:end -->

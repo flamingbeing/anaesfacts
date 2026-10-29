@@ -4,7 +4,9 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
-sources: []
+aliases: [Tracrium]
+related: [drugs/non-depolarising-neuromuscular-blockers, drugs/neuromuscular-blockers, drugs/rocuronium, drugs/neostigmine]
+sources: [BJA CME 2004]
 tags: [neuromuscular-blocker, non-depolarising, benzylisoquinolinium]
 ---
 
@@ -54,9 +56,24 @@ Intermediate-acting non-depolarising benzylisoquinolinium muscle relaxant, broke
   - Slowed by acidosis and hypothermia
 - Laudanosine: glycine antagonist, no neuromuscular blocking action, cleared by the kidneys
 
+## Flashcards
+- Q: Atracurium intubating dose?
+  - A: 0.5 mg/kg (range 0.3-0.6 mg/kg)
+- Q: Atracurium infusion rate?
+  - A: 0.3 to 0.6 mg/kg/hour
+- Q: Two plasma breakdown pathways of atracurium?
+  - A: Ester hydrolysis by non-specific esterases and Hofmann elimination
+- Q: What slows Hofmann elimination?
+  - A: Acidosis and hypothermia
+- Q: Which metabolite can cause seizures at high levels?
+  - A: Laudanosine
+
 <!-- related:start (generated) -->
 ## Related
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
+- [Neuromuscular blockers](neuromuscular-blockers.md)
+- [Rocuronium](rocuronium.md)
+- [Neostigmine](neostigmine.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
 - [Patient Movement During Anaesthesia](../other/patient-movement-under-anaesthesia.md)
 <!-- related:end -->

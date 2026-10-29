@@ -187,4 +187,5 @@ Children have more body water, faster turnover and a higher risk of dehydration 
 ## Related
 - [Crystalloids](crystalloids.md)
 - [Hyponatraemia and Hypertonic Saline](../comorbidities/hyponatraemia.md)
+- [Body fluid compartments](../physiology/body-fluid-compartments.md)
 <!-- related:end -->

@@ -88,4 +88,5 @@ Removal of overactive parathyroid tissue, usually for primary hyperparathyroidis
 ## Related
 - [Hyperparathyroidism](../comorbidities/hyperparathyroidism.md)
 - [Chronic Kidney Disease and Dialysis](../comorbidities/chronic-kidney-disease.md)
+- [Hypocalcaemia and Calcium Replacement](../drugs/hypocalcaemia-and-calcium-replacement.md)
 <!-- related:end -->

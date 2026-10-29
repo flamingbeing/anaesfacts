@@ -85,6 +85,7 @@ Alkalinising agent for selected metabolic acidoses, sodium channel blocker toxic
 
 <!-- related:start (generated) -->
 ## Related
+- [Carbon monoxide poisoning](../crises/carbon-monoxide-poisoning.md)
 - [Tricyclic Antidepressants](tricyclic-antidepressants.md)
 - [Types of Fluid Replacement](types-of-fluid-replacement.md)
 <!-- related:end -->

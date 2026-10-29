@@ -4,6 +4,8 @@ area: physiology
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [TBW, total body water, ICF, ECF, blood volume]
+related: [drugs/crystalloids, drugs/colloids, physiology/fluid-status, procedures/intraoperative-fluid-management, drugs/paediatric-fluids-and-electrolytes]
 sources: []
 tags: [fluids, total-body-water, blood-volume, starling-forces]
 ---
@@ -115,7 +117,24 @@ How total body water and blood volume are divided, what separates the compartmen
   - Radiolabelled albumin, or Evans blue dye (binds plasma albumin)
 - Interstitial volume: not measured directly; ECF minus plasma volume
 
+## Flashcards
+- Q: Blood volume in males, females and neonates?
+  - A: Males 70 ml/kg; females 65 ml/kg; neonates 85 ml/kg
+- Q: Total body water in a 70 kg adult male?
+  - A: About 60% of body weight, 42 litres
+- Q: ICF and ECF fractions of TBW?
+  - A: ICF 2/3 (28 L); ECF 1/3 (14 L)
+- Q: Plasma volume as a share of ECF and body weight?
+  - A: 1/4 of ECF, 5% of body weight (3.5 L)
+- Q: Tracer used to measure plasma volume?
+  - A: Radiolabelled albumin or Evans blue dye
+
 <!-- related:start (generated) -->
 ## Related
+- [Crystalloids](../drugs/crystalloids.md)
+- [Colloids](../drugs/colloids.md)
+- [Fluid status](fluid-status.md)
+- [Intraoperative fluid management](../procedures/intraoperative-fluid-management.md)
+- [Paediatric fluids and electrolytes](../drugs/paediatric-fluids-and-electrolytes.md)
 - [Fluid terminology and chemistry](fluid-terminology-and-chemistry.md)
 <!-- related:end -->

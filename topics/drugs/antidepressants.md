@@ -4,7 +4,9 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
-sources: []
+aliases: [SSRI, SNRI, SARI, NaSSA, NDRI, fluoxetine, sertraline, duloxetine, venlafaxine, mirtazapine, trazodone, bupropion]
+related: [drugs/tricyclic-antidepressants, drugs/monoamine-oxidase-inhibitors, drugs/pethidine, comorbidities/psychiatric-patients, drugs/analgesic-adjuncts]
+sources: [MOH guidelines]
 tags: [antidepressant, ssri, snri, serotonin-syndrome, analgesic-adjunct]
 ---
 
@@ -247,3 +249,25 @@ SSRIs, SNRIs, SARIs, NaSSAs and NDRIs: doses, half-lives, side effects and inter
 - Do not combine with an MAOI: hypertension and serotonin syndrome reported
 - Like SSRIs: no anticholinergic effects, no postural hypotension, no significant conduction effects
 - Unlike SSRIs: few significant interactions, rarely sexual dysfunction
+
+## Flashcards
+- Q: Features of serotonin syndrome?
+  - A: Hyperreflexia, agitation, clonus, hyperthermia
+- Q: Which opioid most notably can trigger serotonin syndrome with SSRIs?
+  - A: Pethidine (phenylpiperidine with weak serotonin reuptake inhibition)
+- Q: Washout of fluoxetine before starting an MAOI?
+  - A: About 5 weeks
+- Q: Why may SSRIs matter before surgery with deranged clotting?
+  - A: They impair platelet aggregation by blocking 5-HT uptake into platelets
+- Q: Seizure risk with bupropion?
+  - A: About 0.4% (higher than other antidepressants) especially at higher doses
+
+<!-- related:start (generated) -->
+## Related
+- [Tricyclic Antidepressants](tricyclic-antidepressants.md)
+- [Monoamine oxidase inhibitors](monoamine-oxidase-inhibitors.md)
+- [Pethidine](pethidine.md)
+- [Psychiatric Patients](../comorbidities/psychiatric-patients.md)
+- [Analgesic adjuncts](analgesic-adjuncts.md)
+- [Antipsychotics](antipsychotics.md)
+<!-- related:end -->

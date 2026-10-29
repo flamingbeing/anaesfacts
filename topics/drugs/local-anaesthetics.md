@@ -142,6 +142,8 @@ Weak bases that block neuronal sodium channels; amides or esters, with potency, 
 - [Lidocaine](lidocaine.md)
 - [Bupivacaine](bupivacaine.md)
 - [Ropivacaine](ropivacaine.md)
+- [Amethocaine (tetracaine)](amethocaine.md)
+- [Cocaine](cocaine.md)
 - [Prilocaine](prilocaine.md)
 - [Regional Anaesthesia](../regional/regional-anaesthesia.md)
 <!-- related:end -->

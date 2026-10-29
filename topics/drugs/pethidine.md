@@ -82,6 +82,7 @@ Synthetic phenylpiperidine opioid with anticholinergic and anti-shivering effect
 - [Morphine](morphine.md)
 - [Fentanyl](fentanyl.md)
 - [Tramadol](tramadol.md)
+- [Antidepressants](antidepressants.md)
 - [Monoamine oxidase inhibitors](monoamine-oxidase-inhibitors.md)
 - [Oxycodone](oxycodone.md)
 <!-- related:end -->

@@ -43,4 +43,5 @@ Sleep-promoting hormone; Circadin is the prolonged-release form, used short term
 <!-- related:start (generated) -->
 ## Related
 - [Benzodiazepines](benzodiazepines.md)
+- [Chloral hydrate](chloral-hydrate.md)
 <!-- related:end -->

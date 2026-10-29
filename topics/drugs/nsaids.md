@@ -184,6 +184,8 @@ Weak organic acids that inhibit cyclo-oxygenase (COX); main risks are gastric, r
 - [Parecoxib and valdecoxib](parecoxib.md)
 - [Asthma](../comorbidities/asthma.md)
 - [Anaesthesia After Renal Transplant](../comorbidities/renal-transplant.md)
+- [Celecoxib](celecoxib.md)
+- [Etoricoxib](etoricoxib.md)
 - [Ketorolac](ketorolac.md)
 - [Orphenadrine](orphenadrine.md)
 - [NSAIDs in children](paediatric-nsaids.md)

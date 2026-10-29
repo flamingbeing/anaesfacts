@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Arcoxia, COX-2 inhibitor]
+related: [drugs/celecoxib, drugs/parecoxib, drugs/nsaids, drugs/diclofenac]
 sources: []
 tags: [nsaid, cox-2-inhibitor, analgesic]
 ---
@@ -42,3 +44,23 @@ Highly selective oral COX-2 inhibitor (a methylsulfone); brand Arcoxia.
 - Hepatic metabolism by cytochrome P450, mainly CYP3A4; other isoenzymes take over more when CYP3A4 is inhibited
 - Weak inhibitor of CYP2D6, CYP3A and CYP2C9
 - Half-life increases in hepatic failure; unchanged in isolated renal failure
+
+## Flashcards
+- Q: What is the dose of etoricoxib?
+  - A: 60-120mg once daily in the morning
+- Q: What is the maximum etoricoxib dose in moderate hepatic impairment?
+  - A: 60mg every other day
+- Q: What is the COX-1:COX-2 ratio of etoricoxib?
+  - A: 1:344
+- Q: What is the elimination half-life of etoricoxib?
+  - A: 22 hours
+- Q: Which enzyme mainly metabolises etoricoxib?
+  - A: CYP3A4
+
+<!-- related:start (generated) -->
+## Related
+- [Celecoxib](celecoxib.md)
+- [Parecoxib and valdecoxib](parecoxib.md)
+- [NSAIDs and COX-2 inhibitors](nsaids.md)
+- [Diclofenac](diclofenac.md)
+<!-- related:end -->

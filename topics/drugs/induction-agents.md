@@ -97,5 +97,6 @@ Drugs that produce unconsciousness, usually within one arm-brain circulation tim
 - [Etomidate](etomidate.md)
 - [Ketamine](ketamine.md)
 - [Midazolam](midazolam.md)
+- [Barbiturates](barbiturates.md)
 - [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
 <!-- related:end -->

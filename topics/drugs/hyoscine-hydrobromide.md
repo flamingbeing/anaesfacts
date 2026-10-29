@@ -72,4 +72,6 @@ Hydrobromide salt of hyoscine: a lipid-soluble antimuscarinic with mainly centra
 ## Related
 - [Glycopyrrolate](glycopyrrolate.md)
 - [Atropine](atropine.md)
+- [Anticholinergics (antimuscarinics)](anticholinergics.md)
+- [First-generation H1 antihistamines](first-generation-antihistamines.md)
 <!-- related:end -->

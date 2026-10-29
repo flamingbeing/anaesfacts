@@ -112,4 +112,5 @@ Procedures for chronic pain (nerve blocks, radiofrequency, implants), their plac
 - [Neuraxial and Regional Blocks with Anticoagulants](../regional/neuraxial-anticoagulation.md)
 - [Motor-Sparing Knee Blocks (Genicular Nerve Block and iPACK)](../regional/motor-sparing-knee-blocks.md)
 - [Bier Block (Intravenous Regional Anaesthesia)](../regional/bier-block.md)
+- [Capsaicin](../drugs/capsaicin.md)
 <!-- related:end -->

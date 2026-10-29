@@ -230,4 +230,5 @@ Brief anaesthesia at a remote site for an induced seizure: fast on and off, mini
 - [Remote Site Anaesthesia](remote-site-anaesthesia.md)
 - [Propofol](../drugs/propofol.md)
 - [Suxamethonium](../drugs/suxamethonium.md)
+- [Thiopentone](../drugs/thiopentone.md)
 <!-- related:end -->

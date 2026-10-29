@@ -208,5 +208,6 @@ Clinical signs, Guedel's stages, the isolated forearm technique and processed EE
 ## Related
 - [Propofol](../drugs/propofol.md)
 - [Anaesthesia for the Elderly and Frailty](../other/elderly-and-frailty.md)
+- [Intraoperative analgesia and nociception monitoring](../procedures/intraoperative-analgesia.md)
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](../procedures/total-intravenous-anaesthesia.md)
 <!-- related:end -->

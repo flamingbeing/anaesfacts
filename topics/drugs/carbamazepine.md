@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Tegretol]
+related: [drugs/anticonvulsants, drugs/gabapentinoids, drugs/analgesic-adjuncts, comorbidities/epilepsy]
 sources: []
 tags: [anticonvulsant, enzyme-inducer, trigeminal-neuralgia, analgesic-adjunct]
 ---
@@ -57,8 +59,22 @@ Anticonvulsant used for focal seizures, bipolar disorder and trigeminal neuralgi
 - Powerful hepatic enzyme inducer, including of its own metabolism (autoinduction)
 - Excreted almost entirely in urine as unconjugated metabolites
 
+## Flashcards
+- Q: What test is done before starting carbamazepine?
+  - A: HLA-B*1502 (associated with Stevens-Johnson syndrome)
+- Q: What is the analgesic adjunct dose of carbamazepine?
+  - A: PO 10 mg/kg/day, divided OM or BD
+- Q: What is the active metabolite of carbamazepine?
+  - A: Carbamazepine 10,11-epoxide (about 30% of the anticonvulsant activity)
+- Q: What renal effect can carbamazepine cause?
+  - A: Antidiuretic effect with water retention
+- Q: Which pain condition is carbamazepine used for?
+  - A: Trigeminal neuralgia
+
 <!-- related:start (generated) -->
 ## Related
 - [Anticonvulsants](anticonvulsants.md)
 - [Gabapentinoids](gabapentinoids.md)
+- [Analgesic adjuncts](analgesic-adjuncts.md)
+- [Epilepsy and Vagus Nerve Stimulators](../comorbidities/epilepsy.md)
 <!-- related:end -->

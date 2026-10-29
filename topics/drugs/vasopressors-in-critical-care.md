@@ -105,4 +105,5 @@ Drugs that support blood pressure and flow in critically ill patients; overview 
 - [Adrenaline (Epinephrine)](adrenaline.md)
 - [Milrinone](milrinone.md)
 - [Dopexamine](dopexamine.md)
+- [Sympathetic Drugs](sympathetic-drugs.md)
 <!-- related:end -->

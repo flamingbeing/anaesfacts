@@ -171,6 +171,7 @@ Low-potency anaesthetic and analgesic gas (MAC 105%), with fast onset and offset
 - [Nonobstetric Surgery in Pregnancy](../comorbidities/nonobstetric-surgery-in-pregnancy.md)
 - [Desflurane](desflurane.md)
 - [Inhaled anaesthetics](inhaled-anaesthetics.md)
+- [Medical Air](medical-air.md)
 - [Nitric oxide](nitric-oxide.md)
 - [Oxygen](oxygen.md)
 - [Paediatric inhalational agents](paediatric-inhalational-agents.md)

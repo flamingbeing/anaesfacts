@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Prostigmin]
+related: [drugs/acetylcholinesterase-inhibitors, drugs/glycopyrrolate, drugs/pyridostigmine, drugs/sugammadex, equipment/neuromuscular-monitoring]
 sources: []
 tags: [anticholinesterase, reversal, neuromuscular-blockade]
 ---
@@ -73,14 +75,30 @@ Reversible acetylcholinesterase inhibitor (quaternary amine), mainly used to rev
 - 60% excreted unchanged in urine
   - Renal impairment reduces clearance and prolongs half-life
 
+## Flashcards
+- Q: IV neostigmine dose for reversal?
+  - A: 0.05 mg/kg (50 mcg/kg), usually 2.5 mg
+- Q: Maximum neostigmine reversal dose and why?
+  - A: 0.07 mg/kg; ceiling effect
+- Q: Onset, peak and duration of IV neostigmine?
+  - A: Onset 1 min, peak 10 min, duration 20–30 min
+- Q: Which anticholinergic best matches neostigmine's time course?
+  - A: Glycopyrrolate
+- Q: What does excess neostigmine cause at the neuromuscular junction?
+  - A: Paradoxical weakness resembling a phase 1 depolarising block
+
 <!-- related:start (generated) -->
 ## Related
-- [Myasthenia Gravis in Children](../comorbidities/paediatric-myasthenia-gravis.md)
+- [Acetylcholinesterase Inhibitors](acetylcholinesterase-inhibitors.md)
 - [Glycopyrrolate](glycopyrrolate.md)
+- [Pyridostigmine](pyridostigmine.md)
+- [Sugammadex](sugammadex.md)
+- [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
+- [Myasthenia Gravis in Children](../comorbidities/paediatric-myasthenia-gravis.md)
+- [Atracurium](atracurium.md)
+- [Atropine](atropine.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
 - [Rocuronium](rocuronium.md)
-- [Sugammadex](sugammadex.md)
 - [Suxamethonium](suxamethonium.md)
-- [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
 <!-- related:end -->

@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [antimuscarinics, muscarinic antagonists]
+related: [drugs/atropine, drugs/glycopyrrolate, drugs/hyoscine-hydrobromide, crises/cholinergic-crisis, physiology/acetylcholine-and-cholinergic-receptors]
 sources: []
 tags: [anticholinergic, antimuscarinic, drug-class, atropine]
 ---
@@ -101,7 +103,27 @@ Drugs that competitively block ACh at muscarinic receptors; atropine is the mode
   - Treatment of central anticholinergic syndrome: physostigmine (centrally acting anticholinesterase)
   - Used for extrapyramidal symptoms of Parkinson's disease and of conventional antipsychotics; antipsychotics with strong antimuscarinic action cause fewer extrapyramidal effects
 
+## Flashcards
+- Q: Anticholinergic pairing with neostigmine and with edrophonium?
+  - A: Neostigmine with glycopyrrolate; edrophonium with atropine (matched time course)
+- Q: Why may usual atropine doses cause brief bradycardia?
+  - A: Block of M1 receptors in the parasympathetic ganglion supplying the SA node
+- Q: Treatment of central anticholinergic syndrome?
+  - A: Physostigmine
+- Q: Which anticholinergic has no central effects and why?
+  - A: Glycopyrrolate because it does not cross the blood-brain barrier
+- Q: Why is atropine risky in angle-closure glaucoma?
+  - A: Intraocular pressure may rise dangerously
+
 <!-- related:start (generated) -->
 ## Related
+- [Atropine](atropine.md)
 - [Glycopyrrolate](glycopyrrolate.md)
+- [Hyoscine Hydrobromide](hyoscine-hydrobromide.md)
+- [Cholinergic Crisis](../crises/cholinergic-crisis.md)
+- [Acetylcholine and cholinergic receptors](../physiology/acetylcholine-and-cholinergic-receptors.md)
+- [Acetylcholinesterase Inhibitors](acetylcholinesterase-inhibitors.md)
+- [Antipsychotics](antipsychotics.md)
+- [First-generation H1 antihistamines](first-generation-antihistamines.md)
+- [Parasympathetic Drugs](parasympathetic-drugs.md)
 <!-- related:end -->

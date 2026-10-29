@@ -4,6 +4,8 @@ area: crises
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [organophosphate poisoning, SLUDGE, OP poisoning]
+related: [drugs/acetylcholinesterase-inhibitors, drugs/atropine, drugs/anticholinergics, drugs/glycopyrrolate, comorbidities/myasthenia-gravis]
 sources: []
 tags: [cholinergic, organophosphate, poisoning, atropine]
 ---
@@ -47,3 +49,26 @@ Acetylcholine excess from cholinesterase inhibition (e.g. organophosphate poison
 - Ageing
   - The phosphorylated enzyme can be dealkylated ("aged"); aged enzyme cannot be reactivated
   - So give oximes early: current advice is within 48h of poisoning
+
+## Flashcards
+- Q: What does SLUDGE stand for?
+  - A: Salivation, lacrimation, urination, diaphoresis, GI upset, emesis
+- Q: Atropine dosing scheme in organophosphate poisoning?
+  - A: Double the dose to atropinise quickly: 1 mg then 2, 4, 8, 16 mg
+- Q: Why does glycopyrrolate not treat central cholinergic effects?
+  - A: It does not cross the blood-brain barrier
+- Q: Examples of oxime reactivators?
+  - A: Pralidoxime (2-PAM) and obidoxime
+- Q: When should oximes be given after OP poisoning and why?
+  - A: Early (within 48h) before the enzyme ages and cannot be reactivated
+
+<!-- related:start (generated) -->
+## Related
+- [Acetylcholinesterase Inhibitors](../drugs/acetylcholinesterase-inhibitors.md)
+- [Atropine](../drugs/atropine.md)
+- [Anticholinergics (antimuscarinics)](../drugs/anticholinergics.md)
+- [Glycopyrrolate](../drugs/glycopyrrolate.md)
+- [Myasthenia Gravis and Lambert-Eaton Syndrome](../comorbidities/myasthenia-gravis.md)
+- [Carbon monoxide poisoning](carbon-monoxide-poisoning.md)
+- [Pyridostigmine](../drugs/pyridostigmine.md)
+<!-- related:end -->

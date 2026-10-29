@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Lioresal, intrathecal baclofen]
+related: [drugs/eperisone, drugs/orphenadrine, drugs/benzodiazepines, comorbidities/cerebral-palsy, comorbidities/multiple-sclerosis]
 sources: []
 tags: [antispasmodic, gaba-b, spasticity, intrathecal]
 ---
@@ -48,9 +50,24 @@ Antispasmodic acting at GABA-B receptors; best for pain linked to spasticity.
 
 - Spasticity, and pain associated with it
 
+## Flashcards
+- Q: Mechanism of baclofen?
+  - A: Agonist at presynaptic GABA-B receptors mainly in the spinal cord
+- Q: Maximum oral baclofen dose?
+  - A: 80 mg/day
+- Q: Initial intrathecal trial dose?
+  - A: 50-100 mcg
+- Q: Features of baclofen withdrawal?
+  - A: Hallucinations and seizures
+- Q: Antidote for intrathecal baclofen overdose?
+  - A: Pyridostigmine 1 mg IV
+
 <!-- related:start (generated) -->
 ## Related
-- [Cerebral Palsy](../comorbidities/cerebral-palsy.md)
 - [Eperisone](eperisone.md)
+- [Orphenadrine](orphenadrine.md)
+- [Benzodiazepines](benzodiazepines.md)
+- [Cerebral Palsy](../comorbidities/cerebral-palsy.md)
+- [Multiple sclerosis](../comorbidities/multiple-sclerosis.md)
 - [Paediatric Neurosurgery](../procedures/paediatric-neurosurgery.md)
 <!-- related:end -->

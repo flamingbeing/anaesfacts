@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Cordarone]
+related: [drugs/antiarrhythmics, drugs/sotalol, drugs/digoxin, comorbidities/atrial-fibrillation, comorbidities/arrhythmias]
 sources: []
 tags: [antiarrhythmic, class-iii, potassium-channel-blocker]
 ---
@@ -77,11 +79,26 @@ Benzofuran antiarrhythmic, mainly class III but with class I, II and IV actions;
 - Hepatic metabolism to desmethylamiodarone, which has some antiarrhythmic activity
 - Excreted via lacrimal glands, skin and biliary tract
 
+## Flashcards
+- Q: ACLS amiodarone dose for wide complex tachycardia?
+  - A: 150 mg IV over 10 min (may repeat once) then 300 mg every 8 hours
+- Q: Which diluent and route for amiodarone infusion?
+  - A: 5% dextrose via a central vein (irritant)
+- Q: Commonest cardiac side effect of IV amiodarone and its cause?
+  - A: Hypotension (15%) from vasodilation by the drug and solvent polysorbate 80
+- Q: Elimination half-life of amiodarone?
+  - A: 20 to 100 days
+- Q: Baseline monitoring for long-term amiodarone?
+  - A: ECG, CXR, TFT and LFT then annually plus yearly eye check
+
 <!-- related:start (generated) -->
 ## Related
-- [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
-- [Wolff-Parkinson-White Syndrome](../comorbidities/wolff-parkinson-white-syndrome.md)
+- [Antiarrhythmics](antiarrhythmics.md)
+- [Sotalol](sotalol.md)
 - [Digoxin](digoxin.md)
+- [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
+- [Arrhythmias and Long QT Syndrome](../comorbidities/arrhythmias.md)
+- [Wolff-Parkinson-White Syndrome](../comorbidities/wolff-parkinson-white-syndrome.md)
 - [Disopyramide](disopyramide.md)
 - [Flecainide](flecainide.md)
 - [Mexiletine](mexiletine.md)

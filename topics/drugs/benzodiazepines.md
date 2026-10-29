@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [benzos, BZDs]
+related: [drugs/midazolam, drugs/diazepam, drugs/remimazolam, drugs/flumazenil, drugs/barbiturates]
 sources: []
 tags: [benzodiazepine, gaba, sedation, anxiolysis, anticonvulsant]
 ---
@@ -87,7 +89,26 @@ Class overview: GABAA modulators giving sedation, amnesia, anxiolysis and antico
   - Zopiclone: usually 3.75 to 7.5 mg
   - Zolpidem CR: usually 6.25 to 12.5 mg
 
+## Flashcards
+- Q: Site of benzodiazepine binding on the GABA-A receptor?
+  - A: The alpha subunit
+- Q: Flumazenil dose for benzodiazepine overdose?
+  - A: 0.1 mg IV every 5 min
+- Q: Why can re-sedation occur after flumazenil?
+  - A: Its effect lasts about an hour (half-life 1 hr)
+- Q: Preferred benzodiazepine for seizures and why?
+  - A: IV lorazepam for its longer effect
+- Q: Do benzodiazepines provide analgesia?
+  - A: No; combine with other agents
+
 <!-- related:start (generated) -->
 ## Related
+- [Midazolam](midazolam.md)
+- [Diazepam](diazepam.md)
+- [Remimazolam](remimazolam.md)
+- [Flumazenil](flumazenil.md)
+- [Barbiturates](barbiturates.md)
+- [Baclofen](baclofen.md)
+- [Chloral hydrate](chloral-hydrate.md)
 - [Melatonin](melatonin.md)
 <!-- related:end -->

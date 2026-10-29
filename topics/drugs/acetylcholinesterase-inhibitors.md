@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [anticholinesterases, cholinesterase inhibitors, AChE inhibitors, AChEI]
+related: [drugs/neostigmine, drugs/pyridostigmine, crises/cholinergic-crisis, drugs/anticholinergics, physiology/acetylcholine-and-cholinergic-receptors]
 sources: []
 tags: [anticholinesterase, reversal, neuromuscular-blockade, edrophonium]
 ---
@@ -105,3 +107,25 @@ Drugs that block acetylcholinesterase (AChE), so more acetylcholine (ACh) is ava
   - Does not cross the blood-brain barrier or placenta
 - Up to 65% excreted unchanged in urine; the rest glucuronidated in the liver and excreted in bile
 - Not hydrolysed by cholinesterases
+
+## Flashcards
+- Q: Which AChE inhibitor is the only easily reversible one?
+  - A: Edrophonium
+- Q: Edrophonium dose to distinguish myasthenic from cholinergic crisis?
+  - A: 2 mg IV (up to 10 mg if no deterioration)
+- Q: Edrophonium dose for reversal of competitive block?
+  - A: 0.5 mg/kg (to 0.7 mg/kg) slow IV after an anticholinergic
+- Q: Why does physostigmine have central effects?
+  - A: It lacks a quaternary ammonium group so crosses the blood-brain barrier
+- Q: Why give atropine or glycopyrrolate with an AChE inhibitor?
+  - A: To prevent muscarinic effects such as bradycardia and salivation
+
+<!-- related:start (generated) -->
+## Related
+- [Neostigmine](neostigmine.md)
+- [Pyridostigmine](pyridostigmine.md)
+- [Cholinergic Crisis](../crises/cholinergic-crisis.md)
+- [Anticholinergics (antimuscarinics)](anticholinergics.md)
+- [Acetylcholine and cholinergic receptors](../physiology/acetylcholine-and-cholinergic-receptors.md)
+- [Parasympathetic Drugs](parasympathetic-drugs.md)
+<!-- related:end -->

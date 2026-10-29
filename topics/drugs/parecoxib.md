@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Dynastat, valdecoxib, Bextra]
+related: [drugs/nsaids, drugs/celecoxib, drugs/etoricoxib, drugs/paracetamol, procedures/intraoperative-analgesia]
 sources: []
 tags: [nsaid, cox-2, analgesic, prodrug]
 ---
@@ -60,10 +62,26 @@ Parenteral COX-2 inhibitor; an inactive prodrug of valdecoxib (oral valdecoxib i
 - Valdecoxib elimination half-life 8 hours
 - Renal impairment does not change kinetics (hepatic elimination)
 
+## Flashcards
+- Q: Parecoxib dosing and daily maximum?
+  - A: 40 mg first dose, then 20–40 mg every 6–12 hours; maximum 80 mg/day
+- Q: What is the active metabolite of parecoxib?
+  - A: Valdecoxib
+- Q: Why was valdecoxib withdrawn?
+  - A: Severe skin and hypersensitivity reactions (e.g. SJS, TEN), mainly with sulfonamide allergy
+- Q: Which interacting drug needs a parecoxib dose reduction?
+  - A: Fluconazole (CYP2C9 inhibitor)
+- Q: Does renal impairment change parecoxib kinetics?
+  - A: No; elimination is hepatic
+
 <!-- related:start (generated) -->
 ## Related
+- [NSAIDs and COX-2 inhibitors](nsaids.md)
+- [Celecoxib](celecoxib.md)
+- [Etoricoxib](etoricoxib.md)
+- [Paracetamol](paracetamol.md)
+- [Intraoperative analgesia and nociception monitoring](../procedures/intraoperative-analgesia.md)
 - [Diclofenac](diclofenac.md)
 - [Ibuprofen](ibuprofen.md)
 - [Ketorolac](ketorolac.md)
-- [NSAIDs and COX-2 inhibitors](nsaids.md)
 <!-- related:end -->

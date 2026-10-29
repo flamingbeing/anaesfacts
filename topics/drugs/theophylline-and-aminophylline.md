@@ -98,4 +98,5 @@ Methylxanthine bronchodilators with a narrow therapeutic range; less used now be
 ## Related
 - [Asthma](../comorbidities/asthma.md)
 - [COPD, Bronchiectasis and Cystic Fibrosis](../comorbidities/copd.md)
+- [Adenosine](adenosine.md)
 <!-- related:end -->

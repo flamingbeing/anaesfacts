@@ -135,5 +135,6 @@ Excess PTH; classified as primary, secondary or tertiary. Key anaesthetic issues
 - [Chronic Kidney Disease and Dialysis](chronic-kidney-disease.md)
 - [Hypoparathyroidism](hypoparathyroidism.md)
 - [Hypophosphataemia](hypophosphataemia.md)
+- [Hypocalcaemia and Calcium Replacement](../drugs/hypocalcaemia-and-calcium-replacement.md)
 - [Parathyroid Surgery](../procedures/parathyroid-surgery.md)
 <!-- related:end -->

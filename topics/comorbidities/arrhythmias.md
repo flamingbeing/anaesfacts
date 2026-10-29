@@ -127,4 +127,9 @@ Correct electrolytes, have defibrillator pads on before induction, avoid QT-prol
 ## Related
 - [Heart Failure](heart-failure.md)
 - [Cardiac Implantable Electronic Devices](cardiac-implantable-electronic-devices.md)
+- [Adenosine](../drugs/adenosine.md)
+- [Amiodarone](../drugs/amiodarone.md)
+- [Antiarrhythmics](../drugs/antiarrhythmics.md)
+- [Sotalol](../drugs/sotalol.md)
+- [Verapamil](../drugs/verapamil.md)
 <!-- related:end -->

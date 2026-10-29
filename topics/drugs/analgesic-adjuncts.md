@@ -71,4 +71,8 @@ Non-opioid drugs that add to analgesia, grouped by the mnemonic "NMDA" plus a fe
 - [Clonidine](clonidine.md)
 - [Dexmedetomidine](dexmedetomidine.md)
 - [Magnesium sulfate and hypomagnesaemia](magnesium-sulfate.md)
+- [Antidepressants](antidepressants.md)
+- [Capsaicin](capsaicin.md)
+- [Carbamazepine](carbamazepine.md)
+- [Intraoperative analgesia and nociception monitoring](../procedures/intraoperative-analgesia.md)
 <!-- related:end -->

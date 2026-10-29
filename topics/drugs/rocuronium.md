@@ -77,6 +77,7 @@ Aminosteroid non-depolarising muscle relaxant with rapid onset due to low potenc
 - [Induction of Anaesthesia](../airway/induction-of-anaesthesia.md)
 - [Burns](../comorbidities/burns.md)
 - [Myasthenia Gravis and Lambert-Eaton Syndrome](../comorbidities/myasthenia-gravis.md)
+- [Atracurium](atracurium.md)
 - [Neuromuscular blockers](neuromuscular-blockers.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 <!-- related:end -->

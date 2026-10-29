@@ -50,5 +50,6 @@ Local anaesthetics split into two chemical groups: amides and esters.
 - [Bupivacaine](bupivacaine.md)
 - [Ropivacaine](ropivacaine.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Amethocaine (tetracaine)](amethocaine.md)
 - [Topical Cutaneous Anaesthesia](topical-cutaneous-anaesthesia.md)
 <!-- related:end -->

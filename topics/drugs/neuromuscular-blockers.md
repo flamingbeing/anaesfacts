@@ -72,5 +72,7 @@ Overview of depolarising and non-depolarising neuromuscular blockers (NMBs): sha
 - [Sugammadex](sugammadex.md)
 - [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
 - [Anorexia Nervosa](../comorbidities/anorexia-nervosa.md)
+- [Atracurium](atracurium.md)
+- [Acetylcholine and cholinergic receptors](../physiology/acetylcholine-and-cholinergic-receptors.md)
 - [Anaesthesia and Immunity](../physiology/anaesthesia-and-immunity.md)
 <!-- related:end -->

@@ -59,6 +59,9 @@ Medical gas made by fractional distillation of air; supplied from cylinder banks
 <!-- related:start (generated) -->
 ## Related
 - [Nitrous oxide](nitrous-oxide.md)
+- [Carbon monoxide poisoning](../crises/carbon-monoxide-poisoning.md)
+- [Carbon dioxide](carbon-dioxide.md)
 - [Entonox](entonox.md)
 - [Helium and Heliox](heliox.md)
+- [Medical Air](medical-air.md)
 <!-- related:end -->

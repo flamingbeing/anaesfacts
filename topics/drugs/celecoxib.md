@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Celebrex, COX-2 inhibitor]
+related: [drugs/etoricoxib, drugs/parecoxib, drugs/nsaids, drugs/ibuprofen]
 sources: []
 tags: [nsaid, cox-2-inhibitor, analgesic]
 ---
@@ -42,3 +44,23 @@ Selective COX-2 inhibitor (Celebrex) for arthritis and postoperative pain.
 - Elimination half-life 8–12 hours
 - 97% protein bound; volume of distribution 5.7 l/kg
 - Metabolised by hepatic CYP2C9 to inactive metabolites; little appears unchanged in urine
+
+## Flashcards
+- Q: What is the usual dose of celecoxib?
+  - A: 200 mg twice daily
+- Q: What allergy contraindicates celecoxib?
+  - A: Sulfonamide allergy (it contains a sulfonamide group)
+- Q: What is the COX-1:COX-2 ratio of celecoxib?
+  - A: 1:30
+- Q: Which enzyme metabolises celecoxib?
+  - A: Hepatic CYP2C9
+- Q: What is the elimination half-life of celecoxib?
+  - A: 8–12 hours
+
+<!-- related:start (generated) -->
+## Related
+- [Etoricoxib](etoricoxib.md)
+- [Parecoxib and valdecoxib](parecoxib.md)
+- [NSAIDs and COX-2 inhibitors](nsaids.md)
+- [Ibuprofen](ibuprofen.md)
+<!-- related:end -->

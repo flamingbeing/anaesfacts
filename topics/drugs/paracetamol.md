@@ -102,4 +102,5 @@ Central-acting analgesic and antipyretic with almost no anti-inflammatory action
 - [Ibuprofen](ibuprofen.md)
 - [Ketorolac](ketorolac.md)
 - [Paracetamol in children](paediatric-paracetamol.md)
+- [Parecoxib and valdecoxib](parecoxib.md)
 <!-- related:end -->
