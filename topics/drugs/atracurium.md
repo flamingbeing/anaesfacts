@@ -53,3 +53,8 @@ Intermediate-acting non-depolarising benzylisoquinolinium muscle relaxant, broke
   - Products: laudanosine and a quaternary monoacrylate
   - Slowed by acidosis and hypothermia
 - Laudanosine: glycine antagonist, no neuromuscular blocking action, cleared by the kidneys
+
+<!-- related:start (generated) -->
+## Related
+- [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
+<!-- related:end -->

@@ -70,3 +70,9 @@ Oral pulmonary vasodilators for pulmonary arterial hypertension (PAH) that block
   - A: ETA only (selective); bosentan blocks ETA and ETB
 - Q: Why was sitaxsentan withdrawn?
   - A: Fatal liver injury
+
+<!-- related:start (generated) -->
+## Related
+- [Epoprostenol](epoprostenol.md)
+- [Nitric oxide](nitric-oxide.md)
+<!-- related:end -->

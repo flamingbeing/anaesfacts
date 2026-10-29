@@ -192,3 +192,9 @@ Five main patterns; the response pattern describes the block.
   - A: 0.4
 - Q: Maximum neostigmine dose when no fade is seen on qualitative TOF?
   - A: 20–25 mcg/kg
+
+<!-- related:start (generated) -->
+## Related
+- [Neuromuscular blockers](../drugs/neuromuscular-blockers.md)
+- [Neostigmine](../drugs/neostigmine.md)
+<!-- related:end -->

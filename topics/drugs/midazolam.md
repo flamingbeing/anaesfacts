@@ -90,3 +90,8 @@ Water-soluble, short-acting benzodiazepine for premedication, co-induction and s
 - Elimination half-life 1.5–3.5 h (1–4 hours)
 - Clearance 6–10 ml/kg/min, higher than diazepam and lorazepam, so it wears off faster after infusion
 - Shares hepatic P450 3A3/4 with alfentanil: given together, both may last longer
+
+<!-- related:start (generated) -->
+## Related
+- [Ketamine](ketamine.md)
+<!-- related:end -->

@@ -169,3 +169,10 @@ A rise in cardiac output of more than 10-15% after 500 ml of fluid; best predict
   - A: 30-90 seconds; it shifts about 150 ml
 - Q: How long is the end-expiratory occlusion hold?
   - A: 15 seconds
+
+<!-- related:start (generated) -->
+## Related
+- [Crystalloids](../drugs/crystalloids.md)
+- [Fluid status](fluid-status.md)
+- [Intraoperative fluid management](../procedures/intraoperative-fluid-management.md)
+<!-- related:end -->

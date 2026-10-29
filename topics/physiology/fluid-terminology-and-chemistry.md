@@ -115,3 +115,10 @@ Basic physical chemistry behind body fluids and IV fluids: solutions, osmolality
   - A: 2 meq
 - Q: What is the osmolarity of 0.9% NaCl?
   - A: About 300 mosmol/litre (0.15 molar, two particles)
+
+<!-- related:start (generated) -->
+## Related
+- [Crystalloids](../drugs/crystalloids.md)
+- [Body fluid compartments](body-fluid-compartments.md)
+- [Nitrous oxide](../drugs/nitrous-oxide.md)
+<!-- related:end -->

@@ -177,3 +177,9 @@ Weak organic acids that inhibit cyclo-oxygenase (COX); main risks are gastric, r
   - A: Irreversible COX inhibition, and platelets have no nucleus to make new COX
 - Q: What is the ketorolac dose?
   - A: 15 mg 6-hourly IV
+
+<!-- related:start (generated) -->
+## Related
+- [Parecoxib and valdecoxib](parecoxib.md)
+- [Ketorolac](ketorolac.md)
+<!-- related:end -->

@@ -100,3 +100,8 @@ Drugs that competitively block ACh at muscarinic receptors; atropine is the mode
     - Prevents motion sickness
   - Treatment of central anticholinergic syndrome: physostigmine (centrally acting anticholinesterase)
   - Used for extrapyramidal symptoms of Parkinson's disease and of conventional antipsychotics; antipsychotics with strong antimuscarinic action cause fewer extrapyramidal effects
+
+<!-- related:start (generated) -->
+## Related
+- [Glycopyrrolate](glycopyrrolate.md)
+<!-- related:end -->

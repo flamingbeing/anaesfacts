@@ -100,3 +100,9 @@ Gabapentin and pregabalin: anticonvulsants acting on the alpha-2-delta-1 (α2δ-
   - A: Gabapentin about 60% and falls with dose; pregabalin 90% and dose independent
 - Q: Most common side effect of gabapentin?
   - A: Drowsiness or somnolence, mostly during titration
+
+<!-- related:start (generated) -->
+## Related
+- [Ketamine](ketamine.md)
+- [Carbamazepine](carbamazepine.md)
+<!-- related:end -->

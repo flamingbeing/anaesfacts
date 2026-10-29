@@ -86,3 +86,8 @@ Class overview: GABAA modulators giving sedation, amnesia, anxiolysis and antico
 - Z-drugs
   - Zopiclone: usually 3.75 to 7.5 mg
   - Zolpidem CR: usually 6.25 to 12.5 mg
+
+<!-- related:start (generated) -->
+## Related
+- [Melatonin](melatonin.md)
+<!-- related:end -->

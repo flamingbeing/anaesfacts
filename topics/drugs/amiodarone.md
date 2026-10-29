@@ -76,3 +76,11 @@ Benzofuran antiarrhythmic, mainly class III but with class I, II and IV actions;
 - Elimination half-life 20 to 100 days
 - Hepatic metabolism to desmethylamiodarone, which has some antiarrhythmic activity
 - Excreted via lacrimal glands, skin and biliary tract
+
+<!-- related:start (generated) -->
+## Related
+- [Digoxin](digoxin.md)
+- [Disopyramide](disopyramide.md)
+- [Flecainide](flecainide.md)
+- [Mexiletine](mexiletine.md)
+<!-- related:end -->

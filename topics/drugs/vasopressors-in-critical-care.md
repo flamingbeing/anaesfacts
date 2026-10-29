@@ -96,3 +96,10 @@ Drugs that support blood pressure and flow in critically ill patients; overview 
   - A: 0.02-0.2mcg/kg/min (usually 1–2 mcg/min)
 - Q: Milrinone infusion range?
   - A: 0.375-0.75mcg/kg/min
+
+<!-- related:start (generated) -->
+## Related
+- [Dobutamine](dobutamine.md)
+- [Adrenaline (Epinephrine)](adrenaline.md)
+- [Dopexamine](dopexamine.md)
+<!-- related:end -->

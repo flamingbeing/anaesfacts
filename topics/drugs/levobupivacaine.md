@@ -56,3 +56,9 @@ Amide local anaesthetic; the S-enantiomer of (racemic) bupivacaine, with less ca
   - A: It is the S-enantiomer, less potent at cardiac Na channels than the R-enantiomer
 - Q: Is levobupivacaine licensed for subarachnoid block?
   - A: No
+
+<!-- related:start (generated) -->
+## Related
+- [Bupivacaine](bupivacaine.md)
+- [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+<!-- related:end -->

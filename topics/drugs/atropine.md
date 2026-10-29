@@ -64,3 +64,10 @@ Competitive muscarinic acetylcholine receptor antagonist that blocks parasympath
 - Rapid but unpredictable gut absorption
 - 50% protein bound
 - Extensively metabolised by liver esterases; excreted in urine, very little unchanged
+
+<!-- related:start (generated) -->
+## Related
+- [Glycopyrrolate](glycopyrrolate.md)
+- [Hyoscine Hydrobromide](hyoscine-hydrobromide.md)
+- [Isoprenaline](isoprenaline.md)
+<!-- related:end -->

@@ -203,3 +203,9 @@ Competitive antagonists of acetylcholine at the motor end plate; two chemical fa
   - A: Hypocalcaemia, hypermagnesaemia, hypokalaemia, acidosis
 - Q: Above what dose does mivacurium cause significant hypotension?
   - A: Above 0.2 mg/kg (from histamine release); slow injection over 15–30 s reduces it
+
+<!-- related:start (generated) -->
+## Related
+- [Atracurium](atracurium.md)
+- [Neostigmine](neostigmine.md)
+<!-- related:end -->

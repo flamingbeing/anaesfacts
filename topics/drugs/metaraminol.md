@@ -48,3 +48,8 @@ Synthetic amine vasopressor with direct and indirect sympathomimetic action, mai
   - A: Mainly α1, with some β activity; direct and indirect action
 - Q: What happens to cardiac output with metaraminol?
   - A: Often falls, as SVR rises despite β activity
+
+<!-- related:start (generated) -->
+## Related
+- [Ephedrine](ephedrine.md)
+<!-- related:end -->

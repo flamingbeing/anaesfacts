@@ -1,10 +1,10 @@
 // Repo checks, run before merging (and in CI):
 // 1. Every topic file has front matter with title, a known area matching its folder, and a known status.
 // 2. Verified entries have a verified_on date; drafts have none.
-// 3. index.json matches the topic files.
+// 3. index.json, CONTENTS.md and the Related footers match the topic files.
 import fs from 'node:fs';
 import path from 'node:path';
-import { ROOT, AREAS, STATUSES, topicFiles, frontMatter, indexText } from './lib.mjs';
+import { ROOT, AREAS, STATUSES, topicFiles, frontMatter, indexText, buildIndex, relatedMap, withRelated, contentsText } from './lib.mjs';
 
 const errors = [];
 const fail = m => errors.push(m);
@@ -24,6 +24,14 @@ for (const p of topicFiles()) {
 
 const idx = path.join(ROOT, 'index.json');
 if (!fs.existsSync(idx) || fs.readFileSync(idx, 'utf8') !== indexText()) fail('index.json is stale: run node tools/build-index.mjs');
+
+const contents = path.join(ROOT, 'CONTENTS.md');
+if (!fs.existsSync(contents) || fs.readFileSync(contents, 'utf8') !== contentsText()) fail('CONTENTS.md is stale: run node tools/build-index.mjs');
+const rel = relatedMap(buildIndex());
+for (const [p, links] of rel) {
+  const text = fs.readFileSync(path.join(ROOT, p), 'utf8');
+  if (withRelated(text, p, links) !== text) fail(`${p}: Related footer is stale: run node tools/build-index.mjs`);
+}
 
 if (errors.length) { console.error(errors.join('\n')); process.exit(1); }
 console.log(`check: ok (${topicFiles().length} topics)`);

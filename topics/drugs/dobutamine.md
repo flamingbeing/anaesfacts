@@ -60,3 +60,12 @@ Synthetic catecholamine and inodilator: mainly β1, some β2 (about 3:1), weak �
 
 - Metabolised by COMT to inactive metabolites
 - Half-life about 2 min
+
+<!-- related:start (generated) -->
+## Related
+- [Dopamine](dopamine.md)
+- [Dopexamine](dopexamine.md)
+- [Isoprenaline](isoprenaline.md)
+- [Levosimendan](levosimendan.md)
+- [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
+<!-- related:end -->

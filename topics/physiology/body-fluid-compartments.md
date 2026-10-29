@@ -114,3 +114,8 @@ How total body water and blood volume are divided, what separates the compartmen
 - Plasma volume: tracer that stays in vessels
   - Radiolabelled albumin, or Evans blue dye (binds plasma albumin)
 - Interstitial volume: not measured directly; ECF minus plasma volume
+
+<!-- related:start (generated) -->
+## Related
+- [Fluid terminology and chemistry](fluid-terminology-and-chemistry.md)
+<!-- related:end -->

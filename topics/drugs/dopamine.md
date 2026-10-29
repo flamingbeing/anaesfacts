@@ -83,3 +83,10 @@ Endogenous catecholamine acting on dopamine, β and α receptors in a dose-depen
   - A: No
 - Q: What is the half-life of dopamine?
   - A: About 3 minutes
+
+<!-- related:start (generated) -->
+## Related
+- [Dobutamine](dobutamine.md)
+- [Adrenaline (Epinephrine)](adrenaline.md)
+- [Dopexamine](dopexamine.md)
+<!-- related:end -->

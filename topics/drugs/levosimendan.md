@@ -73,3 +73,8 @@ Calcium sensitiser: a novel inotrope and inodilator (like milrinone), with effec
   - A: Active metabolites (half-life 70 hours, peak about 72 hours) keep effects going for at least 7 days
 - Q: Can levosimendan be used with beta-blockers?
   - A: Yes; it does not compete at the receptor
+
+<!-- related:start (generated) -->
+## Related
+- [Dobutamine](dobutamine.md)
+<!-- related:end -->

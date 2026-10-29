@@ -264,3 +264,8 @@ Planning for and managing surgical blood loss: blood volume and allowable loss, 
   - A: Hypothermia, acidosis, coagulopathy, hypocalcaemia
 - Q: Paediatric red cell dose to raise Hb by 1 g/dl?
   - A: 4 ml/kg
+
+<!-- related:start (generated) -->
+## Related
+- [Intraoperative fluid management](intraoperative-fluid-management.md)
+<!-- related:end -->

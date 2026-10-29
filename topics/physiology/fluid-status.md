@@ -76,3 +76,9 @@ Bedside assessment of volume status: recognising fluid overload and dehydration.
   - A: Raised JVP, bibasal crepitations, orthopnoea or PND, peripheral oedema, hypertension
 - Q: Features of severe (decompensated) dehydration?
   - A: Drowsiness, prolonged capillary refill, hypotension
+
+<!-- related:start (generated) -->
+## Related
+- [Fluid Responsiveness](fluid-responsiveness.md)
+- [Intraoperative fluid management](../procedures/intraoperative-fluid-management.md)
+<!-- related:end -->

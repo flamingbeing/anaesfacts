@@ -162,3 +162,13 @@ Low-potency anaesthetic and analgesic gas (MAC 105%), with fast onset and offset
   - A: Oxidises its cobalt atom, inactivating methionine synthetase; prolonged exposure causes megaloblastic anaemia and subacute combined degeneration
 - Q: Name contraindications related to gas-filled spaces.
   - A: Bowel obstruction, pneumothorax or bullae, intracranial air, intraocular gas, middle ear surgery, air embolism
+
+<!-- related:start (generated) -->
+## Related
+- [Minimum alveolar concentration (MAC)](../physiology/minimum-alveolar-concentration.md)
+- [Entonox](entonox.md)
+- [Fluid terminology and chemistry](../physiology/fluid-terminology-and-chemistry.md)
+- [Inhaled anaesthetics](inhaled-anaesthetics.md)
+- [Nitric oxide](nitric-oxide.md)
+- [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
+<!-- related:end -->

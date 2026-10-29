@@ -125,3 +125,8 @@ MAC is the standard measure of inhalational agent potency; potency follows lipid
   - A: Peaks at 6 months, then falls about 6% per decade
 - Q: Name factors that increase MAC.
   - A: Infancy to adolescence, hyperthermia, thyrotoxicosis, hypernatraemia, chronic alcoholism, stimulants, red hair
+
+<!-- related:start (generated) -->
+## Related
+- [Nitrous oxide](../drugs/nitrous-oxide.md)
+<!-- related:end -->

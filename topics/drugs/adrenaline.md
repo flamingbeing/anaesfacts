@@ -121,3 +121,11 @@ Endogenous catecholamine from the adrenal gland acting on α and β receptors: �
 - Metabolised by mitochondrial MAO and COMT in liver, kidney and blood
 - Products: inactive 3-methoxy-4-hydroxymandelic acid (vanillylmandelic acid, VMA) and metadrenaline, conjugated with glucuronide or sulfate, excreted in urine
 - Half-life about 2 minutes
+
+<!-- related:start (generated) -->
+## Related
+- [Dopamine](dopamine.md)
+- [Ephedrine](ephedrine.md)
+- [Isoprenaline](isoprenaline.md)
+- [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
+<!-- related:end -->

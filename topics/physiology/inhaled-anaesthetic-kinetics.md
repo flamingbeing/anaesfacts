@@ -135,3 +135,9 @@ How inhaled agents reach the brain and leave it: speed depends on inspired conce
   - A: Adults versus children, hypothermia, after meals
 - Q: Why is the 50% decrement time similar for all volatiles?
   - A: The first phase of elimination depends mainly on ventilation
+
+<!-- related:start (generated) -->
+## Related
+- [Nitrous oxide](../drugs/nitrous-oxide.md)
+- [Inhaled anaesthetics](../drugs/inhaled-anaesthetics.md)
+<!-- related:end -->

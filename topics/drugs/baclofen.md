@@ -47,3 +47,8 @@ Antispasmodic acting at GABA-B receptors; best for pain linked to spasticity.
 ## Indications
 
 - Spasticity, and pain associated with it
+
+<!-- related:start (generated) -->
+## Related
+- [Eperisone](eperisone.md)
+<!-- related:end -->

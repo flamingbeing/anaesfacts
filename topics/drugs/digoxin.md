@@ -181,3 +181,10 @@ Cardiac glycoside from the woolly foxglove (Digitalis lanata): slows AV conducti
   - A: 24 h
 - Q: Indications for digoxin-specific Fab?
   - A: Level above 20 mcg/l, life-threatening arrhythmias, uncontrolled hyperkalaemia, end-organ hypoperfusion, any severe poisoning
+
+<!-- related:start (generated) -->
+## Related
+- [Amiodarone](amiodarone.md)
+- [Verapamil](verapamil.md)
+- [Beta Blockers](beta-blockers.md)
+<!-- related:end -->

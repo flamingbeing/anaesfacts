@@ -51,3 +51,10 @@ Lidocaine analogue used for ventricular tachyarrhythmias; narrow therapeutic rat
   - A: Up to 40%
 - Q: What is the oral bioavailability of mexiletine?
   - A: 90%
+
+<!-- related:start (generated) -->
+## Related
+- [Lidocaine](lidocaine.md)
+- [Amiodarone](amiodarone.md)
+- [Flecainide](flecainide.md)
+<!-- related:end -->

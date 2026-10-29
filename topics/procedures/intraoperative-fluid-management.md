@@ -150,3 +150,10 @@ Working out intraoperative fluid needs: traditional calculation, restrictive (ze
   - A: 1 to 2 l balanced crystalloid over 30 minutes to two hours
 - Q: When to consider goal-directed therapy?
   - A: High-risk patients having major surgery with expected blood loss more than 500 ml or major fluid shifts
+
+<!-- related:start (generated) -->
+## Related
+- [Fluid status](../physiology/fluid-status.md)
+- [Fluid Responsiveness](../physiology/fluid-responsiveness.md)
+- [Intraoperative bleeding and patient blood management](intraoperative-bleeding-and-blood-management.md)
+<!-- related:end -->

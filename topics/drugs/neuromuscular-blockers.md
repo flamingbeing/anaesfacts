@@ -64,3 +64,8 @@ Overview of depolarising and non-depolarising neuromuscular blockers (NMBs): sha
   - A: Suxamethonium, atracurium, pancuronium (more potent)
 - Q: What prolongs suxamethonium block?
   - A: Reduced plasma (pseudo)cholinesterase
+
+<!-- related:start (generated) -->
+## Related
+- [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
+<!-- related:end -->

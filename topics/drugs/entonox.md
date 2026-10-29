@@ -62,3 +62,8 @@ Premixed 50% oxygen and 50% nitrous oxide for inhaled analgesia; separates if co
   - A: Little analgesia at first, then a hypoxic N2O-rich mixture below 20% oxygen as it empties
 - Q: Storage before use?
   - A: 10°C for 24 hours then invert three times
+
+<!-- related:start (generated) -->
+## Related
+- [Nitrous oxide](nitrous-oxide.md)
+<!-- related:end -->

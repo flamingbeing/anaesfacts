@@ -69,3 +69,8 @@ Systemic and local adverse effects of local anaesthetics, apart from LAST itself
   - A: Usually settle within 3 days; occasionally up to 6 months
 - Q: Which local anaesthetic always vasoconstricts?
   - A: Cocaine
+
+<!-- related:start (generated) -->
+## Related
+- [Lidocaine](lidocaine.md)
+<!-- related:end -->

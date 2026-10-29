@@ -81,3 +81,10 @@ Mixed direct and indirect sympathomimetic (alpha and beta): raises blood pressur
   - A: 3-5 mg
 - Q: Which drug class makes ephedrine dangerous?
   - A: MAOIs; use with extreme caution
+
+<!-- related:start (generated) -->
+## Related
+- [Metaraminol](metaraminol.md)
+- [Monoamine oxidase inhibitors](monoamine-oxidase-inhibitors.md)
+- [Adrenaline (Epinephrine)](adrenaline.md)
+<!-- related:end -->

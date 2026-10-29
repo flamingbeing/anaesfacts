@@ -72,3 +72,10 @@ Reversible acetylcholinesterase inhibitor (quaternary amine), mainly used to rev
 - Mainly metabolised by plasma esterases to a quaternary alcohol; some hepatic metabolism with biliary excretion
 - 60% excreted unchanged in urine
   - Renal impairment reduces clearance and prolongs half-life
+
+<!-- related:start (generated) -->
+## Related
+- [Glycopyrrolate](glycopyrrolate.md)
+- [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
+- [Neuromuscular Monitoring with a Nerve Stimulator](../equipment/neuromuscular-monitoring.md)
+<!-- related:end -->

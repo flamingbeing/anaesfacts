@@ -117,3 +117,8 @@ How cirrhosis and liver failure change drug handling, and which anaesthetic, ana
   - A: Codeine, pethidine and oxycodone/naloxone (Targin); remifentanil is ideal
 - Q: How should metronidazole be adjusted in Child-Pugh C?
   - A: Reduce the dose by 50%
+
+<!-- related:start (generated) -->
+## Related
+- [Drugs in renal impairment](drugs-in-renal-impairment.md)
+<!-- related:end -->

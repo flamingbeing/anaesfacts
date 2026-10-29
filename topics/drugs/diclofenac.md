@@ -69,3 +69,10 @@ Phenylacetic acid NSAID for mild to moderate pain and opioid sparing; carries a 
   - A: Not licensed under 6 years
 - Q: Main cardiovascular concern with diclofenac?
   - A: Raised coronary event risk in chronic use, similar to COX-2 inhibitors
+
+<!-- related:start (generated) -->
+## Related
+- [Ibuprofen](ibuprofen.md)
+- [Parecoxib and valdecoxib](parecoxib.md)
+- [Ketorolac](ketorolac.md)
+<!-- related:end -->
