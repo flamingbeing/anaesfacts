@@ -225,4 +225,5 @@ How to anaesthetise the nose, pharynx, larynx and trachea (topical local anaesth
 ## Related
 - [Lidocaine](../drugs/lidocaine.md)
 - [Cocaine](../drugs/cocaine.md)
+- [Flexible Bronchoscope](../equipment/flexible-bronchoscope.md)
 <!-- related:end -->

@@ -97,5 +97,6 @@ Like a hip fracture operation but elective and without the fall; key issues are 
 
 <!-- related:start (generated) -->
 ## Related
+- [Hip Surgery](hip-surgery.md)
 - [Total Knee Replacement](total-knee-replacement.md)
 <!-- related:end -->

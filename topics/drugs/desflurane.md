@@ -81,6 +81,7 @@ Fluorinated ethyl methyl ether volatile with the fastest onset and offset, given
 - [Nitrous oxide](nitrous-oxide.md)
 - [Paediatric inhalational agents](paediatric-inhalational-agents.md)
 - [Xenon](xenon.md)
+- [Green Anaesthesia and Sustainability](../other/green-anaesthesia.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
 - [Minimum alveolar concentration (MAC)](../physiology/minimum-alveolar-concentration.md)
 <!-- related:end -->

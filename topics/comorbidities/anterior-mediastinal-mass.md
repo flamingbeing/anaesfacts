@@ -264,4 +264,5 @@ A mass that can compress the airway, great vessels and heart, often only after l
 ## Related
 - [Cancer and chemotherapy](cancer-and-chemotherapy.md)
 - [Cardiac Tamponade](cardiac-tamponade.md)
+- [Hyperthyroidism](hyperthyroidism.md)
 <!-- related:end -->

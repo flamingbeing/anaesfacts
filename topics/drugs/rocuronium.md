@@ -74,6 +74,7 @@ Aminosteroid non-depolarising muscle relaxant with rapid onset due to low potenc
 - [Suxamethonium](suxamethonium.md)
 - [Neostigmine](neostigmine.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
+- [Induction of Anaesthesia](../airway/induction-of-anaesthesia.md)
 - [Burns](../comorbidities/burns.md)
 - [Neuromuscular blockers](neuromuscular-blockers.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)

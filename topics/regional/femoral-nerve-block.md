@@ -125,6 +125,7 @@ Block of the femoral nerve at the femoral crease, deep to the fascia iliaca and 
 - [Fascia Iliaca Block](fascia-iliaca-block.md)
 - [Adductor Canal Block](adductor-canal-block.md)
 - [Sciatic Nerve Block and Parasacral Sacral Plexus Block](sciatic-nerve-block.md)
+- [Hip Fracture](../procedures/hip-fracture.md)
 - [Lateral Femoral Cutaneous Nerve Block](lateral-femoral-cutaneous-nerve-block.md)
 - [Lower Limb Blocks](lower-limb-blocks.md)
 - [Lumbar Plexus (Psoas) Block](lumbar-plexus-block.md)

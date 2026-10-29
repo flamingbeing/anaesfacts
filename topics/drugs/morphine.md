@@ -103,4 +103,5 @@ Naturally occurring phenanthrene opioid and the reference against which all othe
 - [Paediatric opioids](paediatric-opioids.md)
 - [Pethidine](pethidine.md)
 - [Tramadol](tramadol.md)
+- [Incision and Drainage of Abscess](../procedures/incision-and-drainage-of-abscess.md)
 <!-- related:end -->

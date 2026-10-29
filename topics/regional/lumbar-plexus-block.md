@@ -99,5 +99,6 @@ Deep posterior block of the lumbar plexus within psoas: covers femoral, lateral 
 - [Lateral Femoral Cutaneous Nerve Block](lateral-femoral-cutaneous-nerve-block.md)
 - [Obturator Nerve Block](obturator-nerve-block.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Femoral Endarterectomy](../procedures/femoral-endarterectomy.md)
 - [PENG Block](peng-block.md)
 <!-- related:end -->

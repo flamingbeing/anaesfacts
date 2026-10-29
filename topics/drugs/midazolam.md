@@ -93,6 +93,8 @@ Water-soluble, short-acting benzodiazepine for premedication, co-induction and s
 
 <!-- related:start (generated) -->
 ## Related
+- [HIV and AIDS](../comorbidities/hiv-aids.md)
+- [Intellectual Disability and Autism](../comorbidities/intellectual-disability-and-autism.md)
 - [Alfentanil](alfentanil.md)
 - [Induction agents](induction-agents.md)
 - [Ketamine](ketamine.md)

@@ -906,4 +906,5 @@ Core perioperative topics around general anaesthesia: risk grading, ERAS, TIVA, 
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](total-intravenous-anaesthesia.md)
 - [Intraoperative bleeding and patient blood management](intraoperative-bleeding-and-blood-management.md)
 - [Intraoperative fluid management](intraoperative-fluid-management.md)
+- [Starting a Case and Preparing for Surgery](starting-a-case.md)
 <!-- related:end -->

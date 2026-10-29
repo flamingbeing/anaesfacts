@@ -60,7 +60,9 @@ Local anaesthetic on the posterior rectus sheath blocks the terminal intercostal
 - [Ilioinguinal and Iliohypogastric Nerve Block](ilioinguinal-iliohypogastric-block.md)
 - [Peripheral nerve blocks in children](paeds-peripheral-nerve-blocks.md)
 - [Peripheral nerve block catheters](peripheral-nerve-block-catheters.md)
+- [Abdominal Surgery and Laparotomy](../procedures/abdominal-surgery-and-laparotomy.md)
 - [Closure and Revision of Colostomy or Ileostomy](../procedures/closure-of-stoma.md)
 - [Colorectal Surgery](../procedures/colorectal-surgery.md)
 - [Cytoreductive surgery and HIPEC](../procedures/crs-hipec.md)
+- [Hysterectomy](../procedures/hysterectomy.md)
 <!-- related:end -->

@@ -105,4 +105,5 @@ Elderly patients are multisystem, often frail and prone to delirium: reduce dose
 <!-- related:start (generated) -->
 ## Related
 - [Altered mental status, dementia and delirium](../comorbidities/altered-mental-status-dementia-delirium.md)
+- [Hip Fracture](../procedures/hip-fracture.md)
 <!-- related:end -->

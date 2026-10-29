@@ -102,3 +102,8 @@ Commonest chromosomal abnormality; key issues are behaviour, airway and C-spine,
   - A: Bradycardia.
 - Q: How common is hypothyroidism?
   - A: Up to 40%.
+
+<!-- related:start (generated) -->
+## Related
+- [Hypothyroidism](hypothyroidism.md)
+<!-- related:end -->

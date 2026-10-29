@@ -54,3 +54,8 @@ Anaesthesia follows obesity principles, plus bougie handling, arm positioning an
   - A: Nasogastric tube and temperature probes.
 - Q: Signs of an anastomotic leak after bariatric surgery?
   - A: Tachycardia, abdominal pain, fever, tachypnoea.
+
+<!-- related:start (generated) -->
+## Related
+- [Laparoscopic Surgery](laparoscopic-surgery.md)
+<!-- related:end -->

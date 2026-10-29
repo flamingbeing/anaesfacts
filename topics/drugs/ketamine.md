@@ -180,6 +180,7 @@ NMDA receptor antagonist giving dissociative anaesthesia and strong analgesia, w
 - [Asthma](../comorbidities/asthma.md)
 - [Burns](../comorbidities/burns.md)
 - [Cardiac Tamponade](../comorbidities/cardiac-tamponade.md)
+- [Intellectual Disability and Autism](../comorbidities/intellectual-disability-and-autism.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
 - [Gabapentinoids](gabapentinoids.md)
 - [Induction agents](induction-agents.md)

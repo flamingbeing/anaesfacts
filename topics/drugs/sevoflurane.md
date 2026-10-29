@@ -94,6 +94,7 @@ Volatile anaesthetic with low blood:gas solubility, pleasant smell and moderate 
 - [Isoflurane](isoflurane.md)
 - [Desflurane](desflurane.md)
 - [Minimum alveolar concentration (MAC)](../physiology/minimum-alveolar-concentration.md)
+- [Inhalational Induction and Co-induction](../airway/inhalational-induction.md)
 - [Paediatric inhalational agents](paediatric-inhalational-agents.md)
 - [Xenon](xenon.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)

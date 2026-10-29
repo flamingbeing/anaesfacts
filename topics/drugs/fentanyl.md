@@ -110,4 +110,5 @@ Synthetic phenylpiperidine opioid, a highly lipid-soluble mu agonist about 100 t
 - [Opioids](opioids.md)
 - [Oxycodone](oxycodone.md)
 - [Paediatric opioids](paediatric-opioids.md)
+- [IVF Oocyte Retrieval and Embryo Transfer](../procedures/ivf-oocyte-retrieval.md)
 <!-- related:end -->

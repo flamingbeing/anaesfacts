@@ -105,6 +105,7 @@ Catheter in the epidural space for continuous or intermittent drug delivery, for
 
 <!-- related:start (generated) -->
 ## Related
+- [High Spinal and Total Spinal Anaesthesia](../crises/high-spinal.md)
 - [Caesarean Section](../procedures/caesarean-section.md)
 - [Central Neuraxial Blocks](central-neuraxial-blocks.md)
 - [Complications of Neuraxial Blocks](complications-of-neuraxial-blocks.md)

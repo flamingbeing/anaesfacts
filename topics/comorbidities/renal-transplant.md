@@ -46,6 +46,7 @@ Protect the graft, keep immunosuppression going and avoid pressure on the kidney
 
 <!-- related:start (generated) -->
 ## Related
+- [Immunosuppression](immunosuppression.md)
 - [Chronic Kidney Disease and Dialysis](chronic-kidney-disease.md)
 - [NSAIDs and COX-2 inhibitors](../drugs/nsaids.md)
 <!-- related:end -->

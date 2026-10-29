@@ -205,6 +205,7 @@ Check fluid status, potassium, dialysis timing and drug handling; protect remain
 - [Sugammadex](../drugs/sugammadex.md)
 - [Fentanyl](../drugs/fentanyl.md)
 - [Anaemia](anaemia.md)
+- [Hyperparathyroidism](hyperparathyroidism.md)
 - [Perioperative acute kidney injury and renal protection](perioperative-acute-kidney-injury.md)
 - [Anaesthesia After Renal Transplant](renal-transplant.md)
 - [Drugs in renal impairment](../drugs/drugs-in-renal-impairment.md)

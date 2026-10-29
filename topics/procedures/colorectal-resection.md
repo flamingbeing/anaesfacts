@@ -145,4 +145,5 @@ ERAS surgery: treat anaemia, protect the anastomosis with goal-directed fluids, 
 ## Related
 - [Intraoperative fluid management](intraoperative-fluid-management.md)
 - [Intraoperative bleeding and patient blood management](intraoperative-bleeding-and-blood-management.md)
+- [Laparoscopic Surgery](laparoscopic-surgery.md)
 <!-- related:end -->

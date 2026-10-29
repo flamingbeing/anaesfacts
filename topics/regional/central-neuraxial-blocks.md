@@ -53,4 +53,5 @@ Summary of neuraxial techniques, contraindications and complications.
 <!-- related:start (generated) -->
 ## Related
 - [Epidural Anaesthesia](epidural-anaesthesia.md)
+- [High Spinal and Total Spinal Anaesthesia](../crises/high-spinal.md)
 <!-- related:end -->

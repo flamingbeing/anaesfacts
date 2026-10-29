@@ -106,7 +106,9 @@ Highly selective full alpha-2 agonist (Precedex) giving rousable sedation and an
 
 <!-- related:start (generated) -->
 ## Related
+- [Perioperative Hypertension and Hypotensive Anaesthesia](../comorbidities/perioperative-hypertension.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
+- [General Anaesthesia](../physiology/general-anaesthesia.md)
 - [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
 - [Drug-Induced Sleep Endoscopy (DISE)](../procedures/drug-induced-sleep-endoscopy.md)
 - [Rebound Pain and Perineural Adjuncts](../regional/rebound-pain-perineural-adjuncts.md)

@@ -67,4 +67,5 @@ Phenylpiperidine µ agonist related to fentanyl: least potent, fastest onset and
 - [Remifentanil](remifentanil.md)
 - [Midazolam](midazolam.md)
 - [Naloxone](naloxone.md)
+- [Incision and Drainage of Abscess](../procedures/incision-and-drainage-of-abscess.md)
 <!-- related:end -->

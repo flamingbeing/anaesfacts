@@ -71,6 +71,7 @@ Motor-sparing fascial plane block between the psoas tendon and pubic ramus for h
 - [Fascia Iliaca Block](fascia-iliaca-block.md)
 - [Femoral Nerve Block](femoral-nerve-block.md)
 - [Lateral Femoral Cutaneous Nerve Block](lateral-femoral-cutaneous-nerve-block.md)
+- [Hip Surgery](../procedures/hip-surgery.md)
 - [Lumbar Plexus (Psoas) Block](lumbar-plexus-block.md)
 - [Lower Limb Blocks](lower-limb-blocks.md)
 <!-- related:end -->

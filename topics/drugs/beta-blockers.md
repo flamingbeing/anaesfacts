@@ -117,5 +117,6 @@ Beta-adrenoceptor antagonists: slow the heart and reduce contractility; used for
 
 <!-- related:start (generated) -->
 ## Related
+- [Hypertension](../comorbidities/hypertension.md)
 - [Digoxin](digoxin.md)
 <!-- related:end -->
