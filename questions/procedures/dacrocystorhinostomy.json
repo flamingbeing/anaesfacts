@@ -1,0 +1,119 @@
+{
+ "topic": "procedures/dacrocystorhinostomy",
+ "questions": [
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#8987dc",
+   "kind": "mcq",
+   "stem": "Under what condition can dacrocystorhinostomy be done under local anaesthesia alone?",
+   "options": [
+    "Only if the surgeon is experienced",
+    "Only in children under five",
+    "Only if an LMA is placed",
+    "Only after midazolam premedication"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#f080c0",
+   "kind": "mcq",
+   "stem": "Which dacrocystorhinostomy patients should receive prophylactic antibiotics?",
+   "options": [
+    "Those with diabetes",
+    "Those with cardiac defects",
+    "Those with asthma",
+    "Those with a penicillin allergy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#9b9064",
+   "kind": "mcq",
+   "stem": "What patient position is used for dacrocystorhinostomy?",
+   "options": [
+    "Prone, head down",
+    "Supine, head down",
+    "Lateral, head up",
+    "Supine, head up"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#6b98c5",
+   "kind": "mcq",
+   "stem": "Which airway options are used for dacrocystorhinostomy?",
+   "options": [
+    "Tracheostomy or cuffed ETT",
+    "Oral Guedel airway only",
+    "RAE ETT or LMA",
+    "Face mask only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#e88be0",
+   "kind": "blank",
+   "stem": "During dacrocystorhinostomy, blood runs into the ____.",
+   "answer": "nasopharynx",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#6aea49",
+   "kind": "mcq",
+   "stem": "Which blood pressure approach is used in dacrocystorhinostomy, with slight head-up tilt?",
+   "options": [
+    "Marked hypertension",
+    "Deliberate hypothermia",
+    "Normal blood pressure",
+    "Moderate hypotension"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#cf0c5f",
+   "kind": "statement",
+   "stem": "What should be done before extubation after dacrocystorhinostomy?",
+   "answer": "Suction and inspect the airway under direct vision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#04b5ce",
+   "kind": "mcq",
+   "stem": "What postoperative analgesia is advised after dacrocystorhinostomy?",
+   "options": [
+    "Epidural infusion",
+    "Intravenous ketamine",
+    "Simple analgesia",
+    "Patient-controlled opioid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/dacrocystorhinostomy#e45a12",
+   "kind": "mcq",
+   "stem": "What is applied at the end of dacrocystorhinostomy surgery?",
+   "options": [
+    "Topical local anaesthetic",
+    "Systemic opioid infusion",
+    "Intravenous paracetamol",
+    "Intrathecal morphine"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

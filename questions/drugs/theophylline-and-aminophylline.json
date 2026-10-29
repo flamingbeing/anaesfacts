@@ -1,0 +1,371 @@
+{
+ "topic": "drugs/theophylline-and-aminophylline",
+ "questions": [
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#9b9a4e",
+   "kind": "mcq",
+   "stem": "What proportion of aminophylline is theophylline?",
+   "options": [
+    "50%",
+    "80%",
+    "60%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#9b9a4e",
+   "kind": "statement",
+   "stem": "What does ethylenediamine add to aminophylline, given it has no therapeutic effect?",
+   "answer": "Improved solubility at neutral pH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#3f23e8",
+   "kind": "blank",
+   "stem": "Aminophylline injection is supplied as ____.",
+   "answer": "25mg/ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#093d6c",
+   "kind": "mcq",
+   "stem": "What is the half-life of aminophylline tablets, usually slow release?",
+   "options": [
+    "About 1 hour",
+    "About 6 hours",
+    "About 12 hours",
+    "About 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#093d6c",
+   "kind": "statement",
+   "stem": "Are slow-release aminophylline and slow-release theophylline equally effective?",
+   "answer": "Yes, equally effective",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#7afeac",
+   "kind": "mcq",
+   "stem": "What is the IV aminophylline loading dose in acute severe asthma?",
+   "options": [
+    "3 mg/kg over 20 minutes",
+    "6 mg/kg over 20 minutes",
+    "6 mg/kg over 2 hours",
+    "0.5 mg/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#22a507",
+   "kind": "mcq",
+   "stem": "What is the maintenance IV aminophylline infusion in acute severe asthma?",
+   "options": [
+    "6 mg/kg/h or 50mg/h",
+    "2 mg/kg/h or 100mg/h",
+    "0.5 mg/kg/h or 25mg/h",
+    "0.1 mg/kg/h or 5mg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#1beb25",
+   "kind": "mcq",
+   "stem": "What is the daily oral aminophylline dose range for asthma?",
+   "options": [
+    "150 to 450 mg daily",
+    "450 to 1250 mg daily",
+    "1250 to 2500 mg daily",
+    "50 to 150 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#97a505",
+   "kind": "mcq",
+   "stem": "What is the usual oral dose of standard theophylline tablets?",
+   "options": [
+    "62.5mg od",
+    "250mg od",
+    "500mg tds",
+    "125mg tds-qds"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#97a505",
+   "kind": "mcq",
+   "stem": "What is the usual oral dose of slow-release theophylline?",
+   "options": [
+    "250mg od",
+    "125mg bd",
+    "500mg bd",
+    "62.5mg od"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#b73bbf",
+   "kind": "mcq",
+   "stem": "What is the target theophylline plasma concentration?",
+   "options": [
+    "1–5 mcg/ml",
+    "20–35 mcg/ml",
+    "10–20 mcg/ml",
+    "35–50 mcg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#1d9df4",
+   "kind": "mcq",
+   "stem": "Aiming for which plasma level largely avoids theophylline side effects and interactions?",
+   "options": [
+    "25–30 mg/L",
+    "35–40 mg/L",
+    "5-10 mg/L",
+    "40–50 mg/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#a778f2",
+   "kind": "statement",
+   "stem": "How well understood is theophylline's mechanism of action?",
+   "answer": "Not fully understood",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#572ff5",
+   "kind": "statement",
+   "stem": "Antagonism at which receptor may cause theophylline's arrhythmias and seizures?",
+   "answer": "A1 receptor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#e6565e",
+   "kind": "mcq",
+   "stem": "Why does theophylline combine well with beta-2 agonists in asthma?",
+   "options": [
+    "It blocks muscarinic receptors",
+    "It raises cAMP by the same route",
+    "It raises cAMP by a different route",
+    "It inhibits histamine release"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#93164d",
+   "kind": "statement",
+   "stem": "What does theophylline do to respiratory centre sensitivity to CO2?",
+   "answer": "Increases it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#754711",
+   "kind": "statement",
+   "stem": "Which structural feature of theophylline, shared with caffeine, causes CNS stimulation?",
+   "answer": "Alkyl group at the 1-position",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#580a3f",
+   "kind": "mcq",
+   "stem": "Theophylline's natriuretic effect may possibly cause which potassium disturbance?",
+   "options": [
+    "Hyperkalaemia",
+    "Hypocalcaemia",
+    "Hypokalaemia",
+    "Hypermagnesaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#4e4746",
+   "kind": "mcq",
+   "stem": "Above what theophylline plasma level do side effects tend to start?",
+   "options": [
+    "5 mg/L",
+    "35 mg/L",
+    "50 mg/L",
+    "15 mg/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#a887a9",
+   "kind": "mcq",
+   "stem": "Above what theophylline level do kinetics switch to zero order?",
+   "options": [
+    "5 mcg/ml",
+    "20 mcg/ml",
+    "35 mcg/ml",
+    "50 mcg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#4098bd",
+   "kind": "statement",
+   "stem": "Along with severe asthma, which chronic lung disease is theophylline indicated for?",
+   "answer": "COPD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#a3e16b",
+   "kind": "mcq",
+   "stem": "When is IV aminophylline kept for acute asthma?",
+   "options": [
+    "As first-line, before any beta agonist",
+    "As preferred over nebulised beta-2 agonists",
+    "In children under five only",
+    "When patients do not respond to or tolerate beta agonists"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#5eff4f",
+   "kind": "mcq",
+   "stem": "In chronic asthma, low-dose theophylline added to inhaled steroid works better than what?",
+   "options": [
+    "Stopping the inhaled steroid",
+    "Doubling the steroid dose",
+    "Adding oral antibiotics",
+    "Replacing the steroid with placebo"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#506649",
+   "kind": "mcq",
+   "stem": "In COPD, when is theophylline added to inhalers?",
+   "options": [
+    "In more severe disease, on top of a long-acting beta-2 agonist",
+    "As first-line, instead of inhaled anticholinergics",
+    "As monotherapy in mild disease",
+    "In mild disease, before any inhaler"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#085b14",
+   "kind": "mcq",
+   "stem": "Theophylline reduces episodes of which apnoea in premature neonates?",
+   "options": [
+    "Obstructive sleep apnoea",
+    "Central apnoea",
+    "Post-operative airway obstruction",
+    "Opioid-induced hypoventilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#a63c6a",
+   "kind": "statement",
+   "stem": "In which cardiac condition is theophylline very occasionally used?",
+   "answer": "Heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#4b46dc",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of aminophylline?",
+   "options": [
+    "About 50%",
+    "About 20%",
+    "About 30%",
+    ">90%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#035342",
+   "kind": "mcq",
+   "stem": "What proportion of theophylline is protein bound?",
+   "options": [
+    "About 10%",
+    "About 25%",
+    "About 50%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#7c01c2",
+   "kind": "mcq",
+   "stem": "Which hepatic enzyme mainly metabolises theophylline?",
+   "options": [
+    "CYP2D6",
+    "CYP2C9",
+    "CYP1A2",
+    "CYP2E1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/theophylline-and-aminophylline#0aa2d0",
+   "kind": "mcq",
+   "stem": "What proportion of theophylline is excreted unchanged in urine?",
+   "options": [
+    "About 1%",
+    "About 30%",
+    "About 60%",
+    "About 10%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

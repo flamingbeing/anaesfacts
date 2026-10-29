@@ -1,0 +1,99 @@
+{
+ "topic": "equipment/anaesthetic-machine",
+ "questions": [
+  {
+   "fact_id": "equipment/anaesthetic-machine#5e28fa",
+   "kind": "mcq",
+   "stem": "What does the anaesthetic machine do to the pressure of medical gases it receives?",
+   "options": [
+    "Raises it to match the patient's airway pressure",
+    "Lowers it to a safe level",
+    "Keeps it at cylinder pressure throughout",
+    "Converts the gases into liquid before use"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/anaesthetic-machine#09e3b8",
+   "kind": "statement",
+   "stem": "On the anaesthetic machine, what happens to the gases before a known vapour concentration is added?",
+   "answer": "They are mixed to a set composition and flow.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/anaesthetic-machine#d3e35f",
+   "kind": "statement",
+   "stem": "Which part of the anaesthetic machine turns volatile anaesthetic liquid into vapour in the gas mixture?",
+   "answer": "The vaporisers.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/anaesthetic-machine#c668cd",
+   "kind": "mcq",
+   "stem": "Through which outlet does the anaesthetic machine deliver fresh gas flow to the breathing circuit?",
+   "options": [
+    "Scavenging port",
+    "Common gas outlet",
+    "Pressure-relief valve",
+    "Pressure gauge"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/anaesthetic-machine#950601",
+   "kind": "statement",
+   "stem": "Name an anaesthetic machine feature that warns when the oxygen supply fails.",
+   "answer": "Oxygen supply failure alarm.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/anaesthetic-machine#2a2f1b",
+   "kind": "mcq",
+   "stem": "Which pressure system on the anaesthetic machine runs from the wall or cylinder to the flow control valve?",
+   "options": [
+    "Low-pressure system",
+    "High-pressure system",
+    "Common gas outlet",
+    "Breathing circuit"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/anaesthetic-machine#3ce6ac",
+   "kind": "mcq",
+   "stem": "Which component forms the boundary between the high- and low-pressure systems?",
+   "options": [
+    "Oxygen flush valve",
+    "Pressure gauges",
+    "Flowmeters",
+    "Vaporisers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/anaesthetic-machine#6cc676",
+   "kind": "mcq",
+   "stem": "What does the oxygen flush valve on the anaesthetic machine bypass?",
+   "options": [
+    "Only the flowmeters",
+    "Only the vaporisers",
+    "Both the flowmeters and the vaporisers",
+    "The common gas outlet"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "topic": "drugs/tadalafil",
+ "questions": [
+  {
+   "fact_id": "drugs/tadalafil#46fdf0",
+   "kind": "mcq",
+   "stem": "Compared with sildenafil, what main practical advantage does tadalafil offer?",
+   "options": [
+    "Shorter duration, so needs frequent dosing",
+    "Identical duration, so same dosing schedule",
+    "Longer duration, may suit once-daily dosing",
+    "Shorter duration, so needs twice-daily dosing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

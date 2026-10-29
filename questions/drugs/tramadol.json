@@ -1,0 +1,367 @@
+{
+ "topic": "drugs/tramadol",
+ "questions": [
+  {
+   "fact_id": "drugs/tramadol#4831cf",
+   "kind": "blank",
+   "stem": "Oral tramadol tablets, capsules and sachets come in strengths of ____ (including modified release).",
+   "answer": "50–400 mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#c0f37d",
+   "kind": "mcq",
+   "stem": "What is the content of tramadol injection for IV or IM use?",
+   "options": [
+    "50 mg in 2 ml",
+    "100 mg in 1 ml",
+    "100 mg in 2 ml",
+    "200 mg in 2 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#a0f856",
+   "kind": "mcq",
+   "stem": "When does the peak effect of oral tramadol occur?",
+   "options": [
+    "2-3 hrs",
+    "1 hr",
+    "6 hrs",
+    "8-12 hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#a0f856",
+   "kind": "mcq",
+   "stem": "What is the duration of action of oral tramadol?",
+   "options": [
+    "2 hrs",
+    "6 hrs",
+    "12 hrs",
+    "24 hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#a60f76",
+   "kind": "mcq",
+   "stem": "What is the oral tramadol dosing range and frequency?",
+   "options": [
+    "50-200 mg BD",
+    "25-100 mg TDS-QDS",
+    "100-400 mg OD",
+    "10-25 mg Q4H"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#2206de",
+   "kind": "mcq",
+   "stem": "What weight-based tramadol dose does the PAN app list?",
+   "options": [
+    "2-4 mg/kg Q12H",
+    "0.1-0.5 mg/kg Q6H",
+    "1-2 mg/kg Q6H",
+    "5-10 mg/kg Q8H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#c2cf24",
+   "kind": "mcq",
+   "stem": "What loading dose is given before IV tramadol maintenance doses?",
+   "options": [
+    "50 mg",
+    "100 mg",
+    "200 mg",
+    "25 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#c2cf24",
+   "kind": "mcq",
+   "stem": "What is the IV tramadol maintenance dose range, given 6-hourly?",
+   "options": [
+    "25-50 mg",
+    "100-200 mg",
+    "50-100 mg",
+    "10-20 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#ac4a5f",
+   "kind": "mcq",
+   "stem": "What loading dose per kg does the PAN app list before weight-based tramadol?",
+   "options": [
+    "1 mg/kg",
+    "2 mg/kg",
+    "5 mg/kg",
+    "0.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#c7bbb3",
+   "kind": "mcq",
+   "stem": "What is the suggested maximum oral tramadol dose in advanced CKD?",
+   "options": [
+    "100 mg QDS",
+    "50 mg BD",
+    "200 mg BD",
+    "25 mg TDS"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#5141a9",
+   "kind": "mcq",
+   "stem": "Tramadol is a weak agonist mainly at which opioid receptor?",
+   "options": [
+    "kappa",
+    "mu",
+    "delta",
+    "sigma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#77af91",
+   "kind": "statement",
+   "stem": "Besides weak mu agonism, what other mechanism does tramadol have?",
+   "answer": "Inhibits 5-HT and noradrenaline reuptake; promotes presynaptic 5-HT release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#45f7ee",
+   "kind": "mcq",
+   "stem": "Roughly how much morphine is equivalent to 100 mg of tramadol?",
+   "options": [
+    "1-2 mg",
+    "30-40 mg",
+    "5-15 mg",
+    "50-150 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#ee061b",
+   "kind": "mcq",
+   "stem": "What is the oral morphine to oral tramadol potency ratio?",
+   "options": [
+    "1:2 to 1:3",
+    "1:20 to 1:30",
+    "1:4 to 1:10",
+    "1:100 to 1:200"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#ee061b",
+   "kind": "mcq",
+   "stem": "Roughly how much oral morphine is equivalent to 400 mg of tramadol a day?",
+   "options": [
+    "4-10 mg",
+    "40-100 mg",
+    "200-300 mg",
+    "400-800 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#333490",
+   "kind": "mcq",
+   "stem": "What is the parenteral morphine to parenteral tramadol potency ratio?",
+   "options": [
+    "1:2",
+    "1:50",
+    "1:4",
+    "1:10"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#7c3255",
+   "kind": "statement",
+   "stem": "Compared with morphine at equianalgesic doses, which two adverse effects are less with tramadol?",
+   "answer": "Respiratory depression and constipation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#18bcd6",
+   "kind": "mcq",
+   "stem": "Which drug reverses tramadol-induced respiratory depression and analgesia?",
+   "options": [
+    "Flumazenil",
+    "Naloxone",
+    "Neostigmine",
+    "Sugammadex"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#968556",
+   "kind": "statement",
+   "stem": "What is the commonest adverse effect of tramadol?",
+   "answer": "Nausea and vomiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#a782e0",
+   "kind": "mcq",
+   "stem": "Combining tramadol with an SSRI or TCA risks which of these effects?",
+   "options": [
+    "Hypoglycaemia",
+    "Serotonin syndrome",
+    "Bradycardia",
+    "Malignant hyperthermia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#35e72e",
+   "kind": "mcq",
+   "stem": "Tramadol should be avoided in patients with which past medical history?",
+   "options": [
+    "A history of asthma",
+    "A history of seizures",
+    "A history of gout",
+    "A history of migraine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#a02a6e",
+   "kind": "mcq",
+   "stem": "Oral tramadol bioavailability rises above what percentage with repeated doses?",
+   "options": [
+    "50%",
+    "90%",
+    "30%",
+    "40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#551a95",
+   "kind": "mcq",
+   "stem": "Which liver enzymes metabolise tramadol, before glucuronidation?",
+   "options": [
+    "CYP1A2 and CYP2C9",
+    "CYP2D6, CYP3A4 and CYP2B6",
+    "CYP2C19 and CYP2E1",
+    "CYP2C8 and CYP2J2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#022fa8",
+   "kind": "mcq",
+   "stem": "Which tramadol metabolite is the only analgesic one?",
+   "options": [
+    "N-desmethyltramadol",
+    "O-desmethyltramadol",
+    "Tramadol N-oxide",
+    "Morphine-6-glucuronide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#21a787",
+   "kind": "mcq",
+   "stem": "What may happen to tramadol's 5-hour average half-life in advanced CKD?",
+   "options": [
+    "Halve",
+    "Double",
+    "Stay unchanged",
+    "Increase tenfold"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#f29c10",
+   "kind": "statement",
+   "stem": "How are tramadol's metabolites eliminated from the body?",
+   "answer": "Excreted in urine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#d77f84",
+   "kind": "mcq",
+   "stem": "What is tramadol's volume of distribution?",
+   "options": [
+    "0.5 l/kg",
+    "15 l/kg",
+    "4 l/kg",
+    "40 l/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/tramadol#c44d19",
+   "kind": "mcq",
+   "stem": "What is tramadol's elimination half-life, oral or parenteral?",
+   "options": [
+    "1-2 hours",
+    "5–6 hours",
+    "12-14 hours",
+    "24-36 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

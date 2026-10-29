@@ -1,0 +1,897 @@
+{
+ "topic": "equipment/depth-of-anaesthesia-monitoring",
+ "questions": [
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#34653b",
+   "kind": "mcq",
+   "stem": "What is one main use of depth-of-anaesthesia monitoring?",
+   "options": [
+    "Measuring blood glucose",
+    "Preventing awareness",
+    "Predicting postoperative nausea",
+    "Measuring urine output"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#07ced1",
+   "kind": "statement",
+   "stem": "Besides awareness, what else does depth-of-anaesthesia monitoring help prevent?",
+   "answer": "Excessive depth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#ac8ae9",
+   "kind": "mcq",
+   "stem": "What confounds depth-of-anaesthesia monitors and makes their readings inaccurate?",
+   "options": [
+    "Pulse oximetry signal",
+    "Core temperature",
+    "EMG",
+    "Arterial pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#85b87e",
+   "kind": "mcq",
+   "stem": "Roughly how long is the processing delay before a depth monitor display shows a brain-state change?",
+   "options": [
+    "About 5 seconds",
+    "About 30 seconds",
+    "About 2 minutes",
+    "About 10 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#88cd37",
+   "kind": "statement",
+   "stem": "Which haemodynamic changes are clinical signs that anaesthetic depth may be too light?",
+   "answer": "Hypertension and tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#ca91e7",
+   "kind": "statement",
+   "stem": "What is the purpose of Guedel's stages of anaesthesia?",
+   "answer": "Assessing depth of general anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#a12018",
+   "kind": "statement",
+   "stem": "What is the induction stage in Guedel's stages of anaesthesia?",
+   "answer": "From start of administration to loss of consciousness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#a1e506",
+   "kind": "statement",
+   "stem": "What is seen in the Guedel stage that follows loss of consciousness?",
+   "answer": "Delirium, disinhibition, uncontrolled movement or struggling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#ff44e8",
+   "kind": "mcq",
+   "stem": "How do fast-acting agents affect the time spent in Guedel's stage II?",
+   "options": [
+    "Lengthen it",
+    "No change to it",
+    "Double it",
+    "Shorten it"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#03cb32",
+   "kind": "statement",
+   "stem": "What does severe medullary depression under anaesthesia cause?",
+   "answer": "Apnoea and vasomotor collapse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#7f26a6",
+   "kind": "mcq",
+   "stem": "Guedel's stages were first described for which agent used as the sole anaesthetic?",
+   "options": [
+    "Halothane",
+    "Propofol",
+    "Ether",
+    "Thiopentone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#bfed8b",
+   "kind": "mcq",
+   "stem": "Who first described the isolated forearm technique, in obstetric anaesthesia?",
+   "options": [
+    "Guedel",
+    "Tunstall",
+    "Kelly",
+    "Doughty"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#586918",
+   "kind": "mcq",
+   "stem": "Before giving the muscle relaxant in the isolated forearm technique, what is done to the upper arm?",
+   "options": [
+    "Tourniquet inflated below diastolic pressure",
+    "Tourniquet left deflated throughout",
+    "Tourniquet inflated above systolic pressure",
+    "Arterial line placed in the arm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#1c35fd",
+   "kind": "statement",
+   "stem": "In the isolated forearm technique, what does arm movement on command show?",
+   "answer": "Wakefulness, not necessarily explicit awareness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#acd010",
+   "kind": "mcq",
+   "stem": "After how many minutes is the tourniquet released in the isolated forearm technique?",
+   "options": [
+    "5 to 10 minutes",
+    "15 - 20 minutes",
+    "30 to 40 minutes",
+    "60 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#92e5ec",
+   "kind": "statement",
+   "stem": "In the isolated forearm technique, is responding to command an early or a late sign?",
+   "answer": "Late sign",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#d31824",
+   "kind": "mcq",
+   "stem": "In the BIS-guided deep sedation study, how many of 56 patients clearly responded to a hand squeeze?",
+   "options": [
+    "24",
+    "37",
+    "46",
+    "51"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#d31824",
+   "kind": "mcq",
+   "stem": "In the same BIS-guided deep sedation study, how many patients had explicit recall?",
+   "options": [
+    "3",
+    "19",
+    "9",
+    "27"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#895825",
+   "kind": "mcq",
+   "stem": "In the 1986 etomidate versus nitrous oxide and fentanyl study, what share of the nitrous oxide group showed wakefulness?",
+   "options": [
+    "14%",
+    "24%",
+    "44%",
+    "64%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#d2720f",
+   "kind": "statement",
+   "stem": "What does processed EEG measure to gauge depth of anaesthesia?",
+   "answer": "Cortical electrical activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#63c970",
+   "kind": "mcq",
+   "stem": "Which anaesthetic component does processed EEG mainly reflect?",
+   "options": [
+    "Autonomic reflex activity",
+    "Neuromuscular junction block",
+    "Hypnotic component",
+    "Heart rate and blood pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#8b22ed",
+   "kind": "statement",
+   "stem": "What does the AAGBI suggest would improve the usefulness of processed EEG?",
+   "answer": "Looking at the raw EEG trace and EMG activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#e52e82",
+   "kind": "statement",
+   "stem": "What does the bispectral index (BIS) continuously measure?",
+   "answer": "Hypnosis from the most common sedative-hypnotics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#5ff3a3",
+   "kind": "mcq",
+   "stem": "How should the bispectral index (BIS) be used when managing anaesthesia?",
+   "options": [
+    "As an adjunct to clinical signs, not alone",
+    "As the sole guide to anaesthetic dosing",
+    "As the main guide, overriding clinical signs",
+    "As a substitute for clinical signs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#7f1d2d",
+   "kind": "mcq",
+   "stem": "How is the bispectral index (BIS) value calculated?",
+   "options": [
+    "The mean of raw EEG amplitude",
+    "A weighted sum of several EEG sub-parameters",
+    "The ratio of EMG to EEG power",
+    "The count of burst suppression episodes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#5b1c3a",
+   "kind": "mcq",
+   "stem": "What form does the bispectral index (BIS) output take?",
+   "options": [
+    "A raw EEG voltage waveform",
+    "A percentage of burst suppression per minute",
+    "A waveform with a 1 to 5 scale",
+    "A single dimensionless number from 0 to 100"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#69949d",
+   "kind": "blank",
+   "stem": "Each bispectral index (BIS) value is calculated from the last ____ of EEG, updated every second.",
+   "answer": "15 to 30 seconds",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#e81cc5",
+   "kind": "mcq",
+   "stem": "How long can BIS lag clinical change during abrupt changes such as induction?",
+   "options": [
+    "About 1 to 2 seconds",
+    "About 30 to 60 seconds",
+    "About 5 to 10 seconds",
+    "About 2 to 3 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#262e47",
+   "kind": "mcq",
+   "stem": "What does the bispectral index (BIS) reflect?",
+   "options": [
+    "Effect-site drug concentration",
+    "Brain state, not drug concentration",
+    "Plasma volatile concentration",
+    "Cardiac output and perfusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#a14c48",
+   "kind": "mcq",
+   "stem": "Does nitrous oxide at sedative concentrations seem to change the bispectral index?",
+   "options": [
+    "It always raises BIS to awake values",
+    "It does not seem to change BIS",
+    "It doubles the BIS variability",
+    "It makes BIS read zero"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#a14c48",
+   "kind": "blank",
+   "stem": "Nitrous oxide at sedative concentrations, up to ____, does not seem to change BIS.",
+   "answer": "70%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#bd7c17",
+   "kind": "mcq",
+   "stem": "By about what age does a child's EEG become adult-like for BIS monitoring?",
+   "options": [
+    "By about 1 year",
+    "By about 5 years",
+    "By about 10 years",
+    "By about 15 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#bd7c17",
+   "kind": "statement",
+   "stem": "On which EEG is the bispectral index (BIS) algorithm built?",
+   "answer": "Adult EEG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#407484",
+   "kind": "mcq",
+   "stem": "What bispectral index (BIS) value is seen in an awake patient?",
+   "options": [
+    "Near 60",
+    "Near 100",
+    "Near 40",
+    "Near 0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#3b896c",
+   "kind": "mcq",
+   "stem": "Which BIS range indicates light to moderate sedation?",
+   "options": [
+    "40-60",
+    "0-20",
+    "65-85",
+    "20-40"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#4a934d",
+   "kind": "mcq",
+   "stem": "What BIS range is the manufacturer's target for general anaesthesia?",
+   "options": [
+    "20-40",
+    "65-85",
+    "0-20",
+    "40-60"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#03202a",
+   "kind": "statement",
+   "stem": "What BIS value is highly sensitive for detecting unconsciousness?",
+   "answer": "BIS below 60",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9df585",
+   "kind": "mcq",
+   "stem": "With little or no opioid given, what BIS range is commonly seen when extra volatile stops movement to noxious stimuli?",
+   "options": [
+    "40 to 60",
+    "25 to 35",
+    "65 to 85",
+    "5 to 10"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#a202f2",
+   "kind": "mcq",
+   "stem": "Which BIS range indicates a deep hypnotic state?",
+   "options": [
+    "0-20",
+    "40-60",
+    "20-40",
+    "65-85"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#ba3223",
+   "kind": "mcq",
+   "stem": "Which BIS range corresponds to burst suppression?",
+   "options": [
+    "65-85",
+    "0-20",
+    "40-60",
+    "20-40"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#8b42b9",
+   "kind": "statement",
+   "stem": "What BIS value corresponds to an isoelectric EEG?",
+   "answer": "0",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#ef29e5",
+   "kind": "statement",
+   "stem": "Which BIS display item indicates interference from EMG?",
+   "answer": "Signal quality index (SQI)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9ba98e",
+   "kind": "statement",
+   "stem": "What does the hydrogel do in the BIS forehead sensor?",
+   "answer": "It makes contact, lowering impedance and improving signal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9ba98e",
+   "kind": "mcq",
+   "stem": "How many numbered electrodes does the adult BIS forehead sensor have?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#aa54f9",
+   "kind": "mcq",
+   "stem": "How many electrodes does the paediatric BIS sensor have?",
+   "options": [
+    "Two",
+    "Four",
+    "Six",
+    "Three"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#0bb0b7",
+   "kind": "statement",
+   "stem": "How should the forehead be prepared before placing a BIS sensor?",
+   "answer": "Clean with alcohol and dry",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#29fea6",
+   "kind": "statement",
+   "stem": "How should the BIS forehead sensor sit on the forehead?",
+   "answer": "At an angle, like a salute",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#fb95e8",
+   "kind": "statement",
+   "stem": "Where is BIS electrode #1 placed?",
+   "answer": "Centre of forehead, 1.5 inches (4cm) above the bridge of the nose, line pointing down the nose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#fb95e8",
+   "kind": "mcq",
+   "stem": "How far above the bridge of the nose is BIS electrode #1 placed?",
+   "options": [
+    "1.5 inches (4cm)",
+    "3 inches (8cm)",
+    "0.5 inches (1cm)",
+    "4 inches (10cm)"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#5884e0",
+   "kind": "mcq",
+   "stem": "Where is BIS electrode number 4 placed?",
+   "options": [
+    "Directly below the eyebrow",
+    "On the temple at the hairline",
+    "Directly above the eyebrow",
+    "Between electrodes one and four"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#289ec7",
+   "kind": "statement",
+   "stem": "Where is BIS electrode number 2 placed?",
+   "answer": "Between #1 and #4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#5597f4",
+   "kind": "mcq",
+   "stem": "Where is BIS electrode number 3 placed?",
+   "options": [
+    "Directly above the eyebrow",
+    "At the temple, between outer canthus and hairline",
+    "Centre of forehead above nose",
+    "Between electrodes one and four"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#945128",
+   "kind": "statement",
+   "stem": "Which side of the head should a BIS sensor go on after a stroke?",
+   "answer": "The unaffected side",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#d41858",
+   "kind": "statement",
+   "stem": "What brain condition gives a low bispectral index (BIS) reading?",
+   "answer": "Reduced cerebral metabolism or activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9814a1",
+   "kind": "mcq",
+   "stem": "Below what temperature does hypothermia lower the bispectral index (BIS)?",
+   "options": [
+    "Above 37°C",
+    "Below 33°C",
+    "Above 42°C",
+    "Above 33°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9814a1",
+   "kind": "statement",
+   "stem": "How does the bispectral index (BIS) change on rewarming?",
+   "answer": "It rises quickly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#397044",
+   "kind": "statement",
+   "stem": "What is known about BIS accuracy in pre-existing neurological disease?",
+   "answer": "The effect is unknown; there are not enough data",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9691ec",
+   "kind": "mcq",
+   "stem": "Which company makes the Sedline monitor?",
+   "options": [
+    "Philips",
+    "GE Healthcare",
+    "Masimo",
+    "Draeger"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9691ec",
+   "kind": "mcq",
+   "stem": "How many EEG channels does Sedline record from forehead electrodes?",
+   "options": [
+    "Two channels of bilateral EEG",
+    "Four channels of bilateral EEG",
+    "Eight channels of bilateral EEG",
+    "Four channels of unilateral EEG"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#a9b0a6",
+   "kind": "statement",
+   "stem": "On Sedline, the Patient State Index (PSI) is related to what?",
+   "answer": "Depth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#26ba02",
+   "kind": "statement",
+   "stem": "What does the Sedline density spectral array show?",
+   "answer": "Activity in both hemispheres",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#18a6d9",
+   "kind": "mcq",
+   "stem": "What is the target Patient State Index (PSI) range with Sedline?",
+   "options": [
+    "50-75",
+    "25-50",
+    "10-25",
+    "75-100"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#7454bf",
+   "kind": "statement",
+   "stem": "What does entropy monitoring measure in the EEG?",
+   "answer": "Irregularity (disorder) of the EEG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9d9c53",
+   "kind": "mcq",
+   "stem": "Which electrode placement is used for entropy monitoring?",
+   "options": [
+    "Forehead only",
+    "Scalp electrodes over the vertex",
+    "Chest and limb leads",
+    "Forehead and side-of-head electrodes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#9d9c53",
+   "kind": "statement",
+   "stem": "In entropy monitoring, what transform is applied to each EEG epoch?",
+   "answer": "A Fourier transform, squared to a normalised frequency spectrum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#b7b49d",
+   "kind": "mcq",
+   "stem": "Which frequency range does state entropy (SE) cover?",
+   "options": [
+    "Above 32Hz",
+    "Above 47Hz",
+    "Between 47Hz and 100Hz",
+    "Below 32Hz"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#1ec90a",
+   "kind": "mcq",
+   "stem": "What is the upper frequency limit of response entropy (RE)?",
+   "options": [
+    "32Hz",
+    "47Hz",
+    "64Hz",
+    "100Hz"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#1ec90a",
+   "kind": "statement",
+   "stem": "Response entropy (RE) also includes which EMG signal?",
+   "answer": "Frontalis EMG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#16cfc0",
+   "kind": "mcq",
+   "stem": "What does a normalised Shannon entropy value of zero represent?",
+   "options": [
+    "Total regularity",
+    "Total irregularity",
+    "Full wakefulness",
+    "Burst suppression"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#25d166",
+   "kind": "mcq",
+   "stem": "On what scale does the GE M-entropy module rescale Shannon entropy values?",
+   "options": [
+    "Zero to 20",
+    "Zero to 50",
+    "Zero to 100",
+    "Zero to 25"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#25d166",
+   "kind": "mcq",
+   "stem": "Between which Shannon values does the GE M-entropy module give extra resolution?",
+   "options": [
+    "0.1 and 0.5",
+    "0.2 and 0.4",
+    "0.5 and 1.0",
+    "0 and 0.5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#2fa14a",
+   "kind": "mcq",
+   "stem": "What range does state entropy (SE) cover?",
+   "options": [
+    "100 to zero",
+    "80 to zero",
+    "91 to zero",
+    "60 to zero"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#2fa14a",
+   "kind": "mcq",
+   "stem": "What range does response entropy (RE) cover?",
+   "options": [
+    "91 to zero",
+    "100 to zero",
+    "80 to zero",
+    "60 to zero"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#930173",
+   "kind": "mcq",
+   "stem": "In entropy monitoring, what value indicates very deep anaesthesia?",
+   "options": [
+    "Near 100",
+    "40",
+    "Zero",
+    "60"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#930173",
+   "kind": "mcq",
+   "stem": "What entropy target range is used for general anaesthesia, as with BIS?",
+   "options": [
+    "Between 20 and 40",
+    "Between 0 and 20",
+    "Between 60 and 80",
+    "Between 40 and 60"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#810334",
+   "kind": "mcq",
+   "stem": "How many EEG channels does the NARCOguide use?",
+   "options": [
+    "2 channel EEG",
+    "4 channel EEG",
+    "6 channel EEG",
+    "3 channel EEG"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/depth-of-anaesthesia-monitoring#f853f2",
+   "kind": "mcq",
+   "stem": "What scale does the NARCOguide depth-of-anaesthesia index use?",
+   "options": [
+    "0 to 5",
+    "0 to 50",
+    "0 to 100",
+    "1 to 20"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

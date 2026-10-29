@@ -1,0 +1,249 @@
+{
+ "topic": "physiology/local-anaesthetic-potency-onset-duration",
+ "questions": [
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#a0912e",
+   "kind": "statement",
+   "stem": "For local anaesthetics, what three effects does greater lipid solubility have?",
+   "answer": "Greater potency, faster onset and longer duration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#47ce08",
+   "kind": "mcq",
+   "stem": "How does a lower pKa affect the onset of a local anaesthetic?",
+   "options": [
+    "Slower onset",
+    "Faster onset",
+    "No change in onset",
+    "Onset only after pH rises"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#43c4a1",
+   "kind": "mcq",
+   "stem": "How does greater protein binding of a local anaesthetic affect its duration?",
+   "options": [
+    "Shorter duration",
+    "Longer duration",
+    "Faster onset",
+    "Lower potency"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#dcd184",
+   "kind": "mcq",
+   "stem": "Which form of a local anaesthetic crosses nerve membranes?",
+   "options": [
+    "Protein-bound form",
+    "Unionised form",
+    "Hydrochloride salt form",
+    "Lipid-stored form"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#e72781",
+   "kind": "mcq",
+   "stem": "What percentage of lignocaine is unionised at pH 7.4?",
+   "options": [
+    "About 5%",
+    "About 15%",
+    "About 25%",
+    "About 50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#e72781",
+   "kind": "mcq",
+   "stem": "What is the pKa of lignocaine?",
+   "options": [
+    "7.4",
+    "7.9",
+    "8.1",
+    "9.1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#5c3943",
+   "kind": "mcq",
+   "stem": "What is the pKa of bupivacaine?",
+   "options": [
+    "6.8",
+    "8.1",
+    "9.1",
+    "7.4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#5c3943",
+   "kind": "mcq",
+   "stem": "What percentage of bupivacaine is unionised at pH 7.4?",
+   "options": [
+    "About 15%",
+    "About 25%",
+    "About 5%",
+    "About 50%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#72e0a8",
+   "kind": "mcq",
+   "stem": "How does adding sodium bicarbonate to a local anaesthetic affect its onset?",
+   "options": [
+    "Slows onset",
+    "Speeds onset",
+    "No effect on onset",
+    "Prolongs duration"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#e6aff0",
+   "kind": "mcq",
+   "stem": "What is the main factor determining how long a local anaesthetic lasts?",
+   "options": [
+    "Injection volume",
+    "Protein binding",
+    "Needle gauge",
+    "Patient weight"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#dff9b2",
+   "kind": "mcq",
+   "stem": "How does high blood flow at the injection site affect local anaesthetic duration?",
+   "options": [
+    "Lengthens it",
+    "Shortens it",
+    "Has no effect",
+    "Slows the onset"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#1a0543",
+   "kind": "mcq",
+   "stem": "How long does lidocaine infiltration typically last?",
+   "options": [
+    "4 to 8 hours",
+    "1 to 2 hours",
+    "12 to 24 hours",
+    "30 to 60 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#1a0543",
+   "kind": "mcq",
+   "stem": "How long does bupivacaine infiltration typically last?",
+   "options": [
+    "1 to 2 hours",
+    "4 to 8 hours",
+    "12 to 24 hours",
+    "30 to 60 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#281408",
+   "kind": "statement",
+   "stem": "When adrenaline is added to a local anaesthetic, what does the duration depend on?",
+   "answer": "Time spent at the axon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#bd3569",
+   "kind": "mcq",
+   "stem": "By roughly what percentage does adrenaline lengthen a lidocaine nerve block?",
+   "options": [
+    "25%",
+    "50%",
+    "100%",
+    "200%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#bd3569",
+   "kind": "statement",
+   "stem": "Adding adrenaline to a local anaesthetic has its greatest effect on which type of drug?",
+   "answer": "Short-acting drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#3cbff0",
+   "kind": "mcq",
+   "stem": "At what pH are adrenaline-containing local anaesthetic solutions made?",
+   "options": [
+    "7.4–7.6",
+    "4–5",
+    "8–9",
+    "6–7"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#178b54",
+   "kind": "statement",
+   "stem": "What is the main factor determining local anaesthetic potency?",
+   "answer": "Lipophilicity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#edfd06",
+   "kind": "blank",
+   "stem": "The nerve membrane is about ____ lipid, so lipid-soluble drugs enter it easily.",
+   "answer": "90%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/local-anaesthetic-potency-onset-duration#edfd06",
+   "kind": "statement",
+   "stem": "Why do more lipid-soluble local anaesthetics block at lower concentrations?",
+   "answer": "They enter the nerve membrane more easily",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

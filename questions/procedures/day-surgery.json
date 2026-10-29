@@ -1,0 +1,921 @@
+{
+ "topic": "procedures/day-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/day-surgery#078603",
+   "kind": "blank",
+   "stem": "Day surgery is a planned procedure or investigation with discharge within ____.",
+   "answer": "24h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#9732fb",
+   "kind": "mcq",
+   "stem": "What is the 30-day perioperative mortality after day surgery?",
+   "options": [
+    "0.5%",
+    "0.08%",
+    "0.2%",
+    "1.8%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#9732fb",
+   "kind": "mcq",
+   "stem": "What is the 30-day perioperative mortality after cataract surgery?",
+   "options": [
+    "0.2%",
+    "0.002%",
+    "0.02%",
+    "0.5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#f0cd30",
+   "kind": "statement",
+   "stem": "What does day surgery emphasise as a key principle?",
+   "answer": "Efficiency and throughput",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#c403fc",
+   "kind": "statement",
+   "stem": "What does the SAMBA S.A.F.E. principle recommend for day surgery anaesthesia?",
+   "answer": "Short-acting, fast-emergence anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#549486",
+   "kind": "statement",
+   "stem": "What do the 4 As stand for in the day surgery key principles?",
+   "answer": "Alertness, analgesia, ambulation, alimentation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#0c9a3f",
+   "kind": "statement",
+   "stem": "For day surgery selection, which surgical question checks inpatient needs?",
+   "answer": "Will the operation need inpatient monitoring or care?",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#34b9f0",
+   "kind": "mcq",
+   "stem": "What operation duration is best for day surgery, though there is no absolute cut-off?",
+   "options": [
+    "Under 4hrs",
+    "Under 8hrs",
+    "Under 2hrs",
+    "Under 6hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#f4b8fd",
+   "kind": "blank",
+   "stem": "Day surgery suits procedures with a low risk of serious ____.",
+   "answer": "complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#9c1b24",
+   "kind": "statement",
+   "stem": "For day surgery, what pain level suits the patient, and how is it managed?",
+   "answer": "Low pain, managed with oral or rectal analgesia and local techniques, little opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#84a201",
+   "kind": "statement",
+   "stem": "For day surgery selection, what must be true about postoperative needs?",
+   "answer": "They can be met at home",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#2111c1",
+   "kind": "statement",
+   "stem": "In day surgery selection, what can happen to a minor procedure in a complex patient?",
+   "answer": "It may still need admission",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#7a2753",
+   "kind": "statement",
+   "stem": "Name the previous anaesthetic problems that matter in day surgery patient selection.",
+   "answer": "Difficult airway, PONV, postoperative cognitive dysfunction, poor pain control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#c196e1",
+   "kind": "statement",
+   "stem": "What should be assessed for children being considered for day surgery?",
+   "answer": "Risk factors for postoperative apnoea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#7eaacf",
+   "kind": "mcq",
+   "stem": "In day surgery, which PCA cut-off applies to term infants under 1 month?",
+   "options": [
+    "Under 52 weeks PCA",
+    "Under 56 weeks PCA",
+    "Under 44 weeks PCA",
+    "Under 60 weeks PCA"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#131290",
+   "kind": "mcq",
+   "stem": "In day surgery, under what PCA are ex-preterm infants considered at risk?",
+   "options": [
+    "Under 52 weeks PCA",
+    "Under 56 weeks PCA",
+    "Under 60 weeks PCA",
+    "Under 64 weeks PCA"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#131290",
+   "kind": "blank",
+   "stem": "Ex-preterm infants with a haematocrit under ____% are at higher risk in day surgery.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#471b71",
+   "kind": "mcq",
+   "stem": "How long must infants on a home apnoea monitor be apnoea-free before day surgery?",
+   "options": [
+    "3mths",
+    "1mth",
+    "12mths",
+    "6mths"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#0af2b9",
+   "kind": "mcq",
+   "stem": "Which age independently predicts admission and death after day surgery?",
+   "options": [
+    "Over 60y",
+    "Over 75y",
+    "Over 95y",
+    "Over 85y"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#4a695e",
+   "kind": "statement",
+   "stem": "Which types of surgery are unsuitable for day surgery?",
+   "answer": "Airway surgery, tonsillectomy in children under 3 years, upper abdominal surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#4a695e",
+   "kind": "mcq",
+   "stem": "At what age is tonsillectomy unsuitable for day surgery in children?",
+   "options": [
+    "Under 1 year",
+    "Under 5 years",
+    "Under 3 years",
+    "Under 8 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#4ba721",
+   "kind": "mcq",
+   "stem": "What BMI defines morbid obesity when judging day surgery suitability?",
+   "options": [
+    "Over 25 kg/m2",
+    "Over 30 kg/m2",
+    "Over 50 kg/m2",
+    "Over 35 kg/m2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#4ba721",
+   "kind": "statement",
+   "stem": "Does obesity alone exclude a patient from day surgery?",
+   "answer": "No, look at complications; obesity alone may not exclude",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#07111b",
+   "kind": "mcq",
+   "stem": "For day surgery, how long should a responsible carer ideally stay with the patient?",
+   "options": [
+    "2-4h",
+    "12-24h",
+    "6-8h",
+    "24-48h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#0f0ea9",
+   "kind": "mcq",
+   "stem": "How soon must a day surgery patient be able to reach hospital?",
+   "options": [
+    "Within 30min",
+    "Within 4h",
+    "Within 2h",
+    "Within 1h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#98595d",
+   "kind": "statement",
+   "stem": "What must a day surgery patient be willing to do?",
+   "answer": "Go home the same day",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#605b83",
+   "kind": "statement",
+   "stem": "Ideally, where and when should day surgery preoperative assessment happen?",
+   "answer": "In a preoperative clinic well before surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#043191",
+   "kind": "statement",
+   "stem": "What are the goals of the preoperative assessment for day surgery?",
+   "answer": "Routine fitness assessment and optimisation, suitability for day surgery, and education on the day surgery pathway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#33d46b",
+   "kind": "mcq",
+   "stem": "How should preoperative testing be chosen for day surgery?",
+   "options": [
+    "Routine for all patients",
+    "Same panel for everyone",
+    "Chest X-ray in all",
+    "Guided by patient factors"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#fb7961",
+   "kind": "mcq",
+   "stem": "Why should sedative premedication be avoided where possible in day surgery?",
+   "options": [
+    "Raises postoperative blood pressure",
+    "Prolongs recovery, especially after short cases",
+    "Causes urinary retention",
+    "Lowers the risk of pain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#375dc6",
+   "kind": "mcq",
+   "stem": "What oral paracetamol dose is given for pre-emptive analgesia in day surgery?",
+   "options": [
+    "1g",
+    "500mg",
+    "2g",
+    "3g"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#375dc6",
+   "kind": "mcq",
+   "stem": "What oral diclofenac dose is given for pre-emptive analgesia in day surgery?",
+   "options": [
+    "10-20mg",
+    "25-50mg",
+    "50-100mg",
+    "200-400mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#375dc6",
+   "kind": "mcq",
+   "stem": "When does pre-emptive oral analgesia in day surgery reach peak effect?",
+   "options": [
+    "15-30 minutes",
+    "1-2h",
+    "4-6h",
+    "8-12h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#a491b2",
+   "kind": "statement",
+   "stem": "Which anaesthetic techniques all allow quick discharge in day surgery?",
+   "answer": "GA, regional, combined, and monitored sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#820ff7",
+   "kind": "mcq",
+   "stem": "Which monitoring may help avoid overdose and slow recovery in day surgery?",
+   "options": [
+    "Arterial blood gas sampling",
+    "Urine output monitoring",
+    "Processed EEG (BIS, SedLine)",
+    "Central venous pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#7c4306",
+   "kind": "mcq",
+   "stem": "Which induction agent is preferred over thiopental for day surgery?",
+   "options": [
+    "Ketamine",
+    "Propofol",
+    "Etomidate",
+    "Midazolam"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#ad955a",
+   "kind": "mcq",
+   "stem": "What advantage do volatile agents offer for emergence in day surgery?",
+   "options": [
+    "Slower emergence",
+    "Delayed awakening",
+    "Rapid emergence",
+    "Cumulative drug effect"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#ad955a",
+   "kind": "mcq",
+   "stem": "For volatile anaesthesia in day surgery, at what MAC is awareness less likely?",
+   "options": [
+    "Over 0.3",
+    "Over 0.5",
+    "Over 1.2",
+    "Over 0.8"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#9a5d4a",
+   "kind": "mcq",
+   "stem": "In day-surgery anaesthesia, which muscle relaxant can cause myalgia that delays return to normal activity?",
+   "options": [
+    "Rocuronium",
+    "Suxamethonium",
+    "Vecuronium",
+    "Pancuronium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#9a5d4a",
+   "kind": "statement",
+   "stem": "Which type of muscle relaxant is preferred in day-surgery anaesthesia?",
+   "answer": "Short-acting (e.g. mivacurium, atracurium)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#517cdc",
+   "kind": "mcq",
+   "stem": "In day-surgery anaesthesia, what IV fluid volume reduces PONV and dizziness and speeds recovery?",
+   "options": [
+    "2ml/kg",
+    "30ml/kg",
+    "15ml/kg",
+    "50ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#67d074",
+   "kind": "statement",
+   "stem": "Why use multimodal analgesia in day-surgery patients?",
+   "answer": "To cut opioid need and its side effects (sedation, PONV, respiratory depression)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#308bd4",
+   "kind": "mcq",
+   "stem": "What paracetamol dose is given PR or IV for day-surgery analgesia?",
+   "options": [
+    "5-10mg/kg",
+    "15-20mg/kg",
+    "25-30mg/kg",
+    "30-40mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#75ef89",
+   "kind": "mcq",
+   "stem": "Which NSAID is given PR or IV at 1mg/kg for day-surgery analgesia?",
+   "options": [
+    "Ibuprofen",
+    "Diclofenac",
+    "Naproxen",
+    "Indomethacin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#faafe0",
+   "kind": "statement",
+   "stem": "In day surgery, above what morphine dose per kg do admission rates rise?",
+   "answer": "Over 0.1mg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#faafe0",
+   "kind": "statement",
+   "stem": "Which opioids are short-acting options for day-surgery analgesia?",
+   "answer": "Remifentanil, alfentanil, fentanyl",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#1e8436",
+   "kind": "mcq",
+   "stem": "Which NMDA antagonist is a low-dose analgesic adjunct in day-surgery analgesia?",
+   "options": [
+    "Propofol",
+    "Ondansetron",
+    "Ketamine",
+    "Metoclopramide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#8716f3",
+   "kind": "statement",
+   "stem": "Why does postoperative nausea and vomiting matter in day surgery?",
+   "answer": "A leading cause of delayed discharge and unplanned admission",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#725700",
+   "kind": "statement",
+   "stem": "What preoperative fluid fast length does the day-surgery PONV section recommend?",
+   "answer": "2h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#63eee0",
+   "kind": "mcq",
+   "stem": "For day-surgery PONV prevention, which drug class is a reasonable single agent for most patients?",
+   "options": [
+    "Butyrophenone",
+    "Phenothiazine",
+    "5HT3 antagonist",
+    "Opioid antagonist"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#3cda5b",
+   "kind": "statement",
+   "stem": "Which day-surgery PONV drugs sedate less than droperidol, prochlorperazine or promethazine?",
+   "answer": "Scopolamine patch, low-dose dexamethasone, 5HT3 antagonists and metoclopramide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#e8eafe",
+   "kind": "mcq",
+   "stem": "For day-surgery spinal anaesthesia, which needle reduces post-dural puncture headache risk?",
+   "options": [
+    "18G Tuohy needle",
+    "22G cutting-tip needle",
+    "27G Quincke needle",
+    "25/26G pencil-point needle"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#c32310",
+   "kind": "mcq",
+   "stem": "In day-surgery low-dose spinal anaesthesia, what bupivacaine dose is typically used?",
+   "options": [
+    "10-15mg",
+    "3.5-7mg",
+    "20-25mg",
+    "0.5-1mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#c32310",
+   "kind": "mcq",
+   "stem": "In day-surgery low-dose spinal anaesthesia, what fentanyl dose is added to the local anaesthetic?",
+   "options": [
+    "50-75mcg",
+    "1-2mcg",
+    "10-25mcg",
+    "100-125mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#6ba4e5",
+   "kind": "mcq",
+   "stem": "How long does an epidural block take to establish, making it less suitable for day surgery?",
+   "options": [
+    "2-3min",
+    "10-15min",
+    "30-40min",
+    "60-90min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#89de76",
+   "kind": "mcq",
+   "stem": "Which additive at 1mcg/kg prolongs a caudal block up to 24h in day surgery?",
+   "options": [
+    "Neostigmine",
+    "Ondansetron",
+    "Clonidine",
+    "Atropine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#89de76",
+   "kind": "mcq",
+   "stem": "For a day-surgery caudal block, what dilute bupivacaine concentration is given as an example?",
+   "options": [
+    "0.5%",
+    "0.75%",
+    "1%",
+    "0.125%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#46ad30",
+   "kind": "blank",
+   "stem": "In local anaesthesia with sedation for day surgery, sedation does not rescue a poor ____.",
+   "answer": "block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#a7dcd9",
+   "kind": "mcq",
+   "stem": "For day-surgery sedation, what propofol target concentration is suggested for TCI?",
+   "options": [
+    "0.1-0.2mcg/ml",
+    "1-1.5mcg/ml",
+    "3-4mcg/ml",
+    "5-6mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#9f65db",
+   "kind": "mcq",
+   "stem": "What IV midazolam dose is given as boluses for day-surgery sedation?",
+   "options": [
+    "5-10mg",
+    "1-2mg",
+    "0.1-0.2mg",
+    "20-30mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#55a2fd",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is used for day-surgery sedation with local anaesthesia?",
+   "options": [
+    "0.5mcg/kg/min",
+    "0.05mcg/kg/min",
+    "2mcg/kg/min",
+    "0.005mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#6ef387",
+   "kind": "mcq",
+   "stem": "In local anaesthesia with sedation for day surgery, who should give and monitor the sedation?",
+   "options": [
+    "The operating surgeon",
+    "The recovery nurse",
+    "A dedicated person other than the surgeon",
+    "The scrub nurse"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#2c59dd",
+   "kind": "statement",
+   "stem": "In day surgery, what are the two commonest causes of delayed discharge?",
+   "answer": "Pain and ongoing nausea or vomiting (with poor oral intake)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#043e3e",
+   "kind": "statement",
+   "stem": "In day-surgery recovery, what active issues are managed in Phase I?",
+   "answer": "BP, pain, hypoxia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#00d53a",
+   "kind": "statement",
+   "stem": "What does fast-tracking in day surgery do with Phase I recovery?",
+   "answer": "Bypasses it, going from theatre straight to Phase II",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#f57f7b",
+   "kind": "statement",
+   "stem": "What modified Aldrete score must most day-surgery patients exceed in theatre for fast-tracking?",
+   "answer": "over 12",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#ad13a1",
+   "kind": "statement",
+   "stem": "What are the advantages of home continuous peripheral nerve blocks after day surgery?",
+   "answer": "Sustained analgesia, opioid-sparing, better rehabilitation, fewer recovery and unplanned admissions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#61388c",
+   "kind": "statement",
+   "stem": "What are the drawbacks of home continuous peripheral nerve blocks after day surgery?",
+   "answer": "Numb limb at home, catheter migration, local anaesthetic toxicity, infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#3e4050",
+   "kind": "mcq",
+   "stem": "For home nerve catheters after day surgery, how long must anaesthetic services be accessible?",
+   "options": [
+    "12h",
+    "24h",
+    "48h",
+    "72h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#3e4050",
+   "kind": "statement",
+   "stem": "What safety measures are needed for home continuous nerve blocks after day surgery?",
+   "answer": "Dilute solution, careful selection, 24h access to anaesthetic services, clear written and verbal instructions, daily phone follow-up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#14e4aa",
+   "kind": "statement",
+   "stem": "Which criteria must still be met before discharge home after day surgery?",
+   "answer": "Stable airway, breathing, circulation and consciousness; surgical issues settled; pain and PONV controlled",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#c7b772",
+   "kind": "statement",
+   "stem": "What pain control is needed before discharge home after day surgery?",
+   "answer": "Reasonable pain control on oral drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#6473fe",
+   "kind": "statement",
+   "stem": "What must a patient do before discharge home after day surgery?",
+   "answer": "Tolerate oral intake without vomiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#ac554e",
+   "kind": "mcq",
+   "stem": "After day surgery, which patients at high risk of urinary retention should void before discharge?",
+   "options": [
+    "Hand surgery under sedation",
+    "Cataract surgery under sedation",
+    "Neuraxial block or pelvic surgery",
+    "Skin lesion excision"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#641a98",
+   "kind": "statement",
+   "stem": "What two arrangements are essential for a day-surgery patient going home?",
+   "answer": "Escort home and carer at home",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#b81b78",
+   "kind": "mcq",
+   "stem": "After day surgery, what share of patients may have moderate to severe pain at home?",
+   "options": [
+    "2-5%",
+    "5-10%",
+    "20-40%",
+    "60-80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#b81b78",
+   "kind": "mcq",
+   "stem": "How long can moderate to severe pain at home last after day surgery?",
+   "options": [
+    "7-10days",
+    "10-14days",
+    "2-4days",
+    "3-4weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#f20121",
+   "kind": "mcq",
+   "stem": "How long after day surgery should patients avoid driving or cycling?",
+   "options": [
+    "at least 2h",
+    "at least 6h",
+    "at least 12h",
+    "at least 24h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#23ee36",
+   "kind": "mcq",
+   "stem": "In day-surgery follow-up, on which day is the follow-up phone call made?",
+   "options": [
+    "Postoperative day 2",
+    "Postoperative day 3",
+    "Postoperative day 7",
+    "Postoperative day 1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#e6866e",
+   "kind": "statement",
+   "stem": "Which preoperative factors delay discharge after day surgery?",
+   "answer": "Female sex, older age, heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#8e8b0f",
+   "kind": "statement",
+   "stem": "Which postoperative factors delay discharge after day surgery?",
+   "answer": "PONV, pain, drowsiness, no escort",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#7bb3f6",
+   "kind": "statement",
+   "stem": "Which surgical problems cause unplanned admission after day surgery?",
+   "answer": "Pain, bleeding, surgical complications, need for more extensive surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/day-surgery#8bfdb5",
+   "kind": "statement",
+   "stem": "Which anaesthetic problems cause unplanned admission after day surgery?",
+   "answer": "PONV, drowsiness or dizziness, cognitive dysfunction, cardiovascular events, laryngospasm, aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,659 @@
+{
+ "topic": "physiology/fluid-terminology-and-chemistry",
+ "questions": [
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#beec98",
+   "kind": "mcq",
+   "stem": "What does osmotic pressure in a solution arise from?",
+   "options": [
+    "Dissolved salts or small non-ionic solutes",
+    "Large plasma proteins only",
+    "Gas bubbles dissolved in plasma",
+    "Insoluble lipid droplets"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#16aa30",
+   "kind": "mcq",
+   "stem": "Which part of osmotic pressure is exerted by plasma proteins?",
+   "options": [
+    "Hydrostatic pressure",
+    "Oncotic pressure",
+    "Tonicity",
+    "Osmolarity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#f72668",
+   "kind": "statement",
+   "stem": "In chemistry, what is a mixture?",
+   "answer": "Two or more substances combined",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#9b40e3",
+   "kind": "statement",
+   "stem": "In chemistry, what is a solution?",
+   "answer": "A mixture that forms an even dispersion in a single phase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#3dacc2",
+   "kind": "statement",
+   "stem": "In a solution, what is the solvent?",
+   "answer": "The component present in greater amount, which does the dissolving",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#ca3458",
+   "kind": "statement",
+   "stem": "In a solution, what is the solute?",
+   "answer": "The component present in lesser amount; it is dissolved",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#c94f04",
+   "kind": "mcq",
+   "stem": "What makes a solution aqueous?",
+   "options": [
+    "Its solute is water",
+    "Its solvent is water",
+    "It contains only dissolved gases",
+    "It is a fat-based emulsion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#3a789d",
+   "kind": "mcq",
+   "stem": "Osmolarity expresses solute per unit of what?",
+   "options": [
+    "Mass of solvent",
+    "Volume of solvent",
+    "Volume of gas",
+    "Mass of solute"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#b57ea4",
+   "kind": "mcq",
+   "stem": "Osmolality is expressed in which unit?",
+   "options": [
+    "Osmoles per litre",
+    "Osmoles per kilogram",
+    "Osmoles per gram of solute",
+    "Osmoles per millilitre"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#8fbe93",
+   "kind": "statement",
+   "stem": "What is tonicity?",
+   "answer": "The osmotic pressure gradient between two solutions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#3a82a4",
+   "kind": "mcq",
+   "stem": "Which common IV fluid is iso-osmolar but not isotonic?",
+   "options": [
+    "0.9% sodium chloride",
+    "0.45% sodium chloride",
+    "5% dextrose",
+    "20% mannitol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#eb9096",
+   "kind": "mcq",
+   "stem": "What share of osmolality does sodium with its anions make up?",
+   "options": [
+    "86%",
+    "76%",
+    "68%",
+    "96%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#eb9096",
+   "kind": "mcq",
+   "stem": "What share of tonicity does sodium with its anions make up?",
+   "options": [
+    "76%",
+    "98%",
+    "92%",
+    "82%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#b0683a",
+   "kind": "mcq",
+   "stem": "As temperature rises, what happens to gas solubility in water?",
+   "options": [
+    "It falls",
+    "It rises",
+    "It is unchanged",
+    "It doubles"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#a4d356",
+   "kind": "mcq",
+   "stem": "Which solubility coefficient corrects dissolved gas volume to STP?",
+   "options": [
+    "Ostwald",
+    "Bunsen",
+    "Graham",
+    "Henry"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#6b5c00",
+   "kind": "mcq",
+   "stem": "Which solubility coefficient uses ambient temperature and pressure?",
+   "options": [
+    "Bunsen",
+    "Graham",
+    "Ostwald",
+    "Henry"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#970803",
+   "kind": "mcq",
+   "stem": "At what temperature do anaesthetic tables usually quote solubility coefficients?",
+   "options": [
+    "20°C",
+    "25°C",
+    "0°C",
+    "37°C"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#00e189",
+   "kind": "mcq",
+   "stem": "What does a partition coefficient express?",
+   "options": [
+    "Ratio of gas or vapour amounts in two phases",
+    "Gas volume dissolved per unit solvent volume",
+    "Rate of gas diffusion across a membrane",
+    "Gas pressure in alveolar air"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#2f9dc5",
+   "kind": "mcq",
+   "stem": "At 40°C, how many ml per 100 ml of N2 dissolve in water?",
+   "options": [
+    "0.6",
+    "1.2",
+    "2.3",
+    "53"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#bc3181",
+   "kind": "mcq",
+   "stem": "At 40°C, how many ml per 100 ml of O2 dissolve in water?",
+   "options": [
+    "1.2",
+    "4.5",
+    "2.3",
+    "53"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#3e4eaf",
+   "kind": "mcq",
+   "stem": "At 40°C, how many ml per 100 ml of CO2 dissolve in water?",
+   "options": [
+    "2.3",
+    "1.2",
+    "0.6",
+    "53"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#fe614a",
+   "kind": "statement",
+   "stem": "What is diffusion?",
+   "answer": "Net movement down a concentration gradient from random molecular motion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#6a733b",
+   "kind": "mcq",
+   "stem": "What is bulk flow?",
+   "options": [
+    "Solute moving alone down a concentration gradient",
+    "Gas moving by random molecular motion alone",
+    "Water and solutes moving together down a pressure gradient",
+    "Water crossing a membrane toward more solute"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#12e054",
+   "kind": "mcq",
+   "stem": "For gases, which gradient drives diffusion under Fick's law?",
+   "options": [
+    "Solubility gradient",
+    "Partial pressure gradient",
+    "Osmotic gradient",
+    "Temperature gradient"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#c125e7",
+   "kind": "mcq",
+   "stem": "Under Graham's law, gas diffusion rate is inversely proportional to what?",
+   "options": [
+    "Square of molecular weight",
+    "Partial pressure of the gas",
+    "Square root of molecular weight",
+    "Solubility in water"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#a376df",
+   "kind": "mcq",
+   "stem": "Across a fluid barrier, why does N2 diffuse more slowly?",
+   "options": [
+    "Its high solubility in the fluid",
+    "Its larger molecular weight",
+    "Its low solubility limits the gradient",
+    "Faster passage through dry pores"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#7be783",
+   "kind": "mcq",
+   "stem": "By Graham's law, how much more slowly does CO2 cross a dry porous membrane than O2?",
+   "options": [
+    "10%",
+    "20%",
+    "30%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#1ba266",
+   "kind": "mcq",
+   "stem": "Why does O2 uptake suffer more than CO2 elimination in adverse conditions?",
+   "options": [
+    "Alveolar fluid holds plenty of O2",
+    "O2 is highly water soluble",
+    "O2 is poorly water soluble",
+    "CO2 is poorly water soluble"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#5fcfa2",
+   "kind": "mcq",
+   "stem": "How does the diffusing capacity for CO2 compare with that for O2?",
+   "options": [
+    "20 times smaller",
+    "20 times greater",
+    "2 times greater",
+    "Equal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#f45f6a",
+   "kind": "statement",
+   "stem": "Explain how apnoeic oxygenation moves gas in without ventilation.",
+   "answer": "Hb binding of O2 keeps a plasma gradient drawing in more O2 than CO2 returned, creating negative pressure that pulls gas in from upstream",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#6b0ad8",
+   "kind": "mcq",
+   "stem": "Which gas passes poorly through plastic anaesthetic circuits?",
+   "options": [
+    "Carbon dioxide",
+    "Volatile anaesthetic agents",
+    "Nitrogen",
+    "Nitrous oxide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#4079f4",
+   "kind": "mcq",
+   "stem": "How does high FiO2 help shrink a pneumothorax?",
+   "options": [
+    "Oxygen raises pressure inside the cavity",
+    "Oxygen dissolves into the cavity contents",
+    "Removing inspired N2 creates a gradient for N2 to leave the cavity",
+    "Oxygen pushes N2 into the cavity"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#3c99bc",
+   "kind": "statement",
+   "stem": "What is osmosis?",
+   "answer": "Net movement of solvent across a membrane permeable to solvent but not solute, towards higher solute concentration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#e267ee",
+   "kind": "mcq",
+   "stem": "What determines the osmotic force of particles in solution?",
+   "options": [
+    "Particle size",
+    "Particle charge",
+    "Number of particles",
+    "Molecular weight of particles"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#a29d22",
+   "kind": "mcq",
+   "stem": "If a particle cannot cross a barrier while others can, what happens to fluid?",
+   "options": [
+    "It is drawn into the particle's compartment",
+    "It is pushed out of its compartment",
+    "It crosses the barrier freely",
+    "It has no osmotic effect"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#c732e5",
+   "kind": "mcq",
+   "stem": "What is a 1 molar solution?",
+   "options": [
+    "1 mole per litre of solvent",
+    "1 mole per kilogram of solvent",
+    "1 gram per litre of solution",
+    "1 mole per litre of solution"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#a624fb",
+   "kind": "mcq",
+   "stem": "Why does 1 molar NaCl have about twice the osmotic effect of 1 molar glucose?",
+   "options": [
+    "Glucose splits into two particles",
+    "NaCl has a larger molecular size",
+    "NaCl splits into two particles",
+    "Glucose is more soluble in water"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#a624fb",
+   "kind": "mcq",
+   "stem": "How many g/litre is 1 molar glucose?",
+   "options": [
+    "58",
+    "90",
+    "180",
+    "360"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#4dcc46",
+   "kind": "mcq",
+   "stem": "What is the molarity of 0.9% NaCl?",
+   "options": [
+    "0.9 molar",
+    "0.05 molar",
+    "0.15 molar",
+    "0.5 molar"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#4dcc46",
+   "kind": "mcq",
+   "stem": "What is the osmolarity of 0.9% NaCl?",
+   "options": [
+    "About 300 mosmol/litre",
+    "About 150 mosmol/litre",
+    "About 580 mosmol/litre",
+    "About 900 mosmol/litre"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#ae9cf8",
+   "kind": "mcq",
+   "stem": "What is blood osmolarity, in mosmol/litre?",
+   "options": [
+    "250",
+    "290",
+    "310",
+    "350"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#89471a",
+   "kind": "statement",
+   "stem": "Why are concentrations usually given in mmol/litre rather than meq/litre?",
+   "answer": "Osmotic pressure depends on particle number",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#3c334b",
+   "kind": "mcq",
+   "stem": "For subcutaneous injections, how do iso-osmolar solutions compare for pain with very different osmolarity solutions?",
+   "options": [
+    "They hurt less",
+    "They hurt more",
+    "They hurt the same",
+    "They cause tissue necrosis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#d79812",
+   "kind": "mcq",
+   "stem": "What do plasma proteins do at the distal end of a capillary?",
+   "options": [
+    "Draw fluid back into the vessel",
+    "Push fluid out into the tissue",
+    "Leave the vessel freely",
+    "Raise the hydrostatic pressure"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#1dfbd5",
+   "kind": "mcq",
+   "stem": "In the brain, what is the main osmotic force moving cerebral interstitial fluid?",
+   "options": [
+    "Plasma proteins",
+    "Electrolytes",
+    "Glucose",
+    "Dissolved oxygen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#26735c",
+   "kind": "mcq",
+   "stem": "In glomerular filtration, what pressure comes from resistance to flow in the renal tubules?",
+   "options": [
+    "About 35 mmHg",
+    "About 70 mmHg",
+    "About 25 mmHg",
+    "About 45 mmHg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#e10283",
+   "kind": "mcq",
+   "stem": "In glomerular filtration, how much pressure does plasma protein oncotic pressure contribute?",
+   "options": [
+    "20 mmHg",
+    "35 mmHg",
+    "50 mmHg",
+    "70 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#708a67",
+   "kind": "mcq",
+   "stem": "For filtration, glomerular hydrostatic pressure must exceed what value?",
+   "options": [
+    "35 mmHg",
+    "50 mmHg",
+    "70 mmHg",
+    "100 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#87a27f",
+   "kind": "statement",
+   "stem": "In chemistry, what is an equivalent?",
+   "answer": "The amount of a substance that reacts with a set amount of another in a given reaction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#d3fcf1",
+   "kind": "mcq",
+   "stem": "How many meq is 1 mmol of a univalent ion such as Na+?",
+   "options": [
+    "0.5 meq",
+    "1 meq",
+    "2 meq",
+    "3 meq"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-terminology-and-chemistry#773b58",
+   "kind": "mcq",
+   "stem": "How many meq is 1 mmol of a divalent ion such as Ca++?",
+   "options": [
+    "1 meq",
+    "3 meq",
+    "2 meq",
+    "4 meq"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

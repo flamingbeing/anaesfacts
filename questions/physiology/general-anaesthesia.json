@@ -1,0 +1,153 @@
+{
+ "topic": "physiology/general-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "physiology/general-anaesthesia#d5c5dc",
+   "kind": "statement",
+   "stem": "In general anaesthesia, what is the basic aim of the procedure?",
+   "answer": "Making the patient unconscious so an operation or procedure can be done",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#fd49d7",
+   "kind": "mcq",
+   "stem": "Apart from unconsciousness, what else does general anaesthesia imply?",
+   "options": [
+    "Preserved swallowing and coughing reflexes",
+    "Loss of protective airway reflexes",
+    "Increased bronchial secretions",
+    "Normal protective airway reflexes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#e55282",
+   "kind": "mcq",
+   "stem": "Which general anaesthesia goal is aimed at producing unconsciousness?",
+   "options": [
+    "Analgesia",
+    "Hypnosis",
+    "Immobility",
+    "Amnesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#bf2dbd",
+   "kind": "statement",
+   "stem": "In general anaesthesia, what does the analgesia goal abolish?",
+   "answer": "Pain sensation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#cbc745",
+   "kind": "mcq",
+   "stem": "Which general anaesthesia goal means no memory formation?",
+   "options": [
+    "Hypnosis",
+    "Amnesia",
+    "Reflex blunting",
+    "Analgesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#0a2b70",
+   "kind": "blank",
+   "stem": "The immobility goal of general anaesthesia means no ____.",
+   "answer": "movement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#73af6e",
+   "kind": "statement",
+   "stem": "In general anaesthesia, what does the reflex blunting goal prevent?",
+   "answer": "An exaggerated autonomic response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#e04dd5",
+   "kind": "statement",
+   "stem": "Which two drug types can induce and maintain general anaesthesia?",
+   "answer": "IV drugs or inhaled volatile agents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#7a0ec7",
+   "kind": "mcq",
+   "stem": "Which of these drugs is a sedative-hypnotic?",
+   "options": [
+    "Propofol",
+    "Morphine",
+    "Lidocaine",
+    "Atracurium"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#03ec66",
+   "kind": "statement",
+   "stem": "Apart from sedative-hypnotics, name two other IV agents used in general anaesthesia.",
+   "answer": "Ketamine and opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#45032e",
+   "kind": "mcq",
+   "stem": "Which statement about tracheal tubes in general anaesthesia is correct?",
+   "options": [
+    "Every patient needs a tracheal tube",
+    "Controlled ventilation is always required",
+    "Spontaneous breathing is never permitted",
+    "A tracheal tube is not always required"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#e5b644",
+   "kind": "statement",
+   "stem": "In general anaesthesia, when may an unconscious patient breathe spontaneously?",
+   "answer": "No reflux risk, with adequate oxygenation and ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#a0d021",
+   "kind": "statement",
+   "stem": "How many drug combinations can induce and maintain general anaesthesia?",
+   "answer": "Many different combinations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/general-anaesthesia#a13acd",
+   "kind": "mcq",
+   "stem": "What drugs does total intravenous anaesthesia (TIVA) use?",
+   "options": [
+    "Inhaled volatile agents only",
+    "Intravenous drugs only",
+    "Oral premedication only",
+    "Nitrous oxide and oxygen only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "topic": "procedures/anorectal-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/anorectal-surgery#d441fd",
+   "kind": "mcq",
+   "stem": "What is the usual patient position for anorectal surgery?",
+   "options": [
+    "Supine flat",
+    "Lithotomy head down",
+    "Lateral decubitus",
+    "Sitting upright"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#32e0ce",
+   "kind": "mcq",
+   "stem": "Which antibiotics are used in anorectal surgery when needed?",
+   "options": [
+    "Gentamicin and vancomycin",
+    "Penicillin alone",
+    "Ceftriaxone and metronidazole",
+    "Clindamycin and gentamicin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#65bafb",
+   "kind": "blank",
+   "stem": "Anorectal surgery typically takes about ____.",
+   "answer": "20min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#21912c",
+   "kind": "statement",
+   "stem": "What is the typical blood loss in anorectal surgery?",
+   "answer": "Minimal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#ccf739",
+   "kind": "mcq",
+   "stem": "Despite local infiltration by the surgeon, which analgesic is usually needed after anorectal surgery?",
+   "options": [
+    "Paracetamol alone",
+    "Morphine",
+    "Nerve block only",
+    "Ondansetron"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#8ddb40",
+   "kind": "mcq",
+   "stem": "Why does anorectal surgery need deep anaesthesia?",
+   "options": [
+    "It bleeds heavily",
+    "It is highly reflexogenic",
+    "It is very long",
+    "It needs deep muscle relaxation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#6c3e0b",
+   "kind": "statement",
+   "stem": "Which postoperative complication is at high risk after anorectal surgery?",
+   "answer": "Urinary retention",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#c7e3da",
+   "kind": "statement",
+   "stem": "What should be checked preoperatively for anorectal surgery?",
+   "answer": "Suitability for LMA, lithotomy and head-down position",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#ae6769",
+   "kind": "mcq",
+   "stem": "Which alternative position is used for anorectal surgery instead of lithotomy?",
+   "options": [
+    "Left lateral",
+    "Jackknife (prone)",
+    "Reverse Trendelenburg",
+    "Sitting"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#da09d4",
+   "kind": "statement",
+   "stem": "Which nerve is at risk from pressure in lithotomy for anorectal surgery?",
+   "answer": "Common peroneal nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#da09d4",
+   "kind": "mcq",
+   "stem": "What is the result of pressure on the common peroneal nerve in lithotomy for anorectal surgery?",
+   "options": [
+    "Wrist drop",
+    "Foot drop",
+    "Claw hand",
+    "Ulnar palsy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#a7c84b",
+   "kind": "statement",
+   "stem": "In prone or jackknife positioning for anorectal surgery, what must be supported?",
+   "answer": "The chest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#bda7e5",
+   "kind": "statement",
+   "stem": "In anorectal surgery positioning, which structures must be kept free of pressure?",
+   "answer": "Eyes and ears",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#d3e3f6",
+   "kind": "mcq",
+   "stem": "Which technique is used for anorectal surgery under general anaesthesia?",
+   "options": [
+    "Controlled ventilation with a tracheal tube",
+    "Spontaneous ventilation with an LMA",
+    "Rapid sequence induction with a tracheal tube",
+    "Tracheostomy with IPPV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#fed829",
+   "kind": "mcq",
+   "stem": "Under general anaesthesia for anorectal surgery, which opioid suits the short but intensely painful stimulus?",
+   "options": [
+    "Morphine",
+    "Pethidine",
+    "Buprenorphine",
+    "Fentanyl or alfentanil"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#b4da47",
+   "kind": "blank",
+   "stem": "Before anal stretch, give a short-acting opioid bolus such as alfentanil ____ micrograms.",
+   "answer": "500",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#b4da47",
+   "kind": "mcq",
+   "stem": "Before anal stretch in anorectal surgery, what should be increased first?",
+   "options": [
+    "Fluid rate",
+    "Volatile agent",
+    "PEEP",
+    "Tidal volume"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#08b4cd",
+   "kind": "mcq",
+   "stem": "After anorectal surgery, which drug route should be avoided?",
+   "options": [
+    "Subcutaneous",
+    "Oral",
+    "Intravenous",
+    "Rectal (PR)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anorectal-surgery#e8db90",
+   "kind": "mcq",
+   "stem": "Which procedure is used for rectal prolapse in the anorectal surgery notes?",
+   "options": [
+    "Hartmann's procedure",
+    "Delorme's procedure",
+    "Whipple's procedure",
+    "Nissen fundoplication"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

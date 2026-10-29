@@ -1,0 +1,91 @@
+{
+ "topic": "procedures/anterior-segment-eye-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/anterior-segment-eye-surgery#82b4de",
+   "kind": "mcq",
+   "stem": "Which anterior segment eye procedure is a corneal transplant?",
+   "options": [
+    "Penetrating keratoplasty",
+    "Glaucoma drainage surgery",
+    "Intracapsular cataract extraction",
+    "Vitrectomy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anterior-segment-eye-surgery#5c9c4a",
+   "kind": "mcq",
+   "stem": "In anterior segment eye surgery, which eye drops can cause bradycardia when checked preoperatively?",
+   "options": [
+    "Latanoprost drops",
+    "Dorzolamide drops",
+    "Atropine drops",
+    "Beta-blocker drops"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anterior-segment-eye-surgery#88ebde",
+   "kind": "statement",
+   "stem": "Why is intraocular pressure control crucial at induction in anterior segment eye surgery?",
+   "answer": "Sudden decompression of a tense eye causes iris or lens prolapse and choroidal haemorrhage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anterior-segment-eye-surgery#460331",
+   "kind": "mcq",
+   "stem": "Which ventilation strategy is used during induction for anterior segment eye surgery?",
+   "options": [
+    "Spontaneous ventilation with nitrous oxide",
+    "IPPV with end-tidal CO2 control",
+    "Apnoeic oxygenation only",
+    "Assisted ventilation with high PEEP"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anterior-segment-eye-surgery#acfccb",
+   "kind": "mcq",
+   "stem": "In anterior segment eye surgery, is intravenous atropine contraindicated for the oculocardiac reflex?",
+   "options": [
+    "Yes, it raises intraocular pressure",
+    "No, little of it reaches the eye",
+    "Yes, it causes profound bradycardia",
+    "Only in children"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anterior-segment-eye-surgery#d06980",
+   "kind": "mcq",
+   "stem": "For anterior segment eye surgery, which block is very useful during maintenance?",
+   "options": [
+    "Brachial plexus block",
+    "Facial nerve block",
+    "Sub-Tenon's block",
+    "Caudal block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/anterior-segment-eye-surgery#0ae97a",
+   "kind": "statement",
+   "stem": "Compared with which other eye operation does anterior segment surgery cause less pain?",
+   "answer": "Vitreoretinal surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

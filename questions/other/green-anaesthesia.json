@@ -1,0 +1,371 @@
+{
+ "topic": "other/green-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "other/green-anaesthesia#1ec419",
+   "kind": "statement",
+   "stem": "Why are halogenated fluorocarbon volatile agents a climate concern?",
+   "answer": "They are potent greenhouse gases with high GWP and long atmospheric lifetimes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#8b0545",
+   "kind": "mcq",
+   "stem": "What is the GWP100 of desflurane?",
+   "options": [
+    "510",
+    "130",
+    "2,540",
+    "1,270"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#8b0545",
+   "kind": "mcq",
+   "stem": "How long does desflurane persist in the atmosphere?",
+   "options": [
+    "1.1 years",
+    "14 years",
+    "123 years",
+    "5 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#9474b7",
+   "kind": "mcq",
+   "stem": "Which volatile agent has a GWP100 of 510?",
+   "options": [
+    "Desflurane",
+    "Sevoflurane",
+    "Isoflurane",
+    "Nitrous oxide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#a321de",
+   "kind": "mcq",
+   "stem": "What is the GWP100 of sevoflurane?",
+   "options": [
+    "130",
+    "2,540",
+    "510",
+    "264"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#a321de",
+   "kind": "mcq",
+   "stem": "How long does sevoflurane persist in the atmosphere?",
+   "options": [
+    "14 years",
+    "1.1 years",
+    "123 years",
+    "2 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#40fa96",
+   "kind": "statement",
+   "stem": "Why is nitrous oxide a concern for the environment?",
+   "answer": "It is a major warming contributor and the main medical cause of ozone depletion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#ad4960",
+   "kind": "mcq",
+   "stem": "What is the global warming potential of nitrous oxide?",
+   "options": [
+    "130",
+    "264",
+    "510",
+    "2,540"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#ad4960",
+   "kind": "mcq",
+   "stem": "How long does nitrous oxide remain in the atmosphere?",
+   "options": [
+    "14 years",
+    "1.1 years",
+    "123 years",
+    "50 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#cd0f23",
+   "kind": "mcq",
+   "stem": "What share of the NHS anaesthetic carbon footprint comes from nitrous oxide?",
+   "options": [
+    "50%",
+    "75%",
+    "90%",
+    "25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#cd0f23",
+   "kind": "mcq",
+   "stem": "Of the nitrous oxide share of the NHS anaesthetic footprint, what fraction is Entonox in maternity?",
+   "options": [
+    "One-third",
+    "Two-thirds",
+    "One-quarter",
+    "One-tenth"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#f251c1",
+   "kind": "statement",
+   "stem": "What should anaesthetists prefer over desflurane and nitrous oxide to cut the carbon footprint?",
+   "answer": "Sevoflurane or TIVA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#79bb65",
+   "kind": "mcq",
+   "stem": "What fresh gas flow, in litres per minute, defines low-flow anaesthesia?",
+   "options": [
+    "<3 L/min",
+    "<1 L/min",
+    "<5 L/min",
+    "<10 L/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#6c0c67",
+   "kind": "mcq",
+   "stem": "What share of desflurane did one study recapture using capture technology?",
+   "options": [
+    "5%",
+    "25%",
+    "50%",
+    "75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#907cee",
+   "kind": "mcq",
+   "stem": "Roughly what share of propofol's carbon footprint is packaging?",
+   "options": [
+    "About 10%",
+    "About 25%",
+    "Over 58%",
+    "About 40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#522fc2",
+   "kind": "mcq",
+   "stem": "How should leftover propofol be disposed of?",
+   "options": [
+    "Poured down the sink",
+    "Flushed down a drain",
+    "Put in general waste",
+    "Incinerated via sharps bin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#287a25",
+   "kind": "mcq",
+   "stem": "What is propofol's Persistence, Bioaccumulation and Toxicity score, out of 9?",
+   "options": [
+    "2 out of 9",
+    "4 out of 9",
+    "6 out of 9",
+    "8 out of 9"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#b1b03e",
+   "kind": "statement",
+   "stem": "What two measures mitigate propofol's environmental footprint?",
+   "answer": "Recycle packaging and dispose of the drug correctly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#5a96b8",
+   "kind": "statement",
+   "stem": "What drug-related habit adds to anaesthetic waste?",
+   "answer": "Over-drawing 'just in case' drugs that are later discarded",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#7134af",
+   "kind": "mcq",
+   "stem": "Compared with single-use items, how do reusable LMAs, gowns and drapes compare for lifecycle footprint?",
+   "options": [
+    "Higher lifecycle footprint",
+    "Identical lifecycle footprint",
+    "Lower only when unsterilised",
+    "Lower lifecycle footprint"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#ec34f7",
+   "kind": "mcq",
+   "stem": "What share of anaesthetic waste is recyclable?",
+   "options": [
+    "Up to 15%",
+    "Up to 25%",
+    "Up to 40%",
+    "Up to 70%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#90c2f1",
+   "kind": "statement",
+   "stem": "Which two items should be switched off when not in use to save CO2?",
+   "answer": "AGSS and forced-air warmers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#2ce881",
+   "kind": "statement",
+   "stem": "In the 5Rs framework, what does 'Rethink' ask anaesthetists to consider?",
+   "answer": "Whether general anaesthesia is needed, or regional or neuraxial can be used",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#ad3c9b",
+   "kind": "statement",
+   "stem": "In the 5Rs framework, what does 'Reduce' mean for volatile use?",
+   "answer": "Low-flow anaesthesia, which greatly cuts volatile use",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#7167ef",
+   "kind": "mcq",
+   "stem": "Which item is an example of a validated reusable under the 5Rs Reuse step?",
+   "options": [
+    "Laryngoscope handles",
+    "Single-use gloves",
+    "Disposable face masks",
+    "Paper drapes"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#23aeed",
+   "kind": "statement",
+   "stem": "What does the Recycle step of the 5Rs separate out?",
+   "answer": "Clean non-infectious waste such as cardboard, vial caps and paper",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#0c62d8",
+   "kind": "statement",
+   "stem": "What does the Research step of the 5Rs ask departments to do?",
+   "answer": "Audit their carbon footprint",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#0f6fa7",
+   "kind": "statement",
+   "stem": "Which patient group still needs nitrous oxide, limiting how far it can be cut?",
+   "answer": "Paediatric cases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#8c83cf",
+   "kind": "statement",
+   "stem": "Without piped nitrous oxide, what must staff do with the cylinders?",
+   "answer": "Check them carefully",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#02f88f",
+   "kind": "statement",
+   "stem": "Which equipment must a unit have enough of to run TIVA?",
+   "answer": "Syringe pumps",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#fb56b0",
+   "kind": "statement",
+   "stem": "Which education point supports recycling in theatre?",
+   "answer": "Recyclable versus non-recyclable plastics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#3da127",
+   "kind": "statement",
+   "stem": "What cost barrier applies to switching to reusable anaesthetic items?",
+   "answer": "High upfront cost",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/green-anaesthesia#73a650",
+   "kind": "statement",
+   "stem": "What does the SSA Green Perioperative Checklist ask for collaboration with?",
+   "answer": "Within and between hospitals, education centres and industry",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

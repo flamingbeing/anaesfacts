@@ -1,0 +1,69 @@
+{
+ "topic": "procedures/closure-of-stoma",
+ "questions": [
+  {
+   "fact_id": "procedures/closure-of-stoma#ac0e65",
+   "kind": "mcq",
+   "stem": "How long does closure of a colostomy or loop ileostomy usually take?",
+   "options": [
+    "5-10 minutes",
+    "0.5–1 hr",
+    "2–3 hr",
+    "4–5 hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/closure-of-stoma#784b10",
+   "kind": "statement",
+   "stem": "How much pain does stoma closure cause?",
+   "answer": "Moderate (++)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/closure-of-stoma#81f723",
+   "kind": "mcq",
+   "stem": "What blood loss is expected from closure of a stoma?",
+   "options": [
+    "500 mL",
+    "1 L",
+    "Nil",
+    "Around 100 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/closure-of-stoma#588f6b",
+   "kind": "mcq",
+   "stem": "What position is used for closure of a stoma?",
+   "options": [
+    "Supine",
+    "Prone",
+    "Lithotomy",
+    "Lateral decubitus"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/closure-of-stoma#eab203",
+   "kind": "mcq",
+   "stem": "Does local closure of a stoma need muscle relaxation?",
+   "options": [
+    "No, spontaneous breathing is enough",
+    "Yes, muscle relaxation still required",
+    "Only if an epidural is used",
+    "Only for ileostomies"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

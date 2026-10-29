@@ -1,0 +1,405 @@
+{
+ "topic": "procedures/cosmetic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/cosmetic-surgery#20077d",
+   "kind": "mcq",
+   "stem": "Abdominoplasty is ranked how among the most common cosmetic procedures?",
+   "options": [
+    "Fourth",
+    "Second",
+    "Sixth",
+    "Eighth"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#20077d",
+   "kind": "statement",
+   "stem": "What other name is used for abdominoplasty?",
+   "answer": "Lipectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#b18a2d",
+   "kind": "mcq",
+   "stem": "Apart from cosmetic reasons, which is an indication for abdominoplasty?",
+   "options": [
+    "Varicose veins",
+    "Carpal tunnel release",
+    "Ventral hernia",
+    "Gallstones"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#7e9e81",
+   "kind": "blank",
+   "stem": "Abdominoplasty patients are often obese, with ____.",
+   "answer": "OSA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#59df93",
+   "kind": "statement",
+   "stem": "Which postoperative analgesic method is used after abdominoplasty?",
+   "answer": "PCA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#e937dd",
+   "kind": "blank",
+   "stem": "Liposuction removes subcutaneous fat by ____ through a small incision with a blunt cannula.",
+   "answer": "Vacuum aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#b6472d",
+   "kind": "mcq",
+   "stem": "How many liposuction techniques differ in how much fluid they infiltrate?",
+   "options": [
+    "Two",
+    "Three",
+    "Five",
+    "Four"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#7f1bd7",
+   "kind": "mcq",
+   "stem": "In dry liposuction, with no infiltration, blood loss is what share of aspirate?",
+   "options": [
+    "20-45%",
+    "4-30%",
+    "about 1%",
+    "60-80%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#e1404c",
+   "kind": "mcq",
+   "stem": "In wet liposuction, how much wetting solution is given per area?",
+   "options": [
+    "20-30 ml",
+    "1 ml per ml of aspirate",
+    "200-300 ml",
+    "3-4 ml per ml of aspirate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#70f818",
+   "kind": "mcq",
+   "stem": "In superwet liposuction, how much is injected per ml of expected aspirate?",
+   "options": [
+    "0.5 ml",
+    "1 ml",
+    "3-4 ml",
+    "200-300 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#7f4456",
+   "kind": "mcq",
+   "stem": "In tumescent liposuction, how much is injected per ml of expected aspirate?",
+   "options": [
+    "2-3 ml",
+    "200-300 ml",
+    "1 ml",
+    "3-4 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#f3c5eb",
+   "kind": "statement",
+   "stem": "What three anaesthetic approaches are used for liposuction?",
+   "answer": "Local infiltration alone, IV sedation, or GA with LMA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#fa795a",
+   "kind": "mcq",
+   "stem": "Which liposuction anaesthetic technique is the most common?",
+   "options": [
+    "Tumescent technique",
+    "Dry technique",
+    "Wet technique",
+    "Ultrasound-assisted technique"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#1a0ddb",
+   "kind": "mcq",
+   "stem": "What lidocaine dose can be used in liposuction anaesthesia?",
+   "options": [
+    "3.5-5.5 mg/kg",
+    "7 mg/kg",
+    "35-55 mg/kg",
+    "100-150 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#d4c79e",
+   "kind": "mcq",
+   "stem": "How long does local anaesthesia last after liposuction?",
+   "options": [
+    "Up to 6 hours",
+    "Up to 12 hours",
+    "Up to 36 hours",
+    "Up to 18 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#0e4694",
+   "kind": "statement",
+   "stem": "In liposuction, what does adrenaline-induced vasoconstriction limit?",
+   "answer": "Blood loss, bruising and soreness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#72f771",
+   "kind": "mcq",
+   "stem": "Over what period is infiltrated fluid absorbed after liposuction?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "72 hours",
+    "48 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#e76165",
+   "kind": "mcq",
+   "stem": "After liposuction, when do plasma adrenaline levels peak?",
+   "options": [
+    "1-2 hours",
+    "12-14 hours",
+    "5-6 hours",
+    "24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#8809e0",
+   "kind": "mcq",
+   "stem": "After liposuction, when do plasma lidocaine levels peak?",
+   "options": [
+    "5-6 hours",
+    "1-2 hours",
+    "24-36 hours",
+    "12-14 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#10b893",
+   "kind": "mcq",
+   "stem": "What causes hypothermia in large-volume liposuction over 4 L?",
+   "options": [
+    "Low urine output and fluid overload",
+    "Large exposed area and large volumes of cold infiltrate",
+    "Adrenaline-induced vasoconstriction alone",
+    "Hyperkalaemia from lidocaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#4b3a44",
+   "kind": "blank",
+   "stem": "Large-volume liposuction over 4 L can also cause pneumoperitoneum, bowel injury, pneumothorax and ____.",
+   "answer": "haemothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#c5331e",
+   "kind": "mcq",
+   "stem": "Which dressing is used after liposuction?",
+   "options": [
+    "Occlusive film dressings",
+    "Dry gauze only",
+    "Pressure dressings",
+    "Adhesive strips only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#10b2d8",
+   "kind": "mcq",
+   "stem": "Liposuction morbidity is linked to aspirate volume over what amount?",
+   "options": [
+    "Over 500 ml",
+    "Over 1 L",
+    "Over 3 L",
+    "Over 2 L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#8e2f4e",
+   "kind": "mcq",
+   "stem": "What does a facelift (rhytidectomy) aim to do?",
+   "options": [
+    "Reduce abdominal skin excess",
+    "Correct prominent ears",
+    "Remove deep neck fat",
+    "Surgical reduction of facial folds and wrinkles"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#8be4df",
+   "kind": "mcq",
+   "stem": "What age range is given for facelift (rhytidectomy) patients?",
+   "options": [
+    "45-65 years",
+    "25-35 years",
+    "65-85 years",
+    "5-15 years"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#a7e94d",
+   "kind": "mcq",
+   "stem": "How long before a facelift should NSAIDs be stopped?",
+   "options": [
+    "2 days",
+    "2 weeks",
+    "1 week",
+    "6 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#ecc826",
+   "kind": "mcq",
+   "stem": "How long does a facelift (rhytidectomy) usually last?",
+   "options": [
+    "1-2 hours",
+    "6-8 hours",
+    "10-12 hours",
+    "3-4 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#dfe894",
+   "kind": "mcq",
+   "stem": "What patient position is used for facelift (rhytidectomy)?",
+   "options": [
+    "Prone, head down",
+    "Supine, 30 degrees head up",
+    "Supine, 30 degrees head down",
+    "Lateral decubitus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#ea7ae6",
+   "kind": "mcq",
+   "stem": "What systolic range defines the hypotensive technique in facelift?",
+   "options": [
+    "SBP 70-80",
+    "SBP 40-50",
+    "SBP 100-110",
+    "SBP 120-130"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#ea7ae6",
+   "kind": "statement",
+   "stem": "In facelift surgery, what might a hypotensive technique reduce?",
+   "answer": "Blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#e7f59f",
+   "kind": "mcq",
+   "stem": "Correction of prominent ears is usually done in which age group?",
+   "options": [
+    "Children aged 1-3 years",
+    "Teenagers aged 13-16 years",
+    "Children aged 4-10 years",
+    "Adults aged 40-60 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cosmetic-surgery#3683ed",
+   "kind": "mcq",
+   "stem": "What crystalloid dose is noted for correction of prominent ears?",
+   "options": [
+    "5 ml/kg",
+    "2 ml/kg",
+    "50 ml/kg",
+    "20 ml/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

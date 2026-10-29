@@ -1,0 +1,207 @@
+{
+ "topic": "procedures/chest-trauma-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/chest-trauma-surgery#4be8c9",
+   "kind": "mcq",
+   "stem": "What proportion of patients with thoracic trauma need a thoracotomy?",
+   "options": [
+    "Over 30%",
+    "Under 30%",
+    "Over 50%",
+    "Over 70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#327633",
+   "kind": "mcq",
+   "stem": "What chest drain output in chest trauma indicates thoracotomy?",
+   "options": [
+    "Over 500 ml/hr",
+    "100 ml/hr",
+    "1.5 L, or over 200 ml/hr",
+    "Under 50 ml/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#35b958",
+   "kind": "statement",
+   "stem": "What is essential for venous access in chest trauma surgery?",
+   "answer": "Good venous access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#59cc02",
+   "kind": "statement",
+   "stem": "In general chest trauma management, which life-threatening condition should be looked for?",
+   "answer": "Tension pneumothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#a31e83",
+   "kind": "statement",
+   "stem": "What does a massive air leak in chest trauma suggest?",
+   "answer": "Tracheobronchial injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#bb6cdc",
+   "kind": "statement",
+   "stem": "In suspected traumatic aortic disruption, which imaging is used if the patient is stable?",
+   "answer": "CT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#952fbd",
+   "kind": "statement",
+   "stem": "In suspected traumatic aortic disruption, which imaging is used in theatre if the patient is unstable?",
+   "answer": "TOE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#9a7b45",
+   "kind": "mcq",
+   "stem": "How urgent is surgical repair of a ruptured diaphragm from trauma?",
+   "options": [
+    "Needed within minutes",
+    "Immediate, within the hour",
+    "Not an emergency",
+    "Needed before chest drain insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#54fc24",
+   "kind": "statement",
+   "stem": "A ruptured diaphragm is managed the same way as which operation?",
+   "answer": "Fundoplication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#425983",
+   "kind": "statement",
+   "stem": "Which techniques help surgical access in ruptured diaphragm repair?",
+   "answer": "DLT and one-lung ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#3ca2af",
+   "kind": "statement",
+   "stem": "Why is an NG tube used in ruptured diaphragm repair?",
+   "answer": "To decompress the stomach",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#c59f27",
+   "kind": "statement",
+   "stem": "What does a ruptured oesophagus in trauma typically present with?",
+   "answer": "Surgical emphysema, pleural effusions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#eaf757",
+   "kind": "statement",
+   "stem": "In ruptured oesophagus, which complication comes first, before sepsis and multi-organ failure?",
+   "answer": "Mediastinitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#b9bbef",
+   "kind": "statement",
+   "stem": "What is the aim of surgery for ruptured oesophagus?",
+   "answer": "Drain and stop further contamination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#2130cb",
+   "kind": "statement",
+   "stem": "In a frail patient with ruptured oesophagus, which conservative trial is tried first?",
+   "answer": "NG suction and chest drain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#71d3a0",
+   "kind": "statement",
+   "stem": "Before surgery for ruptured oesophagus, where should the patient be optimised?",
+   "answer": "In ICU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#8e705c",
+   "kind": "statement",
+   "stem": "The anaesthetic plan for ruptured oesophagus repair follows which operation?",
+   "answer": "Oesophagectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#c14f52",
+   "kind": "statement",
+   "stem": "Which arrhythmia is very common in ruptured oesophagus?",
+   "answer": "AF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#e834db",
+   "kind": "statement",
+   "stem": "Where do most patients with tracheobronchial injury die?",
+   "answer": "Before reaching hospital",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#64e498",
+   "kind": "statement",
+   "stem": "In tracheobronchial injury, besides bilateral chest drains, what is given?",
+   "answer": "100% oxygen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#feffd6",
+   "kind": "statement",
+   "stem": "Why might a single lumen tube be a problem in tracheobronchial injury?",
+   "answer": "Adequate positive pressure ventilation may be impossible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#fbde09",
+   "kind": "statement",
+   "stem": "When is thoracotomy for tracheobronchial injury repair done?",
+   "answer": "Once the airway is secure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/chest-trauma-surgery#852531",
+   "kind": "statement",
+   "stem": "What does carinal disruption need for repair?",
+   "answer": "Cardiopulmonary bypass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

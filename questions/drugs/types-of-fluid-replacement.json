@@ -1,0 +1,113 @@
+{
+ "topic": "drugs/types-of-fluid-replacement",
+ "questions": [
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#bfcb82",
+   "kind": "mcq",
+   "stem": "What are crystalloid fluids?",
+   "options": [
+    "Water with dissolved electrolytes",
+    "Pure distilled water with no solutes",
+    "Starch solution in saline",
+    "Packed red blood cells"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#c69416",
+   "kind": "mcq",
+   "stem": "How do crystalloids compare with colloids on cost?",
+   "options": [
+    "Much more expensive",
+    "About the same cost",
+    "Much cheaper",
+    "Slightly cheaper"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#4393a5",
+   "kind": "statement",
+   "stem": "What do colloid solutions contain that gives them oncotic pressure?",
+   "answer": "Macromolecules",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#aee73a",
+   "kind": "mcq",
+   "stem": "What gives colloids their tonicity and osmolality?",
+   "options": [
+    "Their macromolecule content",
+    "Their sodium chloride content",
+    "Their oncotic pressure",
+    "Their glucose content"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#85fd43",
+   "kind": "statement",
+   "stem": "Colloids are thought to cause less weight gain and oedema than which fluid type?",
+   "answer": "Crystalloids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#f2f1d3",
+   "kind": "statement",
+   "stem": "What two side effects are associated with colloid fluids?",
+   "answer": "Anaphylaxis and coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#63a36c",
+   "kind": "mcq",
+   "stem": "Transfused blood adds volume to which fluid compartments?",
+   "options": [
+    "Only the intracellular space",
+    "Only the interstitial space",
+    "Intracellular and extracellular (intravascular) spaces",
+    "Only the third space"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#4d1926",
+   "kind": "mcq",
+   "stem": "To replace blood loss with crystalloid, what volume should be given?",
+   "options": [
+    "About half the blood loss",
+    "About 3x the estimated blood loss",
+    "About 1.5x the estimated blood loss",
+    "About 10x the estimated blood loss"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/types-of-fluid-replacement#ad2f62",
+   "kind": "mcq",
+   "stem": "To replace blood loss acutely with colloid, what volume is needed?",
+   "options": [
+    "Three times the blood loss",
+    "An equal volume",
+    "Half the blood loss",
+    "Double the blood loss"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

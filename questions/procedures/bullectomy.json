@@ -1,0 +1,211 @@
+{
+ "topic": "procedures/bullectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/bullectomy#9a92e6",
+   "kind": "mcq",
+   "stem": "Bullectomy is usually done for which lung condition, in patients who would normally avoid general anaesthesia?",
+   "options": [
+    "Bronchiectasis",
+    "Pneumothorax",
+    "Severe emphysema",
+    "Lung abscess"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#14e9aa",
+   "kind": "mcq",
+   "stem": "In the National Emphysema Treatment Trial, which emphysema group showed benefit?",
+   "options": [
+    "Lower lobe disease with high exercise capacity",
+    "Upper lobe disease with high exercise capacity",
+    "Lower lobe disease with low exercise capacity",
+    "Upper lobe disease with low baseline exercise capacity"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#2e3a8f",
+   "kind": "statement",
+   "stem": "How is an isolated congenital bulla or cyst managed in bullectomy, and how fit are these patients?",
+   "answer": "Managed the same way; these patients are often much fitter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#1a0fe1",
+   "kind": "statement",
+   "stem": "Which investigations make up the cardiac assessment before bullectomy?",
+   "answer": "Angiography, right heart catheterisation, echo, pulmonary artery pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#f74b8c",
+   "kind": "blank",
+   "stem": "Bullectomy patients may need perioperative ____ supplementation as required.",
+   "answer": "steroid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#2f5807",
+   "kind": "mcq",
+   "stem": "For bullectomy with a double-lumen tube, how is the tube position confirmed?",
+   "options": [
+    "Bronchoscopy",
+    "Capnography",
+    "Auscultation alone",
+    "Pulse oximetry"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#dfb250",
+   "kind": "blank",
+   "stem": "Bullectomy ventilation uses deliberate ____ and permissive hypercapnia.",
+   "answer": "hypoventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#025e76",
+   "kind": "mcq",
+   "stem": "What tidal volume is used for ventilation in bullectomy?",
+   "options": [
+    "8 ml/kg",
+    "6 ml/kg",
+    "10 ml/kg",
+    "4 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#025e76",
+   "kind": "mcq",
+   "stem": "What respiratory rate is used for ventilation in bullectomy?",
+   "options": [
+    "16",
+    "20",
+    "24",
+    "10"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#025e76",
+   "kind": "mcq",
+   "stem": "What airway pressure limit is set for bullectomy ventilation?",
+   "options": [
+    "Below 30 cmH2O",
+    "Below 20 cmH2O",
+    "Below 40 cmH2O",
+    "Below 50 cmH2O"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#2d1e62",
+   "kind": "statement",
+   "stem": "In bullectomy ventilation, why is the patient intermittently disconnected from the ventilator?",
+   "answer": "To let the lungs empty",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#0b3cfa",
+   "kind": "statement",
+   "stem": "Why must bullectomy patients be ventilated cautiously?",
+   "answer": "Bullae can burst",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#4b897f",
+   "kind": "statement",
+   "stem": "Which two airway problems can complicate bullectomy?",
+   "answer": "Bronchospasm and sputum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#cdf7e2",
+   "kind": "blank",
+   "stem": "Postoperative bullectomy care: ____ early.",
+   "answer": "Extubate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#8819d1",
+   "kind": "mcq",
+   "stem": "What SpO2 target is aimed for after bullectomy?",
+   "options": [
+    "95-98%",
+    "90-92%",
+    "85-88%",
+    "98-100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#8819d1",
+   "kind": "statement",
+   "stem": "What arterial CO2 approach is taken after bullectomy?",
+   "answer": "Accept a high PaCO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#1b89b4",
+   "kind": "statement",
+   "stem": "After bullectomy, which complication needs close watching?",
+   "answer": "Air leaks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#799560",
+   "kind": "mcq",
+   "stem": "After bullectomy, how common is a prolonged air leak?",
+   "options": [
+    "50% of patients leak for more than 7 days",
+    "10% of patients leak for more than 7 days",
+    "20% of patients leak for more than 2 days",
+    "5% of patients leak for more than 14 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/bullectomy#1ee8ac",
+   "kind": "mcq",
+   "stem": "What mortality is quoted for bullectomy?",
+   "options": [
+    "1-2%",
+    "15-20%",
+    "5-10%",
+    "25-30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

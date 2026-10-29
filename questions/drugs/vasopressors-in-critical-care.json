@@ -1,0 +1,439 @@
+{
+ "topic": "drugs/vasopressors-in-critical-care",
+ "questions": [
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#d03d52",
+   "kind": "statement",
+   "stem": "Vasopressors should be given via a central line because of the risk of what?",
+   "answer": "Tissue necrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#0facda",
+   "kind": "mcq",
+   "stem": "What should be infiltrated if a vasopressor leaks from a peripheral vein?",
+   "options": [
+    "Naloxone",
+    "Propranolol",
+    "Phentolamine",
+    "Flumazenil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#0facda",
+   "kind": "mcq",
+   "stem": "How is phentolamine prepared for infiltrating a vasopressor leak?",
+   "options": [
+    "5–10 mg in 15 mL normal saline",
+    "50–100 mg in 15 mL normal saline",
+    "5–10 mg in 150 mL normal saline",
+    "1–2 mg in 5 mL normal saline"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#ed8f70",
+   "kind": "statement",
+   "stem": "Why are drug side effects hard to judge at high vasoconstrictor doses?",
+   "answer": "Hard to separate from the effects of shock itself",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#10531d",
+   "kind": "mcq",
+   "stem": "What is the main action of noradrenaline as a vasopressor?",
+   "options": [
+    "Mainly alpha-mediated peripheral vasoconstriction",
+    "Mainly beta-1 cardiac stimulation",
+    "Mainly dopamine receptor activation",
+    "Mainly muscarinic receptor blockade"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#d50a06",
+   "kind": "mcq",
+   "stem": "Which vasopressor is preferred in septic shock?",
+   "options": [
+    "Phenylephrine",
+    "Dobutamine",
+    "Noradrenaline",
+    "Milrinone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#2046a5",
+   "kind": "statement",
+   "stem": "What is usually added if hypotension persists despite noradrenaline?",
+   "answer": "Vasopressin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#95386e",
+   "kind": "statement",
+   "stem": "What hormone is vasopressin also known as?",
+   "answer": "Antidiuretic hormone (ADH)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#1316e5",
+   "kind": "mcq",
+   "stem": "Vasopressin causes vasoconstriction by acting on which receptors?",
+   "options": [
+    "V2 receptors in the kidney",
+    "Muscarinic M2 receptors on the heart",
+    "V1 receptors on vascular smooth muscle",
+    "Beta-1 receptors on the heart"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#f91a30",
+   "kind": "statement",
+   "stem": "In septic shock, vasopressin is added for shock resistant to which two drugs?",
+   "answer": "Noradrenaline or dopamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#855348",
+   "kind": "blank",
+   "stem": "Exogenous vasopressin has a plasma half-life of ____, so it is given by continuous infusion.",
+   "answer": "5–20 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#542beb",
+   "kind": "mcq",
+   "stem": "What is the vasopressin dose range in septic shock?",
+   "options": [
+    "0.1–0.4 units/min",
+    "0.01–0.04 units/min",
+    "1–4 units/min",
+    "0.001–0.004 units/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#542beb",
+   "kind": "mcq",
+   "stem": "Which vasopressin infusion rate is most often used in septic shock?",
+   "options": [
+    "0.3 units/min",
+    "0.03 units/min",
+    "0.06 units/min",
+    "0.003 units/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#514a73",
+   "kind": "statement",
+   "stem": "Dobutamine is a synthetic catecholamine. What combined type of agent is it?",
+   "answer": "Inodilator (positive inotrope and vasodilator)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#ba6e29",
+   "kind": "mcq",
+   "stem": "What is dobutamine's main receptor activity?",
+   "options": [
+    "Mainly alpha agonist",
+    "Mainly beta agonist",
+    "Pure dopamine D1 agonist",
+    "Muscarinic antagonist"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#153150",
+   "kind": "mcq",
+   "stem": "What do dobutamine's beta-1 effects do to heart rate and stroke volume?",
+   "options": [
+    "Both decrease",
+    "Heart rate rises, stroke volume falls",
+    "Both increase",
+    "Heart rate falls, stroke volume rises"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#684718",
+   "kind": "mcq",
+   "stem": "What does dobutamine's beta-2 activity cause in the periphery?",
+   "options": [
+    "Peripheral vasoconstriction",
+    "Peripheral vasodilation",
+    "Bronchoconstriction",
+    "Coronary vasoconstriction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#ef618b",
+   "kind": "statement",
+   "stem": "In which condition is dobutamine used to raise cardiac output?",
+   "answer": "Decompensated systolic heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#a6b00e",
+   "kind": "blank",
+   "stem": "The dobutamine infusion range is ____.",
+   "answer": "5-20mcg/kg/min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#f5835a",
+   "kind": "mcq",
+   "stem": "Dopamine is a precursor of which catecholamine?",
+   "options": [
+    "Serotonin",
+    "Noradrenaline",
+    "Histamine",
+    "Acetylcholine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#25987a",
+   "kind": "mcq",
+   "stem": "At low dopamine doses (under 3 mcg/kg/min), which receptors are stimulated?",
+   "options": [
+    "Beta-1 receptors in the heart",
+    "Dopamine receptors in renal and splanchnic beds",
+    "Alpha-1 receptors in systemic circulation",
+    "Beta-2 receptors in skeletal muscle"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#1419a8",
+   "kind": "mcq",
+   "stem": "What effects does moderate-dose dopamine (3-10 mcg/kg/min) produce?",
+   "options": [
+    "Pure alpha vasoconstriction",
+    "Dopamine receptor effects in renal beds",
+    "Beta effects in heart and peripheral circulation",
+    "No haemodynamic effect"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#f54ddd",
+   "kind": "mcq",
+   "stem": "What effects does high-dose dopamine (over 10 mcg/kg/min) produce?",
+   "options": [
+    "Only dopamine receptor effects",
+    "Purely beta-2 vasodilation",
+    "Dose-dependent alpha effects in systemic and pulmonary circulation",
+    "No alpha effects at any dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#63a6df",
+   "kind": "mcq",
+   "stem": "In which setting is dopamine used for renal protection?",
+   "options": [
+    "Liver transplants",
+    "Kidney transplants",
+    "Hip replacement",
+    "Appendicectomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#8c44b6",
+   "kind": "mcq",
+   "stem": "Adrenaline is released under stress by which gland?",
+   "options": [
+    "Adrenal cortex",
+    "Pituitary gland",
+    "Adrenal medulla",
+    "Thyroid gland"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#b86a78",
+   "kind": "statement",
+   "stem": "Which receptor types does adrenaline act on?",
+   "answer": "Alpha, beta1 and beta2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#0f71ed",
+   "kind": "mcq",
+   "stem": "Which fat-metabolism effect does adrenaline cause?",
+   "options": [
+    "Lipogenesis",
+    "Fat storage",
+    "Lipolysis",
+    "Ketogenesis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#559879",
+   "kind": "statement",
+   "stem": "Adrenaline is the drug of choice in which type of shock?",
+   "answer": "Anaphylactic shock",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#322500",
+   "kind": "statement",
+   "stem": "How does adrenaline compare with other catecholamines in septic shock?",
+   "answer": "As effective, but used less because of side effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#a1a8fa",
+   "kind": "mcq",
+   "stem": "What is the adrenaline infusion range, in mcg/kg/min?",
+   "options": [
+    "0.2-2mcg/kg/min",
+    "0.02-0.2mcg/kg/min",
+    "5-20mcg/kg/min",
+    "2-20mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#a1a8fa",
+   "kind": "mcq",
+   "stem": "Adrenaline infusion is usually how many mcg/min?",
+   "options": [
+    "10–20 mcg/min",
+    "0.1–0.2 mcg/min",
+    "5–8 mcg/min",
+    "1–2 mcg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#8b4268",
+   "kind": "statement",
+   "stem": "What extra risk does adrenaline carry compared with other catecholamines?",
+   "answer": "Unwanted cardiac stimulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#88b844",
+   "kind": "mcq",
+   "stem": "What does adrenaline do to serum lactate?",
+   "options": [
+    "Lowers serum lactate",
+    "Raises serum lactate",
+    "No effect on serum lactate",
+    "Lowers serum glucose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#b74271",
+   "kind": "mcq",
+   "stem": "What receptor profile does phenylephrine have?",
+   "options": [
+    "Pure beta-1 agonist",
+    "Mixed alpha and beta agonist",
+    "Pure alpha agonist",
+    "Pure dopamine agonist"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#9d2acd",
+   "kind": "mcq",
+   "stem": "Which vasopressor is not recommended in septic shock?",
+   "options": [
+    "Noradrenaline",
+    "Phenylephrine",
+    "Vasopressin",
+    "Dopamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#845784",
+   "kind": "mcq",
+   "stem": "Milrinone is an inhibitor of which enzyme?",
+   "options": [
+    "Phosphodiesterase IV",
+    "Phosphodiesterase III",
+    "Monoamine oxidase",
+    "Angiotensin-converting enzyme"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressors-in-critical-care#50c2c7",
+   "kind": "blank",
+   "stem": "The milrinone infusion range is ____.",
+   "answer": "0.375-0.75mcg/kg/min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

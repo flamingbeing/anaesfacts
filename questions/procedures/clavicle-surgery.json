@@ -1,0 +1,93 @@
+{
+ "topic": "procedures/clavicle-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/clavicle-surgery#730f05",
+   "kind": "mcq",
+   "stem": "What anaesthesia is usually needed for clavicle surgery?",
+   "options": [
+    "Local anaesthesia alone",
+    "General anaesthesia",
+    "Spinal anaesthesia",
+    "Sedation only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/clavicle-surgery#90851c",
+   "kind": "statement",
+   "stem": "Why can regional anaesthesia be added to general anaesthesia for clavicle surgery?",
+   "answer": "Postoperative analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/clavicle-surgery#34c4a1",
+   "kind": "mcq",
+   "stem": "Which nerve supplies the skin over the clavicle?",
+   "options": [
+    "Axillary nerve",
+    "Long thoracic nerve",
+    "Supraclavicular nerve, from the superficial cervical plexus",
+    "Phrenic nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/clavicle-surgery#95e242",
+   "kind": "statement",
+   "stem": "For clavicle surgery, how is the innervation of the bone itself regarded?",
+   "answer": "Disputed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/clavicle-surgery#2e9045",
+   "kind": "mcq",
+   "stem": "Which newer block is an option for analgesia in clavicle surgery?",
+   "options": [
+    "Clavipectoral fascial plane block",
+    "Serratus anterior plane block",
+    "Adductor canal block",
+    "Popliteal sciatic block"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/clavicle-surgery#8fdfa9",
+   "kind": "statement",
+   "stem": "In a clavipectoral fascial plane block for clavicle surgery, how is the ultrasound probe placed?",
+   "answer": "Transverse to the clavicle, proximal and distal to the fracture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/clavicle-surgery#ded36f",
+   "kind": "statement",
+   "stem": "In a clavipectoral fascial plane block for clavicle surgery, where is local anaesthetic injected?",
+   "answer": "Between the periosteum and the clavipectoral fascia, proximal and distal to the fracture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/clavicle-surgery#add990",
+   "kind": "mcq",
+   "stem": "How risky is the clavipectoral fascial plane block for clavicle surgery?",
+   "options": [
+    "High risk",
+    "Moderate risk",
+    "Low risk",
+    "Contraindicated"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

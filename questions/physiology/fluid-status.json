@@ -1,0 +1,251 @@
+{
+ "topic": "physiology/fluid-status",
+ "questions": [
+  {
+   "fact_id": "physiology/fluid-status#005913",
+   "kind": "statement",
+   "stem": "In assessing fluid status, which three history features should you ask about?",
+   "answer": "Shortness of breath, orthopnoea, paroxysmal nocturnal dyspnoea (PND)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#5e21e7",
+   "kind": "statement",
+   "stem": "In assessing fluid status, which three examination findings should you look for?",
+   "answer": "Ability to lie flat, crepitations, pedal oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#ac4f03",
+   "kind": "statement",
+   "stem": "Which three investigations help assess fluid status?",
+   "answer": "CXR, POCUS, NT-proBNP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#e7ab2e",
+   "kind": "mcq",
+   "stem": "In fluid status, what does euvolaemia mean?",
+   "options": [
+    "Raised fluid volume causing venous congestion",
+    "Normal body fluid volume giving optimal cardiac filling",
+    "Low fluid volume with reduced preload",
+    "Normal plasma sodium with reduced urine output"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#08cc4a",
+   "kind": "blank",
+   "stem": "In fluid status, volaemia is a ____ measure of volume status, unlike fluid responsiveness.",
+   "answer": "static",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#79c120",
+   "kind": "mcq",
+   "stem": "In fluid overload, a raised JVP should be assessed further with which tests?",
+   "options": [
+    "Serum troponin and ECG",
+    "CVP, PCWP and IVC POCUS",
+    "Urine osmolality and sodium",
+    "Arterial blood gas and lactate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#3f6f19",
+   "kind": "mcq",
+   "stem": "In fluid overload, which tests assess bibasal crepitations further?",
+   "options": [
+    "Urine dipstick and osmolality",
+    "Abdominal ultrasound and LFTs",
+    "Lung POCUS and chest X-ray",
+    "Nerve conduction studies"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#436c2e",
+   "kind": "mcq",
+   "stem": "Which finding is a clinical sign of fluid overload?",
+   "options": [
+    "Dry tongue and mucous membranes",
+    "Postural hypotension with cool peripheries",
+    "Pedal, sacral or other peripheral oedema",
+    "Sunken eyes or fontanelle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#ef0055",
+   "kind": "mcq",
+   "stem": "Which blood pressure finding is a sign of fluid overload?",
+   "options": [
+    "Postural hypotension",
+    "Hypotension with tachycardia",
+    "Hypertension",
+    "Hypotension on standing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#eb6bde",
+   "kind": "mcq",
+   "stem": "Which chest imaging test helps assess fluid overload?",
+   "options": [
+    "Abdominal CT",
+    "Renal tract ultrasound",
+    "CXR",
+    "Lumbar spine MRI"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#876079",
+   "kind": "mcq",
+   "stem": "In fluid overload, which bedside test assesses fluid responsiveness?",
+   "options": [
+    "Daily weights",
+    "POCUS",
+    "Serum sodium trend",
+    "Urine osmolality"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#4219f4",
+   "kind": "mcq",
+   "stem": "Which laboratory trend helps track fluid status in fluid overload?",
+   "options": [
+    "Potassium and bicarbonate trend",
+    "Calcium and albumin trend",
+    "Glucose and lactate trend",
+    "Sodium and haematocrit trend"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#115f86",
+   "kind": "mcq",
+   "stem": "Which blood test is used when assessing fluid overload?",
+   "options": [
+    "Serum troponin",
+    "Serum D-dimer",
+    "NT-proBNP",
+    "Serum lactate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#cfa38d",
+   "kind": "mcq",
+   "stem": "Which sign suggests dehydration in a child?",
+   "options": [
+    "Frequent wet nappies",
+    "Crying without tears",
+    "Excessive tearing when crying",
+    "Bulging anterior fontanelle"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#2135c1",
+   "kind": "mcq",
+   "stem": "In dehydration, which finding reflects reduced skin turgor?",
+   "options": [
+    "Pitting ankle oedema",
+    "Skin tenting",
+    "Cool peripheries",
+    "Dry skin scaling"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#2135c1",
+   "kind": "statement",
+   "stem": "In dehydration, which signs relate to the mouth and eyes?",
+   "answer": "Dry tongue and mucous membranes; sunken eyes or fontanelle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#d33f4c",
+   "kind": "mcq",
+   "stem": "In dehydration, which finding indicates poor perfusion?",
+   "options": [
+    "Warm peripheries with bounding pulse",
+    "Prolonged capillary refill time",
+    "Raised jugular venous pressure",
+    "Brisk capillary refill"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#f66bbf",
+   "kind": "statement",
+   "stem": "In dehydration, which two urine findings are used?",
+   "answer": "Poor urine output (input/output charting) and urine osmolality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#68358b",
+   "kind": "blank",
+   "stem": "Lactic acidosis is an ____ sign of hypovolaemia.",
+   "answer": "indirect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#8b5fde",
+   "kind": "mcq",
+   "stem": "In dehydration, which blood ratio is used as a marker?",
+   "options": [
+    "Sodium:potassium ratio",
+    "AST:ALT ratio",
+    "Albumin:globulin ratio",
+    "Urea:creatinine ratio"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/fluid-status#1c8a34",
+   "kind": "blank",
+   "stem": "In dehydration, it is severe if there is ____.",
+   "answer": "decompensation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

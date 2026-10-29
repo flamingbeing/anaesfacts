@@ -1,0 +1,249 @@
+{
+ "topic": "equipment/circle-system",
+ "questions": [
+  {
+   "fact_id": "equipment/circle-system#98a6e2",
+   "kind": "statement",
+   "stem": "In a circle system, how low can the fresh gas flow be set?",
+   "answer": "As low as the uptake of oxygen and anaesthetic by the patient and circuit.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#9a454d",
+   "kind": "statement",
+   "stem": "Name an environmental advantage of the circle system.",
+   "answer": "Less atmospheric pollution.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#6d5f1d",
+   "kind": "statement",
+   "stem": "What does the circle system conserve better in the breathing circuit?",
+   "answer": "Heat and humidity.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#528df0",
+   "kind": "mcq",
+   "stem": "Which is a disadvantage of the circle system?",
+   "options": [
+    "Less complex than other systems",
+    "Easier to keep portable",
+    "More risk of disconnection or malfunction",
+    "Lower risk of disconnection"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#c93b20",
+   "kind": "statement",
+   "stem": "Why does the circle system have higher breathing circuit resistance?",
+   "answer": "Because of the absorber and unidirectional valves.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#86cbe2",
+   "kind": "blank",
+   "stem": "Organisms retained in a circle system carry a risk of ____ infection.",
+   "answer": "respiratory",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#307cf4",
+   "kind": "mcq",
+   "stem": "In a circle system with unidirectional valves, where is the dead space?",
+   "options": [
+    "Proximal to the Y-connector only",
+    "Distal to the Y-connector only",
+    "Throughout the whole breathing circuit",
+    "Inside the absorber canister only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#06a390",
+   "kind": "mcq",
+   "stem": "In the optimal circle configuration described by Brown, where should the unidirectional valves sit?",
+   "options": [
+    "Beside the absorber canister",
+    "Near the patient",
+    "Next to the APL valve",
+    "At the machine's gas outlet"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#618242",
+   "kind": "mcq",
+   "stem": "In Brown's optimal circle configuration, where is the reservoir bag placed?",
+   "options": [
+    "In the expiratory limb, upstream of the absorber",
+    "In the inspiratory limb, downstream of the absorber",
+    "In the expiratory limb, downstream of the absorber",
+    "Inside the absorber canister"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#df63d9",
+   "kind": "mcq",
+   "stem": "In Brown's optimal circle configuration, where is the APL valve placed?",
+   "options": [
+    "At the patient end of the inspiratory limb",
+    "At the absorber outlet, downstream",
+    "Beside the fresh gas inlet, after the absorber",
+    "At the reservoir bag, upstream of the absorber"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#435f9b",
+   "kind": "mcq",
+   "stem": "In Brown's optimal circle configuration, where should the absorber sit?",
+   "options": [
+    "Before the APL valve, after the fresh gas inlet",
+    "Between the inspiratory valve and the patient",
+    "After the APL valve, before the fresh gas inlet",
+    "Inside the reservoir bag"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#e863ec",
+   "kind": "mcq",
+   "stem": "In Brown's optimal circle configuration, where is the fresh gas inlet located?",
+   "options": [
+    "Between the expiratory valve and the reservoir bag",
+    "Between the absorber and the inspiratory valve",
+    "Between the patient and the Y-piece",
+    "Between the APL valve and the reservoir bag"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#7d5189",
+   "kind": "mcq",
+   "stem": "Where does the common gas outlet usually join the circle system in most machines?",
+   "options": [
+    "Just before the inspiratory valve",
+    "Just past the exhalation valve",
+    "At the Y-piece to the patient",
+    "Inside the absorber canister"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#22d7dd",
+   "kind": "mcq",
+   "stem": "In a closed circle system, what is the approximate oxygen uptake of the patient and circuit?",
+   "options": [
+    "0.35 mL/kg/min",
+    "3.5 mL/kg/min",
+    "35 mL/kg/min",
+    "0.35 L/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#22d7dd",
+   "kind": "statement",
+   "stem": "In a closed circle system, how does fresh gas flow compare with metabolic uptake?",
+   "answer": "It equals metabolic uptake exactly.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#e39e7a",
+   "kind": "mcq",
+   "stem": "In a circle system, what is the minimal fresh gas flow setting?",
+   "options": [
+    "2 L/min",
+    "0.05 L/min",
+    "0.5 L/min",
+    "5 L/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#404fb0",
+   "kind": "mcq",
+   "stem": "In a circle system, what is a typical fresh gas flow for low flow anaesthesia?",
+   "options": [
+    "Above 10 L/min",
+    "Above 5 L/min",
+    "Below 1.5 L/min",
+    "Between 3 and 5 L/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#eec6b7",
+   "kind": "mcq",
+   "stem": "What fresh gas flow should a circle system start at for denitrogenation?",
+   "options": [
+    "0.5–1 L/min",
+    "3–5 L/min",
+    "10–15 L/min",
+    "1.5–2 L/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#60b234",
+   "kind": "mcq",
+   "stem": "For how long should high fresh gas flow run in a circle system before switching to a closed circuit?",
+   "options": [
+    "6 mins",
+    "30 mins",
+    "15 mins",
+    "2 mins"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/circle-system#60b234",
+   "kind": "mcq",
+   "stem": "For how long should high fresh gas flow run in a circle system before switching to low flow?",
+   "options": [
+    "15 mins",
+    "2 mins",
+    "30 mins",
+    "6 mins"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

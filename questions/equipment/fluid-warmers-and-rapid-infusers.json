@@ -1,0 +1,341 @@
+{
+ "topic": "equipment/fluid-warmers-and-rapid-infusers",
+ "questions": [
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#968ffa",
+   "kind": "statement",
+   "stem": "For fluid warmers, what is an example of an indication for fluid warming?",
+   "answer": "Packed red cell transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#439b1b",
+   "kind": "mcq",
+   "stem": "How much does 1 L of fluid at 21°C lower core temperature?",
+   "options": [
+    "1°C",
+    "0.25°C",
+    "0.5°C",
+    "2°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#9f8480",
+   "kind": "mcq",
+   "stem": "Why does fluid cool a lot at low infusion flow (below 500 mL/h) through a warmer?",
+   "options": [
+    "Long transit time in the tubing",
+    "Short contact time with the warmer",
+    "Excess pressure in the line",
+    "Turbulent high flow"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#45814a",
+   "kind": "mcq",
+   "stem": "Why is heat exchange limited at high flow rates above 9 L/h?",
+   "options": [
+    "Long transit time in tubing",
+    "Short contact time and limited surface",
+    "Excess pressure in the line",
+    "Warm-up of the heater"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#bc546d",
+   "kind": "mcq",
+   "stem": "Which device is used for prewarming fluid before it is given?",
+   "options": [
+    "Dry-heat sleeve",
+    "Warming cabinets",
+    "Counter-current coaxial warmer",
+    "Rapid infuser"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#8dc30d",
+   "kind": "mcq",
+   "stem": "Which fluid warmer uses dry warming?",
+   "options": [
+    "Hotline",
+    "Barkey S-line",
+    "Belmont Rapid Infuser",
+    "Level 1 rapid infuser"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#4fa15d",
+   "kind": "mcq",
+   "stem": "How long is the low-flow dry-heat sleeve that fits around standard IV tubing?",
+   "options": [
+    "0.5 m",
+    "3 m",
+    "1.5 m",
+    "5 m"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#b4695b",
+   "kind": "mcq",
+   "stem": "What is the flow limit of dry-heat sleeve warming?",
+   "options": [
+    "Below 1,500 mL/hr",
+    "Below 500 mL/h",
+    "Below 5,000 mL/hour",
+    "Above 9 L/h"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#384c13",
+   "kind": "mcq",
+   "stem": "Which fluid warmer uses counter-current coaxial water warming?",
+   "options": [
+    "Barkey S-line",
+    "Belmont Rapid Infuser",
+    "Hotline",
+    "Dry-heat sleeve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#b457e5",
+   "kind": "mcq",
+   "stem": "For Hotline coaxial warming, up to what flow stays normothermic?",
+   "options": [
+    "5,000 mL/hour",
+    "1,500 mL/hr",
+    "9 L/h",
+    "60,000 mL/hour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#af8f6b",
+   "kind": "mcq",
+   "stem": "Above what flow is Hotline coaxial warming less effective?",
+   "options": [
+    "500 mL/h",
+    "1,500 mL/h",
+    "5 L/h",
+    "9 L/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#af8f6b",
+   "kind": "mcq",
+   "stem": "Above what pressure should a Hotline-type warmer not be used with pressure devices?",
+   "options": [
+    "200 mmHg",
+    "300 mmHg",
+    "400 mmHg",
+    "100 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#af8f6b",
+   "kind": "statement",
+   "stem": "What contamination risks come with counter-current coaxial water warming?",
+   "answer": "Cross-contamination and fluid breach",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#c1e3e1",
+   "kind": "mcq",
+   "stem": "What drives the water exchange in a Level 1 rapid infuser?",
+   "options": [
+    "Gravity",
+    "Pneumatic pressure",
+    "Induction heating",
+    "Roller pump"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#c1e3e1",
+   "kind": "mcq",
+   "stem": "What material is the large-bore heat exchanger in the Level 1 rapid infuser?",
+   "options": [
+    "Copper",
+    "Stainless steel",
+    "Aluminium",
+    "Polypropylene"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#4830a3",
+   "kind": "mcq",
+   "stem": "At what flow does the Level 1 rapid infuser give its best heat transfer?",
+   "options": [
+    "Below 500 mL/h",
+    "Above 9 L/h",
+    "Above 5 L/h",
+    "Below 1,500 mL/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#cef48c",
+   "kind": "mcq",
+   "stem": "What is the fluid reservoir size of the Belmont Rapid Infuser?",
+   "options": [
+    "1.5-liter",
+    "3.0-liter",
+    "5.0-liter",
+    "0.5-liter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#cef48c",
+   "kind": "mcq",
+   "stem": "What pumping mechanism is integrated into the Belmont Rapid Infuser?",
+   "options": [
+    "Gravity drip chamber",
+    "Roller pump",
+    "Syringe driver",
+    "Electromagnetic pump"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#2330f2",
+   "kind": "mcq",
+   "stem": "What is the maximum flow of the Belmont Rapid Infuser?",
+   "options": [
+    "1,000 mL/min (60,000 mL/hour)",
+    "500 mL/min (30,000 mL/hour)",
+    "250 mL/min (15,000 mL/hour)",
+    "2,000 mL/min (120,000 mL/hour)"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#2330f2",
+   "kind": "statement",
+   "stem": "Which technology does the Belmont Rapid Infuser use to detect air in the line?",
+   "answer": "Ultrasonic air detection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#2330f2",
+   "kind": "blank",
+   "stem": "Automatic pressure control on the Belmont Rapid Infuser is there to protect the ____.",
+   "answer": "veins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#c3b7ff",
+   "kind": "mcq",
+   "stem": "Which complication is linked with the Hotline fluid warmer?",
+   "options": [
+    "Air embolism",
+    "Fluid contamination",
+    "Vein rupture",
+    "Shear-force haemolysis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#a6731d",
+   "kind": "mcq",
+   "stem": "Which fluid warming or infusion device is linked with air embolism?",
+   "options": [
+    "Hotline",
+    "Level 1",
+    "Barkey S-line",
+    "Dry-heat sleeve"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#5efc61",
+   "kind": "mcq",
+   "stem": "What is the maximum temperature for a blood warmer?",
+   "options": [
+    "37 °C",
+    "40 °C",
+    "50 °C",
+    "43 °C"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#5efc61",
+   "kind": "statement",
+   "stem": "Which warming methods are not advised for blood products because of haemolysis?",
+   "answer": "Water baths and microwaves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#37e711",
+   "kind": "statement",
+   "stem": "Rapid infusion can cause which mechanical type of red cell damage?",
+   "answer": "Shear-force haemolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "equipment/fluid-warmers-and-rapid-infusers#81b5f1",
+   "kind": "statement",
+   "stem": "Name a complication of rapid infusion that damages the patient's vein.",
+   "answer": "Vein rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
