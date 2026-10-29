@@ -1,16 +1,17 @@
 # Status
 
 ## Now
-- Repo set up 29 Oct 2026: format, checks, index. No topics yet.
+- 590 topics imported from the owner's notes (all areas), each with aliases, related, sources and flashcards; CONTENTS and Related footers generated.
 
 ## Waiting on the owner
-- Look at the first import batch and confirm the format before the full import.
+- Review the flagged facts and cross-topic conflicts (listed in the owner's private notes); topics keep the facts as written until then.
 
 ## Next (in order)
-1. Import the owner's own-words lines from the owner's notes, area by area, starting with drugs and regional.
+1. Apply the owner's decisions on the flagged facts.
 2. Point the first app at `index.json` (the one that repeats the most of this content).
 
 ## Recently done
+- 29 Oct 2026: full import done in 12 batches (590 topics); add-ons back-filled on the 51 earliest topics; cross-topic conflict check run.
 - 29 Oct 2026: repo created from the public template (as `anaesthesia-knowledge`, renamed `anaesfacts` the same day); app-hosting parts removed.
 
 ## Decisions (dated, one line each)
