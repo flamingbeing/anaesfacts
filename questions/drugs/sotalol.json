@@ -1,0 +1,213 @@
+{
+ "topic": "drugs/sotalol",
+ "questions": [
+  {
+   "fact_id": "drugs/sotalol#787dfc",
+   "kind": "mcq",
+   "stem": "Sotalol oral solution is supplied at what strength?",
+   "options": [
+    "80 mg in 4 ml",
+    "40 mg in 10 ml",
+    "20 mg in 4 ml",
+    "40 mg in 4 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#b40b72",
+   "kind": "statement",
+   "stem": "Sotalol is a racemic mixture: which isomer gives class II beta-blocking action?",
+   "answer": "L-isomer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#9688bf",
+   "kind": "mcq",
+   "stem": "What is the oral dose range of sotalol?",
+   "options": [
+    "40–80 mg once daily",
+    "200–400 mg once daily",
+    "80–160 mg twice daily",
+    "10–20 mg twice daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#d34ec5",
+   "kind": "mcq",
+   "stem": "What is the IV dose of sotalol and how is it given?",
+   "options": [
+    "5–10 mg over 2 minutes",
+    "50–100 mg over 20 minutes",
+    "250–500 mg over 1 hour",
+    "50–100 mg over 2 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#6a8d15",
+   "kind": "statement",
+   "stem": "What is the main action of sotalol on cardiac conducting tissue?",
+   "answer": "Lengthens the action potential, prolonging the effective refractory period",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#395b65",
+   "kind": "mcq",
+   "stem": "How is the beta-blockade of sotalol described?",
+   "options": [
+    "Cardioselective",
+    "Non-selective",
+    "Partial agonist only",
+    "Alpha-selective"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#f82f14",
+   "kind": "mcq",
+   "stem": "Which is the most serious adverse effect of sotalol?",
+   "options": [
+    "Bronchospasm",
+    "Visual disturbance",
+    "Torsades de pointes",
+    "Sexual dysfunction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#f82f14",
+   "kind": "mcq",
+   "stem": "Roughly what proportion of patients treated with sotalol for sustained VT or VF develop torsades de pointes?",
+   "options": [
+    "About 20%",
+    "About 5%",
+    "Over 10%",
+    "Under 2%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#f1f5ec",
+   "kind": "statement",
+   "stem": "Name the four rare non-cardiac adverse effects of sotalol.",
+   "answer": "Bronchospasm, masked hypoglycaemia symptoms, visual disturbance, sexual dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#58c204",
+   "kind": "mcq",
+   "stem": "Per Committee on Safety of Medicines advice, which condition should sotalol not be used for?",
+   "options": [
+    "Ventricular tachyarrhythmias",
+    "Paroxysmal SVT",
+    "Thyrotoxicosis",
+    "Atrial fibrillation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#01f256",
+   "kind": "mcq",
+   "stem": "Which arrhythmia group is sotalol indicated for?",
+   "options": [
+    "Sinus bradycardia",
+    "Ventricular tachyarrhythmias",
+    "Complete heart block",
+    "Pulseless electrical activity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#be8770",
+   "kind": "mcq",
+   "stem": "Sotalol prophylaxis is used for which arrhythmia, including after DC cardioversion?",
+   "options": [
+    "Sinus bradycardia",
+    "Heart block",
+    "Acute angina",
+    "Paroxysmal SVT"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#128a3b",
+   "kind": "statement",
+   "stem": "After DC cardioversion of atrial fibrillation, how does sotalol compare with other beta-blockers?",
+   "answer": "Better at keeping sinus rhythm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#88374d",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of sotalol?",
+   "options": [
+    "About 50%",
+    "About 25%",
+    "Over 90%",
+    "Under 10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#10ef14",
+   "kind": "mcq",
+   "stem": "Which description fits sotalol's protein binding and metabolism?",
+   "options": [
+    "Highly protein bound, extensively metabolised",
+    "Not protein bound; not metabolised",
+    "Protein bound, metabolised by CYP3A4",
+    "Not protein bound, metabolised by the liver"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#cbad4a",
+   "kind": "mcq",
+   "stem": "What percentage of sotalol is excreted unchanged in urine?",
+   "options": [
+    "About 10%",
+    "About 50%",
+    "About 90%",
+    "About 30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sotalol#f37271",
+   "kind": "statement",
+   "stem": "What happens to sotalol clearance in renal impairment?",
+   "answer": "Falls markedly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

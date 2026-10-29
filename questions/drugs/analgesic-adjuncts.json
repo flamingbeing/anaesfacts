@@ -1,0 +1,191 @@
+{
+ "topic": "drugs/analgesic-adjuncts",
+ "questions": [
+  {
+   "fact_id": "drugs/analgesic-adjuncts#fdde6e",
+   "kind": "mcq",
+   "stem": "Which antispasmodic and muscle relaxant is also known as Anarex?",
+   "options": [
+    "Baclofen",
+    "Orphenadrine",
+    "Eperisone",
+    "Diazepam"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#4f3d83",
+   "kind": "mcq",
+   "stem": "What brand name is given for the muscle relaxant eperisone?",
+   "options": [
+    "Circadin",
+    "Myonal",
+    "Anarex",
+    "Salonpas"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#3eb2bd",
+   "kind": "mcq",
+   "stem": "Which benzodiazepine is used as a muscle relaxant among analgesic adjuncts?",
+   "options": [
+    "Midazolam",
+    "Diazepam",
+    "Lorazepam",
+    "Temazepam"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#6e49f2",
+   "kind": "mcq",
+   "stem": "Which membrane stabiliser is an analgesic adjunct in the NMDA mnemonic?",
+   "options": [
+    "Ketamine",
+    "Lidocaine",
+    "Morphine",
+    "Paracetamol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#5bf98c",
+   "kind": "mcq",
+   "stem": "What brand name is given for the menthol patch among topical analgesic adjuncts?",
+   "options": [
+    "Salonpas",
+    "Anarex",
+    "Circadin",
+    "Myonal"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#1d6dae",
+   "kind": "mcq",
+   "stem": "What brand name is given for melatonin among sleep aids in analgesic adjuncts?",
+   "options": [
+    "Anarex",
+    "Myonal",
+    "Circadin",
+    "Buscopan"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#202dba",
+   "kind": "mcq",
+   "stem": "Which first-generation H1 antihistamine is used as a sleep aid among analgesic adjuncts?",
+   "options": [
+    "Cetirizine",
+    "Hydroxyzine",
+    "Loratadine",
+    "Fexofenadine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#ffd453",
+   "kind": "mcq",
+   "stem": "Which drug class is used as a sleep aid among analgesic adjuncts?",
+   "options": [
+    "Loop diuretics",
+    "Benzodiazepines",
+    "Beta-blockers",
+    "Proton pump inhibitors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#6a58fc",
+   "kind": "statement",
+   "stem": "Which tricyclic antidepressant causes sedation as a side effect among analgesic adjuncts?",
+   "answer": "Amitriptyline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#184274",
+   "kind": "mcq",
+   "stem": "Which drug eases painful oesophageal spasm and tenesmus from GI tumours?",
+   "options": [
+    "Ondansetron",
+    "Nifedipine",
+    "Lactulose",
+    "Omeprazole"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#a192af",
+   "kind": "blank",
+   "stem": "The analgesic adjunct ____ treats malignant bone pain and its hypercalcaemia.",
+   "answer": "Clodronate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#a192af",
+   "kind": "statement",
+   "stem": "How does clodronate work in malignant bone pain?",
+   "answer": "Blocks osteoclast bone resorption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#333db7",
+   "kind": "mcq",
+   "stem": "Which antispasmodic shortens pain episodes in irritable bowel syndrome?",
+   "options": [
+    "Loperamide",
+    "Pinaverium",
+    "Metoclopramide",
+    "Lactulose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#9aa407",
+   "kind": "mcq",
+   "stem": "Which drug class is used for pain from central nervous system tumours?",
+   "options": [
+    "Loop diuretics",
+    "Corticosteroids",
+    "Beta-blockers",
+    "Anticholinesterases"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/analgesic-adjuncts#dae333",
+   "kind": "statement",
+   "stem": "Which anticholinergic is used for painful bladder spasms among analgesic adjuncts?",
+   "answer": "Oxybutynin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

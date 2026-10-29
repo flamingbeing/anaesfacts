@@ -1,0 +1,71 @@
+{
+ "topic": "drugs/amethocaine",
+ "questions": [
+  {
+   "fact_id": "drugs/amethocaine#801cc4",
+   "kind": "mcq",
+   "stem": "What strengths do amethocaine eye drops come in?",
+   "options": [
+    "0.25% and 0.5%",
+    "0.5% and 1%",
+    "1% and 4%",
+    "2% and 4%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amethocaine#33ea4c",
+   "kind": "mcq",
+   "stem": "What strength is amethocaine skin cream, sold as Ametop?",
+   "options": [
+    "0.5%",
+    "1%",
+    "10%",
+    "4%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amethocaine#1fdebf",
+   "kind": "statement",
+   "stem": "Amethocaine skin cream is used much like which other cream?",
+   "answer": "EMLA cream",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amethocaine#cb728f",
+   "kind": "statement",
+   "stem": "What are amethocaine eye drops used for before a local anaesthetic eye block?",
+   "answer": "Topical anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amethocaine#cb728f",
+   "kind": "statement",
+   "stem": "Amethocaine eye drops can be the sole agent for which surgery?",
+   "answer": "Lens surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/amethocaine#54de40",
+   "kind": "mcq",
+   "stem": "Which side effect is described for amethocaine eye drops?",
+   "options": [
+    "Corneal clouding",
+    "Burning on first instillation",
+    "Itching after several doses",
+    "Eyelid swelling"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "topic": "drugs/pethidine",
+ "questions": [
+  {
+   "fact_id": "drugs/pethidine#d8fc62",
+   "kind": "blank",
+   "stem": "Pethidine injection is commonly supplied as ____ in 1 ml.",
+   "answer": "50mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#df1840",
+   "kind": "statement",
+   "stem": "Pethidine injection can be diluted to what volume and concentration?",
+   "answer": "5ml (10mg/ml)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#0c6bf5",
+   "kind": "mcq",
+   "stem": "Which routes can pethidine be given by?",
+   "options": [
+    "IV only",
+    "IM only",
+    "IV, IM or oral",
+    "Intrathecal or subcutaneous only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#6edf00",
+   "kind": "mcq",
+   "stem": "What is the usual IV or IM pethidine dose?",
+   "options": [
+    "2–3 mg/kg, repeated 6 hourly",
+    "0.5–1.0 mg/kg, repeated 2–3 hourly",
+    "0.1–0.2 mg/kg, repeated 2–3 hourly",
+    "10–20 mg/kg, repeated 4 hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#148cbc",
+   "kind": "mcq",
+   "stem": "How much pethidine is equivalent to 1 mg of morphine?",
+   "options": [
+    "1mg",
+    "5mg",
+    "10mg",
+    "20mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#303f82",
+   "kind": "mcq",
+   "stem": "What IV bolus of pethidine is used in recovery for postoperative pain?",
+   "options": [
+    "5mg",
+    "20mg",
+    "75mg",
+    "100mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#32d614",
+   "kind": "mcq",
+   "stem": "What is the onset time of pethidine?",
+   "options": [
+    "10min",
+    "30min",
+    "60min",
+    "2min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#32d614",
+   "kind": "blank",
+   "stem": "Pethidine reaches its peak effect at ____ after the dose.",
+   "answer": "5-7min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#32d614",
+   "kind": "mcq",
+   "stem": "How long does a single pethidine dose last?",
+   "options": [
+    "15–20min",
+    "30–45min",
+    "2-3hr",
+    "6-8hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#c3999d",
+   "kind": "statement",
+   "stem": "Pethidine was first designed as which type of drug, before its analgesic effect was found?",
+   "answer": "An anticholinergic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#9c40dc",
+   "kind": "statement",
+   "stem": "How does pethidine mainly reduce postoperative shivering, and which receptor is probably involved?",
+   "answer": "Lowers the shivering threshold; probably kappa receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#d0554a",
+   "kind": "mcq",
+   "stem": "Which opioid is uniquely effective at stopping or reducing postoperative shivering?",
+   "options": [
+    "Morphine",
+    "Fentanyl",
+    "Pethidine",
+    "Alfentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#392b5e",
+   "kind": "statement",
+   "stem": "Pethidine can cause release of which substance from cells?",
+   "answer": "Histamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#d2dd9a",
+   "kind": "statement",
+   "stem": "In renal failure, which pethidine metabolite accumulates and causes seizures?",
+   "answer": "Norpethidine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#d2dd9a",
+   "kind": "mcq",
+   "stem": "Are seizures from norpethidine build-up in renal failure reversed by naloxone?",
+   "options": [
+    "Yes, promptly corrected by flumazenil",
+    "Yes, corrected by a higher naloxone dose",
+    "Not reversed by naloxone",
+    "Yes, reversed by a naloxone infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#5d8480",
+   "kind": "mcq",
+   "stem": "Which patients must not be given pethidine because of a drug interaction?",
+   "options": [
+    "Patients on warfarin",
+    "Patients on type A MAO inhibitors",
+    "Patients on digoxin",
+    "Patients with asthma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#252172",
+   "kind": "mcq",
+   "stem": "Apart from pain, which postoperative problem is pethidine indicated for?",
+   "options": [
+    "Postoperative nausea",
+    "Postoperative shivering",
+    "Postoperative delirium",
+    "Postoperative urinary retention"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#0d0937",
+   "kind": "mcq",
+   "stem": "In obstetrics, pethidine is indicated for which purpose?",
+   "options": [
+    "Postpartum haemorrhage",
+    "Preterm labour suppression",
+    "Eclampsia seizures",
+    "Labour analgesia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#854f30",
+   "kind": "statement",
+   "stem": "Why does pethidine have a faster onset than morphine?",
+   "answer": "More lipid-soluble than morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#b3ef32",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of pethidine?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#f8a34b",
+   "kind": "statement",
+   "stem": "Where is pethidine mainly metabolised?",
+   "answer": "Liver",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#760e40",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of norpethidine?",
+   "options": [
+    "2–3 hours",
+    "4–6 hours",
+    "14–21 hours",
+    "30–40 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#f64a1a",
+   "kind": "statement",
+   "stem": "Which substances are excreted in urine after pethidine?",
+   "answer": "Norpethidine, pethidinic acid and a little unchanged pethidine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#9f67a0",
+   "kind": "mcq",
+   "stem": "In the fetus, when does norpethidine peak after a maternal IM pethidine dose?",
+   "options": [
+    "about 30 minutes",
+    "about 4 hours",
+    "about 12 hours",
+    "about 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pethidine#35077d",
+   "kind": "statement",
+   "stem": "Compared with morphine, how does pethidine's anticholinergic action affect the pupils?",
+   "answer": "Less miosis (possibly mydriasis)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,555 @@
+{
+ "topic": "drugs/red-cell-transfusion",
+ "questions": [
+  {
+   "fact_id": "drugs/red-cell-transfusion#c5057a",
+   "kind": "mcq",
+   "stem": "Once transfused, where do red cells stay in the body?",
+   "options": [
+    "Interstitial fluid",
+    "Intracellular fluid",
+    "Intravascular compartment",
+    "Third space"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#ba92e2",
+   "kind": "mcq",
+   "stem": "When replacing acute blood loss with red cells, what volume rule applies?",
+   "options": [
+    "Half the volume lost",
+    "Ml for ml",
+    "Twice the volume lost",
+    "Fixed two units"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#b70713",
+   "kind": "statement",
+   "stem": "What fluid should be used for volume expansion instead of red cells?",
+   "answer": "Crystalloid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#bcffd6",
+   "kind": "mcq",
+   "stem": "In a 70 kg adult, roughly how much does one unit of red cells raise Hb?",
+   "options": [
+    "About 0.1 g/dL",
+    "About 1 g/dL",
+    "About 4 g/dL",
+    "About 10 g/dL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#bcffd6",
+   "kind": "blank",
+   "stem": "In a 70 kg adult, one unit of red cells raises Hct by about ____.",
+   "answer": "3%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#fc9713",
+   "kind": "mcq",
+   "stem": "Why has practice moved to restrictive red cell transfusion thresholds?",
+   "options": [
+    "Raise haemoglobin above 10 g/dL",
+    "Prevent all bleeding",
+    "Reduce transfusion-related morbidity",
+    "Increase oxygen-carrying capacity"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#39713a",
+   "kind": "mcq",
+   "stem": "Under a restrictive strategy, at what haemoglobin should most patients be transfused?",
+   "options": [
+    "Above 10 g/dL",
+    "Between 8 and 10 g/dL",
+    "Below 7 g/dL",
+    "Above 12 g/dL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#ebc3bb",
+   "kind": "mcq",
+   "stem": "Under a restrictive strategy, when is red cell transfusion considered at Hb 8–10 g/dL?",
+   "options": [
+    "Routinely in all patients",
+    "Whenever Hb is below 10 g/dL",
+    "Only in active bleeding",
+    "Only after surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#eb8d0a",
+   "kind": "mcq",
+   "stem": "Under a restrictive strategy, what is the status of red cell transfusion at Hb above 10 g/dL?",
+   "options": [
+    "Always indicated",
+    "Mandatory before surgery",
+    "Not indicated",
+    "Recommended in ICU"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#2e05a8",
+   "kind": "mcq",
+   "stem": "In trauma or ongoing loss, what should guide activating the massive transfusion protocol?",
+   "options": [
+    "Haemoglobin level alone",
+    "Platelet count alone",
+    "Haemodynamics and severity",
+    "Urine output alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#301b39",
+   "kind": "blank",
+   "stem": "Oxygen delivery (DO2) equals cardiac output (CO) multiplied by ____.",
+   "answer": "CaO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#ba295e",
+   "kind": "mcq",
+   "stem": "As haemoglobin falls, how does cardiac output change to maintain oxygen delivery?",
+   "options": [
+    "It increases",
+    "It decreases",
+    "It stays the same",
+    "It falls in step with Hb"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#38c59c",
+   "kind": "statement",
+   "stem": "In anaemia, under what condition does decompensation occur?",
+   "answer": "Only when the rise in cardiac output is exhausted",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#14a440",
+   "kind": "mcq",
+   "stem": "Healthy patients usually tolerate haemoglobin down to what level before ischaemic ECG changes?",
+   "options": [
+    "7 g/dL",
+    "8 g/dL",
+    "5 g/dL",
+    "3 g/dL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#ba1ccc",
+   "kind": "blank",
+   "stem": "The red cell product PCT is given with or without leukocyte reduction or ____.",
+   "answer": "irradiation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#9aafa7",
+   "kind": "mcq",
+   "stem": "In red cell transfusion, for which situations is whole blood used?",
+   "options": [
+    "Routine elective surgery",
+    "Outpatient anaemia",
+    "Massive transfusion and trauma",
+    "Dialysis patients"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#cfb103",
+   "kind": "mcq",
+   "stem": "Frozen blood is used for which situations?",
+   "options": [
+    "Routine elective surgery",
+    "Outpatient anaemia",
+    "Dialysis patients",
+    "Rare blood groups and military use"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#841cc0",
+   "kind": "blank",
+   "stem": "Red cell units are stored at ____.",
+   "answer": "4ºC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#c68b5f",
+   "kind": "mcq",
+   "stem": "Red cell units should be transfused within how many days of collection?",
+   "options": [
+    "7 days",
+    "14 days",
+    "90 days",
+    "35 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#8cb60e",
+   "kind": "mcq",
+   "stem": "What is the maximum time allowed to complete one red cell unit?",
+   "options": [
+    "6 h",
+    "8 h",
+    "12 h",
+    "4 h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#813c87",
+   "kind": "mcq",
+   "stem": "Before transfusing a red cell unit from storage, what should be done?",
+   "options": [
+    "Chill it",
+    "Irradiate it",
+    "Warm it",
+    "Pool it with plasma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#323fb4",
+   "kind": "mcq",
+   "stem": "What is the typical pore size of a blood giving-set filter?",
+   "options": [
+    "0.2 um",
+    "200 um",
+    "0.22 um",
+    "5 um"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#f517be",
+   "kind": "mcq",
+   "stem": "What is the pore size of an epidural filter?",
+   "options": [
+    "200 um",
+    "0.22 um",
+    "0.2 um",
+    "5 um"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#779940",
+   "kind": "mcq",
+   "stem": "What is the pore size of an HME filter?",
+   "options": [
+    "5 um",
+    "0.2 um",
+    "0.22 um",
+    "200 um"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#7d5499",
+   "kind": "mcq",
+   "stem": "What pore size is used for IV drug filters, such as for phenytoin?",
+   "options": [
+    "0.2 um",
+    "5 um",
+    "200 um",
+    "0.22 um"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#227e2e",
+   "kind": "mcq",
+   "stem": "What pore size is a filter needle?",
+   "options": [
+    "5 um",
+    "0.22 um",
+    "200 um",
+    "0.2 um"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#30a55b",
+   "kind": "mcq",
+   "stem": "How long is a group and crossmatch (GXM) valid for?",
+   "options": [
+    "24 hrs",
+    "48 hrs",
+    "72 hrs",
+    "96 hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#825bac",
+   "kind": "mcq",
+   "stem": "How long is the wait for a fully matched red cell unit?",
+   "options": [
+    "60-90 min",
+    "30-45 min",
+    "2-3 hours",
+    "1-2 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#d80c92",
+   "kind": "mcq",
+   "stem": "How long is the wait for a rapid match unit (same ABO and Rh group as recipient)?",
+   "options": [
+    "60-90 min",
+    "15-30 min",
+    "2-3 hours",
+    "10 min to immediate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#3dad82",
+   "kind": "mcq",
+   "stem": "How quickly are unmatched emergency e-bloods available?",
+   "options": [
+    "15-30 min",
+    "30-45 min",
+    "10 min to immediate",
+    "2-3 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#ac6201",
+   "kind": "mcq",
+   "stem": "Which blood group is the universal red cell donor?",
+   "options": [
+    "O positive",
+    "A negative",
+    "O negative",
+    "AB positive"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#81c94f",
+   "kind": "mcq",
+   "stem": "Why are red cell alloantibodies commoner in women than in men?",
+   "options": [
+    "Higher iron stores in women",
+    "Greater plasma volume in women",
+    "Exposure to non-self red cell antigens in pregnancy",
+    "Higher baseline haemoglobin in women"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#3dd0e7",
+   "kind": "mcq",
+   "stem": "What is removed from leukocyte-reduced (leukodepleted) red cells?",
+   "options": [
+    "Plasma proteins",
+    "White cells",
+    "Potassium",
+    "Antibodies"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#a2fe1c",
+   "kind": "statement",
+   "stem": "What effect does irradiating red cells have on lymphocytes?",
+   "answer": "Lymphocytes can no longer proliferate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#d50fae",
+   "kind": "mcq",
+   "stem": "What does washing red cells remove?",
+   "options": [
+    "Leukocytes and platelets only",
+    "Red cell antigens and haemoglobin",
+    "Only the red cell membrane lipids",
+    "Most plasma proteins, antibodies and electrolytes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#489f54",
+   "kind": "statement",
+   "stem": "How often are CMV-seronegative red cells used in Singapore?",
+   "answer": "Rarely",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#7b31fd",
+   "kind": "mcq",
+   "stem": "In stored red cells, what does storage below 6°C do to glycolysis?",
+   "options": [
+    "Speeds it up",
+    "Has no effect on it",
+    "Slows it",
+    "Reverses it"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#7b31fd",
+   "kind": "mcq",
+   "stem": "Despite preservatives such as CPD and adenine, how soon does 2,3-DPG become negligible in stored red cells?",
+   "options": [
+    "Within 2 days",
+    "Within 2 weeks",
+    "Within 6 weeks",
+    "Within 3 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#3b24e4",
+   "kind": "statement",
+   "stem": "After transfusion, what limits the regeneration of 2,3-DPG?",
+   "answer": "DPG mutase reactivation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#a2e261",
+   "kind": "mcq",
+   "stem": "After transfusion, roughly how long does 2,3-DPG take to reach 50% recovery?",
+   "options": [
+    "About 2 hours",
+    "About 7 hours",
+    "About 24 hours",
+    "About 5 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#91d88a",
+   "kind": "mcq",
+   "stem": "After transfusion, roughly how long does 2,3-DPG take to fully recover?",
+   "options": [
+    "About 7 hours",
+    "About 24 hours",
+    "About 48 hours",
+    "About 5 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#21db66",
+   "kind": "mcq",
+   "stem": "What does depleted 2,3-DPG do to the oxyhaemoglobin curve in stored blood?",
+   "options": [
+    "Right shift",
+    "No shift",
+    "Upward shift",
+    "Left shift"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#21db66",
+   "kind": "statement",
+   "stem": "Why is a lower P50 in depleted stored blood theoretically a concern?",
+   "answer": "Higher affinity, so tissue unloading may be worse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/red-cell-transfusion#781589",
+   "kind": "blank",
+   "stem": "Even in massive transfusion, P50 rarely changes by more than ____.",
+   "answer": "0.5 kPa (3.8 mmHg)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

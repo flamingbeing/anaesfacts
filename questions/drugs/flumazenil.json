@@ -1,0 +1,219 @@
+{
+ "topic": "drugs/flumazenil",
+ "questions": [
+  {
+   "fact_id": "drugs/flumazenil#df03c6",
+   "kind": "statement",
+   "stem": "How should flumazenil be given to avoid withdrawal symptoms?",
+   "answer": "IV in increments, titrated to effect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#d52882",
+   "kind": "statement",
+   "stem": "Why might flumazenil need repeat doses or an infusion?",
+   "answer": "Short half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#0430d3",
+   "kind": "mcq",
+   "stem": "What is the incremental flumazenil dose?",
+   "options": [
+    "0.1 mg/kg",
+    "0.5 mg/kg",
+    "0.01 mg/kg",
+    "1 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#0430d3",
+   "kind": "mcq",
+   "stem": "How often are incremental flumazenil doses repeated?",
+   "options": [
+    "Every 5 minutes",
+    "Every 10 seconds",
+    "Every 60 sec",
+    "Every 30 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#0430d3",
+   "kind": "mcq",
+   "stem": "How many further incremental flumazenil doses can follow the first?",
+   "options": [
+    "Two",
+    "Six",
+    "Four",
+    "Eight"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#6fddba",
+   "kind": "mcq",
+   "stem": "What is the maximum total dose of flumazenil?",
+   "options": [
+    "0.5 mg/kg or 10 mg, whichever is lower",
+    "0.05 mg/kg or 1 mg, whichever is higher",
+    "1 mg/kg or 5 mg, whichever is lower",
+    "0.05 mg/kg or 1 mg, whichever is lower"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#2cc88b",
+   "kind": "mcq",
+   "stem": "What alternative aliquot size is used for flumazenil dosing?",
+   "options": [
+    "20 mcg",
+    "2 mg",
+    "200 mcg",
+    "2 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#1d5419",
+   "kind": "mcq",
+   "stem": "What is flumazenil's main pharmacological action?",
+   "options": [
+    "Non-competitive GABA-A agonist",
+    "Opioid receptor antagonist",
+    "Competitive benzodiazepine antagonist",
+    "Barbiturate receptor agonist"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#38a191",
+   "kind": "mcq",
+   "stem": "Which property of flumazenil may explain seizures in some patients?",
+   "options": [
+    "Potent opioid receptor agonism",
+    "Sodium channel blockade",
+    "Possible inverse agonist activity",
+    "Direct GABA-A chloride blockade"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#1cc6e0",
+   "kind": "mcq",
+   "stem": "What is the onset of flumazenil's effect?",
+   "options": [
+    "Within 20 minutes",
+    "Within 2 hours",
+    "Within 2 minutes",
+    "Within 10 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#12f956",
+   "kind": "mcq",
+   "stem": "Which psychological adverse effects can follow flumazenil?",
+   "options": [
+    "Hypotension and bradycardia",
+    "Bronchospasm and wheeze",
+    "Hyperglycaemia and polyuria",
+    "Anxiety and agitation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#547f00",
+   "kind": "mcq",
+   "stem": "In whom are seizures after flumazenil more likely?",
+   "options": [
+    "Patients with asthma",
+    "Elderly patients on opioids alone",
+    "Patients with hypertension",
+    "Epilepsy or mixed drug overdose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#5fc9be",
+   "kind": "mcq",
+   "stem": "How long should patients be observed after flumazenil for re-sedation?",
+   "options": [
+    "At least 15 minutes",
+    "At least two hours",
+    "At least 30 minutes",
+    "At least six hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#0bd883",
+   "kind": "statement",
+   "stem": "What is flumazenil's main indication?",
+   "answer": "Reversal of benzodiazepines (excess sedation after minor procedures, benzodiazepine overdose)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#3b80cc",
+   "kind": "mcq",
+   "stem": "Roughly what proportion of flumazenil is protein bound?",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#c7ada9",
+   "kind": "statement",
+   "stem": "How is flumazenil metabolised and excreted?",
+   "answer": "Extensive hepatic metabolism to inactive compounds, excreted in urine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flumazenil#e5827a",
+   "kind": "mcq",
+   "stem": "What is the approximate half-life of flumazenil?",
+   "options": [
+    "About 5 minutes",
+    "About 6 hours",
+    "About 24 hours",
+    "About 1 hour"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

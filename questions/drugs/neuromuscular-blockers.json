@@ -1,0 +1,175 @@
+{
+ "topic": "drugs/neuromuscular-blockers",
+ "questions": [
+  {
+   "fact_id": "drugs/neuromuscular-blockers#6c6931",
+   "kind": "mcq",
+   "stem": "Which airway purpose do neuromuscular blockers serve in general anaesthesia?",
+   "options": [
+    "Reverse opioid respiratory depression",
+    "Treat bronchospasm during intubation",
+    "Facilitate intubation",
+    "Raise the seizure threshold"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#0752bf",
+   "kind": "mcq",
+   "stem": "Besides intubation, what is a further surgical benefit of neuromuscular blockers?",
+   "options": [
+    "Lower intraocular pressure",
+    "Reduce blood loss at operation",
+    "Improve surgical conditions",
+    "Shorten recovery time"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#1b5fb8",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker is used to treat laryngospasm?",
+   "options": [
+    "Rocuronium",
+    "Vecuronium",
+    "Atracurium",
+    "Suxamethonium"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#b6d1af",
+   "kind": "mcq",
+   "stem": "How do depolarising neuromuscular blockers act at the acetylcholine receptor?",
+   "options": [
+    "Competitive antagonism of acetylcholine",
+    "Agonism at acetylcholine receptors",
+    "Blockade of voltage-gated sodium channels",
+    "Inhibition of acetylcholinesterase enzyme"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#ac731b",
+   "kind": "mcq",
+   "stem": "How do non-depolarising neuromuscular blockers act at the postsynaptic nicotinic receptor?",
+   "options": [
+    "Agonism causing sustained depolarisation",
+    "Irreversible inhibition of acetylcholinesterase",
+    "Opening of chloride channels",
+    "Competitive antagonism of acetylcholine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#0b8028",
+   "kind": "mcq",
+   "stem": "What chemical class do all neuromuscular blockers belong to?",
+   "options": [
+    "Tertiary amine alkaloids",
+    "Quaternary ammonium compounds",
+    "Phenothiazine derivatives",
+    "Sulphonylurea derivatives"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#29d77e",
+   "kind": "statement",
+   "stem": "What property does the permanent positive charge of neuromuscular blockers give them?",
+   "answer": "Highly water soluble (polar)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#42f878",
+   "kind": "statement",
+   "stem": "Name three bisquaternary neuromuscular blockers.",
+   "answer": "Suxamethonium, atracurium, pancuronium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#42f878",
+   "kind": "mcq",
+   "stem": "How does the potency of bisquaternary neuromuscular blockers compare with other types?",
+   "options": [
+    "Less potent",
+    "More potent",
+    "Equally potent",
+    "Only weakly active"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#f062cd",
+   "kind": "mcq",
+   "stem": "What charge structure do rocuronium and vecuronium have?",
+   "options": [
+    "Only a tertiary amine group",
+    "No permanent positive charge",
+    "One permanent positive charge and a tertiary amine",
+    "Two tertiary amine groups"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#5b9ef2",
+   "kind": "mcq",
+   "stem": "Why is suxamethonium block prolonged in some patients?",
+   "options": [
+    "Increased acetylcholinesterase activity",
+    "Raised plasma potassium",
+    "Reduced plasma (pseudo)cholinesterase",
+    "Enhanced renal excretion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#de3616",
+   "kind": "mcq",
+   "stem": "Which phases of neuromuscular block does suxamethonium produce?",
+   "options": [
+    "Phase I block only",
+    "Phase II block only",
+    "Phase I and phase II block",
+    "Tetanic fade only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neuromuscular-blockers#01b0e1",
+   "kind": "mcq",
+   "stem": "On monitoring, non-depolarising block looks essentially like which block type?",
+   "options": [
+    "Phase II block",
+    "Phase I block",
+    "Sustained depolarisation",
+    "Ganglion blockade"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

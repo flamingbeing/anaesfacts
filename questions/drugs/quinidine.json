@@ -1,0 +1,173 @@
+{
+ "topic": "drugs/quinidine",
+ "questions": [
+  {
+   "fact_id": "drugs/quinidine#fbefa8",
+   "kind": "blank",
+   "stem": "Quinidine (class Ia) blocks Na+ channels, ____ the upstroke (phase 0) of the cardiac action potential.",
+   "answer": "slowing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#172cf5",
+   "kind": "mcq",
+   "stem": "What does quinidine do to the threshold potential of cardiac cells?",
+   "options": [
+    "Lowers it",
+    "Raises it",
+    "Leaves it unchanged",
+    "Abolishes it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#a272fb",
+   "kind": "blank",
+   "stem": "Quinidine lengthens the refractory period without changing the ____.",
+   "answer": "action potential duration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#4a8b78",
+   "kind": "mcq",
+   "stem": "Quinidine is described as vagolytic. What does it do to vagal tone?",
+   "options": [
+    "Potentiates it",
+    "Has no effect on it",
+    "Antagonises it",
+    "Mimics it"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#2db94e",
+   "kind": "mcq",
+   "stem": "Quinidine causes which change to the PR interval on the ECG?",
+   "options": [
+    "Shorter PR interval",
+    "Normal PR interval",
+    "Longer PR interval",
+    "Unchanged PR interval"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#2db94e",
+   "kind": "mcq",
+   "stem": "Quinidine widens which ECG complex?",
+   "options": [
+    "P wave",
+    "QRS complex",
+    "T wave",
+    "ST segment"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#2db94e",
+   "kind": "mcq",
+   "stem": "Quinidine lengthens which ECG interval?",
+   "options": [
+    "RR interval",
+    "TP interval",
+    "ST segment",
+    "QT interval"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#09bf38",
+   "kind": "blank",
+   "stem": "Quinidine adverse effects are common; they are intolerable in up to ____ of patients.",
+   "answer": "30%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#76d965",
+   "kind": "statement",
+   "stem": "In AF or flutter, what should slow AV conduction before quinidine is given?",
+   "answer": "A beta-blocker, calcium channel blocker or digoxin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#2c5781",
+   "kind": "statement",
+   "stem": "Quinidine is indicated for which broad group of arrhythmias?",
+   "answer": "SVT, including atrial fibrillation and flutter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#42f1a5",
+   "kind": "mcq",
+   "stem": "Besides supraventricular tachycardia, what else is quinidine indicated for?",
+   "options": [
+    "Complete heart block",
+    "Sinus bradycardia",
+    "Ventricular ectopic beats",
+    "Sick sinus syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#baabe6",
+   "kind": "blank",
+   "stem": "Quinidine is well absorbed orally, with oral bioavailability of about ____.",
+   "answer": "75%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#0fc335",
+   "kind": "mcq",
+   "stem": "About what percentage of quinidine is protein bound?",
+   "options": [
+    "40%",
+    "60%",
+    "90%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#e55b2b",
+   "kind": "statement",
+   "stem": "How is quinidine metabolised, and where is it mostly excreted?",
+   "answer": "Hepatic metabolism to active metabolites; mostly excreted in urine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/quinidine#90f775",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of quinidine?",
+   "options": [
+    "1–2 hours",
+    "12–24 hours",
+    "5–9 hours",
+    "30–40 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

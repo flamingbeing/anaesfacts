@@ -1,0 +1,339 @@
+{
+ "topic": "drugs/neostigmine",
+ "questions": [
+  {
+   "fact_id": "drugs/neostigmine#c6345b",
+   "kind": "statement",
+   "stem": "What forms of neostigmine are available?",
+   "answer": "Tablets and solution for IV injection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#6793db",
+   "kind": "mcq",
+   "stem": "Neostigmine is also sold as a fixed-dose product with which drug?",
+   "options": [
+    "Atropine",
+    "Sugammadex",
+    "Suxamethonium",
+    "Glycopyrrolate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#6d98b4",
+   "kind": "blank",
+   "stem": "Neostigmine IV is a clear, colourless solution containing ____ mg in 1 ml.",
+   "answer": "2.5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#c98a5d",
+   "kind": "blank",
+   "stem": "Give IV neostigmine ____, together with an anticholinergic.",
+   "answer": "slowly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#4a4d22",
+   "kind": "mcq",
+   "stem": "What IV neostigmine dose per kg is used for reversal?",
+   "options": [
+    "0.5 mg/kg",
+    "0.2 mg/kg",
+    "0.05 mg/kg",
+    "0.005 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#4a4d22",
+   "kind": "mcq",
+   "stem": "The IV neostigmine reversal dose is how many times the glycopyrrolate dose?",
+   "options": [
+    "3 times",
+    "5 times",
+    "10 times",
+    "2 times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#1f1be3",
+   "kind": "mcq",
+   "stem": "What is the usual single IV neostigmine reversal dose in mg?",
+   "options": [
+    "0.25 mg",
+    "5 mg",
+    "2.5 mg",
+    "10 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#992e3c",
+   "kind": "mcq",
+   "stem": "What is the maximum neostigmine reversal dose per kg?",
+   "options": [
+    "0.1 mg/kg",
+    "0.5 mg/kg",
+    "0.02 mg/kg",
+    "0.07 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#26d00a",
+   "kind": "mcq",
+   "stem": "How quickly does IV neostigmine start to act?",
+   "options": [
+    "30 min",
+    "1 min",
+    "10 min",
+    "2 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#ced332",
+   "kind": "mcq",
+   "stem": "When does IV neostigmine reach its peak effect?",
+   "options": [
+    "30 to 40 min",
+    "5 to 10 min",
+    "2 hours",
+    "45 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#3ebd14",
+   "kind": "mcq",
+   "stem": "What oral neostigmine dose is used for myasthenia gravis or urinary retention?",
+   "options": [
+    "1.25 mg every 4 hours",
+    "2.5 mg every 2-4 hours",
+    "15–30 mg every 2-4 hours",
+    "150–300 mg every 2-4 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#c7e009",
+   "kind": "statement",
+   "stem": "How does neostigmine inhibit cholinesterase?",
+   "answer": "Forms a carbamylated enzyme complex (reversible inhibition)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#de9053",
+   "kind": "mcq",
+   "stem": "What does neostigmine do to a phase I block from depolarising agents?",
+   "options": [
+    "Reverses it fully",
+    "Prolongs it",
+    "No effect",
+    "Reverses it briefly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#5a2f62",
+   "kind": "statement",
+   "stem": "What adverse effect can neostigmine cause even at therapeutic doses?",
+   "answer": "Paradoxical weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#330673",
+   "kind": "mcq",
+   "stem": "What block does excess neostigmine at the neuromuscular junction resemble?",
+   "options": [
+    "Phase 2 depolarising block",
+    "Phase 1 depolarising block",
+    "Spinal anaesthesia block",
+    "Local anaesthetic toxicity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#e5e4dd",
+   "kind": "mcq",
+   "stem": "Neostigmine may prolong the action of which drug by inhibiting plasma cholinesterase?",
+   "options": [
+    "Suxamethonium",
+    "Rocuronium",
+    "Glycopyrrolate",
+    "Propofol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#dad10c",
+   "kind": "mcq",
+   "stem": "What is neostigmine's main use in anaesthesia?",
+   "options": [
+    "Induction of neuromuscular block",
+    "Reversal of depolarising neuromuscular block",
+    "Treatment of malignant hyperthermia",
+    "Reversal of non-depolarising neuromuscular block"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#a93b6a",
+   "kind": "mcq",
+   "stem": "Besides reversal, which bowel condition is neostigmine used for?",
+   "options": [
+    "Irritable bowel syndrome",
+    "Paralytic ileus",
+    "Peptic ulcer",
+    "Gastroenteritis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#6be5d6",
+   "kind": "mcq",
+   "stem": "Neostigmine is used for which neuromuscular disease?",
+   "options": [
+    "Guillain-Barré syndrome",
+    "Duchenne muscular dystrophy",
+    "Motor neurone disease",
+    "Myasthenia gravis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#21b753",
+   "kind": "mcq",
+   "stem": "Neostigmine is also used for which urinary problem?",
+   "options": [
+    "Urinary incontinence",
+    "Renal colic",
+    "Urinary retention",
+    "Haematuria"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#a8f338",
+   "kind": "mcq",
+   "stem": "Why is neostigmine lipid insoluble?",
+   "options": [
+    "Quaternary ammonium group",
+    "Long hydrocarbon chain",
+    "Free carboxylic acid group",
+    "Tertiary amine ring"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#143ccd",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of neostigmine?",
+   "options": [
+    "10-20%",
+    "50-60%",
+    "1-2%",
+    "80-90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#73f0ed",
+   "kind": "mcq",
+   "stem": "How much does neostigmine bind to plasma proteins?",
+   "options": [
+    "Extensive",
+    "Minimal",
+    "Moderate",
+    "About 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#dd2d26",
+   "kind": "mcq",
+   "stem": "What is neostigmine's elimination half-life?",
+   "options": [
+    "1-2 hours",
+    "2-4 hours",
+    "1-2 min",
+    "15-80 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#824194",
+   "kind": "mcq",
+   "stem": "How is neostigmine mainly metabolised?",
+   "options": [
+    "Pulmonary uptake",
+    "Plasma esterases",
+    "Cerebrospinal fluid enzymes",
+    "Gut bacteria"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/neostigmine#1cf4c5",
+   "kind": "mcq",
+   "stem": "What share of neostigmine is excreted unchanged in urine?",
+   "options": [
+    "6%",
+    "90%",
+    "60%",
+    "16%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

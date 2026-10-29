@@ -1,0 +1,41 @@
+{
+ "topic": "drugs/eperisone",
+ "questions": [
+  {
+   "fact_id": "drugs/eperisone#f3d0c7",
+   "kind": "mcq",
+   "stem": "What is the oral dose of eperisone?",
+   "options": [
+    "25 mg twice daily",
+    "100 mg three times daily",
+    "50 mg once daily",
+    "50 mg three times daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/eperisone#f3d0c7",
+   "kind": "blank",
+   "stem": "Oral eperisone is given at 50 mg ____ daily.",
+   "answer": "three times",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/eperisone#1b7686",
+   "kind": "mcq",
+   "stem": "Eperisone suppresses spinal reflexes by inhibiting which neurons?",
+   "options": [
+    "Beta and gamma efferent neurons",
+    "Alpha and gamma afferent neurons",
+    "Alpha and gamma efferent neurons",
+    "Beta and alpha afferent neurons"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

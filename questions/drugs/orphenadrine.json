@@ -1,0 +1,61 @@
+{
+ "topic": "drugs/orphenadrine",
+ "questions": [
+  {
+   "fact_id": "drugs/orphenadrine#efa251",
+   "kind": "mcq",
+   "stem": "What is the usual oral orphenadrine dose?",
+   "options": [
+    "100mg once daily",
+    "100mg twice daily",
+    "25mg four times daily",
+    "300mg three times daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/orphenadrine#6f4539",
+   "kind": "mcq",
+   "stem": "How often are combination orphenadrine products such as Anarex dosed?",
+   "options": [
+    "Once daily",
+    "Every four hours",
+    "Once weekly",
+    "Three to four times daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/orphenadrine#3a4c97",
+   "kind": "mcq",
+   "stem": "Which adverse effects of orphenadrine are anticholinergic?",
+   "options": [
+    "Hypotension, flushing and wheezing",
+    "Drowsiness, urinary retention and dry mouth",
+    "Tremor, hypoglycaemia and sweating",
+    "Diarrhoea, hypertension and rash"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/orphenadrine#76bba7",
+   "kind": "mcq",
+   "stem": "What is orphenadrine used for?",
+   "options": [
+    "An opioid antagonist",
+    "A local anaesthetic",
+    "A muscle relaxant",
+    "An antiarrhythmic agent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

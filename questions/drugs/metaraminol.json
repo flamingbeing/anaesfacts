@@ -1,0 +1,135 @@
+{
+ "topic": "drugs/metaraminol",
+ "questions": [
+  {
+   "fact_id": "drugs/metaraminol#6ad943",
+   "kind": "mcq",
+   "stem": "What concentration is metaraminol supplied at, as a clear solution?",
+   "options": [
+    "1 mg/ml",
+    "50 mg/ml",
+    "10 mg/ml",
+    "0.1 mg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#d3e915",
+   "kind": "mcq",
+   "stem": "What IV bolus of metaraminol is usually enough?",
+   "options": [
+    "0.05–0.2 mg",
+    "0.5–2 mg",
+    "5–10 mg",
+    "10–20 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#d3e915",
+   "kind": "blank",
+   "stem": "Metaraminol IV bolus: a bolus of ____ mg is usually enough.",
+   "answer": "0.5–2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#f30699",
+   "kind": "mcq",
+   "stem": "Metaraminol acts as which type of sympathomimetic?",
+   "options": [
+    "Direct only",
+    "Direct and indirect",
+    "Indirect only",
+    "Neither direct nor indirect"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#378777",
+   "kind": "mcq",
+   "stem": "Metaraminol is mainly an agonist at which adrenoceptor?",
+   "options": [
+    "α1-adrenoceptor",
+    "β1-adrenoceptor",
+    "α2-adrenoceptor",
+    "Dopamine D1 receptor"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#378777",
+   "kind": "statement",
+   "stem": "Besides its main action, which other adrenoceptor activity does metaraminol retain?",
+   "answer": "Some β-adrenoceptor activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#3260c4",
+   "kind": "mcq",
+   "stem": "What does metaraminol do to systemic vascular resistance (SVR)?",
+   "options": [
+    "Decreases SVR",
+    "Leaves SVR unchanged",
+    "Increases SVR",
+    "Halves SVR"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#c580da",
+   "kind": "statement",
+   "stem": "With metaraminol, what often happens to cardiac output, and why?",
+   "answer": "Often falls, as SVR rises despite β activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#c80b1b",
+   "kind": "mcq",
+   "stem": "By which mechanism does metaraminol increase coronary blood flow?",
+   "options": [
+    "Direct mechanism",
+    "Direct β2 stimulation",
+    "Indirect mechanism",
+    "Direct α2 agonism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#345a21",
+   "kind": "statement",
+   "stem": "How does metaraminol raise pulmonary artery pressure?",
+   "answer": "Increases pulmonary vascular resistance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/metaraminol#4ff8dc",
+   "kind": "mcq",
+   "stem": "Metaraminol is used for hypotension caused by which anaesthetic technique?",
+   "options": [
+    "Propofol total intravenous anaesthesia",
+    "Sevoflurane maintenance anaesthesia",
+    "Spinal or epidural anaesthesia",
+    "Ketamine sedation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

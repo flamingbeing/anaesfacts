@@ -1,0 +1,215 @@
+{
+ "topic": "drugs/mexiletine",
+ "questions": [
+  {
+   "fact_id": "drugs/mexiletine#85d612",
+   "kind": "mcq",
+   "stem": "How much mexiletine hydrochloride is in 10 ml of the solution?",
+   "options": [
+    "50 mg",
+    "125 mg",
+    "500 mg",
+    "250 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#85d612",
+   "kind": "statement",
+   "stem": "What appearance does the mexiletine hydrochloride 250 mg in 10 ml solution have?",
+   "answer": "Clear, colourless solution",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#8ca247",
+   "kind": "mcq",
+   "stem": "Which mexiletine formulations are available by mouth?",
+   "options": [
+    "Transdermal patch only",
+    "Rectal suppository only",
+    "Sublingual tablet only",
+    "Oral, including modified release"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#899e66",
+   "kind": "statement",
+   "stem": "How does mexiletine block sodium channels in the cardiac action potential?",
+   "answer": "Slows the rate of rise of phase 0 and raises the threshold potential",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#b7eabc",
+   "kind": "statement",
+   "stem": "What does mexiletine do to phase 3 repolarisation, and what follows for the refractory period?",
+   "answer": "Shortens phase 3, so action potential duration and refractory period fall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#179176",
+   "kind": "mcq",
+   "stem": "How is the therapeutic ratio of mexiletine described, given its common adverse effects?",
+   "options": [
+    "High therapeutic ratio",
+    "Dose-independent toxicity",
+    "Very high margin of safety",
+    "Low therapeutic ratio"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#a0ec65",
+   "kind": "statement",
+   "stem": "Which cardiac adverse effects does mexiletine cause?",
+   "answer": "Sinus bradycardia, supraventricular and ventricular tachyarrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#bd6f7e",
+   "kind": "mcq",
+   "stem": "What share of mexiletine patients get troublesome gastrointestinal effects?",
+   "options": [
+    "Up to 10%",
+    "Up to 40%",
+    "Up to 5%",
+    "Up to 80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#bd6f7e",
+   "kind": "statement",
+   "stem": "Which gastrointestinal adverse effects does mexiletine cause?",
+   "answer": "Troublesome nausea and vomiting, and change in bowel habit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#1da2cd",
+   "kind": "statement",
+   "stem": "Which neurological adverse effects does mexiletine cause?",
+   "answer": "Confusion, diplopia, seizures, tremor, ataxia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#88f0b8",
+   "kind": "mcq",
+   "stem": "Which other adverse effect is reported with mexiletine?",
+   "options": [
+    "Hyperkalaemia",
+    "Thrombocytopenia",
+    "Hypoglycaemia",
+    "Nephrotoxicity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#ec3686",
+   "kind": "mcq",
+   "stem": "Mexiletine is used much like lidocaine, especially for arrhythmias linked to what?",
+   "options": [
+    "Hypothermia or sepsis",
+    "Ischaemia or digoxin",
+    "Thyrotoxicosis or asthma",
+    "Pregnancy or hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#50f0fc",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of mexiletine?",
+   "options": [
+    "10%",
+    "50%",
+    "90%",
+    "65%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#50f0fc",
+   "kind": "statement",
+   "stem": "Where in the gut is oral mexiletine well absorbed?",
+   "answer": "Upper small bowel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#b77139",
+   "kind": "mcq",
+   "stem": "What is the protein binding of mexiletine?",
+   "options": [
+    "25%",
+    "65%",
+    "85%",
+    "5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#ab520d",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of mexiletine?",
+   "options": [
+    "0.1–0.3 l/kg",
+    "6–13 l/kg",
+    "0.5–1 l/kg",
+    "20–40 l/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#5cb705",
+   "kind": "mcq",
+   "stem": "How is mexiletine cleared by metabolism?",
+   "options": [
+    "Biliary excretion of the unchanged drug",
+    "Hepatic metabolism to several active metabolites",
+    "Plasma esterase hydrolysis",
+    "Pulmonary elimination"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/mexiletine#f188b0",
+   "kind": "mcq",
+   "stem": "What share of mexiletine is excreted unchanged in urine?",
+   "options": [
+    "Up to 5%",
+    "Up to 40%",
+    "Up to 60%",
+    "Up to 20%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

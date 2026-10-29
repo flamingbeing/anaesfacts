@@ -1,0 +1,125 @@
+{
+ "topic": "drugs/heliox",
+ "questions": [
+  {
+   "fact_id": "drugs/heliox#1e0d2c",
+   "kind": "mcq",
+   "stem": "What is the gas composition of heliox?",
+   "options": [
+    "100% helium",
+    "50% helium, 50% oxygen",
+    "21% helium, 79% oxygen",
+    "79% He, 21% O2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/heliox#8686ae",
+   "kind": "mcq",
+   "stem": "At what pressure are 100% helium cylinders filled?",
+   "options": [
+    "200 bar",
+    "137 bar",
+    "150 bar",
+    "250 bar"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/heliox#f606a1",
+   "kind": "mcq",
+   "stem": "What is the fire-safety property of heliox?",
+   "options": [
+    "Supports combustion, like oxygen",
+    "Highly flammable at room temperature",
+    "Does not support combustion",
+    "Ignites on contact with air"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/heliox#f91735",
+   "kind": "mcq",
+   "stem": "How does the density of heliox compare with air and oxygen?",
+   "options": [
+    "Higher than air and oxygen",
+    "Equal to air and oxygen",
+    "Lower than air and oxygen",
+    "Higher than air, lower than oxygen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/heliox#78211a",
+   "kind": "mcq",
+   "stem": "In turbulent airway flow, how does heliox change gas velocity?",
+   "options": [
+    "Decreases velocity",
+    "Stops flow entirely",
+    "Increases velocity",
+    "Leaves velocity unchanged"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/heliox#465a18",
+   "kind": "mcq",
+   "stem": "What benefit does heliox give in upper airway obstruction, such as a tumour?",
+   "options": [
+    "More work of breathing and worse oxygenation",
+    "No change in breathing or oxygenation",
+    "Reduced oxygenation with more sedation",
+    "Less work of breathing and better oxygenation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/heliox#551da2",
+   "kind": "statement",
+   "stem": "How does breathing heliox change the voice, and why?",
+   "answer": "Higher-pitched (squeaky) voice, because of its low density",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/heliox#9e643e",
+   "kind": "mcq",
+   "stem": "Heliox is mainly used for which type of airway problem?",
+   "options": [
+    "Pulmonary oedema",
+    "Upper airway obstruction",
+    "Pneumothorax",
+    "Diabetic ketoacidosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/heliox#b2c2d2",
+   "kind": "mcq",
+   "stem": "What is heliox used for in deep diving?",
+   "options": [
+    "To prevent oxygen toxicity",
+    "To raise blood oxygen content",
+    "To avoid nitrogen narcosis",
+    "To reduce cold-water heat loss"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

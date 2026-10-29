@@ -1,0 +1,215 @@
+{
+ "topic": "drugs/levosimendan",
+ "questions": [
+  {
+   "fact_id": "drugs/levosimendan#419644",
+   "kind": "mcq",
+   "stem": "Which routes can levosimendan be given by?",
+   "options": [
+    "Intravenous only",
+    "Intramuscular only",
+    "Intravenous and oral",
+    "Oral only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#253140",
+   "kind": "mcq",
+   "stem": "How long is a levosimendan infusion usually limited to?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "48 hours",
+    "72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#627afa",
+   "kind": "mcq",
+   "stem": "What loading dose of levosimendan is given IV over 10 minutes?",
+   "options": [
+    "1–2 mg/kg",
+    "0.05–0.2 mcg/kg/min",
+    "6–24 mcg/kg",
+    "50–100 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#5f1ca9",
+   "kind": "mcq",
+   "stem": "What is the usual levosimendan infusion rate, given for 24 hours?",
+   "options": [
+    "1–3 mcg/kg/min",
+    "6–24 mcg/kg",
+    "0.5–2 mcg/kg/min",
+    "0.05–0.2 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#94598f",
+   "kind": "mcq",
+   "stem": "Can levosimendan be given together with beta-blockers?",
+   "options": [
+    "Yes, it does not compete at the receptor",
+    "No, it competes for the same receptor",
+    "Only with low-dose beta-blockers",
+    "No, it is contraindicated with beta-blockers"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#82d7a7",
+   "kind": "statement",
+   "stem": "Which haemodynamic variables does levosimendan increase?",
+   "answer": "Cardiac output, stroke volume, heart rate, coronary blood flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#33f76d",
+   "kind": "statement",
+   "stem": "Which haemodynamic variables does levosimendan decrease?",
+   "answer": "SVR, systolic BP, PCWP, PA pressure, coronary vascular resistance, myocardial oxygen consumption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#ef9d6a",
+   "kind": "mcq",
+   "stem": "Which trial showed levosimendan improved symptoms and BNP in heart failure?",
+   "options": [
+    "RALES",
+    "SURVIVE (2007)",
+    "CONSENSUS",
+    "ESCAPE"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#db70e6",
+   "kind": "mcq",
+   "stem": "When do levosimendan's active metabolites reach peak levels after starting?",
+   "options": [
+    "About 2 hours",
+    "About 24 hours",
+    "About 72 hours",
+    "About 10 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#db70e6",
+   "kind": "mcq",
+   "stem": "For how long do levosimendan's active metabolites keep its benefit going?",
+   "options": [
+    "About 24 hours",
+    "About 2 hours",
+    "Up to 1 day",
+    "At least 7 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#188c2b",
+   "kind": "statement",
+   "stem": "After what event is levosimendan indicated for myocardial dysfunction?",
+   "answer": "Resuscitation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#f1ddf0",
+   "kind": "statement",
+   "stem": "For which cardiac patients is levosimendan used for perioperative optimisation?",
+   "answer": "Cardiac patients with cardiomyopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#41e068",
+   "kind": "mcq",
+   "stem": "After how many days of treatment do levosimendan concentrations peak?",
+   "options": [
+    "12 hours",
+    "2 days",
+    "5 days",
+    "10 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#41e068",
+   "kind": "statement",
+   "stem": "How is levosimendan bound in plasma?",
+   "answer": "Highly protein bound",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#cb62da",
+   "kind": "mcq",
+   "stem": "What is the half-life of levosimendan's active metabolite?",
+   "options": [
+    "7 hours",
+    "24 hours",
+    "70 hours",
+    "12 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#cb62da",
+   "kind": "statement",
+   "stem": "Where is levosimendan metabolised?",
+   "answer": "Liver (hepatic)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#8a20b8",
+   "kind": "mcq",
+   "stem": "Where is levosimendan eliminated from the body?",
+   "options": [
+    "Urine only",
+    "Faeces only",
+    "Bile only",
+    "Urine and faeces"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/levosimendan#8a20b8",
+   "kind": "statement",
+   "stem": "Does levosimendan dosing need adjusting in renal impairment?",
+   "answer": "Yes, adjust the dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

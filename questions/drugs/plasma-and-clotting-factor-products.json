@@ -1,0 +1,409 @@
+{
+ "topic": "drugs/plasma-and-clotting-factor-products",
+ "questions": [
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#45b257",
+   "kind": "mcq",
+   "stem": "How is fresh frozen plasma (FFP) presented?",
+   "options": [
+    "500ml bags",
+    "250ml bags",
+    "100ml bags",
+    "1 litre bags"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#4fdda6",
+   "kind": "mcq",
+   "stem": "What is the usual dose of fresh frozen plasma (FFP)?",
+   "options": [
+    "10 ml/kg",
+    "20 ml/kg",
+    "15 ml/kg",
+    "30 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#260ed9",
+   "kind": "mcq",
+   "stem": "In fresh frozen plasma use, which INR threshold is given as an indication?",
+   "options": [
+    "INR above 2.5",
+    "INR above 1.5",
+    "INR above 1.1",
+    "INR above 3.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#913c81",
+   "kind": "blank",
+   "stem": "In major haemorrhage, FFP is given to balance transfusion, e.g. after ____ units of packed red cells.",
+   "answer": "4-6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#27c43c",
+   "kind": "statement",
+   "stem": "How is cryoprecipitate made from fresh frozen plasma?",
+   "answer": "By thawing and centrifuging FFP, then keeping the precipitate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#dc66d6",
+   "kind": "statement",
+   "stem": "Apart from fibrinogen, which clotting factors does cryoprecipitate contain?",
+   "answer": "vWF, factor VIII and factor XIII",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#058e58",
+   "kind": "mcq",
+   "stem": "What fibrinogen level defines deficiency treated with cryoprecipitate in major haemorrhage?",
+   "options": [
+    "Fibrinogen below 2.0",
+    "Fibrinogen below 1.0",
+    "Fibrinogen below 0.5",
+    "Fibrinogen below 4.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#6da2c5",
+   "kind": "mcq",
+   "stem": "What volume is one unit of cryoprecipitate?",
+   "options": [
+    "5-10ml",
+    "20-40ml",
+    "100-150ml",
+    "250ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#6da2c5",
+   "kind": "mcq",
+   "stem": "How are cryoprecipitate units supplied?",
+   "options": [
+    "1U bags",
+    "10U bags",
+    "5U bags",
+    "250ml bags"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#b8a572",
+   "kind": "mcq",
+   "stem": "What is the typical adult dose of cryoprecipitate?",
+   "options": [
+    "2 units",
+    "10 units",
+    "20 units",
+    "5 units"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#b8a572",
+   "kind": "mcq",
+   "stem": "What weight-based cryoprecipitate dose is usually given?",
+   "options": [
+    "1 unit/5kg",
+    "1 unit/20kg",
+    "1 unit/10kg",
+    "1 unit/30kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#643092",
+   "kind": "mcq",
+   "stem": "By how much should one cryoprecipitate unit per 10 kg raise fibrinogen?",
+   "options": [
+    "1.5-2.0 g/L",
+    "0.5–1.0 g/L",
+    "0.1–0.2 g/L",
+    "3.0–4.0 g/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#5bccea",
+   "kind": "mcq",
+   "stem": "How much fibrinogen does a 10-unit cryoprecipitate dose contain?",
+   "options": [
+    "about 0.5g",
+    "about 2g",
+    "about 1g",
+    "about 4g"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#e62fda",
+   "kind": "mcq",
+   "stem": "What is the usual dose of fibrinogen concentrate?",
+   "options": [
+    "5-10mg/kg",
+    "30-50mg/kg",
+    "1-2mg/kg",
+    "60-80mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#8290cf",
+   "kind": "statement",
+   "stem": "How is the fibrinogen concentrate dose calculated to reach a FIBTEM A5 target rise?",
+   "answer": "Target increase x body weight / 160",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#a34c76",
+   "kind": "blank",
+   "stem": "A single 70 mg/kg fibrinogen concentrate dose raises plasma fibrinogen by about ____ mg/dL.",
+   "answer": "125",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#236f9c",
+   "kind": "statement",
+   "stem": "Which clotting factors does prothrombin complex concentrate (PCC) contain?",
+   "answer": "Vitamin K-dependent factors II, VII, IX and X",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#8cf267",
+   "kind": "mcq",
+   "stem": "Which two forms of prothrombin complex concentrate (PCC) exist?",
+   "options": [
+    "single-factor and two-factor",
+    "four-factor and three-factor",
+    "five-factor and seven-factor",
+    "two-factor and six-factor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#4b4951",
+   "kind": "mcq",
+   "stem": "Which prothrombin complex concentrate (PCC) form has more factor VII, plus anticoagulant proteins?",
+   "options": [
+    "3F-PCC",
+    "2F-PCC",
+    "4F-PCC",
+    "5F-PCC"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#59f025",
+   "kind": "statement",
+   "stem": "What are the advantages of prothrombin complex concentrate (PCC) over FFP?",
+   "answer": "Smaller volume and faster to give",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#4bbe3d",
+   "kind": "statement",
+   "stem": "When is prothrombin complex concentrate (PCC) used to reverse warfarin or vitamin K deficiency?",
+   "answer": "When bleeding or needing urgent surgery (within 6 h)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#991594",
+   "kind": "mcq",
+   "stem": "In warfarin reversal, how long does vitamin K take to correct the INR?",
+   "options": [
+    "within 1 hour",
+    "more than 6 hours",
+    "within 15 minutes",
+    "within 30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#cfa2bc",
+   "kind": "mcq",
+   "stem": "What is the usual prothrombin complex concentrate (PCC) dose for emergency warfarin reversal?",
+   "options": [
+    "5-10 units/kg",
+    "25-50 units/kg",
+    "60-80 units/kg",
+    "100-150 units/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#cfa2bc",
+   "kind": "mcq",
+   "stem": "When should INR be checked after emergency warfarin reversal with PCC?",
+   "options": [
+    "1 hour after infusion ends",
+    "6 hours after infusion ends",
+    "15 minutes after infusion ends",
+    "24 hours after infusion ends"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#79da18",
+   "kind": "mcq",
+   "stem": "What prothrombin complex concentrate (PCC) dose is given for bleeding?",
+   "options": [
+    "5-10U/kg",
+    "15-30U/kg",
+    "25-50 units/kg",
+    "60-80U/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#a5f784",
+   "kind": "mcq",
+   "stem": "What prothrombin complex concentrate (PCC) dose is used in paediatric cardiac surgery?",
+   "options": [
+    "15-30U/kg",
+    "10U/kg",
+    "25-50 units/kg",
+    "1500-2000U"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#76da0b",
+   "kind": "mcq",
+   "stem": "What is the key complication of prothrombin complex concentrate (PCC)?",
+   "options": [
+    "Bronchospasm",
+    "Thrombosis",
+    "Hyperkalaemia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#0c237f",
+   "kind": "mcq",
+   "stem": "Which bleeding disorder does factor VIII concentrate treat?",
+   "options": [
+    "Factor IX deficiency (haemophilia B)",
+    "Factor XI deficiency (haemophilia C)",
+    "Factor VII deficiency",
+    "Factor VIII deficiency (haemophilia A)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#b1b1e6",
+   "kind": "mcq",
+   "stem": "Which bleeding disorder does factor IX concentrate treat?",
+   "options": [
+    "Factor VIII deficiency (haemophilia A)",
+    "Factor IX deficiency (haemophilia B)",
+    "Factor XI deficiency (haemophilia C)",
+    "Factor VII deficiency"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#599d41",
+   "kind": "statement",
+   "stem": "What does Humate-P contain?",
+   "answer": "Purified human factor VIII with von Willebrand factor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#457a40",
+   "kind": "statement",
+   "stem": "What are the indications for Humate-P?",
+   "answer": "Von Willebrand disease and haemophilia A",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#4e4964",
+   "kind": "mcq",
+   "stem": "For which patients is recombinant activated factor VII (rFVIIa) licensed?",
+   "options": [
+    "Haemophilia A without inhibitors",
+    "Von Willebrand disease with inhibitors",
+    "Haemophilia A or B with inhibitors",
+    "Haemophilia C with inhibitors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#508b66",
+   "kind": "statement",
+   "stem": "How is recombinant activated factor VII (rFVIIa) used beyond its licence?",
+   "answer": "Off label, to control bleeding in many settings",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/plasma-and-clotting-factor-products#36175b",
+   "kind": "statement",
+   "stem": "Why does recombinant activated factor VII (rFVIIa) carry a higher thrombosis risk?",
+   "answer": "It is already activated, unlike most factor products which are inactive precursors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

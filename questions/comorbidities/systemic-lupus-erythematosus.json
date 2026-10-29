@@ -1,0 +1,203 @@
+{
+ "topic": "comorbidities/systemic-lupus-erythematosus",
+ "questions": [
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#7b3a0a",
+   "kind": "mcq",
+   "stem": "In which group is systemic lupus erythematosus most common?",
+   "options": [
+    "Elderly men",
+    "Young men",
+    "Young women",
+    "Infants"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#60a4f8",
+   "kind": "statement",
+   "stem": "How does systemic lupus erythematosus cause tissue damage?",
+   "answer": "Widespread autoantibodies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#7ed2e5",
+   "kind": "mcq",
+   "stem": "Does systemic lupus erythematosus itself cause specific bony erosion or airway problems?",
+   "options": [
+    "Yes, severe bony erosion",
+    "Yes, airway stenosis always",
+    "No specific bony erosion or airway problems",
+    "Yes, subglottic stenosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#1eb690",
+   "kind": "statement",
+   "stem": "In systemic lupus erythematosus, where do the main anaesthetic risks come from?",
+   "answer": "The organs affected",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#e09277",
+   "kind": "statement",
+   "stem": "What is the key haematological feature of antiphospholipid syndrome in systemic lupus erythematosus?",
+   "answer": "Hypercoagulable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#9ab3a1",
+   "kind": "statement",
+   "stem": "Which body systems are commonly involved in systemic lupus erythematosus?",
+   "answer": "Skin and joints",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#9ab3a1",
+   "kind": "statement",
+   "stem": "Which oropharyngeal feature is seen in systemic lupus erythematosus?",
+   "answer": "Oral and pharyngeal ulcers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#ea82ee",
+   "kind": "mcq",
+   "stem": "What percentage of systemic lupus erythematosus patients have pericarditis?",
+   "options": [
+    "30%",
+    "15%",
+    "33%",
+    "60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#e1dac9",
+   "kind": "mcq",
+   "stem": "What proportion of systemic lupus erythematosus patients have Raynaud's phenomenon?",
+   "options": [
+    "15%",
+    "50%",
+    "30%",
+    "33%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#29d137",
+   "kind": "statement",
+   "stem": "Which respiratory problems occur in systemic lupus erythematosus?",
+   "answer": "Infections, PE, pleuritis, pleural effusion, pulmonary fibrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#948c8c",
+   "kind": "statement",
+   "stem": "Which renal complication of systemic lupus erythematosus can progress to renal failure?",
+   "answer": "Glomerulonephritis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#a8ca3d",
+   "kind": "mcq",
+   "stem": "What percentage of systemic lupus erythematosus patients have antiphospholipid syndrome?",
+   "options": [
+    "15%",
+    "30%",
+    "60%",
+    "33%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#dd5f60",
+   "kind": "statement",
+   "stem": "Which blood test in systemic lupus erythematosus screens for thrombocytopenia?",
+   "answer": "Platelet count",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#77c3e7",
+   "kind": "mcq",
+   "stem": "In systemic lupus erythematosus, which blood test screens clotting?",
+   "options": [
+    "Lipid profile",
+    "Thyroid function",
+    "Coagulation screen",
+    "Serum calcium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#b2d21e",
+   "kind": "mcq",
+   "stem": "Which investigation assesses the heart in systemic lupus erythematosus?",
+   "options": [
+    "U+E",
+    "Platelet count",
+    "Echo",
+    "CT or MRI as indicated"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#8b93c8",
+   "kind": "statement",
+   "stem": "Which drugs are used for medical management of systemic lupus erythematosus?",
+   "answer": "Steroids, immunosuppressants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#886a92",
+   "kind": "mcq",
+   "stem": "Why keep a patient with systemic lupus erythematosus normothermic perioperatively?",
+   "options": [
+    "To prevent malignant hyperthermia",
+    "To improve platelet count",
+    "To reduce Raynaud's phenomenon",
+    "To avoid hypokalaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/systemic-lupus-erythematosus#5220ca",
+   "kind": "mcq",
+   "stem": "Which airway complication is common in systemic lupus erythematosus, so airway trauma must be avoided?",
+   "options": [
+    "Vocal cord paralysis",
+    "Laryngeal oedema",
+    "Bronchospasm",
+    "Tracheomalacia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

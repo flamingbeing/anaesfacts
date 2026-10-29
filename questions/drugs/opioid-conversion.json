@@ -1,0 +1,485 @@
+{
+ "topic": "drugs/opioid-conversion",
+ "questions": [
+  {
+   "fact_id": "drugs/opioid-conversion#7413cf",
+   "kind": "mcq",
+   "stem": "What is a common starting oral dose range for tramadol?",
+   "options": [
+    "25-50 mg three times daily",
+    "100-200 mg twice daily",
+    "5-10 mg every hour",
+    "1-2 mg four times daily"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#b1c69e",
+   "kind": "mcq",
+   "stem": "What is a common starting oral morphine dose?",
+   "options": [
+    "0.5-1 mg 4-6 hourly plus as needed",
+    "2.5-5 mg 4-6 hourly plus as needed",
+    "25-50 mg 4-6 hourly plus as needed",
+    "10-20 mg twice daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#4c10a1",
+   "kind": "mcq",
+   "stem": "What is a common starting oral oxycodone dose?",
+   "options": [
+    "10-20 mg 4-6 hourly plus as needed",
+    "0.5-1 mg 4-6 hourly plus as needed",
+    "20-40 mg twice daily",
+    "2-5 mg 4-6 hourly plus as needed"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#cfc6bd",
+   "kind": "mcq",
+   "stem": "What is a common as-needed subcutaneous fentanyl dose?",
+   "options": [
+    "100 mcg 4 hourly as needed",
+    "25 mcg 4 hourly as needed",
+    "5 mg 4 hourly as needed",
+    "250 mcg 2 hourly as needed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#06d9e3",
+   "kind": "mcq",
+   "stem": "In persistent severe chronic pain, what OMED over what time defines opioid tolerance?",
+   "options": [
+    "At least 10 mg/day for more than 24 hours",
+    "At least 60 mg/day for more than 7 days",
+    "At least 30 mg/day for more than 72 hours",
+    "Any dose for more than 48 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#b8d500",
+   "kind": "mcq",
+   "stem": "When switching an opioid to a transdermal patch, how long should the previous analgesia continue?",
+   "options": [
+    "6 hours",
+    "12 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#c991cc",
+   "kind": "mcq",
+   "stem": "For breakthrough dosing with an immediate-release opioid, how often is a 1/10th dose given?",
+   "options": [
+    "Every 6 hours",
+    "Every 2 hours",
+    "Every 8 hours",
+    "Every 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#baeaa0",
+   "kind": "mcq",
+   "stem": "Before increasing a transdermal patch strength, what must be completed first?",
+   "options": [
+    "1x 24 hour application",
+    "2x 72 hour applications",
+    "1x 72 hour application",
+    "3x 72 hour applications"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#3365c5",
+   "kind": "mcq",
+   "stem": "What is the usual IV ondansetron dose for opioid-related nausea?",
+   "options": [
+    "4-8 mg 4 hourly",
+    "4-8 mg 8 hourly",
+    "40-80 mg 8 hourly",
+    "1-2 mg 12 hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#cafdaf",
+   "kind": "mcq",
+   "stem": "What is the usual IV metoclopramide dose for opioid-related nausea?",
+   "options": [
+    "100 mg 6-8 hourly",
+    "10 mg 6-8 hourly",
+    "1 mg 6-8 hourly",
+    "10 mg 2 hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#3edb29",
+   "kind": "statement",
+   "stem": "For a patient with previous severe opioid nausea, what antiemetic approach is advised at the start?",
+   "answer": "Regular dosing of at least one agent for the first 24 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#6075d7",
+   "kind": "mcq",
+   "stem": "What is the opioid adverse effect of itching called?",
+   "options": [
+    "Urticaria",
+    "Pruritus",
+    "Hyperhidrosis",
+    "Paraesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#a3a47c",
+   "kind": "mcq",
+   "stem": "What is a usual oral chlorpheniramine dose for opioid-induced itching?",
+   "options": [
+    "4 mg 12 hourly",
+    "40 mg 6 hourly",
+    "0.4 mg 6 hourly",
+    "4 mg 6 hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#f3f75a",
+   "kind": "mcq",
+   "stem": "What is the IM promethazine dose for opioid-induced itching?",
+   "options": [
+    "25 mg 2 to 4 hourly",
+    "50 mg 6 to 12 hourly",
+    "2.5 mg 6 to 12 hourly",
+    "25 mg 6 to 12 hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#87637d",
+   "kind": "statement",
+   "stem": "What is the golden rule when switching between opioids?",
+   "answer": "Always convert to oral morphine first",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#14e30b",
+   "kind": "mcq",
+   "stem": "What factor converts oral codeine to oral morphine equivalents?",
+   "options": [
+    "0.3",
+    "0.5",
+    "0.13",
+    "1.5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#3501d1",
+   "kind": "mcq",
+   "stem": "What factor converts oral tramadol to oral morphine equivalents?",
+   "options": [
+    "0.5",
+    "0.1",
+    "0.2",
+    "0.3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#bc73f8",
+   "kind": "mcq",
+   "stem": "What factor converts oral oxycodone to oral morphine equivalents?",
+   "options": [
+    "0.5",
+    "1.5",
+    "0.15",
+    "3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#979f72",
+   "kind": "mcq",
+   "stem": "What factor converts IV tramadol to oral morphine equivalents?",
+   "options": [
+    "0.1",
+    "0.3",
+    "1.5",
+    "0.2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#66f8a1",
+   "kind": "mcq",
+   "stem": "What factor converts IV pethidine to oral morphine equivalents?",
+   "options": [
+    "0.04",
+    "0.8",
+    "0.1",
+    "0.4"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#b18f2b",
+   "kind": "mcq",
+   "stem": "What factor converts IV morphine to oral morphine equivalents?",
+   "options": [
+    "1",
+    "0.5",
+    "3",
+    "10"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#43a3c0",
+   "kind": "mcq",
+   "stem": "What factor converts IV oxycodone to oral morphine equivalents?",
+   "options": [
+    "1.5",
+    "0.5",
+    "3",
+    "10"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#2520ec",
+   "kind": "mcq",
+   "stem": "What number multiplies an IV fentanyl dose in mg to give oral morphine in mg?",
+   "options": [
+    "100",
+    "300",
+    "500",
+    "1000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#64cad0",
+   "kind": "mcq",
+   "stem": "For chronic IV fentanyl use, the morphine conversion factor is closer to what range?",
+   "options": [
+    "10-20",
+    "50-80",
+    "300-400",
+    "120-200"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#4d5ffc",
+   "kind": "mcq",
+   "stem": "In a common palliative oral morphine order, how often is the regular dose given?",
+   "options": [
+    "Every 12 hours",
+    "Every 4 hours",
+    "Every 8 hours",
+    "Every 1 hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#4d5ffc",
+   "kind": "statement",
+   "stem": "In a common palliative oral morphine order, how do regular and as-needed doses compare?",
+   "answer": "They can be the same dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#bf5e5d",
+   "kind": "statement",
+   "stem": "How big is an immediate-release breakthrough dose relative to total daily opioid use?",
+   "answer": "1/6th or 10-20% of the total daily dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#15a420",
+   "kind": "mcq",
+   "stem": "About how much fentanyl per day (transdermal or IV) equals 100 mg oral morphine per day?",
+   "options": [
+    "0.1 mg (100 mcg)",
+    "1 mg (1000 mcg)",
+    "10 mg (10000 mcg)",
+    "0.5 mg (500 mcg)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#2b96b3",
+   "kind": "mcq",
+   "stem": "Which fentanyl patch strength is about equal to 60 mg oral morphine per day?",
+   "options": [
+    "12 mcg/h",
+    "50 mcg/h",
+    "25 mcg/h",
+    "100 mcg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#1b4f81",
+   "kind": "mcq",
+   "stem": "Roughly how much oral morphine per day equals a 12 mcg/h fentanyl patch?",
+   "options": [
+    "60 - 130 mg",
+    "30 - 60 mg",
+    "130 - 220 mg",
+    "5 - 10 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#7ecd60",
+   "kind": "mcq",
+   "stem": "Roughly how much oral morphine per day equals a 25 mcg/h fentanyl patch?",
+   "options": [
+    "30 - 60 mg",
+    "130 - 220 mg",
+    "60 - 130 mg",
+    "220 - 300 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#4be074",
+   "kind": "mcq",
+   "stem": "Roughly how much oral morphine per day equals a 50 mcg/h fentanyl patch?",
+   "options": [
+    "220 - 300 mg",
+    "60 - 130 mg",
+    "300 - 400 mg",
+    "130 - 220 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#a389ab",
+   "kind": "mcq",
+   "stem": "What is the quick multiplier from a fentanyl patch (mcg/h) to oral morphine (mg/day)?",
+   "options": [
+    "2",
+    "4",
+    "10",
+    "3"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#765d5a",
+   "kind": "mcq",
+   "stem": "Roughly how much oral morphine per day equals a 5 mcg/h buprenorphine patch?",
+   "options": [
+    "18-28 mg",
+    "9-14 mg",
+    "36-56 mg",
+    "5-9 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#10aa88",
+   "kind": "mcq",
+   "stem": "Roughly how much oral morphine per day equals a 10 mcg/h buprenorphine patch?",
+   "options": [
+    "9-14 mg",
+    "36-56 mg",
+    "18-28 mg",
+    "1-3 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioid-conversion#ff33be",
+   "kind": "mcq",
+   "stem": "What is the quick multiplier from a buprenorphine patch (mcg/h) to oral morphine (mg/day)?",
+   "options": [
+    "3",
+    "4",
+    "2",
+    "5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

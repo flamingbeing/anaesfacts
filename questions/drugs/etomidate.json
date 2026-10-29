@@ -1,0 +1,351 @@
+{
+ "topic": "drugs/etomidate",
+ "questions": [
+  {
+   "fact_id": "drugs/etomidate#ed5f44",
+   "kind": "mcq",
+   "stem": "What is the usual IV induction dose range of etomidate?",
+   "options": [
+    "0.5-1mg/kg",
+    "1-2mg/kg",
+    "0.2-0.3mg/kg",
+    "2-3mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#7cfd75",
+   "kind": "mcq",
+   "stem": "What is the usual etomidate induction dose for a 70kg adult?",
+   "options": [
+    "5mg",
+    "70mg",
+    "100mg",
+    "20mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#6abf92",
+   "kind": "mcq",
+   "stem": "What wider induction range for etomidate do some other sources give?",
+   "options": [
+    "0.5-1mg/kg",
+    "0.2-0.5mg/kg",
+    "1-2mg/kg",
+    "0.05-0.1mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#5217ac",
+   "kind": "mcq",
+   "stem": "What is the onset time of etomidate after IV injection?",
+   "options": [
+    "2-3 minutes",
+    "30-45 seconds",
+    "5-10 minutes",
+    "10-15 seconds"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#641a3d",
+   "kind": "mcq",
+   "stem": "What is the typical duration of action of etomidate?",
+   "options": [
+    "1-2min",
+    "30-60min",
+    "5-10min",
+    "2-3 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#7dfc61",
+   "kind": "mcq",
+   "stem": "What chemical class is the induction agent etomidate?",
+   "options": [
+    "Phenol derivative",
+    "Barbiturate",
+    "Imidazole ester",
+    "Benzodiazepine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#173753",
+   "kind": "mcq",
+   "stem": "What is the mechanism of action of etomidate?",
+   "options": [
+    "Blocks NMDA receptors",
+    "Inhibits acetylcholinesterase",
+    "Blocks cardiac sodium channels",
+    "Enhances GABA transmission"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#6bde80",
+   "kind": "mcq",
+   "stem": "How does etomidate compare with other common IV induction agents for cardiovascular effects?",
+   "options": [
+    "Greatest hypotension of the common agents",
+    "Marked tachycardia on induction",
+    "Strong myocardial depression on induction",
+    "Least cardiovascular disturbance of the common agents"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#92bc7f",
+   "kind": "mcq",
+   "stem": "How does etomidate affect breathing compared with other IV induction agents?",
+   "options": [
+    "Greater respiratory depression",
+    "Less respiratory depression",
+    "Marked apnoea in most patients",
+    "Strong respiratory stimulation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#dd9052",
+   "kind": "mcq",
+   "stem": "Which CNS effect of etomidate matters when it is used before ECT?",
+   "options": [
+    "Raises the seizure threshold",
+    "May lower the seizure threshold",
+    "Abolishes seizure activity completely",
+    "Shortens seizure duration in ECT"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#0b09ac",
+   "kind": "mcq",
+   "stem": "What is the approximate incidence of myoclonus after etomidate induction?",
+   "options": [
+    "5%",
+    "20%",
+    "50%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#1c15b4",
+   "kind": "mcq",
+   "stem": "What is the maximum reported incidence of pain on etomidate injection?",
+   "options": [
+    "5%",
+    "10%",
+    "25%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#c31ac5",
+   "kind": "mcq",
+   "stem": "Which endocrine adverse effect does etomidate cause?",
+   "options": [
+    "Thyroid storm",
+    "Transient adrenal suppression",
+    "Prolonged hyperglycaemia",
+    "Hypothyroidism"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#190552",
+   "kind": "statement",
+   "stem": "Which two enzymes does etomidate inhibit, blocking cortisol and aldosterone synthesis?",
+   "answer": "11β-hydroxylase and 17α-hydroxylase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#d33783",
+   "kind": "mcq",
+   "stem": "What serious risk does etomidate carry in patients with porphyria?",
+   "options": [
+    "Prevents porphyric attacks",
+    "Precipitates a porphyric crisis",
+    "Causes severe bronchospasm",
+    "Causes dangerous hyperkalaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#971e08",
+   "kind": "mcq",
+   "stem": "In which condition should etomidate generally be avoided, because of adrenal suppression?",
+   "options": [
+    "Asthma",
+    "Epilepsy",
+    "Sepsis",
+    "Hypothermia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#f857ec",
+   "kind": "mcq",
+   "stem": "Etomidate is favoured for induction in which patients?",
+   "options": [
+    "Patients with severe asthma",
+    "Patients with sepsis",
+    "Haemodynamically unstable patients",
+    "Patients with acute porphyria"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#62f16c",
+   "kind": "mcq",
+   "stem": "What percentage of etomidate is bound to albumin?",
+   "options": [
+    "25%",
+    "50%",
+    "75%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#dac92b",
+   "kind": "statement",
+   "stem": "How does the effect of etomidate end?",
+   "answer": "Rapid redistribution to tissues and rapid hepatic metabolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#be7979",
+   "kind": "statement",
+   "stem": "How is etomidate eliminated from the body?",
+   "answer": "Hepatic metabolism and renal excretion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#3afa7d",
+   "kind": "mcq",
+   "stem": "Does renal or hepatic disease change the pharmacokinetics of etomidate?",
+   "options": [
+    "Prolonged in renal disease only",
+    "Markedly prolonged in hepatic disease",
+    "Shortened in renal disease",
+    "Not altered in renal or hepatic disease"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#3dc232",
+   "kind": "mcq",
+   "stem": "In which regions is etomidate reported as withdrawn?",
+   "options": [
+    "Europe and Asia",
+    "Japan and China",
+    "Africa and South America",
+    "North America and Australia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#b0390b",
+   "kind": "mcq",
+   "stem": "Which excipient, at 35% v/v, is in the aqueous etomidate solution?",
+   "options": [
+    "Ethanol",
+    "Soya oil",
+    "Propylene glycol",
+    "Glycerol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#959bde",
+   "kind": "mcq",
+   "stem": "Which lipid emulsion brand of etomidate is available?",
+   "options": [
+    "Intralipid",
+    "Diprivan",
+    "Lipuro",
+    "Cremophor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#4e512f",
+   "kind": "mcq",
+   "stem": "What is the concentration of the etomidate ampoule containing 20mg in 10ml?",
+   "options": [
+    "1mg/ml",
+    "2mg/ml",
+    "4mg/ml",
+    "10mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etomidate#4e512f",
+   "kind": "mcq",
+   "stem": "How is the etomidate ampoule given IV?",
+   "options": [
+    "Diluted 1 in 10 in saline",
+    "Diluted in 5% glucose",
+    "Mixed with an equal volume of saline",
+    "Given neat"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

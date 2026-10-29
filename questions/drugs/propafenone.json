@@ -1,0 +1,187 @@
+{
+ "topic": "drugs/propafenone",
+ "questions": [
+  {
+   "fact_id": "drugs/propafenone#f7f4ea",
+   "kind": "statement",
+   "stem": "Which propafenone formulation is available in the UK?",
+   "answer": "Film-coated tablets only",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#2a3433",
+   "kind": "mcq",
+   "stem": "What is the initial oral dose of propafenone?",
+   "options": [
+    "150–300 mg",
+    "50–100 mg",
+    "600–900 mg",
+    "1–2 g"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#2a3433",
+   "kind": "mcq",
+   "stem": "What is the oral dose of propafenone after the initial dose?",
+   "options": [
+    "600–900 mg twice daily",
+    "50–100 mg once daily",
+    "150–300 mg twice or three times daily",
+    "300–600 mg once daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#755bb0",
+   "kind": "mcq",
+   "stem": "What IV propafenone dose is used, though not marketed in the UK?",
+   "options": [
+    "10–20 mg/kg",
+    "1–2 mg/kg",
+    "0.1–0.2 mg/kg",
+    "50–100 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#b540c2",
+   "kind": "statement",
+   "stem": "How does propafenone act on fast sodium influx in cardiac tissue?",
+   "answer": "Blocks fast Na+ influx, prolonging phase 0",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#e6c0af",
+   "kind": "statement",
+   "stem": "Where does propafenone mainly prolong action potential duration and refractory period?",
+   "answer": "Mostly in conducting tissue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#5b2999",
+   "kind": "statement",
+   "stem": "What happens to the ventricular fibrillation threshold with propafenone?",
+   "answer": "It is raised, so excitability falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#9275b2",
+   "kind": "statement",
+   "stem": "Why is propafenone used cautiously in heart failure?",
+   "answer": "Its weak beta-blockade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#91d6d1",
+   "kind": "mcq",
+   "stem": "Propafenone raises plasma levels of which two drugs?",
+   "options": [
+    "Insulin and metformin",
+    "Digoxin and warfarin",
+    "Lithium and heparin",
+    "Morphine and midazolam"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#e58372",
+   "kind": "mcq",
+   "stem": "What is propafenone's place in treating supraventricular tachycardia?",
+   "options": [
+    "First-line for all SVT",
+    "Only for ventricular arrhythmias",
+    "Second-line for resistant SVT, including atrial fibrillation and flutter",
+    "Contraindicated in SVT"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#01f256",
+   "kind": "mcq",
+   "stem": "Apart from SVT, which arrhythmias is propafenone indicated for?",
+   "options": [
+    "Bradyarrhythmias",
+    "Heart block",
+    "Ventricular tachyarrhythmias",
+    "Asystole"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#843690",
+   "kind": "mcq",
+   "stem": "What is propafenone's initial oral bioavailability?",
+   "options": [
+    "10%",
+    "25%",
+    "75%",
+    "50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#da629b",
+   "kind": "statement",
+   "stem": "Why does propafenone's oral bioavailability rise with dose?",
+   "answer": "First-pass enzymes saturate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#bd117b",
+   "kind": "mcq",
+   "stem": "How highly is propafenone protein bound?",
+   "options": [
+    "Less than 50%",
+    "More than 95%",
+    "About 30%",
+    "About 10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#451c96",
+   "kind": "mcq",
+   "stem": "How is propafenone mainly eliminated?",
+   "options": [
+    "Pulmonary exhalation",
+    "Hepatic metabolism",
+    "Plasma cholinesterase breakdown",
+    "Spontaneous plasma hydrolysis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propafenone#a2c301",
+   "kind": "statement",
+   "stem": "What causes variable propafenone response between patients?",
+   "answer": "Genetic polymorphism of its metabolising enzyme",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,335 @@
+{
+ "topic": "drugs/noradrenaline",
+ "questions": [
+  {
+   "fact_id": "drugs/noradrenaline#d4e03c",
+   "kind": "mcq",
+   "stem": "What is the strength of the standard noradrenaline (Levophed) clear solution?",
+   "options": [
+    "2 mg/ml",
+    "1 mg/ml",
+    "4 mg/ml",
+    "5 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#4ed7ff",
+   "kind": "mcq",
+   "stem": "What is the concentration of noradrenaline when 4 mg is diluted in 50 ml D5?",
+   "options": [
+    "0.02 mg/ml",
+    "0.08 mg/ml",
+    "0.16 mg/ml",
+    "0.8 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#4ed7ff",
+   "kind": "mcq",
+   "stem": "Which noradrenaline amount in 50 ml D5 is the usual double strength?",
+   "options": [
+    "2 mg",
+    "8 mg",
+    "4 mg",
+    "1 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#0c5bce",
+   "kind": "statement",
+   "stem": "Why should noradrenaline not be mixed with sodium bicarbonate?",
+   "answer": "Its oxidation speeds up at pH above 5.5-6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#b74719",
+   "kind": "mcq",
+   "stem": "How long is noradrenaline at usual clinical concentrations stable in D5W or NS at room temperature?",
+   "options": [
+    "24 hours",
+    "14 days",
+    "30 days",
+    "seven days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#1e1d2e",
+   "kind": "mcq",
+   "stem": "If noradrenaline leaks out of the cannula into surrounding tissue, what can it cause?",
+   "options": [
+    "Bone marrow suppression",
+    "Hyperkalaemia",
+    "Tissue necrosis",
+    "Pancreatitis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#c2104d",
+   "kind": "mcq",
+   "stem": "What noradrenaline infusion range, in mcg/kg/min, does the Peck and Hill reference give?",
+   "options": [
+    "0.5–5 mcg/kg/min",
+    "0.05–0.5 mcg/kg/min",
+    "5–50 mcg/kg/min",
+    "0.005–0.05 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#007c8b",
+   "kind": "statement",
+   "stem": "Noradrenaline acts on which adrenergic receptors, and which type predominates?",
+   "answer": "Alpha and beta agonist; alpha predominant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#f4d491",
+   "kind": "statement",
+   "stem": "How does noradrenaline mainly raise blood pressure?",
+   "answer": "By increasing SVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#d7dc70",
+   "kind": "statement",
+   "stem": "Why can noradrenaline lower cardiac output even as blood pressure rises?",
+   "answer": "Baroreceptor reflex bradycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#7abdaf",
+   "kind": "statement",
+   "stem": "Does infused noradrenaline act exactly like noradrenaline released at nerve endings?",
+   "answer": "No, it acts a little differently",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#50c03c",
+   "kind": "mcq",
+   "stem": "Which receptor mainly drives noradrenaline's vasoconstriction and cardiovascular effect?",
+   "options": [
+    "Beta-2",
+    "Alpha-1",
+    "Dopamine D1",
+    "Muscarinic M2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#4494c5",
+   "kind": "mcq",
+   "stem": "Which receptor does noradrenaline affect first at very low infusion doses?",
+   "options": [
+    "Alpha-1",
+    "Beta-2",
+    "Beta-1",
+    "Alpha-2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#358404",
+   "kind": "mcq",
+   "stem": "What can noradrenaline do to pulmonary vascular resistance (PVR)?",
+   "options": [
+    "Always falls",
+    "May increase",
+    "Stays unchanged",
+    "Falls to zero"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#287bfc",
+   "kind": "mcq",
+   "stem": "What does noradrenaline do to renal and hepatic blood flow?",
+   "options": [
+    "They rise",
+    "They fall",
+    "They are unchanged",
+    "They double"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#dec9a9",
+   "kind": "mcq",
+   "stem": "What does noradrenaline do to blood vessels in the skin?",
+   "options": [
+    "Vasodilatation",
+    "No change",
+    "Vasoconstriction",
+    "Bronchodilatation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#400172",
+   "kind": "mcq",
+   "stem": "Excess noradrenaline-induced peripheral vasoconstriction can cause what in the extremities?",
+   "options": [
+    "Oedema or urticaria",
+    "Ischaemia or gangrene",
+    "Bradycardia or syncope",
+    "Tremor or seizures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#9eceff",
+   "kind": "statement",
+   "stem": "What direct heart-muscle injury can prolonged noradrenaline infusion cause?",
+   "answer": "Myocyte apoptosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#9eceff",
+   "kind": "mcq",
+   "stem": "Which kinase activation mediates noradrenaline-induced myocyte apoptosis on prolonged infusion?",
+   "options": [
+    "Protein kinase C",
+    "Tyrosine kinase",
+    "Protein kinase A",
+    "Cyclin-dependent kinase"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#150bbf",
+   "kind": "mcq",
+   "stem": "What possible fetal effect does noradrenaline carry in pregnancy, alongside less uterine blood flow?",
+   "options": [
+    "Fetal tachycardia",
+    "Fetal bradycardia",
+    "Fetal hypoglycaemia",
+    "Fetal hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#a61981",
+   "kind": "mcq",
+   "stem": "Noradrenaline is direct-acting, so why use caution in patients taking an MAOI?",
+   "options": [
+    "Its effects are completely blocked",
+    "Its dose must be halved",
+    "Its effects may be exaggerated and prolonged",
+    "It converts to an indirect agent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#139bd0",
+   "kind": "mcq",
+   "stem": "Which vasopressor is first-line in septic shock?",
+   "options": [
+    "Dopamine",
+    "Vasopressin",
+    "Adrenaline",
+    "Noradrenaline"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#f5f809",
+   "kind": "statement",
+   "stem": "What is the main route by which released noradrenaline is inactivated?",
+   "answer": "Uptake 1, reuptake into the nerve terminal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#8588b2",
+   "kind": "mcq",
+   "stem": "Which enzyme breaks down noradrenaline that has diffused into the circulation (uptake 2)?",
+   "options": [
+    "Plasma cholinesterase",
+    "Acetylcholinesterase",
+    "COMT",
+    "Alcohol dehydrogenase"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#8588b2",
+   "kind": "statement",
+   "stem": "Name the two inactive metabolites that COMT forms from noradrenaline.",
+   "answer": "VMA and normetadrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#b47e01",
+   "kind": "mcq",
+   "stem": "What is the approximate half-life of noradrenaline?",
+   "options": [
+    "2 hours",
+    "20 minutes",
+    "2 seconds",
+    "2 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/noradrenaline#90f2d6",
+   "kind": "mcq",
+   "stem": "What share of noradrenaline is taken up by the lungs in one pass?",
+   "options": [
+    "Up to 5%",
+    "Up to 50%",
+    "Up to 25%",
+    "Up to 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

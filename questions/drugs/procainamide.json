@@ -1,0 +1,225 @@
+{
+ "topic": "drugs/procainamide",
+ "questions": [
+  {
+   "fact_id": "drugs/procainamide#d6ff58",
+   "kind": "mcq",
+   "stem": "Which routes is procainamide given by?",
+   "options": [
+    "IV or intrathecal",
+    "Oral or IV",
+    "Sublingual or IV",
+    "Oral or subcutaneous"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#a3a55d",
+   "kind": "statement",
+   "stem": "What should follow an IV procainamide infusion?",
+   "answer": "Switch to oral therapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#e89ca5",
+   "kind": "mcq",
+   "stem": "What is the maximum oral procainamide dose per day?",
+   "options": [
+    "5 mg/kg/day in divided doses",
+    "50 mg/kg/day in divided doses",
+    "10 mg/kg/day in divided doses",
+    "500 mg/kg/day in divided doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#a74a45",
+   "kind": "mcq",
+   "stem": "What IV dose of procainamide is given slowly as a loading dose?",
+   "options": [
+    "50 mg",
+    "250 mg",
+    "100 mg",
+    "500 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#a74a45",
+   "kind": "mcq",
+   "stem": "What is the maximum IV loading dose of procainamide?",
+   "options": [
+    "500 mg",
+    "2 g",
+    "1 g",
+    "5 g"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#ea6a17",
+   "kind": "mcq",
+   "stem": "What is the procainamide infusion rate after the IV loading dose?",
+   "options": [
+    "20–50 mg/min",
+    "0.2–0.6 mg/min",
+    "2–6 mg/min",
+    "10–12 mg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#8ff831",
+   "kind": "mcq",
+   "stem": "What infusion rate of procainamide is used to terminate atrial fibrillation?",
+   "options": [
+    "2-6 mg/min",
+    "100-150 mg/min",
+    "20-50 mg/min",
+    "1-2 mg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#b4d93a",
+   "kind": "statement",
+   "stem": "What is the mechanism of procainamide as a class Ia antiarrhythmic?",
+   "answer": "Blocks Na+ channels, slowing the rate of rise of phase 0",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#24a450",
+   "kind": "statement",
+   "stem": "What does procainamide do to the refractory period, and to action potential duration?",
+   "answer": "Lengthens refractory period without changing action potential duration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#80bfa6",
+   "kind": "mcq",
+   "stem": "How does procainamide's antivagal effect compare with quinidine's?",
+   "options": [
+    "More than quinidine",
+    "Not at all",
+    "Less than quinidine",
+    "Equal to quinidine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#d42eae",
+   "kind": "mcq",
+   "stem": "What proportion of long-term procainamide users develop drug-induced lupus with positive antinuclear antibodies?",
+   "options": [
+    "2–3%",
+    "5–10%",
+    "20–30%",
+    "50–60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#46e4ef",
+   "kind": "mcq",
+   "stem": "Which arrhythmias is procainamide indicated for?",
+   "options": [
+    "Bradycardia and heart block",
+    "SVT and ventricular tachyarrhythmias",
+    "Cardiac arrest only",
+    "Hypotension in sepsis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#945b06",
+   "kind": "mcq",
+   "stem": "For terminating ventricular tachycardia, how does procainamide compare with lidocaine?",
+   "options": [
+    "More effective than lidocaine",
+    "Less effective than lidocaine",
+    "Ineffective, unlike lidocaine",
+    "As effective as lidocaine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#2fd184",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of procainamide?",
+   "options": [
+    "25%",
+    "50%",
+    "100%",
+    "75%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#9e5b2b",
+   "kind": "mcq",
+   "stem": "What is the half-life of procainamide?",
+   "options": [
+    "30 minutes",
+    "3 hours",
+    "12 hours",
+    "24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#352ee5",
+   "kind": "mcq",
+   "stem": "Which is the active metabolite of procainamide?",
+   "options": [
+    "Quinidine",
+    "Sotalol",
+    "N-acetyl procainamide",
+    "Glycinexylidide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/procainamide#4bdf5d",
+   "kind": "mcq",
+   "stem": "Which acetylator type gets more procainamide side effects?",
+   "options": [
+    "Fast acetylators",
+    "Patients on digoxin",
+    "Slow acetylators",
+    "Patients on warfarin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

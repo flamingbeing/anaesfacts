@@ -1,0 +1,257 @@
+{
+ "topic": "drugs/paediatric-opioids",
+ "questions": [
+  {
+   "fact_id": "drugs/paediatric-opioids#7193c8",
+   "kind": "statement",
+   "stem": "What is the pharmacokinetic difference for morphine in neonates?",
+   "answer": "Lower clearance and longer half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#f8c787",
+   "kind": "mcq",
+   "stem": "What is the intraoperative IV morphine dose in a child?",
+   "options": [
+    "25-50 mcg/kg",
+    "100-150 mcg/kg",
+    "300-400 mcg/kg",
+    "5-10 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#f8c787",
+   "kind": "mcq",
+   "stem": "What is the intraoperative IV morphine dose in a child under 3 months?",
+   "options": [
+    "0.5-1 mcg/kg",
+    "25-50 mcg/kg",
+    "100-150 mcg/kg",
+    "1-2 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#25b0ae",
+   "kind": "mcq",
+   "stem": "What is the postoperative morphine infusion rate in a child?",
+   "options": [
+    "1-2 mcg/kg/hour",
+    "10-40 mcg/kg/hour",
+    "30-60 mcg/kg/hour",
+    "2-4 mcg/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#25b0ae",
+   "kind": "mcq",
+   "stem": "What is the postoperative morphine infusion rate in a child under 3 months?",
+   "options": [
+    "10-40 mcg/kg/hour",
+    "1-2 mcg/kg/hour",
+    "5-20 mcg/kg/hour",
+    "30-60 mcg/kg/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#25a1f9",
+   "kind": "mcq",
+   "stem": "What is the morphine PCA bolus dose in children?",
+   "options": [
+    "5 mcg/kg",
+    "20 mcg/kg",
+    "100 mcg/kg",
+    "150 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#1bd7c2",
+   "kind": "mcq",
+   "stem": "What is the oral morphine dose in a child?",
+   "options": [
+    "100-150 mcg/kg 2-4-hourly",
+    "200-300 mcg/kg 2-4-hourly",
+    "25-50 mcg/kg 2-4-hourly",
+    "400-500 mcg/kg 2-4-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#1bd7c2",
+   "kind": "mcq",
+   "stem": "What is the maximum oral morphine dose for a child?",
+   "options": [
+    "5 mg",
+    "10 mg",
+    "15 mg",
+    "30 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#81f2bd",
+   "kind": "statement",
+   "stem": "In place of what drug is fentanyl an intraoperative alternative in children?",
+   "answer": "Morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#4c1825",
+   "kind": "statement",
+   "stem": "How commonly is fentanyl used IV or orally after paediatric surgery?",
+   "answer": "Rarely",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#670076",
+   "kind": "blank",
+   "stem": "Fentanyl is a common ____ to local anaesthetic for epidural infusion in children.",
+   "answer": "additive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#8fbb4d",
+   "kind": "mcq",
+   "stem": "What is the intraoperative IV fentanyl dose in a child?",
+   "options": [
+    "0.5-1 mcg/kg IV",
+    "2-4 mcg/kg IV",
+    "25-50 mcg/kg IV",
+    "10-20 mcg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#8fbb4d",
+   "kind": "mcq",
+   "stem": "What is the intraoperative IV fentanyl dose in a child under 3 months?",
+   "options": [
+    "0.5-1 mcg/kg IV",
+    "1-2 mcg/kg IV",
+    "2-4 mcg/kg IV",
+    "25-50 mcg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#3188f2",
+   "kind": "mcq",
+   "stem": "What is the intraoperative fentanyl infusion rate in a child?",
+   "options": [
+    "0.25-0.5 mcg/kg/minute",
+    "5-10 mcg/kg/hour",
+    "10-40 mcg/kg/hour",
+    "2-4 mcg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#3188f2",
+   "kind": "mcq",
+   "stem": "For intraoperative infusions in children, what has largely replaced fentanyl?",
+   "options": [
+    "Morphine",
+    "Ketamine",
+    "Remifentanil",
+    "Alfentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#5158cf",
+   "kind": "mcq",
+   "stem": "Which route is fentanyl used by as premedication in children?",
+   "options": [
+    "Intravenous",
+    "Rectal",
+    "Intranasal",
+    "Subcutaneous"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#203582",
+   "kind": "statement",
+   "stem": "How is remifentanil given intraoperatively in children?",
+   "answer": "Infusion, or a bolus to aid tracheal intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#02891c",
+   "kind": "blank",
+   "stem": "Remifentanil is broken down by plasma and tissue ____, so no glucuronidation is needed.",
+   "answer": "esterases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#564c91",
+   "kind": "mcq",
+   "stem": "What is the intraoperative remifentanil infusion rate in children?",
+   "options": [
+    "5-10 mcg/kg/hour",
+    "0.1-1 mcg/kg",
+    "0.25-0.5 mcg/kg/minute",
+    "2-4 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#30b693",
+   "kind": "mcq",
+   "stem": "What is the remifentanil bolus dose in children?",
+   "options": [
+    "0.25-0.5 mcg/kg/minute",
+    "0.1-1 mcg/kg",
+    "1-2 mcg/kg",
+    "10-20 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-opioids#30b693",
+   "kind": "statement",
+   "stem": "What two effects may a remifentanil bolus cause in children?",
+   "answer": "Bradycardia and muscle rigidity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

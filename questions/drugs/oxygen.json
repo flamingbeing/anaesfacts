@@ -1,0 +1,221 @@
+{
+ "topic": "drugs/oxygen",
+ "questions": [
+  {
+   "fact_id": "drugs/oxygen#d08450",
+   "kind": "mcq",
+   "stem": "What is the purity of medical grade oxygen?",
+   "options": [
+    "90-92%",
+    "95-96%",
+    "99-99.5%",
+    "99.9-99.99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#21b1c6",
+   "kind": "statement",
+   "stem": "How is medical oxygen made?",
+   "answer": "Fractional distillation of liquefied air, or by an oxygen concentrator",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#53f140",
+   "kind": "mcq",
+   "stem": "In an oxygen concentrator, what does the zeolite mesh adsorb?",
+   "options": [
+    "Carbon dioxide",
+    "Nitrogen (N2)",
+    "Water vapour",
+    "Argon"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#62bb72",
+   "kind": "statement",
+   "stem": "In what forms is hospital oxygen supplied?",
+   "answer": "Gas at room temperature and pressure, or refrigerated liquid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#c98a9e",
+   "kind": "mcq",
+   "stem": "How many banks of H cylinders make up a hospital gas oxygen supply on a manifold?",
+   "options": [
+    "1 bank",
+    "3 banks",
+    "2 banks",
+    "4 banks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#e433c2",
+   "kind": "mcq",
+   "stem": "On a hospital oxygen manifold with two H cylinder banks, how many banks are used at a time?",
+   "options": [
+    "Both banks together",
+    "Three banks together",
+    "Only 2 banks",
+    "Only 1 bank"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#53b51f",
+   "kind": "blank",
+   "stem": "Liquid oxygen is stored well below the critical temperature of ____.",
+   "answer": "-119°C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#f88c80",
+   "kind": "mcq",
+   "stem": "What is the capacity of the E oxygen cylinder used as local backup?",
+   "options": [
+    "340L",
+    "680L",
+    "1000L",
+    "5000L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#dc46b1",
+   "kind": "mcq",
+   "stem": "How is the remaining contents of an oxygen cylinder judged?",
+   "options": [
+    "By weighing the cylinder",
+    "By its colour alone",
+    "By pressure, which falls as gas is used",
+    "By counting remaining flow time"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#5ad9cf",
+   "kind": "mcq",
+   "stem": "An E oxygen cylinder reads 1000 psig; roughly how much oxygen remains?",
+   "options": [
+    "About 680L, full",
+    "About 330L, half full",
+    "About 170L, quarter full",
+    "About 1000L, full"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#8a54bf",
+   "kind": "statement",
+   "stem": "How does the Bourdon gauge on an oxygen cylinder move its pointer?",
+   "answer": "A flexible tube straightens under pressure and drives a gear",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#0f24ae",
+   "kind": "mcq",
+   "stem": "At what pressure does an E cylinder's pressure-relief valve rupture?",
+   "options": [
+    "2200 psig",
+    "3000 psig",
+    "3300 psig",
+    "5000 psig"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#6fd9bd",
+   "kind": "mcq",
+   "stem": "What does prolonged 100% oxygen do to cardiac output?",
+   "options": [
+    "Markedly increases it",
+    "Slightly lowers it",
+    "Has no effect on it",
+    "Doubles it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#bd317e",
+   "kind": "mcq",
+   "stem": "What causes oxygen toxicity?",
+   "options": [
+    "Free radicals",
+    "Carbon dioxide retention",
+    "Haemoglobin denaturation",
+    "Nitrogen narcosis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#97cd44",
+   "kind": "mcq",
+   "stem": "Above what oxygen partial pressure does CNS toxicity cause seizures?",
+   "options": [
+    "100 kPa",
+    "50 kPa",
+    "200 kPa",
+    "400 kPa"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#97cd44",
+   "kind": "statement",
+   "stem": "What CNS symptoms does oxygen toxicity cause?",
+   "answer": "Anxiety, nausea and seizures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#6a54ba",
+   "kind": "statement",
+   "stem": "What lung damage does oxygen toxicity cause?",
+   "answer": "Lipid peroxidation of the alveolar capillary membrane, with areas of collapse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxygen#695532",
+   "kind": "mcq",
+   "stem": "What eye complication can high oxygen cause in neonates?",
+   "options": [
+    "Cataract",
+    "Retrolental fibroplasia",
+    "Glaucoma",
+    "Retinal detachment"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

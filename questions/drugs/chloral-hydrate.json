@@ -1,0 +1,133 @@
+{
+ "topic": "drugs/chloral-hydrate",
+ "questions": [
+  {
+   "fact_id": "drugs/chloral-hydrate#3a5d0a",
+   "kind": "statement",
+   "stem": "What is the drawback of giving chloral hydrate by mouth?",
+   "answer": "Unpleasant taste",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#137893",
+   "kind": "mcq",
+   "stem": "What is the oral dose range of chloral hydrate?",
+   "options": [
+    "1-5 mg/kg",
+    "5-10 mg/kg",
+    "25-100 mg/kg",
+    "250-1000 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#60fee3",
+   "kind": "mcq",
+   "stem": "After how many minutes can a chloral hydrate dose be repeated?",
+   "options": [
+    "10 min",
+    "60 min",
+    "2 hours",
+    "30 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#60fee3",
+   "kind": "mcq",
+   "stem": "What repeat dose of chloral hydrate may be given after an initial dose?",
+   "options": [
+    "10-20 mg/kg",
+    "25-50 mg/kg",
+    "50-100 mg/kg",
+    "5-10 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#60fee3",
+   "kind": "statement",
+   "stem": "What total chloral hydrate dose must not be exceeded when repeating doses?",
+   "answer": "2 g or 100 mg/kg, whichever is less",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#8c2cee",
+   "kind": "mcq",
+   "stem": "What is a recognised adverse effect of chloral hydrate?",
+   "options": [
+    "Hepatic necrosis",
+    "Bone marrow suppression",
+    "Gastric irritation",
+    "Renal tubular damage"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#b344d8",
+   "kind": "mcq",
+   "stem": "What was chloral hydrate formerly used for?",
+   "options": [
+    "Long-term anxiety management",
+    "Induction of general anaesthesia",
+    "Chronic pain relief",
+    "Short-term insomnia; sedation before minor medical or dental procedures"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#6574af",
+   "kind": "mcq",
+   "stem": "What largely replaced chloral hydrate in the mid-20th century?",
+   "options": [
+    "Opioids",
+    "Ketamine",
+    "Propofol",
+    "Barbiturates"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#f4d3ee",
+   "kind": "mcq",
+   "stem": "What is the onset of chloral hydrate?",
+   "options": [
+    "5-10 min",
+    "15-20 min",
+    "45-60 min",
+    "2-4 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/chloral-hydrate#84f81a",
+   "kind": "mcq",
+   "stem": "What is the duration of action of chloral hydrate?",
+   "options": [
+    "20-30 min",
+    "4-6 hours",
+    "8-12 hours",
+    "60-120 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

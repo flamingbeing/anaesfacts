@@ -1,0 +1,899 @@
+{
+ "topic": "drugs/digoxin",
+ "questions": [
+  {
+   "fact_id": "drugs/digoxin#639215",
+   "kind": "mcq",
+   "stem": "What strength is digoxin elixir?",
+   "options": [
+    "100 mcg/ml",
+    "50 mcg/ml",
+    "250 mcg/ml",
+    "500 mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#639215",
+   "kind": "blank",
+   "stem": "Digoxin tablets come in strengths from 62.5 mcg up to ____ mcg.",
+   "answer": "250",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#f7543e",
+   "kind": "mcq",
+   "stem": "What concentration is digoxin IV solution?",
+   "options": [
+    "50 mcg/ml",
+    "100–250 mcg/ml",
+    "250–500 mcg/ml",
+    "1–2 mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#5c63b3",
+   "kind": "statement",
+   "stem": "Why is digoxin not recommended by intramuscular injection?",
+   "answer": "Unreliable absorption, painful, causes tissue necrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#67836d",
+   "kind": "statement",
+   "stem": "What is digitalisation called when no loading dose is given?",
+   "answer": "Slow digitalisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#96291d",
+   "kind": "mcq",
+   "stem": "In slow digitalisation, what daily digoxin maintenance dose should you start with?",
+   "options": [
+    "0.5–1 mg",
+    "0.125–0.25 mg",
+    "1–1.5 mg",
+    "2–4 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#ffdba4",
+   "kind": "mcq",
+   "stem": "After how many elimination half-lives does digoxin reach steady state, roughly?",
+   "options": [
+    "About one",
+    "About two",
+    "About five",
+    "About ten"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#ffdba4",
+   "kind": "mcq",
+   "stem": "How long does digoxin take to reach steady state?",
+   "options": [
+    "Roughly 1–2 days",
+    "Roughly 7–10 days",
+    "Roughly 3–4 weeks",
+    "Roughly 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#7940ed",
+   "kind": "mcq",
+   "stem": "In oral rapid digoxin loading, what follows the first 500 mcg dose?",
+   "options": [
+    "500 mcg every 6 h",
+    "250 mcg every 6 h",
+    "125 mcg every 12 h",
+    "250 mcg every 24 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#90886d",
+   "kind": "mcq",
+   "stem": "What is the onset of oral digoxin in rapid loading?",
+   "options": [
+    "5–10 min",
+    "2–8 h",
+    "30 min–2 h",
+    "6–12 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#d274ef",
+   "kind": "mcq",
+   "stem": "What total dose does IV rapid digoxin loading aim for?",
+   "options": [
+    "250–500 mcg",
+    "750–1500 mcg",
+    "2–3 mg",
+    "5–6 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#1003af",
+   "kind": "mcq",
+   "stem": "What is the onset of IV digoxin in rapid loading?",
+   "options": [
+    "1–2 h",
+    "5–10 min",
+    "15–30 min",
+    "6–12 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#70fc3c",
+   "kind": "mcq",
+   "stem": "In rapid digoxin loading, how soon is maximal effect reached?",
+   "options": [
+    "15–30 min",
+    "1–3 h",
+    "6–8 h",
+    "2–3 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#70fc3c",
+   "kind": "mcq",
+   "stem": "In rapid digoxin loading, when is digitalisation complete?",
+   "options": [
+    "Within 2 days",
+    "Within 1 week",
+    "Within 12 h",
+    "Within 48 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#70fc3c",
+   "kind": "mcq",
+   "stem": "In rapid digoxin loading, after what time is maintenance dosing needed?",
+   "options": [
+    "1–2 h",
+    "12–24 h",
+    "3–5 days",
+    "7–10 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#fe08b6",
+   "kind": "statement",
+   "stem": "What should be done about digoxin serum levels?",
+   "answer": "Measure them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#528ae2",
+   "kind": "statement",
+   "stem": "When after a digoxin dose should a serum level be sampled?",
+   "answer": "At least 6 h after a dose, ideally 12 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#6e7818",
+   "kind": "statement",
+   "stem": "When should digoxin levels be sampled in advanced kidney disease or haemodialysis?",
+   "answer": "At least 12–24 h after the previous dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#8bdb63",
+   "kind": "mcq",
+   "stem": "What is the usual daily oral digoxin maintenance dose range?",
+   "options": [
+    "250–500 mcg",
+    "62.5–250 mcg",
+    "0.5–1 mg",
+    "1–2 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#268739",
+   "kind": "mcq",
+   "stem": "What daily digoxin maintenance dose suits a patient under 70 with normal renal function?",
+   "options": [
+    "62.5 mcg daily",
+    "250 mcg daily",
+    "500 mcg daily",
+    "1 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#e0e9e1",
+   "kind": "mcq",
+   "stem": "What daily digoxin maintenance dose suits a patient over 70 or with renal dysfunction?",
+   "options": [
+    "250 mcg daily",
+    "500 mcg daily",
+    "1 mg daily",
+    "125 mcg daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#a5eeac",
+   "kind": "mcq",
+   "stem": "What daily digoxin maintenance dose suits a patient over 70 with renal dysfunction?",
+   "options": [
+    "250 mcg daily",
+    "62.5 mcg daily",
+    "500 mcg daily",
+    "1 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#f68a63",
+   "kind": "mcq",
+   "stem": "What is the duration of action of digoxin maintenance dosing?",
+   "options": [
+    "2–4 hours",
+    "2–4 days",
+    "2–4 weeks",
+    "10–14 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#3a5ad9",
+   "kind": "mcq",
+   "stem": "How long does a maintenance IV digoxin dose act for?",
+   "options": [
+    "6–12 hours",
+    "2–4 days",
+    "1–2 weeks",
+    "30–60 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#416001",
+   "kind": "statement",
+   "stem": "Which patient states mean a lower digoxin loading range should be used?",
+   "answer": "Hypokalaemic, hypomagnesaemic, hypercalcaemic, hypoxic or hypothyroid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#2e29e2",
+   "kind": "statement",
+   "stem": "What should be done to digoxin doses in renal failure?",
+   "answer": "Reduce doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#bb5f6d",
+   "kind": "mcq",
+   "stem": "By how much is the digoxin loading dose reduced in end-stage kidney disease?",
+   "options": [
+    "25%",
+    "50%",
+    "75%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#c5a36e",
+   "kind": "mcq",
+   "stem": "What digoxin maintenance dose is used in dialysis patients?",
+   "options": [
+    "62.5 mcg every 24 h",
+    "125 mcg every 48 h",
+    "62.5 mcg every 48 h",
+    "250 mcg every 48 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#c5a36e",
+   "kind": "mcq",
+   "stem": "What fraction of the normal-renal-function dose is used for dialysis patients?",
+   "options": [
+    "50–75 percent",
+    "1–5 percent",
+    "10–25 percent",
+    "90–100 percent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#e89c5c",
+   "kind": "mcq",
+   "stem": "For lean body weight 45–70 kg, what is the digoxin loading dose?",
+   "options": [
+    "Upper range, 1–1.5 mg",
+    "Lower range, 0.75–1 mg",
+    "Lower range, 0.5–0.75 mg",
+    "Upper range, 2–3 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#39d848",
+   "kind": "mcq",
+   "stem": "For lean body weight 71–90 kg, what is the digoxin loading dose?",
+   "options": [
+    "Lower range, 0.75–1 mg",
+    "Upper range, 1–1.5 mg",
+    "Upper range, 0.75–1 mg",
+    "Lower range, 1–1.5 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#75aa5f",
+   "kind": "mcq",
+   "stem": "For lean body weight under 45 kg, what is the digoxin loading dose?",
+   "options": [
+    "25 percent of the normal loading dose",
+    "50 percent of the normal loading dose",
+    "Double the normal loading dose",
+    "Same as the normal loading dose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#41b513",
+   "kind": "statement",
+   "stem": "In obesity, which body weight should digoxin loading doses be based on?",
+   "answer": "Ideal body weight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#e439bd",
+   "kind": "mcq",
+   "stem": "What is the therapeutic range of serum digoxin?",
+   "options": [
+    "2–5 mcg/l",
+    "0.1–0.5 mcg/l",
+    "0.5–2 mcg/l",
+    "5–10 mcg/l"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#9f0d5b",
+   "kind": "mcq",
+   "stem": "Which serum digoxin level may be optimal for outpatients?",
+   "options": [
+    "2–4 ng/ml",
+    "1–2 ng/ml",
+    "0.5–1 ng/ml",
+    "4–6 ng/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#768068",
+   "kind": "mcq",
+   "stem": "Which digoxin level may improve contractility in closely monitored ICU patients?",
+   "options": [
+    "0.5–1 ng/ml",
+    "3–4 ng/ml",
+    "1–2 ng/ml",
+    "5–6 ng/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#43c476",
+   "kind": "statement",
+   "stem": "What is digoxin's direct action on cardiac cells?",
+   "answer": "Inhibits cardiac Na+/K+ ATPase, so intracellular Na+ rises",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#5a81fb",
+   "kind": "statement",
+   "stem": "What does digoxin's altered resting membrane potential do to phase 4?",
+   "answer": "Prolongs phase 4 spontaneous depolarisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#bb20b7",
+   "kind": "statement",
+   "stem": "Why does digoxin raise free intracellular Ca2+?",
+   "answer": "Raised Na+ reduces sodium-calcium exchanger activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#8eb5c6",
+   "kind": "statement",
+   "stem": "How does digoxin act indirectly on the heart?",
+   "answer": "More acetylcholine release at cardiac muscarinic receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#e45fad",
+   "kind": "statement",
+   "stem": "In atrial fibrillation, how does digoxin raise cardiac output?",
+   "answer": "By slowing the AV node, lowering ventricular rate and lengthening filling time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#c7a673",
+   "kind": "statement",
+   "stem": "What happens to digoxin's cardiac output even as heart rate falls?",
+   "answer": "Stays the same or rises",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#3e595d",
+   "kind": "statement",
+   "stem": "What is the main hazard of digoxin's effect on the ventricles?",
+   "answer": "Ventricular excitability usually increases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#52e99e",
+   "kind": "mcq",
+   "stem": "What is digoxin's effect on a structurally normal heart?",
+   "options": [
+    "Marked positive inotropic effect",
+    "Severe bradycardia",
+    "Minimal activity",
+    "Strong vasodilatation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#a2e60f",
+   "kind": "statement",
+   "stem": "Digoxin has a low therapeutic ratio. What does this mean for its side effects?",
+   "answer": "Side effects are fairly common",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#cdb4a0",
+   "kind": "statement",
+   "stem": "Name the main cardiac adverse effects of digoxin.",
+   "answer": "Arrhythmias and conduction block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#4e040a",
+   "kind": "mcq",
+   "stem": "What does the 'digoxin effect' on an ECG indicate in a patient on digoxin?",
+   "options": [
+    "Digoxin toxicity is present",
+    "Hyperkalaemia is present",
+    "Patient is taking digoxin, not toxicity",
+    "Complete heart block is present"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#8ad090",
+   "kind": "statement",
+   "stem": "Name the gastrointestinal adverse effects of digoxin.",
+   "answer": "Anorexia, nausea and vomiting, abdominal pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#c08367",
+   "kind": "statement",
+   "stem": "Which neurological features are prominent in chronic digoxin toxicity?",
+   "answer": "Lethargy, fatigue, delirium, confusion, disorientation, weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#ce496e",
+   "kind": "mcq",
+   "stem": "Which visual disturbance is typical of digoxin toxicity?",
+   "options": [
+    "Blue–yellow colour perception loss",
+    "Night blindness",
+    "Abnormal red–green perception",
+    "Photophobia with halos"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#069592",
+   "kind": "mcq",
+   "stem": "Which breast-related adverse effect occurs with long-term digoxin use?",
+   "options": [
+    "Galactorrhoea",
+    "Gynaecomastia",
+    "Breast tissue atrophy",
+    "Mastalgia with amenorrhoea"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#2b1460",
+   "kind": "statement",
+   "stem": "Which skin reaction can digoxin rarely cause, sometimes with eosinophilia?",
+   "answer": "Rash",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#e879ba",
+   "kind": "mcq",
+   "stem": "At what serum digoxin level is toxicity associated?",
+   "options": [
+    "Above 0.2 mcg/l",
+    "Above 2.5 mcg/l",
+    "Above 25 mcg/l",
+    "Above 5 mcg/l"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#e879ba",
+   "kind": "mcq",
+   "stem": "Below what serum digoxin level are serious problems unusual?",
+   "options": [
+    "20 mcg/l",
+    "25 mcg/l",
+    "30 mcg/l",
+    "10 mcg/l"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#6b9357",
+   "kind": "mcq",
+   "stem": "Above what digoxin dose is poisoning invariably fatal without digoxin-specific Fab?",
+   "options": [
+    "More than 3 mg",
+    "More than 10 mg",
+    "More than 30 mg",
+    "More than 300 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#7eea6d",
+   "kind": "statement",
+   "stem": "In both acute and chronic digoxin toxicity, which effects matter most?",
+   "answer": "Cardiac effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#8b75fb",
+   "kind": "mcq",
+   "stem": "Which atrioventricular conduction disturbances can digoxin cause?",
+   "options": [
+    "Only complete AV block",
+    "Only sinus arrest",
+    "Only bundle branch block",
+    "Any AV block (1st, 2nd and 3rd degree)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#7b7c60",
+   "kind": "mcq",
+   "stem": "In AF on digoxin, which beats are common once the rate is controlled?",
+   "options": [
+    "Ventricular couplets",
+    "Atrial bigeminy",
+    "Junctional escape beats",
+    "Torsades de pointes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#23c938",
+   "kind": "statement",
+   "stem": "What commonly triggers digoxin toxicity in patients?",
+   "answer": "Acute illness (e.g. gastroenteritis with dehydration or acute kidney injury)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#09344f",
+   "kind": "statement",
+   "stem": "How does digoxin cause hyperkalaemia?",
+   "answer": "Na+/K+ ATPase block in heart and skeletal muscle raises extracellular potassium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#872994",
+   "kind": "mcq",
+   "stem": "In digoxin poisoning, Fab is indicated for a serum level above what?",
+   "options": [
+    "5 mcg/l",
+    "50 mcg/l",
+    "30 mcg/l",
+    "20 mcg/l"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#55af11",
+   "kind": "statement",
+   "stem": "Why should gastric lavage be used with caution in digoxin poisoning?",
+   "answer": "Extra vagal tone may cause bradycardia or arrest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#5248b4",
+   "kind": "mcq",
+   "stem": "Activated charcoal may help digoxin poisoning when given within what time?",
+   "options": [
+    "Within 6–8 h",
+    "Within 24–48 h",
+    "Within 1–2 h",
+    "Within 72 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#6ecee0",
+   "kind": "statement",
+   "stem": "In which ventricular rhythm problems is digoxin contraindicated?",
+   "answer": "Ventricular arrhythmias, ventricular ectopics or VT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#b32066",
+   "kind": "blank",
+   "stem": "Digoxin is contraindicated in AV block without a ____.",
+   "answer": "pacemaker",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#b09e0e",
+   "kind": "mcq",
+   "stem": "How long should digoxin be withheld before elective DC cardioversion?",
+   "options": [
+    "12 h",
+    "72 h",
+    "48 h",
+    "24 h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#b09e0e",
+   "kind": "statement",
+   "stem": "Why is digoxin withheld before elective DC cardioversion?",
+   "answer": "Toxic levels may cause severe ventricular arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#bf6aea",
+   "kind": "statement",
+   "stem": "How settled is myocardial infarction as a contraindication to digoxin?",
+   "answer": "Controversial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#678d50",
+   "kind": "mcq",
+   "stem": "Digoxin is contraindicated in which obstructive cardiomyopathy?",
+   "options": [
+    "Mitral regurgitation",
+    "Pericardial effusion",
+    "Atrial septal defect",
+    "HOCM"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#88a84d",
+   "kind": "mcq",
+   "stem": "Digoxin is contraindicated in which pre-excitation problem, especially pre-excited AF?",
+   "options": [
+    "Long QT syndrome",
+    "WPW or other accessory pathway",
+    "Brugada syndrome",
+    "Sick sinus syndrome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#e82b2f",
+   "kind": "statement",
+   "stem": "What is digoxin used for in AF and atrial flutter?",
+   "answer": "Rate control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#18fb0f",
+   "kind": "mcq",
+   "stem": "What is digoxin's oral bioavailability?",
+   "options": [
+    "25%",
+    "90%",
+    "75%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#18fb0f",
+   "kind": "statement",
+   "stem": "What affects how well digoxin is absorbed from the gut?",
+   "answer": "Formulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#a966c0",
+   "kind": "mcq",
+   "stem": "What percentage of digoxin is protein bound?",
+   "options": [
+    "10%",
+    "60%",
+    "90%",
+    "30%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#8f9b63",
+   "kind": "mcq",
+   "stem": "What is digoxin's volume of distribution?",
+   "options": [
+    "0.2 l/kg",
+    "2 l/kg",
+    "70 l/kg",
+    "7 l/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#3ab455",
+   "kind": "statement",
+   "stem": "How is digoxin mainly eliminated from the body?",
+   "answer": "Excreted mostly unchanged in urine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#d3eb06",
+   "kind": "mcq",
+   "stem": "What is digoxin's elimination half-life?",
+   "options": [
+    "About 12 h",
+    "About 36 h",
+    "About 3 h",
+    "About 96 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/digoxin#d3eb06",
+   "kind": "statement",
+   "stem": "How does renal failure change digoxin's elimination half-life?",
+   "answer": "Much longer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

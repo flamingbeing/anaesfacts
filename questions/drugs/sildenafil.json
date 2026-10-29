@@ -1,0 +1,155 @@
+{
+ "topic": "drugs/sildenafil",
+ "questions": [
+  {
+   "fact_id": "drugs/sildenafil#63755d",
+   "kind": "mcq",
+   "stem": "What is the sildenafil dose for pulmonary arterial hypertension?",
+   "options": [
+    "20 mg BD",
+    "20 mg TDS",
+    "50 mg TDS",
+    "5 mg TDS"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#12193b",
+   "kind": "mcq",
+   "stem": "Sildenafil is a potent, specific inhibitor of which enzyme?",
+   "options": [
+    "PDE3",
+    "PDE5",
+    "ACE",
+    "COX-2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#be3a1d",
+   "kind": "statement",
+   "stem": "What does raised cGMP do in the pulmonary arteries and corpus cavernosum?",
+   "answer": "Relaxes vascular smooth muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#dc1de8",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of sildenafil?",
+   "options": [
+    "4%",
+    "40%",
+    "75%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#6a949d",
+   "kind": "mcq",
+   "stem": "What percentage of sildenafil is protein bound?",
+   "options": [
+    "50%",
+    "70%",
+    "95%",
+    "20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#6a949d",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of sildenafil?",
+   "options": [
+    "10 litres",
+    "30 litres",
+    "500 litres",
+    "100 litres"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#ecc2a6",
+   "kind": "mcq",
+   "stem": "Which enzyme mainly metabolises sildenafil?",
+   "options": [
+    "CYP2E1",
+    "CYP2D6",
+    "CYP3A4",
+    "CYP1A2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#ecc2a6",
+   "kind": "mcq",
+   "stem": "How much of sildenafil's effect does its active N-demethylated metabolite give?",
+   "options": [
+    "About 5% of the effect",
+    "About 35% of the effect",
+    "About 65% of the effect",
+    "About 100% of the effect"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#bce4bd",
+   "kind": "statement",
+   "stem": "What should you consider when a patient on sildenafil starts a CYP3A4 inducer or inhibitor?",
+   "answer": "A dose change",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#b33c78",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of sildenafil?",
+   "options": [
+    "1–2 hours",
+    "3–5 hours",
+    "12–24 hours",
+    "30–40 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#b33c78",
+   "kind": "mcq",
+   "stem": "What percentage of sildenafil is excreted in faeces?",
+   "options": [
+    "20%",
+    "50%",
+    "30%",
+    "80%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sildenafil#7acb7f",
+   "kind": "statement",
+   "stem": "What does significant renal or hepatic impairment do to sildenafil's AUC?",
+   "answer": "Increases it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

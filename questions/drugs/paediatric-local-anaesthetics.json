@@ -1,0 +1,219 @@
+{
+ "topic": "drugs/paediatric-local-anaesthetics",
+ "questions": [
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#9d8aa1",
+   "kind": "statement",
+   "stem": "Why is the free local anaesthetic fraction higher in neonates and infants under 6 months?",
+   "answer": "Less α-1-acid glycoprotein (and albumin), so lower protein binding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#1596d0",
+   "kind": "mcq",
+   "stem": "In paediatric practice, which patients get reduced doses of bupivacaine, levobupivacaine and ropivacaine?",
+   "options": [
+    "Children aged 6 to 12 years",
+    "Neonates and infants up to 6 months",
+    "Adolescents aged 13 to 16 years",
+    "Children aged 1 to 5 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#bd6d48",
+   "kind": "statement",
+   "stem": "How is the local anaesthetic dose reduction for infants under 6 months justified?",
+   "answer": "Arbitrary: 50% of the dose used for older children",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#ce9526",
+   "kind": "statement",
+   "stem": "How do children's local anaesthetic distribution and elimination compare with adults?",
+   "answer": "Larger volume of distribution and longer half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#92bb9f",
+   "kind": "mcq",
+   "stem": "Which local anaesthetic should be avoided in infants under 3 months?",
+   "options": [
+    "Lidocaine",
+    "Bupivacaine",
+    "Prilocaine",
+    "Ropivacaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#3d6abf",
+   "kind": "statement",
+   "stem": "Why does prilocaine cause methaemoglobinaemia in young infants?",
+   "answer": "Strong-oxidant metabolite 4,6-hydro-xytoluidine; methaemoglobin reductase activity is low",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#f9d81d",
+   "kind": "mcq",
+   "stem": "For prilocaine in infants, at about what age does the relevant enzyme reach full activity?",
+   "options": [
+    "About 1 month of age",
+    "About 3 months of age",
+    "About 6 months of age",
+    "About 12 months of age"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#b277b3",
+   "kind": "mcq",
+   "stem": "What is the maximum levobupivacaine bolus dose in a child?",
+   "options": [
+    "1.5 mg/kg",
+    "3.0 mg/kg",
+    "2.5 mg/kg",
+    "5.0 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#b277b3",
+   "kind": "mcq",
+   "stem": "What is the maximum levobupivacaine bolus in a child under 6 months?",
+   "options": [
+    "0.25 mg/kg",
+    "1.25 mg/kg",
+    "1.5 mg/kg",
+    "3.0 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#e07ff9",
+   "kind": "mcq",
+   "stem": "What is the maximum levobupivacaine infusion rate in a child?",
+   "options": [
+    "0.2 mg/kg/hour",
+    "2.5 mg/kg/hour",
+    "0.4 mg/kg/hour",
+    "1.0 mg/kg/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#e07ff9",
+   "kind": "mcq",
+   "stem": "What is the maximum levobupivacaine infusion rate in a child under 6 months?",
+   "options": [
+    "0.1 mg/kg/hour",
+    "0.25 mg/kg/hour",
+    "0.4 mg/kg/hour",
+    "0.5 mg/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#236d69",
+   "kind": "mcq",
+   "stem": "What is the maximum ropivacaine bolus dose in a child?",
+   "options": [
+    "2.5 mg/kg",
+    "3.0 mg/kg",
+    "6.0 mg/kg",
+    "7.0 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#236d69",
+   "kind": "mcq",
+   "stem": "What is the maximum ropivacaine bolus in a child under 6 months?",
+   "options": [
+    "0.75 mg/kg",
+    "1.25 mg/kg",
+    "1.5 mg/kg",
+    "3.0 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#6dde03",
+   "kind": "mcq",
+   "stem": "What is the maximum lidocaine bolus dose in a child?",
+   "options": [
+    "2.5 mg/kg",
+    "6-10 mg/kg",
+    "3.0-7.0 mg/kg",
+    "1.5 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#6dde03",
+   "kind": "mcq",
+   "stem": "What is the maximum lidocaine bolus in a child under 6 months?",
+   "options": [
+    "0.75 mg/kg",
+    "1.5 mg/kg",
+    "2.5 mg/kg",
+    "5.0 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#03c505",
+   "kind": "mcq",
+   "stem": "What is the maximum prilocaine bolus dose in a child?",
+   "options": [
+    "2.5 mg/kg",
+    "6-10 mg/kg",
+    "3.0-7.0 mg/kg",
+    "1.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-local-anaesthetics#03c505",
+   "kind": "mcq",
+   "stem": "What is the maximum prilocaine bolus in a child under 6 months?",
+   "options": [
+    "1.5 mg/kg",
+    "3-5 mg/kg",
+    "6-10 mg/kg",
+    "2.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

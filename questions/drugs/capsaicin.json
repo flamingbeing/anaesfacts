@@ -1,0 +1,91 @@
+{
+ "topic": "drugs/capsaicin",
+ "questions": [
+  {
+   "fact_id": "drugs/capsaicin#0155ea",
+   "kind": "mcq",
+   "stem": "What strength is the capsaicin patch?",
+   "options": [
+    "2%",
+    "4%",
+    "8%",
+    "16%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/capsaicin#7bdd16",
+   "kind": "mcq",
+   "stem": "Which capsaicin formulation other than the patch is available?",
+   "options": [
+    "Tablet",
+    "Intravenous infusion",
+    "Cream",
+    "Suppository"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/capsaicin#e6fc07",
+   "kind": "mcq",
+   "stem": "How long is the capsaicin patch applied?",
+   "options": [
+    "10 minutes",
+    "30 minutes",
+    "60 minutes",
+    "4 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/capsaicin#794a3e",
+   "kind": "statement",
+   "stem": "Name two drawbacks of the capsaicin patch.",
+   "answer": "Expensive, and application is quite painful",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/capsaicin#ec3538",
+   "kind": "mcq",
+   "stem": "Which receptor does capsaicin act on as a potent, selective agonist?",
+   "options": [
+    "NMDA receptor",
+    "TRPM8",
+    "P2X3 receptor",
+    "TRPV1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/capsaicin#e7cfab",
+   "kind": "mcq",
+   "stem": "What does capsaicin's initial excitation of nerve fibres release?",
+   "options": [
+    "Histamine",
+    "Acetylcholine",
+    "Noradrenaline",
+    "Substance P"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/capsaicin#9bc600",
+   "kind": "statement",
+   "stem": "How does repeated or high-dose capsaicin relieve pain?",
+   "answer": "It desensitises and exhausts the fibres",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

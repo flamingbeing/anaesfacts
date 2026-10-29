@@ -1,0 +1,105 @@
+{
+ "topic": "drugs/isoflurane",
+ "questions": [
+  {
+   "fact_id": "drugs/isoflurane#9dcea0",
+   "kind": "mcq",
+   "stem": "How is isoflurane chemically related to enflurane?",
+   "options": [
+    "Metabolite of enflurane",
+    "Structural isomer of enflurane",
+    "Enantiomer of enflurane",
+    "Identical chemical to enflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoflurane#8bb16b",
+   "kind": "mcq",
+   "stem": "What is the approximate MAC of isoflurane?",
+   "options": [
+    "0.6%",
+    "1.2%",
+    "2.0%",
+    "6.0%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoflurane#72cbf2",
+   "kind": "mcq",
+   "stem": "What is isoflurane MAC at age 40 on the BJA 2003 iso-MAC charts?",
+   "options": [
+    "1.45%",
+    "0.87%",
+    "1.17%",
+    "2.07%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoflurane#9cd685",
+   "kind": "statement",
+   "stem": "What happens to minute volume, respiratory rate and PaCO2 with isoflurane?",
+   "answer": "Minute volume falls; respiratory rate and PaCO2 rise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoflurane#c40a74",
+   "kind": "mcq",
+   "stem": "Up to what concentration is cerebral autoregulation preserved with isoflurane?",
+   "options": [
+    "0.5 MAC",
+    "1.5 MAC",
+    "1 MAC",
+    "2 MAC"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoflurane#6ac674",
+   "kind": "statement",
+   "stem": "Which isoflurane group reacts with dry soda lime to make carbon monoxide?",
+   "answer": "The –CHF2 group",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoflurane#c682d8",
+   "kind": "mcq",
+   "stem": "Besides isoflurane, which volatile agents have a –CHF2 group that can make carbon monoxide?",
+   "options": [
+    "Sevoflurane and halothane",
+    "Enflurane and desflurane",
+    "Nitrous oxide and xenon",
+    "Methoxyflurane and sevoflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoflurane#9cb727",
+   "kind": "mcq",
+   "stem": "What percentage of isoflurane is metabolised in the body?",
+   "options": [
+    "5%",
+    "0.2%",
+    "20%",
+    "0.02%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

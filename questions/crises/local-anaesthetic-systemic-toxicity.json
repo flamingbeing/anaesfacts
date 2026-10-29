@@ -1,0 +1,575 @@
+{
+ "topic": "crises/local-anaesthetic-systemic-toxicity",
+ "questions": [
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#e66f1d",
+   "kind": "blank",
+   "stem": "In local anaesthetic systemic toxicity, the lipid bolus can be repeated ____ and the infusion doubled.",
+   "answer": "twice",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#715ad4",
+   "kind": "statement",
+   "stem": "In local anaesthetic systemic toxicity, what should you keep treating until the lipid takes effect?",
+   "answer": "Arrhythmias and seizures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#ec094e",
+   "kind": "statement",
+   "stem": "In local anaesthetic systemic toxicity, which three drug classes should be avoided?",
+   "answer": "Lignocaine, beta blockers, calcium channel blockers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#39e865",
+   "kind": "statement",
+   "stem": "In local anaesthetic systemic toxicity, what should you expect during resuscitation, and how should adrenaline be dosed?",
+   "answer": "Prolonged CPR; lower doses of adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#5b1d8e",
+   "kind": "statement",
+   "stem": "Why does a local anaesthetic toxic dose that ignores injection site mean little?",
+   "answer": "Absorption varies so much by site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#fc741c",
+   "kind": "statement",
+   "stem": "How does the toxicity of several local anaesthetics given together combine?",
+   "answer": "Additive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#79b4ca",
+   "kind": "mcq",
+   "stem": "By how much should the local anaesthetic dose be reduced in elderly patients?",
+   "options": [
+    "10% to 20%",
+    "30% to 40%",
+    "50% to 60%",
+    "2% to 5%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#79b4ca",
+   "kind": "statement",
+   "stem": "What three changes make elderly patients more sensitive to local anaesthetic toxicity?",
+   "answer": "Less muscle, lower clearance, more end-organ sensitivity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#d43990",
+   "kind": "statement",
+   "stem": "Why are infants under 6 months at higher risk of local anaesthetic toxicity?",
+   "answer": "Less alpha-1 acid glycoprotein and immature hepatic clearance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#ad8899",
+   "kind": "mcq",
+   "stem": "Which local anaesthetic has the highest CNS:CVS ratio, indicating the widest safety margin?",
+   "options": [
+    "Bupivacaine",
+    "Prilocaine",
+    "Lignocaine",
+    "Ropivacaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#ad8899",
+   "kind": "mcq",
+   "stem": "What is bupivacaine's CNS:CVS ratio, the measure of local anaesthetic safety?",
+   "options": [
+    "4",
+    "7",
+    "10",
+    "3"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#2db1ef",
+   "kind": "statement",
+   "stem": "What two measures apply to anyone showing signs or symptoms of local anaesthetic toxicity?",
+   "answer": "Early recognition and lipid emulsion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#7cdd12",
+   "kind": "statement",
+   "stem": "What should you consider for at-risk patients receiving local anaesthetic?",
+   "answer": "Lower doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#02a2b7",
+   "kind": "mcq",
+   "stem": "When does toxicity typically appear after an intravascular local anaesthetic injection?",
+   "options": [
+    "After 1 hour",
+    "After 24 hours",
+    "After 2 days",
+    "Immediately"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#e05314",
+   "kind": "statement",
+   "stem": "After a local anaesthetic bolus, within what period can toxicity appear?",
+   "answer": "Any time in the next hour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#8869c6",
+   "kind": "mcq",
+   "stem": "With a catheter or IV infusion, when can local anaesthetic toxicity appear?",
+   "options": [
+    "Hours or even days after starting",
+    "Immediately after the first dose",
+    "Within 10 minutes of starting",
+    "Only after the infusion stops"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#73734e",
+   "kind": "statement",
+   "stem": "As local anaesthetic blood levels rise, which toxicity appears first?",
+   "answer": "CNS toxicity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#c0f299",
+   "kind": "mcq",
+   "stem": "At what blood level does muscle twitching appear in local anaesthetic toxicity?",
+   "options": [
+    "0.5mcg/ml",
+    "5mcg/ml",
+    "2mcg/ml",
+    "8mcg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#770878",
+   "kind": "statement",
+   "stem": "How quickly does severe local anaesthetic toxicity typically progress?",
+   "answer": "Rapid decline over minutes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#324797",
+   "kind": "mcq",
+   "stem": "At what blood level do seizures occur in local anaesthetic toxicity?",
+   "options": [
+    "10mcg/ml",
+    "5mcg/ml",
+    "15mcg/ml",
+    "25mcg/ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f57498",
+   "kind": "mcq",
+   "stem": "At what blood level does respiratory arrest occur in local anaesthetic toxicity?",
+   "options": [
+    "15mcg/ml",
+    "25mcg/ml",
+    "35mcg/ml",
+    "20mcg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f57498",
+   "kind": "mcq",
+   "stem": "At what blood level does cardiac arrest occur in local anaesthetic toxicity?",
+   "options": [
+    "15mcg/ml",
+    "30mcg/ml",
+    "40mcg/ml",
+    "25mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#391c78",
+   "kind": "statement",
+   "stem": "What can be the first sign of local anaesthetic toxicity after a large dose?",
+   "answer": "Cardiovascular collapse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#0a8822",
+   "kind": "mcq",
+   "stem": "After higher local anaesthetic doses, for how long should patients be monitored?",
+   "options": [
+    "At least 1hr",
+    "At least 10 minutes",
+    "At least 4 hours",
+    "At least 24 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#20a85b",
+   "kind": "statement",
+   "stem": "In suspected local anaesthetic toxicity, how should the team be alerted?",
+   "answer": "Call for help; declare an emergency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#63b23e",
+   "kind": "mcq",
+   "stem": "Which lipid emulsion strength is used to treat local anaesthetic toxicity?",
+   "options": [
+    "Intralipid 10%",
+    "Intralipid 20%",
+    "Intralipid 30%",
+    "Intralipid 5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#86b15b",
+   "kind": "mcq",
+   "stem": "What lipid infusion rate follows the loading dose in local anaesthetic toxicity?",
+   "options": [
+    "1.5ml/kg/hr",
+    "7.5ml/kg/hr",
+    "150ml/kg/hr",
+    "15ml/kg/hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#59d752",
+   "kind": "statement",
+   "stem": "Why must lipid be given as a large volume, quickly, in local anaesthetic toxicity?",
+   "answer": "To create a lipid bulk phase in plasma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#e6f24d",
+   "kind": "mcq",
+   "stem": "How often are the extra lipid boluses given in refractory local anaesthetic toxicity?",
+   "options": [
+    "Every 5 minutes",
+    "Every 1 minute",
+    "Every 10 minutes",
+    "Every 30 minutes"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#e6f24d",
+   "kind": "mcq",
+   "stem": "In refractory local anaesthetic toxicity, how many extra lipid boluses can be given?",
+   "options": [
+    "Up to 4 more",
+    "Only 1 more",
+    "Up to 2 more",
+    "Up to 6 more"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#82ad00",
+   "kind": "mcq",
+   "stem": "In refractory local anaesthetic toxicity, the lipid infusion is doubled to what rate?",
+   "options": [
+    "20ml/kg/hr",
+    "30ml/kg/hr",
+    "45ml/kg/hr",
+    "60ml/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#700fc3",
+   "kind": "mcq",
+   "stem": "What is the maximum cumulative lipid emulsion dose in local anaesthetic toxicity?",
+   "options": [
+    "1.5ml/kg",
+    "15ml/kg",
+    "20ml/kg",
+    "12ml/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#700fc3",
+   "kind": "statement",
+   "stem": "Why is there a maximum cumulative lipid emulsion dose?",
+   "answer": "To avoid fat overload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#51a045",
+   "kind": "mcq",
+   "stem": "In local anaesthetic toxicity, how long should lipid be continued after the circulation is stable?",
+   "options": [
+    "At least 2 min",
+    "At least 30 min",
+    "At least 10 min",
+    "Stop once the bolus ends"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#e1a777",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity with cardiac arrest, what is the initial bolus volume, given over 1 min?",
+   "options": [
+    "10 ml",
+    "250 ml",
+    "100 ml",
+    "1000 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f31339",
+   "kind": "mcq",
+   "stem": "In the local anaesthetic cardiac arrest protocol, what volume is infused over 1 hour?",
+   "options": [
+    "1000ml",
+    "100ml",
+    "500ml",
+    "2000ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f4bfe0",
+   "kind": "mcq",
+   "stem": "If circulation is not restored in that protocol, how many further 100 ml boluses are given?",
+   "options": [
+    "4",
+    "2",
+    "6",
+    "1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f4bfe0",
+   "kind": "mcq",
+   "stem": "In that protocol, how far apart are the repeated 100 ml boluses given?",
+   "options": [
+    "10 min apart",
+    "1 min apart",
+    "30 sec apart",
+    "5 min apart"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f4bfe0",
+   "kind": "statement",
+   "stem": "If circulation is not restored, what volume and time is the infusion increased to?",
+   "answer": "1000ml over 30mins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#a43648",
+   "kind": "mcq",
+   "stem": "What is the maximum total lipid emulsion volume in local anaesthetic toxicity, in ml?",
+   "options": [
+    "85ml",
+    "1000ml",
+    "100ml",
+    "850ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#991d61",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity, what inspired oxygen concentration should be given?",
+   "options": [
+    "21%",
+    "40%",
+    "100%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#991d61",
+   "kind": "statement",
+   "stem": "Which two conditions worsen local anaesthetic systemic toxicity?",
+   "answer": "Hypoxia and acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#70717e",
+   "kind": "statement",
+   "stem": "In local anaesthetic systemic toxicity with cardiac arrest, what standard resuscitation applies?",
+   "answer": "ACLS and CPR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f3d39c",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity cardiac arrest, adrenaline should be kept below what dose per kg?",
+   "options": [
+    "<10mcg/kg",
+    "<50mcg/kg",
+    "<1mcg/kg",
+    "<100mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f3d39c",
+   "kind": "statement",
+   "stem": "Why should high-dose adrenaline be avoided in local anaesthetic cardiac arrest?",
+   "answer": "It causes acidosis and arrhythmias, impairs lipid rescue and gives less sustained ROSC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#f3d39c",
+   "kind": "mcq",
+   "stem": "In local anaesthetic cardiac arrest, what absolute IV adrenaline range is suggested?",
+   "options": [
+    "1 to 10 mcg IV",
+    "100 to 500 mcg IV",
+    "10 to 100 mcg IV",
+    "1 to 5 mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#cccddd",
+   "kind": "mcq",
+   "stem": "How long may recovery from cardiac arrest in local anaesthetic toxicity take?",
+   "options": [
+    "<10 min",
+    "<5 min",
+    "about 2 min",
+    ">1 h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#144cff",
+   "kind": "mcq",
+   "stem": "Which drug is given in small increments for seizures in local anaesthetic toxicity, and at what dose?",
+   "options": [
+    "Midazolam, 10 to 20 mg",
+    "Midazolam, 1 to 5 mg",
+    "Naloxone, 0.4 to 2 mg",
+    "Diazepam, 10 to 20 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#144cff",
+   "kind": "statement",
+   "stem": "What are the alternatives to midazolam for seizures in local anaesthetic toxicity?",
+   "answer": "Propofol or thiopentone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#7f93f4",
+   "kind": "statement",
+   "stem": "Which blood tests should be sent in local anaesthetic toxicity, and when?",
+   "answer": "Local anaesthetic and triglyceride levels, before and after lipid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/local-anaesthetic-systemic-toxicity#ecd112",
+   "kind": "statement",
+   "stem": "In vertebral artery injection of local anaesthetic, what can even small volumes cause?",
+   "answer": "Seizures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

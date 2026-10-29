@@ -1,0 +1,515 @@
+{
+ "topic": "drugs/paracetamol",
+ "questions": [
+  {
+   "fact_id": "drugs/paracetamol#b5e0db",
+   "kind": "mcq",
+   "stem": "What strength is the paediatric paracetamol oral elixir?",
+   "options": [
+    "60 mg in 5 ml",
+    "120 mg in 5 ml",
+    "250 mg in 5 ml",
+    "500 mg in 5 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#3acc5a",
+   "kind": "mcq",
+   "stem": "Anarex is paracetamol combined with which other drug?",
+   "options": [
+    "Codeine",
+    "Orphenadrine",
+    "Ibuprofen",
+    "Tramadol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#4fc350",
+   "kind": "statement",
+   "stem": "What strengths do paracetamol rectal suppositories come in?",
+   "answer": "125 mg and 1 g",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#0ffb87",
+   "kind": "mcq",
+   "stem": "What is the concentration of IV paracetamol 1 g in 100 ml?",
+   "options": [
+    "5 mg/ml",
+    "10 mg/ml",
+    "20 mg/ml",
+    "1 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#070f32",
+   "kind": "statement",
+   "stem": "Why does delayed gastric emptying affect the oral paracetamol peak level?",
+   "answer": "Paracetamol is not absorbed in the stomach, so the peak is lowered and delayed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#919d07",
+   "kind": "statement",
+   "stem": "Why is rectal paracetamol not the preferred route?",
+   "answer": "Absorption is slower and more variable than oral or IV.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#3cc89f",
+   "kind": "mcq",
+   "stem": "How ideally should IV paracetamol be infused?",
+   "options": [
+    "As a rapid bolus",
+    "Over 5mins",
+    "Over 30mins",
+    "Over 15mins"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#885d95",
+   "kind": "mcq",
+   "stem": "What is the usual onset of action of paracetamol?",
+   "options": [
+    "Within 30 seconds",
+    "5-10 minutes",
+    "30-45 minutes",
+    "2-3 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#885d95",
+   "kind": "mcq",
+   "stem": "How long does the effect of a paracetamol dose usually last?",
+   "options": [
+    "1-2 hours",
+    "4-6 hours",
+    "8-12 hours",
+    "24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#5bc8ec",
+   "kind": "mcq",
+   "stem": "What is the usual paracetamol dose in mg/kg, given every 4-8 hours?",
+   "options": [
+    "5mg/kg",
+    "25mg/kg",
+    "15mg/kg",
+    "50mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#5bc8ec",
+   "kind": "mcq",
+   "stem": "What is the maximum daily paracetamol dose in mg/kg?",
+   "options": [
+    "45mg/kg/day",
+    "90mg/kg/day",
+    "120mg/kg/day",
+    "150mg/kg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#8bb8bb",
+   "kind": "mcq",
+   "stem": "What is the daily paracetamol dose for neonates and infants up to 3 months?",
+   "options": [
+    "15mg/kg/day",
+    "60 mg/kg/day",
+    "90mg/kg/day",
+    "4g/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#3006a3",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral paracetamol dose for adults?",
+   "options": [
+    "2g/day",
+    "3g/day",
+    "4g/day",
+    "5g/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#3006a3",
+   "kind": "mcq",
+   "stem": "How often can adults take an oral paracetamol dose of 0.5-1g?",
+   "options": [
+    "Every 2 hours",
+    "Every 6-8 hours",
+    "Every 12 hours",
+    "Once daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#d34854",
+   "kind": "mcq",
+   "stem": "What is the usual oral paracetamol dose for children?",
+   "options": [
+    "5 mg/kg every 6 hours",
+    "15 mg/kg every 6 hours",
+    "20 mg/kg every 6 hours",
+    "30 mg/kg every 8 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#785718",
+   "kind": "mcq",
+   "stem": "What is the usual oral paracetamol dose for neonates?",
+   "options": [
+    "15 mg/kg every 6 hours",
+    "7.5-10mg/kg every 6 hours",
+    "1 g every 6 hours",
+    "20 mg/kg every 6 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#5f8402",
+   "kind": "mcq",
+   "stem": "What is the usual Anarex dosing schedule?",
+   "options": [
+    "1 tablet three times daily",
+    "2 tablets once daily",
+    "2 tablets three times daily or as needed",
+    "4 tablets every 6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#eba2e6",
+   "kind": "mcq",
+   "stem": "What is the loading dose of rectal paracetamol in children?",
+   "options": [
+    "15 mg/kg",
+    "20 mg/kg",
+    "40 mg/kg",
+    "60 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#eba2e6",
+   "kind": "mcq",
+   "stem": "What is the maintenance rectal paracetamol dose in children after the loading dose?",
+   "options": [
+    "15 mg/kg 6-hourly",
+    "20 mg/kg 6-hourly",
+    "40 mg/kg 6-hourly",
+    "20 mg/kg 8-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#43df2e",
+   "kind": "mcq",
+   "stem": "What is the IV paracetamol dose for adults over 50 kg?",
+   "options": [
+    "500 mg every 6 hours",
+    "1 g every 6 hours",
+    "1 g every 4 hours",
+    "2 g every 6 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#43df2e",
+   "kind": "mcq",
+   "stem": "What is the maximum daily IV paracetamol dose for adults over 50 kg?",
+   "options": [
+    "2g daily",
+    "3g daily",
+    "4g daily",
+    "5g daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#0b28d4",
+   "kind": "mcq",
+   "stem": "What is the IV paracetamol dose for children and adults under 50 kg?",
+   "options": [
+    "1 g every 6 hours",
+    "15mg/kg every 6 hours",
+    "7.5-10mg/kg every 6 hours",
+    "20mg/kg every 6 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#f82757",
+   "kind": "mcq",
+   "stem": "What is the minimum time between paracetamol doses?",
+   "options": [
+    "1 hour",
+    "2 hours",
+    "12 hours",
+    "4 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#4d2e07",
+   "kind": "mcq",
+   "stem": "What is the maximum daily paracetamol dose used in palliative care?",
+   "options": [
+    "2 g daily",
+    "3 g daily",
+    "6 g daily",
+    "10 g daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#3ab327",
+   "kind": "statement",
+   "stem": "What should be checked about paracetamol before surgery?",
+   "answer": "Time of the last ward dose, and any home analgesics before same-day admission.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#27cdf6",
+   "kind": "mcq",
+   "stem": "What oral paracetamol premedication dose is used before day surgery in some centres for patients over 50 kg?",
+   "options": [
+    "500 mg",
+    "750 mg",
+    "2 g",
+    "3 g"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#b65b72",
+   "kind": "statement",
+   "stem": "What is the main mechanism of paracetamol's analgesic action?",
+   "answer": "Mainly central antinociception; mechanism not fully understood.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#f02524",
+   "kind": "mcq",
+   "stem": "Paracetamol's antipyretic effect is explained by inhibiting which enzymes?",
+   "options": [
+    "Lipoxygenases",
+    "Phospholipase A2",
+    "Thromboxane synthase",
+    "Central cyclo-oxygenases"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#5cdf3d",
+   "kind": "mcq",
+   "stem": "Despite almost no in vitro COX effect, paracetamol is grouped with which drug class?",
+   "options": [
+    "Opioids",
+    "NSAIDs",
+    "Benzodiazepines",
+    "Local anaesthetics"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#afc708",
+   "kind": "mcq",
+   "stem": "What anti-inflammatory activity does paracetamol have?",
+   "options": [
+    "Strong, like NSAIDs",
+    "Moderate, mainly peripheral",
+    "No anti-inflammatory activity",
+    "Only in the gut"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#1452e9",
+   "kind": "statement",
+   "stem": "How does paracetamol's side-effect profile compare with NSAIDs?",
+   "answer": "Very safe, with fewer side effects and no gastric irritation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#c7eeb1",
+   "kind": "mcq",
+   "stem": "What is the main serious adverse effect of paracetamol?",
+   "options": [
+    "Nephrotoxicity",
+    "Hepatotoxicity",
+    "Ototoxicity",
+    "Gastric irritation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#0bc893",
+   "kind": "statement",
+   "stem": "Why does paracetamol overdose produce more of the toxic metabolite NAPQI?",
+   "answer": "The toxic dose saturates normal conjugation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#1b93c2",
+   "kind": "statement",
+   "stem": "What does NAPQI do to hepatocytes in paracetamol overdose?",
+   "answer": "Binds hepatocyte sulfhydryl groups, causing cell death and centrilobular necrosis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#5a3a7c",
+   "kind": "mcq",
+   "stem": "Hepatotoxicity is possible above what paracetamol dose within 24 hours?",
+   "options": [
+    "50 mg/kg",
+    "100 mg/kg",
+    "150 mg/kg",
+    "300 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#0fff11",
+   "kind": "statement",
+   "stem": "What is the main aim of treating paracetamol overdose?",
+   "answer": "Replenish glutathione.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#6b8a0d",
+   "kind": "statement",
+   "stem": "Does an accidental extra 2 g dose in an adult need an overdose pathway?",
+   "answer": "No; it is not hepatotoxic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#fe733d",
+   "kind": "statement",
+   "stem": "When should paracetamol overdose be managed differently?",
+   "answer": "Under 33 kg or if liver function is already impaired.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#651100",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of paracetamol?",
+   "options": [
+    "20%",
+    "50%",
+    "65%",
+    "80%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#a35eaa",
+   "kind": "mcq",
+   "stem": "What is the plasma protein binding of paracetamol?",
+   "options": [
+    "10%",
+    "40%",
+    "70%",
+    "99%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#840aab",
+   "kind": "statement",
+   "stem": "How is paracetamol mainly metabolised and excreted?",
+   "answer": "Hepatic glucuronide conjugation; excreted in urine, little unchanged.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paracetamol#478c25",
+   "kind": "statement",
+   "stem": "What happens to the small NAPQI amounts formed at therapeutic paracetamol doses?",
+   "answer": "Quickly conjugated with hepatic glutathione.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "topic": "drugs/anticholinergics",
+ "questions": [
+  {
+   "fact_id": "drugs/anticholinergics#82b9c4",
+   "kind": "statement",
+   "stem": "How do anticholinergics act at muscarinic receptors, and why can high acetylcholine levels overcome this?",
+   "answer": "They compete with ACh for the binding site; the block is competitive, so enough ACh overcomes it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#f2d7ba",
+   "kind": "blank",
+   "stem": "Most anticholinergic drugs are non-selective and act much like ____.",
+   "answer": "atropine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#74fce5",
+   "kind": "mcq",
+   "stem": "Which anticholinergic subgroup blocks nicotinic receptors more than others?",
+   "options": [
+    "Tertiary amine agents",
+    "Quaternary ammonium agents",
+    "Selective M2 antagonists",
+    "Antihistamine-type agents"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#75b17c",
+   "kind": "statement",
+   "stem": "Why do quaternary anticholinergics such as ipratropium cause few central effects?",
+   "answer": "They do not cross the blood-brain barrier or membranes readily",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#593d27",
+   "kind": "blank",
+   "stem": "Anticholinergic syndrome mnemonic: 'Dry as a ____, mad as a hatter, hot as a hare, red as a beet, blind as a bat, full as a flask.'",
+   "answer": "bone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#593d27",
+   "kind": "blank",
+   "stem": "Anticholinergic syndrome mnemonic: 'Dry as a bone, mad as a hatter, hot as a hare, red as a beet, blind as a ____, full as a flask.'",
+   "answer": "bat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#84bc8d",
+   "kind": "mcq",
+   "stem": "Anticholinergic syndrome is best compared with which toxicity caused by anticholinesterases?",
+   "options": [
+    "Serotonin syndrome",
+    "Cholinergic crisis",
+    "Neuroleptic malignant syndrome",
+    "Malignant hyperthermia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#8140a0",
+   "kind": "mcq",
+   "stem": "Which anticholinergic is used as a cycloplegic?",
+   "options": [
+    "Benztropine",
+    "Tropicamide",
+    "Oxybutynin",
+    "Hyoscine butylbromide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#95feed",
+   "kind": "mcq",
+   "stem": "Which anticholinergic is used for Parkinson's disease?",
+   "options": [
+    "Benztropine",
+    "Glycopyrrolate",
+    "Tropicamide",
+    "Ipratropium"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#7471e9",
+   "kind": "mcq",
+   "stem": "Which anticholinergic is used for overactive bladder?",
+   "options": [
+    "Oxybutynin",
+    "Benztropine",
+    "Hyoscine butylbromide",
+    "Tiotropium"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#bdc1b6",
+   "kind": "mcq",
+   "stem": "What brand name is given for hyoscine butylbromide?",
+   "options": [
+    "Anarex",
+    "Buscopan",
+    "Circadin",
+    "Myonal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#9f773a",
+   "kind": "statement",
+   "stem": "When ipratropium blocks presynaptic M2 receptors in the lung, what happens to acetylcholine release?",
+   "answer": "Extra ACh release, which may partly offset its M3 bronchoconstriction block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#67b4a7",
+   "kind": "mcq",
+   "stem": "Which anticholinergic is relatively selective for M1 and M3 receptors?",
+   "options": [
+    "Ipratropium",
+    "Tiotropium",
+    "Atropine",
+    "Glycopyrrolate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#4a6cd3",
+   "kind": "blank",
+   "stem": "In high doses, antimuscarinic drugs such as tricyclic antidepressants mimic ____ poisoning.",
+   "answer": "atropine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#f85313",
+   "kind": "statement",
+   "stem": "Why is an anticholinergic given with an anticholinesterase when reversing neuromuscular block?",
+   "answer": "To block the anticholinesterase's unwanted muscarinic effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#70e311",
+   "kind": "statement",
+   "stem": "How should anticholinergic and anticholinesterase pairings be chosen when reversing neuromuscular block?",
+   "answer": "Matched for time course",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#d92973",
+   "kind": "mcq",
+   "stem": "Which usual clinical atropine dose range often causes brief heart rate slowing?",
+   "options": [
+    "0.1-0.2 mg",
+    "0.4-0.6 mg",
+    "1-2 mg",
+    "4-6 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#d92973",
+   "kind": "statement",
+   "stem": "Why do usual atropine doses cause brief slowing of the heart?",
+   "answer": "M1 block in the parasympathetic ganglion supplying the SA node",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#6d9635",
+   "kind": "mcq",
+   "stem": "What modest heart rate change does atropine cause, in beats per minute?",
+   "options": [
+    "4-8 beats per minute",
+    "12-15 beats per minute",
+    "1-2 beats per minute",
+    "20-25 beats per minute"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#d6541e",
+   "kind": "mcq",
+   "stem": "Larger atropine doses cause progressive tachycardia by blocking which receptors on SA node cells?",
+   "options": [
+    "M3 receptors",
+    "M2 receptors",
+    "Beta-1 receptors",
+    "Alpha-1 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#6edc69",
+   "kind": "mcq",
+   "stem": "By how many beats per minute does 2 mg IM atropine raise resting heart rate in young men?",
+   "options": [
+    "35-40 beats per minute",
+    "12-15 beats per minute",
+    "60-65 beats per minute",
+    "2-4 beats per minute"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#9a9207",
+   "kind": "mcq",
+   "stem": "Which three agonists stimulate parietal cells to secrete acid?",
+   "options": [
+    "Gastrin, secretin, cholecystokinin",
+    "Gastrin, histamine, acetylcholine",
+    "Histamine, secretin, somatostatin",
+    "Acetylcholine, glucagon, gastrin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#9a9207",
+   "kind": "statement",
+   "stem": "Muscarinic stimulation of which gastric cells releases histamine?",
+   "answer": "Enterochromaffin-like cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#1146af",
+   "kind": "statement",
+   "stem": "Why have atropine-type doses that cut gastric acid been replaced by H2 antagonists and PPIs?",
+   "answer": "They also affect saliva, accommodation, micturition and motility",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#b7ae8c",
+   "kind": "mcq",
+   "stem": "How many days may accommodation and pupil reflexes take to recover after topical atropine?",
+   "options": [
+    "1-2 days",
+    "3-4 days",
+    "7-12 days",
+    "14-21 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticholinergics#b7ae8c",
+   "kind": "statement",
+   "stem": "Why are shorter-acting agents preferred as mydriatics over topical atropine?",
+   "answer": "Topical atropine lasts long, so accommodation and pupil reflexes recover slowly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

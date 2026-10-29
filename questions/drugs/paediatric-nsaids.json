@@ -1,0 +1,285 @@
+{
+ "topic": "drugs/paediatric-nsaids",
+ "questions": [
+  {
+   "fact_id": "drugs/paediatric-nsaids#977c14",
+   "kind": "mcq",
+   "stem": "Which route is ibuprofen given by in children?",
+   "options": [
+    "Oral",
+    "Intravenous",
+    "Rectal",
+    "Intramuscular"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#d1e7e0",
+   "kind": "mcq",
+   "stem": "Which routes is diclofenac sodium available by for children?",
+   "options": [
+    "Oral and IV only",
+    "Oral, rectal suppository, IV",
+    "IV only",
+    "Rectal suppository only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#34aa8e",
+   "kind": "mcq",
+   "stem": "What is the oral diclofenac dose in children?",
+   "options": [
+    "1 mg/kg 6-hourly (maximum 50 mg)",
+    "1 mg/kg 8-hourly (maximum 50 mg)",
+    "5-10 mg/kg 6-hourly",
+    "1 mg/kg 8-hourly (maximum 150 mg)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#34aa8e",
+   "kind": "mcq",
+   "stem": "What is the maximum single oral diclofenac dose in a child?",
+   "options": [
+    "25 mg",
+    "50 mg",
+    "75 mg",
+    "200 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#45cd35",
+   "kind": "mcq",
+   "stem": "What is the rectal diclofenac dose in children?",
+   "options": [
+    "1-2 mg/kg (maximum 100 mg)",
+    "1 mg/kg 8-hourly (maximum 50 mg)",
+    "5-10 mg/kg 6-hourly",
+    "3 mg/kg/day"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#45cd35",
+   "kind": "mcq",
+   "stem": "What is the usual diclofenac suppository dose in children?",
+   "options": [
+    "0.5 mg/kg",
+    "4 mg/kg",
+    "1 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#4c2196",
+   "kind": "mcq",
+   "stem": "What is the IV diclofenac dose in children?",
+   "options": [
+    "0.5 mg/kg",
+    "5 mg/kg",
+    "10 mg/kg",
+    "1 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#21d189",
+   "kind": "mcq",
+   "stem": "What is the maximum daily diclofenac dose in children by all routes?",
+   "options": [
+    "40 mg/kg/day",
+    "3 mg/kg/day or 150 mg/day",
+    "90 mg/kg/day",
+    "1 mg/kg/day or 50 mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#5fb143",
+   "kind": "mcq",
+   "stem": "What is the usual oral ibuprofen dose in children?",
+   "options": [
+    "5-10 mg/kg 8-hourly",
+    "5-10 mg/kg 6-hourly",
+    "1 mg/kg 8-hourly",
+    "15 mg/kg 6-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#5fb143",
+   "kind": "blank",
+   "stem": "Oral ibuprofen is usually 10 mg/kg ____ daily.",
+   "answer": "three times",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#02cad3",
+   "kind": "mcq",
+   "stem": "What is the maximum single oral ibuprofen dose in children?",
+   "options": [
+    "150 mg",
+    "400 mg",
+    "600 mg",
+    "800 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#02cad3",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral ibuprofen dose per kg in children?",
+   "options": [
+    "3 mg/kg/day",
+    "90 mg/kg/day",
+    "40 mg/kg/day",
+    "60 mg/kg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#f3cbb2",
+   "kind": "statement",
+   "stem": "Compared with paracetamol, how potent are NSAIDs as analgesics in children?",
+   "answer": "Probably more potent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#b57c30",
+   "kind": "statement",
+   "stem": "How many adverse effects occur with short-term perioperative NSAID use in healthy children?",
+   "answer": "Very few",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#23d694",
+   "kind": "mcq",
+   "stem": "Below what age is aspirin avoided for analgesia in children?",
+   "options": [
+    "6 years",
+    "12 years",
+    "16 years",
+    "18 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#23d694",
+   "kind": "statement",
+   "stem": "Which syndrome is the reason aspirin is avoided in young children?",
+   "answer": "Reye's syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#bc2e6f",
+   "kind": "statement",
+   "stem": "Why are NSAIDs not used for analgesia in neonates?",
+   "answer": "Effects on renal prostaglandins and immature kidney perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#52166c",
+   "kind": "statement",
+   "stem": "How are paediatric NSAIDs often used with respect to their licence?",
+   "answer": "Off licence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#c4d319",
+   "kind": "mcq",
+   "stem": "Ibuprofen is not licensed in children below what weight?",
+   "options": [
+    "3 kg",
+    "5 kg",
+    "10 kg",
+    "12 kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#c4d319",
+   "kind": "mcq",
+   "stem": "Ibuprofen is not licensed in children below what age?",
+   "options": [
+    "1 month",
+    "3 months",
+    "1 year",
+    "2 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#1b5591",
+   "kind": "mcq",
+   "stem": "Diclofenac is not licensed in children below what age?",
+   "options": [
+    "3 months",
+    "6 months",
+    "1 year",
+    "2 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#1b5591",
+   "kind": "mcq",
+   "stem": "Diclofenac suppositories are not licensed in children below what age?",
+   "options": [
+    "1 year",
+    "3 years",
+    "6 years",
+    "12 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-nsaids#11e683",
+   "kind": "statement",
+   "stem": "Which two NSAIDs are commonest for paediatric perioperative analgesia?",
+   "answer": "Ibuprofen and diclofenac sodium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

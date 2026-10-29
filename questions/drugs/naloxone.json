@@ -1,0 +1,287 @@
+{
+ "topic": "drugs/naloxone",
+ "questions": [
+  {
+   "fact_id": "drugs/naloxone#900da6",
+   "kind": "blank",
+   "stem": "Naloxone is supplied as 0.4mg in ____.",
+   "answer": "1ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#dab5f2",
+   "kind": "blank",
+   "stem": "Naloxone 1 ml diluted to a total of 10 ml gives a concentration of ____.",
+   "answer": "40mcg/ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#d3d9f3",
+   "kind": "mcq",
+   "stem": "Which routes can naloxone use if IV access is delayed?",
+   "options": [
+    "Rectal or sublingual only",
+    "Intraosseous only",
+    "Intranasal, subcutaneous or IM",
+    "Oral only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#589b36",
+   "kind": "statement",
+   "stem": "In opioid depression, what should naloxone aim for?",
+   "answer": "Adequate ventilation, not a normal conscious level",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#2ba84e",
+   "kind": "mcq",
+   "stem": "What is the onset of IV naloxone?",
+   "options": [
+    "10-15 mins",
+    "2-5 mins",
+    "1-2 mins",
+    "30-40 mins"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#f75c7b",
+   "kind": "mcq",
+   "stem": "How often is IV naloxone repeated until respiratory rate reaches 12?",
+   "options": [
+    "Every 2min",
+    "Every 10 min",
+    "Every 30 min",
+    "Once only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#ee8fb3",
+   "kind": "mcq",
+   "stem": "What is the starting IV naloxone dose when the patient is breathing spontaneously?",
+   "options": [
+    "0.4mg",
+    "2mg",
+    "0.04mg (40mcg)",
+    "0.1mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#133353",
+   "kind": "mcq",
+   "stem": "What is the IV naloxone dose per kg for a child breathing spontaneously?",
+   "options": [
+    "0.002mg/kg/dose",
+    "0.02mg/kg/dose",
+    "0.2mg/kg/dose",
+    "0.04mg/kg/dose"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#a880d7",
+   "kind": "mcq",
+   "stem": "What is the higher starting IV naloxone dose for an apnoeic patient?",
+   "options": [
+    "0.04mg (40mcg)",
+    "0.4mg",
+    "0.004mg",
+    "0.8mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#1be385",
+   "kind": "mcq",
+   "stem": "What is the IV naloxone dose per kg for an apnoeic child?",
+   "options": [
+    "0.02mg/kg/dose",
+    "0.05mg/kg/dose",
+    "0.001mg/kg/dose",
+    "0.01mg/kg/dose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#82741d",
+   "kind": "mcq",
+   "stem": "What is the initial naloxone dose in suspected opioid cardiorespiratory arrest?",
+   "options": [
+    "0.04mg",
+    "0.4mg",
+    "0.8mg",
+    "At least 2mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#cd8006",
+   "kind": "mcq",
+   "stem": "What is the naloxone dose per kg for a child in suspected opioid cardiorespiratory arrest?",
+   "options": [
+    "0.01mg/kg/dose",
+    "0.002mg/kg/dose",
+    "0.1mg/kg/dose",
+    "1mg/kg/dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#455179",
+   "kind": "mcq",
+   "stem": "Naloxone gives no response after 5 to 10 mg. What is the next step?",
+   "options": [
+    "Reconsider the diagnosis",
+    "Keep giving naloxone without limit",
+    "Stop observing the patient",
+    "Double the starting dose"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#9dbf76",
+   "kind": "mcq",
+   "stem": "What naloxone infusion rate is used for opioid pruritus and urinary retention?",
+   "options": [
+    "0.01-0.025mcg/kg/hr",
+    "1-2.5mcg/kg/hr",
+    "0.1-0.25mcg/kg/hr",
+    "0.5-1mcg/kg/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#c501c8",
+   "kind": "statement",
+   "stem": "Above what naloxone infusion rate is analgesia lost?",
+   "answer": "0.3mcg/kg/hr",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#d58f8f",
+   "kind": "statement",
+   "stem": "When might repeat naloxone doses still be needed?",
+   "answer": "After ventilation recovers, depending on opioid amount and duration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#171cf7",
+   "kind": "mcq",
+   "stem": "At which receptor does naloxone have the highest affinity?",
+   "options": [
+    "Alpha-2 adrenergic receptor",
+    "Muscarinic M2 receptor",
+    "GABA-A receptor",
+    "Mu receptor"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#115a08",
+   "kind": "statement",
+   "stem": "What can naloxone overshoot cause in an opioid-dependent patient?",
+   "answer": "Opioid withdrawal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#b79e21",
+   "kind": "mcq",
+   "stem": "Which is an occasional adverse effect of naloxone?",
+   "options": [
+    "Tachycardia",
+    "Hypoglycaemia",
+    "Hyperkalaemia",
+    "Bradypnoea"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#423ba5",
+   "kind": "statement",
+   "stem": "What must naloxone's adverse effects be weighed against?",
+   "answer": "The risks of intubation and short-term ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#c20829",
+   "kind": "statement",
+   "stem": "What is renarcotisation after naloxone?",
+   "answer": "Return of opioid effects from an agonist with a longer half-life than naloxone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#01a52e",
+   "kind": "mcq",
+   "stem": "How long does naloxone's effect last?",
+   "options": [
+    "2–4 hours",
+    "30–40 hours",
+    "30–40 minutes",
+    "4–6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#a93000",
+   "kind": "statement",
+   "stem": "Naloxone is shorter acting than which opioids?",
+   "answer": "Morphine and high-dose fentanyl",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/naloxone#02dd93",
+   "kind": "mcq",
+   "stem": "How long should a patient be observed after the last naloxone dose?",
+   "options": [
+    "At least 30 minutes symptom-free",
+    "At least 6 hours symptom-free",
+    "At least 12 hours symptom-free",
+    "At least 2 hours symptom-free"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

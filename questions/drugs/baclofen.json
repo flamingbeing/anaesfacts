@@ -1,0 +1,157 @@
+{
+ "topic": "drugs/baclofen",
+ "questions": [
+  {
+   "fact_id": "drugs/baclofen#683c50",
+   "kind": "mcq",
+   "stem": "What tablet strengths of oral baclofen are available?",
+   "options": [
+    "2.5 mg and 5 mg",
+    "5 mg and 10 mg",
+    "10 mg and 20 mg",
+    "25 mg and 50 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#fefddb",
+   "kind": "mcq",
+   "stem": "How often is oral baclofen given?",
+   "options": [
+    "Once daily",
+    "Twice daily",
+    "Three times daily",
+    "Four times daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#434795",
+   "kind": "mcq",
+   "stem": "How often should oral baclofen be titrated to effect?",
+   "options": [
+    "Every 24 hours",
+    "Every 3 days",
+    "Every 7 days",
+    "Every 2 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#03a394",
+   "kind": "mcq",
+   "stem": "What is intrathecal baclofen used for?",
+   "options": [
+    "Acute migraine",
+    "Severe spasticity",
+    "Status epilepticus",
+    "Postoperative nausea"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#42000a",
+   "kind": "statement",
+   "stem": "How should oral baclofen be discontinued?",
+   "answer": "Slow taper, never abruptly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#61e39c",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral dose of baclofen?",
+   "options": [
+    "40 mg/day",
+    "60 mg/day",
+    "80 mg/day",
+    "120 mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#8dd65f",
+   "kind": "mcq",
+   "stem": "What is the initial intrathecal trial dose of baclofen?",
+   "options": [
+    "5-10 mcg",
+    "500-1000 mcg",
+    "1-2 mg",
+    "50-100 mcg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#b69a78",
+   "kind": "statement",
+   "stem": "What is the mechanism of action of baclofen?",
+   "answer": "Agonist at presynaptic GABA-B receptors, mainly in the spinal cord",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#48be76",
+   "kind": "mcq",
+   "stem": "Which baclofen adverse effect lowers blood pressure?",
+   "options": [
+    "Hypertension",
+    "Hyperglycaemia",
+    "Tachycardia",
+    "Hypotension"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#f94a69",
+   "kind": "statement",
+   "stem": "How should baclofen-related transaminitis be managed?",
+   "answer": "Monitor LFTs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#218d10",
+   "kind": "statement",
+   "stem": "What features does baclofen withdrawal produce?",
+   "answer": "Hallucinations and seizures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#6130c4",
+   "kind": "mcq",
+   "stem": "What is the antidote for intrathecal baclofen overdose?",
+   "options": [
+    "Naloxone",
+    "Pyridostigmine 1 mg IV",
+    "Flumazenil",
+    "Atropine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/baclofen#909121",
+   "kind": "statement",
+   "stem": "What are the indications for baclofen?",
+   "answer": "Spasticity, and pain associated with it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

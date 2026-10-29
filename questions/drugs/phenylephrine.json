@@ -1,0 +1,253 @@
+{
+ "topic": "drugs/phenylephrine",
+ "questions": [
+  {
+   "fact_id": "drugs/phenylephrine#054501",
+   "kind": "mcq",
+   "stem": "Phenylephrine injection is a clear solution supplied at what strength?",
+   "options": [
+    "1 mg in 1 ml",
+    "10 mg in 10 ml",
+    "50 mg in 1 ml",
+    "10 mg in 1 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#574543",
+   "kind": "statement",
+   "stem": "How is the 1000 mcg in 10 ml (100 mcg/ml) phenylephrine presentation given?",
+   "answer": "Neat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#bdf707",
+   "kind": "mcq",
+   "stem": "For a longer phenylephrine effect, which routes are used?",
+   "options": [
+    "IV bolus only",
+    "IM or SC",
+    "Intrathecal only",
+    "Oral only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#b7ff19",
+   "kind": "mcq",
+   "stem": "What is the usual IV bolus dose of phenylephrine?",
+   "options": [
+    "5–10 mcg",
+    "500–1000 mcg",
+    "50–100 mcg",
+    "1–2 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#acaf50",
+   "kind": "mcq",
+   "stem": "What is the usual IM or SC phenylephrine dose?",
+   "options": [
+    "0.2–0.5 mg",
+    "20–50 mg",
+    "2–5 mg",
+    "200–500 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#c98f26",
+   "kind": "mcq",
+   "stem": "What starting infusion rate of phenylephrine was used in a ward patient?",
+   "options": [
+    "50 mcg/hr",
+    "5000 mcg/hr",
+    "5 mg/hr",
+    "500 mcg/hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#9fd83a",
+   "kind": "mcq",
+   "stem": "Which receptors does phenylephrine act on?",
+   "options": [
+    "Beta-1 adrenoceptors only",
+    "Muscarinic receptors only",
+    "Pure α1 agonist; no β-adrenoceptor action",
+    "Alpha-1 and beta-1 adrenoceptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#ac20c6",
+   "kind": "mcq",
+   "stem": "What is the central nervous system effect of phenylephrine?",
+   "options": [
+    "Marked stimulation",
+    "No stimulation",
+    "Sedation",
+    "Lowered seizure threshold"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#5ea0c3",
+   "kind": "mcq",
+   "stem": "How does phenylephrine change renal blood flow?",
+   "options": [
+    "Rises, as with dopamine",
+    "Unchanged, as with ephedrine",
+    "Falls, as with noradrenaline",
+    "Stops completely, as with adrenaline"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#41333a",
+   "kind": "mcq",
+   "stem": "In obstetrics, what has limited phenylephrine uptake despite a better cord gas profile?",
+   "options": [
+    "Poor cord gas profile",
+    "Risk of accidental overdose",
+    "Lower maternal blood pressure",
+    "Lack of clinical evidence"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#628eeb",
+   "kind": "mcq",
+   "stem": "In ischaemic heart disease, what is the main concern with phenylephrine?",
+   "options": [
+    "Bronchospasm may occur",
+    "Cardiac output can fall",
+    "Platelet count may drop",
+    "Urine output rises sharply"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#f31c1e",
+   "kind": "mcq",
+   "stem": "Phenylephrine treats low systemic vascular resistance caused by which situation?",
+   "options": [
+    "Hypertensive emergency",
+    "Cardiac tamponade",
+    "Tension pneumothorax",
+    "Spinal anaesthesia or drugs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#a72637",
+   "kind": "mcq",
+   "stem": "Phenylephrine suits which blood pressure and heart rate pairing?",
+   "options": [
+    "High blood pressure with a low heart rate",
+    "Low blood pressure with a low heart rate",
+    "Low blood pressure with a high heart rate",
+    "Normal blood pressure with a high heart rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#083232",
+   "kind": "mcq",
+   "stem": "Phenylephrine is also used as which non-cardiac agent?",
+   "options": [
+    "Antiemetic and sedative",
+    "Local anaesthetic and antiarrhythmic",
+    "Bronchodilator and mucolytic",
+    "Nasal decongestant and mydriatic"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#ef89d4",
+   "kind": "statement",
+   "stem": "What role does phenylephrine have in supraventricular tachycardia with hypotension?",
+   "answer": "Possible role, but limited",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#e3e30e",
+   "kind": "mcq",
+   "stem": "How soon after an IV bolus does phenylephrine reach its peak effect?",
+   "options": [
+    "5-10 sec",
+    "27-40 sec",
+    "2-3 min",
+    "10-15 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#e3e30e",
+   "kind": "mcq",
+   "stem": "How long does an IV phenylephrine bolus last?",
+   "options": [
+    "15-20 min",
+    "1-2 min",
+    "1 hour",
+    "4-6 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#ae9fb9",
+   "kind": "mcq",
+   "stem": "How soon does IM or SC phenylephrine start to act?",
+   "options": [
+    "Immediately",
+    "15 minutes",
+    "45 minutes",
+    "90 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phenylephrine#103c23",
+   "kind": "statement",
+   "stem": "Which enzyme metabolises phenylephrine in the liver?",
+   "answer": "MAO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

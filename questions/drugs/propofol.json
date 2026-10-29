@@ -1,0 +1,679 @@
+{
+ "topic": "drugs/propofol",
+ "questions": [
+  {
+   "fact_id": "drugs/propofol#67af91",
+   "kind": "mcq",
+   "stem": "How much propofol is in a standard 20 ml ampoule of 1% propofol?",
+   "options": [
+    "100 mg",
+    "200 mg",
+    "400 mg",
+    "50 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#d383e2",
+   "kind": "mcq",
+   "stem": "Which component makes up 10% of the propofol emulsion?",
+   "options": [
+    "Egg lecithin",
+    "Glycerol",
+    "Soybean oil",
+    "Ethanol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#a2f9a1",
+   "kind": "mcq",
+   "stem": "Roughly how much energy does propofol provide per ml?",
+   "options": [
+    "0.5 kcal/ml",
+    "1.1 kcal/ml",
+    "2.2 kcal/ml",
+    "4.0 kcal/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#a2f9a1",
+   "kind": "statement",
+   "stem": "Which complication can long, high-dose ICU propofol infusions cause?",
+   "answer": "Hypertriglyceridaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#cb809f",
+   "kind": "mcq",
+   "stem": "Propofol is a weak organic acid. What is its pKa?",
+   "options": [
+    "7",
+    "9",
+    "11",
+    "13"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#a3fadd",
+   "kind": "blank",
+   "stem": "Since 1996, propofol has contained disodium ____ to inhibit bacterial growth.",
+   "answer": "edetate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#ad0c06",
+   "kind": "mcq",
+   "stem": "How should propofol be given?",
+   "options": [
+    "Intramuscular, diluted in saline",
+    "Intravenous only, given neat",
+    "Subcutaneous, after dilution",
+    "Oral, in water"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#56fcfb",
+   "kind": "statement",
+   "stem": "Which properties make propofol suited to target-controlled infusion?",
+   "answer": "Rapid onset, short action and easy titration.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#488a1c",
+   "kind": "statement",
+   "stem": "Why is opened propofol prone to bacterial contamination?",
+   "answer": "Its lipid emulsion supports bacterial growth, and contamination rises quickly with time.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#ee679c",
+   "kind": "mcq",
+   "stem": "Per FDA, within how many hours of opening or filling must a propofol syringe or vial be started?",
+   "options": [
+    "6 hours",
+    "12 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#ee679c",
+   "kind": "mcq",
+   "stem": "Per FDA, within how many hours of spiking must a 100 mL propofol vial infused directly be used?",
+   "options": [
+    "6 hours",
+    "24 hours",
+    "12 hours",
+    "72 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#6d558a",
+   "kind": "mcq",
+   "stem": "What should be used to disinfect the rubber stopper of a propofol vial?",
+   "options": [
+    "Sterile saline",
+    "70% isopropyl alcohol",
+    "Povidone-iodine",
+    "Hydrogen peroxide 3%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#eafe09",
+   "kind": "mcq",
+   "stem": "What is the usual adult induction dose of propofol?",
+   "options": [
+    "0.2-0.5 mg/kg",
+    "1.5-2.5 mg/kg",
+    "5-10 mg/kg",
+    "10-20 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#1c4b37",
+   "kind": "mcq",
+   "stem": "What is the usual paediatric induction dose of propofol?",
+   "options": [
+    "0.05-0.1 mg/kg",
+    "2.5-5 mg/kg",
+    "6-8 mg/kg",
+    "10-12 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#d6a09a",
+   "kind": "mcq",
+   "stem": "What is the induction dose for older or high-risk patients on propofol?",
+   "options": [
+    "2 mg/kg or less",
+    "1 mg/kg or less",
+    "3-4 mg/kg",
+    "5 mg/kg or less"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#4fba52",
+   "kind": "mcq",
+   "stem": "What TCI target is typical for propofol TIVA maintenance?",
+   "options": [
+    "0.5-1.5 mcg/ml",
+    "2-5 mcg/ml",
+    "6-8 mcg/ml",
+    "10-12 mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#33af38",
+   "kind": "mcq",
+   "stem": "What TCI target is typical for propofol sedation under local or regional anaesthesia?",
+   "options": [
+    "0.5-1.5 mcg/ml",
+    "2-5 mcg/ml",
+    "10-12 mcg/ml",
+    "0.05-0.1 mcg/ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#85a0f8",
+   "kind": "mcq",
+   "stem": "At what propofol TCI concentration do most patients wake?",
+   "options": [
+    "0.5-1 mcg/ml",
+    "1-2 mcg/ml",
+    "5-6 mcg/ml",
+    "10-12 mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#e218b2",
+   "kind": "mcq",
+   "stem": "What is the usual propofol sedation infusion rate?",
+   "options": [
+    "5-10 mcg/kg/min",
+    "25-100 mcg/kg/min",
+    "300-400 mcg/kg/min",
+    "1-2 mg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#f02d7b",
+   "kind": "mcq",
+   "stem": "A propofol infusion of 25-100 mcg/kg/min equals what in mg/kg/hr?",
+   "options": [
+    "0.15-0.6 mg/kg/hr",
+    "1.5-6 mg/kg/hr",
+    "15-60 mg/kg/hr",
+    "0.5-2 mg/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#feb83f",
+   "kind": "mcq",
+   "stem": "What is the usual propofol maintenance infusion rate?",
+   "options": [
+    "5-20 mcg/kg/min",
+    "50-200 mcg/kg/min",
+    "400-600 mcg/kg/min",
+    "1-2 mg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#408129",
+   "kind": "mcq",
+   "stem": "A propofol maintenance infusion of 50-200 mcg/kg/min equals what in mg/kg/hr?",
+   "options": [
+    "0.3-1.2 mg/kg/hr",
+    "3-12 mg/kg/hr",
+    "6-24 mg/kg/hr",
+    "30-120 mg/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#c4afde",
+   "kind": "mcq",
+   "stem": "What is the onset time of propofol after an IV bolus?",
+   "options": [
+    "2-3 min",
+    "30-45 sec",
+    "10-15 sec",
+    "5-10 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#cda367",
+   "kind": "mcq",
+   "stem": "When does propofol reach its peak effect after an IV bolus?",
+   "options": [
+    "30 sec",
+    "10 min",
+    "2 min",
+    "20 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#9e611d",
+   "kind": "mcq",
+   "stem": "How long does a single propofol bolus typically last?",
+   "options": [
+    "3-8 min",
+    "15-30 min",
+    "30-45 sec",
+    "1-2 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#9e611d",
+   "kind": "statement",
+   "stem": "How long does reorientation take after a propofol bolus?",
+   "answer": "10–20 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#b10cef",
+   "kind": "statement",
+   "stem": "How should propofol dosing change in renal or liver failure?",
+   "answer": "No change; it does not accumulate there.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#24df2d",
+   "kind": "mcq",
+   "stem": "Which receptor does propofol act on?",
+   "options": [
+    "NMDA receptor",
+    "GABA-A receptor",
+    "Mu opioid receptor",
+    "Nicotinic receptor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#ec1d3c",
+   "kind": "statement",
+   "stem": "How does propofol affect the cardiovascular system compared with other induction agents?",
+   "answer": "It causes the greatest depression of any induction agent, with profound hypotension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#8dc2c8",
+   "kind": "statement",
+   "stem": "What respiratory effect does propofol commonly cause?",
+   "answer": "Apnoea.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#2bc915",
+   "kind": "mcq",
+   "stem": "What happens to intracranial pressure after propofol?",
+   "options": [
+    "It rises briefly",
+    "It falls",
+    "It is unchanged",
+    "It doubles"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#998847",
+   "kind": "statement",
+   "stem": "Unlike opioids, how does propofol affect pruritus, and what may explain it?",
+   "answer": "It is antipruritic; D2 antagonism may explain it.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#664a1f",
+   "kind": "mcq",
+   "stem": "Compared with opioids, how does propofol affect nausea and vomiting?",
+   "options": [
+    "It is emetogenic",
+    "It is antiemetic",
+    "It has no effect",
+    "It is prokinetic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#293095",
+   "kind": "mcq",
+   "stem": "Pain on propofol injection occurs in up to what percentage of patients?",
+   "options": [
+    "15%",
+    "45%",
+    "67%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#293095",
+   "kind": "statement",
+   "stem": "Which two measures reduce pain on propofol injection?",
+   "answer": "Lignocaine or a larger vein.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#3943fe",
+   "kind": "mcq",
+   "stem": "Propofol can cause excitatory movements such as myoclonus or hiccups in up to what percentage?",
+   "options": [
+    "2%",
+    "10%",
+    "25%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#842806",
+   "kind": "statement",
+   "stem": "What is fat overload syndrome in prolonged propofol infusion?",
+   "answer": "Hyperlipidaemia with fatty infiltration of the heart, liver, kidneys and lungs.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#a526cc",
+   "kind": "statement",
+   "stem": "What causes urine to turn green during propofol infusion?",
+   "answer": "A phenolic metabolite; benign and resolves on stopping.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#cd8403",
+   "kind": "mcq",
+   "stem": "In propofol-related infusion syndrome, how common is new metabolic acidosis?",
+   "options": [
+    "60%",
+    "70%",
+    "86%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#cd8403",
+   "kind": "mcq",
+   "stem": "In propofol-related infusion syndrome, how common is cardiac dysfunction such as bradycardia?",
+   "options": [
+    "50%",
+    "61%",
+    "88%",
+    "98%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#cd8403",
+   "kind": "statement",
+   "stem": "Which muscle injury is a feature of propofol-related infusion syndrome?",
+   "answer": "Rhabdomyolysis of cardiac and skeletal muscle.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#539470",
+   "kind": "mcq",
+   "stem": "In which situation should propofol be used with caution or avoided?",
+   "options": [
+    "Haemodynamic instability",
+    "Renal impairment",
+    "Hepatic failure",
+    "Pregnancy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#a2a292",
+   "kind": "mcq",
+   "stem": "Up to what age does the CSM contraindicate propofol for ICU sedation?",
+   "options": [
+    "12 years and under",
+    "16 years and under",
+    "18 years and under",
+    "8 years and under"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#5e213f",
+   "kind": "mcq",
+   "stem": "How widely is propofol used for induction and maintenance of anaesthesia?",
+   "options": [
+    "Most commonly used agent",
+    "Rarely used agent",
+    "Used only in ICU",
+    "Second-line agent"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#edf453",
+   "kind": "mcq",
+   "stem": "In which airway condition is propofol indicated?",
+   "options": [
+    "Croup",
+    "Reactive airway disease",
+    "Pulmonary oedema",
+    "Epiglottitis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#31a010",
+   "kind": "mcq",
+   "stem": "Propofol is indicated for which neurological emergency?",
+   "options": [
+    "Status epilepticus",
+    "Migraine",
+    "Bell's palsy",
+    "Guillain-Barre syndrome"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#947a03",
+   "kind": "mcq",
+   "stem": "What percentage of propofol is bound to albumin?",
+   "options": [
+    "40%",
+    "60%",
+    "80%",
+    "98%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#b95abc",
+   "kind": "mcq",
+   "stem": "What is propofol's volume of distribution, the largest of the induction agents?",
+   "options": [
+    "1 L/kg",
+    "2 L/kg",
+    "4 L/kg",
+    "8 L/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#5e6218",
+   "kind": "statement",
+   "stem": "Why does propofol have a short action after a single bolus?",
+   "answer": "Plasma levels fall fast as it redistributes to well-perfused tissues.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#be0995",
+   "kind": "blank",
+   "stem": "Propofol is mainly metabolised by ____ metabolism to inactive products excreted in urine.",
+   "answer": "hepatic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#e40df2",
+   "kind": "mcq",
+   "stem": "About what percentage of propofol is conjugated to a glucuronide?",
+   "options": [
+    "15%",
+    "40%",
+    "75%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#6bb668",
+   "kind": "mcq",
+   "stem": "About what percentage of propofol is converted to a quinol?",
+   "options": [
+    "10%",
+    "25%",
+    "60%",
+    "85%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#f5b6d2",
+   "kind": "statement",
+   "stem": "Why does some propofol metabolism occur outside the liver?",
+   "answer": "Its clearance exceeds hepatic blood flow.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#cf3fb0",
+   "kind": "mcq",
+   "stem": "What is propofol's usual terminal elimination half-life?",
+   "options": [
+    "5-12 hours",
+    "1-2 hours",
+    "15-20 hours",
+    "30-40 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/propofol#c2f9ed",
+   "kind": "mcq",
+   "stem": "What happens to propofol's context-sensitive half-time with prolonged infusion?",
+   "options": [
+    "It rises",
+    "It falls",
+    "It stays the same",
+    "It halves"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

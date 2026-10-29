@@ -1,0 +1,161 @@
+{
+ "topic": "drugs/dopexamine",
+ "questions": [
+  {
+   "fact_id": "drugs/dopexamine#1ea057",
+   "kind": "mcq",
+   "stem": "How is dopexamine supplied for intravenous use?",
+   "options": [
+    "50 mg in 5 ml (pH 2.5)",
+    "50 mg in 10 ml (pH 7.4)",
+    "5 mg in 5 ml (pH 2.5)",
+    "50 mg in 2 ml (pH 6.0)"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#a1e869",
+   "kind": "mcq",
+   "stem": "What is the dopexamine infusion dose range?",
+   "options": [
+    "0.05–0.6 mcg/kg/min",
+    "5–20 mcg/kg/min",
+    "0.5–6 mcg/kg/min",
+    "2–10 mcg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#281ce0",
+   "kind": "mcq",
+   "stem": "Which receptors does dopexamine stimulate?",
+   "options": [
+    "α1 and α2 adrenoceptors",
+    "β2 and dopamine D1 receptors",
+    "β1 and muscarinic M2 receptors",
+    "D2 and histamine H1 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#561595",
+   "kind": "mcq",
+   "stem": "What is dopexamine's effect at alpha-adrenergic receptors?",
+   "options": [
+    "Strong alpha-1 agonism",
+    "Partial alpha-2 agonism",
+    "No alpha effect",
+    "Alpha-1 blockade"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#8a27ad",
+   "kind": "mcq",
+   "stem": "Through which receptors does dopexamine produce its positive inotropic effect?",
+   "options": [
+    "Renal dopamine D2 receptors",
+    "Cardiac β2 receptors",
+    "Cardiac muscarinic receptors",
+    "Peripheral α1 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#ce09b8",
+   "kind": "statement",
+   "stem": "How does dopexamine's peripheral β2 action affect cardiac output and blood pressure?",
+   "answer": "Afterload reduction raises cardiac output; blood pressure may fall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#9af156",
+   "kind": "mcq",
+   "stem": "What does dopexamine do to gut and kidney blood flow?",
+   "options": [
+    "Decreases both",
+    "Increases gut and kidney blood flow",
+    "Increases kidney, decreases gut flow",
+    "No change to either organ"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#116483",
+   "kind": "mcq",
+   "stem": "What is dopexamine's respiratory effect, via its β2 action?",
+   "options": [
+    "Bronchoconstriction",
+    "Respiratory depression",
+    "Bronchodilation",
+    "Mucosal secretion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#7b7064",
+   "kind": "mcq",
+   "stem": "Which gastrointestinal adverse effects can dopexamine cause?",
+   "options": [
+    "Constipation and ileus",
+    "Nausea and vomiting",
+    "Diarrhoea and cramps",
+    "Dry mouth and dysphagia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#2b9b4c",
+   "kind": "mcq",
+   "stem": "What is dopexamine indicated for?",
+   "options": [
+    "Reversing neuromuscular blockade",
+    "Improving cardiac output and mesenteric perfusion",
+    "Bronchospasm in asthma",
+    "Treating supraventricular tachycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#c3cf97",
+   "kind": "mcq",
+   "stem": "What is dopexamine's elimination half-life?",
+   "options": [
+    "7 hours",
+    "70 minutes",
+    "7 minutes",
+    "45 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopexamine#c3cf97",
+   "kind": "statement",
+   "stem": "How quickly is dopexamine cleared from the body?",
+   "answer": "Rapidly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

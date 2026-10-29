@@ -1,0 +1,703 @@
+{
+ "topic": "drugs/gabapentinoids",
+ "questions": [
+  {
+   "fact_id": "drugs/gabapentinoids#6f6dc5",
+   "kind": "mcq",
+   "stem": "When starting gabapentin, what total daily dose range is used?",
+   "options": [
+    "1200 mg to 1800 mg per day",
+    "100 mg to 300 mg per day",
+    "50 mg to 75 mg per day",
+    "3600 mg to 4800 mg per day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#6f6dc5",
+   "kind": "blank",
+   "stem": "When titrating gabapentin, each step increases the dose by ____ mg.",
+   "answer": "100–300",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#6f6dc5",
+   "kind": "mcq",
+   "stem": "How often should gabapentin be increased when titrating up?",
+   "options": [
+    "Every 2–3 weeks",
+    "Every 1–3 days",
+    "Every 30 minutes",
+    "Once only, at day 14"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#d034f9",
+   "kind": "mcq",
+   "stem": "In the example gabapentin titration, what is the dose on day two?",
+   "options": [
+    "300 mg once a day",
+    "300 mg three times a day",
+    "600 mg once a day",
+    "300 mg twice a day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#d034f9",
+   "kind": "mcq",
+   "stem": "In the example gabapentin titration, what is the dose on day three?",
+   "options": [
+    "300 mg twice a day",
+    "900 mg once a day",
+    "300 mg three times a day",
+    "600 mg three times a day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#7a051a",
+   "kind": "mcq",
+   "stem": "When should the first gabapentin dose be given?",
+   "options": [
+    "On waking in the morning",
+    "At midday with lunch",
+    "In the evening",
+    "Only after the first week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#62f224",
+   "kind": "mcq",
+   "stem": "How soon is gabapentin's effect usually seen?",
+   "options": [
+    "Within the first hour",
+    "Only after six months",
+    "Within the first week",
+    "Only after a year of use"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#62f224",
+   "kind": "mcq",
+   "stem": "Sometimes, how long can gabapentin take to give clear improvement?",
+   "options": [
+    "A month",
+    "Two days",
+    "Six months",
+    "A year"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#fbe10b",
+   "kind": "mcq",
+   "stem": "How should gabapentin be stopped to avoid withdrawal symptoms or seizures?",
+   "options": [
+    "Stop abruptly at any dose",
+    "Taper over one to two days",
+    "Taper over more than seven days",
+    "Stop abruptly after a week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#693580",
+   "kind": "mcq",
+   "stem": "When should gabapentin doses be titrated up and down?",
+   "options": [
+    "Only in the middle of treatment",
+    "At the start and end of treatment",
+    "Never, the dose stays fixed",
+    "Only after a month of use"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#753e8a",
+   "kind": "mcq",
+   "stem": "What is the maximum three-times-daily gabapentin dose for postherpetic neuralgia?",
+   "options": [
+    "300 mg",
+    "900 mg",
+    "1200 mg",
+    "600 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#7142ad",
+   "kind": "mcq",
+   "stem": "What is the maximum daily gabapentin dose for epilepsy?",
+   "options": [
+    "1800 mg per day",
+    "2400 mg per day",
+    "3600 mg per day",
+    "4800 mg per day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#7142ad",
+   "kind": "mcq",
+   "stem": "What is an example three-times-daily gabapentin dose in epilepsy?",
+   "options": [
+    "600 mg",
+    "900 mg",
+    "1200 mg",
+    "2400 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#cf3b49",
+   "kind": "mcq",
+   "stem": "What is the daily gabapentin dose range for focal seizures?",
+   "options": [
+    "300–600 mg/day",
+    "1800–2400 mg/day",
+    "900–1200 mg/day",
+    "3600–4800 mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#88ac36",
+   "kind": "mcq",
+   "stem": "What is the daily gabapentin dose for neuropathic pain?",
+   "options": [
+    "600 mg/day",
+    "900 mg/day",
+    "1800 mg/day",
+    "3600 mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#41f632",
+   "kind": "mcq",
+   "stem": "What single preoperative oral gabapentin dose is used for postoperative pain?",
+   "options": [
+    "1200–2400 mg",
+    "300–1200 mg",
+    "50–100 mg",
+    "2400–3600 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#799f39",
+   "kind": "mcq",
+   "stem": "What role does gabapentin play in postoperative pain?",
+   "options": [
+    "Local anaesthetic infiltrant",
+    "Sole analgesic, replacing opioids",
+    "Adjuvant analgesic",
+    "Reversal agent for opioids"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#f7cd1b",
+   "kind": "mcq",
+   "stem": "What does gabapentin's opioid-sparing effect mean?",
+   "options": [
+    "Higher opioid requirement with more sedation",
+    "No change in opioid requirement",
+    "Lower opioid requirement and fewer opioid side effects",
+    "Complete replacement of all opioids"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#e18b4f",
+   "kind": "statement",
+   "stem": "What might gabapentin given before surgery help prevent?",
+   "answer": "Central sensitisation, and later hyperalgesia or allodynia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#7229c8",
+   "kind": "mcq",
+   "stem": "How certain is gabapentin's anxiolytic effect?",
+   "options": [
+    "Well established",
+    "Proven and dose-dependent",
+    "Possible but uncertain",
+    "Known to be absent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#1ee42c",
+   "kind": "mcq",
+   "stem": "What other receptor activity may gabapentin have?",
+   "options": [
+    "NMDA antagonist activity",
+    "GABA-A agonist activity",
+    "Opioid mu receptor agonism",
+    "Serotonin reuptake inhibition"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#37f269",
+   "kind": "mcq",
+   "stem": "Gabapentin resembles GABA in structure. What is its effect on GABA receptors?",
+   "options": [
+    "Binds and activates GABA-A receptors",
+    "Blocks GABA reuptake transporters",
+    "Increases GABA synthesis in neurones",
+    "Does not bind GABA receptors or alter GABA synthesis or uptake"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#33f38b",
+   "kind": "statement",
+   "stem": "How does gabapentin act at the presynaptic terminal?",
+   "answer": "Binds the α2δ-1 subunit of voltage-gated calcium channels, reducing excitatory neurotransmitter release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#3464ce",
+   "kind": "mcq",
+   "stem": "In renal impairment, what gabapentin dose applies when CrCl is over 60 ml/min?",
+   "options": [
+    "300 mg at night",
+    "300 mg on alternate days",
+    "100 to 300 mg once a day",
+    "300 to 1200 mg three times a day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#e2907b",
+   "kind": "mcq",
+   "stem": "In renal impairment, what gabapentin dose applies when CrCl is 15 to 59 ml/min?",
+   "options": [
+    "300 mg three times a day",
+    "300 mg at night",
+    "300 mg on alternate days",
+    "1200 mg at night"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#422b6d",
+   "kind": "mcq",
+   "stem": "In renal impairment, what gabapentin dose applies when CrCl is exactly 15 ml/min?",
+   "options": [
+    "300 mg at night",
+    "300 mg three times a day",
+    "600 mg on alternate days",
+    "300 mg on alternate days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#ec7c4e",
+   "kind": "statement",
+   "stem": "How should gabapentin dosing be set when CrCl is below 15 ml/min?",
+   "answer": "Reduce the daily dose in proportion to CrCl, based on the dose for 15 ml/min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#47af18",
+   "kind": "mcq",
+   "stem": "How is gabapentin eliminated from the body?",
+   "options": [
+    "Metabolised by the liver, not excreted",
+    "Excreted only in bile",
+    "Excreted only by the kidneys",
+    "Excreted by kidneys and bile equally"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#0a1a05",
+   "kind": "mcq",
+   "stem": "How readily does gabapentin cross the blood–brain barrier?",
+   "options": [
+    "Does not cross at all",
+    "Crosses only in pregnancy",
+    "Crosses readily",
+    "Crosses only with transporters"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#d2183e",
+   "kind": "mcq",
+   "stem": "Which drug was designed as the successor to gabapentin?",
+   "options": [
+    "Duloxetine",
+    "Lamotrigine",
+    "Pregabalin",
+    "Carbamazepine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#b6bb97",
+   "kind": "mcq",
+   "stem": "What is the approximate potency ratio of pregabalin to gabapentin?",
+   "options": [
+    "1:3",
+    "1:10",
+    "1:6",
+    "1:12"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#f5dd97",
+   "kind": "mcq",
+   "stem": "Which target does pregabalin bind in cortical neurones?",
+   "options": [
+    "NMDA receptor channel",
+    "GABA-A receptor",
+    "α2δ-1 subunit",
+    "Mu opioid receptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#372adb",
+   "kind": "mcq",
+   "stem": "Which side effects are common with pregabalin?",
+   "options": [
+    "Hair loss and rash",
+    "Dizziness and drowsiness",
+    "Hypoglycaemia and tremor",
+    "Constipation and urinary retention"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#2818e7",
+   "kind": "statement",
+   "stem": "Which other side effects does pregabalin cause?",
+   "answer": "Weight gain, confusion, ataxia, GI upset, erectile dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#805ab7",
+   "kind": "mcq",
+   "stem": "How is pregabalin used in epilepsy?",
+   "options": [
+    "Monotherapy for generalised tonic-clonic seizures",
+    "Adjunct for partial seizures in adults",
+    "Status epilepticus rescue in children",
+    "First-line absence seizure treatment"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#bbfb43",
+   "kind": "mcq",
+   "stem": "What is pregabalin's oral bioavailability?",
+   "options": [
+    "60%",
+    "30%",
+    "10%",
+    "90%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#bbfb43",
+   "kind": "mcq",
+   "stem": "What delays the absorption of pregabalin?",
+   "options": [
+    "Fasting",
+    "Rapid oral dosing",
+    "Food",
+    "Renal clearance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#737c07",
+   "kind": "mcq",
+   "stem": "How is pregabalin eliminated from the body?",
+   "options": [
+    "Metabolised by liver enzymes",
+    "Excreted mainly in bile",
+    "Highly protein bound",
+    "Excreted in urine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#884b4e",
+   "kind": "mcq",
+   "stem": "What is gabapentin's oral bioavailability?",
+   "options": [
+    "About 90%",
+    "About 30%",
+    "About 60%",
+    "About 100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#884b4e",
+   "kind": "mcq",
+   "stem": "How does gabapentin's oral bioavailability change as the dose rises?",
+   "options": [
+    "Rises as the dose rises",
+    "Stays the same at all doses",
+    "Falls as the dose rises",
+    "Doubles above 1200 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#69ea00",
+   "kind": "mcq",
+   "stem": "Why is gabapentin easier to combine with other anticonvulsants?",
+   "options": [
+    "Strongly inhibits liver enzymes",
+    "Highly protein bound and metabolised",
+    "Not protein bound and not metabolised",
+    "Metabolised to active drugs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#eced9f",
+   "kind": "mcq",
+   "stem": "What is gabapentin's elimination half-life?",
+   "options": [
+    "6 hours",
+    "1 hour",
+    "24 hours",
+    "48 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#f98690",
+   "kind": "mcq",
+   "stem": "Which gabapentin side effect is the most common?",
+   "options": [
+    "Constipation",
+    "Drowsiness or somnolence",
+    "Rash",
+    "Hypotension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#f98690",
+   "kind": "mcq",
+   "stem": "When is gabapentin-related drowsiness most common?",
+   "options": [
+    "After six months of use",
+    "During initial titration",
+    "Only at maintenance doses",
+    "Only after stopping the drug"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#aee7f2",
+   "kind": "mcq",
+   "stem": "Which psychiatric effect is linked to gabapentin?",
+   "options": [
+    "Hypertension",
+    "Depression",
+    "Tinnitus",
+    "Hypokalaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#73f1e9",
+   "kind": "mcq",
+   "stem": "Which seizure type is gabapentin mainly used for?",
+   "options": [
+    "Absence seizures",
+    "Status epilepticus",
+    "Infantile spasms",
+    "Focal seizures"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#b1df11",
+   "kind": "mcq",
+   "stem": "Which type of pain is gabapentin mainly used for?",
+   "options": [
+    "Acute visceral pain",
+    "Neuropathic pain",
+    "Migraine headache",
+    "Dental pain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#b1df11",
+   "kind": "mcq",
+   "stem": "Which nerve-related condition is gabapentin used to treat?",
+   "options": [
+    "Acute appendicitis",
+    "Gout flare",
+    "Postherpetic neuralgia",
+    "Tension headache"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#4c162a",
+   "kind": "mcq",
+   "stem": "Over how many days should gabapentin be titrated up in children?",
+   "options": [
+    "1–2 days",
+    "10–14 days",
+    "2–4 weeks",
+    "3–7 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#07333b",
+   "kind": "mcq",
+   "stem": "What is the starting oral gabapentin dose per kg in children?",
+   "options": [
+    "50 mg/kg/dose",
+    "2 mg/kg/dose",
+    "5 mg/kg/dose",
+    "30 mg/kg/dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#6dcba6",
+   "kind": "mcq",
+   "stem": "What is the maintenance gabapentin dose per kg in children?",
+   "options": [
+    "5–10 mg/kg/dose",
+    "15–30 mg/kg/dose",
+    "50–100 mg/kg/dose",
+    "100–300 mg/kg/dose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/gabapentinoids#e49fa1",
+   "kind": "mcq",
+   "stem": "How would you describe the usual severity of gabapentin side effects?",
+   "options": [
+    "Usually severe",
+    "Often life-threatening",
+    "Generally mild",
+    "Mostly unnoticed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

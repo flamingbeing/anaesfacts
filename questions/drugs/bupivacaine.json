@@ -1,0 +1,195 @@
+{
+ "topic": "drugs/bupivacaine",
+ "questions": [
+  {
+   "fact_id": "drugs/bupivacaine#bfae2c",
+   "kind": "mcq",
+   "stem": "Which bupivacaine concentrations are available?",
+   "options": [
+    "0.1% and 0.2%",
+    "0.25% and 0.5%",
+    "0.5% and 1%",
+    "1% and 2%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#9079de",
+   "kind": "mcq",
+   "stem": "Which bupivacaine preparation is used for subarachnoid block?",
+   "options": [
+    "Plain bupivacaine 0.25%",
+    "Ropivacaine 0.75%",
+    "Lignocaine 2%",
+    "Heavy bupivacaine 0.5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#ccd162",
+   "kind": "mcq",
+   "stem": "How much glucose does heavy bupivacaine 0.5% contain?",
+   "options": [
+    "8 mg/ml",
+    "80 mg/ml",
+    "40 mg/ml",
+    "800 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#ccd162",
+   "kind": "mcq",
+   "stem": "What is the specific gravity of heavy bupivacaine 0.5%?",
+   "options": [
+    "1.000",
+    "1.026",
+    "1.126",
+    "0.926"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#60f2ae",
+   "kind": "mcq",
+   "stem": "What is the toxic dose of bupivacaine?",
+   "options": [
+    "0.2 mg/kg",
+    "1 mg/kg",
+    "2 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#99c423",
+   "kind": "mcq",
+   "stem": "Bupivacaine dosage example: what volume of 0.5% for a 50 kg patient?",
+   "options": [
+    "10 ml",
+    "20 ml",
+    "40 ml",
+    "50 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#dc223b",
+   "kind": "mcq",
+   "stem": "How does bupivacaine's onset compare with lidocaine's?",
+   "options": [
+    "Clearly faster",
+    "About the same",
+    "Clearly slower",
+    "Much more rapid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#7515aa",
+   "kind": "mcq",
+   "stem": "What is the duration of action of bupivacaine?",
+   "options": [
+    "1-2 hrs",
+    "3-8 hrs",
+    "10-12 hrs",
+    "20-24 hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#382f9f",
+   "kind": "statement",
+   "stem": "Why is bupivacaine more cardiotoxic than lidocaine?",
+   "answer": "It binds cardiac sodium channels more tightly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#5e09b2",
+   "kind": "mcq",
+   "stem": "How does bupivacaine's cardiac sodium channel dissociation time compare with lidocaine's?",
+   "options": [
+    "Half as long",
+    "The same",
+    "10x longer",
+    "100x shorter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#2e2caa",
+   "kind": "mcq",
+   "stem": "What is bupivacaine's CC/CNS ratio?",
+   "options": [
+    "1",
+    "3",
+    "5",
+    "9"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#560c2b",
+   "kind": "mcq",
+   "stem": "Which local anaesthetic remains the main choice for labour and postoperative epidural infusions?",
+   "options": [
+    "Lidocaine",
+    "Bupivacaine",
+    "Prilocaine",
+    "Amethocaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#e3239d",
+   "kind": "mcq",
+   "stem": "Which amide local anaesthetic is the most highly protein bound?",
+   "options": [
+    "Lidocaine",
+    "Prilocaine",
+    "Bupivacaine",
+    "Mepivacaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/bupivacaine#857db4",
+   "kind": "mcq",
+   "stem": "What are the hepatic dealkylation products of bupivacaine?",
+   "options": [
+    "Laudanosine and acrylate",
+    "Pipecolic acid and pipecolylxylidine",
+    "Succinylmonocholine and choline",
+    "Glucuronide conjugates only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,307 @@
+{
+ "topic": "drugs/entonox",
+ "questions": [
+  {
+   "fact_id": "drugs/entonox#9b39ee",
+   "kind": "mcq",
+   "stem": "Entonox is a compressed gas that is what percentage oxygen by volume?",
+   "options": [
+    "25%",
+    "50%",
+    "33%",
+    "70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#e0e9a3",
+   "kind": "mcq",
+   "stem": "What colour are Entonox cylinders?",
+   "options": [
+    "Black with white shoulders",
+    "Grey with green shoulders",
+    "French blue with white and blue checked shoulders",
+    "Red with yellow shoulders"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#e0e9a3",
+   "kind": "mcq",
+   "stem": "At what pressure is an Entonox cylinder filled?",
+   "options": [
+    "200 bar",
+    "137 bar",
+    "69 bar",
+    "300 bar"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#2ce7b8",
+   "kind": "mcq",
+   "stem": "What is the gas volume of a J-size Entonox cylinder?",
+   "options": [
+    "3200 litres",
+    "1600 litres",
+    "6400 litres",
+    "12800 litres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#2ce7b8",
+   "kind": "mcq",
+   "stem": "What is the gas volume of a G-size Entonox cylinder?",
+   "options": [
+    "1600 litres",
+    "6400 litres",
+    "800 litres",
+    "3200 litres"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#04b184",
+   "kind": "blank",
+   "stem": "In large Entonox cylinders the dip tube ends in the ____ phase.",
+   "answer": "liquid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#04b184",
+   "kind": "mcq",
+   "stem": "What happens to oxygen below 20% in a large Entonox cylinder?",
+   "options": [
+    "It is delivered first",
+    "It is not delivered",
+    "It is delivered at double rate",
+    "It is mixed back in"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#db4964",
+   "kind": "mcq",
+   "stem": "What type of regulator is fitted to an Entonox cylinder?",
+   "options": [
+    "Single-stage fixed flow regulator",
+    "Two-stage pressure demand regulator",
+    "Venturi entrainment mask",
+    "Continuous flow flowmeter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#b852a0",
+   "kind": "mcq",
+   "stem": "When does Entonox gas flow through a mask or mouthpiece?",
+   "options": [
+    "Continuously, even between breaths",
+    "Only during exhalation",
+    "Only when the mask is removed",
+    "Only while the patient inhales"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#b52071",
+   "kind": "mcq",
+   "stem": "How should an Entonox cylinder be positioned for about 24 hours at 5°C or above before use?",
+   "options": [
+    "Vertical",
+    "Horizontal",
+    "Inverted",
+    "Upright on its base"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#4e654e",
+   "kind": "statement",
+   "stem": "Under what condition can Entonox be used before 24 hours of storage?",
+   "answer": "If it is well mixed by repeated inversion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#9498d1",
+   "kind": "mcq",
+   "stem": "Under the manufacturer's standard method, how many times is Entonox inverted after 24 hours of storage?",
+   "options": [
+    "Once",
+    "Twice",
+    "Three times",
+    "Five times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#9498d1",
+   "kind": "mcq",
+   "stem": "Under the manufacturer's standard method, at what temperature is Entonox stored for 24 hours?",
+   "options": [
+    "15°C",
+    "10°C",
+    "20°C",
+    "37°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#16bbef",
+   "kind": "mcq",
+   "stem": "Why is scavenging needed when giving Entonox?",
+   "options": [
+    "To speed up analgesia",
+    "To keep the mixture uniform",
+    "To prevent cylinder separation",
+    "To protect staff"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#a4ebf7",
+   "kind": "blank",
+   "stem": "Prolonged Entonox use should be avoided, especially in the ____.",
+   "answer": "critically ill",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#d33922",
+   "kind": "mcq",
+   "stem": "Which effect does Entonox produce in patients?",
+   "options": [
+    "Muscle relaxation",
+    "Analgesia",
+    "Hypnosis",
+    "Bronchodilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#1e5f01",
+   "kind": "statement",
+   "stem": "What is the pseudocritical temperature of Entonox in a cylinder, below which it separates?",
+   "answer": "-7°C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#ce0501",
+   "kind": "mcq",
+   "stem": "At what cylinder pressure is Entonox separation most likely?",
+   "options": [
+    "137 bar",
+    "4.1 bar",
+    "117 bar",
+    "200 bar"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#cbca7b",
+   "kind": "mcq",
+   "stem": "At 4.1 bar in pipelines, what is the pseudocritical temperature of Entonox?",
+   "options": [
+    "above –7°C",
+    "below –30°C",
+    "above 0°C",
+    "above 20°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#9cfc80",
+   "kind": "statement",
+   "stem": "What does the liquid phase of a separated Entonox cylinder contain?",
+   "answer": "Mostly nitrous oxide with about 20% oxygen dissolved",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#fa6303",
+   "kind": "statement",
+   "stem": "What is the gas like early in use from a separated Entonox cylinder, and what effect does it give?",
+   "answer": "Mostly oxygen, giving little analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#1496be",
+   "kind": "statement",
+   "stem": "Why does a separated Entonox cylinder become hypoxic as it empties?",
+   "answer": "Liquid boils off, nitrous oxide concentration rises, and oxygen falls below 20%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#3495ae",
+   "kind": "mcq",
+   "stem": "How can separation in an Entonox cylinder be reversed?",
+   "options": [
+    "Chilling and leaving it horizontal",
+    "Venting the gas phase through the regulator",
+    "Rewarming and mixing the cylinder and contents",
+    "Discarding the cylinder at once"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#4c240c",
+   "kind": "blank",
+   "stem": "With prolonged use, nitrous oxide in Entonox can cause ____ effects.",
+   "answer": "bone marrow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/entonox#bd36f0",
+   "kind": "mcq",
+   "stem": "Where is Entonox used for analgesia?",
+   "options": [
+    "Dental surgery and outpatient clinics",
+    "Theatre recovery and intensive care",
+    "Emergency department, labour ward and pre-hospital care",
+    "Ward rounds and radiology suites"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
