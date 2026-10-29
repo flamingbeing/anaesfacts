@@ -1,0 +1,245 @@
+{
+ "topic": "drugs/cocaine",
+ "questions": [
+  {
+   "fact_id": "drugs/cocaine#c6f303",
+   "kind": "mcq",
+   "stem": "Cocaine is derived from the leaves of which plant?",
+   "options": [
+    "Papaver somniferum",
+    "Erythroxylon coca",
+    "Cinchona bark",
+    "Atropa belladonna"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#aa6524",
+   "kind": "mcq",
+   "stem": "Cocaine paste for topical use comes in which strength range?",
+   "options": [
+    "5% to 10%",
+    "0.1% to 0.5%",
+    "1% to 4%",
+    "20% to 25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#e818b5",
+   "kind": "mcq",
+   "stem": "In Moffat's solution, what is the concentration of cocaine?",
+   "options": [
+    "1%",
+    "4%",
+    "8%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#e818b5",
+   "kind": "mcq",
+   "stem": "In Moffat's solution, what is the strength of the adrenaline?",
+   "options": [
+    "1:1000",
+    "1:100",
+    "1:10,000",
+    "1:200,000"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#c79227",
+   "kind": "mcq",
+   "stem": "What is the maximum cocaine dose per kilogram of body weight?",
+   "options": [
+    "0.5 mg/kg",
+    "1.5 mg/kg",
+    "3 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#c79227",
+   "kind": "mcq",
+   "stem": "What is the absolute maximum cocaine dose, regardless of weight?",
+   "options": [
+    "50 mg",
+    "100 mg",
+    "200 mg",
+    "300 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#5f204a",
+   "kind": "mcq",
+   "stem": "Which two targets does cocaine block?",
+   "options": [
+    "Uptake 2 and COMT",
+    "Uptake 1 and MAO",
+    "Acetylcholinesterase and nicotinic receptors",
+    "Sodium channels and GABA-A receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#8861f1",
+   "kind": "mcq",
+   "stem": "Which central nervous system action does cocaine have?",
+   "options": [
+    "Stimulates the CNS",
+    "Depresses the CNS",
+    "Has no CNS action",
+    "Causes selective sedation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#431e5f",
+   "kind": "statement",
+   "stem": "What do cocaine's combined actions make more likely?",
+   "answer": "Hypertension and arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#9ab83b",
+   "kind": "mcq",
+   "stem": "Which temperature change does cocaine cause?",
+   "options": [
+    "Hypothermia",
+    "Hyperthermia",
+    "Bradycardia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#9d91ec",
+   "kind": "statement",
+   "stem": "What adverse effects can high-dose cocaine cause?",
+   "answer": "Confusion, hallucinations, seizures, arrhythmias, cardiac rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#7b4380",
+   "kind": "mcq",
+   "stem": "What is cocaine's main use as a local anaesthetic?",
+   "options": [
+    "Intravenous sedation",
+    "Topical anaesthesia",
+    "General anaesthesia induction",
+    "Neuromuscular blockade reversal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#c95a27",
+   "kind": "mcq",
+   "stem": "Which local effect does cocaine produce that suits topical use?",
+   "options": [
+    "Local vasoconstriction",
+    "Local vasodilation",
+    "Local lymphatic blockade",
+    "Local mucosal hypertrophy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#8503f8",
+   "kind": "mcq",
+   "stem": "Roughly what share of cocaine is protein bound?",
+   "options": [
+    "About 15%",
+    "About 50%",
+    "About 75%",
+    "About 95%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#7dd773",
+   "kind": "mcq",
+   "stem": "How is cocaine metabolised differently from other ester local anaesthetics?",
+   "options": [
+    "Renal excretion of unchanged drug",
+    "Hepatic conjugation to active metabolite",
+    "Significant hepatic hydrolysis to inactive products",
+    "Biliary excretion of active metabolite"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#8e9fb6",
+   "kind": "mcq",
+   "stem": "In what year was cocaine first used for eye anaesthesia?",
+   "options": [
+    "1874",
+    "1884",
+    "1892",
+    "1906"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#9d340c",
+   "kind": "mcq",
+   "stem": "In what year was nerve-block and peridural anaesthesia first demonstrated with cocaine?",
+   "options": [
+    "1879",
+    "1885",
+    "1890",
+    "1906"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/cocaine#e65af2",
+   "kind": "mcq",
+   "stem": "In what year was cocaine first used for spinal anaesthesia?",
+   "options": [
+    "1893",
+    "1898",
+    "1906",
+    "1912"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

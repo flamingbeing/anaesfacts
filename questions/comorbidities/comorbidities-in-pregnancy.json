@@ -1,0 +1,1695 @@
+{
+ "topic": "comorbidities/comorbidities-in-pregnancy",
+ "questions": [
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#2d1c4b",
+   "kind": "blank",
+   "stem": "In haemostatic disorders in pregnancy, avoid external cephalic version, ventouse and mid-cavity ____.",
+   "answer": "forceps",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#283f88",
+   "kind": "mcq",
+   "stem": "What share of thrombocytopenia in pregnancy is gestational?",
+   "options": [
+    "10-20%",
+    "40-50%",
+    "70-80%",
+    "95-100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#af11f5",
+   "kind": "mcq",
+   "stem": "When in pregnancy does gestational thrombocytopenia usually start?",
+   "options": [
+    "Early first trimester",
+    "Late second or third trimester",
+    "Within 48 hours of delivery",
+    "Only in the first trimester"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#25c6dd",
+   "kind": "mcq",
+   "stem": "How soon after delivery does gestational thrombocytopenia recover?",
+   "options": [
+    "Within 2 weeks",
+    "Within 2 months",
+    "Within 6 months",
+    "Within 12 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#a45738",
+   "kind": "mcq",
+   "stem": "In pregnancy thrombocytopenia, what platelet count defines severe disease?",
+   "options": [
+    "Below 100",
+    "Below 50",
+    "Below 20",
+    "Below 75"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#536965",
+   "kind": "mcq",
+   "stem": "In pregnancy thrombocytopenia, what platelet level is associated with easy bruising?",
+   "options": [
+    "Below 150 × 10^9/L",
+    "Below 100 × 10^9/L",
+    "Below 200 × 10^9/L",
+    "Below 250 × 10^9/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#afc455",
+   "kind": "mcq",
+   "stem": "For emergency caesarean in pregnancy thrombocytopenia, what is given alongside platelet transfusion?",
+   "options": [
+    "Tranexamic acid alone",
+    "Iron sucrose infusion",
+    "IVIG 1 g/kg",
+    "Desmopressin infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#6c6575",
+   "kind": "mcq",
+   "stem": "For the diagnosis of pre-eclampsia or HELLP, what platelet count is needed?",
+   "options": [
+    "Below 100,000/uL",
+    "Below 50,000/uL",
+    "Below 150,000/uL",
+    "Below 20,000/uL"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#3f3ece",
+   "kind": "mcq",
+   "stem": "What dexamethasone dose is given 12-hourly in thrombocytopenia in pregnancy?",
+   "options": [
+    "5 mg",
+    "10 mg",
+    "20 mg",
+    "4 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#3f3ece",
+   "kind": "mcq",
+   "stem": "How many dexamethasone doses are given after delivery in pregnancy thrombocytopenia?",
+   "options": [
+    "1 dose",
+    "2 doses",
+    "4 doses",
+    "6 doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#e64658",
+   "kind": "statement",
+   "stem": "In pregnancy thrombocytopenia, what mechanism do marrow failure, folate or B12 deficiency and iron deficiency share?",
+   "answer": "Reduced production",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#e47623",
+   "kind": "mcq",
+   "stem": "What platelet count does SOAP 2021 give for neuraxial block in pregnancy?",
+   "options": [
+    "above 40,000/uL",
+    "above 70,000/uL",
+    "above 100,000/uL",
+    "above 20,000/uL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#cb4d81",
+   "kind": "mcq",
+   "stem": "What platelet count does SOAP 2021 give for operative vaginal or caesarean delivery?",
+   "options": [
+    "above 20,000/uL",
+    "above 100,000/uL",
+    "above 50,000/uL",
+    "above 10,000/uL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#5869b1",
+   "kind": "mcq",
+   "stem": "What platelet count is suggested for vaginal delivery in pregnancy thrombocytopenia?",
+   "options": [
+    "above 10,000/uL",
+    "above 30,000/uL",
+    "above 50,000/uL",
+    "above 70,000/uL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#0f56be",
+   "kind": "mcq",
+   "stem": "In pregnancy, below what platelet count is spontaneous bleeding risk higher?",
+   "options": [
+    "below 50,000/uL",
+    "below 20,000/uL",
+    "below 100,000/uL",
+    "below 70,000/uL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#bd4a37",
+   "kind": "mcq",
+   "stem": "In pregnancy, below what platelet count is spontaneous internal bleeding risk higher?",
+   "options": [
+    "below 5,000/uL",
+    "below 10,000/uL",
+    "below 40,000/uL",
+    "below 80,000/uL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#f38e22",
+   "kind": "mcq",
+   "stem": "In pregnancy thrombocytopenia workup, how recent should the FBC be if pre-eclampsia is suspected?",
+   "options": [
+    "Within 6 hrs",
+    "Within 24 hrs",
+    "Within 72 hrs",
+    "Within 1 week"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#3c9e43",
+   "kind": "mcq",
+   "stem": "In von Willebrand disease type 1 in pregnancy, what VWF activity and FVIII:C level allows neuraxial to be offered?",
+   "options": [
+    "above 0.1 IU/ml",
+    "above 0.5 IU/ml",
+    "above 1.0 IU/ml",
+    "above 0.25 IU/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#009475",
+   "kind": "mcq",
+   "stem": "In von Willebrand disease, in which types is neuraxial block contraindicated?",
+   "options": [
+    "types 1 and 2",
+    "types 1 and 3",
+    "types 2 and 3",
+    "type 3 only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#a5cf7f",
+   "kind": "mcq",
+   "stem": "In pregnancy, if desmopressin (DDAVP) is given, what should be checked?",
+   "options": [
+    "Potassium",
+    "Sodium",
+    "Calcium",
+    "Glucose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#5acad0",
+   "kind": "mcq",
+   "stem": "In haemophilia A or B, what factor level is needed before neuraxial block?",
+   "options": [
+    "above 0.1 IU/ml",
+    "above 1.0 IU/ml",
+    "above 0.25 IU/ml",
+    "above 0.5 IU/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#9eedf3",
+   "kind": "statement",
+   "stem": "In haemophilia A or B, what should be done before removing an epidural catheter?",
+   "answer": "Recheck and correct",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#3f20f5",
+   "kind": "statement",
+   "stem": "Which liver disease of pregnancy is abbreviated AFLP?",
+   "answer": "Acute fatty liver of pregnancy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#a458d4",
+   "kind": "mcq",
+   "stem": "In liver disease in pregnancy, hypertension occurs in up to what share of patients?",
+   "options": [
+    "10%",
+    "25%",
+    "75%",
+    "50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#40186c",
+   "kind": "mcq",
+   "stem": "In liver disease of pregnancy, from what gestation is onset reported?",
+   "options": [
+    "12 weeks",
+    "22 weeks",
+    "28 weeks",
+    "36 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#fc87b5",
+   "kind": "mcq",
+   "stem": "In HELLP syndrome, what share of women have hypertension?",
+   "options": [
+    "25%",
+    "60%",
+    "85%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#e32fcf",
+   "kind": "mcq",
+   "stem": "In liver disease of pregnancy, when after delivery does presentation usually occur?",
+   "options": [
+    "Within 12 hours",
+    "Within 48 hours",
+    "Within 1 week",
+    "Within 2 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#05b479",
+   "kind": "blank",
+   "stem": "In liver disease in pregnancy, transaminases can exceed ____ international units/L.",
+   "answer": "1000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#05b479",
+   "kind": "mcq",
+   "stem": "In liver disease in pregnancy, what percentage of women have raised transaminases?",
+   "options": [
+    "15%",
+    "35%",
+    "60%",
+    "80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#6dfc3e",
+   "kind": "blank",
+   "stem": "In liver disease in pregnancy, total bilirubin stays below ____ mg/dL in over 90% of women.",
+   "answer": "6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#6dfc3e",
+   "kind": "mcq",
+   "stem": "In liver disease in pregnancy, what percentage of women have raised bilirubin?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#f18f10",
+   "kind": "mcq",
+   "stem": "In liver disease of hyperemesis gravidarum, by which gestation has it usually settled?",
+   "options": [
+    "12 weeks",
+    "20 weeks",
+    "28 weeks",
+    "36 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#21a0fb",
+   "kind": "mcq",
+   "stem": "In liver disease in pregnancy, about what share of admitted women have abnormal liver tests?",
+   "options": [
+    "About 15%",
+    "About 35%",
+    "About 50%",
+    "About 80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#adecc5",
+   "kind": "statement",
+   "stem": "In liver disease in pregnancy, which non-pregnancy causes must be excluded?",
+   "answer": "Viral hepatitis, autoimmune hepatitis, gallstones, Budd-Chiari, paracetamol or other drug injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#0357b3",
+   "kind": "mcq",
+   "stem": "In developed countries such as Singapore and the UK, how is cardiac disease counted in maternal deaths?",
+   "options": [
+    "Direct cause",
+    "Indirect cause",
+    "Anaesthetic complication",
+    "Coincidental finding"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#bc5736",
+   "kind": "mcq",
+   "stem": "In pregnancy, by what percentage does cardiac output rise?",
+   "options": [
+    "10-20%",
+    "30-50%",
+    "60-80%",
+    "90-100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#bc5736",
+   "kind": "mcq",
+   "stem": "In pregnancy, what mainly drives the rise in cardiac output?",
+   "options": [
+    "Stroke volume",
+    "Peripheral vascular resistance",
+    "Plasma oncotic pressure",
+    "Haemoglobin concentration"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#726f43",
+   "kind": "mcq",
+   "stem": "In labour, by up to what percentage does cardiac output rise during the first stage?",
+   "options": [
+    "Up to 15%",
+    "Up to 30%",
+    "Up to 20%",
+    "Up to 60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#726f43",
+   "kind": "mcq",
+   "stem": "Just after delivery, by up to what percentage does cardiac output rise?",
+   "options": [
+    "Up to 40%",
+    "Up to 60%",
+    "Up to 80%",
+    "Up to 100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#726f43",
+   "kind": "mcq",
+   "stem": "After delivery, for how long does cardiac output stay raised?",
+   "options": [
+    "Up to 6 hours",
+    "Up to 12 hours",
+    "Up to 24 hours",
+    "Up to 7 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#ac4763",
+   "kind": "mcq",
+   "stem": "In labour, how much blood does each contraction autotransfuse from the placenta?",
+   "options": [
+    "50-100 ml",
+    "100-200 ml",
+    "300-500 ml",
+    "800-1000 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#b35de9",
+   "kind": "mcq",
+   "stem": "In cardiac disease after delivery, when do haemodynamic shifts peak?",
+   "options": [
+    "6-12 hours",
+    "24-72 hours",
+    "7-10 days",
+    "2-4 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#b35de9",
+   "kind": "statement",
+   "stem": "In cardiac disease after delivery, which two causes carry the highest heart failure risk?",
+   "answer": "Valve disease or ventricular dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#90caa5",
+   "kind": "mcq",
+   "stem": "In pregnancy with a prosthetic valve, what should warfarin be switched to?",
+   "options": [
+    "Aspirin alone",
+    "Rivaroxaban",
+    "LMWH",
+    "Dabigatran"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#1545a5",
+   "kind": "blank",
+   "stem": "Cardiopulmonary bypass in pregnancy is ____ risk to the fetus.",
+   "answer": "high",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#c326ea",
+   "kind": "mcq",
+   "stem": "During cardiopulmonary bypass in pregnancy, what fetal risk is quoted when normothermic with good pressures?",
+   "options": [
+    "5%",
+    "10%",
+    "20%",
+    "40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#cd6179",
+   "kind": "mcq",
+   "stem": "During cardiopulmonary bypass in pregnancy, what fetal mortality is quoted when hypothermic?",
+   "options": [
+    "10%",
+    "20%",
+    "30%",
+    "40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#d69c26",
+   "kind": "statement",
+   "stem": "What does the modified WHO risk class system for pregnancy (2018 ESC) combine?",
+   "answer": "All maternal cardiovascular risk factors, including heart disease and comorbidity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#fdab94",
+   "kind": "mcq",
+   "stem": "Which modified WHO class (2018 ESC) is extremely high risk, with pregnancy contraindicated?",
+   "options": [
+    "Class I",
+    "Class II",
+    "Class III",
+    "Class IV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#fdab94",
+   "kind": "mcq",
+   "stem": "In the modified WHO risk classes (2018 ESC), what risk level is class II?",
+   "options": [
+    "Very low",
+    "Low to moderate",
+    "High",
+    "Extremely high"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#13ee54",
+   "kind": "mcq",
+   "stem": "Which condition falls under modified WHO class II (2018 ESC)?",
+   "options": [
+    "Mechanical valve",
+    "Native severe coarctation",
+    "Unoperated ASD or VSD",
+    "Mitral valve prolapse"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#eb3d63",
+   "kind": "mcq",
+   "stem": "Which repaired lesion falls under modified WHO class II (2018 ESC)?",
+   "options": [
+    "Mechanical valve",
+    "Repaired tetralogy of Fallot",
+    "Fontan circulation",
+    "Native severe coarctation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#ebe17e",
+   "kind": "mcq",
+   "stem": "In modified WHO class II (2018 ESC), which item covers the arrhythmias?",
+   "options": [
+    "Isolated atrial or ventricular ectopics",
+    "Most arrhythmias",
+    "Mechanical valve",
+    "Fontan circulation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#937f4d",
+   "kind": "statement",
+   "stem": "Which WHO class range (2018 ESC) applies when the risk depends on the individual patient?",
+   "answer": "Class II–III",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#cd9f34",
+   "kind": "mcq",
+   "stem": "In modified WHO classes (2018 ESC), which condition is class II–III?",
+   "options": [
+    "Native severe coarctation",
+    "Mechanical valve",
+    "Systemic right ventricle",
+    "Mild left ventricular impairment"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#26ccdf",
+   "kind": "mcq",
+   "stem": "Which listed condition falls under modified WHO class II–III (2018 ESC)?",
+   "options": [
+    "Fontan circulation",
+    "Hypertrophic cardiomyopathy",
+    "Pulmonary arterial hypertension of any cause",
+    "Severe mitral stenosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#5498b4",
+   "kind": "mcq",
+   "stem": "Which condition falls under modified WHO class III (2018 ESC)?",
+   "options": [
+    "Mitral valve prolapse",
+    "Mechanical valve",
+    "Native severe coarctation",
+    "Pulmonary arterial hypertension of any cause"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#18e616",
+   "kind": "mcq",
+   "stem": "Which of these falls under modified WHO class III (2018 ESC)?",
+   "options": [
+    "Mild left ventricular impairment",
+    "Other complex congenital heart disease",
+    "Hypertrophic cardiomyopathy",
+    "Severe mitral stenosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#1dea21",
+   "kind": "mcq",
+   "stem": "Which aortic dilatation in Marfan syndrome falls under modified WHO class III (2018 ESC)?",
+   "options": [
+    "Aortic dilatation >50 mm with bicuspid aortic valve disease",
+    "Native severe coarctation",
+    "Aortic dilatation 40–45 mm in Marfan syndrome",
+    "Mechanical valve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#ab6597",
+   "kind": "mcq",
+   "stem": "Which bicuspid aortic valve item falls under modified WHO class III (2018 ESC)?",
+   "options": [
+    "Aortic dilatation 45–50 mm with bicuspid aortic valve disease",
+    "Aortic dilatation >50 mm with bicuspid aortic valve disease",
+    "Mechanical valve",
+    "Native severe coarctation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#bec76f",
+   "kind": "mcq",
+   "stem": "Under modified WHO class IV (2018 ESC), which condition makes pregnancy contraindicated?",
+   "options": [
+    "Mechanical valve",
+    "Fontan circulation",
+    "Pulmonary arterial hypertension of any cause",
+    "Mitral valve prolapse"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#7ccd3f",
+   "kind": "mcq",
+   "stem": "Under modified WHO class IV (2018 ESC), which ventricular problem makes pregnancy contraindicated?",
+   "options": [
+    "Mild left ventricular impairment",
+    "Mechanical valve",
+    "Systemic right ventricle",
+    "Severe systemic ventricular dysfunction (LVEF <30%, NYHA III–IV)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#a1b578",
+   "kind": "mcq",
+   "stem": "Under modified WHO class IV (2018 ESC), which past history makes pregnancy contraindicated?",
+   "options": [
+    "Mild left ventricular impairment",
+    "Previous peripartum cardiomyopathy with any residual LV impairment",
+    "Mechanical valve",
+    "Hypertrophic cardiomyopathy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#401b52",
+   "kind": "mcq",
+   "stem": "Which Marfan item falls under modified WHO class IV (2018 ESC)?",
+   "options": [
+    "Mechanical valve",
+    "Marfan syndrome with aorta >45 mm",
+    "Repaired tetralogy of Fallot",
+    "Hypertrophic cardiomyopathy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#fbeb77",
+   "kind": "blank",
+   "stem": "For cardiac disease in pregnancy, keep a ____ index of suspicion, especially with risk factors.",
+   "answer": "high",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#6b7bc7",
+   "kind": "statement",
+   "stem": "Which specialties should be involved in multidisciplinary planning for heart disease in pregnancy?",
+   "answer": "Obstetrics, neonatology, cardiology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#b2ae59",
+   "kind": "mcq",
+   "stem": "Which decision should be planned in preoperative assessment for heart disease in pregnancy?",
+   "options": [
+    "Choice of contraceptive",
+    "Mode of delivery",
+    "Timing of antenatal steroids",
+    "Maternal blood group"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#ae0e96",
+   "kind": "mcq",
+   "stem": "For heart disease in pregnancy, where may delivery need to take place?",
+   "options": [
+    "Antenatal ward",
+    "Recovery room",
+    "Neonatal unit",
+    "Cardiac theatre"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#009500",
+   "kind": "statement",
+   "stem": "Which infection prophylaxis is given intraoperatively in heart disease in pregnancy, if indicated?",
+   "answer": "Endocarditis prophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#15de12",
+   "kind": "mcq",
+   "stem": "In heart disease in pregnancy, how should oxytocin be given?",
+   "options": [
+    "Give a rapid IV bolus first",
+    "Give an intramuscular bolus",
+    "Omit the bolus, infusion only",
+    "Give bolus then infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#63e10a",
+   "kind": "mcq",
+   "stem": "Which drug should be avoided in heart disease in pregnancy because of vasoconstriction?",
+   "options": [
+    "Oxytocin infusion",
+    "Tranexamic acid",
+    "Calcium gluconate",
+    "Ergometrine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#c9ec70",
+   "kind": "mcq",
+   "stem": "Which drug should be avoided in heart disease in pregnancy as it may cause pulmonary oedema?",
+   "options": [
+    "Oxytocin infusion",
+    "Carboprost",
+    "Tranexamic acid",
+    "Calcium gluconate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#808ed9",
+   "kind": "mcq",
+   "stem": "Which devices may bridge a cardiac patient in pregnancy to recovery or transplant?",
+   "options": [
+    "Pacemaker alone",
+    "IABP or LVAD",
+    "Epidural catheter",
+    "Central venous line"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#f3f20a",
+   "kind": "mcq",
+   "stem": "For intraoperative cardiac management in pregnancy, which monitoring approach is advised?",
+   "options": [
+    "Routine ECG only",
+    "Delayed arterial line",
+    "Early invasive monitoring",
+    "No monitoring until delivery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#f470e1",
+   "kind": "mcq",
+   "stem": "In heart disease in pregnancy, which regional technique is generally safe in most?",
+   "options": [
+    "Single-shot spinal",
+    "Careful incremental epidural",
+    "Rapid large-volume epidural",
+    "Intrathecal opioid alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#5c5ab9",
+   "kind": "blank",
+   "stem": "For general anaesthesia in heart disease in pregnancy, ____ the hypertensive response to intubation.",
+   "answer": "blunt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#89ac77",
+   "kind": "mcq",
+   "stem": "Which period is most critical in heart disease in pregnancy, because of autotransfusion?",
+   "options": [
+    "First 1-2 days before delivery",
+    "First 1-2 hours after delivery",
+    "Last 2 weeks of pregnancy",
+    "First 6 hours after delivery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#06dd33",
+   "kind": "mcq",
+   "stem": "After delivery in heart disease, what level of care is usually needed?",
+   "options": [
+    "Ward care only",
+    "Day case discharge",
+    "HDU or ICU care",
+    "Recovery bay only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#7c11b8",
+   "kind": "mcq",
+   "stem": "What mortality is quoted for pulmonary hypertension and Eisenmenger syndrome in pregnancy?",
+   "options": [
+    "<5%",
+    "10-20%",
+    "30-50%",
+    ">70%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#03b03d",
+   "kind": "mcq",
+   "stem": "For pulmonary hypertension and Eisenmenger syndrome in pregnancy, when do most deaths occur?",
+   "options": [
+    "Within 1 hour of delivery",
+    "2-9 days after delivery",
+    "2-3 months after delivery",
+    "Before 20 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#401ca4",
+   "kind": "mcq",
+   "stem": "In specific cardiac conditions in pregnancy, what is the largest advised IV fluid bolus?",
+   "options": [
+    "100 ml",
+    "200 ml",
+    "500 ml",
+    "1000 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#464c54",
+   "kind": "mcq",
+   "stem": "In Marfan syndrome with aortic root dilatation, at what root size should replacement be offered before pregnancy?",
+   "options": [
+    "2-3 cm",
+    "3-3.5 cm",
+    "4-4.5 cm",
+    "6-7 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#81f8fc",
+   "kind": "mcq",
+   "stem": "In Marfan syndrome with aortic root dilatation, how often should echo be repeated through pregnancy?",
+   "options": [
+    "Every 1-2 weeks",
+    "Every 1-2 months",
+    "Once in each trimester",
+    "Once after delivery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#ce44b1",
+   "kind": "mcq",
+   "stem": "In pregnancy after a myocardial infarction, how long should delivery ideally be delayed?",
+   "options": [
+    "1 week",
+    "6 weeks",
+    "3 weeks",
+    "12 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#388744",
+   "kind": "mcq",
+   "stem": "When does dilated cardiomyopathy in pregnancy typically occur?",
+   "options": [
+    "Final 1 month of pregnancy to 5 months after delivery",
+    "First trimester to 1 month after delivery",
+    "Final 3 months of pregnancy to 1 year after delivery",
+    "Second trimester to 2 months after delivery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#d97650",
+   "kind": "mcq",
+   "stem": "In cardiac disease in pregnancy, below what ejection fraction is heparin VTE prophylaxis given?",
+   "options": [
+    "EF <25%",
+    "EF <35%",
+    "EF <45%",
+    "EF <55%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#729532",
+   "kind": "statement",
+   "stem": "In respiratory disease in pregnancy, which conditions are classed as restrictive?",
+   "answer": "Sarcoidosis, fibrosis, post-radiation fibrosis, fibrosing alveolitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#7cefed",
+   "kind": "statement",
+   "stem": "In respiratory disease in pregnancy, which conditions are classed as obstructive?",
+   "answer": "Asthma, bronchiectasis, cystic fibrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#28782f",
+   "kind": "mcq",
+   "stem": "Which obstructive lung disease is most common in pregnant women?",
+   "options": [
+    "Bronchiectasis",
+    "Cystic fibrosis",
+    "Asthma",
+    "Fibrosing alveolitis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#180ef1",
+   "kind": "statement",
+   "stem": "In pregnancy with lung disease, what change can severely compromise some women?",
+   "answer": "Fall in FRC with closing capacity within tidal volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#39bd70",
+   "kind": "mcq",
+   "stem": "In respiratory disease in pregnancy, when are baseline lung function tests useful?",
+   "options": [
+    "At 36 weeks",
+    "At booking",
+    "Only after delivery",
+    "During labour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#70af8f",
+   "kind": "statement",
+   "stem": "In endocrine disease in pregnancy, which two conditions are most common?",
+   "answer": "Diabetes and thyrotoxicosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#456e89",
+   "kind": "mcq",
+   "stem": "Compared with non-diabetic women, by what factor does gestational diabetes raise the caesarean rate?",
+   "options": [
+    "x1.5",
+    "x2",
+    "x3",
+    "x5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#51a4e2",
+   "kind": "blank",
+   "stem": "In a pregnant woman with neurological disease, avoid ____ if maternal tethered cord is a concern.",
+   "answer": "spinal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#d791b5",
+   "kind": "mcq",
+   "stem": "Which muscle relaxant should be avoided in most neurological conditions in pregnancy?",
+   "options": [
+    "Rocuronium",
+    "Atracurium",
+    "Suxamethonium",
+    "Vecuronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#1fb81c",
+   "kind": "blank",
+   "stem": "In neurological disease in pregnancy, an RSI option instead of suxamethonium is high-dose ____.",
+   "answer": "rocuronium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#1fb81c",
+   "kind": "mcq",
+   "stem": "What remifentanil dose is an RSI option in neurological disease in pregnancy?",
+   "options": [
+    "1 mcg/kg",
+    "3 mcg/kg",
+    "5 mcg/kg",
+    "10 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#e5d7d4",
+   "kind": "mcq",
+   "stem": "Which intravenous drug should be avoided in neurological disease in pregnancy because of fetal bradycardia?",
+   "options": [
+    "Hydralazine",
+    "Esmolol",
+    "Nifedipine",
+    "Glyceryl trinitrate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#94fc97",
+   "kind": "mcq",
+   "stem": "In pregnancy with neurological disease, what maximum share of women report headache after delivery?",
+   "options": [
+    "10%",
+    "20%",
+    "40%",
+    "70%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#af6281",
+   "kind": "statement",
+   "stem": "In pregnancy, which condition is the commonest cause of seizures?",
+   "answer": "Epilepsy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#b6a95b",
+   "kind": "statement",
+   "stem": "Why are seizures more likely in pregnant women with epilepsy?",
+   "answer": "Missed medication, altered pharmacokinetics, hormonal change",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#f50072",
+   "kind": "mcq",
+   "stem": "What share of multiple sclerosis cases present during pregnancy?",
+   "options": [
+    "5%",
+    "10%",
+    "25%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#393b8d",
+   "kind": "statement",
+   "stem": "In pregnant women with multiple sclerosis, what does the evidence show about neuraxial block?",
+   "answer": "No evidence of harm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#5b2378",
+   "kind": "statement",
+   "stem": "Why treat intraoperative hypotension aggressively in multiple sclerosis in pregnancy?",
+   "answer": "To protect cord perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#801ed0",
+   "kind": "mcq",
+   "stem": "In multiple sclerosis in pregnancy, when do relapses increase?",
+   "options": [
+    "During the first trimester",
+    "In the 3 months after delivery",
+    "Throughout the second trimester",
+    "Only in the final week"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#636a74",
+   "kind": "mcq",
+   "stem": "In spina bifida in pregnancy, which imaging is needed to exclude a tethered cord before neuraxial block?",
+   "options": [
+    "CT scan",
+    "Plain spinal X-ray",
+    "MRI",
+    "Doppler ultrasound"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#e1a042",
+   "kind": "mcq",
+   "stem": "In spina bifida, what share of patients with a cord abnormality have a lower-back dimple or hairy patch?",
+   "options": [
+    "30%",
+    "50%",
+    "70%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#f53fcb",
+   "kind": "statement",
+   "stem": "Which airway problem is associated with spina bifida in pregnancy?",
+   "answer": "Difficult intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#4d6265",
+   "kind": "statement",
+   "stem": "In pregnancy, when is cerebral venous thrombosis more common?",
+   "answer": "After delivery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#940d2c",
+   "kind": "statement",
+   "stem": "In pregnant immigrants with low back pain, which infection should be considered?",
+   "answer": "Spinal TB",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#fc07b0",
+   "kind": "statement",
+   "stem": "What type of nerve disorder is Guillain-Barré syndrome?",
+   "answer": "Demyelinating polyneuropathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#ddb9c1",
+   "kind": "statement",
+   "stem": "Guillain-Barré patients are more sensitive to local anaesthetic. How should it be given?",
+   "answer": "Titrate slowly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#e5ecc3",
+   "kind": "statement",
+   "stem": "In Guillain-Barré syndrome in pregnancy, when is general anaesthesia needed?",
+   "answer": "Respiratory or bulbar involvement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#2582a3",
+   "kind": "mcq",
+   "stem": "What type of disease is myasthenia gravis, which commonly affects young women?",
+   "options": [
+    "Autoimmune",
+    "Infective",
+    "Neoplastic",
+    "Metabolic"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#66c1f2",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis in pregnancy, what share of women deteriorate, mostly after delivery?",
+   "options": [
+    "10%",
+    "25%",
+    "40%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#ee31bd",
+   "kind": "statement",
+   "stem": "Which labour complication is more common in myasthenia gravis in pregnancy?",
+   "answer": "Preterm labour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#155c3e",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis in pregnancy, which drug class does the patient show sensitivity to?",
+   "options": [
+    "Loop diuretics",
+    "Calcium channel blockers",
+    "Thiazide diuretics",
+    "Nitrates"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#4d736b",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis in pregnancy, which drug should be avoided as it can precipitate myasthenic crisis?",
+   "options": [
+    "Calcium gluconate",
+    "Oxytocin",
+    "Labetalol",
+    "Magnesium"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#6a992a",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, which route should anticholinesterases switch to for labour?",
+   "answer": "IV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#db68eb",
+   "kind": "statement",
+   "stem": "Why aim for a short second stage in myasthenia gravis in pregnancy?",
+   "answer": "Muscles fatigue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#3946b3",
+   "kind": "mcq",
+   "stem": "In neurofibromatosis type 1, what share of cases involve the CNS?",
+   "options": [
+    "20%",
+    "<10%",
+    "50%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#3946b3",
+   "kind": "statement",
+   "stem": "What skin findings are typical of neurofibromatosis type 1?",
+   "answer": "Freckling and café-au-lait patches",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#f5517c",
+   "kind": "mcq",
+   "stem": "In neurofibromatosis type II, what percentage of patients have CNS tumours?",
+   "options": [
+    "10%",
+    "30%",
+    "60%",
+    "90%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#9e4911",
+   "kind": "statement",
+   "stem": "In neurofibromatosis in pregnancy, what must MRI show before regional anaesthesia is used?",
+   "answer": "It excludes a local spinal lesion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#3bee3a",
+   "kind": "statement",
+   "stem": "Which airway problem is a risk in neurofibromatosis in pregnancy?",
+   "answer": "Neurofibroma in the airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#22ddc8",
+   "kind": "statement",
+   "stem": "Why is regional anaesthesia contraindicated in intracranial space-occupying lesions in pregnancy?",
+   "answer": "Sudden fall in CSF pressure can cause cerebellar herniation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#386afa",
+   "kind": "mcq",
+   "stem": "In an intracranial space-occupying lesion, up to what ICP value is reached in the 2nd stage?",
+   "options": [
+    "40",
+    "55",
+    "70",
+    "85"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#386afa",
+   "kind": "mcq",
+   "stem": "In an intracranial space-occupying lesion, up to what ICP value is reached in labour?",
+   "options": [
+    "20",
+    "30",
+    "40",
+    "50"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#35790d",
+   "kind": "mcq",
+   "stem": "In intracranial space-occupying lesions in pregnancy, which anaesthetic is used for caesarean?",
+   "options": [
+    "Spinal anaesthesia",
+    "General anaesthesia",
+    "Epidural top-up",
+    "Local infiltration only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#670eb0",
+   "kind": "statement",
+   "stem": "Why does aortocaval compression have a greater effect in spinal cord injury in pregnancy?",
+   "answer": "Lower circulating volume and less lower limb sympathetic tone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#9bb7f3",
+   "kind": "mcq",
+   "stem": "For how long after spinal cord injury should suxamethonium be avoided?",
+   "options": [
+    "3 months",
+    "6 months",
+    "9 months",
+    "12 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#6e912a",
+   "kind": "statement",
+   "stem": "In spinal cord injury in pregnancy, above which spinal level are contractions not felt?",
+   "answer": "T5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#7fb96a",
+   "kind": "mcq",
+   "stem": "Spinal cord injury above T5 in pregnancy carries a risk of which condition?",
+   "options": [
+    "Autonomic dysreflexia",
+    "Neuroleptic malignant syndrome",
+    "Malignant hyperthermia",
+    "Serotonin syndrome"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#143b10",
+   "kind": "mcq",
+   "stem": "In spinal cord injury, for how long after delivery does autonomic dysreflexia risk last?",
+   "options": [
+    "24 hrs",
+    "48 hrs",
+    "72 hrs",
+    "1 week"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#1febac",
+   "kind": "statement",
+   "stem": "In idiopathic intracranial hypertension, what must be ruled out before diagnosis?",
+   "answer": "Mass, hydrocephalus or infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#18b9ea",
+   "kind": "statement",
+   "stem": "Idiopathic intracranial hypertension is more common in which group?",
+   "answer": "Obesity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#c2d901",
+   "kind": "statement",
+   "stem": "How does idiopathic intracranial hypertension change across pregnancy and delivery?",
+   "answer": "Worse in pregnancy, better after delivery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#ec0660",
+   "kind": "statement",
+   "stem": "In idiopathic intracranial hypertension, what may severe cases need?",
+   "answer": "A lumboperitoneal shunt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#b16757",
+   "kind": "statement",
+   "stem": "In asymptomatic idiopathic intracranial hypertension, what delivery plan is advised?",
+   "answer": "Effective epidural and short instrumental 2nd stage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/comorbidities-in-pregnancy#566a0c",
+   "kind": "mcq",
+   "stem": "In idiopathic intracranial hypertension, which neuraxial technique may be better than spinal?",
+   "options": [
+    "Spinal alone",
+    "Caudal block",
+    "Combined spinal-epidural",
+    "Pudendal block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

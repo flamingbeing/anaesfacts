@@ -1,0 +1,253 @@
+{
+ "topic": "drugs/pyridostigmine",
+ "questions": [
+  {
+   "fact_id": "drugs/pyridostigmine#738887",
+   "kind": "mcq",
+   "stem": "What strength are extended-release pyridostigmine tablets?",
+   "options": [
+    "60 mg",
+    "180 mg",
+    "30 mg",
+    "600 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#0c37e0",
+   "kind": "statement",
+   "stem": "Pyridostigmine dosing is highly individual. What should guide the dose?",
+   "answer": "Response and tolerance of side effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#061452",
+   "kind": "mcq",
+   "stem": "What is the usual starting oral pyridostigmine dose?",
+   "options": [
+    "10 mg three times daily",
+    "30 mg three times daily",
+    "15 mg twice daily",
+    "120 mg twice daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#061452",
+   "kind": "mcq",
+   "stem": "What is the usual maintenance oral pyridostigmine dose while awake?",
+   "options": [
+    "15 mg four times daily",
+    "60 mg four times daily",
+    "60 mg twice daily",
+    "120 mg four times daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#734970",
+   "kind": "mcq",
+   "stem": "What is the usual maximum daily oral pyridostigmine dose?",
+   "options": [
+    "300 mg/day",
+    "600 mg/day",
+    "900 mg/day",
+    "1200 mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#5a1ab4",
+   "kind": "mcq",
+   "stem": "In rare cases, what daily pyridostigmine maximum is quoted?",
+   "options": [
+    "450 mg/day",
+    "750 mg/day",
+    "1000 mg/day",
+    "1500 mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#f72db9",
+   "kind": "mcq",
+   "stem": "How often can extended-release pyridostigmine 180 mg be given?",
+   "options": [
+    "Once daily only",
+    "Once or twice daily, at least 6 hours apart",
+    "Three times daily, 4 hours apart",
+    "Every 2 hours as needed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#1d3a3f",
+   "kind": "mcq",
+   "stem": "Oral 60 mg pyridostigmine equals what IV pyridostigmine dose?",
+   "options": [
+    "0.5 mg",
+    "2 mg",
+    "6 mg",
+    "10 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#1d3a3f",
+   "kind": "mcq",
+   "stem": "When converting oral pyridostigmine to IV, why is the IV form preferred?",
+   "options": [
+    "It lasts longer",
+    "It acts faster",
+    "It crosses the blood-brain barrier",
+    "It is more potent"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#ba564f",
+   "kind": "mcq",
+   "stem": "Oral 60 mg pyridostigmine equals what IV or IM neostigmine dose?",
+   "options": [
+    "0.5 mg",
+    "1 mg",
+    "2 mg",
+    "5 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#ba564f",
+   "kind": "statement",
+   "stem": "Why is neostigmine rarely the first choice when converting oral pyridostigmine?",
+   "answer": "It is much shorter acting, with more muscarinic side effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#351268",
+   "kind": "mcq",
+   "stem": "For which condition is pyridostigmine preferred over neostigmine?",
+   "options": [
+    "Myasthenia gravis",
+    "Anticholinergic poisoning",
+    "Postoperative urinary retention",
+    "Malignant hyperthermia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#5129d9",
+   "kind": "mcq",
+   "stem": "How does pyridostigmine's onset compare with neostigmine's?",
+   "options": [
+    "Faster, within 2 minutes",
+    "About the same",
+    "Slower, more than 16 minutes",
+    "Immediate, within 30 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#38331e",
+   "kind": "mcq",
+   "stem": "What is the duration of action of pyridostigmine?",
+   "options": [
+    "About 30 minutes",
+    "About 1 hour",
+    "About 6 hours",
+    "About 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#6869f6",
+   "kind": "mcq",
+   "stem": "What percentage of pyridostigmine is excreted unchanged?",
+   "options": [
+    "25%",
+    "50%",
+    "75%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#6869f6",
+   "kind": "mcq",
+   "stem": "Compared with neostigmine, pyridostigmine relies more on which organ for elimination?",
+   "options": [
+    "Kidneys",
+    "Lungs",
+    "Spleen",
+    "Bone marrow"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#59d10b",
+   "kind": "mcq",
+   "stem": "Does pyridostigmine cross the blood-brain barrier?",
+   "options": [
+    "Yes, readily",
+    "Only at high doses",
+    "No, it does not",
+    "Only in neonates"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#c867e2",
+   "kind": "mcq",
+   "stem": "Which cholinesterase inhibitor crosses the blood-brain barrier and was used for anticholinergic poisoning?",
+   "options": [
+    "Pyridostigmine",
+    "Physostigmine",
+    "Neostigmine",
+    "Edrophonium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pyridostigmine#c867e2",
+   "kind": "statement",
+   "stem": "Physostigmine, unlike pyridostigmine, belongs to which chemical class?",
+   "answer": "Tertiary amine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

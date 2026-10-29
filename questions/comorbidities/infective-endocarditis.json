@@ -1,0 +1,461 @@
+{
+ "topic": "comorbidities/infective-endocarditis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/infective-endocarditis#90f11a",
+   "kind": "statement",
+   "stem": "For infective endocarditis prophylaxis, what two things must both be present?",
+   "answer": "A high-risk patient and a high-risk procedure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#0aef44",
+   "kind": "statement",
+   "stem": "For infective endocarditis prophylaxis, which procedure type alone is an indication?",
+   "answer": "Dental procedures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#e3b712",
+   "kind": "mcq",
+   "stem": "How many high-risk patient groups are defined for infective endocarditis prophylaxis?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#4ea976",
+   "kind": "blank",
+   "stem": "Fully repaired congenital heart disease is high risk for endocarditis prophylaxis if repaired within ____.",
+   "answer": "6 months",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#e5a8e9",
+   "kind": "statement",
+   "stem": "What is infective endocarditis?",
+   "answer": "Infective inflammation of the endocardium and valves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#9307e0",
+   "kind": "statement",
+   "stem": "Which heart valve does infective endocarditis most often affect today?",
+   "answer": "Aortic valve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#0379f6",
+   "kind": "statement",
+   "stem": "Where does the pathogenesis of infective endocarditis start?",
+   "answer": "At a site of endothelial damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#6ad0b6",
+   "kind": "statement",
+   "stem": "In infective endocarditis, what role does the sterile thrombotic vegetation play?",
+   "answer": "Lets bacteria stick during transient bacteraemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#8fe2ca",
+   "kind": "statement",
+   "stem": "In infective endocarditis, what does platelet and fibrin deposition set up?",
+   "answer": "A positive feedback cycle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#06c0f9",
+   "kind": "mcq",
+   "stem": "In infective endocarditis, what proportion of cases affect the right side of the heart?",
+   "options": [
+    "5%",
+    "10%",
+    "25%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#06c0f9",
+   "kind": "statement",
+   "stem": "In right-sided infective endocarditis, what is the usual cause?",
+   "answer": "IV drug use",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#06c0f9",
+   "kind": "mcq",
+   "stem": "In right-sided infective endocarditis, which valve is involved in 98% of cases?",
+   "options": [
+    "Mitral valve",
+    "Aortic valve",
+    "Pulmonary valve",
+    "Tricuspid valve"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#5723f9",
+   "kind": "mcq",
+   "stem": "In infective endocarditis of a prosthetic valve, what time window defines early?",
+   "options": [
+    "6 to 12 months",
+    "<60 days",
+    "1 to 2 years",
+    ">1 year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#5723f9",
+   "kind": "blank",
+   "stem": "In prosthetic valve endocarditis, 'late' means onset beyond ____.",
+   "answer": "1 year",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#a47e46",
+   "kind": "mcq",
+   "stem": "Which combination of Duke criteria findings meets the threshold for infective endocarditis?",
+   "options": [
+    "1 major, or 3 minor, or 2 major",
+    "3 major, or 2 major plus 3 minor, or 1 minor",
+    "2 major, or 1 major plus 3 minor, or 5 minor",
+    "2 minor, or 1 major plus 2 minor, or 4 minor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#1d988d",
+   "kind": "mcq",
+   "stem": "In the Duke criteria for infective endocarditis, above what temperature is fever counted?",
+   "options": [
+    "37",
+    "38",
+    "39",
+    "40"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#605a9e",
+   "kind": "statement",
+   "stem": "How can the clinical severity of infective endocarditis range?",
+   "answer": "From no symptoms, through malaise, night sweats, anaemia and weight loss, to cardiogenic shock and sepsis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#795c56",
+   "kind": "mcq",
+   "stem": "What proportion of infective endocarditis occurs on normal valves?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#4965e8",
+   "kind": "statement",
+   "stem": "What examination findings can infective endocarditis produce?",
+   "answer": "Murmurs, heart failure, valve lesions, stroke, splenomegaly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#f69638",
+   "kind": "statement",
+   "stem": "Which peripheral stigmata can infective endocarditis cause?",
+   "answer": "Clubbing, splinter haemorrhages, Osler's nodes, vasculitic rash, retinal changes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#eb77b4",
+   "kind": "statement",
+   "stem": "Where can emboli from infective endocarditis lodge?",
+   "answer": "Brain, lungs, limbs, organs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#4e9aca",
+   "kind": "mcq",
+   "stem": "In infective endocarditis, in what proportion of cases are blood cultures positive?",
+   "options": [
+    "20%",
+    "50%",
+    "80%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#84141a",
+   "kind": "mcq",
+   "stem": "How many blood culture sets from different sites are ideally taken in suspected infective endocarditis?",
+   "options": [
+    "1 set",
+    "2 sets",
+    "3 sets",
+    "5 sets"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#44a5e5",
+   "kind": "mcq",
+   "stem": "Which organism causes about half of infective endocarditis cases?",
+   "options": [
+    "Strep viridans",
+    "Staph aureus",
+    "Strep pneumoniae",
+    "Enterococcus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#44a5e5",
+   "kind": "mcq",
+   "stem": "Strep viridans causes about what share of infective endocarditis cases?",
+   "options": [
+    "10%",
+    "25%",
+    "40%",
+    "60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#44a5e5",
+   "kind": "statement",
+   "stem": "Which Gram stain group causes most infective endocarditis?",
+   "answer": "Gram-positive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#c07e09",
+   "kind": "statement",
+   "stem": "Which ECG changes can infective endocarditis cause?",
+   "answer": "PR prolongation, P mitrale, T wave inversion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#2f198e",
+   "kind": "mcq",
+   "stem": "What is the sensitivity of transthoracic echo for infective endocarditis?",
+   "options": [
+    "20-30%",
+    "45-60%",
+    "70-80%",
+    "90-100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#0450f7",
+   "kind": "mcq",
+   "stem": "What is the sensitivity of transoesophageal echo for infective endocarditis?",
+   "options": [
+    "45-60%",
+    "70-80%",
+    "20-30%",
+    "90-100%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#0450f7",
+   "kind": "statement",
+   "stem": "When is transoesophageal echo mandatory in infective endocarditis?",
+   "answer": "If paravalvular complications are suspected, e.g. in a shocked patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#4b95a4",
+   "kind": "mcq",
+   "stem": "On echo, above what vegetation size in infective endocarditis is embolic risk higher?",
+   "options": [
+    "5mm",
+    "10mm",
+    "15mm",
+    "20mm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#4b95a4",
+   "kind": "statement",
+   "stem": "Which echo finding does TTE detect especially poorly in infective endocarditis?",
+   "answer": "Peri-annular abscess",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#4b95a4",
+   "kind": "statement",
+   "stem": "On echo, what finding in a prosthetic valve suggests infective endocarditis?",
+   "answer": "New prosthetic valve dehiscence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#765a12",
+   "kind": "mcq",
+   "stem": "How long is IV antibiotic treatment given for infective endocarditis?",
+   "options": [
+    "1-2 weeks",
+    "2-3 weeks",
+    "4-6 weeks",
+    "10-12 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#077981",
+   "kind": "statement",
+   "stem": "In older AHA advice, which procedures needed prophylaxis for valvular disease, including rheumatic?",
+   "answer": "Dental, GI or GU procedures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#0adf78",
+   "kind": "statement",
+   "stem": "Why does current guidance restrict infective endocarditis prophylaxis for most procedures?",
+   "answer": "Antibiotic harms outweigh the IE risk from most procedures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#1131bb",
+   "kind": "mcq",
+   "stem": "Which year does the current infective endocarditis prophylaxis guideline date from?",
+   "options": [
+    "1997",
+    "2007",
+    "2012",
+    "2016"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#620d9e",
+   "kind": "mcq",
+   "stem": "How should infective endocarditis prophylaxis antibiotics be timed relative to a high-risk procedure?",
+   "options": [
+    "Single dose before the procedure, or within 2 hours of it",
+    "Single dose after the procedure, for 2 days",
+    "Daily doses for 7 days before the procedure",
+    "Continuous infusion throughout the procedure"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#2f843f",
+   "kind": "mcq",
+   "stem": "Which oral antibiotic is the first choice for infective endocarditis prophylaxis?",
+   "options": [
+    "Gentamicin 50mg/kg IV",
+    "Amoxicillin 50mg/kg PO",
+    "Vancomycin 15mg/kg IV",
+    "Metronidazole 500mg PO"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#e4a553",
+   "kind": "mcq",
+   "stem": "Which infective endocarditis prophylaxis antibiotic is given at 50mg/kg IV or IM?",
+   "options": [
+    "Amoxicillin",
+    "Cephalexin",
+    "Vancomycin",
+    "Cefazolin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#8b2dac",
+   "kind": "mcq",
+   "stem": "Which infective endocarditis prophylaxis antibiotic at 50mg/kg PO is used in penicillin allergy?",
+   "options": [
+    "Amoxicillin",
+    "Cefazolin",
+    "Cephalexin",
+    "Ampicillin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/infective-endocarditis#be9df7",
+   "kind": "statement",
+   "stem": "What should be done for an active infection at the operative site with a likely IE-causing organism?",
+   "answer": "Give perioperative treatment and ask infectious diseases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

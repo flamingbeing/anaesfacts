@@ -1,0 +1,855 @@
+{
+ "topic": "drugs/adrenaline",
+ "questions": [
+  {
+   "fact_id": "drugs/adrenaline#0177da",
+   "kind": "mcq",
+   "stem": "Epinephrine and adrenaline are two names for one drug; what do both names mean?",
+   "options": [
+    "Beside the heart",
+    "Under the liver",
+    "Above the kidney",
+    "Within the adrenal cortex"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#e2af9f",
+   "kind": "mcq",
+   "stem": "What concentration range is adrenaline's clear solution for IV use?",
+   "options": [
+    "1-10 mg/ml",
+    "0.01-0.1 mg/ml",
+    "10-100 mg/ml",
+    "0.1-1 mg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#c31735",
+   "kind": "mcq",
+   "stem": "What is the usual strength of an adrenaline ampoule?",
+   "options": [
+    "10 mg in 1 ml (1:100)",
+    "1 mg in 1 ml (1:1000)",
+    "0.1 mg in 1 ml (1:10,000)",
+    "1 mg in 10 ml (1:10,000)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#2747f3",
+   "kind": "mcq",
+   "stem": "What strength of adrenaline eye drops is used for open-angle glaucoma?",
+   "options": [
+    "0.1%",
+    "1%",
+    "0.01%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#e404c8",
+   "kind": "mcq",
+   "stem": "What dose does an adrenaline metered dose inhaler deliver, for anaphylaxis from insect stings or drugs?",
+   "options": [
+    "140 mcg",
+    "28 mcg",
+    "560 mcg",
+    "280 mcg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#eb3a22",
+   "kind": "blank",
+   "stem": "Adrenaline is mixed with local anaesthetic at a ratio of 1 in ____.",
+   "answer": "80 000–200 000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#6389e7",
+   "kind": "mcq",
+   "stem": "Why is adrenaline not given by mouth?",
+   "options": [
+    "It is inactivated",
+    "It is absorbed too fast",
+    "It is cleared by the lungs",
+    "It needs a higher dose"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#be0a50",
+   "kind": "mcq",
+   "stem": "How does subcutaneous adrenaline absorption compare with intramuscular?",
+   "options": [
+    "Faster",
+    "The same",
+    "Slower",
+    "Unpredictable"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#1849ec",
+   "kind": "statement",
+   "stem": "When is adrenaline given down the trachea appropriate?",
+   "answer": "Only in emergencies without IV access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#8bc66f",
+   "kind": "mcq",
+   "stem": "What diluent is an adrenaline infusion made up in?",
+   "options": [
+    "Sterile water",
+    "Normal saline",
+    "5% dextrose",
+    "Ringer's lactate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#62a84e",
+   "kind": "mcq",
+   "stem": "Adrenaline 0.3 mg in 50 ml (6 mcg/ml): what rate gives 0.1 mcg/kg/min?",
+   "options": [
+    "0.5 ml/kg/h",
+    "2 ml/kg/h",
+    "1 ml/kg/h",
+    "1 ml/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#61c00f",
+   "kind": "blank",
+   "stem": "Adrenaline made up as ____ (mg) in 50 ml, run at 1 ml/h, gives 0.1 mcg/kg/min.",
+   "answer": "0.3 x body weight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#3572bb",
+   "kind": "mcq",
+   "stem": "Nebulised adrenaline: 0.5 ml of 1:1000 is diluted to what volume?",
+   "options": [
+    "2 ml",
+    "10 ml",
+    "8 ml",
+    "4 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#3d7f8a",
+   "kind": "mcq",
+   "stem": "With halothane anaesthesia, what adrenaline limit helps avoid arrhythmias?",
+   "options": [
+    "1 mg per 10 minutes",
+    "100 mcg per hour",
+    "100 mcg per 10 minutes",
+    "10 mcg per minute"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#4cb4b6",
+   "kind": "mcq",
+   "stem": "How much adrenaline is given IV/IO every 3-5 minutes in adult cardiac arrest?",
+   "options": [
+    "0.1 mg",
+    "10 mg",
+    "1 mg",
+    "100 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#4cb4b6",
+   "kind": "blank",
+   "stem": "In adult cardiac arrest, 1 mg IV/IO adrenaline is 10 ml of ____.",
+   "answer": "1:10,000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#69a4eb",
+   "kind": "mcq",
+   "stem": "What adrenaline dose per kg is used in paediatric cardiac arrest?",
+   "options": [
+    "1 mcg/kg",
+    "50 mcg/kg",
+    "10 mcg/kg",
+    "100 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#f6cac5",
+   "kind": "mcq",
+   "stem": "What adrenaline dose is given down an endotracheal tube?",
+   "options": [
+    "1 mg",
+    "0.01 mg",
+    "0.5 mg",
+    "0.1 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#f6cac5",
+   "kind": "blank",
+   "stem": "Adrenaline given down an endotracheal tube is 0.1 mg at a strength of ____.",
+   "answer": "1:1000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#91ff29",
+   "kind": "mcq",
+   "stem": "What IV adrenaline dose range (1:10,000) is used for hypotension?",
+   "options": [
+    "100-300 mcg",
+    "1-10 mg",
+    "10-100 mcg",
+    "0.1-1 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#948106",
+   "kind": "mcq",
+   "stem": "For anaphylaxis in theatre, what IV adrenaline bolus range is repeated as needed?",
+   "options": [
+    "10-100 mcg",
+    "1-3 mg",
+    "300-600 mcg",
+    "100-300 mcg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#948106",
+   "kind": "statement",
+   "stem": "Why must anaphylaxis bolus adrenaline in theatre be monitored closely?",
+   "answer": "Fatal overdoses have occurred",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#587fa9",
+   "kind": "mcq",
+   "stem": "After anaphylaxis boluses in theatre, what adrenaline infusion rate is used?",
+   "options": [
+    "0.5-1 mcg/kg/min",
+    "0.005-0.01 mcg/kg/min",
+    "5-10 mcg/kg/min",
+    "0.05-0.1 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#58eacf",
+   "kind": "mcq",
+   "stem": "What adrenaline dose (1:100,000) is given for bronchospasm?",
+   "options": [
+    "1 mcg",
+    "1 mg",
+    "100 mcg",
+    "10 mcg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#a1a8fa",
+   "kind": "mcq",
+   "stem": "What is the usual adrenaline infusion range, in mcg/kg/min?",
+   "options": [
+    "0.2-2 mcg/kg/min",
+    "2-20 mcg/kg/min",
+    "0.002-0.02 mcg/kg/min",
+    "0.02-0.2 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#a1a8fa",
+   "kind": "blank",
+   "stem": "The usual adrenaline infusion rate is ____ mcg/min.",
+   "answer": "1–2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#85e8ba",
+   "kind": "mcq",
+   "stem": "What adrenaline infusion range is used for circulatory failure in the critically ill?",
+   "options": [
+    "0.5-5 mcg/kg/min",
+    "0.05-0.1 mcg/kg/min",
+    "1-5 mcg/kg/min",
+    "0.01–0.5 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#ae1a97",
+   "kind": "mcq",
+   "stem": "Which adrenoceptors does adrenaline act on?",
+   "options": [
+    "Alpha adrenoceptors only",
+    "Beta adrenoceptors only",
+    "Alpha and beta adrenoceptors",
+    "Dopamine D1 receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#fab713",
+   "kind": "mcq",
+   "stem": "At high adrenaline doses, which receptor effect predominates?",
+   "options": [
+    "Beta-1",
+    "Alpha-1",
+    "Beta-2",
+    "Alpha-2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#4dcf5c",
+   "kind": "blank",
+   "stem": "Alpha-1 adrenoceptors couple to Gq, which activates ____.",
+   "answer": "phospholipase C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#4dcf5c",
+   "kind": "mcq",
+   "stem": "After alpha-1 activation by adrenaline, which ion rises inside the cell?",
+   "options": [
+    "Potassium",
+    "Intracellular Ca2+",
+    "Sodium",
+    "Chloride"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#08b8c8",
+   "kind": "mcq",
+   "stem": "What does alpha-2 (Gi) activation by adrenaline do to cAMP?",
+   "options": [
+    "It rises",
+    "It is unchanged",
+    "It falls",
+    "It doubles"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#4e2796",
+   "kind": "mcq",
+   "stem": "What does beta-1 stimulation by adrenaline do to heart rate, contractility and cardiac output?",
+   "options": [
+    "They all decrease",
+    "Only contractility increases",
+    "They all increase",
+    "Heart rate falls, output rises"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#4e2796",
+   "kind": "blank",
+   "stem": "Beta-1 stimulation by adrenaline increases myocardial ____ use.",
+   "answer": "oxygen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#f96c24",
+   "kind": "mcq",
+   "stem": "What does beta-1 stimulation by adrenaline do to coronary arteries?",
+   "options": [
+    "Vasoconstriction",
+    "No change",
+    "Vasodilation",
+    "Spasm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#29934c",
+   "kind": "mcq",
+   "stem": "What does beta-1 stimulation by adrenaline do to the arrhythmia threshold?",
+   "options": [
+    "It is abolished",
+    "It falls",
+    "It is unchanged",
+    "It rises"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#d876c8",
+   "kind": "mcq",
+   "stem": "What may beta-2 stimulation by adrenaline do to peripheral vascular resistance?",
+   "options": [
+    "It may rise sharply",
+    "It may fall",
+    "It never changes",
+    "It doubles"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#c57869",
+   "kind": "mcq",
+   "stem": "Which adrenaline bolus in cardiac arrest gives alpha-1 effects?",
+   "options": [
+    "10 mcg bolus",
+    "0.1 mg bolus",
+    "1 mg bolus",
+    "100 mcg bolus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#6cc288",
+   "kind": "mcq",
+   "stem": "What does adrenaline do to systemic vascular resistance (SVR)?",
+   "options": [
+    "It falls",
+    "It falls, then rises",
+    "It is unchanged",
+    "It rises"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#03a85c",
+   "kind": "mcq",
+   "stem": "At low adrenaline concentrations, what happens to blood vessels?",
+   "options": [
+    "No effect",
+    "Vasoconstriction",
+    "Vasodilation",
+    "Venoconstriction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#03a85c",
+   "kind": "blank",
+   "stem": "At high adrenaline concentrations, alpha receptors cause ____.",
+   "answer": "vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#fedc65",
+   "kind": "mcq",
+   "stem": "Which receptor does adrenaline use to produce its potent bronchodilation?",
+   "options": [
+    "Alpha-1",
+    "Beta-1",
+    "Alpha-2",
+    "Beta-2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#2ee1ca",
+   "kind": "statement",
+   "stem": "In adrenaline's metabolic effects, what usually overrides the early beta-2 rise in insulin release?",
+   "answer": "Alpha inhibition of insulin release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#af4dd9",
+   "kind": "mcq",
+   "stem": "Which receptor drives adrenaline's lipolysis, which raises free fatty acids?",
+   "options": [
+    "Beta-1",
+    "Beta-2",
+    "Beta-3",
+    "Alpha-2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#af4dd9",
+   "kind": "statement",
+   "stem": "What does adrenaline-driven lipolysis drive in the liver?",
+   "answer": "Fatty acid oxidation and ketogenesis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#bbc20b",
+   "kind": "mcq",
+   "stem": "What is the first change in serum potassium after adrenaline?",
+   "options": [
+    "A sustained fall",
+    "No change",
+    "A brief rise",
+    "A rise lasting hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#bbc20b",
+   "kind": "blank",
+   "stem": "Adrenaline moves potassium into cells via ____ receptors.",
+   "answer": "β2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#19af2e",
+   "kind": "mcq",
+   "stem": "What does adrenaline do to uterine smooth muscle?",
+   "options": [
+    "Contracts it",
+    "Relaxes it",
+    "Leaves it unchanged",
+    "Hypertrophies it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#1b4c96",
+   "kind": "mcq",
+   "stem": "What does beta stimulation by adrenaline do to fast white muscle fibre twitch tension?",
+   "options": [
+    "It falls",
+    "It stops",
+    "It rises",
+    "It is unchanged"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#1b4c96",
+   "kind": "statement",
+   "stem": "What probably causes the tremor seen with adrenaline's beta-2 activity in skeletal muscle?",
+   "answer": "More muscle spindle firing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#e19668",
+   "kind": "mcq",
+   "stem": "What does adrenaline do to mast cell histamine release?",
+   "options": [
+    "It is increased",
+    "It is inhibited",
+    "It is unchanged",
+    "It is doubled"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#6d8225",
+   "kind": "mcq",
+   "stem": "Which receptor makes adrenaline increase platelet aggregation?",
+   "options": [
+    "Beta-2",
+    "Alpha-1",
+    "Alpha-2",
+    "Beta-1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#53a0fa",
+   "kind": "mcq",
+   "stem": "Alpha-1 stimulation by adrenaline contracts which structure?",
+   "options": [
+    "Bronchial smooth muscle",
+    "Iris radial muscle",
+    "Cardiac pacemaker cells",
+    "Hepatic glycogen stores"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#253a1f",
+   "kind": "mcq",
+   "stem": "What is adrenaline's main drawback in septic shock?",
+   "options": [
+    "More unwanted cardiac stimulation",
+    "Less effective than other catecholamines",
+    "Causes profound bradycardia",
+    "Produces no vasoconstriction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#1219e2",
+   "kind": "mcq",
+   "stem": "What can gut hypoperfusion from adrenaline damage?",
+   "options": [
+    "The renal tubular cells",
+    "The bowel mucosal barrier",
+    "The corneal epithelium",
+    "The splenic capsule"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#1e1d2e",
+   "kind": "mcq",
+   "stem": "What can adrenaline extravasation cause?",
+   "options": [
+    "Anaphylaxis",
+    "Tissue necrosis",
+    "Bradycardia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#88af25",
+   "kind": "blank",
+   "stem": "Do not infiltrate adrenaline where ____ supply the tissue, because of ischaemia risk.",
+   "answer": "end arteries",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#89a94f",
+   "kind": "mcq",
+   "stem": "What is a possible outcome of an adrenaline overdose?",
+   "options": [
+    "It is always harmless",
+    "It causes permanent deafness",
+    "It only causes sleepiness",
+    "It can be fatal"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#79e48a",
+   "kind": "mcq",
+   "stem": "Adrenaline is given as an IV bolus in cardiac arrest with which rhythm?",
+   "options": [
+    "Supraventricular tachycardia",
+    "Asystole",
+    "Atrial fibrillation",
+    "Sinus bradycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#6949b9",
+   "kind": "mcq",
+   "stem": "What is the drug of choice for circulatory support in anaphylactic shock?",
+   "options": [
+    "Hydrocortisone",
+    "Chlorphenamine",
+    "Adrenaline",
+    "Salbutamol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#9fb4d5",
+   "kind": "mcq",
+   "stem": "How is adrenaline given for circulatory failure in the critically ill?",
+   "options": [
+    "As an oral tablet",
+    "By infusion",
+    "Via nebuliser",
+    "As a single bolus only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#2c8dcc",
+   "kind": "mcq",
+   "stem": "Why is nebulised adrenaline used in acute upper airway obstruction?",
+   "options": [
+    "Bronchoconstriction opens the airway",
+    "It replaces lost blood volume",
+    "Vasoconstriction briefly reduces swelling",
+    "It sedates the patient"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#5c4d3d",
+   "kind": "mcq",
+   "stem": "Why is adrenaline added to local anaesthetic before surgical dissection?",
+   "options": [
+    "Vasodilation",
+    "Faster nerve conduction",
+    "Vasoconstriction",
+    "Bronchodilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#ce1255",
+   "kind": "mcq",
+   "stem": "Which eye condition are adrenaline eye drops used for?",
+   "options": [
+    "Dry eye",
+    "Cataract",
+    "Open-angle glaucoma",
+    "Macular degeneration"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#f7ab31",
+   "kind": "mcq",
+   "stem": "Which enzymes metabolise adrenaline in liver, kidney and blood?",
+   "options": [
+    "Cholinesterase only",
+    "Mitochondrial MAO and COMT",
+    "Pseudocholinesterase and lipase",
+    "Carbonic anhydrase and ATPase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#f7ab31",
+   "kind": "blank",
+   "stem": "Adrenaline is metabolised by mitochondrial MAO and ____.",
+   "answer": "COMT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#567ae1",
+   "kind": "blank",
+   "stem": "Adrenaline metabolites are conjugated with glucuronide or ____ and excreted in urine.",
+   "answer": "sulfate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adrenaline#6d6728",
+   "kind": "mcq",
+   "stem": "What is the half-life of adrenaline?",
+   "options": [
+    "About 2 hours",
+    "About 10 minutes",
+    "About 2 minutes",
+    "About 20 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

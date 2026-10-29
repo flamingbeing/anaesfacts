@@ -1,0 +1,3827 @@
+{
+ "topic": "procedures/paediatric-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-surgery#3c7153",
+   "kind": "mcq",
+   "stem": "What proportion of paediatric surgical procedures are day cases?",
+   "options": [
+    "20-30%",
+    "40-50%",
+    "70-80%",
+    "90-95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9d8dab",
+   "kind": "statement",
+   "stem": "In paediatric day-case surgery, which body areas do most procedures involve?",
+   "answer": "The penis or groin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#92ecc1",
+   "kind": "statement",
+   "stem": "What analgesic approach is recommended in paediatric surgery where possible?",
+   "answer": "Multimodal analgesia, using LA techniques where possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#540953",
+   "kind": "statement",
+   "stem": "How is the use of laparoscopic surgery changing in paediatric surgery?",
+   "answer": "Increasing fast",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#72d342",
+   "kind": "mcq",
+   "stem": "What proportion of excised superficial lumps in children are malignant?",
+   "options": [
+    "About 5%",
+    "About 10%",
+    "About 1%",
+    "About 25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#69d5b3",
+   "kind": "mcq",
+   "stem": "Which feature suggests a lump in a child may be malignant?",
+   "options": [
+    "Soft mass under 1 cm across",
+    "Lump that transilluminates",
+    "Lump that regresses over time",
+    "Firm mass >3 cm across"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f65b51",
+   "kind": "mcq",
+   "stem": "What proportion of benign lumps in children regress spontaneously?",
+   "options": [
+    "30-40%",
+    "5-10%",
+    "50-60%",
+    "70-80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f65b51",
+   "kind": "statement",
+   "stem": "Why are most benign childhood lumps removed?",
+   "answer": "Cosmesis, avoid later infection or inflammation, avoid missing cancer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b6cd5d",
+   "kind": "statement",
+   "stem": "Which rare skin cancer can present as a lump in children?",
+   "answer": "Melanoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9965ec",
+   "kind": "mcq",
+   "stem": "What share of childhood lumps is cervical lymphadenopathy?",
+   "options": [
+    "5-10%",
+    "25-30%",
+    "45-50%",
+    "60-70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0c2bac",
+   "kind": "statement",
+   "stem": "How are childhood lumps and bumps grouped by cause?",
+   "answer": "Infective, inflammatory or congenital (embryological)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b45092",
+   "kind": "mcq",
+   "stem": "In children, what share of cystic hygromas are in the neck?",
+   "options": [
+    "Under 10%",
+    "30-40%",
+    "60%+",
+    "90%+"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b45092",
+   "kind": "statement",
+   "stem": "What examination feature is typical of a cystic hygroma in children?",
+   "answer": "Transilluminates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1cc5fa",
+   "kind": "mcq",
+   "stem": "What does a stable, non-tender enlarged cervical node usually represent in children?",
+   "options": [
+    "Usually lymphoma",
+    "Usually reactive",
+    "Usually a dermoid cyst",
+    "Usually a lipoma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#6ff471",
+   "kind": "statement",
+   "stem": "What is usually found at preoperative assessment for a childhood lump excision?",
+   "answer": "Usually unremarkable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#6ff471",
+   "kind": "statement",
+   "stem": "How common are airway problems in children having a lump excision?",
+   "answer": "Rare",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b0db31",
+   "kind": "statement",
+   "stem": "Why might a childhood lump excision occasionally run longer than expected?",
+   "answer": "Frozen section or bigger surgery than planned",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#363eae",
+   "kind": "statement",
+   "stem": "Which induction is preferred for childhood lump excision, and why?",
+   "answer": "Inhalational or IV, for veins and ease of cannulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#6ff6cf",
+   "kind": "mcq",
+   "stem": "What airway and breathing are usually used for childhood lump excision?",
+   "options": [
+    "Face mask with spontaneous ventilation",
+    "LMA with spontaneous ventilation",
+    "ETT with IPPV",
+    "Tracheostomy with IPPV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3d4cad",
+   "kind": "mcq",
+   "stem": "What is the usual maintenance anaesthetic for childhood lump excision?",
+   "options": [
+    "Propofol infusion with air only",
+    "Ketamine infusion in oxygen only",
+    "Volatile in oxygen with air or nitrous oxide",
+    "Remifentanil infusion with air only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#73e240",
+   "kind": "statement",
+   "stem": "What does the surgeon usually infiltrate for a childhood lump excision, and why?",
+   "answer": "Local anaesthetic with adrenaline, for analgesia and haemostasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#6701c0",
+   "kind": "mcq",
+   "stem": "What analgesia is usually given after childhood lump excision?",
+   "options": [
+    "Morphine infusion only",
+    "Paracetamol and an NSAID",
+    "Epidural infusion only",
+    "Pethidine injections only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#6701c0",
+   "kind": "statement",
+   "stem": "When do most children go home after childhood lump excision?",
+   "answer": "A couple of hours later, after eating and drinking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1aedf4",
+   "kind": "mcq",
+   "stem": "Which is the commonest non-elective general surgical operation in children?",
+   "options": [
+    "Inguinal hernia repair",
+    "Pyloromyotomy",
+    "Tonsillectomy",
+    "Appendicectomy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d3353c",
+   "kind": "statement",
+   "stem": "In which children is appendicectomy mostly done?",
+   "answer": "School-age children",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#170640",
+   "kind": "blank",
+   "stem": "In classic appendicitis, central colicky pain moves to the right ____.",
+   "answer": "iliac fossa",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d5fda0",
+   "kind": "statement",
+   "stem": "What sensitivity and specificity does ultrasound achieve for appendicitis in children?",
+   "answer": "More than 80%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e023c8",
+   "kind": "statement",
+   "stem": "Why is appendicitis often diagnosed late in young children?",
+   "answer": "Atypical presentation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e023c8",
+   "kind": "mcq",
+   "stem": "Which complication is more common in preschool children with appendicitis?",
+   "options": [
+    "Pancreatitis",
+    "Perforation, abscess and peritonitis",
+    "Intussusception",
+    "Biliary colic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#00621c",
+   "kind": "statement",
+   "stem": "Why can young children be very sick by the time of appendicectomy?",
+   "answer": "They compensate well for hypovolaemia and sepsis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#28d512",
+   "kind": "mcq",
+   "stem": "Which approaches are used for appendicectomy in children?",
+   "options": [
+    "Open midline or robotic",
+    "Open muscle-splitting or laparoscopic",
+    "Transanal or endoscopic",
+    "Percutaneous image-guided only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e73446",
+   "kind": "statement",
+   "stem": "What history is usually taken before appendicectomy in children?",
+   "answer": "Illness, past history, anaesthetics, allergies, drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9e8943",
+   "kind": "statement",
+   "stem": "What must be assessed in a child with appendicitis who is vomiting and has not been drinking?",
+   "answer": "Fluid balance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#385ac5",
+   "kind": "statement",
+   "stem": "Which blood tests are done before a child's appendicectomy?",
+   "answer": "FBC and U&E",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a5f234",
+   "kind": "mcq",
+   "stem": "What does a child undergoing appendicectomy usually already have in place?",
+   "options": [
+    "Arterial line",
+    "IV access",
+    "Urinary catheter",
+    "Central venous line"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ac9b96",
+   "kind": "mcq",
+   "stem": "What induction and airway are usual for appendicectomy in children?",
+   "options": [
+    "Inhalational induction with LMA and spontaneous ventilation",
+    "Rapid sequence induction with ETT and IPPV",
+    "Awake fibreoptic intubation with ETT",
+    "Inhalational induction with face mask only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e4a2b7",
+   "kind": "statement",
+   "stem": "What determines the analgesia needed after appendicectomy in children?",
+   "answer": "Preoperative analgesia, open or laparoscopic approach, and perforation, abscess or peritonitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d3d3ae",
+   "kind": "mcq",
+   "stem": "What is the IV morphine dose for analgesia after appendicectomy in children?",
+   "options": [
+    "10-15 mcg/kg IV",
+    "100-150 mcg/kg IV",
+    "1-1.5 mg/kg IV",
+    "500-600 mcg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d3d3ae",
+   "kind": "mcq",
+   "stem": "What is the IV fentanyl dose for analgesia after appendicectomy in children?",
+   "options": [
+    "20-40 mcg/kg IV",
+    "0.2-0.4 mcg/kg IV",
+    "2-4 mcg/kg IV",
+    "10-20 mcg/kg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4d286a",
+   "kind": "mcq",
+   "stem": "In paediatric appendicectomy, which IV ondansetron dose is suggested as an antiemetic?",
+   "options": [
+    "10 mcg/kg IV",
+    "100 mcg/kg IV",
+    "1 mg/kg IV",
+    "500 mcg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#dd6f2e",
+   "kind": "mcq",
+   "stem": "If a young child decompensates on induction for appendicectomy, how much fluid is typically given as boluses?",
+   "options": [
+    "A single 5 mL/kg bolus",
+    "A couple of 20 mL/kg boluses",
+    "A single 50 mL/kg bolus",
+    "Maintenance fluid only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d8e8f9",
+   "kind": "mcq",
+   "stem": "After paediatric appendicectomy, where is the child usually cared for?",
+   "options": [
+    "Intensive care unit",
+    "Surgical ward",
+    "High dependency unit",
+    "Recovery room, then home"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#746fa0",
+   "kind": "statement",
+   "stem": "In paediatric appendicectomy, what determines the analgesia plan?",
+   "answer": "The condition, the degree of peritonism and the extent of surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e70807",
+   "kind": "mcq",
+   "stem": "What oral opioid dose is suggested after paediatric appendicectomy?",
+   "options": [
+    "Oral morphine 20-30 mcg/kg 4-hourly",
+    "Oral morphine 2-3 mg/kg 4-hourly",
+    "Oral morphine 200-300 mcg/kg 4-hourly",
+    "Intravenous morphine 50 mcg/kg 2-hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#49c81b",
+   "kind": "statement",
+   "stem": "What care does a young late-presenting appendicectomy child need in HDU?",
+   "answer": "Oxygen, more fluid, and urine output monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#07d2d3",
+   "kind": "mcq",
+   "stem": "In intussusception, where does one bowel segment usually telescope into another?",
+   "options": [
+    "Just distal to the pylorus",
+    "Just proximal to the ileocaecal valve",
+    "At the rectosigmoid junction",
+    "At the duodenojejunal flexure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#15f9ed",
+   "kind": "statement",
+   "stem": "In intussusception, what sequence of bowel damage leads to gangrene if reduction is delayed?",
+   "answer": "Lymphatic and venous obstruction with oedema, then arterial compromise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#7acb50",
+   "kind": "mcq",
+   "stem": "At what age does intussusception most often present?",
+   "options": [
+    "5-18 years",
+    "2-3 weeks",
+    "1-2 years",
+    "5-18 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#7acb50",
+   "kind": "mcq",
+   "stem": "What is the male to female ratio in intussusception?",
+   "options": [
+    "1:1",
+    "2:3",
+    "3:2",
+    "3:1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#8e3b8e",
+   "kind": "mcq",
+   "stem": "Which of these is a possible lead point for intussusception in a child?",
+   "options": [
+    "Gallstone ileus",
+    "Meckel's diverticulum",
+    "Renal calculus",
+    "Pyloric stenosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e278f5",
+   "kind": "blank",
+   "stem": "Classic intussusception: intermittent colicky pain, with blood and mucus in the stool, the so-called ____ stool.",
+   "answer": "redcurrant jelly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#264b21",
+   "kind": "mcq",
+   "stem": "How is intussusception confirmed in children?",
+   "options": [
+    "Plain abdominal X-ray alone",
+    "Ultrasound or CT",
+    "Barium swallow",
+    "Gastroscopy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#2d84c9",
+   "kind": "mcq",
+   "stem": "What is the first-line treatment for intussusception, given in radiology?",
+   "options": [
+    "Immediate laparotomy",
+    "Nasogastric decompression alone",
+    "Air or barium enema",
+    "Ileal resection"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f0af45",
+   "kind": "mcq",
+   "stem": "When is urgent laparotomy or laparoscopy indicated for intussusception?",
+   "options": [
+    "Child is well after enema",
+    "Pain controlled with morphine",
+    "Enema reduction has failed",
+    "Stool is free of mucus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d426d4",
+   "kind": "mcq",
+   "stem": "In intussusception, how often is a 20 mL/kg bolus commonly repeated?",
+   "options": [
+    "Five or six times",
+    "Once or twice",
+    "Never, maintenance only",
+    "Ten times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a9101b",
+   "kind": "mcq",
+   "stem": "What IV morphine dose is suggested for analgesia in intussusception?",
+   "options": [
+    "10-20 mcg/kg IV",
+    "100-200 mcg/kg IV",
+    "1-2 mg/kg IV",
+    "1-2 mcg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#11ec08",
+   "kind": "statement",
+   "stem": "In young children with intussusception, why may gentle face-mask IPPV be needed before intubation?",
+   "answer": "Young children often refuse preoxygenation, which risks hypoxia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#6c91bb",
+   "kind": "mcq",
+   "stem": "In intussusception surgery, which tube is placed in addition to the second IV cannula?",
+   "options": [
+    "Pleural drain",
+    "Nasogastric tube",
+    "Tracheostomy",
+    "Gastrostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#27a9da",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is suggested to reduce volatile need in intussusception?",
+   "options": [
+    "2.5-5 mcg/kg/min",
+    "0.025-0.05 mcg/kg/min",
+    "0.25-0.5 mcg/kg/min",
+    "0.5-1 mg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a4e9be",
+   "kind": "mcq",
+   "stem": "In intussusception, which regional technique is usually acceptable?",
+   "options": [
+    "Caudal epidural",
+    "Thoracic epidural",
+    "Wound infiltration",
+    "Paravertebral block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#613c1d",
+   "kind": "mcq",
+   "stem": "Which fentanyl dose is suggested for analgesia during intussusception surgery?",
+   "options": [
+    "20-40 mcg/kg",
+    "0.2-0.4 mcg/kg",
+    "2-4 mcg/kg",
+    "2-4 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#788e12",
+   "kind": "statement",
+   "stem": "In intussusception, when may several 20 mL/kg fluid boluses be needed?",
+   "answer": "Especially with resection of dead bowel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9566f0",
+   "kind": "statement",
+   "stem": "How is heat loss prevented during intussusception surgery?",
+   "answer": "Warming mattress and blanket, and warmed fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3717cb",
+   "kind": "mcq",
+   "stem": "In intussusception with bowel resection, what should be placed at the end of surgery if HDU or ITU is planned?",
+   "options": [
+    "Peripheral cannula only",
+    "Central and arterial lines, urinary catheter",
+    "Nasogastric tube and drain",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#097141",
+   "kind": "mcq",
+   "stem": "Where should an intussusception child go after surgery if no resection was done, they are stable and need no oxygen?",
+   "options": [
+    "ITU",
+    "Theatre recovery only",
+    "HDU",
+    "Ward"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#64aa89",
+   "kind": "mcq",
+   "stem": "For how long is an IV morphine infusion usually given after intussusception surgery?",
+   "options": [
+    "2-4 hours",
+    "24-48 hours",
+    "72-96 hours",
+    "5-7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#2a977f",
+   "kind": "mcq",
+   "stem": "After intussusception with recent hypovolaemia or possible sepsis, how long are NSAIDs usually withheld?",
+   "options": [
+    "1-2 hours",
+    "12-24 hours",
+    "72-96 hours",
+    "5-7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#dbfe66",
+   "kind": "statement",
+   "stem": "When does a child after intussusception surgery need HDU or ITU?",
+   "answer": "If oxygen-dependent, unstable, still needing fluid, or oliguric",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e7bcd5",
+   "kind": "statement",
+   "stem": "Which wider group of operations follows the same anaesthetic principles as intussusception surgery?",
+   "answer": "Any paediatric laparotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#807ccc",
+   "kind": "blank",
+   "stem": "Paediatric circumcision removes part or all of the ____.",
+   "answer": "foreskin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#618e11",
+   "kind": "mcq",
+   "stem": "Which of these is a medical indication for paediatric circumcision?",
+   "options": [
+    "Undescended testis",
+    "Phimosis",
+    "Inguinal hernia",
+    "Hypospadias"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#155f36",
+   "kind": "mcq",
+   "stem": "At what age is religious circumcision often done in some communities?",
+   "options": [
+    "3-4 years",
+    "6-12 years",
+    "12-18 years",
+    "18-20 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a3d1e0",
+   "kind": "mcq",
+   "stem": "Which position is used for paediatric circumcision?",
+   "options": [
+    "Prone",
+    "Lateral",
+    "Supine",
+    "Lithotomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0d54c2",
+   "kind": "mcq",
+   "stem": "In paediatric circumcision, what is the main issue to weigh before deciding to proceed?",
+   "options": [
+    "Respiratory infection",
+    "Hyperkalaemia",
+    "Malignant hyperthermia",
+    "Excessive blood loss"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3bec0e",
+   "kind": "mcq",
+   "stem": "What midazolam premedication dose is suggested for an anxious older boy having circumcision?",
+   "options": [
+    "1 mg/kg",
+    "0.05 mg/kg",
+    "2.5 mg/kg",
+    "0.5 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3bec0e",
+   "kind": "mcq",
+   "stem": "What is the maximum midazolam premedication dose for an anxious older boy having circumcision?",
+   "options": [
+    "10 mg",
+    "5 mg",
+    "20 mg",
+    "40 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#870c0c",
+   "kind": "statement",
+   "stem": "In paediatric circumcision, what is the main factor that determines the technique?",
+   "answer": "Age",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#42bf6c",
+   "kind": "statement",
+   "stem": "How is an older boy having circumcision usually induced and airway-managed?",
+   "answer": "IV induction; LMA with spontaneous ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1614e1",
+   "kind": "mcq",
+   "stem": "How is induction usually done for infants having circumcision?",
+   "options": [
+    "Intramuscular ketamine only",
+    "IV induction",
+    "Inhalational induction",
+    "Rectal premedication only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ed55aa",
+   "kind": "statement",
+   "stem": "In paediatric circumcision, when are IV fluids often not needed?",
+   "answer": "Especially without prolonged fasting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#572fb7",
+   "kind": "mcq",
+   "stem": "Which regional techniques are used for analgesia in paediatric circumcision?",
+   "options": [
+    "Thoracic epidural or paravertebral block",
+    "Caudal epidural or penile nerve block",
+    "Brachial plexus or femoral block",
+    "Intrathecal morphine only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#5ce39b",
+   "kind": "mcq",
+   "stem": "For infant circumcision, what caudal volume of 0.5% levobupivacaine or similar is suggested?",
+   "options": [
+    "0.03 mL/kg",
+    "0.2 mL/kg",
+    "0.3 mL/kg",
+    "0.5 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a2430c",
+   "kind": "mcq",
+   "stem": "Which block is more usual for analgesia in older boys having circumcision?",
+   "options": [
+    "Caudal epidural",
+    "Spinal anaesthesia",
+    "Penile nerve block",
+    "Transversus abdominis plane block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#24858f",
+   "kind": "statement",
+   "stem": "Both caudal and penile blocks for circumcision can fail. What should be given to cover this?",
+   "answer": "An opioid, so the child does not wake without analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#46d3f2",
+   "kind": "mcq",
+   "stem": "In paediatric circumcision, which drug class is given in all cases unless contraindicated?",
+   "options": [
+    "Benzodiazepine",
+    "NSAID",
+    "Ketamine infusion",
+    "Nitrous oxide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#28440a",
+   "kind": "mcq",
+   "stem": "What topical agent is applied to the glans at the end of circumcision?",
+   "options": [
+    "Chlorhexidine paint",
+    "Lidocaine ointment",
+    "Adrenaline gel",
+    "Hydrocortisone cream"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c6b6d1",
+   "kind": "statement",
+   "stem": "If a child needs re-exploration for bleeding after circumcision, what should be checked with the surgeon about a penile block?",
+   "answer": "Whether a penile block is acceptable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#34775d",
+   "kind": "statement",
+   "stem": "What home analgesia is often supplied after paediatric circumcision?",
+   "answer": "Lidocaine ointment, ibuprofen and paracetamol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c92049",
+   "kind": "mcq",
+   "stem": "What oral paracetamol dose is suggested after paediatric circumcision?",
+   "options": [
+    "1.5 mg/kg oral 4-hourly",
+    "15 mg/kg oral 6-hourly",
+    "150 mg/kg oral 4-hourly",
+    "15 mg/kg oral 4-hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c92049",
+   "kind": "mcq",
+   "stem": "What oral ibuprofen dose is suggested after paediatric circumcision?",
+   "options": [
+    "10 mg/kg oral 4-hourly",
+    "1 mg/kg oral 6-hourly",
+    "100 mg/kg oral 6-hourly",
+    "10 mg/kg oral 6-hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b49e5d",
+   "kind": "mcq",
+   "stem": "How long is significant pain after paediatric circumcision normally expected to last?",
+   "options": [
+    "2-4 hours",
+    "Less than one hour",
+    "7-10 days",
+    "24-48 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c9d371",
+   "kind": "mcq",
+   "stem": "After paediatric circumcision, how soon is discharge usually possible?",
+   "options": [
+    "Next morning",
+    "2-4 hours",
+    "24-48 hours",
+    "2-4 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b05589",
+   "kind": "mcq",
+   "stem": "Which procedure treats phimosis while keeping the foreskin?",
+   "options": [
+    "Complete circumcision",
+    "Dorsal slit with transverse closure",
+    "Penile nerve block",
+    "Frenulotomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ef2abf",
+   "kind": "mcq",
+   "stem": "In preputioplasty, how is the narrow preputial opening treated?",
+   "options": [
+    "Excised completely",
+    "Cut crossways and closed lengthways",
+    "Cut lengthways and closed crossways",
+    "Left open to heal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a565e3",
+   "kind": "mcq",
+   "stem": "Compared with circumcision, how does the morbidity of preputioplasty compare?",
+   "options": [
+    "More morbidity",
+    "Same morbidity",
+    "Less morbidity",
+    "Much greater blood loss"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f88e1b",
+   "kind": "mcq",
+   "stem": "In which age group is preputioplasty usually done?",
+   "options": [
+    "Premature neonates",
+    "Older boys",
+    "Newborn infants",
+    "Infants for religious reasons"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1c39d8",
+   "kind": "mcq",
+   "stem": "For preputioplasty, which airway technique is described?",
+   "options": [
+    "Facemask with spontaneous ventilation",
+    "LMA with spontaneous ventilation",
+    "Cuffed endotracheal tube with IPPV",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#5a7614",
+   "kind": "mcq",
+   "stem": "How does analgesia for preputioplasty compare with circumcision?",
+   "options": [
+    "Harder",
+    "Identical",
+    "Easier",
+    "Not needed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b9c6f4",
+   "kind": "mcq",
+   "stem": "Which block is almost always enough for analgesia in preputioplasty?",
+   "options": [
+    "Caudal epidural",
+    "Penile nerve block",
+    "Spinal anaesthesia",
+    "Epidural infusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#5448c9",
+   "kind": "mcq",
+   "stem": "After preputioplasty, how does postoperative pain compare with circumcision?",
+   "options": [
+    "Much more pain",
+    "About the same pain",
+    "Pain only if bleeding",
+    "Much less pain"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1557e0",
+   "kind": "mcq",
+   "stem": "What is the approximate inguinal hernia incidence in infants born at under 28 weeks' gestation?",
+   "options": [
+    "3%",
+    "1%",
+    "30%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1557e0",
+   "kind": "mcq",
+   "stem": "How much more common is inguinal hernia in boys than in girls?",
+   "options": [
+    "Twice as common",
+    "Ten times",
+    "The same",
+    "Five times"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#00d219",
+   "kind": "mcq",
+   "stem": "In what proportion of children does the processus vaginalis close?",
+   "options": [
+    "25%",
+    "50%",
+    "90%",
+    "100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f75cbe",
+   "kind": "mcq",
+   "stem": "What is the usual outcome of a paediatric inguinal hernia that is left without repair?",
+   "options": [
+    "They usually close by age two",
+    "They never close by themselves",
+    "They close once a truss is worn",
+    "They close after puberty"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#658659",
+   "kind": "mcq",
+   "stem": "What is the incarceration risk for inguinal hernia in infants and young children?",
+   "options": [
+    "Up to 3%",
+    "Up to 13%",
+    "Up to 31%",
+    "Up to 1%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#5fd2e3",
+   "kind": "mcq",
+   "stem": "In premature infants with inguinal hernia, some surgeons wait until what post-menstrual age?",
+   "options": [
+    "35-40 weeks",
+    "45-50 weeks",
+    "55-60 weeks",
+    "65-70 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1e4b04",
+   "kind": "mcq",
+   "stem": "How long is neonatal hydrocele repair delayed?",
+   "options": [
+    "1–2 weeks",
+    "3–4 months",
+    "12–18 months",
+    "2–3 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#23ce1c",
+   "kind": "mcq",
+   "stem": "How do hydrocele surgery and anaesthesia compare with hernia repair?",
+   "options": [
+    "Completely different",
+    "Almost the same",
+    "Much simpler, no general anaesthetic",
+    "Always day case only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f0169a",
+   "kind": "statement",
+   "stem": "When might neonates and infants with inguinal hernia need urgent surgery, rather than elective?",
+   "answer": "For incarceration or strangulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9c2bb5",
+   "kind": "mcq",
+   "stem": "How is laparoscopic repair of paediatric inguinal hernia trending?",
+   "options": [
+    "Decreasing",
+    "Stable",
+    "Increasing",
+    "Obsolete"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#825064",
+   "kind": "mcq",
+   "stem": "What is the usual health status of children having elective inguinal hernia repair?",
+   "options": [
+    "Acutely septic",
+    "Fit and well",
+    "Severely anaemic",
+    "Acutely unwell"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b5979c",
+   "kind": "statement",
+   "stem": "A child with incarcerated inguinal hernia may be vomiting. What anaesthetic risk does this create?",
+   "answer": "Aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3525e1",
+   "kind": "mcq",
+   "stem": "In a premature infant for hernia repair, which other illness is given as an example to assess?",
+   "options": [
+    "Hirschsprung disease",
+    "Patent ductus arteriosus",
+    "Gallstones",
+    "Hyperthyroidism"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#689a90",
+   "kind": "statement",
+   "stem": "What should parents of premature infants be warned about after hernia repair?",
+   "answer": "Postoperative apnoeas and possible postoperative ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#449045",
+   "kind": "mcq",
+   "stem": "Which volume per kg of 0.25% levobupivacaine (Armitage formula) reaches T12 for a caudal in infant hernia repair?",
+   "options": [
+    "0.5 mL/kg",
+    "2 mL/kg",
+    "1 mL/kg",
+    "5 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4c1b70",
+   "kind": "mcq",
+   "stem": "Up to what body weight is a caudal block suitable for inguinal hernia repair in children?",
+   "options": [
+    "10 kg",
+    "15 kg",
+    "20 kg",
+    "30 kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4590ba",
+   "kind": "mcq",
+   "stem": "Which dose range of 0.5% heavy bupivacaine is quoted for a spinal block in inguinal hernia repair?",
+   "options": [
+    "0.03-0.1 mg/kg",
+    "3-10 mg/kg",
+    "0.3-1 mg/kg",
+    "10-20 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f25266",
+   "kind": "blank",
+   "stem": "For most children having inguinal hernia repair, the technique of choice is the ____ block.",
+   "answer": "Ilioinguinal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f791db",
+   "kind": "statement",
+   "stem": "Besides the regional block, what extra technique do many children having inguinal hernia repair also ask for?",
+   "answer": "Surgical wound infiltration.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#2fb91a",
+   "kind": "statement",
+   "stem": "In inguinal hernia repair, what may some older, overweight children still need despite a good block?",
+   "answer": "An opioid plus an antiemetic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d046f9",
+   "kind": "statement",
+   "stem": "After inguinal hernia repair in children, which analgesic is given if there is no contraindication?",
+   "answer": "NSAID.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#7efa2e",
+   "kind": "mcq",
+   "stem": "After elective inguinal hernia repair in a child, how soon after the operation is discharge home typical?",
+   "options": [
+    "2-4 hours",
+    "1-2 hours",
+    "6-8 hours",
+    "Next day"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0556d0",
+   "kind": "statement",
+   "stem": "What is usual after emergency repair of an incarcerated inguinal hernia in a child?",
+   "answer": "Overnight stay.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#dca117",
+   "kind": "statement",
+   "stem": "After an ilioinguinal block in a child, what must be checked before the child walks unaided?",
+   "answer": "Femoral nerve block.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#8a61b6",
+   "kind": "mcq",
+   "stem": "Ex-premature infants having hernia repair: up to what postconceptual age do they need overnight monitoring?",
+   "options": [
+    "32-36 weeks' postconceptual age",
+    "6-8 weeks' postnatal age",
+    "48-60 weeks' postconceptual age",
+    "12-16 weeks' postconceptual age"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#8a61b6",
+   "kind": "mcq",
+   "stem": "After hernia repair, how long should ex-premature infants have pulse oximetry and apnoea monitoring?",
+   "options": [
+    "4 hours",
+    "24 hours",
+    "48 hours",
+    "12 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a6a68b",
+   "kind": "mcq",
+   "stem": "How long does a tongue-tie release usually take in a child?",
+   "options": [
+    "About 5 minutes",
+    "About 30 minutes",
+    "About 1 hour",
+    "About 2 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f2151e",
+   "kind": "mcq",
+   "stem": "For tongue-tie release as the only procedure, which airway is enough in a child?",
+   "options": [
+    "Nasal endotracheal tube",
+    "Flexible laryngeal mask airway",
+    "Cuffed oral endotracheal tube",
+    "Tracheostomy tube"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9da812",
+   "kind": "statement",
+   "stem": "Which problems may accompany renal impairment in children having paediatric urological surgery?",
+   "answer": "Electrolyte imbalance, anaemia, hypertension or metabolic problems.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4ca114",
+   "kind": "mcq",
+   "stem": "Congenital urological anomalies raise the risk of which allergy in children?",
+   "options": [
+    "Penicillin allergy",
+    "Latex allergy",
+    "Peanut allergy",
+    "Chlorhexidine allergy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#daf02a",
+   "kind": "statement",
+   "stem": "In paediatric urological surgery, what is often needed for obstruction or urinary infection?",
+   "answer": "Antibiotic prophylaxis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0237e9",
+   "kind": "blank",
+   "stem": "In paediatric urological surgery, the ____ position risks nerve injury, so it must be positioned carefully.",
+   "answer": "Lithotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#8425c0",
+   "kind": "statement",
+   "stem": "Why is irrigation fluid a concern in paediatric urological surgery?",
+   "answer": "It hides blood loss and increases the risk of hypothermia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c386da",
+   "kind": "mcq",
+   "stem": "About what percentage of male births are affected by cryptorchidism (undescended testis)?",
+   "options": [
+    "0.5%",
+    "2%",
+    "10%",
+    "25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#bd439a",
+   "kind": "statement",
+   "stem": "What are the consequences of cryptorchidism (undescended testis) in boys?",
+   "answer": "Testicular degeneration, reduced fertility and more germ cell tumours.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#5d9f95",
+   "kind": "statement",
+   "stem": "In orchidopexy for undescended testis, what is the main risk to the testis?",
+   "answer": "Atrophy from poor blood supply.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ad25e6",
+   "kind": "statement",
+   "stem": "What does orchidopexy achieve for an undescended testis?",
+   "answer": "It moves the testis into the scrotum.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#139d45",
+   "kind": "statement",
+   "stem": "How is a very high or intra-abdominal testis managed in orchidopexy?",
+   "answer": "A laparoscopically assisted or two-stage procedure.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c849e0",
+   "kind": "statement",
+   "stem": "For an impalpable testis in orchidopexy, which investigation is used to find it?",
+   "answer": "Diagnostic laparoscopy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#261c60",
+   "kind": "statement",
+   "stem": "Before orchidopexy, what may a boy be given to help the testis descend?",
+   "answer": "Hormonal treatment.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b5d3f3",
+   "kind": "mcq",
+   "stem": "When is orchidopexy for undescended testis ideally done?",
+   "options": [
+    "In the first week of life",
+    "In the second year of life",
+    "At age 10 years",
+    "At puberty"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ee7fda",
+   "kind": "mcq",
+   "stem": "In orchidopexy, where is the testis placed once its vessels have been mobilised?",
+   "options": [
+    "Inside the inguinal canal",
+    "In a scrotal subcutaneous pouch",
+    "Within the peritoneal cavity",
+    "Beneath the external oblique"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0fb211",
+   "kind": "statement",
+   "stem": "In ex-premature boys having orchidopexy, which airway and access problems may be present?",
+   "answer": "Bronchopulmonary dysplasia (irritable airways) and poor venous access.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ef4a3e",
+   "kind": "statement",
+   "stem": "Which other anomalies can come with undescended testis?",
+   "answer": "Prune belly syndrome, posterior urethral valves, neural tube defects, gastroschisis, microcephaly.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#968294",
+   "kind": "mcq",
+   "stem": "Which airway is commonly used for orchidopexy under general anaesthesia in children?",
+   "options": [
+    "Oropharyngeal airway",
+    "Laryngeal mask airway",
+    "Nasopharyngeal airway",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a25178",
+   "kind": "mcq",
+   "stem": "During orchidopexy, testicular traction under light anaesthesia can trigger which airway problem?",
+   "options": [
+    "Laryngospasm",
+    "Malignant hyperthermia",
+    "Anaphylaxis",
+    "Pneumothorax"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9bab45",
+   "kind": "statement",
+   "stem": "For unilateral orchidopexy in a child, which block and infiltration combination is used?",
+   "answer": "Ilioinguinal block plus surgical scrotal infiltration.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#705bb4",
+   "kind": "statement",
+   "stem": "For bilateral orchidopexy in a child, which regional technique may be better?",
+   "answer": "Caudal block.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#7a426a",
+   "kind": "mcq",
+   "stem": "At about which spinal level does testicular sympathetic supply enter the CNS?",
+   "options": [
+    "T4",
+    "T10",
+    "L2",
+    "S2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#90ba72",
+   "kind": "mcq",
+   "stem": "In orchidopexy, which intravenous morphine dose is quoted for an opioid given with an antiemetic?",
+   "options": [
+    "10-15 mcg/kg IV",
+    "100-150 mcg/kg IV",
+    "1-2 mg/kg IV",
+    "300-500 mcg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#90ba72",
+   "kind": "mcq",
+   "stem": "For orchidopexy, which intravenous fentanyl dose is quoted as an opioid option?",
+   "options": [
+    "2-4 mcg/kg IV",
+    "0.2-0.4 mcg/kg IV",
+    "20-40 mcg/kg IV",
+    "2-4 mg/kg IV"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#df7bd8",
+   "kind": "statement",
+   "stem": "After orchidopexy, which analgesia is given alongside early oral intake?",
+   "answer": "Paracetamol, NSAID and oral opioid.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#80d1b4",
+   "kind": "mcq",
+   "stem": "After orchidopexy, from about what age do boys have more pain and nausea and vomiting than toddlers?",
+   "options": [
+    "About 5 years",
+    "About 1 year",
+    "About 10 years",
+    "About 2 years"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1eb7f6",
+   "kind": "statement",
+   "stem": "In a child with acute scrotal pain, which differentials must be considered?",
+   "answer": "Epididymo-orchitis, trauma, incarcerated hernia, appendicitis, tumour.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#eb572d",
+   "kind": "mcq",
+   "stem": "In acute scrotum, which age group has the highest prevalence?",
+   "options": [
+    "Neonates",
+    "Infants",
+    "School-age boys",
+    "Toddlers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b28083",
+   "kind": "mcq",
+   "stem": "In a boy with acute scrotal pain where torsion is not excluded, when should exploration ideally happen?",
+   "options": [
+    "Within 2 hours of pain onset",
+    "Within 6 hours of pain onset",
+    "Within 24 hours of pain onset",
+    "Within 48 hours of pain onset"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#838a6c",
+   "kind": "mcq",
+   "stem": "In testicular torsion, what testicular salvage rate is quoted for treatment within 6 hours?",
+   "options": [
+    "25%",
+    "50%",
+    "80%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#838a6c",
+   "kind": "mcq",
+   "stem": "In testicular torsion, after how many hours is salvage quoted as under 25%?",
+   "options": [
+    "6 hours",
+    "12 hours",
+    "18 hours",
+    "36 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ced910",
+   "kind": "statement",
+   "stem": "In younger boys with epididymo-orchitis needing surgery, when are IV fluids usually given?",
+   "answer": "During surgery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1875cc",
+   "kind": "mcq",
+   "stem": "How may older boys with acute scrotum behave before surgery?",
+   "options": [
+    "Quiet and frightened",
+    "Loud and agitated",
+    "Drowsy and confused",
+    "Cheerful and talkative"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#05db71",
+   "kind": "statement",
+   "stem": "Why might a child with acute scrotum have a stomach that is not empty despite fasting?",
+   "answer": "Pain and stress may stop the stomach emptying, even after 6 hours.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#66dd43",
+   "kind": "mcq",
+   "stem": "Which airway is usually used for acute scrotum surgery in children?",
+   "options": [
+    "Tracheostomy",
+    "Endotracheal tube",
+    "Oropharyngeal airway",
+    "Nasopharyngeal airway"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d0da1b",
+   "kind": "statement",
+   "stem": "When is a laryngeal mask acceptable for acute scrotum surgery?",
+   "answer": "Only if confident there is no increased regurgitation risk.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#29946e",
+   "kind": "statement",
+   "stem": "In acute scrotum surgery, when are IV fluids given before the operation?",
+   "answer": "If the child is febrile and unwell.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0baa24",
+   "kind": "mcq",
+   "stem": "In acute scrotum surgery, which intravenous morphine dose is given for intraoperative analgesia?",
+   "options": [
+    "10-15 mcg/kg",
+    "100-150 mcg/kg",
+    "1-2 mg/kg",
+    "300-500 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9cc474",
+   "kind": "mcq",
+   "stem": "Which IV ondansetron dose is quoted as an antiemetic in acute scrotum surgery?",
+   "options": [
+    "100 mcg/kg IV",
+    "10 mcg/kg IV",
+    "1 mg/kg IV",
+    "100 mg/kg IV"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9cc474",
+   "kind": "statement",
+   "stem": "In acute scrotum surgery, in which children should antiemetics be avoided?",
+   "answer": "Neonates and infants.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#61f3ac",
+   "kind": "mcq",
+   "stem": "Testicular handling in acute scrotum surgery may cause a vagal response: which drugs should be ready?",
+   "options": [
+    "Atropine or glycopyrronium",
+    "Adrenaline or noradrenaline",
+    "Naloxone or flumazenil",
+    "Salbutamol or aminophylline"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#89b074",
+   "kind": "mcq",
+   "stem": "After detorsion in acute scrotum surgery, what FiO2 may the surgeon ask for?",
+   "options": [
+    "21%",
+    "30%",
+    "50%",
+    "100%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f14337",
+   "kind": "statement",
+   "stem": "After acute scrotum surgery in febrile infants, what fluid is continued until they drink well?",
+   "answer": "IV maintenance fluids.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#87128b",
+   "kind": "mcq",
+   "stem": "After acute scrotum surgery, what oral paracetamol dose and interval are quoted?",
+   "options": [
+    "1.5 mg/kg 4-hourly",
+    "30 mg/kg 4-hourly",
+    "15 mg/kg 4-hourly",
+    "60 mg/kg 4-hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#87128b",
+   "kind": "mcq",
+   "stem": "After acute scrotum surgery, what oral ibuprofen dose and interval are quoted?",
+   "options": [
+    "1 mg/kg 6-hourly",
+    "10 mg/kg 6-hourly",
+    "10 mg/kg 12-hourly",
+    "20 mg/kg 6-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#87128b",
+   "kind": "mcq",
+   "stem": "After acute scrotum surgery, what oral morphine dose and interval are quoted?",
+   "options": [
+    "20-30 mcg/kg 4-hourly",
+    "200-300 mcg/kg 4-hourly",
+    "200-300 mcg/kg 12-hourly",
+    "2-3 mg/kg 4-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#5e01ab",
+   "kind": "mcq",
+   "stem": "Hypospadias is fairly common; about what ratio of male births is affected?",
+   "options": [
+    "1:20",
+    "1:50",
+    "1:350",
+    "1:1000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#26dc06",
+   "kind": "statement",
+   "stem": "In hypospadias, where is the urethral meatus located?",
+   "answer": "On the underside of the penis, anywhere down to the scrotum.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1fb758",
+   "kind": "statement",
+   "stem": "What does the foreskin look like in hypospadias?",
+   "answer": "Incomplete, forming a dorsal hood.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a680ea",
+   "kind": "statement",
+   "stem": "What is chordee in hypospadias?",
+   "answer": "A downward curve of the penis, especially on erection.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#859b0b",
+   "kind": "statement",
+   "stem": "What are the surgical aims of hypospadias repair?",
+   "answer": "Neourethra with meatus at the glans tip, release of chordee, enough skin cover and acceptable appearance.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1eb9c6",
+   "kind": "mcq",
+   "stem": "When is hypospadias repair usually done?",
+   "options": [
+    "In the first or second year of life",
+    "In the first week of life",
+    "At age 10 years",
+    "At puberty"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#35338a",
+   "kind": "mcq",
+   "stem": "After hypospadias repair, how long is a urethral or suprapubic catheter kept in to bypass oedema?",
+   "options": [
+    "6-12 hours",
+    "24-48 hours",
+    "1-2 weeks",
+    "3-6 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9bb7ca",
+   "kind": "statement",
+   "stem": "In hypospadias surgery, where might the surgeon want the child positioned?",
+   "answer": "Right down at the foot of the table.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#7f82fc",
+   "kind": "statement",
+   "stem": "When is sedative premedication helpful for hypospadias repair?",
+   "answer": "When multiple procedures are planned.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a9036c",
+   "kind": "statement",
+   "stem": "What induction is usually used for hypospadias repair in a young boy?",
+   "answer": "Inhalational induction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e63098",
+   "kind": "statement",
+   "stem": "For hypospadias repair lasting several hours, which airway and ventilation are usual?",
+   "answer": "Endotracheal tube with intermittent positive pressure ventilation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#276d65",
+   "kind": "statement",
+   "stem": "For a buccal mucosa graft in hypospadias repair, how is the child intubated?",
+   "answer": "Nasal tube, or oral RAE tube to one side of the mouth, plus a throat pack.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#5e0b4f",
+   "kind": "statement",
+   "stem": "How is an erection prevented during hypospadias surgery?",
+   "answer": "A regional block and adequate anaesthetic depth.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#dab601",
+   "kind": "mcq",
+   "stem": "Which caudal volume per kg of 0.5% levobupivacaine is quoted for hypospadias repair?",
+   "options": [
+    "0.03-0.05 mL/kg",
+    "0.3-0.5 mL/kg",
+    "3-5 mL/kg",
+    "1-2 mL/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#dab601",
+   "kind": "statement",
+   "stem": "Which block is best for most boys having hypospadias repair?",
+   "answer": "Caudal block.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#337099",
+   "kind": "mcq",
+   "stem": "Clonidine added to a caudal for hypospadias repair: what dose per kg is quoted?",
+   "options": [
+    "1-2 mg/kg",
+    "1-2 mcg/kg",
+    "10-20 mcg/kg",
+    "0.1-0.2 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#337099",
+   "kind": "mcq",
+   "stem": "Preservative-free ketamine added to a caudal for hypospadias repair: what dose per kg is quoted?",
+   "options": [
+    "0.05 mg/kg",
+    "0.5 mg/kg",
+    "1 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#297e3a",
+   "kind": "statement",
+   "stem": "Which block suits a minor, distal hypospadias repair?",
+   "answer": "Penile block.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#82ec23",
+   "kind": "statement",
+   "stem": "Which analgesic is given after hypospadias repair unless contraindicated?",
+   "answer": "NSAID.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d9ec09",
+   "kind": "statement",
+   "stem": "Why is mild postoperative sedation given after hypospadias repair?",
+   "answer": "To stop the boy touching the dressings or catheter.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a2ef11",
+   "kind": "statement",
+   "stem": "Why are maintenance fluids given after hypospadias repair?",
+   "answer": "To keep urine flowing through the catheter until the boy drinks well.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#977792",
+   "kind": "mcq",
+   "stem": "Which analgesic combination is usually used after hypospadias repair in children?",
+   "options": [
+    "Nerve block infusion only",
+    "Paracetamol, NSAID and oral opioid",
+    "Intravenous fentanyl infusion alone",
+    "Oral codeine and aspirin only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#785964",
+   "kind": "mcq",
+   "stem": "After complex hypospadias repair, when are sutures often removed under anaesthesia?",
+   "options": [
+    "About 2 days",
+    "About 5 days",
+    "About 10 days",
+    "About 14 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a4b032",
+   "kind": "statement",
+   "stem": "In children, what is the commonest cause of severe obstructive uropathy?",
+   "answer": "Posterior urethral valves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e1d9c0",
+   "kind": "statement",
+   "stem": "What can severe obstruction from posterior urethral valves cause?",
+   "answer": "Significant renal failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c94bb4",
+   "kind": "statement",
+   "stem": "What lung problems can babies with posterior urethral valves have?",
+   "answer": "Pulmonary hypoplasia and respiratory compromise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#279b92",
+   "kind": "mcq",
+   "stem": "What complications are expected with mild obstruction from posterior urethral valves?",
+   "options": [
+    "Severe renal failure in most cases",
+    "Pulmonary hypoplasia in most cases",
+    "Mild or no complications",
+    "Early death from sepsis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#15e207",
+   "kind": "mcq",
+   "stem": "How long does cystoscopic ablation of posterior urethral valves usually take?",
+   "options": [
+    "Less than 1 h",
+    "Around 3 hours",
+    "Around 5 hours",
+    "Over 8 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#15e207",
+   "kind": "statement",
+   "stem": "What anaesthetic is used for posterior urethral valve ablation?",
+   "answer": "General anaesthesia with ETT or LMA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#7f6de5",
+   "kind": "statement",
+   "stem": "What is vesicoureteric reflux?",
+   "answer": "Backflow of urine across the vesicoureteric junction (UVJ)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#23b78f",
+   "kind": "mcq",
+   "stem": "Up to what age is long-term antibiotic prophylaxis especially given for vesicoureteric reflux?",
+   "options": [
+    "Up to age 3 years",
+    "Up to age 12 years",
+    "Up to age 8 years",
+    "Up to age 16 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0a7abc",
+   "kind": "mcq",
+   "stem": "Which is a reason to offer surgery rather than continued prophylaxis for vesicoureteric reflux?",
+   "options": [
+    "Reflux seen on one antenatal scan",
+    "Mild reflux with normal kidneys",
+    "Asymptomatic reflux in a toddler",
+    "Breakthrough UTIs on prophylaxis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f52551",
+   "kind": "mcq",
+   "stem": "What is the gold standard operation for ureteric reimplantation in vesicoureteric reflux?",
+   "options": [
+    "Endoscopic submucosal injection",
+    "Laparoscopic extravesical reimplantation",
+    "Robotic intravesical reimplantation",
+    "Open submucosal tunnel reimplantation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f52551",
+   "kind": "statement",
+   "stem": "What complication of open ureteric reimplantation should be anticipated?",
+   "answer": "Significant blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#53bb16",
+   "kind": "statement",
+   "stem": "What less invasive operations exist for ureteric reimplantation in reflux?",
+   "answer": "Laparoscopic extravesical or intravesical reimplantation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#2354c1",
+   "kind": "mcq",
+   "stem": "Which material is usually injected endoscopically for vesicoureteric reflux?",
+   "options": [
+    "Fibrin glue or cyanoacrylate",
+    "Gelatin sponge or collagen",
+    "Polytetrafluoroethylene or silicone",
+    "Titanium clips or sutures"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#2354c1",
+   "kind": "statement",
+   "stem": "Where is the endoscopic injection placed in vesicoureteric reflux?",
+   "answer": "Submucosally at the 6 o'clock position of the UVJ",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ad0bef",
+   "kind": "mcq",
+   "stem": "Which regional technique gives analgesia for ureteric reimplantation in children?",
+   "options": [
+    "Brachial plexus block only",
+    "Epidural catheter or caudal block",
+    "Femoral nerve block only",
+    "Paravertebral block only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ab674e",
+   "kind": "statement",
+   "stem": "Which drugs can treat bladder spasm after ureteric reimplantation?",
+   "answer": "Belladonna and opium suppositories, oral or intravesical oxybutynin, ketorolac, or bupivacaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c69d8c",
+   "kind": "statement",
+   "stem": "What is the commonest cause of obstructive uropathy in childhood?",
+   "answer": "Pelviureteric junction obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#6f9078",
+   "kind": "statement",
+   "stem": "What usually causes pelviureteric junction obstruction?",
+   "answer": "Intrinsic narrowing from a congenital aperistaltic segment lacking normal muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#6f9078",
+   "kind": "mcq",
+   "stem": "How is pelviureteric junction obstruction often first found?",
+   "options": [
+    "On antenatal ultrasound",
+    "On routine chest X-ray at birth",
+    "During adult renal colic",
+    "On urine dipstick at age 5"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d16f15",
+   "kind": "mcq",
+   "stem": "Is pelviureteric junction obstruction usually unilateral or bilateral?",
+   "options": [
+    "Usually bilateral",
+    "Equally unilateral and bilateral",
+    "Always bilateral",
+    "Usually unilateral"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d16f15",
+   "kind": "statement",
+   "stem": "What renal function is usual in unilateral pelviureteric junction obstruction?",
+   "answer": "Normal renal function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1a0391",
+   "kind": "statement",
+   "stem": "What is the purpose of pyeloplasty in pelviureteric junction obstruction?",
+   "answer": "To relieve obstruction and preserve renal function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#5aba38",
+   "kind": "statement",
+   "stem": "Which approach to pyeloplasty is increasingly used in children?",
+   "answer": "Laparoscopic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#52475e",
+   "kind": "statement",
+   "stem": "What is the usual health status of children having pyeloplasty for pelviureteric junction obstruction?",
+   "answer": "Most are healthy, without chronic renal disease or fluid or electrolyte problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#eeee9d",
+   "kind": "statement",
+   "stem": "How do children with pelviureteric junction obstruction often present before surgery?",
+   "answer": "Months of illness and many investigations, some under anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#eff90f",
+   "kind": "mcq",
+   "stem": "Is bleeding usually a major problem with pyeloplasty or nephrectomy in children?",
+   "options": [
+    "Yes, major haemorrhage is common",
+    "Yes, crossmatch is always needed",
+    "Only with laparoscopic surgery",
+    "No, bleeding is not usually a problem"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#79e629",
+   "kind": "statement",
+   "stem": "What premedication is given before pyeloplasty in children?",
+   "answer": "Sedative premedication if requested or indicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#8f96bf",
+   "kind": "mcq",
+   "stem": "Which airway management is used for pyeloplasty in children?",
+   "options": [
+    "Laryngeal mask with spontaneous ventilation",
+    "Face mask with spontaneous ventilation",
+    "Endotracheal tube and controlled ventilation",
+    "Tracheostomy with controlled ventilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#8f96bf",
+   "kind": "blank",
+   "stem": "Pyeloplasty in children usually needs ____ IV cannulae.",
+   "answer": "two",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#be0fd6",
+   "kind": "mcq",
+   "stem": "How is a baby positioned for a flank approach to pyeloplasty?",
+   "options": [
+    "Supine with arms tucked",
+    "Prone on a gel pad",
+    "On a flank roll",
+    "Head-down on a wedge"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0d9d4d",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is used for maintenance in pyeloplasty?",
+   "options": [
+    "0.05-0.1 mcg/kg/minute",
+    "1-2 mcg/kg/minute",
+    "0.25-0.5 mcg/kg/minute",
+    "5-10 mcg/kg/minute"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0d9d4d",
+   "kind": "mcq",
+   "stem": "In pyeloplasty maintenance, what morphine dose is used?",
+   "options": [
+    "10-15 mcg/kg",
+    "500-600 mcg/kg",
+    "1-1.5 mg/kg",
+    "100-150 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0d9d4d",
+   "kind": "mcq",
+   "stem": "What fentanyl dose is used for maintenance analgesia in pyeloplasty?",
+   "options": [
+    "20-40 mcg/kg",
+    "0.2-0.4 mcg/kg",
+    "2-4 mcg/kg",
+    "10-12 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e567f9",
+   "kind": "mcq",
+   "stem": "What IV dose of ondansetron is given for antiemesis in pyeloplasty?",
+   "options": [
+    "50 mcg/kg",
+    "100 mcg/kg",
+    "4 mg fixed dose",
+    "1 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3c7b86",
+   "kind": "statement",
+   "stem": "Besides maintenance fluids, what may pyeloplasty need?",
+   "answer": "Crystalloid, colloid or blood",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a6a402",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique suits open pyeloplasty?",
+   "options": [
+    "General anaesthesia alone",
+    "Spinal anaesthesia alone",
+    "Combined general anaesthesia and regional",
+    "Local infiltration only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4f384c",
+   "kind": "blank",
+   "stem": "After pyeloplasty, maintenance fluids are often continued for ____ hours.",
+   "answer": "12-24",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4f384c",
+   "kind": "statement",
+   "stem": "When do many children drink after retroperitoneal or laparoscopic pyeloplasty?",
+   "answer": "The same evening",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ec873b",
+   "kind": "statement",
+   "stem": "When is an NSAID used after open pyeloplasty in children?",
+   "answer": "Only if renal function is normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d4cb5c",
+   "kind": "statement",
+   "stem": "How are the wounds treated for pain after laparoscopic pyeloplasty?",
+   "answer": "Wounds infiltrated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#75d829",
+   "kind": "statement",
+   "stem": "What is Wilms' tumour?",
+   "answer": "Commonest childhood renal tumour (nephroblastoma)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#75d829",
+   "kind": "mcq",
+   "stem": "What share of childhood cancers is Wilms' tumour?",
+   "options": [
+    "About 1%",
+    "About 15%",
+    "About 5%",
+    "About 25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#07dffb",
+   "kind": "mcq",
+   "stem": "How does Wilms' tumour usually first present in children?",
+   "options": [
+    "Painful flank swelling after trauma",
+    "Jaundice with pale stools",
+    "A painless abdominal mass noticed by parents",
+    "Recurrent fever with night sweats"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#66fb55",
+   "kind": "mcq",
+   "stem": "Why does a child with Wilms' tumour usually come to theatre?",
+   "options": [
+    "Bone marrow transplant",
+    "Resection and staging",
+    "Radiotherapy planning only",
+    "Liver biopsy alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#48683f",
+   "kind": "mcq",
+   "stem": "Which condition is a reason for nephrectomy in a non-functioning paediatric kidney?",
+   "options": [
+    "Hypospadias",
+    "Pyloric stenosis",
+    "Multicystic dysplastic kidney",
+    "Hirschsprung disease"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#48683f",
+   "kind": "statement",
+   "stem": "What does nephrectomy or heminephrectomy remove?",
+   "answer": "All or part of a non-functioning kidney",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d37163",
+   "kind": "mcq",
+   "stem": "Why is bleeding a major issue in Wilms' tumour resection?",
+   "options": [
+    "Local invasion or IVC extension",
+    "Routine heparin infusion",
+    "Low body temperature",
+    "Use of tourniquets"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d37163",
+   "kind": "statement",
+   "stem": "What should be arranged before Wilms' tumour resection because of bleeding risk?",
+   "answer": "Crossmatch blood",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a3977a",
+   "kind": "mcq",
+   "stem": "What complication rate applies to prolonged percutaneous urinary drainage in infants?",
+   "options": [
+    "4%",
+    "14%",
+    "40%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#387d84",
+   "kind": "mcq",
+   "stem": "When is tubeless urinary diversion considered in infants?",
+   "options": [
+    "Routinely at birth for all infants",
+    "If reconstruction is delayed beyond 2 weeks",
+    "Only after failed catheter trial",
+    "If reconstruction is delayed beyond 6 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#bd7d2e",
+   "kind": "statement",
+   "stem": "When is cutaneous pyelostomy or ureterostomy used as temporary diversion?",
+   "answer": "Infected obstructed ureters, bladder hypoplasia or agenesis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3c0a3b",
+   "kind": "statement",
+   "stem": "What does cutaneous vesicostomy decompress in bladder outlet obstruction?",
+   "answer": "Bladder and upper tracts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#73513e",
+   "kind": "mcq",
+   "stem": "In paediatric urology, which diagnostic procedure under GA is commonest?",
+   "options": [
+    "Renal biopsy",
+    "Cystoscopy",
+    "Micturating cystourethrogram",
+    "Retrograde pyelogram"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#aa5f94",
+   "kind": "mcq",
+   "stem": "For cystoscopy in children over infancy, which airway is typical?",
+   "options": [
+    "ETT with controlled ventilation",
+    "Face mask with spontaneous ventilation",
+    "Tracheostomy with controlled ventilation",
+    "LMA with spontaneous ventilation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3d3d75",
+   "kind": "mcq",
+   "stem": "Why ensure deep anaesthesia and analgesia before inserting a cystoscope in children?",
+   "options": [
+    "Urethral stimulation can cause hypothermia",
+    "Urethral stimulation can cause laryngospasm",
+    "Cystoscope heat causes burns",
+    "Bladder filling causes bradycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#740f95",
+   "kind": "statement",
+   "stem": "What should irrigation fluid be during cystoscopy in small children, and why?",
+   "answer": "Warm, to prevent hypothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d25198",
+   "kind": "statement",
+   "stem": "What is the purpose of careful lithotomy positioning for paediatric cystoscopy?",
+   "answer": "Avoid nerve and hip injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#73515d",
+   "kind": "mcq",
+   "stem": "Which measure helps pain after paediatric cystoscopy?",
+   "options": [
+    "Prolonged fasting before surgery",
+    "Local anaesthetic gel to the urethra",
+    "Oral codeine before induction",
+    "Intravesical saline instillation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a1f2a3",
+   "kind": "statement",
+   "stem": "What should be looked for in recurrent renal stones in children?",
+   "answer": "Metabolic causes, such as hypercalcaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3e2b44",
+   "kind": "mcq",
+   "stem": "Which treatment is used for most renal stones in children?",
+   "options": [
+    "Open pyelolithotomy",
+    "Ureteric stent alone",
+    "Extracorporeal shock wave lithotripsy",
+    "Laser cystolitholapaxy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c6f378",
+   "kind": "statement",
+   "stem": "What treatment is used for ureteric and bladder stones in children?",
+   "answer": "Endoscopic treatment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#07b511",
+   "kind": "mcq",
+   "stem": "Which procedure treats renal stones through a skin puncture in children?",
+   "options": [
+    "Transvesical cystolithotomy",
+    "Ureteric stent insertion",
+    "Percutaneous nephrolithotomy",
+    "Retrograde pyelogram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4d3a11",
+   "kind": "statement",
+   "stem": "What treatment do a few large complex kidney stones in children need?",
+   "answer": "Open surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b2ae94",
+   "kind": "mcq",
+   "stem": "How is ESWL usually given to children?",
+   "options": [
+    "Under local anaesthetic alone",
+    "With sedation only",
+    "Under general anaesthesia",
+    "With no analgesia at all"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#3f10fd",
+   "kind": "statement",
+   "stem": "What does high-pressure irrigation during ureteroscopy and PCNL cause?",
+   "answer": "Vomiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#775b2d",
+   "kind": "statement",
+   "stem": "Bladder exstrophy is part of which group of conditions?",
+   "answer": "Exstrophy-epispadias complex",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d9b3ba",
+   "kind": "mcq",
+   "stem": "Which bladder wall is everted in bladder exstrophy?",
+   "options": [
+    "Anterior bladder wall",
+    "Bladder neck",
+    "Posterior bladder wall",
+    "Left bladder wall only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d9b3ba",
+   "kind": "statement",
+   "stem": "Which walls have defects in bladder exstrophy?",
+   "answer": "Lower abdominal wall and anterior bladder wall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#bd33c6",
+   "kind": "statement",
+   "stem": "What are the aims of bladder exstrophy repair?",
+   "answer": "Close the bladder, achieve continence, preserve renal function, good genital appearance and function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#b44379",
+   "kind": "mcq",
+   "stem": "What is often used to bring the pubic bones together in bladder exstrophy repair?",
+   "options": [
+    "Sternal wire cerclage",
+    "Pelvic osteotomies",
+    "Hip arthroplasty",
+    "Tendon transfer"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0e79c1",
+   "kind": "mcq",
+   "stem": "Children with bladder exstrophy are prone to which allergy?",
+   "options": [
+    "Penicillin allergy",
+    "Egg allergy",
+    "Iodine allergy",
+    "Latex allergy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#9fe509",
+   "kind": "statement",
+   "stem": "What anaesthetic concern arises with primary bladder exstrophy repair in a newborn?",
+   "answer": "Potentially large fluid and blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f695ab",
+   "kind": "statement",
+   "stem": "In paediatric abdominal surgery, what often drives anaesthetic management?",
+   "answer": "The underlying disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#cfa1b8",
+   "kind": "blank",
+   "stem": "After paediatric abdominal surgery, postoperative pain can be managed with a ____.",
+   "answer": "caudal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#150671",
+   "kind": "blank",
+   "stem": "Diagnostic laparoscopy in children can investigate impalpable ____.",
+   "answer": "testes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#150671",
+   "kind": "statement",
+   "stem": "Which tumour-related uses does diagnostic laparoscopy have in children?",
+   "answer": "Tumour staging and biopsy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#150671",
+   "kind": "mcq",
+   "stem": "Which device problem can diagnostic laparoscopy investigate in children?",
+   "options": [
+    "Dislodged urinary catheter",
+    "Broken central venous line",
+    "Malfunctioning VP shunt catheter",
+    "Cracked orthopaedic plate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#baf73f",
+   "kind": "mcq",
+   "stem": "In children, oesophageal atresia can be repaired by which minimally invasive route?",
+   "options": [
+    "Retroperitoneoscopic",
+    "Thoracoscopic",
+    "Cystoscopic",
+    "Hysteroscopic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#28534f",
+   "kind": "mcq",
+   "stem": "Which is a benefit of laparoscopy over open surgery in children?",
+   "options": [
+    "Greater tissue trauma",
+    "Better cosmesis",
+    "More wound infections",
+    "Higher wound pain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#493a1a",
+   "kind": "statement",
+   "stem": "Why are the rest of the trocars placed under vision in paediatric laparoscopy?",
+   "answer": "To avoid visceral or vascular injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#764128",
+   "kind": "blank",
+   "stem": "CO2 is used for insufflation because it does not support ____.",
+   "answer": "combustion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#21df15",
+   "kind": "mcq",
+   "stem": "Why can children have good laparoscopic views at lower pressure than adults?",
+   "options": [
+    "Thicker peritoneal lining",
+    "More pliable abdominal wall",
+    "Higher cardiac output",
+    "Smaller bowel volume"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#1401d1",
+   "kind": "mcq",
+   "stem": "What heart rate change can insufflation cause in paediatric laparoscopy?",
+   "options": [
+    "Tachycardia",
+    "Ventricular arrhythmia",
+    "Bradycardia",
+    "Pulmonary oedema"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#21ba49",
+   "kind": "statement",
+   "stem": "What can cause cardiovascular changes during paediatric laparoscopy?",
+   "answer": "Intra-abdominal pressure, CO2 absorption and position",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c6a4a3",
+   "kind": "mcq",
+   "stem": "When intra-abdominal pressure is below right atrial pressure (under 10 mmHg), what happens to cardiac output?",
+   "options": [
+    "It falls sharply",
+    "It is unchanged",
+    "It increases",
+    "It stops abruptly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#155f32",
+   "kind": "mcq",
+   "stem": "Which factor makes IVC compression at high intra-abdominal pressure worse?",
+   "options": [
+    "Hypervolaemia",
+    "Head-down tilt",
+    "Hypovolaemia",
+    "Hyperventilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#155f32",
+   "kind": "mcq",
+   "stem": "At what intra-abdominal pressure does IVC compression reduce venous return in children?",
+   "options": [
+    "Above 8 mmHg",
+    "Above 15 mmHg",
+    "Above 20 mmHg",
+    "Above 25 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ef6703",
+   "kind": "blank",
+   "stem": "Keep paediatric laparoscopic insufflation pressure below ____ mmHg.",
+   "answer": "12",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#720e1b",
+   "kind": "statement",
+   "stem": "In paediatric laparoscopic surgery, what range of patients does the case spectrum cover?",
+   "answer": "From an elective healthy child to an emergency laparoscopy in a premature neonate.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#440abc",
+   "kind": "statement",
+   "stem": "What should the preoperative assessment for paediatric laparoscopy include?",
+   "answer": "History, examination and tests as needed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#47b888",
+   "kind": "mcq",
+   "stem": "In children having laparoscopy, which comorbidity is linked to gallstones needing cholecystectomy?",
+   "options": [
+    "Cystic fibrosis",
+    "Sickle cell disease",
+    "Asthma",
+    "Coeliac disease"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0fec6c",
+   "kind": "mcq",
+   "stem": "What blood preparation should be arranged for major paediatric laparoscopic procedures?",
+   "options": [
+    "Coagulation screen only",
+    "Group and save",
+    "Serum lactate only",
+    "Urine dipstick only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#7e88c3",
+   "kind": "mcq",
+   "stem": "Which anticholinergic is given orally at 100 mcg/kg, 60-90 minutes before paediatric laparoscopy?",
+   "options": [
+    "Neostigmine",
+    "Ondansetron",
+    "Glycopyrronium",
+    "Ranitidine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#2e40f6",
+   "kind": "mcq",
+   "stem": "Which induction technique is used for paediatric laparoscopy when indicated?",
+   "options": [
+    "Awake fibreoptic intubation",
+    "Rapid sequence induction",
+    "Tracheostomy under local anaesthesia",
+    "Sedation with dexmedetomidine alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4af50f",
+   "kind": "mcq",
+   "stem": "Which airway is usually used for controlled ventilation during paediatric laparoscopy?",
+   "options": [
+    "Laryngeal mask airway",
+    "Oropharyngeal airway",
+    "Face mask",
+    "Endotracheal tube"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#51c65e",
+   "kind": "statement",
+   "stem": "For paediatric laparoscopy, which type of endotracheal tube is preferred?",
+   "answer": "Cuffed tube.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#51c65e",
+   "kind": "statement",
+   "stem": "When an uncuffed tube is used in paediatric laparoscopy, what leak should be present at 20 cmH2O?",
+   "answer": "Only a small leak.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#63bd9c",
+   "kind": "statement",
+   "stem": "During CO2 insufflation in paediatric laparoscopy, which two ventilator measures should be monitored?",
+   "answer": "Exhaled tidal volume and peak pressure.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#c6a7dd",
+   "kind": "statement",
+   "stem": "How is hypoxia usually corrected during paediatric laparoscopy?",
+   "answer": "With extra oxygen and moderate PEEP.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#88f8cf",
+   "kind": "statement",
+   "stem": "Why is endobronchial intubation more likely during paediatric laparoscopy?",
+   "answer": "The carina moves up with raised intra-abdominal pressure and head-down position.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#88f8cf",
+   "kind": "statement",
+   "stem": "What suggests endobronchial intubation during insufflation or repositioning in paediatric laparoscopy?",
+   "answer": "Airway pressure rises and SpO2 falls.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#753caf",
+   "kind": "statement",
+   "stem": "Why is a nasogastric tube placed in paediatric laparoscopy?",
+   "answer": "To decompress the stomach for views and safer trocar entry.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f8956e",
+   "kind": "statement",
+   "stem": "Why avoid nitrous oxide in paediatric laparoscopy?",
+   "answer": "It distends bowel (PONV, harder surgery) and enlarges gas emboli.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#96f8b3",
+   "kind": "mcq",
+   "stem": "Which infusion at 0.25-0.5 mcg/kg/minute is often used to blunt the response to pneumoperitoneum?",
+   "options": [
+    "Dexmedetomidine",
+    "Propofol",
+    "Remifentanil",
+    "Ketamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ae8ee3",
+   "kind": "mcq",
+   "stem": "With remifentanil in paediatric laparoscopy, what IV morphine dose is given near the end?",
+   "options": [
+    "10-15 mcg/kg",
+    "1-2 mg/kg",
+    "100-150 mcg/kg",
+    "200-300 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0f1f32",
+   "kind": "statement",
+   "stem": "What practical limits does the operating set-up have in paediatric laparoscopy?",
+   "answer": "Lighting may be poor, and space and access are limited.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f7ae0c",
+   "kind": "statement",
+   "stem": "Why evacuate CO2 at the end of paediatric laparoscopy?",
+   "answer": "To reduce pain, PONV and diaphragmatic splinting.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0efe35",
+   "kind": "mcq",
+   "stem": "After paediatric laparoscopy, over what period does severe early pain fall sharply?",
+   "options": [
+    "6 hours",
+    "72 hours",
+    "24 hours",
+    "2 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d30c37",
+   "kind": "statement",
+   "stem": "What analgesia is commonly given after paediatric laparoscopy, and for how long?",
+   "answer": "Oral paracetamol, NSAID and opioid for 24-48 hours.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4a88e3",
+   "kind": "mcq",
+   "stem": "After major paediatric laparoscopic surgery with peritonism or ileus, how long is IV morphine or PCA given?",
+   "options": [
+    "2-4 hours",
+    "5-7 days",
+    "12-24 hours",
+    "48-72 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#708a83",
+   "kind": "mcq",
+   "stem": "In paediatric fundoplication, gastro-oesophageal reflux arises from failure of which structure?",
+   "options": [
+    "Upper oesophageal sphincter",
+    "Pyloric sphincter",
+    "Ileocaecal valve",
+    "Lower oesophageal sphincter"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#bdab54",
+   "kind": "mcq",
+   "stem": "Which of these is a symptom of later reflux in a child that needs treatment?",
+   "options": [
+    "Steady weight gain",
+    "Recurrent chest infections",
+    "Good oral feeding",
+    "Clear chest on examination"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#217ea6",
+   "kind": "statement",
+   "stem": "Reflux needing fundoplication is common in which children, such as those with cerebral palsy?",
+   "answer": "Those with poor muscle coordination.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#0dfaae",
+   "kind": "statement",
+   "stem": "How is gastro-oesophageal reflux diagnosed in children being considered for fundoplication?",
+   "answer": "History, barium swallow, endoscopy with biopsy and oesophageal pH study.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d9c0d3",
+   "kind": "statement",
+   "stem": "What is the first-line medical management of reflux in children?",
+   "answer": "Upright positioning, feed thickeners, prokinetics and antacids.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#20a32a",
+   "kind": "statement",
+   "stem": "When is surgery considered for reflux in children?",
+   "answer": "When medical treatment fails, or to avoid lifelong drugs.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ebdc50",
+   "kind": "mcq",
+   "stem": "What success rate is quoted for fundoplication in children?",
+   "options": [
+    "20-30%",
+    "40-50%",
+    "80-90%",
+    "95-99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#ebdc50",
+   "kind": "mcq",
+   "stem": "Which fundoplication wrap is the commonest?",
+   "options": [
+    "Toupet 270° wrap",
+    "Belsey 270° wrap",
+    "Nissen 360° wrap",
+    "Thal 180° wrap"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#76fe80",
+   "kind": "statement",
+   "stem": "What usually happens to reflux-related respiratory symptoms after fundoplication?",
+   "answer": "They usually improve.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e23148",
+   "kind": "statement",
+   "stem": "What two approaches can be used for paediatric fundoplication?",
+   "answer": "Open upper abdominal incision or laparoscopic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#fe98dc",
+   "kind": "mcq",
+   "stem": "Among children having fundoplication, what condition do most have?",
+   "options": [
+    "Severe cerebral palsy",
+    "Mild asthma",
+    "Congenital heart disease",
+    "Coeliac disease"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#25d8c8",
+   "kind": "statement",
+   "stem": "How can respiratory function be optimised before fundoplication in children?",
+   "answer": "Chest physiotherapy and bronchodilators.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#4fc906",
+   "kind": "statement",
+   "stem": "Which bloods are often checked for fundoplication in children, and why?",
+   "answer": "FBC and U&E, for poor nutrition and possible gastric bleeding.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#bb6ccc",
+   "kind": "statement",
+   "stem": "For open fundoplication, what should be discussed with parents?",
+   "answer": "Analgesia and the chance of postoperative ventilation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#60b205",
+   "kind": "mcq",
+   "stem": "Which analgesia is usually best after paediatric fundoplication?",
+   "options": [
+    "Caudal block",
+    "Thoracic epidural infusion",
+    "Penile block",
+    "Scalp block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#60b205",
+   "kind": "mcq",
+   "stem": "After fundoplication, a thoracic epidural infusion cuts postoperative ventilation from what rate to what?",
+   "options": [
+    "5-10% to 15-20%",
+    "40-50% to 20-30%",
+    "15-20% to 5-10%",
+    "30-40% to 10-15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f3b0de",
+   "kind": "statement",
+   "stem": "What premedication types may be given before paediatric fundoplication?",
+   "answer": "Sedative, antisialagogue, antacid or prokinetic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#65f1a3",
+   "kind": "statement",
+   "stem": "Why is rapid sequence induction often impractical for paediatric fundoplication?",
+   "answer": "Hard IV access, poor preoxygenation and frailty.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#2cab44",
+   "kind": "statement",
+   "stem": "When is inhalational induction often unavoidable for paediatric fundoplication?",
+   "answer": "When veins are not easy, with cannulation after induction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e5434f",
+   "kind": "statement",
+   "stem": "After induction for paediatric fundoplication, how is the airway secured?",
+   "answer": "Paralyse and intubate, with or without cricoid pressure.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f71975",
+   "kind": "statement",
+   "stem": "In paediatric fundoplication, what is often a major anaesthetic problem?",
+   "answer": "Venous access.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#80c10b",
+   "kind": "mcq",
+   "stem": "How long does open fundoplication usually need vascular access in children?",
+   "options": [
+    "12-24 hours",
+    "3-5 days",
+    "10-14 days",
+    "6-8 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#80c10b",
+   "kind": "statement",
+   "stem": "Which line is often placed for access during open fundoplication?",
+   "answer": "A central line.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#898fff",
+   "kind": "statement",
+   "stem": "For maintenance in laparoscopic fundoplication, which gas should be avoided?",
+   "answer": "Nitrous oxide.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#989b5a",
+   "kind": "statement",
+   "stem": "What does remifentanil at 0.25-0.5 mcg/kg/min do in paediatric fundoplication?",
+   "answer": "Reduces volatile need and stabilises the circulation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#989b5a",
+   "kind": "mcq",
+   "stem": "What fentanyl dose is an alternative to remifentanil in paediatric fundoplication?",
+   "options": [
+    "0.1-0.2 mcg/kg",
+    "20-40 mcg/kg",
+    "2-4 mcg/kg",
+    "10-20 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a314ca",
+   "kind": "mcq",
+   "stem": "In paediatric fundoplication, what is the maximum IV ondansetron dose to reduce early retching?",
+   "options": [
+    "2mg",
+    "4mg",
+    "8mg",
+    "10mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#a314ca",
+   "kind": "statement",
+   "stem": "Why give an antiemetic in paediatric fundoplication?",
+   "answer": "To reduce early retching against the wrap.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#f06494",
+   "kind": "statement",
+   "stem": "In paediatric fundoplication, what positioning precautions matter for vulnerable children?",
+   "answer": "Protect contractures, pad pressure areas and protect fragile skin.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#2b980d",
+   "kind": "statement",
+   "stem": "Why are warming mattresses and forced-air warmers used for fundoplication in cerebral palsy?",
+   "answer": "Children with cerebral palsy are prone to hypothermia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e87450",
+   "kind": "mcq",
+   "stem": "Where is a thoracic epidural best placed for paediatric fundoplication?",
+   "options": [
+    "Cervical",
+    "Lumbar",
+    "Mid-thoracic",
+    "Sacral"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#e87450",
+   "kind": "statement",
+   "stem": "Why may the epidural space be hard to find in cerebral palsy?",
+   "answer": "Scoliosis is common in cerebral palsy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d818d9",
+   "kind": "statement",
+   "stem": "Which steps in laparoscopic fundoplication cause most of the surgical stimulation?",
+   "answer": "Incision, crural dissection and bougie passage.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#d818d9",
+   "kind": "statement",
+   "stem": "How can hypotension from head-up tilt in laparoscopic fundoplication be helped?",
+   "answer": "Reduce volatile or remifentanil, or give fluid.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#fa6a86",
+   "kind": "statement",
+   "stem": "Which medicines should be restarted as soon as possible after open fundoplication?",
+   "answer": "Anticonvulsants.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#62e499",
+   "kind": "mcq",
+   "stem": "After open paediatric fundoplication, for how many days are analgesic needs high?",
+   "options": [
+    "2-4 hours",
+    "2-4 weeks",
+    "8-10 hours",
+    "2-4 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#7ab829",
+   "kind": "statement",
+   "stem": "How does analgesia after laparoscopic fundoplication compare with open surgery?",
+   "answer": "Much less analgesia and a shorter stay.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#844bf0",
+   "kind": "mcq",
+   "stem": "Which local technique is used before IV morphine after laparoscopic fundoplication?",
+   "options": [
+    "Scalp block",
+    "Local anaesthetic infiltration",
+    "Caudal block",
+    "Penile block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-surgery#413c75",
+   "kind": "mcq",
+   "stem": "On which postoperative day are children usually eating after paediatric fundoplication?",
+   "options": [
+    "Day 3",
+    "Day 7",
+    "Day 1",
+    "Day 14"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

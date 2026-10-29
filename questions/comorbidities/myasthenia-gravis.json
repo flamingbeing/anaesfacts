@@ -1,0 +1,1369 @@
+{
+ "topic": "comorbidities/myasthenia-gravis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#f84f0a",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, which tools are used for risk assessment before anaesthesia?",
+   "answer": "Lung function tests, Osserman grade, Leventhal criteria",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#99af83",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which rule can guide the need for intubation?",
+   "options": [
+    "10/20/30 rule",
+    "20/30/40 rule",
+    "30/40/50 rule",
+    "40/50/60 rule"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#4f4157",
+   "kind": "mcq",
+   "stem": "What is the perioperative advice for pyridostigmine and prednisolone in myasthenia gravis?",
+   "options": [
+    "Stop both the day before surgery",
+    "Continue both",
+    "Stop pyridostigmine, continue prednisolone",
+    "Double both doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#8e0802",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which anaesthetic approach is generally preferred for surgery when feasible?",
+   "options": [
+    "General anaesthesia with volatile agents",
+    "Regional anaesthesia",
+    "General anaesthesia with suxamethonium",
+    "Intravenous sedation without a block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#6de8d8",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, to what percentage should non-depolarising relaxant doses be reduced?",
+   "options": [
+    "50%",
+    "70%",
+    "20%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#6de8d8",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which non-depolarising relaxant is described as ideal?",
+   "options": [
+    "Atracurium",
+    "Rocuronium",
+    "Pancuronium",
+    "Mivacurium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#9368a9",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, how should the suxamethonium dose be adjusted?",
+   "options": [
+    "Half the usual dose",
+    "Unchanged from the usual dose",
+    "1.5 times the usual dose",
+    "2 times the usual dose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#31e4d2",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which class of anaesthetic agents should be avoided?",
+   "options": [
+    "Volatile anaesthetic agents",
+    "Propofol",
+    "Etomidate",
+    "Remifentanil"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#9fecf8",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which antibiotic class should be avoided because it can worsen weakness?",
+   "options": [
+    "Cephalosporins",
+    "Penicillins",
+    "Aminoglycosides",
+    "Glycopeptides"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#2c2b90",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis with bulbar weakness, which induction technique addresses the raised aspiration risk?",
+   "options": [
+    "Spontaneous ventilation with sedation",
+    "Slow inhalational induction",
+    "Rapid sequence induction",
+    "Awake fibreoptic intubation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#3cbe83",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, what should be set out in advance for ending ventilation?",
+   "answer": "Extubation criteria",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#3ad013",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, which two crises carry a risk that management must address?",
+   "answer": "Myasthenic crisis or cholinergic crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#41bc65",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which mediastinal finding must be checked for before surgery?",
+   "options": [
+    "Pleural effusion",
+    "Thymoma or anterior mediastinal mass",
+    "Tracheal stenosis",
+    "Oesophageal diverticulum"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#3d3b0b",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, when are neuromuscular blocking drugs appropriate?",
+   "answer": "Only when truly necessary; most operations do not need them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#57277a",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, when a relaxant is needed, which steroidal agents are preferred?",
+   "options": [
+    "Suxamethonium or atracurium",
+    "Mivacurium or cisatracurium",
+    "Rocuronium or vecuronium",
+    "Atracurium or mivacurium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#4bd862",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, how predictable is the response to blockers and their reversal?",
+   "answer": "Variable and unpredictable, even in ocular-only MG or remission",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#477108",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, how should neuromuscular block be monitored whenever blockers are used?",
+   "options": [
+    "Clinical grip strength only",
+    "Bispectral index",
+    "Capnography alone",
+    "Quantitative train-of-four"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#3def3a",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, why are patients resistant to neuromuscular blockers?",
+   "answer": "They probably have fewer acetylcholine receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#903a15",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, how does the ED95 of suxamethonium compare with normal?",
+   "options": [
+    "1.3 times normal",
+    "Half of normal",
+    "2.6 times normal",
+    "Same as normal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#903a15",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what is the ED95 of suxamethonium in mg/kg?",
+   "options": [
+    "0.4 mg/kg",
+    "0.8 mg/kg",
+    "1.2 mg/kg",
+    "0.6 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#ec0a31",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, how can pyridostigmine prolong the action of certain relaxants?",
+   "answer": "By inhibiting plasma cholinesterase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#00598c",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, which neuromuscular blockade complication is more likely, especially with repeated doses?",
+   "answer": "Phase II block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#637053",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, which relaxants are described as extremely sensitive?",
+   "answer": "Rocuronium, vecuronium and cisatracurium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#80d790",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what increments of ED95 should blocker doses be given in?",
+   "options": [
+    "0.5 to 1 times the ED95",
+    "1 to 2 times the ED95",
+    "2.6 times the ED95",
+    "0.1 to 0.2 times the ED95"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#c3e085",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, why choose a steroidal relaxant when extubation is planned?",
+   "answer": "So sugammadex can be used",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#fea742",
+   "kind": "mcq",
+   "stem": "Which enzyme breaks down mivacurium, relevant after morning pyridostigmine in myasthenia gravis?",
+   "options": [
+    "Acetylcholinesterase at the junction",
+    "Plasma cholinesterase",
+    "Hepatic CYP3A4",
+    "Renal esterase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#9b6298",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which reversal agent is recommended?",
+   "options": [
+    "Physostigmine",
+    "Atropine",
+    "Sugammadex",
+    "Doxapram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#b5b47d",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what quantitative TOF ratio confirms adequate reversal?",
+   "options": [
+    "Above 0.5",
+    "Above 0.7",
+    "Above 0.9",
+    "Above 0.8"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#c8aa8f",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which antibiotic should be avoided besides aminoglycosides?",
+   "options": [
+    "Flucloxacillin",
+    "Tetracycline",
+    "Cefuroxime",
+    "Cefazolin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#62d334",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which steroid should be avoided?",
+   "options": [
+    "Prednisolone",
+    "Hydrocortisone",
+    "Dexamethasone",
+    "Cortisone acetate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#7d4d3d",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which cardiac drug class should be avoided?",
+   "options": [
+    "Nitrates",
+    "Heparin",
+    "Beta blockers",
+    "Statins"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#428a1d",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, who should elective surgery be coordinated with?",
+   "answer": "The patient's neurologist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#a9898f",
+   "kind": "mcq",
+   "stem": "On a breath-counting test in myasthenia gravis, what does reaching 30 suggest?",
+   "options": [
+    "Significant inspiratory weakness",
+    "Adequate lung function",
+    "Imminent myasthenic crisis",
+    "Need for immediate intubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#d7f2fa",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis breath-counting, roughly how much vital capacity does each count represent?",
+   "options": [
+    "500 mL",
+    "250 mL",
+    "1000 mL",
+    "116 mL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#a6c193",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what forced vital capacity level strongly predicts postoperative ventilation?",
+   "options": [
+    "Less than 80% predicted",
+    "Less than 60% predicted",
+    "Less than 40% predicted",
+    "Less than 90% predicted"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#9aafb9",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, a vital capacity below what value per kilogram is a concern?",
+   "options": [
+    "More than 20 mL/kg",
+    "Exactly 20 mL/kg",
+    "More than 40 mL/kg",
+    "Less than 20 mL/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#1852c1",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what does NIF stand for in respiratory testing?",
+   "options": [
+    "Normal inspiratory flow",
+    "Negative inspiratory force",
+    "Nasal inspiratory fraction",
+    "Neuromuscular index factor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#e9ebc1",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which NIF value is often the crisis or intubation threshold?",
+   "options": [
+    "-40 cmH2O",
+    "-60 cmH2O",
+    "-20 cmH2O",
+    "-10 cmH2O"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#b12141",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what maximum expiratory pressure value is a concern?",
+   "options": [
+    "Less than 10 cm H2O",
+    "Less than 25 cm H2O",
+    "Less than 40 cm H2O",
+    "More than 100 cm H2O"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#76f0dc",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, before thymectomy for a thymic mass, which imaging should be reviewed for airway obstruction risk?",
+   "options": [
+    "Echocardiogram",
+    "Chest CT",
+    "Abdominal ultrasound",
+    "Carotid Doppler"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#f88434",
+   "kind": "mcq",
+   "stem": "What is the range of the Quantitative MG (QMG) score in myasthenia gravis?",
+   "options": [
+    "0 to 24",
+    "0 to 50",
+    "0 to 39",
+    "1 to 10"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#f88434",
+   "kind": "mcq",
+   "stem": "In the Quantitative MG score, what does a higher score indicate?",
+   "options": [
+    "Less severe disease",
+    "Unrelated to severity",
+    "More severe disease",
+    "Benign disease"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#b21985",
+   "kind": "mcq",
+   "stem": "In the Quantitative MG score, how many items assess ocular function?",
+   "options": [
+    "4 items",
+    "2 items",
+    "6 items",
+    "1 item"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#b21985",
+   "kind": "mcq",
+   "stem": "In the Quantitative MG score, how many items assess gross motor function?",
+   "options": [
+    "2 items",
+    "4 items",
+    "6 items",
+    "8 items"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#b9d08a",
+   "kind": "mcq",
+   "stem": "How many predictors make up the Leventhal criteria for postoperative ventilation in myasthenia gravis?",
+   "options": [
+    "Three",
+    "Four",
+    "Five",
+    "Six"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#ea5617",
+   "kind": "mcq",
+   "stem": "In the Leventhal criteria for myasthenia gravis, what disease duration predicts postoperative ventilation?",
+   "options": [
+    "Under 1 year",
+    "Under 2 years",
+    "6 years or more",
+    "Under 3 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#776a90",
+   "kind": "mcq",
+   "stem": "In the Leventhal criteria for myasthenia gravis, what daily pyridostigmine dose predicts postoperative ventilation?",
+   "options": [
+    "Less than 300 mg per day",
+    "Less than 60 mg per day",
+    "750 mg per day or more",
+    "Less than 100 mg per day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#fcba59",
+   "kind": "mcq",
+   "stem": "In the Leventhal criteria for myasthenia gravis, what vital capacity predicts postoperative ventilation?",
+   "options": [
+    "3.5 litres or more",
+    "2.9 litres or less",
+    "4 litres or more",
+    "5 litres or more"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#ea0a8f",
+   "kind": "mcq",
+   "stem": "In predicting postoperative myasthenic crisis, what AChR antibody level is a predictor?",
+   "options": [
+    "Below 100 nmol/mL",
+    "Below 50 nmol/mL",
+    "Exactly 100 nmol/mL",
+    "Above 100 nmol/mL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#ea0a8f",
+   "kind": "mcq",
+   "stem": "In predicting postoperative myasthenic crisis, what counts as a larger decrement on low frequency repetitive nerve stimulation?",
+   "options": [
+    "5 to 8 percent",
+    "10 to 12 percent",
+    "2 to 4 percent",
+    "18 to 20 percent"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#b48d3b",
+   "kind": "mcq",
+   "stem": "In the crisis-prediction treatment criteria for myasthenia gravis, what is the starting pyridostigmine dose?",
+   "options": [
+    "5 mg every 6 hours",
+    "60 mg every 6 hours",
+    "120 mg every 6 hours",
+    "60 mg once daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#fbe843",
+   "kind": "mcq",
+   "stem": "In predicting myasthenic crisis after surgery, which blood loss exemplifies major surgery?",
+   "options": [
+    "Under 100 mL",
+    "Under 300 mL",
+    "Over 1000 mL",
+    "Under 500 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#7fdcca",
+   "kind": "mcq",
+   "stem": "In predicting myasthenic crisis, which anaesthetic type is a risk factor?",
+   "options": [
+    "Regional anaesthesia",
+    "Sedation without muscle relaxant",
+    "General anaesthesia with neuromuscular block",
+    "Local infiltration alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#10c23d",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, which disease state is best for timing elective surgery?",
+   "answer": "A stable phase needing minimal immunomodulation or steroids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#5e61b0",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, why is the patient booked first on the operating list?",
+   "answer": "Patients are strongest early in the day",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#9cfd1a",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, until when should anticholinesterases be continued before surgery?",
+   "options": [
+    "Stop the evening before surgery",
+    "Stop two days before surgery",
+    "Up to and including the morning of surgery",
+    "Stop on the day of admission"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#cdd056",
+   "kind": "mcq",
+   "stem": "How soon after oral pyridostigmine does its onset occur in myasthenia gravis?",
+   "options": [
+    "5 to 10 minutes",
+    "15 to 30 minutes",
+    "1 to 2 hours",
+    "6 to 8 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#cdd056",
+   "kind": "mcq",
+   "stem": "When does oral pyridostigmine reach its peak effect in myasthenia gravis?",
+   "options": [
+    "About 30 minutes",
+    "About six hours",
+    "About two hours",
+    "About twelve hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#004d82",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what IV pyridostigmine dose equals 30 mg given orally?",
+   "options": [
+    "3 mg IV",
+    "10 mg IV",
+    "1 mg IV",
+    "30 mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#d07c58",
+   "kind": "statement",
+   "stem": "In myasthenia gravis on steroids, besides continuing them, what should be considered perioperatively?",
+   "answer": "Stress dosing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#3585fd",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, for what steroid duration is any dose not considered at risk?",
+   "options": [
+    "More than three weeks",
+    "Less than three weeks",
+    "More than six weeks",
+    "More than twelve weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#3585fd",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what morning prednisone dose is not considered at risk for any duration?",
+   "options": [
+    "More than 5 mg daily",
+    "Less than 5 mg daily",
+    "More than 10 mg daily",
+    "More than 20 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#45cbfb",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, which prednisone dose for three weeks or more calls for stress-dose steroids before induction?",
+   "options": [
+    "Less than 5 mg per day",
+    "More than 20 mg per day",
+    "Less than 10 mg every other day",
+    "Exactly 10 mg per day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#45cbfb",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis on long-term prednisone, what appearance calls for stress-dose steroids before induction?",
+   "options": [
+    "Pallor",
+    "Cushingoid appearance",
+    "Ankle oedema",
+    "Jaundice"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#1fd2e9",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what can be done with long-term immunotherapy around surgery?",
+   "options": [
+    "It must be doubled",
+    "It can be held briefly",
+    "It must be stopped permanently",
+    "It is never interrupted"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#70da90",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what often avoids the need for premedication sedatives?",
+   "options": [
+    "Oral diazepam",
+    "Full-dose midazolam",
+    "Reassurance and explanation",
+    "Intramuscular morphine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#b9f8bc",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, what is an example of the smallest incremental IV premedication dose?",
+   "options": [
+    "Midazolam 5 mg IV",
+    "Diazepam 10 mg oral",
+    "Midazolam 0.5 mg IV",
+    "Morphine 10 mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#92b677",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, which class of local anaesthetic should be chosen over esters?",
+   "answer": "Amide local anaesthetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#198313",
+   "kind": "mcq",
+   "stem": "Why are mid-thoracic or higher neuraxial blocks poorly tolerated in myasthenia gravis?",
+   "options": [
+    "They cause profound hypotension alone",
+    "They block the vagus nerve",
+    "They paralyse accessory respiratory muscles",
+    "They increase acetylcholine receptor antibodies"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#19a1d1",
+   "kind": "mcq",
+   "stem": "Which regional blocks paralyse the diaphragm via the phrenic nerve for hours in myasthenia gravis?",
+   "options": [
+    "Lumbar spinal anaesthesia",
+    "Femoral nerve block",
+    "Supraclavicular and interscalene blocks",
+    "Sciatic nerve block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#31290b",
+   "kind": "blank",
+   "stem": "Intraoperatively in myasthenia gravis, avoid ____ when possible.",
+   "answer": "neuromuscular blockers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#16b558",
+   "kind": "blank",
+   "stem": "Intraoperatively in myasthenia gravis, also avoid aminoglycosides, beta blockers, diuretics, phenytoin and ____.",
+   "answer": "calcium channel blockers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#7557d5",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis with bulbar weakness and aspiration risk, which induction approach should be considered?",
+   "options": [
+    "Deep sedation without airway protection",
+    "Rapid sequence induction",
+    "Spontaneous breathing with light sedation",
+    "High-dose propofol alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#6d0547",
+   "kind": "mcq",
+   "stem": "What is the usual advice on maintenance muscle relaxants in myasthenia gravis anaesthesia?",
+   "options": [
+    "Give a continuous infusion throughout surgery",
+    "Double the usual maintenance dose",
+    "Avoid them where possible",
+    "Reverse every bolus with neostigmine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#ef0436",
+   "kind": "statement",
+   "stem": "Name an opioid that suits relaxant-free anaesthesia in myasthenia gravis.",
+   "answer": "Remifentanil",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#8ad57a",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, what helps limit opioid use when planning extubation at the end of surgery?",
+   "answer": "Multimodal analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#85938c",
+   "kind": "blank",
+   "stem": "Usual extubation criteria in myasthenia gravis: adequate ventilation and oxygenation, strength, airway protection, and objective confirmation of ____ if blockers were used.",
+   "answer": "reversal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#8f7571",
+   "kind": "mcq",
+   "stem": "After surgery, where may a myasthenia gravis patient need care for ventilatory support?",
+   "options": [
+    "Standard surgical ward with observations",
+    "Day case recovery unit",
+    "High dependency care or ICU",
+    "Theatre recovery only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#176e79",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis, who should plan postoperative anticholinesterase management in advance?",
+   "options": [
+    "The surgical registrar alone",
+    "The neurologist",
+    "The pharmacy team only",
+    "The patient alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#5401be",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, when should long-term immunotherapy be restarted after surgery?",
+   "answer": "Once taking oral medication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#f474d9",
+   "kind": "mcq",
+   "stem": "Which anaesthetic approach allows day surgery for a minor procedure in myasthenia gravis?",
+   "options": [
+    "General anaesthesia with standard neuromuscular blockade",
+    "Sedation, regional anaesthesia or GA without relaxants",
+    "Any anaesthetic followed by overnight ICU care",
+    "Only deep general anaesthesia with ventilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#213f22",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis after surgery, what does a train-of-four ratio below 0.9 indicate?",
+   "options": [
+    "Residual neuromuscular block",
+    "Adequate neuromuscular recovery",
+    "Cholinergic crisis",
+    "Opioid-induced miosis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#41a440",
+   "kind": "mcq",
+   "stem": "After neostigmine in myasthenia gravis, which crisis causes secretions and bronchospasm?",
+   "options": [
+    "Myasthenic crisis",
+    "Cholinergic crisis",
+    "Thyrotoxic crisis",
+    "Adrenal crisis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#bff1ef",
+   "kind": "blank",
+   "stem": "After surgery in myasthenia gravis, when giving opioids, check ____.",
+   "answer": "pupils",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#54ec31",
+   "kind": "statement",
+   "stem": "After surgery in myasthenia gravis, what can a compressing haematoma cause?",
+   "answer": "Upper airway obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#f98a93",
+   "kind": "blank",
+   "stem": "Myasthenic crisis is respiratory or bulbar weakness severe enough to need ____ or delay extubation.",
+   "answer": "intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#40350d",
+   "kind": "mcq",
+   "stem": "Which of these can trigger a myasthenic crisis in myasthenia gravis?",
+   "options": [
+    "Stopping or tapering MG treatment",
+    "Taking usual pyridostigmine on schedule",
+    "Uneventful day case surgery",
+    "Regular chest physiotherapy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#cd1ea7",
+   "kind": "statement",
+   "stem": "Why must myasthenic crisis be told apart from cholinergic crisis?",
+   "answer": "Treatment differs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#55d0b4",
+   "kind": "statement",
+   "stem": "Which early warning sign of myasthenic crisis involves swallowing?",
+   "answer": "Dysphagia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#aa6942",
+   "kind": "statement",
+   "stem": "In myasthenic crisis, what might blood gases show first?",
+   "answer": "Hypocapnia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#bdde9e",
+   "kind": "mcq",
+   "stem": "What fraction of the oral dose is the IV dose of pyridostigmine in myasthenia gravis?",
+   "options": [
+    "1/10",
+    "1/3",
+    "1/30",
+    "1/100"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#d80514",
+   "kind": "statement",
+   "stem": "What muscle effect does cholinergic excess cause in myasthenia gravis?",
+   "answer": "Paradoxical weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#d80514",
+   "kind": "mcq",
+   "stem": "Which acronym lists the muscarinic effects of cholinergic excess?",
+   "options": [
+    "SAFER",
+    "SLUDGE",
+    "SOAP",
+    "SMART"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#9bee06",
+   "kind": "mcq",
+   "stem": "Cholinergic crisis in myasthenia gravis may follow which type of reversal?",
+   "options": [
+    "Sugammadex reversal",
+    "Anticholinesterase reversal",
+    "Dantrolene rescue",
+    "Opioid reversal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#492bf8",
+   "kind": "statement",
+   "stem": "How does avoiding neuromuscular blockers reduce cholinergic crisis risk in myasthenia gravis?",
+   "answer": "It avoids anticholinesterase reversal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#998235",
+   "kind": "mcq",
+   "stem": "For cholinergic crisis in myasthenia gravis, what is the IV atropine dose?",
+   "options": [
+    "0.4 to 2 mg",
+    "2 to 5 mg",
+    "0.04 to 0.2 mg",
+    "5 to 10 mg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#998235",
+   "kind": "mcq",
+   "stem": "For cholinergic crisis in myasthenia gravis, what is the IV glycopyrrolate dose?",
+   "options": [
+    "1 to 3 mg",
+    "0.2 to 1 mg",
+    "0.02 to 0.1 mg",
+    "3 to 6 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#a30226",
+   "kind": "blank",
+   "stem": "Antimalarials named in myasthenia gravis drug-safety notes include chloroquine, hydroxychloroquine and ____.",
+   "answer": "quinine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#dbf30a",
+   "kind": "blank",
+   "stem": "Drugs to be cautious with in myasthenia gravis include lithium, penicillamine, phenytoin and ____.",
+   "answer": "botulinum toxin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#d9c1f1",
+   "kind": "blank",
+   "stem": "Anticonvulsants named in myasthenia gravis drug-safety notes include carbamazepine, ethosuximide, phenobarbital and ____.",
+   "answer": "gabapentin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#beba4b",
+   "kind": "blank",
+   "stem": "Eye drugs named in myasthenia gravis drug-safety notes include echothiophate, proparacaine, timolol, tropicamide and ____.",
+   "answer": "betaxolol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#a1bd9b",
+   "kind": "blank",
+   "stem": "Glucocorticoids named in myasthenia gravis drug-safety notes include dexamethasone, prednisone and ____.",
+   "answer": "methylprednisolone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#925af1",
+   "kind": "statement",
+   "stem": "In myasthenia gravis, which penicillin has rare reports of respiratory depression?",
+   "answer": "Ampicillin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#5d3841",
+   "kind": "blank",
+   "stem": "Antibiotics named in myasthenia gravis drug-safety notes include linezolid, daptomycin, teicoplanin and ____.",
+   "answer": "metronidazole",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#0711db",
+   "kind": "statement",
+   "stem": "In myasthenia gravis pregnancy, when should labour and operative delivery anaesthesia be planned?",
+   "answer": "Early, after antenatal anaesthetic review",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#885cdf",
+   "kind": "statement",
+   "stem": "In myasthenia gravis pregnancy, what should be assessed before choosing a neuraxial block?",
+   "answer": "Bulbar and respiratory weakness, and whether a mid-thoracic block would be tolerated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#929910",
+   "kind": "mcq",
+   "stem": "In myasthenia gravis pregnancy, what share of neonates develop transient MG?",
+   "options": [
+    "10–20%",
+    "1–2%",
+    "40–50%",
+    "80–90%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#167c2d",
+   "kind": "mcq",
+   "stem": "In Lambert-Eaton myasthenic syndrome, what is the main presynaptic defect?",
+   "options": [
+    "Reduced acetylcholine release",
+    "Excess acetylcholine release",
+    "Cholinesterase enzyme overactivity",
+    "Complete loss of motor nerve conduction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#0097e2",
+   "kind": "statement",
+   "stem": "In Lambert-Eaton myasthenic syndrome, which cancer is it often linked to?",
+   "answer": "Small cell lung cancer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#9f1b3a",
+   "kind": "mcq",
+   "stem": "In Lambert-Eaton myasthenic syndrome, how reliable is neostigmine for reversing neuromuscular blockade?",
+   "options": [
+    "Reliably effective every time",
+    "May be ineffective",
+    "Only effective with atropine",
+    "Faster than in myasthenia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#b0ebcc",
+   "kind": "statement",
+   "stem": "In Lambert-Eaton myasthenic syndrome, how should neuromuscular blockers be used if they are essential?",
+   "answer": "Small titrated doses with quantitative monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#1fb772",
+   "kind": "mcq",
+   "stem": "Which drug used to treat Lambert-Eaton myasthenic syndrome belongs to the aminopyridine class?",
+   "options": [
+    "Dantrolene",
+    "3,4 diaminopyridine",
+    "Sugammadex",
+    "Baclofen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#ae4081",
+   "kind": "mcq",
+   "stem": "In Lambert-Eaton myasthenic syndrome, what should be done with treatment before surgery?",
+   "options": [
+    "Continue it up to surgery",
+    "Stop it a week before surgery",
+    "Stop it on the morning of surgery",
+    "Double it on the morning of surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#0ae572",
+   "kind": "mcq",
+   "stem": "In Lambert-Eaton myasthenic syndrome, long-term steroid users may need what at induction?",
+   "options": [
+    "Complete steroid withdrawal",
+    "Stress dosing",
+    "Routine dose reduction",
+    "Extra neostigmine at induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myasthenia-gravis#caed3a",
+   "kind": "statement",
+   "stem": "In Lambert-Eaton myasthenic syndrome, what can cause exaggerated hypotension with induction agents and vasodilators?",
+   "answer": "Autonomic dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

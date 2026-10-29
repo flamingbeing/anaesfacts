@@ -1,0 +1,551 @@
+{
+ "topic": "drugs/dexmedetomidine",
+ "questions": [
+  {
+   "fact_id": "drugs/dexmedetomidine#fa92c0",
+   "kind": "mcq",
+   "stem": "What is the concentration of the dexmedetomidine presentation supplied as 200 mcg in 2 ml?",
+   "options": [
+    "50 mcg/ml",
+    "200 mcg/ml",
+    "100 mcg/ml",
+    "10 mcg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#6bd91b",
+   "kind": "mcq",
+   "stem": "Dexmedetomidine is which stereoisomer of racemic medetomidine?",
+   "options": [
+    "The inactive L-stereoisomer",
+    "A racemic mixture of both isomers",
+    "The active D-stereoisomer",
+    "The inactive S-stereoisomer"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#2a57b5",
+   "kind": "mcq",
+   "stem": "What final volume is used to dilute dexmedetomidine to 10 mcg/ml?",
+   "options": [
+    "10 ml",
+    "50 ml",
+    "20 ml",
+    "100 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#44f873",
+   "kind": "mcq",
+   "stem": "Which final volume gives 4 mcg/ml of dexmedetomidine, for use with a conversion table?",
+   "options": [
+    "20 ml",
+    "50 ml",
+    "10 ml",
+    "100 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#a36fde",
+   "kind": "mcq",
+   "stem": "What is the typical onset time of IV dexmedetomidine?",
+   "options": [
+    "1-2 min",
+    "5-10 min",
+    "30-60 sec",
+    "2-4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#12d48b",
+   "kind": "mcq",
+   "stem": "After IV loading, when does dexmedetomidine reach its peak effect?",
+   "options": [
+    "1-2 min",
+    "15–30 min",
+    "45 min",
+    "3-4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#614bb4",
+   "kind": "mcq",
+   "stem": "What is the duration of dexmedetomidine's effect, which depends on the dose?",
+   "options": [
+    "60-120 min",
+    "10-20 min",
+    "4-6 hours",
+    "24 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#0156f4",
+   "kind": "blank",
+   "stem": "Dexmedetomidine should be switched off ____ before the end of surgery to avoid delayed waking.",
+   "answer": "1-2 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#7cfbf8",
+   "kind": "mcq",
+   "stem": "What is the licensed maximum duration of dexmedetomidine use?",
+   "options": [
+    "Up to 72 hours",
+    "Less than 24 hrs",
+    "Up to 7 days",
+    "Up to 14 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#5d23ac",
+   "kind": "statement",
+   "stem": "What problems can arise with dexmedetomidine use beyond 24 hours?",
+   "answer": "Tolerance and tachyphylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#92f8be",
+   "kind": "statement",
+   "stem": "In which setting should dexmedetomidine be given, given its risk of hypotension and bradycardia?",
+   "answer": "Only in a monitored setting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#ed29db",
+   "kind": "mcq",
+   "stem": "What is the IV loading dose of dexmedetomidine?",
+   "options": [
+    "0.2-0.7 mcg/kg/hr",
+    "5-10 mcg/kg over 10 mins",
+    "0.5-1 mcg/kg over 10-20 mins",
+    "0.1-0.2 mcg/kg/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#ed29db",
+   "kind": "mcq",
+   "stem": "Over what time is the IV loading dose of dexmedetomidine given?",
+   "options": [
+    "1-2 mins",
+    "10-20 mins",
+    "30-60 mins",
+    "2-4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#1a535a",
+   "kind": "mcq",
+   "stem": "What is the sedation infusion rate of dexmedetomidine?",
+   "options": [
+    "2-5 mcg/kg/hr",
+    "0.02-0.07 mcg/kg/hr",
+    "0.2-0.7 mcg/kg/hr",
+    "1-2 mcg/kg/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#1e77aa",
+   "kind": "mcq",
+   "stem": "What is the analgesia infusion rate of dexmedetomidine?",
+   "options": [
+    "0.1-0.2 mcg/kg/hr",
+    "0.2-0.7 mcg/kg/hr",
+    "0.5-1 mcg/kg/hr",
+    "1-2 mcg/kg/hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#4bf797",
+   "kind": "mcq",
+   "stem": "In the alternative dexmedetomidine regimen, after a 1 mcg/kg load over 10 min, what is the maintenance rate?",
+   "options": [
+    "0.4 mcg/kg/hr",
+    "0.8 mcg/kg/hr",
+    "1.6 mcg/kg/hr",
+    "0.08 mcg/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#cd6551",
+   "kind": "mcq",
+   "stem": "What is the intranasal premedication dose of dexmedetomidine?",
+   "options": [
+    "0.5-1 mcg/kg",
+    "1-2 mcg/kg",
+    "5-10 mcg/kg",
+    "0.2-0.7 mcg/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#e279cc",
+   "kind": "mcq",
+   "stem": "Besides intravenous use, which other routes for dexmedetomidine are described?",
+   "options": [
+    "Subcutaneous and intramuscular",
+    "Inhaled and topical",
+    "Intra-arterial and intraosseous",
+    "Intrathecal and epidural"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#6a3bc9",
+   "kind": "mcq",
+   "stem": "Why is the oral route of dexmedetomidine limited?",
+   "options": [
+    "Rapid renal excretion",
+    "First-pass metabolism",
+    "Poor lipid solubility",
+    "Gastric acid degradation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#658420",
+   "kind": "mcq",
+   "stem": "How much greater alpha-2 receptor affinity does dexmedetomidine have than clonidine?",
+   "options": [
+    "2 times",
+    "8 times",
+    "16 times",
+    "80 times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#658420",
+   "kind": "mcq",
+   "stem": "What is the alpha-2:alpha-1 receptor affinity ratio of dexmedetomidine?",
+   "options": [
+    "1:1600",
+    "160:1",
+    "1600:1",
+    "8:1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#994b25",
+   "kind": "mcq",
+   "stem": "What type of agonist is dexmedetomidine at alpha-2 receptors?",
+   "options": [
+    "Partial agonist",
+    "Antagonist",
+    "Full agonist",
+    "Inverse agonist"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#d8c5ed",
+   "kind": "statement",
+   "stem": "Dexmedetomidine produces which named type of sedation?",
+   "answer": "Cooperative sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#7740a4",
+   "kind": "statement",
+   "stem": "What is the maximum reduction in volatile agent MAC from dexmedetomidine?",
+   "answer": "Up to 50%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#ffa822",
+   "kind": "mcq",
+   "stem": "Where is dexmedetomidine's analgesic effect mediated?",
+   "options": [
+    "Cortically mediated",
+    "Spinally mediated",
+    "Mediated by NMDA blockade",
+    "Mediated by opioid receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#66203b",
+   "kind": "mcq",
+   "stem": "How long does the initial transient rise in blood pressure from dexmedetomidine last?",
+   "options": [
+    "Up to 1 hour",
+    "Up to 30 seconds",
+    "Up to 2 hours",
+    "Up to 10 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#1fd6bd",
+   "kind": "statement",
+   "stem": "What does post-synaptic alpha-1 stimulation by dexmedetomidine cause?",
+   "answer": "Vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#3367dc",
+   "kind": "mcq",
+   "stem": "Peripheral stimulation of which receptor subtype by dexmedetomidine causes vasoconstriction?",
+   "options": [
+    "Beta-1",
+    "Mu-opioid",
+    "Alpha-2A",
+    "Alpha-2B"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#198759",
+   "kind": "statement",
+   "stem": "At higher doses, what does dexmedetomidine's effect show, given rising alpha-1 stimulation?",
+   "answer": "A ceiling effect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#337f5a",
+   "kind": "statement",
+   "stem": "How does dexmedetomidine's respiratory effect compare with opioids?",
+   "answer": "No respiratory depression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#0f590c",
+   "kind": "statement",
+   "stem": "Dexmedetomidine causes which renal effect?",
+   "answer": "Diuresis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#0f590c",
+   "kind": "mcq",
+   "stem": "Dexmedetomidine causes diuresis partly by reducing release of which hormone?",
+   "options": [
+    "ADH",
+    "Aldosterone",
+    "Insulin",
+    "Renin"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#add6a2",
+   "kind": "statement",
+   "stem": "What is dexmedetomidine's effect on platelets at therapeutic doses?",
+   "answer": "No platelet aggregation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#0e524b",
+   "kind": "mcq",
+   "stem": "Which term describes dexmedetomidine's effect on salivation?",
+   "options": [
+    "Expectorant",
+    "Antiemetic",
+    "Antitussive",
+    "Antisialogogue"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#8b5d1a",
+   "kind": "statement",
+   "stem": "What adverse effect can follow sudden stopping of dexmedetomidine?",
+   "answer": "Rebound hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#ca4f51",
+   "kind": "statement",
+   "stem": "What is dexmedetomidine used for before surgery?",
+   "answer": "Premedication, sedation and anxiolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#0f85df",
+   "kind": "statement",
+   "stem": "As an analgesic adjunct, in which pain types is dexmedetomidine used?",
+   "answer": "Acute and chronic pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#0df492",
+   "kind": "mcq",
+   "stem": "Dexmedetomidine has an indication for which type of withdrawal?",
+   "options": [
+    "Thyroid withdrawal",
+    "Corticosteroid withdrawal",
+    "Opioid withdrawal",
+    "Caffeine withdrawal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#bf6962",
+   "kind": "mcq",
+   "stem": "Dexmedetomidine is indicated for which condition, acting through sympatholysis?",
+   "options": [
+    "Hypotension",
+    "Hypertension",
+    "Cardiac arrest",
+    "Heart failure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#95c43f",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of dexmedetomidine?",
+   "options": [
+    "5%",
+    "16%",
+    "45%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#0e27ed",
+   "kind": "mcq",
+   "stem": "What is the distribution half-life of dexmedetomidine?",
+   "options": [
+    "20 minutes",
+    "60 minutes",
+    "2 minutes",
+    "6 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#0e27ed",
+   "kind": "mcq",
+   "stem": "What is the terminal elimination half-life of dexmedetomidine?",
+   "options": [
+    "60 minutes",
+    "6 minutes",
+    "240 minutes",
+    "120 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#35feaf",
+   "kind": "mcq",
+   "stem": "What is dexmedetomidine's context-sensitive half-life after a 10-minute infusion?",
+   "options": [
+    "25 minutes",
+    "40 minutes",
+    "4 minutes",
+    "1 hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#35feaf",
+   "kind": "mcq",
+   "stem": "What is dexmedetomidine's context-sensitive half-life after an 8-hour infusion?",
+   "options": [
+    "25 minutes",
+    "250 minutes",
+    "120 minutes",
+    "40 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dexmedetomidine#f29c2a",
+   "kind": "statement",
+   "stem": "How is dexmedetomidine cleared from the body?",
+   "answer": "Hepatic metabolism to inactive metabolites, excreted renally",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

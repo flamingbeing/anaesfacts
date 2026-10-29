@@ -1,0 +1,1655 @@
+{
+ "topic": "comorbidities/pre-eclampsia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/pre-eclampsia#3cfbfb",
+   "kind": "mcq",
+   "stem": "Which blood pressure after 20 weeks with proteinuria indicates pre-eclampsia?",
+   "options": [
+    "110/70",
+    "120/80",
+    "130/85",
+    "140/90"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a96bb5",
+   "kind": "mcq",
+   "stem": "Which airway complication can pre-eclampsia cause?",
+   "options": [
+    "Laryngeal palsy",
+    "Airway oedema",
+    "Bronchospasm",
+    "Pleural effusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#ab23a6",
+   "kind": "mcq",
+   "stem": "Why is early epidural preferred over general anaesthesia in pre-eclampsia?",
+   "options": [
+    "Uterine tone is always reduced",
+    "Airway oedema makes GA difficult",
+    "Platelets are always raised",
+    "Seizures always need general anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#ab23a6",
+   "kind": "blank",
+   "stem": "Early epidural is preferred in pre-eclampsia unless the patient is ____.",
+   "answer": "thrombocytopenic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#5fd3f0",
+   "kind": "mcq",
+   "stem": "What is the magnesium sulphate loading dose in pre-eclampsia?",
+   "options": [
+    "1 g",
+    "10 g",
+    "4 g",
+    "8 g"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#5fd3f0",
+   "kind": "blank",
+   "stem": "Magnesium sulphate in pre-eclampsia: 4 g load, then ____ g/hr.",
+   "answer": "1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#5fd3f0",
+   "kind": "mcq",
+   "stem": "What magnesium level is the target in pre-eclampsia treatment?",
+   "options": [
+    "2-4 mmol/L",
+    "0.5-1 mmol/L",
+    "5-7 mmol/L",
+    "8-10 mmol/L"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#fa2503",
+   "kind": "mcq",
+   "stem": "What is the maximum fluid rate in pre-eclampsia?",
+   "options": [
+    "Under 1 ml/kg/hr",
+    "Over 5 ml/kg/hr",
+    "Over 1 ml/kg/hr",
+    "Over 3 ml/kg/hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#0d98e6",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is preferred for delivery in pre-eclampsia if not thrombocytopenic?",
+   "options": [
+    "General anaesthesia",
+    "Spinal",
+    "Local infiltration only",
+    "Peripheral nerve block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#ab4d2e",
+   "kind": "mcq",
+   "stem": "Which uterotonic must be avoided after delivery in pre-eclampsia?",
+   "options": [
+    "Oxytocin",
+    "Ergometrine",
+    "Misoprostol",
+    "Carbetocin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#ab4d2e",
+   "kind": "mcq",
+   "stem": "Which drug class should be avoided after delivery in pre-eclampsia to protect the kidneys?",
+   "options": [
+    "Oral iron",
+    "Paracetamol",
+    "NSAIDs",
+    "Ondansetron"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a7fa1b",
+   "kind": "mcq",
+   "stem": "What sustained blood pressure defines hypertension in pregnancy?",
+   "options": [
+    "SBP >120 or DBP >80",
+    "SBP >130 or DBP >85",
+    "SBP >140 or DBP >90",
+    "SBP >110 or DBP >70"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#0a7b50",
+   "kind": "mcq",
+   "stem": "What blood pressure defines severe hypertension in pregnancy?",
+   "options": [
+    "SBP >120 or DBP >80",
+    "SBP >140 or DBP >90",
+    "SBP >160 or DBP >110",
+    "SBP >130 or DBP >85"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#753a69",
+   "kind": "mcq",
+   "stem": "What does chronic hypertension in pregnancy mean?",
+   "options": [
+    "Arising first after 20 weeks",
+    "Proteinuria with raised BP after 20 weeks",
+    "Present before pregnancy, before 20 weeks gestation",
+    "Only seen during labour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#c7fcfc",
+   "kind": "blank",
+   "stem": "Pre-eclampsia: hypertension (>140/90) starting after 20 weeks, resolving within ____ weeks of delivery.",
+   "answer": "6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#4d7f7a",
+   "kind": "mcq",
+   "stem": "What 24-hour urine protein defines significant proteinuria in pre-eclampsia?",
+   "options": [
+    ">300 mg/24 hrs",
+    "<100 mg/24 hrs",
+    "<50 mg/24 hrs",
+    "<200 mg/24 hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#dfd317",
+   "kind": "mcq",
+   "stem": "A dipstick reading of 1+ or more suggests protein of how much per day?",
+   "options": [
+    "0.1 g/day or more",
+    "Under 0.3 g/day",
+    "0.3 g/day or more",
+    "Under 0.1 g/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#dfd317",
+   "kind": "mcq",
+   "stem": "How should urine protein testing for pre-eclampsia ideally be done?",
+   "options": [
+    "1 sample at a clinic visit",
+    "2 samples, 24 hours apart",
+    "2 samples, 4 hours apart",
+    "3 samples, 1 hour apart"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a19440",
+   "kind": "mcq",
+   "stem": "In which year were end-organ dysfunction criteria added to pre-eclampsia in ACOG guidance?",
+   "options": [
+    "2003",
+    "2008",
+    "2013",
+    "2019"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#90badf",
+   "kind": "statement",
+   "stem": "What is severe pre-eclampsia now called?",
+   "answer": "Pre-eclampsia with severe features",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#73990b",
+   "kind": "mcq",
+   "stem": "In severe pre-eclampsia, what systolic pressure counts as severe hypertension?",
+   "options": [
+    "SBP >120",
+    "SBP >140",
+    "SBP >160",
+    "SBP >100"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b26108",
+   "kind": "mcq",
+   "stem": "What urine output over 24 hours counts as oliguria in pre-eclampsia?",
+   "options": [
+    "Under 100 ml/24 hr",
+    "Under 800 ml/24 hr",
+    "Under 400 ml/24 hr",
+    "Under 1000 ml/24 hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b26108",
+   "kind": "blank",
+   "stem": "Renal end-organ dysfunction in pre-eclampsia: raised creatinine and ____.",
+   "answer": "oliguria",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#47f9d3",
+   "kind": "mcq",
+   "stem": "Which platelet count counts as thrombocytopenia in pre-eclampsia?",
+   "options": [
+    "Platelets 100 or more",
+    "Platelets below 100",
+    "Platelets 150 or more",
+    "Platelets 300 or more"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#6cac72",
+   "kind": "statement",
+   "stem": "Define eclampsia in one line.",
+   "answer": "Seizure in pregnancy or puerperium in pre-eclampsia, with no other cause",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#348003",
+   "kind": "mcq",
+   "stem": "What may a woman with eclampsia have before her first seizure?",
+   "options": [
+    "No signs of pre-eclampsia",
+    "Known epilepsy history",
+    "Positive urine glucose only",
+    "Recent head injury"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#fc65cd",
+   "kind": "statement",
+   "stem": "Describe pre-eclampsia in one line.",
+   "answer": "A multisystem disorder of hypertension with organ derangement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#670ffb",
+   "kind": "mcq",
+   "stem": "How is HELLP best described in relation to pre-eclampsia?",
+   "options": [
+    "A separate disease unrelated to pre-eclampsia",
+    "A likely form of severe pre-eclampsia",
+    "A cause of chronic hypertension",
+    "A complication of gestational diabetes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a90354",
+   "kind": "statement",
+   "stem": "Name two laboratory signs of haemolysis in HELLP.",
+   "answer": "Raised bilirubin; raised LDH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#35a9e3",
+   "kind": "mcq",
+   "stem": "Which symptom in HELLP points to liver involvement?",
+   "options": [
+    "Left iliac fossa pain",
+    "Right upper quadrant pain",
+    "Suprapubic pain",
+    "Bilateral flank pain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#17bde8",
+   "kind": "mcq",
+   "stem": "What platelet count is severe low platelets in HELLP?",
+   "options": [
+    "Below 150",
+    "Below 100",
+    "Below 50",
+    "Below 200"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#dade8c",
+   "kind": "mcq",
+   "stem": "When does postpartum pre-eclampsia usually occur after delivery?",
+   "options": [
+    "Within 7 days",
+    "Only after 6 weeks",
+    "Before delivery only",
+    "Only during labour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a47376",
+   "kind": "mcq",
+   "stem": "When does delayed-onset postpartum pre-eclampsia start after birth?",
+   "options": [
+    "Within 2 days",
+    "After 6 weeks",
+    "More than 2 days but under 6 weeks",
+    "Only at delivery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#d3db43",
+   "kind": "mcq",
+   "stem": "In the two-stage model, what is stage 1 of pre-eclampsia?",
+   "options": [
+    "Systemic endothelial syndrome with symptoms",
+    "Defective placentation with no symptoms",
+    "Eclamptic seizure",
+    "Renal failure with oliguria"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#72fe3b",
+   "kind": "statement",
+   "stem": "In the two-stage model, what is stage 2 called?",
+   "answer": "Systemic endothelial syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#aeca79",
+   "kind": "mcq",
+   "stem": "What does the ischaemic placenta release that causes widespread endothelial dysfunction?",
+   "options": [
+    "Surfactant proteins",
+    "Anti-angiogenic factors such as sFlt-1 and sEng",
+    "Insulin-like growth factor",
+    "Prostacyclin excess"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#9e6028",
+   "kind": "mcq",
+   "stem": "Which neurological complication can occur in pre-eclampsia?",
+   "options": [
+    "Cerebral oedema",
+    "Peripheral neuropathy",
+    "Carpal tunnel syndrome",
+    "Bell palsy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#84a2a4",
+   "kind": "statement",
+   "stem": "Why does uric acid rise in pre-eclampsia?",
+   "answer": "Reduced urate clearance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b1cc5d",
+   "kind": "statement",
+   "stem": "What causes pulmonary oedema in pre-eclampsia?",
+   "answer": "Capillary leak",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#aaa189",
+   "kind": "statement",
+   "stem": "Which liver abnormality in pre-eclampsia is part of HELLP?",
+   "answer": "Transaminitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#45e299",
+   "kind": "statement",
+   "stem": "Name three effects of magnesium sulphate in pre-eclampsia.",
+   "answer": "Toxicity, uterine atony, prolonged neuromuscular block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#92a21d",
+   "kind": "blank",
+   "stem": "Pre-eclampsia bloods include FBC, renal panel, LFT, DIC screen and ____.",
+   "answer": "group and crossmatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#4be4f9",
+   "kind": "mcq",
+   "stem": "Which 24 hour urine test is sent in pre-eclampsia?",
+   "options": [
+    "Urine osmolality",
+    "24 hr urine protein",
+    "Urine culture and sensitivity",
+    "Urine calcium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#106664",
+   "kind": "mcq",
+   "stem": "Which investigation is used for fetal assessment in pre-eclampsia?",
+   "options": [
+    "Amniocentesis",
+    "Electroencephalography",
+    "Ultrasound",
+    "Cordocentesis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#9e078d",
+   "kind": "mcq",
+   "stem": "Which drug is used to prevent pre-eclampsia in high-risk patients?",
+   "options": [
+    "Ranitidine",
+    "Aspirin",
+    "Dexamethasone",
+    "Sodium citrate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#4a1dbd",
+   "kind": "statement",
+   "stem": "Why control blood pressure in severe pre-eclampsia on the delivery suite?",
+   "answer": "Mainly to prevent intracranial haemorrhage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#3b6cd7",
+   "kind": "mcq",
+   "stem": "What blood pressure target applies in pre-eclampsia management?",
+   "options": [
+    "Below 200/120",
+    "Below 150/100",
+    "Below 160/110",
+    "Above 180/110"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#3b6cd7",
+   "kind": "statement",
+   "stem": "What systolic pressure in pre-eclampsia is a medical emergency?",
+   "answer": "SBP >180",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#827c1a",
+   "kind": "mcq",
+   "stem": "What is the daily oral dose range of methyldopa in pre-eclampsia?",
+   "options": [
+    "5-30 mg/day",
+    "0.5-3 mg/day",
+    "0.5-3 g/day",
+    "5-30 g/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#d67d33",
+   "kind": "statement",
+   "stem": "In rapid BP control for pre-eclampsia, how much and how often is BP lowered?",
+   "answer": "10-20 mmHg every 20 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#ac0503",
+   "kind": "mcq",
+   "stem": "What is the IV labetalol dose for rapid BP control in pre-eclampsia?",
+   "options": [
+    "50-100 mg rapid bolus",
+    "0.1 mg by slow infusion",
+    "5-10 mg slowly",
+    "1-2 mg every minute"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b2837e",
+   "kind": "mcq",
+   "stem": "What is the maximum total IV hydralazine dose given as 5 mg aliquots?",
+   "options": [
+    "10 mg",
+    "20 mg",
+    "50 mg",
+    "100 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b2837e",
+   "kind": "statement",
+   "stem": "How long does IV hydralazine take to take effect in pre-eclampsia?",
+   "answer": "30 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#4dc5d3",
+   "kind": "mcq",
+   "stem": "Sublingual nifedipine should be avoided in combination with which drug?",
+   "options": [
+    "Labetalol",
+    "Magnesium",
+    "Hydralazine",
+    "Methyldopa"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#4dc5d3",
+   "kind": "mcq",
+   "stem": "What is the sublingual nifedipine dose used for rapid BP control in pre-eclampsia?",
+   "options": [
+    "50-100 mg",
+    "0.5-1 mg",
+    "1-2 mg",
+    "5-10 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#26aec2",
+   "kind": "mcq",
+   "stem": "What is the IV GTN dose range in pre-eclampsia?",
+   "options": [
+    "1-4 mcg/kg/min",
+    "5-10 mcg/kg/min",
+    "10-20 mcg/kg/min",
+    "0.1-0.8 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b158b7",
+   "kind": "mcq",
+   "stem": "What is the IV sodium nitroprusside dose range in pre-eclampsia?",
+   "options": [
+    "5-10 mcg/kg/min",
+    "1-4 mcg/kg/min",
+    "10-20 mcg/kg/min",
+    "0.1-0.8 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#734be5",
+   "kind": "mcq",
+   "stem": "By how much is plasma volume lower in severe pre-eclampsia?",
+   "options": [
+    "5-10%",
+    "30-40%",
+    "50-60%",
+    "70-80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#ae9cb8",
+   "kind": "mcq",
+   "stem": "What is the usual maximum fluid intake rate in pre-eclampsia?",
+   "options": [
+    "2 ml/kg/hr (up to 120 ml/hr)",
+    "0.5 ml/kg/hr (up to 40 ml/hr)",
+    "1 ml/kg/hr (up to 80 ml/hr)",
+    "3 ml/kg/hr (up to 200 ml/hr)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b0b329",
+   "kind": "mcq",
+   "stem": "What is the furosemide bolus dose for pulmonary oedema in pre-eclampsia?",
+   "options": [
+    "2-6 mg",
+    "20-60 mg",
+    "100-200 mg",
+    "250-500 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b0b329",
+   "kind": "statement",
+   "stem": "Besides furosemide, which two measures treat pulmonary oedema in pre-eclampsia?",
+   "answer": "Oxygen, fluid restriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#2b4c91",
+   "kind": "mcq",
+   "stem": "Why is magnesium sulphate infused in severe pre-eclampsia?",
+   "options": [
+    "Lower blood pressure acutely",
+    "Stop uterine bleeding",
+    "Prevent eclampsia",
+    "Mature fetal lungs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#8ed28a",
+   "kind": "mcq",
+   "stem": "In the Magpie trial, what was the number needed to treat with magnesium to prevent one seizure?",
+   "options": [
+    "19",
+    "42",
+    "15",
+    "91"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#1a7655",
+   "kind": "statement",
+   "stem": "Which two products must be delivered in pre-eclampsia management?",
+   "answer": "Baby and placenta",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#541bb4",
+   "kind": "mcq",
+   "stem": "Within what time should severe pre-eclampsia or eclampsia be delivered?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "48 hours",
+    "72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#c18eff",
+   "kind": "mcq",
+   "stem": "At what gestation is delivery advised for mild pre-eclampsia?",
+   "options": [
+    "32 weeks",
+    "34 weeks",
+    "37 weeks",
+    "40 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#2331c5",
+   "kind": "mcq",
+   "stem": "At what gestation is delivery planned for severe pre-eclampsia?",
+   "options": [
+    "28 weeks",
+    "32 weeks",
+    "37 weeks",
+    "34 weeks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#3ae533",
+   "kind": "mcq",
+   "stem": "How many doses of dexamethasone are given before delivery in pre-eclampsia?",
+   "options": [
+    "1 dose",
+    "3 doses",
+    "4 doses",
+    "2 doses"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#3ae533",
+   "kind": "mcq",
+   "stem": "Ideally, how long after the second dexamethasone dose should delivery occur?",
+   "options": [
+    "6 hours",
+    "12 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#9a128d",
+   "kind": "mcq",
+   "stem": "What is the aim for pre-eclampsia under 32 weeks?",
+   "options": [
+    "Immediate caesarean section",
+    "Prolong the pregnancy",
+    "Immediate induction of labour",
+    "Termination of the pregnancy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#54a4be",
+   "kind": "mcq",
+   "stem": "How many large-bore IV lines are advised in pre-eclampsia?",
+   "options": [
+    "1",
+    "3",
+    "2",
+    "4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#8713a7",
+   "kind": "mcq",
+   "stem": "Which drug treats resistant seizures in pre-eclampsia?",
+   "options": [
+    "Phenytoin",
+    "Midazolam",
+    "Levetiracetam",
+    "Sodium valproate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#5ad12a",
+   "kind": "mcq",
+   "stem": "What is the IV ranitidine dose for acid prophylaxis in pre-eclampsia?",
+   "options": [
+    "50 mg 8-hourly",
+    "300 mg daily",
+    "150 mg 12-hourly",
+    "75 mg daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#5ad12a",
+   "kind": "mcq",
+   "stem": "What is the sodium citrate 0.3M dose for acid prophylaxis in pre-eclampsia?",
+   "options": [
+    "30 ml 6-hourly",
+    "10 ml 12-hourly",
+    "60 ml 4-hourly",
+    "15 ml 8-hourly"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#cd945d",
+   "kind": "statement",
+   "stem": "What is the advice on epidural timing in pre-eclampsia labour?",
+   "answer": "Early, if no contraindication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#c80709",
+   "kind": "statement",
+   "stem": "Name the three staff groups for multidisciplinary input in pre-eclampsia.",
+   "answer": "Obstetrician, neonatologist, midwife",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b1c8c0",
+   "kind": "mcq",
+   "stem": "Within how many hours should platelets and clotting be checked in all pre-eclampsia cases?",
+   "options": [
+    "12 hours",
+    "1 hour",
+    "24 hours",
+    "6 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b1c8c0",
+   "kind": "mcq",
+   "stem": "Within how many hours should platelets and clotting be checked in severe pre-eclampsia?",
+   "options": [
+    "24 hours",
+    "12 hours",
+    "1 hour",
+    "2 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#8ba582",
+   "kind": "mcq",
+   "stem": "With normal clotting, which platelet count is likely fine for neuraxial in pre-eclampsia?",
+   "options": [
+    "Platelets below 50",
+    "Platelets below 30",
+    "Platelets above 75",
+    "Platelets below 75"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#127823",
+   "kind": "mcq",
+   "stem": "Which platelet count is an absolute contraindication to neuraxial in pre-eclampsia?",
+   "options": [
+    "Platelets above 75",
+    "Platelets below 75",
+    "Platelets below 20",
+    "Platelets below 50"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#c5428c",
+   "kind": "statement",
+   "stem": "Which finding should be assessed in the preoperative review of pre-eclampsia?",
+   "answer": "Oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#48b571",
+   "kind": "statement",
+   "stem": "Which CTG monitoring is advised for pre-eclampsia before surgery?",
+   "answer": "Continuous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#3e45f5",
+   "kind": "blank",
+   "stem": "Careful fluids in pre-eclampsia: max 1 ml/kg/hr or ____ ml/hr.",
+   "answer": "80",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#dce7e9",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique suits most pre-eclampsia patients?",
+   "options": [
+    "General anaesthesia",
+    "Local infiltration only",
+    "Neuraxial",
+    "Sedation alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b5cc17",
+   "kind": "mcq",
+   "stem": "Which endotracheal tube sizes should be available for pre-eclampsia intubation?",
+   "options": [
+    "7.0, 7.5, 8.0",
+    "5.5, 6.0, 6.5",
+    "3.0, 3.5, 4.0",
+    "4.0, 4.5, 5.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b5cc17",
+   "kind": "statement",
+   "stem": "What complication of pre-eclampsia makes intubation harder?",
+   "answer": "Upper airway oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#950ee6",
+   "kind": "mcq",
+   "stem": "Which alfentanil bolus dose may be needed as extra opioid in pre-eclampsia?",
+   "options": [
+    "50 mcg/kg",
+    "10 mcg/kg",
+    "100 mcg/kg",
+    "1 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#950ee6",
+   "kind": "statement",
+   "stem": "Who should be told when extra opioid is given in pre-eclampsia surgery?",
+   "answer": "The neonatologist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#423e16",
+   "kind": "statement",
+   "stem": "Which two monitors are considered for pre-eclampsia surgery?",
+   "answer": "Arterial line and 5-lead ECG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#908ca7",
+   "kind": "mcq",
+   "stem": "When is an awake arterial line considered in pre-eclampsia?",
+   "options": [
+    "Routinely in all pre-eclampsia patients",
+    "Only after the baby is delivered",
+    "Severe disease needing IV antihypertensives or MgSO4 infusion",
+    "Only if the patient has jaundice"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#9855f8",
+   "kind": "statement",
+   "stem": "What ventilation changes may pulmonary oedema need in pre-eclampsia surgery?",
+   "answer": "Higher airway pressures, PEEP and FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#be1fa8",
+   "kind": "mcq",
+   "stem": "What justifies fluid above the 1 ml/kg/hr limit during pre-eclampsia surgery?",
+   "options": [
+    "Routine maintenance infusion",
+    "Replacing losses such as haemorrhage",
+    "Patient request for extra water",
+    "Low urine output alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a0b57c",
+   "kind": "statement",
+   "stem": "Why use multimodal analgesia in pre-eclampsia surgery?",
+   "answer": "To blunt the hypertensive response to pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#bb7991",
+   "kind": "mcq",
+   "stem": "Avoid NSAIDs until proteinuria resolves, which is likely after how many hours?",
+   "options": [
+    "12 hrs",
+    "24 hrs",
+    ">48 hrs",
+    "36 hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#f8407f",
+   "kind": "statement",
+   "stem": "Which three treatments continue after surgery in pre-eclampsia?",
+   "answer": "Antihypertensives, MgSO4, fluid restriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#404d01",
+   "kind": "mcq",
+   "stem": "Where should a severe pre-eclampsia patient with invasive BP monitoring be cared for after surgery?",
+   "options": [
+    "Ordinary surgical ward",
+    "General recovery bay",
+    "High dependency",
+    "Home with community midwife"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#0f77e0",
+   "kind": "statement",
+   "stem": "What should be checked before removing an epidural catheter in pre-eclampsia?",
+   "answer": "Platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#0adb72",
+   "kind": "mcq",
+   "stem": "What is the reported incidence of eclampsia?",
+   "options": [
+    "1:500",
+    "1:1000",
+    "1:20000",
+    "1:3500"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#51848d",
+   "kind": "mcq",
+   "stem": "What percentage of eclampsia cases occur postpartum?",
+   "options": [
+    "10%",
+    "60%",
+    "40%",
+    "80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#34ffb5",
+   "kind": "mcq",
+   "stem": "When is eclampsia most common?",
+   "options": [
+    "First trimester only",
+    "Second trimester only",
+    "Only during labour, not after",
+    "3rd trimester or within 12 hrs of delivery"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#d8a30b",
+   "kind": "statement",
+   "stem": "What is typical about the duration of an eclamptic seizure?",
+   "answer": "Brief and self-limiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#30ce96",
+   "kind": "mcq",
+   "stem": "How long can fetal bradycardia last during and after an eclamptic seizure?",
+   "options": [
+    "Less than 10 seconds",
+    "Under 30 seconds",
+    "At least 3-5 minutes",
+    "About 1 hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#1487e0",
+   "kind": "statement",
+   "stem": "Can eclampsia occur before pre-eclampsia is recognised?",
+   "answer": "Yes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b84666",
+   "kind": "mcq",
+   "stem": "What percentage of eclampsia cases have no symptoms beforehand?",
+   "options": [
+    "10%",
+    "50%",
+    "25%",
+    "75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#957f6f",
+   "kind": "statement",
+   "stem": "Name the non-eclamptic causes of seizures in pregnancy.",
+   "answer": "Epilepsy, hypoglycaemia in diabetes, LAST, intracranial causes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#91267d",
+   "kind": "mcq",
+   "stem": "What is the first-line treatment to stop an eclamptic seizure?",
+   "options": [
+    "Phenytoin infusion",
+    "Levetiracetam infusion",
+    "MgSO4 2 g bolus",
+    "Sodium valproate infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#cab268",
+   "kind": "mcq",
+   "stem": "What is the IV diazepam dose for refractory eclamptic seizures?",
+   "options": [
+    "2 mg",
+    "5 mg",
+    "10 mg",
+    "50 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#73822d",
+   "kind": "mcq",
+   "stem": "Which anticonvulsant is of choice for prophylaxis in pre-eclampsia?",
+   "options": [
+    "Phenytoin",
+    "MgSO4",
+    "Levetiracetam",
+    "Sodium valproate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#d6aafa",
+   "kind": "mcq",
+   "stem": "What is the magnesium sulphate loading dose in pre-eclampsia?",
+   "options": [
+    "1 g over 1 min",
+    "8 g over 30 min",
+    "4 g over 10 min",
+    "10 g over 2 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b33c10",
+   "kind": "mcq",
+   "stem": "What is the maintenance magnesium sulphate infusion rate in pre-eclampsia?",
+   "options": [
+    "0.5 g/hour",
+    "10 g/hour",
+    "4 g/hour",
+    "1 g/hour"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#14d24a",
+   "kind": "mcq",
+   "stem": "For how long should magnesium continue after delivery or the last seizure?",
+   "options": [
+    "48 hours",
+    "3 days",
+    "1 week",
+    "24 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#78afd0",
+   "kind": "mcq",
+   "stem": "What is the bolus for a seizure while on magnesium sulphate?",
+   "options": [
+    "1 g over 1 min",
+    "4 g over 5 min",
+    "2 g over 5 min",
+    "10 g over 10 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#3d119f",
+   "kind": "statement",
+   "stem": "What raises the risk of magnesium toxicity?",
+   "answer": "Renal impairment with low urine output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#47f1db",
+   "kind": "mcq",
+   "stem": "How often should reflexes be checked during a magnesium infusion?",
+   "options": [
+    "1-hourly",
+    "4-hourly",
+    "12-hourly",
+    "Daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#2c2294",
+   "kind": "mcq",
+   "stem": "What respiratory rate and SpO2 define magnesium-induced respiratory depression?",
+   "options": [
+    "RR <6, SpO2 <85%",
+    "RR <20, SpO2 <96%",
+    "RR <10, SpO2 <92%",
+    "RR <14, SpO2 <94%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a7c298",
+   "kind": "mcq",
+   "stem": "How is magnesium toxicity treated, and with what dose?",
+   "options": [
+    "10 ml of 8.4% sodium bicarbonate (50 mEq)",
+    "10 ml of 50% dextrose (5 g)",
+    "2 ml of 1:10000 adrenaline (200 micrograms)",
+    "10 ml of 10% calcium gluconate (1 g)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#c84261",
+   "kind": "statement",
+   "stem": "In a magnesium infusion for pre-eclampsia, what findings should prompt a magnesium level check?",
+   "answer": "Patellar reflexes lost, or oliguric (<100 ml in 4 hours)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#d4c123",
+   "kind": "blank",
+   "stem": "The target magnesium level in pre-eclampsia is ____ (4-8 mEq/L).",
+   "answer": "2-4 mmol/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#e13b8e",
+   "kind": "mcq",
+   "stem": "What ECG changes occur with magnesium at 2.5-5 mmol/L?",
+   "options": [
+    "Long PR, wide QRS",
+    "Sinus tachycardia and ST elevation",
+    "Short QT with tall T waves",
+    "Atrial fibrillation with fast ventricular rate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#19fb98",
+   "kind": "statement",
+   "stem": "At what magnesium level are deep tendon reflexes lost?",
+   "answer": "Above 5 mmol/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#787920",
+   "kind": "statement",
+   "stem": "What range of magnesium level (mmol/L) causes respiratory depression?",
+   "answer": "6-7 mmol/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#47282e",
+   "kind": "statement",
+   "stem": "What does a magnesium level above 7.5 mmol/L cause?",
+   "answer": "Respiratory arrest, CNS depression, SA or AV block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#f19ad4",
+   "kind": "blank",
+   "stem": "A magnesium level above 12 mmol/L can cause ____.",
+   "answer": "cardiac arrest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#e95729",
+   "kind": "mcq",
+   "stem": "At what rate should magnesium restart if the level falls below 4 mmol/L or reflexes return?",
+   "options": [
+    "2 g/hr",
+    "0.25 g/hr",
+    "4 g/hr",
+    "0.5 g/hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a56d76",
+   "kind": "statement",
+   "stem": "What effect can maternal magnesium have on the newborn, and how is it treated?",
+   "answer": "Newborn may be hypotonic with respiratory depression; treat with calcium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#d8989f",
+   "kind": "mcq",
+   "stem": "Hypermagnesaemia ECG changes resemble changes from which electrolyte disturbance?",
+   "options": [
+    "Hypokalaemia",
+    "Hyperkalaemia",
+    "Hypercalcaemia",
+    "Hyponatraemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#033963",
+   "kind": "mcq",
+   "stem": "How is HELLP syndrome classified in relation to pre-eclampsia?",
+   "options": [
+    "Likely a separate disease unrelated to pre-eclampsia",
+    "Likely a form of cholestasis with jaundice",
+    "Likely a form of pre-eclampsia with severe features",
+    "Likely a form of gestational diabetes with ketosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#f009fd",
+   "kind": "blank",
+   "stem": "Hypertension is present in ____ of HELLP syndrome cases.",
+   "answer": "85%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#b6e3c7",
+   "kind": "statement",
+   "stem": "In HELLP syndrome, when can the condition present relative to pregnancy?",
+   "answer": "Rarely before 20 weeks; may present postpartum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#a03194",
+   "kind": "statement",
+   "stem": "How does HELLP management differ from pre-eclampsia management?",
+   "answer": "Same as pre-eclampsia, plus delivery of baby and placenta",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#793740",
+   "kind": "statement",
+   "stem": "What level of monitoring and care is needed for the complications of HELLP syndrome?",
+   "answer": "Invasive monitoring and high dependency care",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#1ae40d",
+   "kind": "mcq",
+   "stem": "How long does recovery from HELLP syndrome usually take after delivery?",
+   "options": [
+    "3-5 days",
+    "1-2 weeks",
+    "24-48 hrs",
+    "6-8 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#5ad2f8",
+   "kind": "mcq",
+   "stem": "In HELLP syndrome, what percentage is quoted for major haemorrhage or abruption?",
+   "options": [
+    "55%",
+    "8%",
+    "6%",
+    "21%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#1accaf",
+   "kind": "mcq",
+   "stem": "In HELLP syndrome, what percentage is quoted for DIC?",
+   "options": [
+    "55%",
+    "6%",
+    "21%",
+    "8%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#09a4ae",
+   "kind": "mcq",
+   "stem": "What percentage is quoted for acute kidney injury in HELLP syndrome?",
+   "options": [
+    "21%",
+    "8%",
+    "55%",
+    "6%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#4f60ef",
+   "kind": "mcq",
+   "stem": "What percentage is quoted for pulmonary oedema in HELLP syndrome?",
+   "options": [
+    "8%",
+    "55%",
+    "21%",
+    "6%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#391dad",
+   "kind": "mcq",
+   "stem": "What percentage is quoted for subcapsular liver haematoma or rupture in HELLP syndrome?",
+   "options": [
+    "6%",
+    "55%",
+    "1%",
+    "8%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/pre-eclampsia#d6c8dd",
+   "kind": "mcq",
+   "stem": "What mortality is quoted for severe HELLP syndrome?",
+   "options": [
+    "1%",
+    "21%",
+    "5%",
+    "8%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,545 @@
+{
+ "topic": "comorbidities/neuromuscular-diseases",
+ "questions": [
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#338355",
+   "kind": "statement",
+   "stem": "Which respiratory problems are key in neuromuscular disease anaesthesia?",
+   "answer": "Respiratory failure, recurrent pneumonia from aspiration and weak cough, spinal deformity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#4cbe65",
+   "kind": "statement",
+   "stem": "Which airway problems are key in neuromuscular disease anaesthesia?",
+   "answer": "Aspiration, poor dentition, OSA, possible difficult airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#3d7e50",
+   "kind": "mcq",
+   "stem": "Which musculoskeletal problem in neuromuscular disease can lead to pressure sores?",
+   "options": [
+    "Joint hypermobility",
+    "Contractures",
+    "Osteoporotic fractures",
+    "Tendon rupture"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#5dea93",
+   "kind": "statement",
+   "stem": "Which two general complications are key in neuromuscular disease anaesthesia?",
+   "answer": "Malnutrition, DVT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#cdace4",
+   "kind": "mcq",
+   "stem": "Which cardiovascular problem in neuromuscular disease needs invasive monitoring?",
+   "options": [
+    "Isolated mitral stenosis",
+    "Peripheral oedema",
+    "Autonomic dysfunction",
+    "Atrial septal defect"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#bdd273",
+   "kind": "mcq",
+   "stem": "What must be established in preoperative assessment of neuromuscular disease?",
+   "options": [
+    "Likely diagnosis only",
+    "Exact diagnosis",
+    "Preferred anaesthetic agent",
+    "Surgical approach"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#186a2b",
+   "kind": "statement",
+   "stem": "In neuromuscular disease, what baseline should be recorded on preoperative examination?",
+   "answer": "Neurological deficits and power",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#b3c8b5",
+   "kind": "mcq",
+   "stem": "Which FVC level flags high respiratory risk in neuromuscular disease?",
+   "options": [
+    "FVC <80%",
+    "FVC <30%",
+    "FVC <50%",
+    "FVC <65%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#b3c8b5",
+   "kind": "mcq",
+   "stem": "Which NIF value flags high respiratory risk in neuromuscular disease?",
+   "options": [
+    "NIF <20",
+    "NIF <60",
+    "NIF <40",
+    "NIF <80"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#b3c8b5",
+   "kind": "blank",
+   "stem": "The 20/30/40 lung function rule cannot be applied in ____ children in neuromuscular disease.",
+   "answer": "young",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#04fa00",
+   "kind": "mcq",
+   "stem": "Who should be counselled fully about anaesthetic risks in neuromuscular disease?",
+   "options": [
+    "Surgeon alone",
+    "Patient and family",
+    "Referring GP only",
+    "Hospital administrator"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#e559a3",
+   "kind": "mcq",
+   "stem": "Which anaesthetic complication must be kept in mind in muscular dystrophies and myotonias?",
+   "options": [
+    "Anaphylaxis",
+    "Malignant hyperthermia",
+    "Pulmonary embolism",
+    "Pneumothorax"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#e559a3",
+   "kind": "statement",
+   "stem": "In muscular dystrophy or myotonia, how should unexplained tachycardia with rising ETCO2 be handled?",
+   "answer": "Prompt aggressive treatment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#899b77",
+   "kind": "mcq",
+   "stem": "If a non-depolarising relaxant is essential in neuromuscular disease, what dose is used?",
+   "options": [
+    "50% of the usual dose",
+    "2 times the usual dose",
+    "Full usual dose",
+    "10–20% of the usual dose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#a32df2",
+   "kind": "mcq",
+   "stem": "Besides suxamethonium, which drug class can cause hyperkalaemia in muscular dystrophies?",
+   "options": [
+    "Opioids",
+    "Benzodiazepines",
+    "Anticholinesterases",
+    "Propofol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#92ff55",
+   "kind": "statement",
+   "stem": "Which temperature problem should be avoided intraoperatively in neuromuscular disease?",
+   "answer": "Hypothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#46c92d",
+   "kind": "mcq",
+   "stem": "What postoperative plan is needed for neuromuscular disease instead of day surgery?",
+   "options": [
+    "Discharge after 2 hours",
+    "Home with oxygen",
+    "Admission for monitoring",
+    "Same-day discharge"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#4058a5",
+   "kind": "mcq",
+   "stem": "After neuromuscular disease surgery, which higher level of care should be considered?",
+   "options": [
+    "Day-case recovery unit",
+    "General ward only",
+    "Community nursing",
+    "HDU or ICU"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#94b6be",
+   "kind": "statement",
+   "stem": "In neuromuscular disease, why should extubation be done early after surgery?",
+   "answer": "To avoid further respiratory muscle weakening",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#53742d",
+   "kind": "mcq",
+   "stem": "Which neuromuscular condition has no autonomic involvement and allows suxamethonium?",
+   "options": [
+    "Guillain-Barré syndrome",
+    "Duchenne muscular dystrophy",
+    "Myasthenia gravis",
+    "Motor neurone disease"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#e2b52f",
+   "kind": "mcq",
+   "stem": "Which neuromuscular condition involves the autonomic nervous system?",
+   "options": [
+    "Myasthenia gravis",
+    "Central core disease",
+    "Guillain-Barré syndrome",
+    "King-Denborough syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#ffb96f",
+   "kind": "mcq",
+   "stem": "Which myopathy is associated with malignant hyperthermia?",
+   "options": [
+    "Myasthenia gravis",
+    "Central core disease",
+    "Guillain-Barré syndrome",
+    "Motor neurone disease"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#a206a3",
+   "kind": "mcq",
+   "stem": "In other myopathies, which relaxant should be avoided because of hyperkalaemia risk?",
+   "options": [
+    "Rocuronium",
+    "Atracurium",
+    "Suxamethonium",
+    "Vecuronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#a206a3",
+   "kind": "statement",
+   "stem": "Why should volatile anaesthetics be avoided in Duchenne muscular dystrophy?",
+   "answer": "Anaesthesia-related rhabdomyolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#21afa9",
+   "kind": "statement",
+   "stem": "What defines muscular dystrophies in neuromuscular disease?",
+   "answer": "Congenital disorders with progressive weakness of affected muscle groups",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#39b541",
+   "kind": "mcq",
+   "stem": "Which muscular dystrophy is the most common and most severe?",
+   "options": [
+    "Becker muscular dystrophy",
+    "Myotonic dystrophy",
+    "Duchenne muscular dystrophy",
+    "Limb-girdle muscular dystrophy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#d9b609",
+   "kind": "mcq",
+   "stem": "How is Duchenne muscular dystrophy inherited?",
+   "options": [
+    "Autosomal dominant",
+    "X-linked, affecting males",
+    "Mitochondrial",
+    "Autosomal recessive"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#7f46d3",
+   "kind": "mcq",
+   "stem": "At what age does Duchenne muscular dystrophy present with weakness?",
+   "options": [
+    "6-9 years",
+    "12-15 years",
+    "Birth",
+    "2-5 years"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#807722",
+   "kind": "mcq",
+   "stem": "By what age are patients with Duchenne muscular dystrophy wheelchair-bound?",
+   "options": [
+    "By 6 years",
+    "By 8 years",
+    "By 12 years",
+    "By 18 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#4ffb6b",
+   "kind": "mcq",
+   "stem": "By what age does Duchenne muscular dystrophy cause death?",
+   "options": [
+    "By 15 years",
+    "By 25 years",
+    "By 40 years",
+    "By 60 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#9b40ea",
+   "kind": "mcq",
+   "stem": "In Duchenne muscular dystrophy, what may be needed after surgery?",
+   "options": [
+    "Immediate discharge home",
+    "Routine day-case recovery",
+    "Prolonged intubation",
+    "Early oral diet"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#09f859",
+   "kind": "statement",
+   "stem": "What is another name for myotonic dystrophy?",
+   "answer": "Myotonia atrophica",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#2221c6",
+   "kind": "mcq",
+   "stem": "In myotonic dystrophy, what is myotonia?",
+   "options": [
+    "Loss of tendon reflexes",
+    "Muscle weakness at rest",
+    "Sustained skeletal muscle contraction after stimulation",
+    "Fasciculation of the tongue"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#729735",
+   "kind": "statement",
+   "stem": "In myotonic dystrophy, which muscle types progressively atrophy?",
+   "answer": "Skeletal, cardiac and smooth muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#9673e3",
+   "kind": "mcq",
+   "stem": "At what age does myotonic dystrophy usually present?",
+   "options": [
+    "40-50yrs",
+    "20-30yrs",
+    "5-10yrs",
+    "60-70yrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#0bbe7d",
+   "kind": "mcq",
+   "stem": "When does cognitive decline begin in myotonic dystrophy?",
+   "options": [
+    "In early childhood",
+    "After the 6th decade",
+    "After the 2nd decade",
+    "Only at death"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#25421e",
+   "kind": "mcq",
+   "stem": "In which decades does death usually occur in myotonic dystrophy?",
+   "options": [
+    "3rd - 4th decade",
+    "5th - 6th decade",
+    "8th - 9th decade",
+    "1st - 2nd decade"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#1eb8ec",
+   "kind": "mcq",
+   "stem": "What percentage of myotonic dystrophy patients have mitral valve prolapse?",
+   "options": [
+    "5%",
+    "50%",
+    "20%",
+    "75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#964ca3",
+   "kind": "mcq",
+   "stem": "After myotonic dystrophy surgery, which analgesia is ideally used?",
+   "options": [
+    "Oral paracetamol alone",
+    "No analgesia",
+    "Regional analgesia",
+    "Patient-controlled opioid only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#964ca3",
+   "kind": "statement",
+   "stem": "What level of care is advised after myotonic dystrophy surgery?",
+   "answer": "HDU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#fc602e",
+   "kind": "mcq",
+   "stem": "Which neurones degenerate in the spinal cord in motor neurone disease?",
+   "options": [
+    "Sensory neurones only",
+    "Upper and lower motor neurones",
+    "Autonomic neurones only",
+    "Neuromuscular junction only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#ea1f1e",
+   "kind": "statement",
+   "stem": "In motor neurone disease, until when is cognition usually normal?",
+   "answer": "Terminal respiratory failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#2be9f8",
+   "kind": "mcq",
+   "stem": "Where does weakness typically begin in motor neurone disease?",
+   "options": [
+    "Distal feet",
+    "Eye muscles",
+    "Proximal hand muscles",
+    "Diaphragm only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#db9701",
+   "kind": "statement",
+   "stem": "Which examination findings are described in motor neurone disease?",
+   "answer": "Wasting, fasciculation, weakness, respiratory failure, autonomic dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neuromuscular-diseases#a16c7b",
+   "kind": "mcq",
+   "stem": "After motor neurone disease surgery, what support may be needed?",
+   "options": [
+    "Dialysis support",
+    "Respiratory support",
+    "Routine day-case discharge",
+    "Blood transfusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,1503 @@
+{
+ "topic": "drugs/antidepressants",
+ "questions": [
+  {
+   "fact_id": "drugs/antidepressants#1527c4",
+   "kind": "mcq",
+   "stem": "How many main drug groups are used to treat depression?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#cffc99",
+   "kind": "statement",
+   "stem": "How do SSRIs act on serotonin at the synapse?",
+   "answer": "They selectively block neuronal reuptake of 5-HT, so synaptic serotonin increases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#51d156",
+   "kind": "mcq",
+   "stem": "Which antidepressant class is the most widely prescribed?",
+   "options": [
+    "Tricyclic antidepressants",
+    "SSRIs",
+    "MAOIs",
+    "Benzodiazepines"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#d68e21",
+   "kind": "mcq",
+   "stem": "Which antidepressant class is the drug of choice for mild to moderate depression?",
+   "options": [
+    "MAOIs",
+    "Tricyclic antidepressants",
+    "Benzodiazepines",
+    "SSRIs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#aa1a42",
+   "kind": "blank",
+   "stem": "SSRIs are first line for anxiety states, including panic disorder and ____.",
+   "answer": "obsessive-compulsive disorder",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#8e16a9",
+   "kind": "statement",
+   "stem": "Besides panic disorder and OCD, name three other conditions SSRIs treat.",
+   "answer": "Social phobia, post-traumatic stress disorder, eating disorders",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#146c7f",
+   "kind": "mcq",
+   "stem": "How do SSRIs compare with older antidepressants for efficacy and tolerability?",
+   "options": [
+    "Clearly more effective than older drugs",
+    "Not more effective, but better tolerated",
+    "More effective, but less tolerated",
+    "Less effective and less tolerated"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#38c87a",
+   "kind": "blank",
+   "stem": "Mania is an ____ contraindication to SSRIs.",
+   "answer": "Absolute",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#09ce1b",
+   "kind": "blank",
+   "stem": "SSRIs are a relative contraindication before surgery when ____ is deranged.",
+   "answer": "clotting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#f7d772",
+   "kind": "mcq",
+   "stem": "Which is a common adverse effect of SSRIs?",
+   "options": [
+    "Bradycardia",
+    "Hypotension",
+    "Insomnia",
+    "Hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#17422e",
+   "kind": "statement",
+   "stem": "Which gastrointestinal adverse effects do SSRIs cause?",
+   "answer": "Nausea, abdominal pain, diarrhoea, constipation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#d9363c",
+   "kind": "statement",
+   "stem": "Which autonomic adverse effects can SSRIs cause?",
+   "answer": "Agitation, tremor, insomnia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#ed3765",
+   "kind": "statement",
+   "stem": "Name the sexual dysfunctions SSRIs can cause in both sexes.",
+   "answer": "Delayed ejaculation, anorgasmia, low libido",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#4b4562",
+   "kind": "statement",
+   "stem": "How do SSRIs cause platelet dysfunction?",
+   "answer": "They block 5-HT uptake into platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#86cc7d",
+   "kind": "statement",
+   "stem": "What two risks do SSRIs carry in elderly patients?",
+   "answer": "Hyponatraemia, GI bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#56a5a7",
+   "kind": "statement",
+   "stem": "What is the controversial concern about SSRIs in children?",
+   "answer": "Possible increase in suicidality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#54fa3d",
+   "kind": "blank",
+   "stem": "The US FDA has had a black box warning on newer antidepressants since ____.",
+   "answer": "September 2004",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#a2e00e",
+   "kind": "blank",
+   "stem": "SSRIs' cytochrome P450 inhibition ____ warfarin.",
+   "answer": "potentiates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#486bf8",
+   "kind": "mcq",
+   "stem": "How serious can combining SSRIs with other serotonergic drugs be?",
+   "options": [
+    "Usually harmless",
+    "Mildly sedating",
+    "Potentially fatal",
+    "Only causes headache"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#72a0ec",
+   "kind": "mcq",
+   "stem": "Which drug combination is the commonest cause of serotonin syndrome?",
+   "options": [
+    "MAOI plus SSRI",
+    "Beta blocker plus diuretic",
+    "Benzodiazepine plus opioid",
+    "Statin plus fibrate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#9ce713",
+   "kind": "mcq",
+   "stem": "Which opioid, with weak serotonin reuptake inhibition, can trigger serotonin syndrome with SSRIs?",
+   "options": [
+    "Morphine",
+    "Pethidine",
+    "Codeine",
+    "Oxycodone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#6d85e2",
+   "kind": "blank",
+   "stem": "Fluoxetine with lithium or ____ can also trigger serotonin syndrome.",
+   "answer": "carbamazepine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#9f97d9",
+   "kind": "statement",
+   "stem": "Which six drugs make up the SSRI class in these notes?",
+   "answer": "Fluoxetine, paroxetine, sertraline, fluvoxamine, citalopram, escitalopram",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#a3d6dc",
+   "kind": "blank",
+   "stem": "Newer antidepressants act on both serotonin and ____ pathways.",
+   "answer": "noradrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#cc83a6",
+   "kind": "mcq",
+   "stem": "What is mirtazapine's mechanism among the newer antidepressants?",
+   "options": [
+    "Dual reuptake block",
+    "MAO-A inhibition",
+    "Sodium channel block",
+    "Alpha-2 receptor block"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#c4f36a",
+   "kind": "statement",
+   "stem": "Since all SSRIs work similarly well, what should guide the choice between them?",
+   "answer": "Side effects and half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#aa0180",
+   "kind": "statement",
+   "stem": "After one SSRI fails, what is usually best before changing drug class?",
+   "answer": "Trying several SSRIs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#bfeb79",
+   "kind": "statement",
+   "stem": "What can abruptly stopping a short half-life antidepressant such as paroxetine cause?",
+   "answer": "Dizziness, paraesthesia, myalgia, irritability, insomnia, visual disturbance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#f5b10d",
+   "kind": "statement",
+   "stem": "How should SSRIs be stopped, especially the short half-life ones?",
+   "answer": "Taper all of them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#441f6d",
+   "kind": "mcq",
+   "stem": "Which SSRI was the first to be approved in the US?",
+   "options": [
+    "Sertraline",
+    "Paroxetine",
+    "Citalopram",
+    "Fluoxetine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#5268d5",
+   "kind": "statement",
+   "stem": "How would you describe fluoxetine's sedating effect?",
+   "answer": "Minimally sedating",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#842bfa",
+   "kind": "statement",
+   "stem": "What is the isomer makeup of fluoxetine?",
+   "answer": "A 50:50 mix of two equally active isomers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#3a17bd",
+   "kind": "mcq",
+   "stem": "What is the usual oral starting dose of fluoxetine?",
+   "options": [
+    "40 mg daily",
+    "10 mg daily",
+    "50 mg daily",
+    "20 mg daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#ab6644",
+   "kind": "mcq",
+   "stem": "What is fluoxetine's therapeutic dose range?",
+   "options": [
+    "20-60 mg",
+    "50-200 mg",
+    "20-80 mg",
+    "10-40 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#681557",
+   "kind": "mcq",
+   "stem": "Given its long half-life, how often should fluoxetine doses usually be increased?",
+   "options": [
+    "Every 3 days",
+    "Every 1 week",
+    "No more often than every 4 weeks",
+    "Every 2 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#561171",
+   "kind": "statement",
+   "stem": "Given its long half-life, how else can fluoxetine be dosed besides daily?",
+   "answer": "Every other day",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#9c55e6",
+   "kind": "mcq",
+   "stem": "How does fluoxetine compare with other SSRIs for activation?",
+   "options": [
+    "Among the least activating",
+    "No different from other SSRIs",
+    "Among the most activating",
+    "Strongly sedating"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#364240",
+   "kind": "mcq",
+   "stem": "Which fluoxetine effect may aid weight loss?",
+   "options": [
+    "Appetite suppression",
+    "Appetite stimulation",
+    "Increased thirst",
+    "Fluid retention"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#76ae32",
+   "kind": "blank",
+   "stem": "Fluoxetine can cause sexual dysfunction, including low ____.",
+   "answer": "libido",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#d14320",
+   "kind": "mcq",
+   "stem": "Which SSRI is the most potent hepatic cytochrome P450 inhibitor?",
+   "options": [
+    "Sertraline",
+    "Paroxetine",
+    "Fluoxetine",
+    "Citalopram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#db44b3",
+   "kind": "mcq",
+   "stem": "Which SSRI is most used in children, with the best evidence?",
+   "options": [
+    "Citalopram",
+    "Fluoxetine",
+    "Sertraline",
+    "Paroxetine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#ef566a",
+   "kind": "statement",
+   "stem": "Like tricyclics, fluoxetine can be used for which type of pain?",
+   "answer": "Chronic pain, e.g. with rheumatoid arthritis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#8307bc",
+   "kind": "statement",
+   "stem": "How is fluoxetine metabolised?",
+   "answer": "Hepatically, by cytochrome P450",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#d02c31",
+   "kind": "statement",
+   "stem": "What dose change does fluoxetine need in renal failure?",
+   "answer": "Reduce the dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#2a2a80",
+   "kind": "mcq",
+   "stem": "What is fluoxetine's elimination half-life with chronic use?",
+   "options": [
+    "2 to 4 hours",
+    "10 to 12 hours",
+    "4 to 6 days",
+    "24 to 36 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#8b8004",
+   "kind": "mcq",
+   "stem": "What is the half-life of norfluoxetine, fluoxetine's active metabolite?",
+   "options": [
+    "1 to 3 days",
+    "10 to 12 hours",
+    "4 to 16 days",
+    "24 to 36 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#6bd195",
+   "kind": "mcq",
+   "stem": "How long should fluoxetine be stopped before starting an MAOI?",
+   "options": [
+    "About 1 day",
+    "About 1 week",
+    "About 5 weeks",
+    "About 3 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#c8db8f",
+   "kind": "statement",
+   "stem": "Does fluoxetine need a taper when stopped, and why?",
+   "answer": "No taper needed, as its long half-life prevents withdrawal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#8dda19",
+   "kind": "mcq",
+   "stem": "Which SSRI was the second to be approved in the US?",
+   "options": [
+    "Paroxetine",
+    "Fluoxetine",
+    "Sertraline",
+    "Citalopram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#2b8b77",
+   "kind": "mcq",
+   "stem": "What is sertraline's oral starting dose?",
+   "options": [
+    "10 mg daily",
+    "50 mg daily",
+    "100 mg daily",
+    "20 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#2b8b77",
+   "kind": "mcq",
+   "stem": "What is sertraline's therapeutic dose range?",
+   "options": [
+    "20-40 mg",
+    "100-300 mg",
+    "10-60 mg",
+    "50-200 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#1234ff",
+   "kind": "mcq",
+   "stem": "What is sertraline's elimination half-life?",
+   "options": [
+    "12 hours",
+    "5 hours",
+    "25 hours",
+    "48 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#7710a5",
+   "kind": "mcq",
+   "stem": "How long must sertraline be stopped before starting an MAOI?",
+   "options": [
+    "7 days",
+    "24 hours",
+    "3 days",
+    "14 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#81d39b",
+   "kind": "mcq",
+   "stem": "Compared with fluoxetine, how strongly does sertraline inhibit hepatic enzymes?",
+   "options": [
+    "Stronger",
+    "Identical",
+    "Not at all",
+    "Weaker"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#e514ad",
+   "kind": "mcq",
+   "stem": "Which SSRI is considered safest in pregnancy and breastfeeding?",
+   "options": [
+    "Paroxetine",
+    "Sertraline",
+    "Fluoxetine",
+    "Fluvoxamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#51ff5c",
+   "kind": "statement",
+   "stem": "Sertraline is activating; how do its insomnia and agitation compare with fluoxetine's?",
+   "answer": "Less insomnia and agitation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#79cbb6",
+   "kind": "mcq",
+   "stem": "Which SSRI was the third to be approved in the US?",
+   "options": [
+    "Citalopram",
+    "Fluvoxamine",
+    "Paroxetine",
+    "Sertraline"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#0077bf",
+   "kind": "mcq",
+   "stem": "What is paroxetine's oral starting dose?",
+   "options": [
+    "5 mg daily",
+    "10 mg daily",
+    "20 mg daily",
+    "50 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#0077bf",
+   "kind": "mcq",
+   "stem": "What is paroxetine's therapeutic dose range?",
+   "options": [
+    "20-80 mg",
+    "10-40 mg",
+    "20-60 mg",
+    "50-200 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#064727",
+   "kind": "mcq",
+   "stem": "What is paroxetine's half-life?",
+   "options": [
+    "1 to 3 days",
+    "12 hours",
+    "24 hours",
+    "4 to 6 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#5ba290",
+   "kind": "blank",
+   "stem": "Compared with fluoxetine, paroxetine causes ____ cytochrome P450 inhibition.",
+   "answer": "less",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#9db776",
+   "kind": "statement",
+   "stem": "How does paroxetine enhance the effect of warfarin?",
+   "answer": "By competing for protein binding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#7a291a",
+   "kind": "mcq",
+   "stem": "Which SSRI is one of the two most sedating and best taken at night?",
+   "options": [
+    "Sertraline",
+    "Citalopram",
+    "Fluoxetine",
+    "Paroxetine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#d6e659",
+   "kind": "statement",
+   "stem": "Paroxetine causes anticholinergic effects; name one example affecting the eyes.",
+   "answer": "Dry eyes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#078547",
+   "kind": "statement",
+   "stem": "Why should paroxetine be avoided in the first trimester of pregnancy?",
+   "answer": "Higher risk of congenital defects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#852bce",
+   "kind": "statement",
+   "stem": "Which SSRI has higher breast milk levels than fluoxetine or sertraline?",
+   "answer": "Paroxetine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#60757a",
+   "kind": "blank",
+   "stem": "Fluvoxamine is useful with coexisting ____.",
+   "answer": "insomnia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#b70cb3",
+   "kind": "blank",
+   "stem": "Fluvoxamine is effective for ____.",
+   "answer": "obsessive-compulsive disorder",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#69d2b9",
+   "kind": "mcq",
+   "stem": "What is fluvoxamine's usual oral starting dose?",
+   "options": [
+    "10-20 mg daily",
+    "50-100 mg daily",
+    "150-300 mg daily",
+    "200-400 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#69d2b9",
+   "kind": "mcq",
+   "stem": "What is fluvoxamine's therapeutic dose range?",
+   "options": [
+    "50-100 mg",
+    "20-40 mg",
+    "150-300 mg",
+    "400-600 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#475a5f",
+   "kind": "statement",
+   "stem": "Given its sedating effect, when is fluvoxamine best taken?",
+   "answer": "At night",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#0c7ed3",
+   "kind": "statement",
+   "stem": "Fluvoxamine may cause more of which adverse effects than other SSRIs?",
+   "answer": "Nausea and vomiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#f4fe53",
+   "kind": "statement",
+   "stem": "Does fluvoxamine's lower P450 inhibition make its interactions unimportant?",
+   "answer": "No, its interactions remain clinically important",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#d24059",
+   "kind": "mcq",
+   "stem": "Which SSRI was the fourth to be approved in the US?",
+   "options": [
+    "Fluvoxamine",
+    "Paroxetine",
+    "Citalopram",
+    "Escitalopram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#9d197a",
+   "kind": "mcq",
+   "stem": "What is citalopram's oral starting dose?",
+   "options": [
+    "10 mg daily",
+    "20 mg daily",
+    "50 mg daily",
+    "100 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#9d197a",
+   "kind": "mcq",
+   "stem": "What is citalopram's therapeutic dose range?",
+   "options": [
+    "20-40 mg",
+    "50-200 mg",
+    "10-20 mg",
+    "60-120 mg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#9a4e0a",
+   "kind": "mcq",
+   "stem": "Which dose-dependent cardiac risk is the main concern with citalopram?",
+   "options": [
+    "Hypotension from alpha-1 blockade",
+    "QT prolongation with torsades de pointes",
+    "Coronary artery vasospasm",
+    "Bradycardia with atrioventricular block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#a891e4",
+   "kind": "mcq",
+   "stem": "How is escitalopram chemically related to citalopram?",
+   "options": [
+    "The R-isomer of citalopram",
+    "The S-isomer of citalopram",
+    "A metabolite of venlafaxine",
+    "A tricyclic analogue of imipramine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#410d4b",
+   "kind": "mcq",
+   "stem": "What is the usual oral starting dose of escitalopram?",
+   "options": [
+    "40 mg daily",
+    "10 mg daily",
+    "50 mg daily",
+    "100 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#410d4b",
+   "kind": "mcq",
+   "stem": "What is the usual therapeutic daily dose range of escitalopram?",
+   "options": [
+    "1-5 mg",
+    "10-20 mg",
+    "50-100 mg",
+    "150-300 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#f295b8",
+   "kind": "mcq",
+   "stem": "Why does escitalopram cause fewer drug interactions?",
+   "options": [
+    "Greater P450 induction",
+    "Higher protein binding",
+    "Less P450 inhibition",
+    "Renal rather than hepatic clearance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#3a1463",
+   "kind": "statement",
+   "stem": "What dose-dependent cardiac effect does escitalopram have?",
+   "answer": "QTc prolongation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#e59cd4",
+   "kind": "mcq",
+   "stem": "What does the antidepressant class abbreviation SNRI stand for?",
+   "options": [
+    "Selective noradrenaline reuptake inhibitor",
+    "Serotonin-noradrenaline reuptake inhibitors",
+    "Serotonin-dopamine receptor inhibitor",
+    "Single neurotransmitter release inhibitor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#643e0b",
+   "kind": "mcq",
+   "stem": "What is the main mechanism of SNRIs such as venlafaxine?",
+   "options": [
+    "Block reuptake of dopamine and serotonin",
+    "Inhibit monoamine oxidase A and B",
+    "Block reuptake of noradrenaline and serotonin",
+    "Block histamine H1 receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#6d457c",
+   "kind": "mcq",
+   "stem": "How does the side effect profile of SNRIs compare with TCAs?",
+   "options": [
+    "Generally worse than TCAs",
+    "Generally better than TCAs",
+    "Identical to TCAs",
+    "Much more anticholinergic than TCAs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#207488",
+   "kind": "statement",
+   "stem": "Name the three indications of duloxetine.",
+   "answer": "Major depression, fibromyalgia, diabetic neuropathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#c61fab",
+   "kind": "mcq",
+   "stem": "What is the usual starting oral dose of duloxetine?",
+   "options": [
+    "60 mg once daily",
+    "30 mg once daily",
+    "90 mg once daily",
+    "150 mg once daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#64a0a0",
+   "kind": "mcq",
+   "stem": "In which patients should duloxetine be avoided?",
+   "options": [
+    "Mild asthma and hypothyroidism",
+    "Controlled type 2 diabetes",
+    "Severe renal impairment and chronic liver disease",
+    "Chronic obstructive pulmonary disease alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#184a19",
+   "kind": "mcq",
+   "stem": "Can duloxetine be given together with an MAO inhibitor?",
+   "options": [
+    "Yes, with dose reduction",
+    "Yes, if given at night",
+    "Yes, after a 24-hour gap",
+    "No, do not combine them"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#b18e42",
+   "kind": "statement",
+   "stem": "How many anticholinergic effects does duloxetine typically cause?",
+   "answer": "Few",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#b86ad4",
+   "kind": "statement",
+   "stem": "Name four common adverse effects of duloxetine.",
+   "answer": "Nausea, dry mouth, insomnia, sexual dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#44efba",
+   "kind": "mcq",
+   "stem": "Does duloxetine cause significant blood pressure changes?",
+   "options": [
+    "Marked hypertension",
+    "Severe postural hypotension",
+    "Significant diastolic rise in most",
+    "No significant blood pressure change"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#73c9d4",
+   "kind": "mcq",
+   "stem": "Which serious interaction is possible when duloxetine is combined with other serotonergic drugs?",
+   "options": [
+    "Neuroleptic malignant syndrome",
+    "Serotonin syndrome",
+    "Malignant hyperthermia",
+    "Digoxin toxicity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#dba80b",
+   "kind": "mcq",
+   "stem": "Duloxetine is a moderate inhibitor of which enzyme?",
+   "options": [
+    "CYP2D6",
+    "CYP3A4",
+    "CYP1A2",
+    "CYP2C19"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#e98b9f",
+   "kind": "mcq",
+   "stem": "In which year was venlafaxine introduced as the first SNRI?",
+   "options": [
+    "1973",
+    "1983",
+    "1993",
+    "2003"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#76d193",
+   "kind": "statement",
+   "stem": "Which receptors does venlafaxine have little action at?",
+   "answer": "Muscarinic, histamine or alpha receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#df18e5",
+   "kind": "mcq",
+   "stem": "Like TCAs, what CNS neurotransmitter can venlafaxine potentiate?",
+   "options": [
+    "Acetylcholine",
+    "GABA",
+    "Dopamine",
+    "Histamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#fc2bb1",
+   "kind": "mcq",
+   "stem": "How does venlafaxine's efficacy compare with TCAs?",
+   "options": [
+    "Superior efficacy, worse tolerability",
+    "Similar efficacy with better tolerability",
+    "Similar efficacy with worse tolerability",
+    "Lower efficacy, similar tolerability"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#81bb46",
+   "kind": "mcq",
+   "stem": "What is the usual oral starting dose range of venlafaxine per day?",
+   "options": [
+    "37.5-75 mg/day",
+    "150-225 mg/day",
+    "5-10 mg/day",
+    "300-450 mg/day"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#81bb46",
+   "kind": "mcq",
+   "stem": "What is the usual therapeutic daily dose range of venlafaxine?",
+   "options": [
+    "5-20 mg/day",
+    "75-225 mg/day",
+    "300-450 mg/day",
+    "600-900 mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#ce6965",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of venlafaxine itself?",
+   "options": [
+    "1 hour",
+    "5 hours",
+    "3 hours",
+    "24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#eee3f2",
+   "kind": "mcq",
+   "stem": "How long a washout is needed between venlafaxine and an MAOI?",
+   "options": [
+    "48 hours",
+    "7 days",
+    "14 days",
+    "3 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#971da7",
+   "kind": "statement",
+   "stem": "What overdose effects can venlafaxine share with TCAs?",
+   "answer": "Proconvulsant and cardiac effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#21169f",
+   "kind": "statement",
+   "stem": "Name two adverse effects venlafaxine lacks compared with TCAs.",
+   "answer": "Anticholinergic effects and postural hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#49cc74",
+   "kind": "mcq",
+   "stem": "With high-dose venlafaxine, in what share of patients does diastolic BP rise?",
+   "options": [
+    "15% to 20%",
+    "5% to 7%",
+    "25% to 30%",
+    "40% to 45%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#83ff48",
+   "kind": "statement",
+   "stem": "How does venlafaxine affect the P450 enzyme system?",
+   "answer": "Metabolised by P450 and weakly inhibits it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#ff45a0",
+   "kind": "mcq",
+   "stem": "What does the drug class SARI, which includes trazodone, stand for?",
+   "options": [
+    "Serotonin antagonist and reuptake inhibitor",
+    "Selective noradrenaline reuptake inhibitor",
+    "Serotonin agonist and receptor inhibitor",
+    "Serotonin-noradrenaline reuptake inhibitor"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#d4e098",
+   "kind": "mcq",
+   "stem": "What may the active metabolite of trazodone act as?",
+   "options": [
+    "A dopamine antagonist",
+    "A serotonin agonist",
+    "A muscarinic antagonist",
+    "A noradrenaline reuptake blocker"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#7f93f8",
+   "kind": "mcq",
+   "stem": "For which problem is trazodone perhaps most useful?",
+   "options": [
+    "Erectile dysfunction from SSRIs",
+    "Insomnia caused by SSRIs or bupropion",
+    "Weight loss in anorexia nervosa",
+    "Nausea from opioid analgesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#b3e45b",
+   "kind": "mcq",
+   "stem": "What is the half-life of trazodone?",
+   "options": [
+    "3 to 9 hours",
+    "1 to 2 hours",
+    "11 to 13 days",
+    "24 to 36 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#5b0c84",
+   "kind": "mcq",
+   "stem": "What male-specific serious adverse effect is trazodone associated with?",
+   "options": [
+    "Gynaecomastia",
+    "Testicular atrophy",
+    "Priapism",
+    "Retrograde ejaculation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#f489de",
+   "kind": "statement",
+   "stem": "Does trazodone affect cardiac conduction?",
+   "answer": "No effect on conduction, but rare arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#4351f8",
+   "kind": "mcq",
+   "stem": "How is trazodone's overdose toxicity compared with TCAs and MAOIs?",
+   "options": [
+    "More toxic",
+    "Equally toxic",
+    "Less toxic",
+    "Much more toxic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#65fa87",
+   "kind": "mcq",
+   "stem": "What is the advice about giving trazodone together with an MAOI?",
+   "options": [
+    "Give the MAOI at night",
+    "Give at double the usual dose",
+    "Avoid combining with an MAOI",
+    "Combine freely with benzodiazepines"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#b380a0",
+   "kind": "mcq",
+   "stem": "What does the antidepressant class abbreviation NaSSA stand for?",
+   "options": [
+    "Noradrenaline selective serotonin antagonist",
+    "Noradrenergic and specific serotonergic antidepressant",
+    "Non-sedating serotonin antidepressant agent",
+    "Neurotransmitter selective serotonin inhibitor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#818784",
+   "kind": "mcq",
+   "stem": "Regarding sodium levels, what advantage does mirtazapine have?",
+   "options": [
+    "More hyponatraemia",
+    "Less hyponatraemia",
+    "Hypercalcaemia from parathyroid effects",
+    "Hypokalaemic alkalosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#fc47cb",
+   "kind": "mcq",
+   "stem": "What property makes mirtazapine useful when insomnia is present?",
+   "options": [
+    "Stimulating and energising",
+    "Sedating",
+    "Strongly anticholinergic",
+    "Causes marked hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#b8d95a",
+   "kind": "mcq",
+   "stem": "In which patients is mirtazapine's weight gain useful?",
+   "options": [
+    "Patients with obesity",
+    "Patients with poor appetite",
+    "Patients with high appetite",
+    "Patients with diabetes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#c696a6",
+   "kind": "mcq",
+   "stem": "Bupropion is structurally related to which drug?",
+   "options": [
+    "Methylphenidate",
+    "Fluoxetine",
+    "Amphetamine",
+    "Imipramine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#670403",
+   "kind": "mcq",
+   "stem": "Which monoamines does bupropion probably block reuptake of?",
+   "options": [
+    "Serotonin and noradrenaline",
+    "Dopamine and serotonin",
+    "Dopamine and noradrenaline",
+    "Acetylcholine and histamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#0874f5",
+   "kind": "mcq",
+   "stem": "How soon does bupropion usually improve major depression?",
+   "options": [
+    "2 to 4 days",
+    "2 to 4 weeks",
+    "3 to 6 months",
+    "24 to 48 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#ca5583",
+   "kind": "mcq",
+   "stem": "What is the usual oral starting dose of bupropion?",
+   "options": [
+    "25 mg daily",
+    "100 mg daily",
+    "450 mg daily",
+    "600 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#ca5583",
+   "kind": "mcq",
+   "stem": "What is the usual therapeutic daily dose range of bupropion?",
+   "options": [
+    "100-150 mg daily",
+    "300-450 mg daily",
+    "50-75 mg daily",
+    "600-900 mg daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#54970a",
+   "kind": "mcq",
+   "stem": "How does bupropion affect sexual dysfunction?",
+   "options": [
+    "More sexual dysfunction",
+    "Sexual dysfunction only at high doses",
+    "Less sexual dysfunction",
+    "Sexual dysfunction in every patient"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#a8be44",
+   "kind": "mcq",
+   "stem": "What is the approximate seizure risk with bupropion?",
+   "options": [
+    "About 0.04%",
+    "About 0.4%",
+    "About 4%",
+    "About 40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#b36619",
+   "kind": "mcq",
+   "stem": "What early effect may some patients notice on bupropion?",
+   "options": [
+    "Marked sedation",
+    "Early postural hypotension",
+    "Stimulant-like effects",
+    "Anticholinergic delirium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#102301",
+   "kind": "mcq",
+   "stem": "What serious effects are reported when bupropion is combined with an MAOI?",
+   "options": [
+    "Bradycardia and heart block",
+    "Hypoglycaemia and coma",
+    "Hypertension and serotonin syndrome",
+    "Hypothermia and seizures"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antidepressants#9c7681",
+   "kind": "statement",
+   "stem": "Which effects does bupropion lack, as SSRIs do?",
+   "answer": "Anticholinergic effects, postural hypotension, significant conduction effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

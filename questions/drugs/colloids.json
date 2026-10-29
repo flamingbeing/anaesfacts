@@ -1,0 +1,879 @@
+{
+ "topic": "drugs/colloids",
+ "questions": [
+  {
+   "fact_id": "drugs/colloids#ac51fd",
+   "kind": "mcq",
+   "stem": "In chemistry, what defines a colloid?",
+   "options": [
+    "A pure substance with one fixed melting point",
+    "A suspension of small particles in a continuous fluid phase",
+    "A crystalline salt dissolved fully in water",
+    "A gas dispersed evenly through a solid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#85c20d",
+   "kind": "mcq",
+   "stem": "In anaesthesia, what defines a colloid solution?",
+   "options": [
+    "Small electrolyte ions that rapidly leave the plasma",
+    "Solute molecules that freely cross into interstitial fluid",
+    "Large solute molecules that stay largely in plasma",
+    "A blood product used only for red cell loss"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#81d668",
+   "kind": "mcq",
+   "stem": "What is the average capillary pressure (Pc) when a patient is supine?",
+   "options": [
+    "About 5 mm Hg",
+    "About 12 mm Hg",
+    "About 20 mm Hg",
+    "About 40 mm Hg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#81d668",
+   "kind": "mcq",
+   "stem": "When supine, what is capillary pressure at the arterial end?",
+   "options": [
+    "About 5 mm Hg",
+    "About 45 mm Hg",
+    "About 60 mm Hg",
+    "About 30 mm Hg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#49150c",
+   "kind": "mcq",
+   "stem": "What is normal plasma colloid osmotic pressure (COP) in mm Hg?",
+   "options": [
+    "About 8 mm Hg",
+    "About 18 mm Hg",
+    "About 28 mm Hg",
+    "About 48 mm Hg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#381b76",
+   "kind": "mcq",
+   "stem": "What share of plasma colloid osmotic pressure comes from albumin?",
+   "options": [
+    "About 40%",
+    "About 60%",
+    "About 80%",
+    "About 95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#aea063",
+   "kind": "blank",
+   "stem": "Crystalloids ____ plasma colloid osmotic pressure, so they leave the circulation.",
+   "answer": "dilute",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#d78833",
+   "kind": "mcq",
+   "stem": "What does an iso-oncotic colloid do to plasma COP?",
+   "options": [
+    "Lowers it below normal",
+    "Keeps it normal",
+    "Raises it well above normal",
+    "Removes it completely"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#63ef90",
+   "kind": "mcq",
+   "stem": "In colloid solutions, what COP range is similar to plasma?",
+   "options": [
+    "5–10 mm Hg",
+    "20–30 mm Hg",
+    "50–60 mm Hg",
+    "70–80 mm Hg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#47e7cf",
+   "kind": "statement",
+   "stem": "What do hyperoncotic colloids do to interstitial fluid?",
+   "answer": "Draw it into the circulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#2cee59",
+   "kind": "mcq",
+   "stem": "In colloid volume effects, plasma volume rises by roughly what share of the volume infused?",
+   "options": [
+    "10–20%",
+    "70–130%",
+    "200–250%",
+    "300–400%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#e37324",
+   "kind": "mcq",
+   "stem": "Which colloid gives the greatest plasma volume rise per volume infused?",
+   "options": [
+    "6% hydroxyethyl starch",
+    "Dextran 40",
+    "25% albumin",
+    "Gelofusin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#628fa7",
+   "kind": "mcq",
+   "stem": "Volume for volume, how effective are colloids compared with crystalloids at expanding plasma volume?",
+   "options": [
+    "About the same",
+    "Half as effective",
+    "At least three times as effective",
+    "Exactly twice as effective"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#ba92e2",
+   "kind": "mcq",
+   "stem": "Colloid is used to replace blood loss in what volume ratio?",
+   "options": [
+    "Three ml for each ml lost",
+    "Half the volume lost",
+    "ml for ml",
+    "Twice the volume lost"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#c780a7",
+   "kind": "statement",
+   "stem": "Colloids are not indicated for most other losses; what is the exception?",
+   "answer": "Acute restoration of intravascular volume (resuscitation)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#7438aa",
+   "kind": "mcq",
+   "stem": "What proportion of colloid anaphylactoid reactions are severe?",
+   "options": [
+    "5%",
+    "20%",
+    "50%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#37f779",
+   "kind": "statement",
+   "stem": "In crystalloid resuscitation, how much crystalloid is needed relative to colloid?",
+   "answer": "At least 3 times the colloid volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#85b190",
+   "kind": "statement",
+   "stem": "Which colloid suits life-threatening haemorrhage needing a fast rise in plasma volume?",
+   "answer": "Iso-oncotic colloid, e.g. 5% albumin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#eb58a0",
+   "kind": "mcq",
+   "stem": "Which colloid suits hypovolaemia driven by hypoalbuminaemia?",
+   "options": [
+    "Iso-oncotic colloid, e.g. 5% albumin",
+    "Crystalloid such as 0.9% saline",
+    "Hyperoncotic colloid, e.g. 25% albumin",
+    "Iso-oncotic colloid, e.g. 6% starch"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#e3c48c",
+   "kind": "mcq",
+   "stem": "Human albumin solution (HAS) is what kind of product?",
+   "options": [
+    "A synthetic starch polymer",
+    "A bovine collagen derivative",
+    "A bacterial glucose polymer",
+    "A blood product"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#0d7e76",
+   "kind": "mcq",
+   "stem": "Which albumin solution strength contains 250 g/L?",
+   "options": [
+    "10%",
+    "25%",
+    "40%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#0d7e76",
+   "kind": "mcq",
+   "stem": "What diluent is albumin solution supplied in?",
+   "options": [
+    "Sterile water",
+    "0.9% NaCl",
+    "Hartmann's solution",
+    "5% glucose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#9c2183",
+   "kind": "mcq",
+   "stem": "What aliquot size is albumin usually given in?",
+   "options": [
+    "125 mL",
+    "250 mL",
+    "750 mL",
+    "1000 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#96f6b8",
+   "kind": "mcq",
+   "stem": "For iso-oncotic albumin, plasma volume rises by about what share of the volume infused?",
+   "options": [
+    "About 30%",
+    "About 100%",
+    "About 200%",
+    "About 300%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#96f6b8",
+   "kind": "mcq",
+   "stem": "What colloid osmotic pressure does iso-oncotic albumin have?",
+   "options": [
+    "8 mm Hg",
+    "20 mm Hg",
+    "70 mm Hg",
+    "100 mm Hg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#1f5c84",
+   "kind": "mcq",
+   "stem": "After albumin infusion, at about what time does the volume effect start to wane?",
+   "options": [
+    "1 hour",
+    "6 hours",
+    "24 hours",
+    "3 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#facc05",
+   "kind": "statement",
+   "stem": "Albumin is considered safe for resuscitation, except possibly in which condition?",
+   "answer": "Traumatic head injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#30c298",
+   "kind": "statement",
+   "stem": "Albumin is a human blood product; what risk cannot be fully excluded?",
+   "answer": "Infection transmission (e.g. prions)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#e859e9",
+   "kind": "mcq",
+   "stem": "What colloid osmotic pressure does hyperoncotic albumin have?",
+   "options": [
+    "20 mm Hg",
+    "45 mm Hg",
+    "70 mm Hg",
+    "110 mm Hg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#6d96c2",
+   "kind": "mcq",
+   "stem": "With hyperoncotic albumin, what happens to interstitial volume as plasma volume rises?",
+   "options": [
+    "It rises too",
+    "It falls",
+    "It stays unchanged",
+    "It doubles"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#c710d4",
+   "kind": "statement",
+   "stem": "What are hydroxyethyl starch (HES) molecules chemically?",
+   "answer": "Long branched glucose polymers with hydroxyl (OH) substitutions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#71733f",
+   "kind": "mcq",
+   "stem": "What is hydroxyethyl starch made from?",
+   "options": [
+    "Hydrolysed potato",
+    "Bovine collagen",
+    "Hydrolysed maize",
+    "Sucrose fermented by bacteria"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#7f2f84",
+   "kind": "statement",
+   "stem": "How is hydroxyethyl starch cleared from the blood?",
+   "answer": "Amylase hydrolysis until fragments are small enough for renal excretion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#6cc228",
+   "kind": "mcq",
+   "stem": "What is the molecular weight of high-MW hydroxyethyl starch?",
+   "options": [
+    "70 kilodaltons",
+    "200 kilodaltons",
+    "450 kilodaltons",
+    "600 kilodaltons"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#ffdba2",
+   "kind": "mcq",
+   "stem": "At what molecular size are HES fragments cleared by the kidney?",
+   "options": [
+    "5 kD",
+    "50 kD",
+    "120 kD",
+    "300 kD"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#6ecc34",
+   "kind": "mcq",
+   "stem": "What range does the molar substitution ratio of hydroxyethyl starch span?",
+   "options": [
+    "One to two",
+    "Zero to two",
+    "One to ten",
+    "Zero to one"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#c7ee73",
+   "kind": "mcq",
+   "stem": "What three properties describe a hydroxyethyl starch preparation?",
+   "options": [
+    "Concentration, molecular weight and substitution ratio",
+    "Concentration, pH and osmolarity",
+    "Molecular weight and sodium content",
+    "Glucose content and viscosity"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#d796c3",
+   "kind": "mcq",
+   "stem": "What concentration are most hydroxyethyl starch solutions?",
+   "options": [
+    "3%",
+    "6%",
+    "10%",
+    "12%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#0784a1",
+   "kind": "mcq",
+   "stem": "What molar substitution ratio does pentastarch have?",
+   "options": [
+    "0.2",
+    "0.5",
+    "0.7",
+    "0.9"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#1878a6",
+   "kind": "mcq",
+   "stem": "Which starch-based colloid is most used in the United States?",
+   "options": [
+    "Tetrastarch",
+    "Pentastarch",
+    "Hetastarch",
+    "Dextran 40"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#a687fc",
+   "kind": "mcq",
+   "stem": "What is the trade name of tetrastarch?",
+   "options": [
+    "Gelofusin",
+    "Hespan",
+    "Voluven",
+    "Dextran 70"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#44fa0b",
+   "kind": "mcq",
+   "stem": "How does hydroxyethyl starch's anaphylactoid reaction risk compare with albumin?",
+   "options": [
+    "Higher than albumin",
+    "Lower than albumin",
+    "Same as albumin",
+    "Higher than gelatins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#aab458",
+   "kind": "mcq",
+   "stem": "Compared with 5% albumin, what is higher for 6% HES?",
+   "options": [
+    "Oncotic pressure",
+    "Anaphylactoid reaction rate",
+    "Infection transmission risk",
+    "Cost per litre"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#9e1895",
+   "kind": "mcq",
+   "stem": "How long can the volume effect of high-MW hetastarch last?",
+   "options": [
+    "Up to 1 hour",
+    "Up to 3 days",
+    "Up to 24 hours",
+    "Up to 72 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#60a933",
+   "kind": "mcq",
+   "stem": "For low-MW hydroxyethyl starch, how soon does the effect start to fade?",
+   "options": [
+    "Within one hour",
+    "Within one day",
+    "Within one week",
+    "After about 12 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#1e007d",
+   "kind": "mcq",
+   "stem": "How common is itch with hydroxyethyl starch?",
+   "options": [
+    "Up to 3%",
+    "Up to 13%",
+    "Up to 30%",
+    "Up to 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#519214",
+   "kind": "statement",
+   "stem": "With tetrastarch, when is coagulopathy clinically significant?",
+   "answer": "Only with large volumes (e.g. >50 mL/kg)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#ed42ec",
+   "kind": "mcq",
+   "stem": "In hydroxyethyl starch, what colloid osmotic pressure is given for tetrastarch?",
+   "options": [
+    "28 mm Hg",
+    "30 mm Hg",
+    "36 mm Hg",
+    "50 mm Hg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#8c3173",
+   "kind": "mcq",
+   "stem": "With hydroxyethyl starch, serum amylase may rise to what multiple of normal?",
+   "options": [
+    "Half of normal",
+    "2–3 times normal",
+    "10–20 times normal",
+    "Unchanged from normal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#8c3173",
+   "kind": "mcq",
+   "stem": "How long does raised serum amylase take to settle after stopping HES?",
+   "options": [
+    "Within one day",
+    "Within one week",
+    "Within one month",
+    "Within six months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#0eac70",
+   "kind": "mcq",
+   "stem": "Dextrans are glucose polymers made by which bacterium?",
+   "options": [
+    "Staphylococcus aureus",
+    "Leuconostoc",
+    "Clostridium botulinum",
+    "Lactobacillus acidophilus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#6e7eea",
+   "kind": "mcq",
+   "stem": "In which decade were dextrans introduced?",
+   "options": [
+    "1920s",
+    "1940s",
+    "1960s",
+    "1980s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#c4f16b",
+   "kind": "mcq",
+   "stem": "What concentration is the common dextran-70 preparation?",
+   "options": [
+    "3%",
+    "6%",
+    "10%",
+    "25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#2749a8",
+   "kind": "mcq",
+   "stem": "What is the mean molecular weight of dextran 70?",
+   "options": [
+    "20000",
+    "40000",
+    "70000",
+    "450000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#7560fe",
+   "kind": "mcq",
+   "stem": "What is the mean molecular weight of dextran 40?",
+   "options": [
+    "15000",
+    "40000",
+    "70000",
+    "450000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#e6356f",
+   "kind": "mcq",
+   "stem": "What colloid osmotic pressure do both common dextrans have?",
+   "options": [
+    "20 mm Hg",
+    "28 mm Hg",
+    "40 mm Hg",
+    "70 mm Hg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#7f2a7d",
+   "kind": "mcq",
+   "stem": "How does dextran's plasma volume rise compare with 5% albumin or 6% hetastarch?",
+   "options": [
+    "Greater",
+    "Smaller",
+    "The same",
+    "Unpredictable"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#6a57c0",
+   "kind": "mcq",
+   "stem": "Which dextran is preferred because it lasts 12 hours?",
+   "options": [
+    "Dextran-40",
+    "Dextran-70",
+    "Hetastarch",
+    "Gelofusin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#ecb83a",
+   "kind": "mcq",
+   "stem": "What daily dextran dose limit minimises coagulopathy?",
+   "options": [
+    "5 mL/kg or less",
+    "20 mL/kg or less",
+    "50 mL/kg or more",
+    "100 mL/kg or less"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#3b9d64",
+   "kind": "mcq",
+   "stem": "What is the anaphylactoid reaction risk level for dextrans?",
+   "options": [
+    "Very low",
+    "Intermediate",
+    "Very high",
+    "Almost none"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#cbd6d0",
+   "kind": "statement",
+   "stem": "How are large dextran molecules removed from the body?",
+   "answer": "Broken down by tissue dextran-1,6-glucosidase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#f9944c",
+   "kind": "statement",
+   "stem": "What do dextrans do to red cells that complicates crossmatching?",
+   "answer": "Coat red cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#f59eea",
+   "kind": "mcq",
+   "stem": "What do dextrans do to the erythrocyte sedimentation rate?",
+   "options": [
+    "Lower it",
+    "Raise it",
+    "No effect on it",
+    "Halve it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#229b95",
+   "kind": "mcq",
+   "stem": "What is the source of gelatin colloids?",
+   "options": [
+    "Human plasma",
+    "Hydrolysed maize",
+    "Bovine collagen",
+    "Hydrolysed potato"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#ef8a68",
+   "kind": "mcq",
+   "stem": "What is Gelofusin?",
+   "options": [
+    "6% hydroxyethyl starch",
+    "10% dextran-40",
+    "4% succinylated gelatin",
+    "5% human albumin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#9efbf5",
+   "kind": "mcq",
+   "stem": "What share of an infused gelatin volume is initially intravascular?",
+   "options": [
+    "10%",
+    "50%",
+    "80%",
+    "100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#73fa0a",
+   "kind": "mcq",
+   "stem": "What share of gelatin is still intravascular 90 minutes after giving?",
+   "options": [
+    "5%",
+    "20%",
+    "50%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/colloids#1658f5",
+   "kind": "statement",
+   "stem": "What term describes colloid solutions with differing electrolyte make-ups?",
+   "answer": "Balanced colloids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

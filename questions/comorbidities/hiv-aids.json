@@ -1,0 +1,807 @@
+{
+ "topic": "comorbidities/hiv-aids",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hiv-aids#92d66f",
+   "kind": "mcq",
+   "stem": "What proportion of people with HIV have surgery at some point?",
+   "options": [
+    "About 5%",
+    "About 20%",
+    "About 50%",
+    "About 75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#964930",
+   "kind": "mcq",
+   "stem": "Is HIV infection alone a reason to avoid surgery?",
+   "options": [
+    "Yes, always delay until viral suppression",
+    "Yes, it raises death risk up to 30 days",
+    "No; no extra death or complications up to 30 days",
+    "Only if CD4 count is above 500"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#145f82",
+   "kind": "statement",
+   "stem": "In HIV surgery, which three sources can cause multisystem effects?",
+   "answer": "Complications, opportunistic infections and ART.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#7ba308",
+   "kind": "mcq",
+   "stem": "What should be done with antiretroviral therapy during surgical care in HIV?",
+   "options": [
+    "Stop it 48 hours before surgery",
+    "Continue it",
+    "Halve the dose before surgery",
+    "Switch to intravenous drugs only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#7ba308",
+   "kind": "statement",
+   "stem": "Which organ system's drug interactions with antiretrovirals need particular care in HIV surgery?",
+   "answer": "Hepatic (liver)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#83a570",
+   "kind": "blank",
+   "stem": "In HIV surgery, the key technique choice is general anaesthesia versus ____.",
+   "answer": "regional",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#fc3d98",
+   "kind": "statement",
+   "stem": "Which two comorbidities are highlighted in HIV surgical care?",
+   "answer": "IV drug use and hepatitis B",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#19be21",
+   "kind": "mcq",
+   "stem": "Which specialist should be involved in preoperative assessment of HIV?",
+   "options": [
+    "Dermatologist",
+    "Nephrologist",
+    "Infectious disease specialist",
+    "Cardiothoracic surgeon"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#da5e04",
+   "kind": "mcq",
+   "stem": "Which problem dominates preoperative risk in HIV, especially when CD4 is below 200?",
+   "options": [
+    "Drug-induced hepatitis",
+    "Iron deficiency anaemia",
+    "Valvular heart disease",
+    "Opportunistic infection"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#da5e04",
+   "kind": "statement",
+   "stem": "In HIV, why should suspected opportunistic infections be diagnosed before surgery?",
+   "answer": "Some are treatable.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#22755d",
+   "kind": "mcq",
+   "stem": "Which opportunistic infection is the commonest in people with HIV?",
+   "options": [
+    "Cytomegalovirus colitis",
+    "Pneumocystis pneumonia (PCP)",
+    "Cryptococcal meningitis",
+    "Toxoplasma encephalitis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#a67057",
+   "kind": "statement",
+   "stem": "Besides Pneumocystis, which chest conditions should be considered in HIV?",
+   "answer": "Tuberculosis, bacterial pneumonia and cavitating disease (e.g. nocardiosis)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#6adcfb",
+   "kind": "statement",
+   "stem": "Which two malignancies in HIV can involve the lungs, airway or mediastinum?",
+   "answer": "Kaposi sarcoma and lymphoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#807135",
+   "kind": "mcq",
+   "stem": "Which test in HIV lung assessment looks for airspace shadowing?",
+   "options": [
+    "Spirometry",
+    "Arterial blood gas",
+    "Chest X-ray",
+    "Echocardiogram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#868814",
+   "kind": "statement",
+   "stem": "In HIV, what should be considered if general anaesthesia is planned?",
+   "answer": "Availability of postoperative ventilation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#a1e171",
+   "kind": "mcq",
+   "stem": "In long-standing HIV, what is the maximum proportion progressing to dilated cardiomyopathy?",
+   "options": [
+    "About 10%",
+    "About 50%",
+    "Up to 30%",
+    "About 70%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#a1e171",
+   "kind": "statement",
+   "stem": "What cardiac condition does long-standing HIV infection often cause?",
+   "answer": "Myocarditis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#bc2b22",
+   "kind": "statement",
+   "stem": "Which two cardiac problems can opportunistic bacteria cause in HIV?",
+   "answer": "Endocarditis or heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#ccab57",
+   "kind": "blank",
+   "stem": "In HIV cardiac assessment, an ECG and possibly an ____ should be done.",
+   "answer": "echocardiogram",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#ccab57",
+   "kind": "statement",
+   "stem": "Why might HIV-related cardiac dysfunction be missed on clinical examination?",
+   "answer": "It may be clinically silent.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#f1eb64",
+   "kind": "mcq",
+   "stem": "What proportion of people with HIV develop neurological complications?",
+   "options": [
+    "About 10%",
+    "About 40%",
+    "About 60%",
+    "About 90%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#0eaaa2",
+   "kind": "mcq",
+   "stem": "Which early neurological complication of HIV is fairly common?",
+   "options": [
+    "Subacute combined degeneration",
+    "Hemiplegic stroke",
+    "Peripheral neuropathy",
+    "Myasthenia gravis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#307565",
+   "kind": "statement",
+   "stem": "Which late neurological complications of HIV are described?",
+   "answer": "Central demyelination with dementia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#b82e5d",
+   "kind": "statement",
+   "stem": "Which opportunistic CNS infections can occur in HIV?",
+   "answer": "Encephalitis or meningitis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#9405f2",
+   "kind": "statement",
+   "stem": "Which gastrointestinal symptoms can HIV disease or its treatment cause?",
+   "answer": "Diarrhoea, vomiting and anorexia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#fe0e2b",
+   "kind": "mcq",
+   "stem": "Which infection makes eating and swallowing painful in HIV?",
+   "options": [
+    "Toxoplasmosis",
+    "Oral candida",
+    "Herpes zoster",
+    "Cryptococcal meningitis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#fe0e2b",
+   "kind": "statement",
+   "stem": "Name two infections that cause severe diarrhoea in HIV.",
+   "answer": "CMV and cryptosporidium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#4da54d",
+   "kind": "statement",
+   "stem": "Which imbalance is common in HIV because of diarrhoea, vomiting and poor intake?",
+   "answer": "Fluid and electrolyte imbalance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#ecb670",
+   "kind": "mcq",
+   "stem": "Which antiretroviral is especially linked to raised liver enzymes?",
+   "options": [
+    "Abacavir",
+    "Lamivudine",
+    "Nevirapine",
+    "Zidovudine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#ddfbb6",
+   "kind": "statement",
+   "stem": "What is the usual cause of acute kidney injury in HIV?",
+   "answer": "Drug-induced",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#415406",
+   "kind": "statement",
+   "stem": "Which kidney condition in HIV can lead to end-stage disease?",
+   "answer": "HIV-associated nephropathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#9dec51",
+   "kind": "statement",
+   "stem": "Which two renal tests should be checked before surgery in HIV?",
+   "answer": "Creatinine and eGFR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#aa2188",
+   "kind": "mcq",
+   "stem": "What adrenal problem is typical in advanced HIV?",
+   "options": [
+    "Phaeochromocytoma",
+    "Primary hyperaldosteronism",
+    "Adrenal insufficiency",
+    "Conn syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#aa2188",
+   "kind": "statement",
+   "stem": "How common is frank adrenal insufficiency in HIV?",
+   "answer": "Fairly rare",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#e7f832",
+   "kind": "mcq",
+   "stem": "Which blood count finding means low red cells, white cells and platelets together in HIV?",
+   "options": [
+    "Leucocytosis",
+    "Polycythaemia",
+    "Pancytopenia",
+    "Thrombocytosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#3f503d",
+   "kind": "statement",
+   "stem": "What clotting abnormality can some people with HIV have?",
+   "answer": "Hypercoagulability or idiopathic thrombotic thrombocytopenia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#15b3d4",
+   "kind": "mcq",
+   "stem": "Which antiretroviral suppresses bone marrow and can cause coagulopathy?",
+   "options": [
+    "Nevirapine",
+    "Ritonavir",
+    "Zidovudine (AZT)",
+    "Enfuvirtide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#ecbdb6",
+   "kind": "statement",
+   "stem": "Which test should be done if lactic acidosis is suspected in HIV?",
+   "answer": "Blood gas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#13ce09",
+   "kind": "mcq",
+   "stem": "Over what period should CD4 count and viral load be considered before HIV surgery?",
+   "options": [
+    "The previous week",
+    "The previous three months",
+    "The previous year",
+    "The previous six months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#e29923",
+   "kind": "mcq",
+   "stem": "Below what CD4 count should elective HIV surgery be considered for delay?",
+   "options": [
+    "CD4 below 500",
+    "CD4 below 1000",
+    "CD4 below 200",
+    "CD4 below 350"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#5bbeab",
+   "kind": "mcq",
+   "stem": "What does a CD4 count below 50 predict after surgery in HIV?",
+   "options": [
+    "Lower infection rates",
+    "Faster wound healing",
+    "Higher six-month mortality",
+    "Reduced ART requirement"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#269c10",
+   "kind": "mcq",
+   "stem": "Which of these is a nucleoside reverse transcriptase inhibitor?",
+   "options": [
+    "Nevirapine",
+    "Ritonavir",
+    "Enfuvirtide",
+    "Stavudine (Zerit, d4T)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#ef2a14",
+   "kind": "mcq",
+   "stem": "Which HIV drug is a strong cytochrome P450 inducer?",
+   "options": [
+    "Nevirapine",
+    "Ritonavir",
+    "Enfuvirtide",
+    "Abacavir"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#ef2a14",
+   "kind": "statement",
+   "stem": "What is nevirapine used for in HIV care?",
+   "answer": "Preventing mother-to-child transmission",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#9a0a50",
+   "kind": "statement",
+   "stem": "What does the abbreviation PI stand for in HIV drugs?",
+   "answer": "Protease inhibitors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#9278d1",
+   "kind": "mcq",
+   "stem": "Which cytochrome P450 enzyme do HIV protease inhibitors inhibit?",
+   "options": [
+    "CYP2D6",
+    "CYP1A2",
+    "CYP3A (p450)",
+    "CYP2C9"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#71e182",
+   "kind": "mcq",
+   "stem": "Enfuvirtide belongs to which class of HIV drugs?",
+   "options": [
+    "Integrase inhibitors",
+    "CCR5 antagonists",
+    "Fusion inhibitors",
+    "NNRTIs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#b54697",
+   "kind": "statement",
+   "stem": "What does the abbreviation IRIS stand for in HIV treatment?",
+   "answer": "Immune reconstitution inflammatory syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#9fb79c",
+   "kind": "mcq",
+   "stem": "Which drug used in HIV-related care is nephrotoxic?",
+   "options": [
+    "Ritonavir",
+    "Lamivudine",
+    "Amphotericin B",
+    "Nevirapine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#9fb79c",
+   "kind": "statement",
+   "stem": "Name a drug used in HIV-related care that causes thrombocytopenia.",
+   "answer": "Co-trimoxazole or ketoconazole",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#276a7b",
+   "kind": "blank",
+   "stem": "Before surgery in HIV, do not stop HIV medicines while ____.",
+   "answer": "fasting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#49dbf0",
+   "kind": "mcq",
+   "stem": "Which premedication drug has notable interactions with antiretrovirals in HIV?",
+   "options": [
+    "Glycopyrrolate",
+    "Midazolam",
+    "Paracetamol",
+    "Ondansetron"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#e5012d",
+   "kind": "mcq",
+   "stem": "After general anaesthesia in HIV, how long does immunosuppression last?",
+   "options": [
+    "Within 15 minutes only",
+    "One to two hours",
+    "Three to eleven days",
+    "Up to six weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#e5012d",
+   "kind": "statement",
+   "stem": "Are regional techniques thought to cause the same immunosuppression as general anaesthesia?",
+   "answer": "No, they are thought not to.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#c4d8b1",
+   "kind": "statement",
+   "stem": "Why might a regional technique be chosen for a patient with HIV?",
+   "answer": "To avoid interactions with antiretroviral or anti-opportunistic drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#1cf2f2",
+   "kind": "mcq",
+   "stem": "In HIV, what is suggested as a relative contraindication to regional anaesthesia?",
+   "options": [
+    "Controlled hypertension",
+    "Mild anaemia",
+    "A pre-existing focal neurological deficit",
+    "Raised liver enzymes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#90041b",
+   "kind": "statement",
+   "stem": "In HIV intraoperative care, which two common problems are contraindications?",
+   "answer": "Sepsis and clotting problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#cbbc49",
+   "kind": "statement",
+   "stem": "In HIV, what infection risk may neuraxial blocks carry?",
+   "answer": "CNS infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#55d582",
+   "kind": "mcq",
+   "stem": "In HIV, what sets the short, predictable effect of induction agents?",
+   "options": [
+    "Hepatic metabolism by CYP3A",
+    "Renal excretion of the drug",
+    "Redistribution, not metabolism",
+    "Lung elimination alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#430b30",
+   "kind": "mcq",
+   "stem": "Why are volatile agents thought to have no significant ART interactions?",
+   "options": [
+    "Renal elimination after conjugation",
+    "Biliary excretion of metabolites",
+    "Lung elimination and little metabolism",
+    "Strong CYP3A induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#430b30",
+   "kind": "statement",
+   "stem": "In HIV, which volatile anaesthetic may be preferable in theory given possible liver effects?",
+   "answer": "Desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#25ab53",
+   "kind": "mcq",
+   "stem": "How should opioids be dosed in HIV patients taking antiretrovirals?",
+   "options": [
+    "Fixed weight-based bolus",
+    "Give maximal dose first",
+    "Avoid for the first hour",
+    "Titrate to effect"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#2d4e9b",
+   "kind": "mcq",
+   "stem": "Which relaxant risks hyperkalaemia if myopathy is present in HIV?",
+   "options": [
+    "Atracurium",
+    "Rocuronium",
+    "Suxamethonium",
+    "Vecuronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#6bd3ae",
+   "kind": "mcq",
+   "stem": "Which relaxant is theoretically safest in HIV, given organ-independent elimination?",
+   "options": [
+    "Pancuronium",
+    "Atracurium",
+    "Suxamethonium",
+    "Vecuronium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#74ca4d",
+   "kind": "statement",
+   "stem": "In advanced HIV, what can allogeneic blood transfusion do to viral load?",
+   "answer": "Raise it (transfusion-related immunomodulation)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#cae60c",
+   "kind": "mcq",
+   "stem": "When should blood be transfused in HIV surgery?",
+   "options": [
+    "Routinely at a set haemoglobin",
+    "Before every surgical incision",
+    "Only when unavoidable for safety",
+    "Whenever blood loss exceeds 100 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#a03bbd",
+   "kind": "statement",
+   "stem": "Is autotransfusion acceptable in HIV surgery?",
+   "answer": "No; it is contraindicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#a3c4b4",
+   "kind": "statement",
+   "stem": "In HIV, what should be considered if heavy blood loss is expected?",
+   "answer": "Preoperative erythropoietin (EPO)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#a16b09",
+   "kind": "mcq",
+   "stem": "Is an epidural blood patch contraindicated for post-dural puncture headache in HIV?",
+   "options": [
+    "Only if CD4 count is above 200",
+    "Yes, it is contraindicated",
+    "No, it is not contraindicated",
+    "Only after ART interruption"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#c60def",
+   "kind": "statement",
+   "stem": "After surgery in HIV, how should antiretroviral therapy be restarted?",
+   "answer": "Without interruption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#8cbb08",
+   "kind": "statement",
+   "stem": "What social circumstances are often seen in children with HIV?",
+   "answer": "Complex social backgrounds; they may not be with biological parents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#6c754c",
+   "kind": "statement",
+   "stem": "What must be sensitively established before consent for a child with HIV?",
+   "answer": "Who the legal guardian is",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#0339af",
+   "kind": "mcq",
+   "stem": "Which pain is common in advanced HIV disease?",
+   "options": [
+    "Gallstone colic",
+    "HIV arthralgia",
+    "Migraine",
+    "Renal colic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hiv-aids#a78c02",
+   "kind": "mcq",
+   "stem": "How should pain in advanced HIV be managed?",
+   "options": [
+    "Same principles as cancer pain",
+    "Same as acute postoperative pain",
+    "Opioid-free by default",
+    "Local anaesthetic only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

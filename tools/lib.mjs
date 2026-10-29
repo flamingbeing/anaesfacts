@@ -133,6 +133,9 @@ export function questionFiles() {
 }
 export const numbersIn = t => (t.match(/\d+(?:[.,]\d+)*/g) || []).map(n => n.replace(/,(?=\d{3}\b)/g, ''));
 
+// Lower-case words only, so "3-5 mcg" and "3–5 mcg." compare equal.
+const squash = t => ` ${String(t).toLowerCase().replace(/[^\p{L}\p{N}.]+/gu, ' ').replace(/\.(?!\d)/g, ' ').replace(/\s+/g, ' ').trim()} `;
+
 // Returns a list of problems with one question against the fact index (Map id -> fact).
 export function questionProblems(q, facts, topic) {
   const bad = [];
@@ -142,6 +145,7 @@ export function questionProblems(q, facts, topic) {
   else if (fact.topic !== topic) bad.push(`fact_id "${q.fact_id}" belongs to another topic`);
   if (!KINDS.includes(q.kind)) bad.push(`kind must be one of ${KINDS.join(', ')}`);
   if (typeof q.stem !== 'string' || !q.stem.trim()) bad.push('stem missing');
+  if (/this topic/i.test(q.stem || '')) bad.push('stem must not say "this topic"');
   if (!q.model || typeof q.model !== 'string') bad.push('model missing');
   if (!/^\d{4}-\d{2}-\d{2}$/.test(q.date || '')) bad.push('date must be YYYY-MM-DD');
   let answerText = null;
@@ -149,9 +153,16 @@ export function questionProblems(q, facts, topic) {
     const o = q.options;
     if (!Array.isArray(o) || o.length < 3 || o.length > 5 || o.some(x => typeof x !== 'string' || !x.trim())) bad.push('mcq needs 3-5 non-empty string options');
     else {
-      if (new Set(o.map(x => x.trim().toLowerCase())).size !== o.length) bad.push('mcq options must differ');
+      if (new Set(o.map(squash)).size !== o.length) bad.push('mcq options must differ');
       if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer >= o.length) bad.push('mcq answer must be the index of exactly one option');
-      else answerText = o[q.answer];
+      else {
+        answerText = o[q.answer];
+        const a = squash(answerText);
+        o.forEach((x, i) => {
+          const d = squash(x);
+          if (i !== q.answer && d !== a && (d.includes(a) || a.includes(d))) bad.push(`option "${x}" shares the answer's text`);
+        });
+      }
     }
   } else if (q.kind === 'statement' || q.kind === 'blank') {
     if (q.options !== undefined) bad.push(`${q.kind} must not have options`);
@@ -159,6 +170,8 @@ export function questionProblems(q, facts, topic) {
     else answerText = q.answer;
     if (q.kind === 'blank' && !/_{3,}/.test(q.stem || '')) bad.push('blank stem needs a ____ gap');
   }
+  if (fact && q.kind === 'blank' && answerText !== null && !squash(fact.text).includes(squash(answerText))) bad.push('blank answer is not in the fact');
+  if (q.kind === 'blank' && answerText !== null && squash(q.stem || '').includes(squash(answerText))) bad.push('blank stem gives the answer away');
   if (fact && answerText !== null) {
     const have = numbersIn(fact.text);
     for (const n of numbersIn(answerText)) if (!have.includes(n)) bad.push(`number "${n}" in the answer is not in the fact`);

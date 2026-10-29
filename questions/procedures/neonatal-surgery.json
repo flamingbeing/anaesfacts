@@ -1,0 +1,1893 @@
+{
+ "topic": "procedures/neonatal-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/neonatal-surgery#035d31",
+   "kind": "statement",
+   "stem": "In neonatal surgery, at what postconceptual age is there a risk of apnoea?",
+   "answer": "Under 60 weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5efd70",
+   "kind": "mcq",
+   "stem": "How common is congenital hypertrophic pyloric stenosis in infants?",
+   "options": [
+    "1 in 30–40",
+    "1 in 300–400",
+    "1 in 3000–4000",
+    "1 in 100–150"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5efd70",
+   "kind": "blank",
+   "stem": "In congenital hypertrophic pyloric stenosis, about ____ of affected infants are male.",
+   "answer": "80%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5efd70",
+   "kind": "mcq",
+   "stem": "At what age does congenital hypertrophic pyloric stenosis usually present?",
+   "options": [
+    "2–8 months old",
+    "2–8 weeks old",
+    "Under 24 hours old",
+    "6–12 months old"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#70ea23",
+   "kind": "statement",
+   "stem": "In pyloric stenosis, what type of vomiting does the hypertrophied pyloric muscle cause?",
+   "answer": "Non-bilious projectile vomiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#f0aee5",
+   "kind": "statement",
+   "stem": "How is pyloric stenosis diagnosed clinically in an infant?",
+   "answer": "History and a palpable pyloric olive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#f0aee5",
+   "kind": "mcq",
+   "stem": "On ultrasound, what pyloric muscle thickness supports a diagnosis of pyloric stenosis?",
+   "options": [
+    "1–2 mm",
+    "Over 4 mm",
+    "Under 4 mm",
+    "2–3 mm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#f0aee5",
+   "kind": "blank",
+   "stem": "A pyloric length greater than ____ mm on ultrasound supports the diagnosis of pyloric stenosis.",
+   "answer": "16",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#d09e55",
+   "kind": "blank",
+   "stem": "In pyloric stenosis, the emergency is medical: correct fluid and electrolytes first, especially ____.",
+   "answer": "chloride",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#8d7b80",
+   "kind": "blank",
+   "stem": "An infant with pyloric stenosis is ready for theatre once chloride is above ____ mmol/L.",
+   "answer": "100",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#8d7b80",
+   "kind": "blank",
+   "stem": "Before theatre in pyloric stenosis, base excess should be below ____ mmol/L.",
+   "answer": "6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ce391b",
+   "kind": "statement",
+   "stem": "How is the stomach emptied before surgery in pyloric stenosis?",
+   "answer": "NG tube with regular gastric lavage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#f3fcdc",
+   "kind": "statement",
+   "stem": "How does a pyloromyotomy affect blood loss and fluid balance?",
+   "answer": "No blood loss or fluid shifts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#49775c",
+   "kind": "statement",
+   "stem": "What is already in place when an infant with pyloric stenosis reaches theatre?",
+   "answer": "IV access and fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#97691c",
+   "kind": "blank",
+   "stem": "Before induction in pyloric stenosis, the NG tube is aspirated in ____ positions.",
+   "answer": "5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#97691c",
+   "kind": "statement",
+   "stem": "Which five positions are used to aspirate the NG tube before induction in pyloric stenosis?",
+   "answer": "Left lateral, right lateral, head up, head down, prone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#73cb28",
+   "kind": "mcq",
+   "stem": "In pyloromyotomy, how much air may the surgeon ask to be passed down the NG tube?",
+   "options": [
+    "10-20 mL",
+    "40-60 mL",
+    "100-150 mL",
+    "200-300 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#73cb28",
+   "kind": "statement",
+   "stem": "Why may air be passed down the NG tube during pyloromyotomy?",
+   "answer": "To check for mucosal perforation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#040483",
+   "kind": "mcq",
+   "stem": "How should the infant be extubated after pyloromyotomy?",
+   "options": [
+    "Deeply anaesthetised",
+    "Awake",
+    "Paralysed",
+    "Still under neuromuscular block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#dd9eb8",
+   "kind": "blank",
+   "stem": "In pyloric stenosis, infants with a postconceptual age under ____ weeks need continuous SpO2 and apnoea monitoring.",
+   "answer": "6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#9ee3ae",
+   "kind": "mcq",
+   "stem": "What metabolic problem are infants with pyloric stenosis prone to?",
+   "options": [
+    "Hypoglycaemia",
+    "Hyperglycaemia",
+    "Hyperkalaemia",
+    "Hypercalcaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#2538e9",
+   "kind": "mcq",
+   "stem": "In necrotising enterocolitis, roughly what percentage of babies under 1500 g are affected?",
+   "options": [
+    "0.5-1.5%",
+    "5-15%",
+    "25-35%",
+    "50-60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#2538e9",
+   "kind": "statement",
+   "stem": "In which group of babies does necrotising enterocolitis almost only occur?",
+   "answer": "Premature babies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#724b69",
+   "kind": "statement",
+   "stem": "What is the underlying injury in necrotising enterocolitis?",
+   "answer": "Ischaemic injury to bowel mucosa",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#724b69",
+   "kind": "blank",
+   "stem": "Necrotising enterocolitis may progress to bowel ____ and sepsis.",
+   "answer": "perforation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#900b61",
+   "kind": "mcq",
+   "stem": "Which sign is typical of necrotising enterocolitis in a premature baby?",
+   "options": [
+    "Bloody diarrhoea",
+    "Falling gastric aspirates",
+    "Abdominal flattening",
+    "Stable temperature"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#b74e58",
+   "kind": "statement",
+   "stem": "Which blood and metabolic changes suggest later sepsis in necrotising enterocolitis?",
+   "answer": "Thrombocytopenia, anaemia, coagulopathy, metabolic acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#cf3992",
+   "kind": "mcq",
+   "stem": "Which is part of the medical treatment for necrotising enterocolitis?",
+   "options": [
+    "Stop enteral feeds",
+    "Early full enteral feeds",
+    "Withhold antibiotics",
+    "Increase enteral feed volume"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#dbbc26",
+   "kind": "mcq",
+   "stem": "What proportion of babies with necrotising enterocolitis need surgery?",
+   "options": [
+    "About 10%",
+    "About 25%",
+    "About 50%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#043f03",
+   "kind": "statement",
+   "stem": "How are babies with necrotising enterocolitis usually supported before transfer to theatre?",
+   "answer": "Intubated and ventilated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#d0c317",
+   "kind": "statement",
+   "stem": "What should be discussed with the neonatologist about an NEC baby's breathing support?",
+   "answer": "ETT details, ventilator settings, rising ventilatory needs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#b07dd8",
+   "kind": "statement",
+   "stem": "What should be noted about fluids given to a baby with NEC before surgery?",
+   "answer": "Fluid type and volume given",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5c3ad2",
+   "kind": "statement",
+   "stem": "Why are babies with necrotising enterocolitis often hypovolaemic?",
+   "answer": "Large third-space losses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7ed056",
+   "kind": "statement",
+   "stem": "Which results should be reviewed for trends before necrotising enterocolitis surgery?",
+   "answer": "FBC, clotting, electrolytes, blood gas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#9f3eb2",
+   "kind": "statement",
+   "stem": "Which blood products may be needed before necrotising enterocolitis surgery?",
+   "answer": "Platelets and red cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#572fa4",
+   "kind": "statement",
+   "stem": "When is an arterial line useful in necrotising enterocolitis surgery?",
+   "answer": "If it does not delay surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#19ccdc",
+   "kind": "statement",
+   "stem": "Who often brings a baby with necrotising enterocolitis to theatre?",
+   "answer": "Neonatal staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#20806f",
+   "kind": "statement",
+   "stem": "What typically happens to an NEC baby when moved from incubator to operating table?",
+   "answer": "They often deteriorate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#4e782d",
+   "kind": "statement",
+   "stem": "Which neonatal unit treatments continue during anaesthesia for necrotising enterocolitis?",
+   "answer": "Fluids, analgesia and sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5bf9de",
+   "kind": "statement",
+   "stem": "Which gas is contraindicated for anaesthesia in neonatal NEC laparotomy?",
+   "answer": "Nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#efed80",
+   "kind": "statement",
+   "stem": "How is intermittent positive pressure ventilation often best given to a baby with NEC?",
+   "answer": "By hand with a T-piece",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#00b4da",
+   "kind": "mcq",
+   "stem": "What SpO2 range is targeted during NEC laparotomy in a premature baby?",
+   "options": [
+    "85-90%",
+    "92-95%",
+    "98-100%",
+    "100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#00b4da",
+   "kind": "blank",
+   "stem": "In premature babies, avoid hyperoxia to prevent retinopathy of ____.",
+   "answer": "prematurity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#6ec36c",
+   "kind": "statement",
+   "stem": "Why do ventilatory needs rise during bowel handling in NEC surgery?",
+   "answer": "It lowers lung compliance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#0ff70d",
+   "kind": "statement",
+   "stem": "What increases instability during NEC bowel surgery?",
+   "answer": "Ischaemic bowel handling and bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#845f69",
+   "kind": "mcq",
+   "stem": "In a baby with NEC, what aliquot size is used for volume, titrated to response?",
+   "options": [
+    "2 mL/kg",
+    "10 mL/kg",
+    "20 mL/kg",
+    "50 mL/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#cd8020",
+   "kind": "statement",
+   "stem": "In NEC surgery, which warming measures are used but still often fail to prevent hypothermia?",
+   "answer": "Warm theatre, warmed fluids, warming mattress and forced-air blanket",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#3dd7a0",
+   "kind": "statement",
+   "stem": "In NEC surgery, what should be monitored if possible?",
+   "answer": "Urine output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#6b8a88",
+   "kind": "statement",
+   "stem": "Which tests should be repeated in NEC surgery when sampling is possible?",
+   "answer": "Serial blood gases, FBC and electrolytes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#8daa2b",
+   "kind": "mcq",
+   "stem": "Why do NEC babies usually return to the NICU after surgery?",
+   "options": [
+    "Prolonged IPPV and parenteral nutrition",
+    "Immediate extubation and oral feeds",
+    "Routine discharge home",
+    "Same-day transfer to the ward"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#0bb671",
+   "kind": "mcq",
+   "stem": "In neonatal abdominal wall defects, which defect herniates into the umbilical cord?",
+   "options": [
+    "Gastroschisis",
+    "Exomphalos",
+    "Inguinal hernia",
+    "Diaphragmatic hernia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#0bb671",
+   "kind": "statement",
+   "stem": "Where does the defect lie in gastroschisis relative to the umbilicus?",
+   "answer": "Lateral to the umbilicus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#b2aa4a",
+   "kind": "mcq",
+   "stem": "What is the combined incidence of gastroschisis and exomphalos per live births?",
+   "options": [
+    "1:500",
+    "1:3000",
+    "1:50000",
+    "1:20"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#71cf62",
+   "kind": "statement",
+   "stem": "Gastroschisis lies beside the umbilical cord; on which side is it more common?",
+   "answer": "Right",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#91afaa",
+   "kind": "statement",
+   "stem": "What exposure makes the herniated bowel in gastroschisis inflamed and dysfunctional?",
+   "answer": "Amniotic fluid, then air",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#9cd79d",
+   "kind": "statement",
+   "stem": "Compared with exomphalos, do gastroschisis babies have more or fewer associated anomalies?",
+   "answer": "Fewer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#4fdc5b",
+   "kind": "statement",
+   "stem": "At delivery, how should a gastroschisis be covered to limit heat and fluid loss?",
+   "answer": "Sterile dressing or plastic bag",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#4fdc5b",
+   "kind": "statement",
+   "stem": "At delivery, which tube is passed for an abdominal wall defect?",
+   "answer": "NG tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#9b56c2",
+   "kind": "statement",
+   "stem": "Why should a tight abdominal wall defect be reduced urgently?",
+   "answer": "Risk of intra-abdominal sepsis and bowel ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#31363f",
+   "kind": "statement",
+   "stem": "What is the sequence of steps in repairing an abdominal wall defect?",
+   "answer": "Excise any sac, stretch the wall, return bowel, primary closure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#cc4ee2",
+   "kind": "mcq",
+   "stem": "If primary closure of a gastroschisis is impossible, what is placed over the bowel?",
+   "options": [
+    "Surgical mesh patch",
+    "Nasogastric tube",
+    "Silastic silo",
+    "Ostomy appliance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#cc4ee2",
+   "kind": "blank",
+   "stem": "After a silo, the bowel is reduced gradually over several ____ before closure under general anaesthesia.",
+   "answer": "days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#0531aa",
+   "kind": "blank",
+   "stem": "Many centres now apply a ____ without general anaesthesia as first treatment for gastroschisis.",
+   "answer": "silo",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#b9ebb6",
+   "kind": "statement",
+   "stem": "What is the embryological cause of exomphalos?",
+   "answer": "Failure of gut return from the yolk sac",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#1c8b58",
+   "kind": "mcq",
+   "stem": "In exomphalos, what proportion of sacs contain liver, spleen or gonads?",
+   "options": [
+    "About 10%",
+    "About 25%",
+    "About 50%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#0c51d5",
+   "kind": "statement",
+   "stem": "What is the typical appearance of an exomphalos sac, unless ruptured at birth?",
+   "answer": "Translucent, with umbilical vessels on its wall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#dd2c0b",
+   "kind": "blank",
+   "stem": "In abdominal wall defects, about ____% of babies have other malformations.",
+   "answer": "40",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#dd2c0b",
+   "kind": "statement",
+   "stem": "Which syndrome may be associated with gastroschisis or exomphalos?",
+   "answer": "Beckwith-Wiedemann syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#a1ad3f",
+   "kind": "statement",
+   "stem": "What is the main cause of death in abdominal wall defects?",
+   "answer": "Associated anomalies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#4dd338",
+   "kind": "statement",
+   "stem": "In exomphalos, what may delay surgery while other problems are checked?",
+   "answer": "Investigation of other anomalies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#69a271",
+   "kind": "statement",
+   "stem": "Which investigation is done if possible in exomphalos to look for associated anomalies?",
+   "answer": "Echo",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#33a8ff",
+   "kind": "statement",
+   "stem": "What is often needed in babies with abdominal wall defects after assessing volume status?",
+   "answer": "Resuscitation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#caf4d6",
+   "kind": "statement",
+   "stem": "What should be checked regularly in babies with abdominal wall defects?",
+   "answer": "Glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#bc7985",
+   "kind": "statement",
+   "stem": "Which organ may be compromised after reducing a gastroschisis, prompting a chest X-ray?",
+   "answer": "Lungs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#2819cb",
+   "kind": "statement",
+   "stem": "Which monitor is useful in gastroschisis because IVC compression may reduce cardiac output?",
+   "answer": "Arterial line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#38c042",
+   "kind": "statement",
+   "stem": "Why are all measures against hypothermia needed in gastroschisis?",
+   "answer": "Large area of bowel exposed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#f74b8e",
+   "kind": "blank",
+   "stem": "During gastroschisis reduction, a slight ____ position may help ventilation.",
+   "answer": "head-up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#f74b8e",
+   "kind": "statement",
+   "stem": "Which ventilator settings should be increased when a gastroschisis is reduced?",
+   "answer": "Rate, pressure and FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7fa836",
+   "kind": "statement",
+   "stem": "What does IVC compression during gastroschisis reduction risk?",
+   "answer": "Reduced cardiac output and organ perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#8b0b04",
+   "kind": "mcq",
+   "stem": "For a baby still ventilated after gastroschisis repair, what IV morphine bolus range is given?",
+   "options": [
+    "5-10 mcg/kg",
+    "50-100 mcg/kg",
+    "0.5-1 mg/kg",
+    "500-1000 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#8b0b04",
+   "kind": "blank",
+   "stem": "For a ventilated baby with an abdominal wall defect, the alternative opioid bolus is fentanyl ____ IV.",
+   "answer": "2-4 mcg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#2bf9f9",
+   "kind": "statement",
+   "stem": "In a small exomphalos, what analgesic approach may allow extubation?",
+   "answer": "Less opioid or a caudal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#8f8989",
+   "kind": "statement",
+   "stem": "Which baby with abdominal wall defect repair is usually not ventilated afterwards?",
+   "answer": "Very small exomphalos",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#874e71",
+   "kind": "statement",
+   "stem": "Why may ventilation be hard after gastroschisis reduction?",
+   "answer": "High intra-abdominal pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#895e82",
+   "kind": "mcq",
+   "stem": "Which signs mainly show low cardiac output from IVC compression during abdominal wall repair?",
+   "options": [
+    "Polyuria and metabolic alkalosis",
+    "Hypertension and bradycardia",
+    "Oliguria and metabolic acidosis",
+    "Hyperglycaemia and polyuria"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#1999b6",
+   "kind": "mcq",
+   "stem": "Which dopamine dose range may help renal and mesenteric perfusion after gastroschisis reduction?",
+   "options": [
+    "3-5 mcg/kg/min",
+    "0.5-1 mcg/kg/min",
+    "10-20 mcg/kg/min",
+    "20-30 mcg/kg/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#b8f2cf",
+   "kind": "statement",
+   "stem": "What form of nutrition do gastroschisis babies usually need for a prolonged period?",
+   "answer": "Parenteral nutrition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#19a44b",
+   "kind": "mcq",
+   "stem": "What is the incidence of anorectal malformations, also called imperforate anus, per births?",
+   "options": [
+    "1:200",
+    "1:2000",
+    "1:5000",
+    "1:20000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#19a44b",
+   "kind": "statement",
+   "stem": "Which sex is more commonly affected by anorectal malformations?",
+   "answer": "Males",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#8a8bf8",
+   "kind": "statement",
+   "stem": "In anorectal malformation (imperforate anus), what is the range of severity?",
+   "answer": "From a simple distal membrane to complex genitourinary anomalies.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#856070",
+   "kind": "blank",
+   "stem": "In anorectal malformation, a high lesion is one where the rectum ends ____ levator ani.",
+   "answer": "above",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#fdeed5",
+   "kind": "mcq",
+   "stem": "In anorectal malformation, roughly what proportion of babies have a tethered cord?",
+   "options": [
+    "About 5%",
+    "About 25%",
+    "About 50%",
+    "About 75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#fdeed5",
+   "kind": "statement",
+   "stem": "In anorectal malformation, which spinal finding is a reason to beware a caudal block?",
+   "answer": "Tethered cord.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#084286",
+   "kind": "mcq",
+   "stem": "In anorectal malformation type 1, how far above the anus can the anal stenosis sit?",
+   "options": [
+    "5-8 cm",
+    "1-4 cm",
+    "0.5-1 cm",
+    "8-10 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#084286",
+   "kind": "statement",
+   "stem": "What is the underlying defect in anorectal malformation type 1?",
+   "answer": "Incomplete rupture of the anal membrane.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#76ac57",
+   "kind": "mcq",
+   "stem": "In anorectal malformation, what is the type 2 lesion?",
+   "options": [
+    "Blind rectum well above anus",
+    "Anal stenosis 1-4 cm up",
+    "Persistent membrane",
+    "Normal anus with anal pouch"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ce0ac4",
+   "kind": "mcq",
+   "stem": "Which anorectal malformation type is the commonest?",
+   "options": [
+    "Type 1",
+    "Type 2",
+    "Type 3",
+    "Type 4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ce0ac4",
+   "kind": "statement",
+   "stem": "In anorectal malformation type 3, where does the rectum end?",
+   "answer": "Blindly, well above the imperforate anus.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#c65d64",
+   "kind": "mcq",
+   "stem": "In anorectal malformation, which type has a normal anus and anal pouch?",
+   "options": [
+    "Type 2",
+    "Type 4",
+    "Type 1",
+    "Type 3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#08db81",
+   "kind": "statement",
+   "stem": "What does an anorectal malformation baby typically show at presentation?",
+   "answer": "No stool in the first 24 hours, a distended abdomen, or stool from an abnormal site.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#41215e",
+   "kind": "statement",
+   "stem": "In anorectal malformation, which associated anomalies must be screened for?",
+   "answer": "Cardiac and tracheo-oesophageal anomalies.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5acc98",
+   "kind": "statement",
+   "stem": "How can abdominal distension affect a neonate with anorectal malformation?",
+   "answer": "It may impair breathing, cause apnoeas or risk bowel ischaemia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#32df38",
+   "kind": "statement",
+   "stem": "Before anorectal malformation surgery, which respiratory observations should be recorded?",
+   "answer": "SpO2 in air, oxygen requirement and apnoeas.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#a8c9a7",
+   "kind": "statement",
+   "stem": "What vascular access and fluid should be in place before anorectal malformation surgery?",
+   "answer": "IV access with maintenance fluids.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#cd36db",
+   "kind": "statement",
+   "stem": "Which anorectal malformation lesions need a crossmatch?",
+   "answer": "High lesions needing a colostomy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#0af70d",
+   "kind": "statement",
+   "stem": "When is a muscle relaxant not used in anorectal malformation surgery?",
+   "answer": "When the anal sphincter must be identified.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ee20dc",
+   "kind": "mcq",
+   "stem": "Which agent should be avoided in anorectal malformation surgery because it distends bowel?",
+   "options": [
+    "Sevoflurane",
+    "Nitrous oxide",
+    "Isoflurane",
+    "Desflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7362e8",
+   "kind": "statement",
+   "stem": "Why are fluid requirements high in anorectal malformation surgery?",
+   "answer": "Large insensible and third-space losses, more if perforated.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#056066",
+   "kind": "blank",
+   "stem": "In anorectal malformation, give balanced salt solution or colloid at ____ mL/kg/h or more.",
+   "answer": "10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#49d805",
+   "kind": "statement",
+   "stem": "Is invasive monitoring routinely needed for a healthy baby having anorectal malformation surgery?",
+   "answer": "No, not in a healthy baby.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#803e16",
+   "kind": "statement",
+   "stem": "Until when are maintenance fluids continued after anorectal malformation surgery?",
+   "answer": "Until feeding starts.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7e6fd6",
+   "kind": "statement",
+   "stem": "How is a neonate positioned for anorectal malformation surgery?",
+   "answer": "Lithotomy as near as possible, hips and knees flexed and taped, baby at the far end of the table.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#9f1de7",
+   "kind": "mcq",
+   "stem": "For anorectal malformation surgery, what single caudal volume covers the sacral dermatomes?",
+   "options": [
+    "0.5-1 mL/kg",
+    "0.3-0.5 mL/kg",
+    "1-2 mL/kg",
+    "2-3 mL/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ba10f0",
+   "kind": "mcq",
+   "stem": "After anorectal malformation surgery, what is the oral paracetamol dose?",
+   "options": [
+    "15 mg/kg 4-hourly",
+    "30 mg/kg 6-hourly",
+    "15 mg/kg 6-hourly",
+    "5 mg/kg 8-hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ba10f0",
+   "kind": "blank",
+   "stem": "After anorectal malformation surgery, oral paracetamol has a maximum of ____ mg/kg/day.",
+   "answer": "60",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ba10f0",
+   "kind": "mcq",
+   "stem": "After anorectal malformation surgery, what is the oral morphine dose?",
+   "options": [
+    "200-300 mcg/kg 6-hourly",
+    "200-300 mcg/kg 4-hourly",
+    "20-30 mcg/kg 4-hourly",
+    "2-3 mg/kg 4-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#77df79",
+   "kind": "mcq",
+   "stem": "For anorectal malformation surgery needing thoracic dermatome cover, what single caudal dose is used?",
+   "options": [
+    "1.25 mL/kg 0.25% bupivacaine",
+    "0.5 mL/kg 0.125% levobupivacaine",
+    "2.5 mL/kg 0.25% levobupivacaine",
+    "1.25 mL/kg 0.125% levobupivacaine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#732c46",
+   "kind": "mcq",
+   "stem": "How long is the usual postoperative infusion after anorectal malformation surgery?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "48 hours",
+    "72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ab3534",
+   "kind": "statement",
+   "stem": "Who introduced the standard operation for high and intermediate anorectal malformations, and when?",
+   "answer": "de Vries and Peña, in 1982.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#22efe7",
+   "kind": "statement",
+   "stem": "Besides postoperative analgesia, what else may a caudal block do in anorectal malformation surgery?",
+   "answer": "Relax the anal muscles.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#518ffd",
+   "kind": "mcq",
+   "stem": "Which two antibiotics are given for anorectal malformation surgery?",
+   "options": [
+    "Gentamicin and clindamycin",
+    "Ceftriaxone and metronidazole",
+    "Vancomycin and gentamicin",
+    "Cefuroxime and clindamycin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#4fe69c",
+   "kind": "statement",
+   "stem": "After anorectal malformation surgery, what level of care should be considered?",
+   "answer": "High dependency care.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#821109",
+   "kind": "statement",
+   "stem": "Which two minimally invasive approaches are used for anorectal malformation repair?",
+   "answer": "Laparoscopically assisted (LERPT) or total transanal (TERPT).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#341dff",
+   "kind": "statement",
+   "stem": "In anorectal malformation, which positions are used for the transanal approach?",
+   "answer": "Supine or prone.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#341dff",
+   "kind": "mcq",
+   "stem": "In anorectal malformation, what position is used for laparoscopically assisted repair?",
+   "options": [
+    "Prone",
+    "Right lateral",
+    "Supine",
+    "Left lateral"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#d51b73",
+   "kind": "statement",
+   "stem": "In Hirschsprung's disease, what causes the functional obstruction?",
+   "answer": "Absent ganglion cells in the distal colon.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#43cac5",
+   "kind": "mcq",
+   "stem": "In Hirschsprung's disease, which investigation is the gold standard for diagnosis?",
+   "options": [
+    "Abdominal radiograph",
+    "Full-thickness rectal biopsy",
+    "Serum electrolytes",
+    "Barium swallow"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#40aca1",
+   "kind": "mcq",
+   "stem": "In Hirschsprung's disease, at what weight was definitive repair traditionally delayed until?",
+   "options": [
+    "5 kg",
+    "10 kg",
+    "3 kg",
+    "15 kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#40aca1",
+   "kind": "statement",
+   "stem": "Traditionally, what is done at diagnosis of Hirschsprung's disease?",
+   "answer": "A colostomy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#58cafe",
+   "kind": "statement",
+   "stem": "How does congenital diaphragmatic hernia usually present early in life if not found antenatally?",
+   "answer": "Cyanosis, respiratory distress and a scaphoid abdomen.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ff04c2",
+   "kind": "statement",
+   "stem": "In congenital diaphragmatic hernia, what fails to close in the 10th week of gestation?",
+   "answer": "The pleuroperitoneal membrane.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#fc6f14",
+   "kind": "mcq",
+   "stem": "What is the incidence of congenital diaphragmatic hernia?",
+   "options": [
+    "1 in 400 live births",
+    "1 in 40,000 live births",
+    "1 in 2000 live births",
+    "1 in 4000 live births"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#68dfec",
+   "kind": "mcq",
+   "stem": "Which congenital diaphragmatic hernia type is the most common?",
+   "options": [
+    "Right-sided",
+    "Left posterolateral (Bochdalek)",
+    "Bilateral",
+    "Anterior (Morgagni)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#68dfec",
+   "kind": "mcq",
+   "stem": "What proportion of congenital diaphragmatic hernias are left posterolateral?",
+   "options": [
+    "15%",
+    "50%",
+    "85%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#969d8b",
+   "kind": "statement",
+   "stem": "In a right-sided congenital diaphragmatic hernia, what usually herniates?",
+   "answer": "Liver and large bowel only.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#969d8b",
+   "kind": "statement",
+   "stem": "How are bilateral congenital diaphragmatic hernias usually described?",
+   "answer": "Rare and usually fatal.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#e2f476",
+   "kind": "statement",
+   "stem": "What lung and circulatory problems occur in congenital diaphragmatic hernia?",
+   "answer": "Pulmonary hypoplasia, surfactant dysfunction, pulmonary hypertension and right-to-left shunt.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#fdd78f",
+   "kind": "statement",
+   "stem": "Which approaches are used to repair congenital diaphragmatic hernia?",
+   "answer": "Abdominal, thoraco-abdominal or transthoracic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#554ef7",
+   "kind": "mcq",
+   "stem": "What mortality is reported for congenital diaphragmatic hernia?",
+   "options": [
+    "10-20%",
+    "30-50%",
+    "60-70%",
+    "5-10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#554ef7",
+   "kind": "statement",
+   "stem": "What determines prognosis in congenital diaphragmatic hernia?",
+   "answer": "Pulmonary hypoplasia, pulmonary hypertension and other anomalies.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ccd2de",
+   "kind": "mcq",
+   "stem": "How does late-presenting congenital diaphragmatic hernia, found in infancy or adulthood, generally fare?",
+   "options": [
+    "Usually fatal in infancy",
+    "Usually needs ECMO",
+    "Usually does well",
+    "Usually needs bilateral repair"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#d3318d",
+   "kind": "statement",
+   "stem": "What airway management does congenital diaphragmatic hernia usually need?",
+   "answer": "Intubation and IPPV.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#747d7a",
+   "kind": "statement",
+   "stem": "In congenital diaphragmatic hernia, why is an NG tube placed?",
+   "answer": "To decompress intrathoracic bowel.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7f2d1f",
+   "kind": "statement",
+   "stem": "Which treatments for pulmonary hypertension are often needed in congenital diaphragmatic hernia?",
+   "answer": "Nitric oxide, high-frequency or oscillatory ventilation, ECMO.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7ff22c",
+   "kind": "statement",
+   "stem": "What is the main problem with vasodilators used for pulmonary hypertension in congenital diaphragmatic hernia?",
+   "answer": "They cause systemic hypotension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ef325b",
+   "kind": "mcq",
+   "stem": "In congenital diaphragmatic hernia, where should the arterial line be placed?",
+   "options": [
+    "Left radial",
+    "Postductal femoral",
+    "Preductal right radial",
+    "Umbilical artery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#3ddd27",
+   "kind": "statement",
+   "stem": "Where should a neck central line be placed in congenital diaphragmatic hernia, and why?",
+   "answer": "On the hernia side, since a pneumothorax on the good-lung side may be fatal.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#af49bd",
+   "kind": "statement",
+   "stem": "In congenital diaphragmatic hernia, which associated anomaly should be looked for?",
+   "answer": "Congenital heart disease.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#56c1c3",
+   "kind": "statement",
+   "stem": "Which pre-operative investigations are needed for congenital diaphragmatic hernia?",
+   "answer": "FBC, U&E, crossmatch, and CXR if not done.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#96ed10",
+   "kind": "statement",
+   "stem": "What state does a congenital diaphragmatic hernia baby usually arrive in for theatre?",
+   "answer": "Intubated, from ICU.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#191466",
+   "kind": "mcq",
+   "stem": "For congenital diaphragmatic hernia surgery, what is the fentanyl dose?",
+   "options": [
+    "5-10 mcg/kg",
+    "50-100 mcg/kg",
+    "1-2 mcg/kg",
+    "20-30 mcg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#191466",
+   "kind": "mcq",
+   "stem": "For congenital diaphragmatic hernia surgery, what is the morphine dose?",
+   "options": [
+    "10-20 mcg/kg",
+    "1-2 mg/kg",
+    "500-600 mcg/kg",
+    "100-200 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#191466",
+   "kind": "mcq",
+   "stem": "For congenital diaphragmatic hernia surgery, what is the remifentanil infusion rate?",
+   "options": [
+    "0.25-0.5 mcg/kg/min",
+    "2-4 mcg/kg/min",
+    "0.025-0.05 mcg/kg/min",
+    "1-2 mcg/kg/hour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#567425",
+   "kind": "mcq",
+   "stem": "In congenital diaphragmatic hernia repair, what incision is usually used?",
+   "options": [
+    "Midline laparotomy",
+    "Subcostal",
+    "Right iliac fossa",
+    "Pfannenstiel"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5e4936",
+   "kind": "statement",
+   "stem": "Why is pressure-limited ventilation preferred in congenital diaphragmatic hernia?",
+   "answer": "To avoid high pressures and pneumothorax.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#563b09",
+   "kind": "mcq",
+   "stem": "After congenital diaphragmatic hernia surgery, how is respiratory function usually?",
+   "options": [
+    "Unchanged immediately",
+    "Better straight away",
+    "Worse than before",
+    "Normal by morning"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#886946",
+   "kind": "statement",
+   "stem": "After congenital diaphragmatic hernia surgery, what treatment should continue?",
+   "answer": "Treatment of pulmonary hypertension and the ductal right-to-left shunt.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#a537e8",
+   "kind": "mcq",
+   "stem": "In myelomeningocele, when does the neural tube fail to fuse?",
+   "options": [
+    "2nd week of gestation",
+    "4th week of gestation",
+    "8th week of gestation",
+    "12th week of gestation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#a537e8",
+   "kind": "statement",
+   "stem": "In myelomeningocele, what neurological effect occurs below the lesion?",
+   "answer": "A neurological deficit.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ba0838",
+   "kind": "mcq",
+   "stem": "What proportion of myelomeningocele lesions are lumbosacral?",
+   "options": [
+    "25%",
+    "50%",
+    "75%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#3a2d29",
+   "kind": "statement",
+   "stem": "What distinguishes myelomeningocele from meningocele?",
+   "answer": "Myelomeningocele contains neural tissue; meningocele contains only CSF.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5c50fe",
+   "kind": "mcq",
+   "stem": "What proportion of myelomeningocele babies develop hydrocephalus?",
+   "options": [
+    "10-20%",
+    "30-40%",
+    "70-85%",
+    "90-95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5c50fe",
+   "kind": "statement",
+   "stem": "Which hindbrain malformation is associated with myelomeningocele?",
+   "answer": "Arnold-Chiari type II.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7c86ea",
+   "kind": "statement",
+   "stem": "How is myelomeningocele usually diagnosed before birth?",
+   "answer": "By antenatal ultrasound.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#c139c2",
+   "kind": "mcq",
+   "stem": "How soon should myelomeningocele ideally be closed?",
+   "options": [
+    "Within 6 hours",
+    "Within 24 hours",
+    "Within 72 hours",
+    "Within one week"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#c139c2",
+   "kind": "statement",
+   "stem": "Why does speed of repair matter in myelomeningocele?",
+   "answer": "Ventriculitis rate depends on it, given the high infection risk.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#faae7e",
+   "kind": "statement",
+   "stem": "When is a ventriculoperitoneal shunt usually placed in myelomeningocele?",
+   "answer": "At primary repair or soon after.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#3a5ebc",
+   "kind": "statement",
+   "stem": "How do the level and size of a myelomeningocele lesion affect surgery?",
+   "answer": "They affect positioning at induction, duration and blood loss.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#0b1423",
+   "kind": "statement",
+   "stem": "Before myelomeningocele repair, what should be recorded and why?",
+   "answer": "A neurological examination, for postoperative comparison.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#080fd3",
+   "kind": "statement",
+   "stem": "How should an open myelomeningocele be covered before repair, and why?",
+   "answer": "A damp dressing, to stop it drying.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#66e23f",
+   "kind": "statement",
+   "stem": "In myelomeningocele repair, which associated anomaly especially can alter anaesthetic management?",
+   "answer": "Congenital heart disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#d58ae8",
+   "kind": "statement",
+   "stem": "Which access and fluids are usually already in place before a myelomeningocele repair?",
+   "answer": "IV cannula and maintenance fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#004ddf",
+   "kind": "mcq",
+   "stem": "What is the optional atropine dose before induction in myelomeningocele repair?",
+   "options": [
+    "5 mcg/kg IV",
+    "20 mcg/kg IV",
+    "100 mcg/kg IV",
+    "0.2 mg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#63f917",
+   "kind": "statement",
+   "stem": "How should the lesion be supported at induction in myelomeningocele repair?",
+   "answer": "Cushion or jelly ring to protect the lesion, or lateral or semi-lateral depending on anatomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#c2f34d",
+   "kind": "mcq",
+   "stem": "Which airway and ventilation suit a myelomeningocele repair?",
+   "options": [
+    "Laryngeal mask with spontaneous ventilation",
+    "Armoured ETT and IPPV",
+    "Nasal cannula with CPAP",
+    "Tracheostomy with spontaneous ventilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#ab4a31",
+   "kind": "mcq",
+   "stem": "What is the maintenance anaesthetic for myelomeningocele repair?",
+   "options": [
+    "Propofol infusion with air only",
+    "Ketamine infusion in oxygen only",
+    "Remifentanil infusion with air only",
+    "Volatile in oxygen with air or nitrous oxide"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#400e99",
+   "kind": "statement",
+   "stem": "Which invasive lines should be considered for a large myelomeningocele lesion?",
+   "answer": "Arterial and central lines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7e0b13",
+   "kind": "mcq",
+   "stem": "How should a baby be positioned for myelomeningocele repair?",
+   "options": [
+    "Supine with arms tucked at sides",
+    "Lateral with a jelly ring under the hip",
+    "Prone, with bolsters under shoulders and pelvis",
+    "Supine with head on a roll"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#7d81f0",
+   "kind": "statement",
+   "stem": "Why discuss with the surgeon before giving a long-acting relaxant in myelomeningocele repair?",
+   "answer": "Surgeon may stimulate nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#72a76f",
+   "kind": "statement",
+   "stem": "How much blood loss is usual in myelomeningocele repair, and when can it be larger?",
+   "answer": "Usually small; large lesions needing skin flaps can bleed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#79caa8",
+   "kind": "statement",
+   "stem": "What does the surgeon usually infiltrate in myelomeningocele repair, and with what?",
+   "answer": "Local anaesthetic with adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#79caa8",
+   "kind": "mcq",
+   "stem": "In myelomeningocele repair, what extra morphine dose is given if needed?",
+   "options": [
+    "2-5 mg/kg",
+    "25-50 mcg/kg",
+    "100-150 mcg/kg",
+    "0.5-1 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#79caa8",
+   "kind": "statement",
+   "stem": "Why do opioid needs vary in myelomeningocele repair?",
+   "answer": "The sensory level is unclear",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#5426d2",
+   "kind": "statement",
+   "stem": "When are IV antibiotics given in myelomeningocele repair?",
+   "answer": "As requested by the surgeon or per protocol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#0fa4e0",
+   "kind": "mcq",
+   "stem": "When should a baby be extubated after myelomeningocele repair?",
+   "options": [
+    "Routinely left intubated overnight",
+    "Only after transfer to intensive care",
+    "At the end of surgery if stable",
+    "Only once fully awake"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#e33c99",
+   "kind": "statement",
+   "stem": "What surgical feature of a large myelomeningocele lesion may impair ventilation?",
+   "answer": "Tight closure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#e33c99",
+   "kind": "mcq",
+   "stem": "Which associated condition in myelomeningocele may also affect breathing?",
+   "options": [
+    "Pyloric stenosis",
+    "Chiari malformation",
+    "Hirschsprung disease",
+    "Gastroschisis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#2957d6",
+   "kind": "blank",
+   "stem": "Myelomeningocele repair should be done in a ____ with ECG and pulse oximetry.",
+   "answer": "Neonatal surgical unit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#032f37",
+   "kind": "mcq",
+   "stem": "What oral paracetamol dose is used after myelomeningocele repair?",
+   "options": [
+    "5 mg/kg 6-hourly",
+    "15 mg/kg 6-hourly",
+    "30 mg/kg 6-hourly",
+    "60 mg/kg 6-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#032f37",
+   "kind": "mcq",
+   "stem": "What oral morphine dose is given 4-hourly after myelomeningocele repair?",
+   "options": [
+    "20-30 mcg/kg",
+    "200-300 mcg/kg",
+    "2-3 mg/kg",
+    "100-150 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/neonatal-surgery#032f37",
+   "kind": "statement",
+   "stem": "What is used for analgesia in extensive myelomeningocele lesions?",
+   "answer": "IV morphine infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,661 @@
+{
+ "topic": "drugs/drugs-in-renal-impairment",
+ "questions": [
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#c698f6",
+   "kind": "mcq",
+   "stem": "Above what creatinine clearance is drug dose change usually unnecessary?",
+   "options": [
+    "CrCl <30",
+    "CrCl <45",
+    "CrCl >60",
+    "CrCl <15"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#5d7a5a",
+   "kind": "statement",
+   "stem": "How does renal drug clearance relate to creatinine clearance?",
+   "answer": "Renal clearance falls in line with CrCl",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#d539db",
+   "kind": "statement",
+   "stem": "What does uraemia increase, regarding sedatives and opioids?",
+   "answer": "CNS sensitivity to sedatives and opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#a2a512",
+   "kind": "statement",
+   "stem": "In renal failure, which muscle relaxant may be contraindicated by hyperkalaemia?",
+   "answer": "Suxamethonium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#531b29",
+   "kind": "blank",
+   "stem": "In renal impairment, avoid ____ such as NSAIDs.",
+   "answer": "nephrotoxins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#dca89e",
+   "kind": "mcq",
+   "stem": "By about what percentage should propofol, thiopentone or etomidate doses be reduced in renal impairment?",
+   "options": [
+    "10%",
+    "50%",
+    "15%",
+    "30%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#afa7d0",
+   "kind": "statement",
+   "stem": "Which volatile anaesthetic is cautioned in significant renal impairment, and why?",
+   "answer": "Sevoflurane: theoretical risk from compound A and fluoride",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#afa7d0",
+   "kind": "mcq",
+   "stem": "What MAC-hours limit is suggested for sevoflurane in significant renal impairment?",
+   "options": [
+    "Below 2 MAC-hours",
+    "Below 4 MAC-hours",
+    "Below 6 MAC-hours",
+    "Below 8 MAC-hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#787ca0",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker is the best choice in renal failure, as it does not rely on renal excretion?",
+   "options": [
+    "Rocuronium alone",
+    "Pancuronium",
+    "Vecuronium alone",
+    "Atracurium or cisatracurium"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#b3eaa4",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blockers need dose reduction in renal impairment because of longer action?",
+   "options": [
+    "Atracurium and cisatracurium",
+    "Neostigmine and sugammadex",
+    "Rocuronium, vecuronium, mivacurium",
+    "Pancuronium and suxamethonium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#371c26",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker should be avoided in renal impairment because of residual paralysis risk?",
+   "options": [
+    "Cisatracurium",
+    "Rocuronium",
+    "Atracurium",
+    "Pancuronium"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#371c26",
+   "kind": "mcq",
+   "stem": "What percentage of pancuronium is excreted by the kidney?",
+   "options": [
+    "55%",
+    "85%",
+    "25%",
+    "15%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#0e7303",
+   "kind": "mcq",
+   "stem": "Above what potassium level is suxamethonium contraindicated?",
+   "options": [
+    "K < 4.5mmol/L",
+    "K > 5.5mmol/L",
+    "K < 3.5mmol/L",
+    "K < 6.5mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#9195e4",
+   "kind": "statement",
+   "stem": "Is neostigmine a problem in renal impairment, and why is recurarisation unlikely?",
+   "answer": "No problem; its clearance falls more than that of the NMBs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#365d49",
+   "kind": "mcq",
+   "stem": "Below what eGFR is sugammadex not recommended?",
+   "options": [
+    "eGFR < 15 mL/min",
+    "eGFR < 50 mL/min",
+    "eGFR < 10 mL/min",
+    "eGFR < 30 mL/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#6a3760",
+   "kind": "statement",
+   "stem": "What two changes occur in uraemia that matter for anaesthetic drug handling?",
+   "answer": "Less protein binding and lower seizure threshold",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#8a3791",
+   "kind": "mcq",
+   "stem": "By how much is the maximum local anaesthetic dose reduced in renal impairment?",
+   "options": [
+    "15%",
+    "50%",
+    "10%",
+    "25%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#bedcec",
+   "kind": "mcq",
+   "stem": "In renal impairment, how is the loading dose of anaesthetic drugs handled?",
+   "options": [
+    "Reduced by 25%",
+    "Reduced by 30%",
+    "Increased",
+    "Unchanged"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#03b6e6",
+   "kind": "statement",
+   "stem": "How should maintenance dosing of anaesthetic drugs change in renal impairment?",
+   "answer": "Lower dose or longer interval, adjusted to CrCl",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#cb10cf",
+   "kind": "mcq",
+   "stem": "Which antibiotic classes need maintenance dose adjustment in renal impairment?",
+   "options": [
+    "Macrolides and tetracyclines",
+    "Azole antifungals and linezolid",
+    "Penicillins and cephalosporins",
+    "Metronidazole and clindamycin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#ee3f32",
+   "kind": "statement",
+   "stem": "Which antibiotics are contraindicated in renal impairment?",
+   "answer": "Gentamicin, with or without vancomycin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#059701",
+   "kind": "statement",
+   "stem": "What is the advice for NSAIDs in renal impairment?",
+   "answer": "Avoid, even in anuric patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#efa75e",
+   "kind": "mcq",
+   "stem": "Which opioid has no active metabolite and is generally safe without dose change in renal impairment?",
+   "options": [
+    "Morphine",
+    "Codeine",
+    "Pethidine",
+    "Methadone"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#efa75e",
+   "kind": "mcq",
+   "stem": "What faecal excretion range is quoted for methadone?",
+   "options": [
+    "5-15%",
+    "10-45%",
+    "60-80%",
+    "70-90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#42d5f4",
+   "kind": "statement",
+   "stem": "In renal impairment, what starting dose is given as an example when eGFR is below 30?",
+   "answer": "25mg BD, not more than 50mg BD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#d0845d",
+   "kind": "mcq",
+   "stem": "What share of morphine is metabolised to the active morphine-6-glucuronide?",
+   "options": [
+    "4%",
+    "55%",
+    "10%",
+    "25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#d0845d",
+   "kind": "statement",
+   "stem": "How are morphine and its metabolites excreted?",
+   "answer": "All renally excreted",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#4df96c",
+   "kind": "statement",
+   "stem": "What does accumulation of morphine-6-glucuronide cause?",
+   "answer": "Respiratory depression, hypotension and narcolepsy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#103416",
+   "kind": "statement",
+   "stem": "Which dialysis type removes morphine-6-glucuronide?",
+   "answer": "Haemodialysis, not peritoneal dialysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#3f1672",
+   "kind": "statement",
+   "stem": "How predictable is codeine's hepatic metabolism?",
+   "answer": "Unpredictable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#3f1672",
+   "kind": "mcq",
+   "stem": "What percentage of codeine is metabolised to codeine-6-glucuronide?",
+   "options": [
+    "2%",
+    "0.6%",
+    "81%",
+    "0.8%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#bf37d6",
+   "kind": "statement",
+   "stem": "Which metabolites of codeine are active?",
+   "answer": "Morphine and M6G",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#101b36",
+   "kind": "mcq",
+   "stem": "Which hydromorphone metabolite accumulates in renal failure and is neuroexcitatory?",
+   "options": [
+    "Morphine-6-glucuronide",
+    "Hydromorphone-3-glucuronide",
+    "Oxymorphone",
+    "Normorphine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#cac3db",
+   "kind": "statement",
+   "stem": "In renal failure, what accumulates after hydrocodone is given?",
+   "answer": "Parent drug and active metabolite",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#27b5b6",
+   "kind": "mcq",
+   "stem": "What should be done with gabapentin and pregabalin dosing in renal impairment?",
+   "options": [
+    "Avoid altogether",
+    "Give a loading dose",
+    "Adjust the dose",
+    "No change needed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#64855e",
+   "kind": "mcq",
+   "stem": "What is the maximum daily gabapentin dose in renal failure?",
+   "options": [
+    "100mg",
+    "600mg",
+    "300mg",
+    "1200mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#64855e",
+   "kind": "mcq",
+   "stem": "What is the usual starting gabapentin dose at night in renal failure?",
+   "options": [
+    "50mg",
+    "400mg",
+    "100mg",
+    "900mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#a6c83b",
+   "kind": "mcq",
+   "stem": "What dose change do tricyclic antidepressants need in renal impairment?",
+   "options": [
+    "Halve the usual dose",
+    "Give double the dose",
+    "Avoid use altogether",
+    "No dose change needed"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#02d903",
+   "kind": "mcq",
+   "stem": "On renal replacement therapy, which antimicrobials need no dose change?",
+   "options": [
+    "Drugs cleared only by the kidney",
+    "Drugs cleared only by the liver",
+    "Drugs given only intravenously",
+    "Drugs with a short half-life"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#c66704",
+   "kind": "statement",
+   "stem": "On renal replacement therapy, what do antimicrobials not cleared only by the liver need?",
+   "answer": "A lower dose, a longer interval, or both",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#b5404d",
+   "kind": "mcq",
+   "stem": "On renal replacement therapy, which antimicrobials may need peak or trough levels?",
+   "options": [
+    "Aciclovir and zidovudine",
+    "Metronidazole and doxycycline",
+    "Vancomycin and macrolides",
+    "Cloxacillin and ampicillin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#9da8aa",
+   "kind": "mcq",
+   "stem": "Which antimicrobial on renal replacement therapy needs its dose cut by 50–70%?",
+   "options": [
+    "ceftriaxone",
+    "aztreonam",
+    "doxycycline",
+    "clindamycin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#be617a",
+   "kind": "mcq",
+   "stem": "For IV ampicillin with renal function under 10, what dosing interval applies?",
+   "options": [
+    "6H",
+    "12H",
+    "24H",
+    "8H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#c2b786",
+   "kind": "mcq",
+   "stem": "For IV Augmentin with renal function under 30, what dosing interval applies?",
+   "options": [
+    "8H",
+    "12H",
+    "24H",
+    "6H"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#2c0b61",
+   "kind": "blank",
+   "stem": "Oral Augmentin 625mg 8H contains 500mg amoxicillin plus ____ clavulanate.",
+   "answer": "125",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#2d8325",
+   "kind": "mcq",
+   "stem": "For oral cefalexin 0.5 to 1g with renal function under 10, what dosing interval applies?",
+   "options": [
+    "6H",
+    "8H",
+    "24H",
+    "12H"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#01bce0",
+   "kind": "mcq",
+   "stem": "For IV cefazolin 1 to 2g with renal function under 10, what dosing interval applies?",
+   "options": [
+    "24H",
+    "8H",
+    "12H",
+    "6H"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#1b4ff6",
+   "kind": "mcq",
+   "stem": "What renal adjustment does IV ceftriaxone need?",
+   "options": [
+    "Halve the dose",
+    "No renal adjustment",
+    "Lengthen the interval",
+    "Avoid in renal failure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#00c838",
+   "kind": "mcq",
+   "stem": "For IV cefepime 2g with renal function under 50, what dosing interval applies?",
+   "options": [
+    "8H",
+    "24H",
+    "12H",
+    "6H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#b71d39",
+   "kind": "mcq",
+   "stem": "What is the IV Tazocin dose for end-stage renal failure on haemodialysis?",
+   "options": [
+    "4.5g 6-8H",
+    "2.25g 6H",
+    "2.25g 8-12H",
+    "2.25g 8H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#8f7004",
+   "kind": "mcq",
+   "stem": "What renal adjustment does oral clindamycin need?",
+   "options": [
+    "Halve the dose",
+    "Lengthen the interval",
+    "Give a loading dose",
+    "No renal adjustment"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#a8ec6b",
+   "kind": "mcq",
+   "stem": "What is the doxycycline dosing schedule in renal impairment?",
+   "options": [
+    "100mg every 6 hours",
+    "100mg every 24 hours",
+    "100mg every 12 hours",
+    "50mg every 12 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#384917",
+   "kind": "mcq",
+   "stem": "What is the tigecycline maintenance dose after its 100mg loading dose?",
+   "options": [
+    "100mg Q12H",
+    "50mg Q24H",
+    "50mg Q12H",
+    "100mg Q24H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#63a7f8",
+   "kind": "mcq",
+   "stem": "For IV ciprofloxacin 400mg with renal function under 30, what interval applies?",
+   "options": [
+    "12H",
+    "24H",
+    "8H",
+    "6H"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-renal-impairment#166979",
+   "kind": "mcq",
+   "stem": "For oral ciprofloxacin 500mg with renal function under 30, what interval applies?",
+   "options": [
+    "12H",
+    "24H",
+    "8H",
+    "6H"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
