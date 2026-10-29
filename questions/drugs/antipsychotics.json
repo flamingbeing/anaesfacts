@@ -1,0 +1,573 @@
+{
+ "topic": "drugs/antipsychotics",
+ "questions": [
+  {
+   "fact_id": "drugs/antipsychotics#2da8d4",
+   "kind": "mcq",
+   "stem": "What is the relationship between the terms 'antipsychotic' and 'neuroleptic'?",
+   "options": [
+    "They are synonyms",
+    "Neuroleptic means sedative",
+    "Neuroleptic means anticholinergic",
+    "Neuroleptic means antidepressant"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#b70b78",
+   "kind": "statement",
+   "stem": "Name three chemical classes of antipsychotic drugs.",
+   "answer": "Phenothiazines, thioxanthenes, butyrophenones",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#5a3d25",
+   "kind": "mcq",
+   "stem": "Typical (first generation) antipsychotics act mainly by blocking which receptor?",
+   "options": [
+    "Serotonin 5-HT2A",
+    "Histamine H1",
+    "Dopamine D2",
+    "Muscarinic M1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#0e8c2c",
+   "kind": "mcq",
+   "stem": "How do atypical (second generation) antipsychotics differ in dopamine action from typicals?",
+   "options": [
+    "Higher dopamine receptor affinity only",
+    "No dopamine receptor activity",
+    "Lower dopamine receptor affinity plus 5-HT2A antagonism",
+    "Pure histamine H1 blockade"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#b44359",
+   "kind": "mcq",
+   "stem": "Where do antipsychotics block dopamine (mainly D2) receptors to produce their antipsychotic effect?",
+   "options": [
+    "Cerebellar nuclei",
+    "Basal ganglia and limbic forebrain",
+    "Dorsal raphe nucleus",
+    "Spinal cord dorsal horn"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#19f8bf",
+   "kind": "mcq",
+   "stem": "Where do antipsychotics block dopamine receptors to produce their antiemetic effect?",
+   "options": [
+    "Cerebellar nuclei",
+    "Spinal cord dorsal horn",
+    "Dorsal raphe nucleus",
+    "Chemoreceptor trigger zone of the medulla"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#b88eae",
+   "kind": "mcq",
+   "stem": "How soon do antipsychotic calming and reduced agitation appear?",
+   "options": [
+    "Over 2–4 wk",
+    "Straight away",
+    "After 6 months",
+    "Over 3 to 6 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#000f7c",
+   "kind": "mcq",
+   "stem": "Over what period does antipsychotic thought disorder improve?",
+   "options": [
+    "24–72 hrs",
+    "2–4 wk",
+    "6 months",
+    "Single dose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#68f605",
+   "kind": "statement",
+   "stem": "When judging antipsychotic onset of effect, what should be kept separate?",
+   "answer": "The acute receptor effects from the slower chronic effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#3a987d",
+   "kind": "mcq",
+   "stem": "In IV haloperidol dosing, what is the first dose?",
+   "options": [
+    "10 mg",
+    "1 mg",
+    "5 mg",
+    "2 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#3a987d",
+   "kind": "blank",
+   "stem": "After the first dose, IV haloperidol is given as ____ mg boluses.",
+   "answer": "0.5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#cc37e1",
+   "kind": "mcq",
+   "stem": "Quetiapine is given at which night-time dose?",
+   "options": [
+    "25 mg",
+    "12.5 mg",
+    "50 mg",
+    "100 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#cc37e1",
+   "kind": "mcq",
+   "stem": "How often should an ECG be checked for QTc prolongation during quetiapine treatment?",
+   "options": [
+    "Weekly",
+    "Daily",
+    "Monthly",
+    "Yearly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#9b4a1d",
+   "kind": "mcq",
+   "stem": "When starting low, how often should antipsychotic doses be titrated?",
+   "options": [
+    "Every 2–4 wk",
+    "Every 24–72 hrs",
+    "Every 6 months",
+    "Once only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#3266d7",
+   "kind": "blank",
+   "stem": "Antipsychotics are used for agitation, sleep, psychosis, mania and ____.",
+   "answer": "mood stabilisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#767c73",
+   "kind": "mcq",
+   "stem": "Antipsychotic indications include which of these?",
+   "options": [
+    "Hypertension",
+    "Depression with psychotic features",
+    "Asthma",
+    "Gout"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#1f410b",
+   "kind": "mcq",
+   "stem": "Antipsychotic drugs are used for which of these behavioural conditions?",
+   "options": [
+    "Gout",
+    "Violent behaviour",
+    "Asthma",
+    "Hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#ef6680",
+   "kind": "mcq",
+   "stem": "Is there a reason to combine two antipsychotics together?",
+   "options": [
+    "Always combine them for psychosis",
+    "Combine them for faster onset",
+    "No reason to combine them",
+    "Combine them if the first fails"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#accc59",
+   "kind": "mcq",
+   "stem": "How do first-generation antipsychotics differ from one another?",
+   "options": [
+    "In efficacy",
+    "In potency only",
+    "In receptor target",
+    "In dosing schedule"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#a6de35",
+   "kind": "mcq",
+   "stem": "How do atypical antipsychotics compare with typicals?",
+   "options": [
+    "Less effective, with more side effects",
+    "As effective, with a thought-to-be better side effect profile",
+    "More effective, with more side effects",
+    "More effective, with fewer side effects"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#762776",
+   "kind": "statement",
+   "stem": "When choosing an antipsychotic, what should you prefer?",
+   "answer": "A drug the patient or a family member has responded to before",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#094a2d",
+   "kind": "mcq",
+   "stem": "After how long without response should an antipsychotic be switched?",
+   "options": [
+    "1–2 wk",
+    "6 months",
+    "4–6 wk",
+    "24–72 hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#094a2d",
+   "kind": "mcq",
+   "stem": "If an antipsychotic gives a response, what is the next step?",
+   "options": [
+    "Stop the drug",
+    "Titrate the dose",
+    "Switch to another drug",
+    "Add a second drug"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#564e98",
+   "kind": "mcq",
+   "stem": "For how long should antipsychotic treatment usually continue?",
+   "options": [
+    "Two weeks only",
+    "4–6 weeks",
+    "At least 6 months, usually lifelong",
+    "Until symptoms first improve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#7ae8d0",
+   "kind": "mcq",
+   "stem": "Antipsychotic sedation comes from blockade of which receptor types?",
+   "options": [
+    "Dopamine D1 only",
+    "Serotonin 5-HT3 only",
+    "Alpha-adrenergic, muscarinic and histamine (H1)",
+    "Nicotinic acetylcholine only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#4b0c0f",
+   "kind": "mcq",
+   "stem": "Which effect is likely increased when antipsychotics are combined with opioids?",
+   "options": [
+    "Serum potassium",
+    "Platelet count",
+    "Urine output",
+    "Respiratory depression"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#092713",
+   "kind": "mcq",
+   "stem": "Rare QTc prolongation with antipsychotics predisposes to which arrhythmia?",
+   "options": [
+    "Atrial fibrillation",
+    "Ventricular tachycardia",
+    "Sinus tachycardia",
+    "Atrial flutter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#7ed62f",
+   "kind": "mcq",
+   "stem": "Dopamine blockade as an adverse effect is mainly seen with which antipsychotic generation?",
+   "options": [
+    "Second generation",
+    "Fourth generation",
+    "First generation",
+    "Third generation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#192676",
+   "kind": "mcq",
+   "stem": "Over what time course do neuroleptic malignant syndrome features develop?",
+   "options": [
+    "2–4 wk",
+    "6 months",
+    "Within 1 hour",
+    "24–72 hrs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#192676",
+   "kind": "mcq",
+   "stem": "Which of these is a feature of neuroleptic malignant syndrome?",
+   "options": [
+    "Hypothermia",
+    "Flaccid paralysis",
+    "Rigidity",
+    "Miosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#945cd3",
+   "kind": "mcq",
+   "stem": "Weight gain and diabetes with antipsychotics are mainly linked to which blockade?",
+   "options": [
+    "Dopamine D2 blockade",
+    "Muscarinic M1 blockade",
+    "Serotonin blockade",
+    "Alpha blockade"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#b1fd18",
+   "kind": "mcq",
+   "stem": "Histamine blockade by antipsychotics mainly causes which two effects?",
+   "options": [
+    "Miosis and hypertension",
+    "Tremor and rigidity",
+    "Hyperprolactinaemia and galactorrhoea",
+    "Sedation and weight gain"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#361a02",
+   "kind": "mcq",
+   "stem": "Dry mouth and constipation with antipsychotics come from blockade of which receptor?",
+   "options": [
+    "Dopamine D2",
+    "Serotonin 5-HT2A",
+    "Alpha-1 adrenergic",
+    "Muscarinic M1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#7a84f3",
+   "kind": "mcq",
+   "stem": "Typical antipsychotics are mainly associated with which adverse effects?",
+   "options": [
+    "Weight gain and metabolic syndrome",
+    "Respiratory depression and miosis",
+    "Extrapyramidal and negative symptoms",
+    "QTc prolongation only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#008573",
+   "kind": "statement",
+   "stem": "Name five adverse effects of atypical antipsychotics.",
+   "answer": "Weight gain, metabolic syndrome, sedation, postural hypotension, QT prolongation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#4b664f",
+   "kind": "mcq",
+   "stem": "Which group has the highest risk of acute dystonia with first-generation antipsychotics?",
+   "options": [
+    "Elderly women",
+    "Elderly men",
+    "Young men",
+    "Young women"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#4b664f",
+   "kind": "mcq",
+   "stem": "Which group has the highest risk of tardive dyskinesia with first-generation antipsychotics?",
+   "options": [
+    "Young men",
+    "Elderly women",
+    "Young women",
+    "Elderly men"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#e298d6",
+   "kind": "mcq",
+   "stem": "How does the potency of aripiprazole compare with other antipsychotics?",
+   "options": [
+    "Lower potency",
+    "Higher potency",
+    "Similar potency",
+    "Unknown potency"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#821f4e",
+   "kind": "statement",
+   "stem": "Which antipsychotics cause the most sedation?",
+   "answer": "Chlorpromazine, olanzapine, quetiapine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#6ac7c9",
+   "kind": "statement",
+   "stem": "Which antipsychotics cause the most galactorrhoea?",
+   "answer": "Haloperidol, risperidone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#6e3f15",
+   "kind": "statement",
+   "stem": "Which antipsychotics cause the most postural hypotension?",
+   "answer": "Chlorpromazine, quetiapine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#6e3f15",
+   "kind": "blank",
+   "stem": "Postural hypotension with antipsychotics is due to ____ blockade.",
+   "answer": "α1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#71053b",
+   "kind": "statement",
+   "stem": "Which antipsychotics cause the most weight gain?",
+   "answer": "Clozapine, olanzapine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#71053b",
+   "kind": "blank",
+   "stem": "Weight gain with antipsychotics is linked to 5HT2C and ____ blockade.",
+   "answer": "H1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#5aa7af",
+   "kind": "statement",
+   "stem": "Which antipsychotics cause the most sexual dysfunction?",
+   "answer": "Haloperidol, risperidone, sulpiride, chlorpromazine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#9b34f0",
+   "kind": "statement",
+   "stem": "Which antipsychotics cause the most extrapyramidal side effects (EPSE)?",
+   "answer": "First-generation drugs (e.g. haloperidol, trifluoperazine) and risperidone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antipsychotics#7f2e27",
+   "kind": "statement",
+   "stem": "Which antipsychotics carry the most QTc prolongation risk?",
+   "answer": "Quetiapine, ziprasidone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

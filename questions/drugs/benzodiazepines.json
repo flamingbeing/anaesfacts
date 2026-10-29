@@ -1,0 +1,371 @@
+{
+ "topic": "drugs/benzodiazepines",
+ "questions": [
+  {
+   "fact_id": "drugs/benzodiazepines#1bb790",
+   "kind": "blank",
+   "stem": "The benzodiazepine core has a benzene ring and a seven-membered ____ ring.",
+   "answer": "diazepine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#1d7df1",
+   "kind": "statement",
+   "stem": "Beyond the core rings, what three structural features does benzodiazepine activity need?",
+   "answer": "Carbonyl group at position 2 of the diazepine ring, a second benzene ring, and a halogen on the first benzene ring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#98613a",
+   "kind": "mcq",
+   "stem": "How do benzodiazepines act at GABA-A receptors?",
+   "options": [
+    "Block GABA transmission",
+    "Enhance glutamate transmission",
+    "Enhance GABA transmission",
+    "Block glutamate transmission"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#2bee7d",
+   "kind": "mcq",
+   "stem": "Which is the main inhibitory transmitter in the central nervous system?",
+   "options": [
+    "Glutamate",
+    "GABA",
+    "Dopamine",
+    "Serotonin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#2f79cf",
+   "kind": "mcq",
+   "stem": "What type of channel is the GABA-A receptor?",
+   "options": [
+    "Voltage-gated sodium channel",
+    "Ligand-gated potassium channel",
+    "Voltage-gated calcium channel",
+    "Ligand-gated chloride channel"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#2f79cf",
+   "kind": "mcq",
+   "stem": "How many subunits make up the GABA-A receptor channel?",
+   "options": [
+    "Three",
+    "Five",
+    "Seven",
+    "Nine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#de28c3",
+   "kind": "statement",
+   "stem": "Which benzodiazepine receptor subtype mediates anxiolysis?",
+   "answer": "BZ1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#4c5982",
+   "kind": "blank",
+   "stem": "BZ2 receptors mediate sedation and ____ action.",
+   "answer": "anticonvulsant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#4da940",
+   "kind": "statement",
+   "stem": "In which care setting can benzodiazepines give sedation without general anaesthesia?",
+   "answer": "Monitored anaesthesia care (MAC)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#fcd3d9",
+   "kind": "statement",
+   "stem": "When is benzodiazepine-induced amnesia useful in anaesthesia?",
+   "answer": "When poor haemodynamics limit how much volatile agent can be given",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#ee6bc7",
+   "kind": "statement",
+   "stem": "Why are benzodiazepines useful as premedication in anxious children?",
+   "answer": "Anxiolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#8a93a7",
+   "kind": "statement",
+   "stem": "Benzodiazepines provide no analgesia, so what should be done for pain relief?",
+   "answer": "Combine them with other agents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#cbc9be",
+   "kind": "mcq",
+   "stem": "Which effect makes benzodiazepines useful in local anaesthetic toxicity?",
+   "options": [
+    "Analgesic",
+    "Antiemetic",
+    "Anticonvulsant",
+    "Antiarrhythmic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#721e39",
+   "kind": "statement",
+   "stem": "What paradoxical reaction can some patients show to benzodiazepines?",
+   "answer": "Excitement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#74f3e0",
+   "kind": "mcq",
+   "stem": "How much cardiovascular depression do benzodiazepines usually cause?",
+   "options": [
+    "Severe",
+    "Mild",
+    "Profound",
+    "None"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#3cdf88",
+   "kind": "statement",
+   "stem": "How does combining benzodiazepines with opioids change respiratory depression?",
+   "answer": "It becomes marked",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#35449d",
+   "kind": "blank",
+   "stem": "Benzodiazepines cause loss of balance, which increases the ____.",
+   "answer": "fall risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#7f26fd",
+   "kind": "statement",
+   "stem": "What happens with large doses of benzodiazepines?",
+   "answer": "Accumulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#47664f",
+   "kind": "mcq",
+   "stem": "What is the flumazenil dose for benzodiazepine overdose?",
+   "options": [
+    "1 mg IV every 5 min",
+    "0.1 mg IV every 5 min",
+    "0.5 mg IV every 5 min",
+    "0.1 mg IV every 30 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#47664f",
+   "kind": "statement",
+   "stem": "Which antidote reverses benzodiazepine overdose?",
+   "answer": "Flumazenil (Romazicon)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#dc1ef8",
+   "kind": "statement",
+   "stem": "Why can re-sedation occur after flumazenil is given?",
+   "answer": "Elimination half-life is 1 hr, so each dose lasts about an hour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#1b1c48",
+   "kind": "statement",
+   "stem": "What are benzodiazepines used for in anaesthesia?",
+   "answer": "Premedication and sedation for minor procedures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#f01893",
+   "kind": "statement",
+   "stem": "Beyond anaesthesia, what are benzodiazepines widely used for?",
+   "answer": "Anxiety, insomnia, seizures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#44e8b8",
+   "kind": "statement",
+   "stem": "For how long is diazepam clinically effective, based on 2003 data?",
+   "answer": "20–30 minutes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#44e8b8",
+   "kind": "blank",
+   "stem": "Diazepam acts slightly faster but redistributes quickly into ____.",
+   "answer": "fat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#f876ab",
+   "kind": "mcq",
+   "stem": "What low diazepam dose is used for anxiety to limit sedation?",
+   "options": [
+    "2 to 5 mg three times daily",
+    "20 to 30 mg three times daily",
+    "10 to 20 mg twice daily",
+    "5 to 10 mg once daily"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#828f4f",
+   "kind": "statement",
+   "stem": "Within how long does benzodiazepine sedation usually wear off?",
+   "answer": "Within 2 weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#fa2e0c",
+   "kind": "statement",
+   "stem": "What daily diazepam dose is almost never needed?",
+   "answer": "More than 30 mg/day",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#746369",
+   "kind": "mcq",
+   "stem": "What is the approximate half-life of alprazolam?",
+   "options": [
+    "About 25 hours",
+    "About 30 hours",
+    "About 11 hours",
+    "About 10 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#746369",
+   "kind": "statement",
+   "stem": "Xanax is the brand name of which benzodiazepine?",
+   "answer": "Alprazolam",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#b0ca24",
+   "kind": "mcq",
+   "stem": "What is the approximate half-life of clonazepam?",
+   "options": [
+    "About 11 hours",
+    "About 10 hours",
+    "About 25 hours",
+    "About 30 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#30b113",
+   "kind": "statement",
+   "stem": "Which benzodiazepine's intramuscular form calms acute agitation?",
+   "answer": "Lorazepam",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#30b113",
+   "kind": "mcq",
+   "stem": "What is the approximate half-life of lorazepam?",
+   "options": [
+    "About 25 hours",
+    "About 10 hours",
+    "About 11 hours",
+    "About 30 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#39c944",
+   "kind": "blank",
+   "stem": "Diazepam has a half-life of about ____ hours.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#4f8530",
+   "kind": "mcq",
+   "stem": "What is the usual zopiclone dose?",
+   "options": [
+    "3.75 to 7.5 mg",
+    "6.25 to 12.5 mg",
+    "0.25 to 0.5 mg",
+    "15 to 30 mg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/benzodiazepines#31396a",
+   "kind": "mcq",
+   "stem": "What is the usual dose of zolpidem CR?",
+   "options": [
+    "3.75 to 7.5 mg",
+    "15 to 30 mg",
+    "6.25 to 12.5 mg",
+    "1 to 2 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

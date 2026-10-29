@@ -1,0 +1,635 @@
+{
+ "topic": "comorbidities/diabetes-mellitus",
+ "questions": [
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#294a56",
+   "kind": "statement",
+   "stem": "Which long-term measure of diabetic control is assessed before surgery?",
+   "answer": "HbA1c",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#24dcff",
+   "kind": "mcq",
+   "stem": "Repeat the HbA1c before surgery in diabetes if the last one is older than what?",
+   "options": [
+    "1-2 days",
+    "4-6weeks",
+    "3-6 months",
+    "1-2 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#21a29b",
+   "kind": "mcq",
+   "stem": "Which team should a diabetic patient with HbA1c of 8.5-10% be referred to?",
+   "options": [
+    "Endocrinology",
+    "General physician or GP",
+    "Cardiology",
+    "Renal medicine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#68b25d",
+   "kind": "mcq",
+   "stem": "Which team should a diabetic patient with HbA1c above 10% be referred to?",
+   "options": [
+    "Respiratory medicine",
+    "Haematology",
+    "Endocrinology",
+    "Dermatology"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#68b25d",
+   "kind": "statement",
+   "stem": "If HbA1c is above 10%, when should a diabetic patient have surgery?",
+   "answer": "Only if urgent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#9b4a95",
+   "kind": "statement",
+   "stem": "In diabetes, what does a higher preoperative HbA1c tend to predict?",
+   "answer": "More postoperative complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#e14841",
+   "kind": "statement",
+   "stem": "Which glucose measure should be reviewed as a trend for diabetic inpatients?",
+   "answer": "Capillary glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#bf0c64",
+   "kind": "mcq",
+   "stem": "What should be done for non-urgent surgery with severe hyper- or hypoglycaemia in diabetes?",
+   "options": [
+    "Proceed with surgery as planned",
+    "Postpone and refer to endocrinology",
+    "Operate and refer afterwards",
+    "Give extra oral agents on the day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#3d05a4",
+   "kind": "statement",
+   "stem": "If a diabetic patient has DKA or a hyperosmolar state, what should happen to surgery?",
+   "answer": "Postpone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#7036ef",
+   "kind": "mcq",
+   "stem": "Which diabetes type carries a much higher risk of DKA?",
+   "options": [
+    "Type 2 diabetes",
+    "Type 1 diabetes",
+    "Prediabetes",
+    "Steroid-induced hyperglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#d0e040",
+   "kind": "statement",
+   "stem": "In diabetes, when should a patient be first on the theatre list?",
+   "answer": "If insulin dependent or poorly controlled",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#54a665",
+   "kind": "blank",
+   "stem": "Oral hypoglycaemic agents (OHGAs) are stopped on the ____ of surgery.",
+   "answer": "morning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#cc9f72",
+   "kind": "mcq",
+   "stem": "How long before surgery should SGLT2 inhibitors be stopped?",
+   "options": [
+    "24hrs",
+    "48hrs",
+    "72hrs",
+    "1 week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#a8deb5",
+   "kind": "mcq",
+   "stem": "How long before surgery should GLP1 receptor agonists be stopped?",
+   "options": [
+    "24hrs",
+    "72hrs",
+    "1 week",
+    "4 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#dee5ec",
+   "kind": "statement",
+   "stem": "Before surgery, which insulin is stopped in diabetes while basal insulin continues?",
+   "answer": "Prandial insulin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#031ff9",
+   "kind": "statement",
+   "stem": "In diabetes around surgery, what should be monitored regularly?",
+   "answer": "Capillary glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#3daa58",
+   "kind": "statement",
+   "stem": "In type 1 diabetes, which insulin must never be stopped around surgery?",
+   "answer": "Basal insulin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#dede66",
+   "kind": "mcq",
+   "stem": "Which diabetic end-organ complication affects the kidneys?",
+   "options": [
+    "Retinopathy",
+    "Nephropathy",
+    "Hepatitis",
+    "Cholecystitis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#3df626",
+   "kind": "statement",
+   "stem": "How do surgery and stress affect glucose tolerance in diabetes?",
+   "answer": "They worsen glucose intolerance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#0c3863",
+   "kind": "statement",
+   "stem": "Name two cytokines released in the surgical stress response in diabetes.",
+   "answer": "Interleukin-6 and TNF-alpha",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#828889",
+   "kind": "statement",
+   "stem": "What two surgical problems does diabetes make more likely?",
+   "answer": "Infection and poor wound healing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#efcd56",
+   "kind": "statement",
+   "stem": "Which joint problem in diabetes can make airway management harder?",
+   "answer": "Temporomandibular joint stiffness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#fbc60c",
+   "kind": "statement",
+   "stem": "Which low-glucose state should perioperative diabetes care avoid?",
+   "answer": "Hypoglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#f4bebc",
+   "kind": "statement",
+   "stem": "Which two severe hyperglycaemic states should perioperative diabetes care prevent?",
+   "answer": "Ketoacidosis and hyperosmolar states",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#cfbc9e",
+   "kind": "statement",
+   "stem": "Beyond glucose control, what should perioperative diabetes care assess and optimise?",
+   "answer": "End-organ complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#b5be2f",
+   "kind": "mcq",
+   "stem": "Which fluid should a diabetic patient receive while nil by mouth?",
+   "options": [
+    "Normal saline 0.9% infusion",
+    "Dextrose 5%-containing infusion",
+    "Hartmann's solution",
+    "Dextrose 50% bolus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#f6c9ec",
+   "kind": "statement",
+   "stem": "What type of insulin is used for sliding-scale cover while fasting in diabetes?",
+   "answer": "Rapid-acting insulin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#430bcb",
+   "kind": "mcq",
+   "stem": "How often should capillary glucose be checked while fasting in diabetes?",
+   "options": [
+    "Every 2 hours",
+    "Every 4 hours",
+    "Every 12 hours",
+    "Once daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#6972be",
+   "kind": "statement",
+   "stem": "What medicine change is needed for diet-controlled diabetes before surgery?",
+   "answer": "No change",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#bcacca",
+   "kind": "mcq",
+   "stem": "How long before surgery should long-acting oral agents such as metformin be withheld?",
+   "options": [
+    "12hrs",
+    "24hrs",
+    "48hrs",
+    "1 week"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#096dff",
+   "kind": "mcq",
+   "stem": "In prolonged fasting, what twice-daily basal insulin dose per kg is started on surgery morning?",
+   "options": [
+    "0.05u/kg",
+    "0.1u/kg",
+    "0.5u/kg",
+    "1u/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#096dff",
+   "kind": "statement",
+   "stem": "In prolonged fasting, which basal insulin is started on the morning of surgery?",
+   "answer": "Isophane insulin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#7d300d",
+   "kind": "mcq",
+   "stem": "By what percentage should basal insulin be reduced if a diabetic patient is having hypos?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#ce0381",
+   "kind": "mcq",
+   "stem": "What share of the total daily dose of premixed insulin is given as basal?",
+   "options": [
+    "30%",
+    "50%",
+    "70%",
+    "100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#ce0381",
+   "kind": "mcq",
+   "stem": "By how much should premixed insulin be reduced if the total daily dose is very high?",
+   "options": [
+    "5-10%",
+    "25-50%",
+    "60-75%",
+    "Stop it entirely"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#4dfbd1",
+   "kind": "statement",
+   "stem": "What named regimen is an alternative to sliding-scale insulin in diabetes?",
+   "answer": "Alberti regimen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#a69027",
+   "kind": "statement",
+   "stem": "In diabetes, over what period does 1 unit of rapid-acting insulin lower glucose?",
+   "answer": "2 to 4 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#56a572",
+   "kind": "mcq",
+   "stem": "By about how much does 1 unit of insulin lower glucose in diabetes?",
+   "options": [
+    "0.5mmol/L",
+    "2mmol/L",
+    "5mmol/L",
+    "10mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#8ee00e",
+   "kind": "mcq",
+   "stem": "In diabetes, which formula gives the insulin correction factor from total daily dose?",
+   "options": [
+    "50/TDD",
+    "100/TDD",
+    "TDD/24",
+    "500/TDD"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#441eda",
+   "kind": "mcq",
+   "stem": "Roughly how much does 1 ml of D50 raise blood glucose in diabetes?",
+   "options": [
+    "0.5mmol/L/ml",
+    "0.1mmol/L/ml",
+    "1mmol/L/ml",
+    "10mmol/L/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#a7927d",
+   "kind": "mcq",
+   "stem": "How many RCTs were pooled in the meta-analysis of intensive glucose control in diabetes?",
+   "options": [
+    "6",
+    "12",
+    "24",
+    "40"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#a7927d",
+   "kind": "statement",
+   "stem": "What did intensive glucose control cause more often than conventional control in that meta-analysis?",
+   "answer": "Hypoglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#f537a5",
+   "kind": "mcq",
+   "stem": "What glucose target range is suggested for non-critically ill inpatients with diabetes?",
+   "options": [
+    "4 to 7 mmol/L",
+    "6.1 to 10 mmol/L",
+    "10 to 14 mmol/L",
+    "12 to 16 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#c0b29b",
+   "kind": "statement",
+   "stem": "Why does UpToDate suggest a 110 to 180 mg/dL target for inpatients with diabetes?",
+   "answer": "Hypoglycaemia risk in unmonitored settings",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#9c3c29",
+   "kind": "mcq",
+   "stem": "What looser glucose ceiling is reasonable for diabetic patients, depending on hypoglycaemia risk?",
+   "options": [
+    "<100 mg/dL, 5.5 mmol/L",
+    "<150 mg/dL, 8.3 mmol/L",
+    "<200 mg/dL, 11 mmol/L",
+    "<300 mg/dL, 17 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#487531",
+   "kind": "mcq",
+   "stem": "What intraoperative glucose range is targeted in diabetes?",
+   "options": [
+    "4-6 mmol/L",
+    "6.5-10 mmol/L",
+    "11-14 mmol/L",
+    "3-5 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#1989f0",
+   "kind": "statement",
+   "stem": "At what glucose level (mmol/L) does glycosuria start intraoperatively in diabetes?",
+   "answer": ">11",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#e5a47a",
+   "kind": "mcq",
+   "stem": "How often should glucose be checked intraoperatively in diabetes?",
+   "options": [
+    "Hourly or half-hourly",
+    "Every 4 hours",
+    "Once at induction",
+    "Only at the end of surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#60e129",
+   "kind": "mcq",
+   "stem": "Which dextrose infusion is chosen intraoperatively if fluid overload is a risk?",
+   "options": [
+    "D50",
+    "D10",
+    "Hartmann's solution",
+    "Albumin 4%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#d9aace",
+   "kind": "statement",
+   "stem": "How long before surgery should an intraoperative insulin infusion ideally start?",
+   "answer": ">2hrs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#a47f1b",
+   "kind": "mcq",
+   "stem": "What is the starting rate of an intraoperative insulin infusion in diabetes?",
+   "options": [
+    "0.2u/kg/h",
+    "0.02u/kg/h",
+    "0.5u/kg/h",
+    "1u/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#a47f1b",
+   "kind": "statement",
+   "stem": "Besides weight-based dosing, what formula sets a starting insulin infusion rate in diabetes?",
+   "answer": "TDD divided by 24",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#6c9593",
+   "kind": "mcq",
+   "stem": "Which drug treats intraoperative hypoglycaemia below 4mmol/L in diabetes?",
+   "options": [
+    "Extra rapid-acting insulin",
+    "D50",
+    "Sodium bicarbonate",
+    "Normal saline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#f17acd",
+   "kind": "mcq",
+   "stem": "Which induction approach is considered in diabetes if gastroparesis is suspected?",
+   "options": [
+    "Spinal anaesthesia",
+    "RSI",
+    "Laryngeal mask only",
+    "Local infiltration only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#e37602",
+   "kind": "mcq",
+   "stem": "Autonomic neuropathy in diabetes can worsen hypotension with which technique?",
+   "options": [
+    "Oral premedication only",
+    "Spinals and epidurals",
+    "Intravenous cannulation",
+    "Topical anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#7026dd",
+   "kind": "mcq",
+   "stem": "Postoperatively, which infusion is used with sliding-scale insulin in diabetes while not eating?",
+   "options": [
+    "Normal saline",
+    "D5",
+    "D50",
+    "Hartmann's solution"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/diabetes-mellitus#cc0bcc",
+   "kind": "statement",
+   "stem": "After surgery in diabetes, when should reduced-dose sliding-scale insulin be kept going?",
+   "answer": "Until eating",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

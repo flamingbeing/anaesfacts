@@ -1,0 +1,543 @@
+{
+ "topic": "comorbidities/coagulopathy",
+ "questions": [
+  {
+   "fact_id": "comorbidities/coagulopathy#050976",
+   "kind": "mcq",
+   "stem": "In coagulopathy, which regional anaesthetic technique is contraindicated?",
+   "options": [
+    "Topical local anaesthesia",
+    "Wound infiltration with local anaesthetic",
+    "Neuraxial and deep peripheral nerve blocks",
+    "Superficial cutaneous nerve blocks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#2f5f91",
+   "kind": "mcq",
+   "stem": "In coagulopathy, which specialty should be referred to?",
+   "options": [
+    "Cardiology",
+    "Nephrology",
+    "Endocrinology",
+    "Haematology"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#ed18d6",
+   "kind": "statement",
+   "stem": "How can a congenital coagulopathy first present?",
+   "answer": "In adulthood, with a trigger",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#e24a87",
+   "kind": "mcq",
+   "stem": "What daily dose of vitamin K is given in coagulopathy?",
+   "options": [
+    "1mg",
+    "100mg",
+    "10mg",
+    "20mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#e24a87",
+   "kind": "mcq",
+   "stem": "In coagulopathy, what FFP dose may be given with daily vitamin K?",
+   "options": [
+    "1ml/kg",
+    "30ml/kg",
+    "15mg/kg",
+    "15ml/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#6a62d7",
+   "kind": "mcq",
+   "stem": "What INR should be reached before surgery or line insertion in coagulopathy?",
+   "options": [
+    "INR <2.5",
+    "INR <1.5",
+    "INR <3.0",
+    "INR <4.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#1dfae7",
+   "kind": "mcq",
+   "stem": "What INR target applies to low-risk procedures in coagulopathy?",
+   "options": [
+    "INR <2.5",
+    "INR <2.0",
+    "INR <3.0",
+    "INR <4.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#188607",
+   "kind": "mcq",
+   "stem": "What INR is needed for high-risk procedures such as neurosurgery or neuraxial blocks in coagulopathy?",
+   "options": [
+    "INR <3.0",
+    "INR <1.2/1.3",
+    "INR <2.5",
+    "INR <4.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#73993c",
+   "kind": "mcq",
+   "stem": "What PT target in seconds is set for coagulopathy before surgery?",
+   "options": [
+    "<14.2s",
+    "<19.8s",
+    "<25.0s",
+    "<30.5s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#d3dca6",
+   "kind": "mcq",
+   "stem": "What APTT target in seconds is set for coagulopathy before surgery?",
+   "options": [
+    "<35.6s",
+    "<53.4s",
+    "<64.0s",
+    "<70.2s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#dd43c3",
+   "kind": "mcq",
+   "stem": "What APTT ratio to normal is acceptable for low-risk procedures in coagulopathy?",
+   "options": [
+    "<2.0 times normal",
+    "<1.8 times normal",
+    "<2.5 times normal",
+    "<3.0 times normal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#3674f3",
+   "kind": "statement",
+   "stem": "In a patient with coagulopathy, what is described as paramount for bleeding?",
+   "answer": "Surgical haemostasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#7d7213",
+   "kind": "mcq",
+   "stem": "Which agent is used to correct coagulopathy during surgery?",
+   "options": [
+    "Protamine",
+    "Dextran",
+    "Albumin",
+    "Prothrombin complex concentrate (PCC)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#2d999a",
+   "kind": "mcq",
+   "stem": "For blood conservation in coagulopathy, which drug is used?",
+   "options": [
+    "Dextran",
+    "Tranexamic acid (TXA)",
+    "Albumin",
+    "Protamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#5f93f4",
+   "kind": "statement",
+   "stem": "Why should nasal intubation be avoided in severe coagulopathy?",
+   "answer": "Risk of airway bleeding that cannot be compressed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#fb6f9f",
+   "kind": "mcq",
+   "stem": "What factor VIII level defines severe haemophilia?",
+   "options": [
+    "40-60%",
+    "5-30%",
+    "<2%",
+    "30-50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#2bf5bf",
+   "kind": "mcq",
+   "stem": "What factor VIII level defines moderate haemophilia?",
+   "options": [
+    "10-20%",
+    "5-30%",
+    "30-50%",
+    "2-5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#aca4b6",
+   "kind": "mcq",
+   "stem": "What factor VIII level defines mild haemophilia, where bleeding follows trauma?",
+   "options": [
+    "2-5%",
+    "<2%",
+    "5-30%",
+    "40-60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#3b3e68",
+   "kind": "blank",
+   "stem": "Haemophilia affects ____; females are carriers but can have mild disease.",
+   "answer": "males",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#06d9be",
+   "kind": "statement",
+   "stem": "What happens to female homozygotes in haemophilia?",
+   "answer": "They die in utero",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#1039ee",
+   "kind": "statement",
+   "stem": "In a haemophilia history, where is bleeding typically reported?",
+   "answer": "Muscles, joints and internal organs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#88d3cd",
+   "kind": "statement",
+   "stem": "What should examination look for in haemophilia?",
+   "answer": "Signs of bleeding or bruising",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#68952d",
+   "kind": "mcq",
+   "stem": "What factor level should be aimed for before surgery in haemophilia?",
+   "options": [
+    "5-30%",
+    "2-5%",
+    "50-100%",
+    "10-20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#f0b0f8",
+   "kind": "mcq",
+   "stem": "How long should factor levels be maintained after haemophilia surgery?",
+   "options": [
+    "1-2 days",
+    "2-7 days",
+    "7-14 days",
+    "Until discharge"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#df79ec",
+   "kind": "statement",
+   "stem": "In haemophilia, what should be minimised during surgery?",
+   "answer": "Blood loss and transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#10eeba",
+   "kind": "mcq",
+   "stem": "Which injection route should be avoided in haemophilia?",
+   "options": [
+    "Subcutaneous injections",
+    "Intravenous injections",
+    "Oral dosing",
+    "IM injections"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#a1d1ec",
+   "kind": "mcq",
+   "stem": "For mild bleeding risk in haemophilia, what DDAVP dose is given over 30min?",
+   "options": [
+    "0.1mcg/kg",
+    "0.3mcg/kg",
+    "0.5mcg/kg",
+    "1mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#2a0d00",
+   "kind": "mcq",
+   "stem": "For mild bleeding risk in haemophilia, what tranexamic acid dose is given?",
+   "options": [
+    "20mg/kg IV over 5 min, once daily",
+    "10mg/kg IV over 5 min, three times daily",
+    "20mg/kg IV over 30 min, three times daily",
+    "20mg/kg IV over 5 min, three times daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#63426e",
+   "kind": "statement",
+   "stem": "In haemophilia surgery, which type of factor is used for replacement?",
+   "answer": "Recombinant factors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#63426e",
+   "kind": "blank",
+   "stem": "In haemophilia surgery, factor replacement is maintained for ____ days after surgery.",
+   "answer": "2-7",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#9d6792",
+   "kind": "statement",
+   "stem": "In haemophilia surgery, what should clinicians monitor for?",
+   "answer": "Bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#6742e2",
+   "kind": "statement",
+   "stem": "Who should be involved in close joint care for haemophilia?",
+   "answer": "Haematology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#ec7708",
+   "kind": "statement",
+   "stem": "In von Willebrand disease, what does von Willebrand factor do besides platelet adhesion?",
+   "answer": "It carries factor VIII",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#67f525",
+   "kind": "mcq",
+   "stem": "What inheritance pattern does von Willebrand disease show?",
+   "options": [
+    "X-linked recessive",
+    "Mitochondrial inheritance",
+    "Autosomal dominant",
+    "X-linked dominant"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#f87768",
+   "kind": "mcq",
+   "stem": "Type 1 von Willebrand disease makes up what share of cases?",
+   "options": [
+    "9%",
+    "1%",
+    "90%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#f87768",
+   "kind": "statement",
+   "stem": "In von Willebrand disease type 1, what is the underlying defect?",
+   "answer": "Reduced amount of vWF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#7c926e",
+   "kind": "mcq",
+   "stem": "Type 2 von Willebrand disease makes up what share of cases?",
+   "options": [
+    "90%",
+    "1%",
+    "25%",
+    "9%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#7c926e",
+   "kind": "statement",
+   "stem": "Name the four subtypes of type 2 von Willebrand disease.",
+   "answer": "A, B, N and M",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#bb8019",
+   "kind": "mcq",
+   "stem": "In which von Willebrand subtype is DDAVP contraindicated?",
+   "options": [
+    "Type 2A",
+    "Type 2M",
+    "Type 2B",
+    "Type 2N"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#bb8019",
+   "kind": "statement",
+   "stem": "Why is DDAVP contraindicated in type 2B von Willebrand disease?",
+   "answer": "Gain-of-function defect with risk of low platelets and thrombosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#10fa18",
+   "kind": "mcq",
+   "stem": "What share of von Willebrand disease cases are type 3?",
+   "options": [
+    "10%",
+    "9%",
+    "1%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#10fa18",
+   "kind": "blank",
+   "stem": "Type 3 von Willebrand disease has an ____ inheritance pattern.",
+   "answer": "autosomal recessive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#071de9",
+   "kind": "statement",
+   "stem": "Name the bleeding history features to ask about in von Willebrand disease.",
+   "answer": "Epistaxis, bruising, haemarthrosis, haematoma, menorrhagia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#064184",
+   "kind": "statement",
+   "stem": "Who should be consulted for von Willebrand disease?",
+   "answer": "Haematologist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#c7c7b1",
+   "kind": "mcq",
+   "stem": "What IV DDAVP dose is used to test response in von Willebrand disease?",
+   "options": [
+    "0.3mcg/kg IV over 10min",
+    "0.3mcg/kg IV over 30min",
+    "0.5mcg/kg IV over 30min",
+    "1mcg/kg IV over 30min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#c7c7b1",
+   "kind": "statement",
+   "stem": "In a DDAVP response test for von Willebrand disease, what is measured before and after?",
+   "answer": "vWF levels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/coagulopathy#cab381",
+   "kind": "mcq",
+   "stem": "Which tranexamic acid regimen can be used in von Willebrand disease?",
+   "options": [
+    "10mg/kg IV three times daily",
+    "20mg/kg IV once daily",
+    "1g IV three times daily",
+    "20mg/kg IV three times daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

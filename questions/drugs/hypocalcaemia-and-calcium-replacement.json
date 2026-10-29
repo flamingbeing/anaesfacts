@@ -1,0 +1,237 @@
+{
+ "topic": "drugs/hypocalcaemia-and-calcium-replacement",
+ "questions": [
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#d7680c",
+   "kind": "mcq",
+   "stem": "What corrected serum calcium level defines hypocalcaemia?",
+   "options": [
+    "Above 10.5 mg/dL (2.6 mmol/L)",
+    "Below 10 mg/dL (2.5 mmol/L)",
+    "Below 8.5 mg/dL (2.2 mmol/L)",
+    "Above 12 mg/dL (3 mmol/L)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#b8d1ad",
+   "kind": "mcq",
+   "stem": "What calcium range in mmol/L defines mild to moderate hypocalcaemia?",
+   "options": [
+    "Below 1.5 mmol/L",
+    "2.2-2.6 mmol/L",
+    "Below 1.9 mmol/L",
+    "1.9-2.2 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#9ceead",
+   "kind": "statement",
+   "stem": "What calcium level in mmol/L defines severe hypocalcaemia?",
+   "answer": "Below 1.9 mmol/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#8679cd",
+   "kind": "mcq",
+   "stem": "In PTH-dependent hypocalcaemia, what is the PTH level?",
+   "options": [
+    "Raised",
+    "Normal or low",
+    "Markedly raised",
+    "Falling steadily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#5c1b8a",
+   "kind": "statement",
+   "stem": "Which type of hypocalcaemia has a raised PTH level?",
+   "answer": "PTH-independent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#9d6fd6",
+   "kind": "statement",
+   "stem": "How does hypomagnesaemia cause hypocalcaemia?",
+   "answer": "PTH resistance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#bcb5b6",
+   "kind": "statement",
+   "stem": "Which mnemonic recalls the clinical features of hypocalcaemia?",
+   "answer": "CATs go NUMB",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#b0e104",
+   "kind": "statement",
+   "stem": "Hypocalcaemia can cause which airway problem presenting with stridor?",
+   "answer": "Laryngospasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#ae8cc3",
+   "kind": "mcq",
+   "stem": "How should 10% calcium gluconate be given intravenously?",
+   "options": [
+    "10 ml IV over 1 min",
+    "1 ml IV over 10 min",
+    "10 ml IV over 30 min",
+    "10 ml IV over 10 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#73b86b",
+   "kind": "mcq",
+   "stem": "What is the concentration of 10% calcium gluconate?",
+   "options": [
+    "50 mg/ml",
+    "10 mg/ml",
+    "100 mg/ml",
+    "1000 mg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#73b86b",
+   "kind": "statement",
+   "stem": "How much calcium gluconate is in one 10 ml vial of 10%?",
+   "answer": "1 g",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#5fe7ad",
+   "kind": "mcq",
+   "stem": "How much elemental calcium does 10% calcium gluconate contain?",
+   "options": [
+    "27.2 mg/mL",
+    "100 mg/mL",
+    "2.2 mg/mL",
+    "8.9 mg/mL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#724947",
+   "kind": "mcq",
+   "stem": "Which 10% calcium salt is an IV alternative to calcium gluconate?",
+   "options": [
+    "Calcium chloride",
+    "Calcium carbonate",
+    "Calcium lactate",
+    "Calcium citrate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#b0d8b5",
+   "kind": "mcq",
+   "stem": "How much elemental calcium does 10% calcium chloride contain?",
+   "options": [
+    "8.9 mg/mL",
+    "100 mg/mL",
+    "2.2 mg/mL",
+    "27.2 mg/mL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#b0d8b5",
+   "kind": "statement",
+   "stem": "How many times more elemental calcium does calcium chloride contain than gluconate?",
+   "answer": "3 times",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#3195e6",
+   "kind": "mcq",
+   "stem": "Compared with gluconate, what is the main risk of calcium chloride leaking outside the vein?",
+   "options": [
+    "Hypomagnesaemia",
+    "Tissue necrosis",
+    "Bronchospasm",
+    "Renal calculi"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#3195e6",
+   "kind": "statement",
+   "stem": "What is the osmolality of calcium chloride, the more irritant calcium salt?",
+   "answer": "2,000 mosm/kg H2O",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#8dced2",
+   "kind": "mcq",
+   "stem": "By how much should dietary calcium be increased daily in mild or maintenance hypocalcaemia?",
+   "options": [
+    "100 mg/day",
+    "5000 mg/day",
+    "1000 mg/day",
+    "250 mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#8dced2",
+   "kind": "mcq",
+   "stem": "Which oral calcium carbonate dose is given as an example for dietary supplementation?",
+   "options": [
+    "125 mg BD",
+    "5 g BD",
+    "1.25 g OD",
+    "1.25 g BD"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/hypocalcaemia-and-calcium-replacement#647167",
+   "kind": "mcq",
+   "stem": "What calcitriol dose range is given with or without calcium in hypocalcaemia?",
+   "options": [
+    "1-2 mcg OM",
+    "0.25-0.5 mcg OM",
+    "5-10 mcg OM",
+    "0.25-0.5 mg OM"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

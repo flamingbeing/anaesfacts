@@ -1,0 +1,759 @@
+{
+ "topic": "comorbidities/neonatal-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#ef0088",
+   "kind": "mcq",
+   "stem": "In neonatal anaesthesia, which bed should be considered when booking an overall high-risk neonate?",
+   "options": [
+    "A standard general ward bed",
+    "A day-case recovery bed",
+    "A high dependency bed",
+    "A routine outpatient bed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#2c93ce",
+   "kind": "statement",
+   "stem": "In neonatal anaesthesia, what should you do if the neonate has an active upper respiratory tract infection?",
+   "answer": "Do not proceed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#2c93ce",
+   "kind": "statement",
+   "stem": "In neonatal anaesthesia, what should happen to a neonate with a murmur found on assessment?",
+   "answer": "Refer to cardiology.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#1fca5c",
+   "kind": "statement",
+   "stem": "In neonatal anaesthesia, how is cardiac output best described?",
+   "answer": "Rate-dependent.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#aaf965",
+   "kind": "blank",
+   "stem": "In neonatal anaesthesia, prematurity can cause ____ and retinopathy of prematurity.",
+   "answer": "intraventricular haemorrhage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#a81209",
+   "kind": "mcq",
+   "stem": "Up to what post-conceptual age is a baby classed as a neonate?",
+   "options": [
+    "40 weeks",
+    "52 weeks",
+    "44 weeks",
+    "60 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#a81209",
+   "kind": "statement",
+   "stem": "In neonatal anaesthesia, how long after birth is a full-term 40-week baby still a neonate?",
+   "answer": "The first 4 weeks after birth.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#f6edbd",
+   "kind": "blank",
+   "stem": "In a child under 4, the epiglottis is large, floppy and ____.",
+   "answer": "U-shaped",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#f6edbd",
+   "kind": "mcq",
+   "stem": "In a child under 4 years, which feature of the head is prominent?",
+   "options": [
+    "Forehead",
+    "Maxilla",
+    "Occiput",
+    "Temporal bone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#c91411",
+   "kind": "statement",
+   "stem": "In neonatal anaesthesia, where is the larynx narrowest?",
+   "answer": "At the cricoid.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#be8747",
+   "kind": "statement",
+   "stem": "Why do neonates have little respiratory reserve, according to the physiology notes?",
+   "answer": "Few type 1 fibres in the diaphragm, and horizontal ribs.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#8e2942",
+   "kind": "mcq",
+   "stem": "What is the aim for inspired oxygen (FiO2) in neonatal anaesthesia?",
+   "options": [
+    "As high as possible",
+    "Always 100%",
+    "Fixed at 21%",
+    "As low as possible"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#cfb1d1",
+   "kind": "mcq",
+   "stem": "In neonatal cardiac disease, when do duct-dependent lesions typically collapse?",
+   "options": [
+    "At birth",
+    "At 1 month of age",
+    "At 6 months of age",
+    "At 1 week of age"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#cfb1d1",
+   "kind": "statement",
+   "stem": "In a neonate with a duct-dependent lesion, what is started until definitive repair?",
+   "answer": "Prostaglandin infusion.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#507b42",
+   "kind": "statement",
+   "stem": "In neonatal anaesthesia, how do fasting times compare with older children?",
+   "answer": "Shorter.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#c4d7c1",
+   "kind": "mcq",
+   "stem": "Renal clearance is immature in infants up to what age, according to neonatal anaesthesia notes?",
+   "options": [
+    "1-2 weeks",
+    "6-12 months",
+    "3-4 days",
+    "2-3 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#816f67",
+   "kind": "statement",
+   "stem": "In neonatal anaesthesia, up to what age is hepatic metabolism immature?",
+   "answer": "Under 3 months.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#62a55e",
+   "kind": "blank",
+   "stem": "In neonatal anaesthesia, blood glucose is low in the first 24 hours if it is ____.",
+   "answer": "<2.2mmol/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#1b37cb",
+   "kind": "blank",
+   "stem": "In neonatal anaesthesia, blood glucose is low after the first 24 hours if it is ____.",
+   "answer": "<2.8mmol/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#5d228d",
+   "kind": "statement",
+   "stem": "In a neonate's antenatal history, name one maternal condition to ask about.",
+   "answer": "Gestational diabetes or pre-eclampsia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#5d228d",
+   "kind": "mcq",
+   "stem": "Which score is recorded in a neonate's birth history for anaesthesia?",
+   "options": [
+    "Glasgow Coma Score",
+    "Apgar score",
+    "Wells score",
+    "CHA2DS2-VASc score"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#70685a",
+   "kind": "blank",
+   "stem": "Neonatal preoperative assessment should estimate the expected ____.",
+   "answer": "blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#cf33ec",
+   "kind": "statement",
+   "stem": "What may make it impossible to meet the parents before neonatal surgery?",
+   "answer": "An immediate post-birth transfer.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#483d9d",
+   "kind": "mcq",
+   "stem": "Which test is routine in neonatal preoperative investigations?",
+   "options": [
+    "Serum amylase",
+    "Blood glucose",
+    "Thyroid function tests",
+    "Urine microscopy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#699f78",
+   "kind": "statement",
+   "stem": "In neonatal preoperative investigations, what guides any further tests?",
+   "answer": "The surgery and any anomalies.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#8c7930",
+   "kind": "statement",
+   "stem": "Why is sedative premedication rarely used in neonatal anaesthesia?",
+   "answer": "Sensitivity, airway obstruction and respiratory depression.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#11707d",
+   "kind": "statement",
+   "stem": "In neonatal premedication, why must vitamin K be confirmed as given?",
+   "answer": "Deficiency of factors II, VII, IX and X brings bleeding risk.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#bdb27c",
+   "kind": "statement",
+   "stem": "In neonatal anaesthesia, what monitoring is considered enough in recovery?",
+   "answer": "SpO2 alone.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#7973d7",
+   "kind": "statement",
+   "stem": "Before a neonate goes to theatre, where can intubation sometimes be done?",
+   "answer": "In the NICU.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#7973d7",
+   "kind": "statement",
+   "stem": "What access should a neonate have before transfer to theatre?",
+   "answer": "IV access.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#14f832",
+   "kind": "mcq",
+   "stem": "What ambient theatre temperature is advised for a neonate's surgery?",
+   "options": [
+    "18-20°C",
+    "22-24°C",
+    "26-28°C",
+    "30-32°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#14f832",
+   "kind": "statement",
+   "stem": "Besides raising ambient temperature, what device helps keep a neonate warm in theatre?",
+   "answer": "Forced-air warmer.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#d9379d",
+   "kind": "statement",
+   "stem": "How should a neonate be transported for surgery, to protect temperature?",
+   "answer": "In a warmed transport unit.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#5cbeba",
+   "kind": "mcq",
+   "stem": "Where is pre-ductal SpO2 ideally measured in a neonate?",
+   "options": [
+    "Left foot",
+    "Right hand",
+    "Either big toe",
+    "Left ankle"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#5cbeba",
+   "kind": "statement",
+   "stem": "In a septic neonate, what does low post-ductal saturation suggest?",
+   "answer": "Low pulmonary blood flow, e.g. pulmonary hypertension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#e1da58",
+   "kind": "mcq",
+   "stem": "In neonatal IV induction, what thiopental dose may be needed?",
+   "options": [
+    "5-6 mg/kg",
+    "2-3 mg/kg",
+    "0.5-1 mg/kg",
+    "10-12 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#e1da58",
+   "kind": "mcq",
+   "stem": "In neonatal IV induction, what ketamine dose may be needed?",
+   "options": [
+    "5-10 mg/kg",
+    "0.1-0.2 mg/kg",
+    "1-2 mg/kg",
+    "3-4 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#db4e2f",
+   "kind": "blank",
+   "stem": "IM ketamine 5 mg/kg may be used in neonates if IV access is ____.",
+   "answer": "difficult",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#db4e2f",
+   "kind": "statement",
+   "stem": "Which type of congenital heart disease is an indication for IM ketamine 5 mg/kg in neonates?",
+   "answer": "One dependent on a left to right shunt.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#573c9d",
+   "kind": "mcq",
+   "stem": "What suxamethonium dose is used in neonates, which is larger than normal?",
+   "options": [
+    "1 mg/kg",
+    "0.5 mg/kg",
+    "3 mg/kg",
+    "6 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#e4841a",
+   "kind": "mcq",
+   "stem": "Which volatile agent has a higher neonatal MAC than in infants?",
+   "options": [
+    "Isoflurane",
+    "Sevoflurane",
+    "Halothane",
+    "Enflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#e4841a",
+   "kind": "statement",
+   "stem": "In infants, at what age does MAC peak?",
+   "answer": "1-6 months.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#15b0ca",
+   "kind": "mcq",
+   "stem": "What maximum volatile induction concentration is advised in neonates?",
+   "options": [
+    "2%",
+    "6%",
+    "10%",
+    "8%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#15b0ca",
+   "kind": "statement",
+   "stem": "Why should deep volatile anaesthesia be avoided in neonates?",
+   "answer": "The neonatal myocardium is very sensitive to volatile negative inotropy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#ab49d8",
+   "kind": "statement",
+   "stem": "In an unstable neonate, what volatile dose may be enough?",
+   "answer": "Less than 1 MAC.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#ab49d8",
+   "kind": "statement",
+   "stem": "What is poorly defined for neonates regarding volatile MAC?",
+   "answer": "The MAC for unconsciousness.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#f0ac3a",
+   "kind": "mcq",
+   "stem": "What SpO2 range is typically targeted by titrating FiO2 in neonatal anaesthesia?",
+   "options": [
+    "70-75%",
+    "92-95%",
+    "98-100%",
+    "60-65%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#f0ac3a",
+   "kind": "mcq",
+   "stem": "When is an SpO2 of 88-92% acceptable in neonatal anaesthesia?",
+   "options": [
+    "Routinely for all neonates",
+    "If ventilation is difficult",
+    "Whenever FiO2 is 100%",
+    "During induction only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#f0ac3a",
+   "kind": "statement",
+   "stem": "Why should FiO2 of 100% be avoided in neonatal anaesthesia?",
+   "answer": "To limit retinopathy and lung injury.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#9bb210",
+   "kind": "statement",
+   "stem": "What fluid should a neonate receive for all but the shortest cases?",
+   "answer": "Maintenance fluid, continuing the ward drip.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#7006d3",
+   "kind": "mcq",
+   "stem": "Which dextrose concentration is usually recommended in the first few days of neonatal life?",
+   "options": [
+    "4%",
+    "10%",
+    "20%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#552916",
+   "kind": "mcq",
+   "stem": "After postnatal diuresis around day 3, which glucose concentration is used in neonatal fluids?",
+   "options": [
+    "10% glucose",
+    "4% or 5% glucose",
+    "20% glucose",
+    "50% glucose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#552916",
+   "kind": "blank",
+   "stem": "After postnatal diuresis, neonatal fluid is 4% glucose with ____% saline.",
+   "answer": "0.18",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#d8d70d",
+   "kind": "statement",
+   "stem": "In neonatal fluids, which dextrose concentration is an alternative to avoid hypoglycaemia?",
+   "answer": "2% dextrose.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#325e57",
+   "kind": "mcq",
+   "stem": "How much 50% dextrose (D50) in 500ml makes a 2% solution?",
+   "options": [
+    "10ml",
+    "20ml",
+    "50ml",
+    "100ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#625869",
+   "kind": "mcq",
+   "stem": "For a neonate, what blood volume per kg is used in neonatal volume replacement?",
+   "options": [
+    "60 mL/kg",
+    "90 mL/kg",
+    "30 mL/kg",
+    "120 mL/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#1a469d",
+   "kind": "statement",
+   "stem": "If a neonate is extubating, which analgesia is preferred to avoid opioids?",
+   "answer": "Regional analgesia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#e36c23",
+   "kind": "statement",
+   "stem": "How should neonatal opioids be dosed compared with older children?",
+   "answer": "Smaller doses at longer intervals.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#67776e",
+   "kind": "mcq",
+   "stem": "What IV morphine dose is used for neonatal analgesia?",
+   "options": [
+    "0.1-0.2 mg/kg",
+    "25-50 mcg/kg",
+    "5-10 mg/kg",
+    "100-150 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#ca9a7e",
+   "kind": "mcq",
+   "stem": "What IV fentanyl dose is used for neonatal analgesia?",
+   "options": [
+    "10-20 mcg/kg",
+    "1-2 mcg/kg",
+    "0.1-0.2 mcg/kg",
+    "5-10 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#d07a89",
+   "kind": "statement",
+   "stem": "In neonatal analgesia, what is often done with paracetamol?",
+   "answer": "Omitted, or given at reduced dose.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#cb2630",
+   "kind": "statement",
+   "stem": "Why are NSAIDs relatively contraindicated in neonates?",
+   "answer": "Renal immaturity, hypovolaemia and possible sepsis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#5df579",
+   "kind": "statement",
+   "stem": "When is reversal appropriate in neonatal anaesthesia?",
+   "answer": "Only when normothermic, normovolaemic and with minimal expired volatile.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#34464f",
+   "kind": "mcq",
+   "stem": "Which neostigmine dose is used for neonatal reversal?",
+   "options": [
+    "5 mcg/kg",
+    "100 mcg/kg",
+    "0.5 mcg/kg",
+    "50 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#34464f",
+   "kind": "blank",
+   "stem": "Neonatal reversal uses neostigmine 50 mcg/kg plus atropine ____ mcg/kg.",
+   "answer": "20",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#6b942d",
+   "kind": "statement",
+   "stem": "Before neonatal extubation, what should be done to the pharynx and nostrils?",
+   "answer": "Gentle suction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#c77a23",
+   "kind": "statement",
+   "stem": "Before neonatal extubation, what should be done with any nasogastric tube?",
+   "answer": "Aspirate it.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#86947a",
+   "kind": "statement",
+   "stem": "What state should a neonate be in for extubation?",
+   "answer": "Awake, breathing well and moving vigorously.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#be3244",
+   "kind": "statement",
+   "stem": "What may a neonate need for laryngospasm around extubation?",
+   "answer": "Face mask CPAP.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#baab0a",
+   "kind": "mcq",
+   "stem": "How long is monitoring after anaesthesia for term neonates under 44 weeks PCA?",
+   "options": [
+    "4 hours",
+    "12 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#baab0a",
+   "kind": "mcq",
+   "stem": "Up to what post-conceptual age do preterm infants need 24-hour monitoring after anaesthesia?",
+   "options": [
+    "44 weeks",
+    "52 weeks",
+    "60 weeks",
+    "64 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#d4c523",
+   "kind": "statement",
+   "stem": "What should be checked regularly after neonatal surgery until feeding?",
+   "answer": "Blood glucose.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#ed53ac",
+   "kind": "statement",
+   "stem": "What fluids continue after neonatal surgery until feeding?",
+   "answer": "Maintenance fluids.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/neonatal-anaesthesia#f20c22",
+   "kind": "mcq",
+   "stem": "Postoperatively, what morphine infusion rate is used for neonatal analgesia or sedation?",
+   "options": [
+    "0.5-1 mg/kg/hour",
+    "1-2 mcg/kg/hour",
+    "5-10 mcg/kg/hour",
+    "50-100 mcg/kg/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

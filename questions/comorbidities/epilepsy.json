@@ -1,0 +1,931 @@
+{
+ "topic": "comorbidities/epilepsy",
+ "questions": [
+  {
+   "fact_id": "comorbidities/epilepsy#c5c662",
+   "kind": "statement",
+   "stem": "In epilepsy, what is a seizure?",
+   "answer": "Paroxysmal bursts of abnormal neuronal activity, causing altered consciousness or motor, sensory or autonomic events",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#042a43",
+   "kind": "mcq",
+   "stem": "How is epilepsy defined?",
+   "options": [
+    "A single unprovoked seizure",
+    "Recurrent seizures provoked by fever",
+    "Recurrent unprovoked seizures",
+    "Any seizure with loss of consciousness"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#54a37c",
+   "kind": "mcq",
+   "stem": "What percentage of all epilepsy is diagnosed in childhood?",
+   "options": [
+    "About 20%",
+    "About 90%",
+    "About 60%",
+    "About 35%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#54a37c",
+   "kind": "blank",
+   "stem": "Childhood epilepsy incidence is about ____:1000.",
+   "answer": "4-9",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#088f86",
+   "kind": "blank",
+   "stem": "Epilepsy is classified by observed features as generalised or ____.",
+   "answer": "partial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#de1529",
+   "kind": "statement",
+   "stem": "How do generalised seizures usually present in terms of consciousness and onset?",
+   "answer": "Usually loss of consciousness, with no localised onset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#5f4e70",
+   "kind": "mcq",
+   "stem": "In epilepsy, how does a partial seizure begin?",
+   "options": [
+    "A generalised onset across both hemispheres",
+    "A localised onset",
+    "Sudden onset with loss of consciousness",
+    "Onset only during sleep"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#052991",
+   "kind": "statement",
+   "stem": "What defines status epilepticus?",
+   "answer": "Seizure lasting over 30 min, or repeated seizures over a 30 min period without regaining consciousness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#c43a54",
+   "kind": "mcq",
+   "stem": "What is the highest mortality reported for status epilepticus in children?",
+   "options": [
+    "Up to 40%",
+    "Up to 15%",
+    "Up to 0.4%",
+    "Up to 4%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#fbf9f3",
+   "kind": "statement",
+   "stem": "In early status epilepticus, what happens to cerebral metabolism, blood flow, glucose and lactate?",
+   "answer": "They all rise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#385504",
+   "kind": "blank",
+   "stem": "In status epilepticus, the compensatory response protects the brain for the first ____ min.",
+   "answer": "30–60",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#b4236a",
+   "kind": "mcq",
+   "stem": "Which is a late complication of status epilepticus, once compensation fails?",
+   "options": [
+    "Hypoglycaemia",
+    "Bradycardia",
+    "Myoglobinuria",
+    "Hypothermia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#ea118d",
+   "kind": "statement",
+   "stem": "How do the early physiological changes of status epilepticus differ between convulsive and non-convulsive (NCSE) status?",
+   "answer": "Faster in convulsive status, but they also occur in NCSE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#cdfec7",
+   "kind": "mcq",
+   "stem": "What defines refractory status epilepticus?",
+   "options": [
+    "Seizures continuing despite one AED, such as phenytoin",
+    "Seizure stopping after one benzodiazepine dose",
+    "Seizures continuing despite two AEDs, such as a benzodiazepine and phenytoin",
+    "Two seizures in an hour with full recovery between"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#0dfa80",
+   "kind": "mcq",
+   "stem": "In status epilepticus, how long after the last clinical or EEG seizure should maximal therapy continue before tapering?",
+   "options": [
+    "1–2 h",
+    "12–24 h",
+    "3–5 days",
+    "1–2 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#218d5e",
+   "kind": "mcq",
+   "stem": "What percentage of children under 5 years have febrile convulsions?",
+   "options": [
+    "0.1-0.5%",
+    "2-5%",
+    "10-15%",
+    "20-25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#503bf5",
+   "kind": "mcq",
+   "stem": "What is the overall later epilepsy risk after childhood febrile convulsions?",
+   "options": [
+    "5%",
+    "10%",
+    "1%",
+    "25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#503bf5",
+   "kind": "blank",
+   "stem": "After childhood febrile convulsions, the later epilepsy risk is up to ____ with a family history.",
+   "answer": "10%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#5a2eed",
+   "kind": "statement",
+   "stem": "Name three epilepsy syndromes seen in children.",
+   "answer": "Infantile spasms, juvenile myoclonic epilepsy, childhood absence epilepsy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#41af5e",
+   "kind": "statement",
+   "stem": "What does an EEG contribute to diagnosing epilepsy?",
+   "answer": "It supports the diagnosis and often localises the focus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#33d425",
+   "kind": "mcq",
+   "stem": "Which imaging locates epilepsy lesions and shows local blood flow during seizures?",
+   "options": [
+    "CT head and plain skull X-ray",
+    "MRI, SPECT and PET",
+    "Serum electrolytes and glucose",
+    "Echocardiography and carotid Doppler"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#5c3e92",
+   "kind": "mcq",
+   "stem": "Which high-fat, low-carbohydrate diet helps some cases of intractable epilepsy?",
+   "options": [
+    "Low-fat, high-carbohydrate diet",
+    "Mediterranean diet",
+    "Ketogenic diet",
+    "High-protein, low-salt diet"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#21826c",
+   "kind": "statement",
+   "stem": "Name two surgical options for intractable epilepsy.",
+   "answer": "Any two of: lesionectomy, anterior temporal lobectomy, hemispherectomy, corpus callosotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#e37c52",
+   "kind": "statement",
+   "stem": "What are the two main preoperative concerns in epilepsy?",
+   "answer": "Anaesthetic drug effects on seizures, and AED interactions with anaesthetic drug metabolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#d574e0",
+   "kind": "statement",
+   "stem": "What does the frequency and timing of the last seizure show before surgery in epilepsy?",
+   "answer": "Seizure control, and it predicts perioperative seizure risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#cd4acf",
+   "kind": "statement",
+   "stem": "Which antiepileptic details should be recorded before surgery in epilepsy?",
+   "answer": "AEDs, doses and time of last dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#cd415a",
+   "kind": "mcq",
+   "stem": "In epilepsy, how do IV induction agents generally affect seizures at anaesthetic doses?",
+   "options": [
+    "Proconvulsant at anaesthetic doses",
+    "Anticonvulsant at anaesthetic doses",
+    "Neutral at anaesthetic doses",
+    "Proconvulsant at all doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#6dd2b5",
+   "kind": "mcq",
+   "stem": "In epilepsy, how do opioids generally affect seizure threshold?",
+   "options": [
+    "Strongly anticonvulsant",
+    "Somewhat proconvulsant",
+    "No effect at all",
+    "Anticonvulsant only at high doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#6c4e3a",
+   "kind": "mcq",
+   "stem": "In epilepsy, at what level do local anaesthetics cause seizures?",
+   "options": [
+    "At therapeutic levels only",
+    "Only with spinal injection",
+    "At high levels",
+    "Only in children under two"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#6a7f12",
+   "kind": "mcq",
+   "stem": "In epilepsy, what effect do muscle relaxants have on seizure threshold?",
+   "options": [
+    "Strongly anticonvulsant effect",
+    "No pro- or anticonvulsant effect",
+    "Strongly proconvulsant effect",
+    "Anticonvulsant effect only at high doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#831c74",
+   "kind": "mcq",
+   "stem": "Which centrally acting anticholinergics can cause agitation and seizures in epilepsy?",
+   "options": [
+    "Glycopyrrolate and neostigmine",
+    "Propofol and etomidate",
+    "Atropine and hyoscine",
+    "Metoclopramide and droperidol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#7b6414",
+   "kind": "mcq",
+   "stem": "In epilepsy, which antiemetic class causes dystonia that can mimic seizures?",
+   "options": [
+    "Serotonin 5-HT3 antagonists",
+    "Dopamine antagonists",
+    "Corticosteroids",
+    "Cannabinoids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#7b6414",
+   "kind": "mcq",
+   "stem": "In epilepsy, which phenothiazine antiemetic should be avoided?",
+   "options": [
+    "Ondansetron",
+    "Prochlorperazine",
+    "Dexamethasone",
+    "Cyclizine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#641e35",
+   "kind": "mcq",
+   "stem": "Which antiepileptic is especially known for inducing liver enzymes?",
+   "options": [
+    "Valproate",
+    "Gabapentin",
+    "Carbamazepine",
+    "Levetiracetam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#c41b20",
+   "kind": "mcq",
+   "stem": "Which antiepileptic inhibits liver enzymes, slowing clearance of other drugs?",
+   "options": [
+    "Phenytoin",
+    "Lamotrigine",
+    "Valproate",
+    "Levetiracetam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#f87609",
+   "kind": "mcq",
+   "stem": "Which antiepileptic does not induce liver enzymes?",
+   "options": [
+    "Carbamazepine",
+    "Phenobarbital",
+    "Levetiracetam",
+    "Topiramate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#df2ef6",
+   "kind": "mcq",
+   "stem": "Which premedication may help uncooperative children with epilepsy?",
+   "options": [
+    "Morphine",
+    "Ondansetron",
+    "Midazolam",
+    "Dexamethasone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#9d4368",
+   "kind": "statement",
+   "stem": "What raises the risk of seizures under anaesthesia in epilepsy?",
+   "answer": "Poorly controlled epilepsy or high-risk surgery such as neurosurgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#9a8a15",
+   "kind": "mcq",
+   "stem": "During anaesthesia, which finding would suggest a seizure in a patient with epilepsy?",
+   "options": [
+    "Bradycardia",
+    "Falling end-tidal CO2",
+    "Rising end-tidal CO2",
+    "Constricted pupils"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#12135c",
+   "kind": "statement",
+   "stem": "Which monitor helps detect seizures under anaesthesia in epilepsy, if available?",
+   "answer": "EEG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#16c275",
+   "kind": "mcq",
+   "stem": "In epilepsy, which step is part of immediate management of a suspected seizure under anaesthesia?",
+   "options": [
+    "Lighten anaesthesia to assess the patient",
+    "Withhold oxygen to avoid hyperoxia",
+    "Give 100% oxygen",
+    "Stop ventilation to reduce agitation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#5f124d",
+   "kind": "mcq",
+   "stem": "After a postoperative seizure, which bedside test should be done promptly?",
+   "options": [
+    "Chest X-ray",
+    "Serum lipase",
+    "Capillary glucose",
+    "Urine dipstick"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#4e0c55",
+   "kind": "mcq",
+   "stem": "For a postoperative seizure caused by eclampsia, what is the magnesium dose?",
+   "options": [
+    "Magnesium 1g",
+    "Magnesium 20g",
+    "Magnesium 2g",
+    "Calcium chloride 2g"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#f56b03",
+   "kind": "mcq",
+   "stem": "Which phenytoin loading dose is used if benzodiazepines fail for a postoperative seizure?",
+   "options": [
+    "10 mg/kg",
+    "5 mg/kg",
+    "18 mg/kg",
+    "50 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#8ffe5d",
+   "kind": "statement",
+   "stem": "What should an assistant do during a postoperative seizure to help the diagnosis?",
+   "answer": "Video and time the event",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#4cb6cf",
+   "kind": "mcq",
+   "stem": "Which epilepsy patients are indicated for a vagus nerve stimulator?",
+   "options": [
+    "Mild epilepsy controlled on one drug",
+    "Febrile convulsions in children under five",
+    "Intractable epilepsy suitable for resection",
+    "Intractable epilepsy after failed drugs, unsuitable for resection"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#f32d70",
+   "kind": "mcq",
+   "stem": "What share of vagus nerve stimulator patients have a 50% or greater seizure reduction after 18 months?",
+   "options": [
+    "18%",
+    "38%",
+    "68%",
+    "48%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#d4206a",
+   "kind": "statement",
+   "stem": "Through what route is vagus nerve stimulation thought to reduce seizures?",
+   "answer": "Vagal afferents modulating cortical excitability (limbic or noradrenergic systems, or brainstem arousal)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#36dbca",
+   "kind": "mcq",
+   "stem": "Besides epilepsy, what is a vagus nerve stimulator also FDA approved for?",
+   "options": [
+    "Refractory hypertension",
+    "Chronic neuropathic pain",
+    "Refractory depression",
+    "Refractory tinnitus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#53708b",
+   "kind": "statement",
+   "stem": "Why is the vagus nerve stimulator placed on the left vagus rather than the right?",
+   "answer": "The right vagus supplies the SA node, so left placement avoids arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#83c3bf",
+   "kind": "mcq",
+   "stem": "Where is the pulse generator of a vagus nerve stimulator placed?",
+   "options": [
+    "Left chest wall",
+    "Right chest wall",
+    "Left neck",
+    "Abdominal wall"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#2e3707",
+   "kind": "blank",
+   "stem": "Insertion of a vagus nerve stimulator typically takes ____.",
+   "answer": "60–90 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#e0b954",
+   "kind": "mcq",
+   "stem": "What is the most common anaesthetic for vagus nerve stimulator insertion?",
+   "options": [
+    "Ketamine infusion alone",
+    "Intravenous sedation alone",
+    "General anaesthesia",
+    "Local infiltration only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#dd4f35",
+   "kind": "mcq",
+   "stem": "Which airway is safer for vagus nerve stimulator insertion?",
+   "options": [
+    "Supraglottic airway",
+    "Face mask only",
+    "Nasal cannula only",
+    "Tracheal tube"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#afbed2",
+   "kind": "mcq",
+   "stem": "What arrhythmia risk arises during vagus nerve stimulator diagnostic testing?",
+   "options": [
+    "Ventricular tachycardia and fibrillation",
+    "Atrial fibrillation",
+    "Supraventricular tachycardia",
+    "Bradycardia and asystole"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#561312",
+   "kind": "mcq",
+   "stem": "How is postoperative vocal cord palsy after vagus nerve stimulator insertion described?",
+   "options": [
+    "Common and always permanent",
+    "Common and usually temporary",
+    "Unusual and always permanent",
+    "Unusual and usually temporary"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#f0747a",
+   "kind": "mcq",
+   "stem": "In the neck, the vagus nerve lies between which two vessels?",
+   "options": [
+    "Common carotid artery and subclavian vein",
+    "Internal jugular vein and subclavian artery",
+    "Vertebral artery and external jugular vein",
+    "Internal carotid artery and internal jugular vein"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#a653e1",
+   "kind": "mcq",
+   "stem": "What is the target output current for a vagus nerve stimulator after titration?",
+   "options": [
+    "0.5–1 mA",
+    "3–4 mA",
+    "1.5–2.25 mA",
+    "10–15 mA"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#a653e1",
+   "kind": "blank",
+   "stem": "A vagus nerve stimulator is switched on ____ weeks after insertion.",
+   "answer": "2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#8db2be",
+   "kind": "statement",
+   "stem": "Which three external sources can malfunction a vagus nerve stimulator, as with pacemakers?",
+   "answer": "Diathermy, lithotripsy and MRI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#11b5b9",
+   "kind": "mcq",
+   "stem": "For elective surgery, what is the safer approach to a vagus nerve stimulator?",
+   "options": [
+    "Leave it active throughout surgery",
+    "Formally deactivate beforehand, with a plan to reactivate",
+    "Increase the current to maximum",
+    "Remove the generator before surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#b23571",
+   "kind": "mcq",
+   "stem": "For emergency surgery, what is reasonable with a vagus nerve stimulator?",
+   "options": [
+    "Delay surgery until it is deactivated",
+    "Remove the generator first",
+    "Refuse surgery until neurology review",
+    "Proceed with the device active"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#8cd0d7",
+   "kind": "mcq",
+   "stem": "If no VNS magnet is available, which magnet can be secured over the generator?",
+   "options": [
+    "Any magnet under 10 gauss",
+    "A fridge magnet of any strength",
+    "Any magnet over 50 gauss",
+    "A magnet taped beside the neck"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#7a6ac4",
+   "kind": "mcq",
+   "stem": "In a patient with a vagus nerve stimulator, which central venous sites should be avoided on the device side?",
+   "options": [
+    "Femoral and external jugular",
+    "Internal jugular and subclavian",
+    "Antecubital and femoral",
+    "Femoral only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#80035c",
+   "kind": "mcq",
+   "stem": "What should be done to a vagus nerve stimulator before spinal anaesthesia?",
+   "options": [
+    "Leave it active",
+    "Increase the current",
+    "Deactivate it",
+    "Remove the generator"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#63bb01",
+   "kind": "mcq",
+   "stem": "What is known about epidural anaesthesia with active vagus nerve stimulation?",
+   "options": [
+    "Clearly safe, no precautions needed",
+    "Always safe with no precautions",
+    "Safe only in children",
+    "Safety unclear, potentially hazardous"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#fa24f6",
+   "kind": "statement",
+   "stem": "Which regional blocks should be avoided on the same side as a vagus nerve stimulator generator?",
+   "answer": "Ipsilateral cervical and supra- or infraclavicular blocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#82b866",
+   "kind": "statement",
+   "stem": "How should a nerve stimulator be used near a vagus nerve stimulator?",
+   "answer": "Use the lowest current, with a path not crossing the generator or lead",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#a1fcef",
+   "kind": "mcq",
+   "stem": "Which regional block is fine in a patient with a vagus nerve stimulator?",
+   "options": [
+    "Ipsilateral cervical block",
+    "Ipsilateral infraclavicular block",
+    "Contralateral upper limb block",
+    "Ipsilateral supraclavicular block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#b61cb9",
+   "kind": "statement",
+   "stem": "In critical illness, how is continuing vagus nerve stimulation decided?",
+   "answer": "Case by case with neurology and ICU, weighing seizures if off against cardiorespiratory effects if on",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#8ae8d8",
+   "kind": "mcq",
+   "stem": "Where should a vagus nerve stimulator be deactivated before an MRI scan?",
+   "options": [
+    "Only if the patient has a seizure",
+    "Immediately after the scan",
+    "In the recovery room",
+    "In the MRI suite"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#4946c7",
+   "kind": "mcq",
+   "stem": "For diathermy near a vagus nerve stimulator, which electrode type is preferred?",
+   "options": [
+    "Monopolar",
+    "Capacitive",
+    "Ultrasonic",
+    "Bipolar"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#5977e9",
+   "kind": "statement",
+   "stem": "Where should diathermy electrodes be placed relative to a vagus nerve stimulator?",
+   "answer": "As far as possible from the generator and lead",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#e59f5f",
+   "kind": "statement",
+   "stem": "Where must a vagus nerve stimulator generator and lead not be placed during diathermy?",
+   "answer": "In the current path or the treated area",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#aed521",
+   "kind": "statement",
+   "stem": "After surgery involving diathermy, what should be done to a vagus nerve stimulator?",
+   "answer": "Interrogate the device",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#c71fef",
+   "kind": "mcq",
+   "stem": "Which magnets does a vagus nerve stimulator respond to?",
+   "options": [
+    "Any fridge magnet of any strength",
+    "Only MRI scanner magnets",
+    "Device-specific magnets",
+    "Only steel surgical instruments"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#6ce5af",
+   "kind": "mcq",
+   "stem": "How long must a magnet be held over a vagus nerve stimulator to trigger stimulation?",
+   "options": [
+    "Less than one second",
+    "At least one second",
+    "At least one minute",
+    "Until the seizure ends"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#bce18b",
+   "kind": "mcq",
+   "stem": "What does holding a magnet over a vagus nerve stimulator for over one minute usually do?",
+   "options": [
+    "Triggers extra stimulation",
+    "Resets the battery",
+    "Has no effect",
+    "Deactivates the device"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/epilepsy#f3be4d",
+   "kind": "statement",
+   "stem": "Who should be consulted about vagus nerve stimulator magnet management?",
+   "answer": "A neurologist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

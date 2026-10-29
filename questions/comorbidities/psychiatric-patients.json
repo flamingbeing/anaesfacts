@@ -1,0 +1,157 @@
+{
+ "topic": "comorbidities/psychiatric-patients",
+ "questions": [
+  {
+   "fact_id": "comorbidities/psychiatric-patients#c74868",
+   "kind": "statement",
+   "stem": "Psychotropic drugs, often combined with each other or other drugs, act strongly on which neurotransmitters?",
+   "answer": "Central and peripheral neurotransmitters",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#fb51e5",
+   "kind": "mcq",
+   "stem": "Which drug is a tricyclic antidepressant (TCA) in this perioperative psychotropic list?",
+   "options": [
+    "Fluoxetine",
+    "Phenelzine",
+    "Amitriptyline",
+    "Lithium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#a4a7d9",
+   "kind": "mcq",
+   "stem": "Fluoxetine and venlafaxine belong to which psychotropic class?",
+   "options": [
+    "TCAs",
+    "SSRIs",
+    "MAOIs",
+    "Benzodiazepines"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#bca4c6",
+   "kind": "mcq",
+   "stem": "Phenelzine and moclobemide belong to which psychotropic class?",
+   "options": [
+    "Benzodiazepines",
+    "Typical antipsychotics",
+    "MAOIs",
+    "SSRIs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#528881",
+   "kind": "mcq",
+   "stem": "How long before surgery should an irreversible MAOI be stopped?",
+   "options": [
+    "24 hours",
+    "1 week",
+    "2 weeks",
+    "On the day of surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#528881",
+   "kind": "mcq",
+   "stem": "When should a reversible MAOI be stopped before surgery?",
+   "options": [
+    "Three days before surgery",
+    "24 hours before surgery",
+    "One week before surgery",
+    "On the day of surgery"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#b7d259",
+   "kind": "mcq",
+   "stem": "How long before surgery should lithium be stopped?",
+   "options": [
+    "12 hours",
+    "24 h",
+    "48 hours",
+    "1 week"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#965fb8",
+   "kind": "mcq",
+   "stem": "Which perioperative concern applies to carbamazepine?",
+   "options": [
+    "Prolongs neuromuscular block",
+    "Induces cytochrome P450",
+    "Causes serotonin syndrome",
+    "Reduces seizure threshold"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#5787cc",
+   "kind": "statement",
+   "stem": "Name the typical antipsychotics listed for perioperative use.",
+   "answer": "Prochlorperazine and chlorpromazine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#8739be",
+   "kind": "statement",
+   "stem": "What receptor blockades are a concern with typical antipsychotics?",
+   "answer": "Cholinergic, alpha-1 and histamine block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#8739be",
+   "kind": "statement",
+   "stem": "Which volatile anaesthetic is linked to seizures when given with typical antipsychotics?",
+   "answer": "Desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#061b7b",
+   "kind": "statement",
+   "stem": "Name the atypical antipsychotics listed for perioperative use.",
+   "answer": "Quetiapine and risperidone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/psychiatric-patients#f98069",
+   "kind": "mcq",
+   "stem": "For atypical antipsychotics such as quetiapine, which receptor blockade is a concern?",
+   "options": [
+    "Beta-2 agonism",
+    "Alpha-1 block",
+    "Mu-opioid agonism",
+    "Adenosine A1 agonism"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "topic": "comorbidities/acute-liver-failure",
+ "questions": [
+  {
+   "fact_id": "comorbidities/acute-liver-failure#40544a",
+   "kind": "blank",
+   "stem": "Acute liver failure is hepatocellular dysfunction with coagulopathy and encephalopathy in a patient without pre-existing ____.",
+   "answer": "liver disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#e2e69d",
+   "kind": "mcq",
+   "stem": "What mortality range is quoted for acute liver failure?",
+   "options": [
+    "1-10%",
+    "10-100%",
+    "30-50%",
+    "50-80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#d5949e",
+   "kind": "mcq",
+   "stem": "What mortality is quoted for hyperacute liver failure, presenting within 7 days?",
+   "options": [
+    "14%",
+    "20%",
+    "30%",
+    "45%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#ba8c05",
+   "kind": "mcq",
+   "stem": "What mortality is quoted for acute liver failure with onset 7-28 days?",
+   "options": [
+    "14%",
+    "30%",
+    "33%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#b951d8",
+   "kind": "mcq",
+   "stem": "What mortality is quoted for subacute liver failure, 28 days to 6 months?",
+   "options": [
+    "5%",
+    "14%",
+    "33%",
+    "40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#c5670d",
+   "kind": "mcq",
+   "stem": "Which neurological feature is a clinical feature of acute liver failure?",
+   "options": [
+    "Peripheral neuropathy",
+    "Encephalopathy",
+    "Myasthenia gravis",
+    "Bell's palsy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#e8332a",
+   "kind": "blank",
+   "stem": "In acute liver failure, severe coagulopathy occurs with active ____.",
+   "answer": "fibrinolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#2e9346",
+   "kind": "blank",
+   "stem": "In acute liver failure, metabolic features include low glucose, low potassium, low sodium and metabolic ____.",
+   "answer": "acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#a5d654",
+   "kind": "blank",
+   "stem": "In acute liver failure, the circulation shows high cardiac output with low ____.",
+   "answer": "SVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#57c2c2",
+   "kind": "statement",
+   "stem": "In acute liver failure, which three organ complications make up multiorgan failure?",
+   "answer": "Raised ICP, ARDS, acute renal failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#b8b8da",
+   "kind": "mcq",
+   "stem": "Which colour change of the skin is seen on examination in acute liver failure?",
+   "options": [
+    "Cyanosis",
+    "Jaundice",
+    "Pallor",
+    "Plethora"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#dd5673",
+   "kind": "mcq",
+   "stem": "Which peripheral state is typical on examination in acute liver failure?",
+   "options": [
+    "Vasoconstricted",
+    "Vasodilated",
+    "Cyanosed",
+    "Oedematous"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#ac2f94",
+   "kind": "mcq",
+   "stem": "Which abdominal finding is seen on examination in acute liver failure?",
+   "options": [
+    "Pleural effusion",
+    "Ascites",
+    "Renal mass",
+    "Inguinal hernia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#ac44c7",
+   "kind": "mcq",
+   "stem": "Which skin finding is seen on examination in acute liver failure?",
+   "options": [
+    "Urticaria",
+    "Bruising",
+    "Eczema",
+    "Acanthosis nigricans"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#176aee",
+   "kind": "statement",
+   "stem": "Name two imaging investigations listed for acute liver failure.",
+   "answer": "Ultrasound; CT/MRCP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#79026a",
+   "kind": "blank",
+   "stem": "In acute liver failure with active hepatitis, delay all elective surgery for ____ until LFTs normalise.",
+   "answer": "30 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#3e9351",
+   "kind": "mcq",
+   "stem": "When should a patient with acute liver failure be intubated?",
+   "options": [
+    "If jaundice is present",
+    "If encephalopathy is severe",
+    "If ascites is present",
+    "If bilirubin is raised"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#76e27d",
+   "kind": "statement",
+   "stem": "Which two abnormalities should be corrected before surgery in acute liver failure?",
+   "answer": "Electrolytes and hypoglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#1fd087",
+   "kind": "mcq",
+   "stem": "Which vasopressor is used for circulatory support in acute liver failure if needed?",
+   "options": [
+    "Ephedrine",
+    "Phenylephrine",
+    "Noradrenaline",
+    "Milrinone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#fcdcde",
+   "kind": "statement",
+   "stem": "What buffer should be used for haemofiltration in acute liver failure?",
+   "answer": "Bicarbonate (NaHCO3)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#403db6",
+   "kind": "statement",
+   "stem": "Why is coagulopathy not corrected routinely in acute liver failure?",
+   "answer": "PT tracks liver function and response to treatment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#1798c7",
+   "kind": "mcq",
+   "stem": "Which definitive treatment may acute liver failure require?",
+   "options": [
+    "Splenectomy",
+    "Liver transplant",
+    "Cholecystectomy",
+    "Gastrectomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#2c85eb",
+   "kind": "statement",
+   "stem": "What may ascites in acute liver failure need during surgery?",
+   "answer": "Draining",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/acute-liver-failure#60051c",
+   "kind": "mcq",
+   "stem": "How should bleeding be treated intraoperatively in acute liver failure?",
+   "options": [
+    "Conservatively",
+    "Aggressively",
+    "Only after transfusion",
+    "Not at all"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,387 @@
+{
+ "topic": "drugs/antiarrhythmics",
+ "questions": [
+  {
+   "fact_id": "drugs/antiarrhythmics#10b3c8",
+   "kind": "blank",
+   "stem": "The Vaughan-Williams classification is the ____ scheme for antiarrhythmic drugs.",
+   "answer": "traditional",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#dc0129",
+   "kind": "blank",
+   "stem": "In the antiarrhythmic mnemonic 'Some Block Potassium Channels', the word 'Block' stands for ____.",
+   "answer": "Beta-blockers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#5efca2",
+   "kind": "mcq",
+   "stem": "Among class I sodium channel blockers, which Vaughan-Williams subclass prolongs the action potential?",
+   "options": [
+    "Class IB",
+    "Class IC",
+    "Class IA",
+    "Class IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#2213a4",
+   "kind": "blank",
+   "stem": "Antiarrhythmic drugs that slow atrial and ventricular conduction by depressing phase 0 ____ the QRS.",
+   "answer": "widen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#0a1c6f",
+   "kind": "mcq",
+   "stem": "Which Vaughan-Williams class I subclass shortens the action potential?",
+   "options": [
+    "Class IA",
+    "Class IC",
+    "Class IB",
+    "Class III"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#909c19",
+   "kind": "mcq",
+   "stem": "Class IB antiarrhythmics mainly depress phase 0 in which tissue?",
+   "options": [
+    "Normal tissue only",
+    "Abnormal tissue",
+    "Sinoatrial node",
+    "Atrioventricular node"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#7c3e86",
+   "kind": "mcq",
+   "stem": "Which Vaughan-Williams class I subclass has no effect on the action potential?",
+   "options": [
+    "Class IC",
+    "Class IA",
+    "Class IB",
+    "Class III"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#3d101f",
+   "kind": "mcq",
+   "stem": "Antiarrhythmic drugs: which drug group is Vaughan-Williams class II?",
+   "options": [
+    "Beta-blockers",
+    "Potassium channel blockers",
+    "Calcium channel blockers",
+    "Sodium channel blockers"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#3694d3",
+   "kind": "blank",
+   "stem": "Class II beta-blockers ____ spontaneous phase 4 depolarisation, so SA node firing falls.",
+   "answer": "slow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#cae458",
+   "kind": "mcq",
+   "stem": "Antiarrhythmic drugs: which drug group is Vaughan-Williams class III?",
+   "options": [
+    "Calcium channel blockers",
+    "Sodium channel blockers",
+    "Potassium channel blockers",
+    "Beta-blockers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#3f598b",
+   "kind": "blank",
+   "stem": "Class III antiarrhythmics block ____ repolarising channels, prolonging phase 3 and action potential duration.",
+   "answer": "IK",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#84606a",
+   "kind": "mcq",
+   "stem": "Antiarrhythmic drugs: which drug group is Vaughan-Williams class IV?",
+   "options": [
+    "Sodium channel blockers",
+    "Beta-blockers",
+    "Potassium channel blockers",
+    "Calcium channel blockers"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#63874b",
+   "kind": "mcq",
+   "stem": "Which statement about proarrhythmic effects of antiarrhythmic drugs is correct?",
+   "options": [
+    "Only class I drugs can be proarrhythmic",
+    "All antiarrhythmics can be proarrhythmic",
+    "Only class III drugs can be proarrhythmic",
+    "No antiarrhythmic is ever proarrhythmic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#f487e1",
+   "kind": "blank",
+   "stem": "Class I sodium channel blockers act on fast sodium channels that drive phase 0 in ____ cells, such as atrial and ventricular muscle.",
+   "answer": "non-nodal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#2880b8",
+   "kind": "mcq",
+   "stem": "With class I sodium channel blockade, how does phase 0 of the action potential change?",
+   "options": [
+    "Steeper slope, higher amplitude",
+    "Flatter slope, lower amplitude",
+    "Unchanged slope, lower amplitude",
+    "Steeper slope, lower amplitude"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#3199a7",
+   "kind": "statement",
+   "stem": "Why do class I sodium channel blockers have no direct effect on the SA and AV nodes?",
+   "answer": "Nodal tissue depolarises via calcium currents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#d9a6c8",
+   "kind": "blank",
+   "stem": "Class I sodium channel blockers mainly cause ____ conduction in non-nodal tissue (negative dromotropy).",
+   "answer": "slower",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#e5ba05",
+   "kind": "mcq",
+   "stem": "Where do class I sodium channel blockers' effects on repolarisation come from?",
+   "options": [
+    "Direct sodium channel block itself",
+    "Actions on phase 3 potassium channels",
+    "Actions on phase 4 calcium channels",
+    "Beta-adrenergic receptor blockade"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#a319aa",
+   "kind": "mcq",
+   "stem": "Which class I subclass depresses phase 0 the most?",
+   "options": [
+    "Class IB",
+    "Class IA",
+    "Class IC",
+    "Class III"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#483bce",
+   "kind": "mcq",
+   "stem": "What do amiodarone and its metabolites do to ion channels?",
+   "options": [
+    "Block many ion channels",
+    "Block only sodium channels",
+    "Activate potassium channels",
+    "Block only calcium channels"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#f7e0fd",
+   "kind": "blank",
+   "stem": "Amiodarone is a ____ beta antagonist.",
+   "answer": "non-competitive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#e338a6",
+   "kind": "blank",
+   "stem": "Amiodarone needs a ____ dose for faster onset.",
+   "answer": "loading",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#538b0c",
+   "kind": "mcq",
+   "stem": "In which patients may amiodarone worsen haemodynamics?",
+   "options": [
+    "Patients with stable sinus rhythm",
+    "Hypotension or recent decompensated heart failure",
+    "Patients with well-controlled asthma",
+    "Patients on long-term statins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#e7a1da",
+   "kind": "mcq",
+   "stem": "Dronedarone is amiodarone without which chemical groups?",
+   "options": [
+    "Iodine groups",
+    "Methyl groups",
+    "Ester groups",
+    "Hydroxyl groups"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#e214ce",
+   "kind": "mcq",
+   "stem": "In which patients should dronedarone be avoided?",
+   "options": [
+    "Paroxysmal AF with normal heart",
+    "Permanent AF or heart failure",
+    "Stable sinus rhythm with normal heart",
+    "Supraventricular tachycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#dba998",
+   "kind": "mcq",
+   "stem": "Procainamide, an antiarrhythmic, has which important side effect?",
+   "options": [
+    "Pulmonary fibrosis",
+    "Hyperthyroidism",
+    "Drug-induced lupus",
+    "Drug-induced gout"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#834542",
+   "kind": "mcq",
+   "stem": "Quinidine, a class IA drug, has which serious proarrhythmic side effect?",
+   "options": [
+    "Sinus tachycardia",
+    "Torsades",
+    "Atrial flutter",
+    "Hypertrophic cardiomyopathy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#e5e169",
+   "kind": "mcq",
+   "stem": "Digoxin belongs to which drug class?",
+   "options": [
+    "Beta-blocker",
+    "Class III antiarrhythmic",
+    "Calcium channel blocker",
+    "Cardiac glycoside"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#aab9bb",
+   "kind": "mcq",
+   "stem": "In atrial fibrillation, digoxin is used for which purpose?",
+   "options": [
+    "Rhythm control",
+    "Anticoagulation",
+    "Rate control",
+    "Defibrillation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#1bba4b",
+   "kind": "mcq",
+   "stem": "Oral digoxin reaches its peak effect about how many hours after a dose?",
+   "options": [
+    "1hr",
+    "6hrs",
+    "12hrs",
+    "24hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#ee6e13",
+   "kind": "blank",
+   "stem": "Patients at risk of digoxin toxicity should have their levels ____ checked.",
+   "answer": "periodically",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/antiarrhythmics#f68ea4",
+   "kind": "mcq",
+   "stem": "In acute coronary syndrome, when may digoxin be considered?",
+   "options": [
+    "Mild stable angina",
+    "Isolated hypertension",
+    "Severe heart failure or haemodynamic instability",
+    "Uncomplicated sinus rhythm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
