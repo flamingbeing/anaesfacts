@@ -90,7 +90,9 @@ Main uses: torsades, AF, asthma, pre-eclampsia, pain and blood pressure control;
 
 <!-- related:start (generated) -->
 ## Related
+- [Pre-eclampsia, Eclampsia and HELLP](../comorbidities/pre-eclampsia.md)
 - [Asthma](../comorbidities/asthma.md)
 - [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
+- [Phaeochromocytoma Surgery](../procedures/phaeochromocytoma-surgery.md)
 <!-- related:end -->

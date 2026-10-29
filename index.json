@@ -1609,6 +1609,31 @@
   ]
  },
  {
+  "path": "topics/comorbidities/klippel-feil-syndrome.md",
+  "title": "Klippel-Feil Syndrome",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "airway",
+   "cervical-spine",
+   "syndromes"
+  ],
+  "aliases": [
+   "Klippel Feil",
+   "KFS",
+   "congenital cervical fusion",
+   "cervical vertebral fusion"
+  ],
+  "related": [
+   "airway/difficult-airway-paediatric",
+   "airway/fibreoptic-intubation",
+   "comorbidities/cervical-spine-instability",
+   "comorbidities/congenital-heart-disease"
+  ]
+ },
+ {
   "path": "topics/comorbidities/lumbar-spinal-stenosis.md",
   "title": "Lumbar Spinal Stenosis",
   "area": "comorbidities",
@@ -1654,6 +1679,31 @@
    "comorbidities/scoliosis",
    "comorbidities/prosthetic-heart-valves",
    "procedures/scoliosis-surgery"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/marfan-syndrome.md",
+  "title": "Marfan Syndrome",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "connective-tissue",
+   "paediatrics",
+   "aorta",
+   "genetic"
+  ],
+  "aliases": [
+   "Marfan",
+   "Marfans",
+   "Marfan's syndrome",
+   "fibrillin-1"
+  ],
+  "related": [
+   "comorbidities/aortic-dissection",
+   "comorbidities/aortic-regurgitation",
+   "comorbidities/mitral-valve-prolapse",
+   "comorbidities/ehlers-danlos-syndrome"
   ]
  },
  {
@@ -1735,6 +1785,35 @@
   ]
  },
  {
+  "path": "topics/comorbidities/mucopolysaccharidoses.md",
+  "title": "Mucopolysaccharidoses",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatric",
+   "metabolic",
+   "difficult airway",
+   "lysosomal storage"
+  ],
+  "aliases": [
+   "MPS",
+   "Hurler syndrome",
+   "Hunter syndrome",
+   "Morquio syndrome",
+   "Sanfilippo syndrome",
+   "Maroteaux-Lamy syndrome",
+   "Scheie syndrome"
+  ],
+  "related": [
+   "comorbidities/obstructive-sleep-apnoea",
+   "comorbidities/cardiomyopathy",
+   "airway/airway-topicalisation",
+   "equipment/flexible-bronchoscope",
+   "comorbidities/intellectual-disability-and-autism"
+  ]
+ },
+ {
   "path": "topics/comorbidities/multiple-sclerosis.md",
   "title": "Multiple sclerosis",
   "area": "comorbidities",
@@ -1754,6 +1833,35 @@
    "comorbidities/neurological-comorbidities-overview",
    "drugs/suxamethonium",
    "regional/spinal-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/muscular-dystrophies.md",
+  "title": "Muscular Dystrophies in Children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neuromuscular",
+   "hyperkalaemia",
+   "tiva"
+  ],
+  "aliases": [
+   "Duchenne muscular dystrophy",
+   "DMD",
+   "Becker muscular dystrophy",
+   "Emery-Dreifuss",
+   "facioscapulohumeral dystrophy",
+   "limb girdle dystrophy",
+   "dystrophinopathy"
+  ],
+  "related": [
+   "drugs/suxamethonium",
+   "procedures/total-intravenous-anaesthesia",
+   "comorbidities/malignant-hyperthermia",
+   "comorbidities/scoliosis",
+   "comorbidities/paediatric-myasthenia-gravis"
   ]
  },
  {
@@ -1782,6 +1890,63 @@
    "drugs/rocuronium",
    "procedures/thymectomy",
    "drugs/perioperative-steroids"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/myopathies-children.md",
+  "title": "Myopathies in Children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neuromuscular",
+   "malignant-hyperthermia",
+   "muscle-relaxants"
+  ],
+  "aliases": [
+   "congenital myopathy",
+   "central core disease",
+   "nemaline myopathy",
+   "mitochondrial myopathy",
+   "MELAS",
+   "MERRF",
+   "Kearns-Sayre",
+   "Leigh syndrome"
+  ],
+  "related": [
+   "crises/malignant-hyperthermia",
+   "comorbidities/muscular-dystrophies",
+   "comorbidities/mitochondrial-disease",
+   "comorbidities/glycogen-storage-diseases"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/myotonic-syndromes.md",
+  "title": "Myotonic Syndromes",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuromuscular",
+   "paediatrics",
+   "myotonia",
+   "suxamethonium"
+  ],
+  "aliases": [
+   "myotonia",
+   "myotonic dystrophy",
+   "dystrophia myotonica",
+   "myotonia congenita",
+   "Thomsen disease",
+   "paramyotonia",
+   "Schwartz-Jampel syndrome"
+  ],
+  "related": [
+   "comorbidities/muscular-dystrophies",
+   "crises/malignant-hyperthermia",
+   "drugs/suxamethonium",
+   "comorbidities/neuromuscular-disease"
   ]
  },
  {
@@ -1867,6 +2032,33 @@
    "comorbidities/multiple-sclerosis",
    "crises/malignant-hyperthermia",
    "drugs/suxamethonium"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/nonobstetric-surgery-in-pregnancy.md",
+  "title": "Nonobstetric Surgery in Pregnancy",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "obstetrics",
+   "pregnancy",
+   "fetal-safety",
+   "teratogenicity"
+  ],
+  "aliases": [
+   "pregnant patient for surgery",
+   "parturient nonobstetric surgery",
+   "surgery during pregnancy",
+   "FDA pregnancy categories",
+   "ADEC categories"
+  ],
+  "related": [
+   "physiology/physiology-of-pregnancy",
+   "airway/obstetric-airway",
+   "drugs/nitrous-oxide",
+   "drugs/sodium-citrate",
+   "comorbidities/aortocaval-compression"
   ]
  },
  {
@@ -1991,6 +2183,183 @@
   ]
  },
  {
+  "path": "topics/comorbidities/osteogenesis-imperfecta.md",
+  "title": "Osteogenesis Imperfecta",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatric",
+   "connective tissue",
+   "fractures",
+   "collagen"
+  ],
+  "aliases": [
+   "OI",
+   "brittle bone disease"
+  ],
+  "related": [
+   "comorbidities/marfan-and-ehlers-danlos-syndromes",
+   "procedures/cervical-spine-surgery",
+   "drugs/suxamethonium",
+   "comorbidities/neuromuscular-diseases"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/paediatric-liver-failure.md",
+  "title": "Liver Failure in Children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "liver",
+   "hepatic",
+   "coagulopathy"
+  ],
+  "aliases": [
+   "paediatric liver failure",
+   "acute liver failure",
+   "fulminant hepatitis",
+   "chronic liver disease",
+   "biliary atresia"
+  ],
+  "related": [
+   "comorbidities/liver-disease",
+   "procedures/kasai-portoenterostomy",
+   "procedures/liver-transplantation",
+   "comorbidities/wilsons-disease",
+   "physiology/child-pugh-score"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/paediatric-myasthenia-gravis.md",
+  "title": "Myasthenia Gravis in Children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neuromuscular",
+   "autoimmune",
+   "muscle-relaxants"
+  ],
+  "aliases": [
+   "MG",
+   "juvenile myasthenia gravis",
+   "neonatal myasthenia",
+   "congenital myasthenic syndrome"
+  ],
+  "related": [
+   "comorbidities/myasthenia-gravis",
+   "drugs/pyridostigmine",
+   "drugs/neostigmine",
+   "drugs/suxamethonium",
+   "procedures/thymectomy"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/paediatric-renal-failure.md",
+  "title": "Renal Failure in Children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatric",
+   "renal",
+   "hyperkalaemia",
+   "dialysis"
+  ],
+  "aliases": [
+   "paediatric renal failure",
+   "paediatric AKI",
+   "paediatric CKD",
+   "CRF in children",
+   "ARF in children"
+  ],
+  "related": [
+   "comorbidities/chronic-kidney-disease",
+   "comorbidities/perioperative-acute-kidney-injury",
+   "drugs/drugs-in-renal-impairment",
+   "comorbidities/renal-transplant",
+   "drugs/suxamethonium"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/panhypopituitarism.md",
+  "title": "Panhypopituitarism",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "endocrine",
+   "pituitary",
+   "hormone-replacement"
+  ],
+  "aliases": [
+   "hypopituitarism",
+   "pituitary insufficiency"
+  ],
+  "related": [
+   "comorbidities/addisons-disease",
+   "comorbidities/hypothyroidism",
+   "comorbidities/diabetes-insipidus",
+   "procedures/transsphenoidal-pituitary-surgery",
+   "drugs/hydrocortisone"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/parkinsons-disease.md",
+  "title": "Parkinson's Disease",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neurology",
+   "movement-disorder",
+   "autonomic",
+   "aspiration"
+  ],
+  "aliases": [
+   "Parkinson disease",
+   "PD",
+   "parkinsonism",
+   "Madopar",
+   "levodopa",
+   "selegiline"
+  ],
+  "related": [
+   "drugs/maois",
+   "drugs/levodopa",
+   "comorbidities/altered-mental-status-dementia-delirium",
+   "drugs/metoclopramide",
+   "drugs/glycopyrrolate"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/pericardial-disease.md",
+  "title": "Pericardial Disease",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "pericarditis",
+   "diastolic dysfunction"
+  ],
+  "aliases": [
+   "acute pericarditis",
+   "constrictive pericarditis",
+   "pericardectomy"
+  ],
+  "related": [
+   "comorbidities/cardiac-tamponade",
+   "drugs/milrinone",
+   "comorbidities/heart-failure",
+   "comorbidities/cardiomyopathy"
+  ]
+ },
+ {
   "path": "topics/comorbidities/perioperative-acute-kidney-injury.md",
   "title": "Perioperative acute kidney injury and renal protection",
   "area": "comorbidities",
@@ -2046,6 +2415,207 @@
   ]
  },
  {
+  "path": "topics/comorbidities/pre-eclampsia.md",
+  "title": "Pre-eclampsia, Eclampsia and HELLP",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "obstetrics",
+   "hypertension",
+   "pregnancy",
+   "magnesium",
+   "seizures"
+  ],
+  "aliases": [
+   "preeclampsia",
+   "PE",
+   "PET",
+   "pre-eclamptic toxaemia",
+   "eclampsia",
+   "HELLP syndrome",
+   "hypertensive disorders of pregnancy",
+   "gestational hypertension"
+  ],
+  "related": [
+   "drugs/magnesium",
+   "procedures/obstetric-anaesthesia",
+   "airway/obstetric-airway",
+   "drugs/uterotonics",
+   "comorbidities/comorbid-diseases-in-pregnancy"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/prematurity.md",
+  "title": "Prematurity and Ex-Premature Infants",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neonates",
+   "prematurity",
+   "apnoea"
+  ],
+  "aliases": [
+   "prematurity",
+   "ex-prem",
+   "ex-premmie",
+   "preterm infant",
+   "premature neonate",
+   "bronchopulmonary dysplasia",
+   "BPD",
+   "apnoea of prematurity"
+  ],
+  "related": [
+   "comorbidities/neonatal-anaesthesia",
+   "physiology/paediatric-physiology",
+   "comorbidities/congenital-heart-disease",
+   "procedures/inguinal-hernia-repair-paediatric",
+   "drugs/caffeine"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/previous-stroke-and-tia.md",
+  "title": "Previous Stroke and TIA",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neurology",
+   "stroke",
+   "timing-of-surgery",
+   "neuroprotection"
+  ],
+  "aliases": [
+   "CVA",
+   "cerebrovascular accident",
+   "recent stroke",
+   "TIA",
+   "transient ischaemic attack",
+   "cerebrovascular disease"
+  ],
+  "related": [
+   "crises/postoperative-stroke",
+   "procedures/carotid-endarterectomy",
+   "comorbidities/postoperative-delirium",
+   "drugs/tranexamic-acid",
+   "drugs/suxamethonium"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/prosthetic-heart-valves.md",
+  "title": "Prosthetic Heart Valves",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "valves",
+   "anticoagulation",
+   "bridging"
+  ],
+  "aliases": [
+   "mechanical heart valve",
+   "bioprosthetic valve",
+   "MVR",
+   "AVR"
+  ],
+  "related": [
+   "drugs/perioperative-anticoagulants-and-antiplatelets",
+   "regional/neuraxial-anticoagulation",
+   "comorbidities/infective-endocarditis",
+   "comorbidities/aortic-stenosis",
+   "comorbidities/mitral-stenosis"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/psychiatric-patients.md",
+  "title": "Psychiatric Patients",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "psychiatry",
+   "psychotropics",
+   "drug-interactions",
+   "qtc"
+  ],
+  "aliases": [
+   "schizophrenia",
+   "depression",
+   "anxiety",
+   "psychotropics",
+   "antidepressants",
+   "antipsychotics",
+   "MAOI",
+   "lithium"
+  ],
+  "related": [
+   "drugs/lithium",
+   "drugs/monoamine-oxidase-inhibitors",
+   "crises/serotonin-syndrome",
+   "drugs/tricyclic-antidepressants",
+   "drugs/ssris"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/pulmonary-hypertension.md",
+  "title": "Pulmonary Hypertension and Right Ventricular Dysfunction",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "pulmonary hypertension",
+   "rv failure",
+   "high risk"
+  ],
+  "aliases": [
+   "PH",
+   "PHT",
+   "pulmonary arterial hypertension",
+   "PAH",
+   "RV failure",
+   "right heart failure",
+   "pulmonary hypertensive crisis"
+  ],
+  "related": [
+   "drugs/pulmonary-vasodilators",
+   "drugs/nitric-oxide",
+   "drugs/milrinone",
+   "drugs/vasopressin",
+   "drugs/sildenafil"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/recent-urti.md",
+  "title": "Recent Upper Respiratory Tract Infection",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "respiratory",
+   "airway",
+   "cancellation"
+  ],
+  "aliases": [
+   "URTI",
+   "URI",
+   "common cold",
+   "recent cold",
+   "runny nose child"
+  ],
+  "related": [
+   "crises/laryngospasm",
+   "crises/bronchospasm",
+   "comorbidities/asthma",
+   "comorbidities/smoking",
+   "other/preschool-children"
+  ]
+ },
+ {
   "path": "topics/comorbidities/renal-transplant.md",
   "title": "Anaesthesia After Renal Transplant",
   "area": "comorbidities",
@@ -2065,6 +2635,80 @@
    "comorbidities/chronic-kidney-disease",
    "drugs/ciclosporin",
    "drugs/nsaids"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/restrictive-lung-disease.md",
+  "title": "Restrictive Lung Disease",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "respiratory",
+   "pulmonary-fibrosis",
+   "ventilation"
+  ],
+  "aliases": [
+   "pulmonary fibrosis",
+   "interstitial lung disease",
+   "ILD",
+   "restrictive defect"
+  ],
+  "related": [
+   "comorbidities/copd",
+   "comorbidities/kyphoscoliosis",
+   "comorbidities/obesity",
+   "comorbidities/ankylosing-spondylitis"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/rheumatic-heart-disease.md",
+  "title": "Rheumatic Fever and Rheumatic Heart Disease",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiology",
+   "valvular-disease",
+   "autoimmune"
+  ],
+  "aliases": [
+   "rheumatic fever",
+   "RHD",
+   "Jones criteria",
+   "ARF"
+  ],
+  "related": [
+   "comorbidities/mitral-stenosis",
+   "comorbidities/mitral-regurgitation",
+   "comorbidities/aortic-stenosis",
+   "comorbidities/infective-endocarditis-prophylaxis"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/rheumatoid-arthritis.md",
+  "title": "Rheumatoid Arthritis",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "rheumatology",
+   "difficult-airway",
+   "cervical-spine",
+   "multisystem"
+  ],
+  "aliases": [
+   "RA",
+   "rheumatoid",
+   "atlanto-axial instability",
+   "AAI",
+   "Felty syndrome"
+  ],
+  "related": [
+   "comorbidities/ankylosing-spondylitis",
+   "airway/awake-fibreoptic-intubation",
+   "drugs/methotrexate",
+   "drugs/perioperative-steroids"
   ]
  },
  {
@@ -2090,6 +2734,63 @@
    "regional/thoracic-epidural",
    "regional/paravertebral-block",
    "regional/serratus-anterior-plane-block"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/sickle-cell-disease-children.md",
+  "title": "Sickle Cell Disease in Children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "haematology",
+   "haemoglobinopathy",
+   "transfusion"
+  ],
+  "aliases": [
+   "sickle cell anaemia",
+   "HbSS",
+   "HbAS",
+   "sickle cell trait",
+   "SCD"
+  ],
+  "related": [
+   "comorbidities/sickle-cell-disease",
+   "drugs/blood-transfusion",
+   "comorbidities/thalassaemia",
+   "other/preschool-children"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/syndromic-child.md",
+  "title": "The Syndromic Child",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "difficult-airway",
+   "syndromes",
+   "congenital"
+  ],
+  "aliases": [
+   "congenital syndromes",
+   "Pierre Robin sequence",
+   "PRS",
+   "Treacher Collins syndrome",
+   "Goldenhar syndrome",
+   "hemifacial microsomia",
+   "DiGeorge syndrome",
+   "velocardiofacial syndrome",
+   "22q11 deletion",
+   "fetal alcohol syndrome"
+  ],
+  "related": [
+   "airway/paediatric-difficult-airway",
+   "comorbidities/downs-syndrome",
+   "comorbidities/paediatric-syndromes",
+   "comorbidities/obstructive-sleep-apnoea"
   ]
  },
  {
@@ -5701,6 +6402,59 @@
   ]
  },
  {
+  "path": "topics/other/patient-social-profiling.md",
+  "title": "Patient Social Profiling",
+  "area": "other",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "preoperative",
+   "social",
+   "consent",
+   "discharge-planning"
+  ],
+  "aliases": [
+   "social setup",
+   "social history",
+   "medical social worker",
+   "MSW",
+   "patient profiling"
+  ],
+  "related": [
+   "comorbidities/elderly-and-frailty",
+   "comorbidities/substance-abuse",
+   "other/jehovahs-witness",
+   "comorbidities/intellectual-disability",
+   "comorbidities/dementia-and-delirium"
+  ]
+ },
+ {
+  "path": "topics/other/preschool-children.md",
+  "title": "Preschool and Young Children",
+  "area": "other",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "induction",
+   "emergence-delirium",
+   "airway"
+  ],
+  "aliases": [
+   "preschoolers",
+   "toddlers",
+   "young children",
+   "paediatric anaesthesia"
+  ],
+  "related": [
+   "other/neonates-and-infants",
+   "other/paediatric-premedication",
+   "other/emergence-delirium",
+   "comorbidities/recent-urti",
+   "regional/paediatric-caudal-block"
+  ]
+ },
+ {
   "path": "topics/physiology/acetylcholine-and-cholinergic-receptors.md",
   "title": "Acetylcholine and cholinergic receptors",
   "area": "physiology",
@@ -5927,6 +6681,30 @@
    "drugs/remifentanil",
    "crises/malignant-hyperthermia",
    "drugs/dexmedetomidine"
+  ]
+ },
+ {
+  "path": "topics/physiology/ideal-anaesthetic-agent.md",
+  "title": "Ideal Anaesthetic Agent",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "pharmacology",
+   "principles",
+   "general-anaesthesia"
+  ],
+  "aliases": [
+   "ideal anaesthetic",
+   "ideal induction agent",
+   "balanced anaesthesia",
+   "properties of anaesthetic drugs"
+  ],
+  "related": [
+   "drugs/propofol",
+   "drugs/volatile-anaesthetics",
+   "physiology/pharmacokinetics",
+   "physiology/tiva-and-tci"
   ]
  },
  {
@@ -6604,6 +7382,34 @@
    "procedures/endovascular-thrombectomy-for-stroke",
    "comorbidities/vascular-disease",
    "procedures/open-aaa-repair"
+  ]
+ },
+ {
+  "path": "topics/procedures/cataract-surgery.md",
+  "title": "Cataract Surgery (Phacoemulsification)",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "ophthalmology",
+   "sedation",
+   "mac",
+   "eye"
+  ],
+  "aliases": [
+   "phaco",
+   "phacoemulsification",
+   "cataract extraction",
+   "ICCE",
+   "intracapsular cataract extraction",
+   "IOL implantation"
+  ],
+  "related": [
+   "regional/peribulbar-block",
+   "regional/sub-tenon-block",
+   "regional/retrobulbar-block",
+   "procedures/eye-surgery",
+   "procedures/monitored-anaesthesia-care"
   ]
  },
  {
@@ -8940,6 +9746,470 @@
   ]
  },
  {
+  "path": "topics/procedures/pancreas-transplantation.md",
+  "title": "Pancreas Transplantation",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "transplant",
+   "diabetes",
+   "glucose-control",
+   "hpb"
+  ],
+  "aliases": [
+   "SPK",
+   "simultaneous pancreas kidney transplant",
+   "PAK",
+   "pancreas after kidney",
+   "PAT",
+   "pancreas alone transplant"
+  ],
+  "related": [
+   "procedures/renal-transplantation",
+   "comorbidities/diabetes-mellitus",
+   "comorbidities/chronic-kidney-disease",
+   "drugs/methylprednisolone"
+  ]
+ },
+ {
+  "path": "topics/procedures/pancreatic-surgery.md",
+  "title": "Pancreatic Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "hepatobiliary",
+   "pancreas",
+   "octreotide"
+  ],
+  "aliases": [
+   "pancreatectomy",
+   "Whipple",
+   "pancreaticoduodenectomy",
+   "pancreas surgery"
+  ],
+  "related": [
+   "drugs/octreotide",
+   "comorbidities/acute-pancreatitis",
+   "comorbidities/insulinoma",
+   "comorbidities/carcinoid-syndrome"
+  ]
+ },
+ {
+  "path": "topics/procedures/pancreatic-tumour-surgery.md",
+  "title": "Pancreatic Tumour Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "hpb",
+   "major-abdominal",
+   "pancreas",
+   "surgery"
+  ],
+  "aliases": [
+   "Whipple procedure",
+   "Whipples",
+   "pancreaticoduodenectomy",
+   "distal pancreatectomy",
+   "total pancreatectomy",
+   "regional pancreatectomy"
+  ],
+  "related": [
+   "procedures/hepatopancreaticobiliary-surgery",
+   "drugs/octreotide",
+   "procedures/fluid-management",
+   "regional/rectus-sheath-catheters",
+   "regional/thoracic-epidural"
+  ]
+ },
+ {
+  "path": "topics/procedures/pancreatitis-surgery.md",
+  "title": "Surgery for Complications of Pancreatitis",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "pancreatitis",
+   "hpb",
+   "sepsis"
+  ],
+  "aliases": [
+   "necrosectomy",
+   "pancreatic necrosectomy"
+  ],
+  "related": [
+   "procedures/hepatobiliary-surgery",
+   "procedures/emergency-laparotomy",
+   "drugs/hypocalcaemia-and-calcium-replacement",
+   "procedures/abdominal-surgery-and-laparotomy"
+  ]
+ },
+ {
+  "path": "topics/procedures/parathyroid-surgery.md",
+  "title": "Parathyroid Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "endocrine",
+   "head-and-neck",
+   "calcium",
+   "shared-airway"
+  ],
+  "aliases": [
+   "parathyroidectomy",
+   "PTX",
+   "MIP",
+   "minimally invasive parathyroidectomy"
+  ],
+  "related": [
+   "procedures/thyroid-surgery",
+   "comorbidities/hyperparathyroidism",
+   "regional/superficial-cervical-plexus-block",
+   "comorbidities/chronic-kidney-disease"
+  ]
+ },
+ {
+  "path": "topics/procedures/parotidectomy.md",
+  "title": "Parotidectomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "ent",
+   "head-and-neck",
+   "nerve-monitoring"
+  ],
+  "aliases": [
+   "parotid surgery",
+   "superficial parotidectomy",
+   "total parotidectomy",
+   "facial nerve monitoring"
+  ],
+  "related": [
+   "procedures/neck-dissection",
+   "procedures/head-and-neck-surgery",
+   "drugs/remifentanil",
+   "drugs/clonidine"
+  ]
+ },
+ {
+  "path": "topics/procedures/percutaneous-asd-pfo-closure.md",
+  "title": "Percutaneous ASD and PFO Closure",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "cath-lab",
+   "congenital-heart-disease",
+   "tee"
+  ],
+  "aliases": [
+   "ASD closure",
+   "PFO closure",
+   "atrial septal defect device closure",
+   "patent foramen ovale closure",
+   "septal occluder"
+  ],
+  "related": [
+   "comorbidities/adult-congenital-heart-disease",
+   "procedures/cardiac-catheterisation-lab",
+   "equipment/transoesophageal-echocardiography",
+   "comorbidities/previous-stroke-and-tia",
+   "crises/venous-air-embolism"
+  ]
+ },
+ {
+  "path": "topics/procedures/percutaneous-mitral-commissurotomy.md",
+  "title": "Percutaneous Mitral Commissurotomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "cath-lab",
+   "valve",
+   "mitral-stenosis"
+  ],
+  "aliases": [
+   "PTMC",
+   "percutaneous transluminal mitral commissurotomy",
+   "balloon mitral valvotomy",
+   "BMV",
+   "PBMV"
+  ],
+  "related": [
+   "comorbidities/mitral-stenosis",
+   "comorbidities/mitral-regurgitation",
+   "equipment/transoesophageal-echocardiography",
+   "procedures/cardiac-catheter-lab"
+  ]
+ },
+ {
+  "path": "topics/procedures/percutaneous-nephrolithotomy.md",
+  "title": "Percutaneous Nephrostomy and Nephrolithotomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "urology",
+   "prone",
+   "renal-stones"
+  ],
+  "aliases": [
+   "PCNL",
+   "PCN",
+   "percutaneous nephrostomy",
+   "renal stone surgery"
+  ],
+  "related": [
+   "procedures/prone-position",
+   "procedures/turp",
+   "crises/turp-syndrome",
+   "procedures/ureteroscopy"
+  ]
+ },
+ {
+  "path": "topics/procedures/peripheral-arterial-bypass-graft.md",
+  "title": "Peripheral Arterial Bypass Graft",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vascular",
+   "bypass",
+   "heparin",
+   "regional"
+  ],
+  "aliases": [
+   "fem-pop bypass",
+   "femoropopliteal bypass",
+   "femorodistal bypass",
+   "fem-fem crossover",
+   "axillo-bifemoral bypass",
+   "AxBF",
+   "lower limb bypass"
+  ],
+  "related": [
+   "procedures/open-aaa-repair",
+   "procedures/vascular-anaesthesia",
+   "drugs/heparin",
+   "drugs/protamine",
+   "regional/neuraxial-anticoagulation"
+  ]
+ },
+ {
+  "path": "topics/procedures/phaeochromocytoma-surgery.md",
+  "title": "Phaeochromocytoma Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "endocrine",
+   "adrenal",
+   "catecholamines",
+   "haemodynamic-instability"
+  ],
+  "aliases": [
+   "phaeo",
+   "pheochromocytoma",
+   "adrenalectomy",
+   "paraganglioma",
+   "PPGL"
+  ],
+  "related": [
+   "comorbidities/phaeochromocytoma",
+   "drugs/phenoxybenzamine",
+   "drugs/phentolamine",
+   "comorbidities/carcinoid-syndrome",
+   "drugs/magnesium-sulfate"
+  ]
+ },
+ {
+  "path": "topics/procedures/pituitary-surgery.md",
+  "title": "Pituitary and Transsphenoidal Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neurosurgery",
+   "pituitary",
+   "endocrine",
+   "diabetes insipidus"
+  ],
+  "aliases": [
+   "transsphenoidal surgery",
+   "transphenoidal hypophysectomy",
+   "TSS",
+   "pituitary adenoma resection",
+   "endoscopic endonasal surgery"
+  ],
+  "related": [
+   "procedures/endoscopic-sinus-surgery",
+   "comorbidities/acromegaly",
+   "comorbidities/cushings-syndrome",
+   "procedures/neuroanaesthesia",
+   "procedures/craniotomy"
+  ]
+ },
+ {
+  "path": "topics/procedures/pleurectomy-and-pleurodesis.md",
+  "title": "Pleurectomy and Pleurodesis",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "thoracic",
+   "one-lung-ventilation",
+   "pneumothorax",
+   "pleural-effusion"
+  ],
+  "aliases": [
+   "pleurectomy",
+   "pleurodesis",
+   "talc pleurodesis",
+   "VATS pleurodesis"
+  ],
+  "related": [
+   "procedures/vats",
+   "procedures/one-lung-ventilation",
+   "equipment/double-lumen-tube",
+   "comorbidities/pneumothorax",
+   "procedures/thoracotomy"
+  ]
+ },
+ {
+  "path": "topics/procedures/posterior-fossa-surgery.md",
+  "title": "Posterior Fossa Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuroanaesthesia",
+   "neurosurgery",
+   "positioning",
+   "brainstem"
+  ],
+  "aliases": [
+   "posterior fossa craniotomy",
+   "infratentorial surgery",
+   "acoustic neuroma",
+   "cerebellopontine angle tumour",
+   "foramen magnum decompression",
+   "Chiari decompression"
+  ],
+  "related": [
+   "procedures/craniotomy",
+   "crises/venous-air-embolism",
+   "procedures/sitting-position",
+   "physiology/intracranial-pressure",
+   "drugs/phenytoin"
+  ]
+ },
+ {
+  "path": "topics/procedures/prostate-brachytherapy.md",
+  "title": "Prostate Brachytherapy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "urology",
+   "radiotherapy",
+   "oncology"
+  ],
+  "aliases": [
+   "brachytherapy",
+   "prostate seed implant",
+   "HDR brachytherapy",
+   "LDR brachytherapy"
+  ],
+  "related": [
+   "procedures/urology-overview",
+   "regional/spinal-anaesthesia",
+   "regional/epidural-anaesthesia",
+   "procedures/radical-prostatectomy"
+  ]
+ },
+ {
+  "path": "topics/procedures/pulmonary-embolectomy.md",
+  "title": "Pulmonary Embolectomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "pulmonary embolism",
+   "cpb",
+   "rv failure"
+  ],
+  "aliases": [
+   "surgical embolectomy",
+   "PE embolectomy"
+  ],
+  "related": [
+   "procedures/cardiac-surgery-with-cardiopulmonary-bypass",
+   "drugs/pulmonary-vasodilators",
+   "comorbidities/pulmonary-hypertension",
+   "drugs/adrenaline"
+  ]
+ },
+ {
+  "path": "topics/procedures/radical-cystectomy.md",
+  "title": "Radical Cystectomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "urology",
+   "major-surgery",
+   "eras",
+   "pelvic"
+  ],
+  "aliases": [
+   "cystectomy",
+   "ileal conduit",
+   "urinary diversion",
+   "neobladder"
+  ],
+  "related": [
+   "procedures/radical-prostatectomy",
+   "procedures/enhanced-recovery-after-surgery",
+   "regional/epidural-anaesthesia",
+   "procedures/cell-salvage",
+   "procedures/urology-surgery"
+  ]
+ },
+ {
+  "path": "topics/procedures/renal-transplantation.md",
+  "title": "Renal Transplantation (Recipient)",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "transplant",
+   "renal",
+   "urology",
+   "graft-perfusion"
+  ],
+  "aliases": [
+   "kidney transplant",
+   "renal transplant",
+   "DDKT",
+   "deceased donor kidney transplant",
+   "LDKT recipient"
+  ],
+  "related": [
+   "comorbidities/chronic-kidney-disease",
+   "procedures/living-donor-nephrectomy",
+   "comorbidities/anaesthesia-after-renal-transplant",
+   "physiology/perioperative-renal-protection",
+   "procedures/pancreas-transplantation"
+  ]
+ },
+ {
   "path": "topics/procedures/starting-a-case.md",
   "title": "Starting a Case and Preparing for Surgery",
   "area": "procedures",
@@ -9999,6 +11269,32 @@
   ]
  },
  {
+  "path": "topics/regional/neuraxial-anticoagulation.md",
+  "title": "Neuraxial and Regional Blocks with Anticoagulants",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuraxial",
+   "anticoagulation",
+   "antiplatelet",
+   "haematoma"
+  ],
+  "aliases": [
+   "ASRA guidelines",
+   "regional anaesthesia in anticoagulated patient",
+   "coagulopathy and spinal",
+   "Clexane and epidural"
+  ],
+  "related": [
+   "drugs/perioperative-anticoagulants-and-antiplatelets",
+   "regional/central-neuraxial-blocks",
+   "regional/complications-of-neuraxial-blocks",
+   "comorbidities/coagulopathy",
+   "procedures/interventional-pain-management"
+  ]
+ },
+ {
   "path": "topics/regional/neurological-injury-after-neuraxial-blocks.md",
   "title": "Neurological injury after neuraxial blocks",
   "area": "regional",
@@ -10504,6 +11800,35 @@
    "regional/tap-and-quadratus-lumborum-blocks",
    "regional/scalp-block",
    "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
+  "path": "topics/regional/regional-anaesthesia.md",
+  "title": "Regional Anaesthesia",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "regional",
+   "neuraxial",
+   "peripheral-nerve-block",
+   "overview"
+  ],
+  "aliases": [
+   "RA",
+   "regional anesthesia",
+   "nerve block",
+   "PNB",
+   "CNB",
+   "central neuraxial blockade",
+   "peripheral nerve blockade"
+  ],
+  "related": [
+   "regional/spinal-anaesthesia",
+   "regional/epidural-anaesthesia",
+   "regional/neuraxial-anticoagulation",
+   "drugs/local-anaesthetics",
+   "regional/failed-regional-anaesthesia"
   ]
  },
  {

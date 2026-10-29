@@ -193,4 +193,5 @@ How renal impairment and dialysis change drug handling, which anaesthetic and an
 - [Chronic Kidney Disease and Dialysis](../comorbidities/chronic-kidney-disease.md)
 - [Drugs in liver impairment](drugs-in-liver-impairment.md)
 - [Sugammadex](sugammadex.md)
+- [Renal Failure in Children](../comorbidities/paediatric-renal-failure.md)
 <!-- related:end -->

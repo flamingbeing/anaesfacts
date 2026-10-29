@@ -157,6 +157,7 @@ Reversible airway obstruction: optimise first, keep the airway out of reach of l
 ## Related
 - [COPD, Bronchiectasis and Cystic Fibrosis](copd.md)
 - [Ketamine](../drugs/ketamine.md)
+- [Recent Upper Respiratory Tract Infection](recent-urti.md)
 - [Magnesium sulfate and hypomagnesaemia](../drugs/magnesium-sulfate.md)
 - [NSAIDs and COX-2 inhibitors](../drugs/nsaids.md)
 - [Theophylline and Aminophylline](../drugs/theophylline-and-aminophylline.md)

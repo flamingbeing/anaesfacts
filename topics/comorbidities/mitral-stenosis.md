@@ -102,8 +102,12 @@ Fixed-output valve lesion: keep the heart slow and in sinus rhythm, keep preload
 
 <!-- related:start (generated) -->
 ## Related
+- [Pulmonary Hypertension and Right Ventricular Dysfunction](pulmonary-hypertension.md)
 - [Atrial fibrillation](atrial-fibrillation.md)
 - [Aortic Stenosis](aortic-stenosis.md)
 - [Mitral Regurgitation and Mitral Valve Prolapse](mitral-regurgitation.md)
+- [Prosthetic Heart Valves](prosthetic-heart-valves.md)
+- [Rheumatic Fever and Rheumatic Heart Disease](rheumatic-heart-disease.md)
 - [Mitral Valve Surgery](../procedures/mitral-valve-surgery.md)
+- [Percutaneous Mitral Commissurotomy](../procedures/percutaneous-mitral-commissurotomy.md)
 <!-- related:end -->

@@ -217,6 +217,8 @@ Screen with STOP-BANG and check AHI and bicarbonate; expect a difficult airway, 
 - [Acromegaly](acromegaly.md)
 - [Cushing's Syndrome](cushings-syndrome.md)
 - [Down's Syndrome](downs-syndrome.md)
+- [Mucopolysaccharidoses](mucopolysaccharidoses.md)
+- [The Syndromic Child](syndromic-child.md)
 - [Adolescents and Teenagers](../other/adolescents.md)
 - [Day Surgery Anaesthesia](../procedures/day-surgery.md)
 - [Drug-Induced Sleep Endoscopy (DISE)](../procedures/drug-induced-sleep-endoscopy.md)

@@ -139,4 +139,5 @@ Deranged clotting raises bleeding risk: correct to target, avoid neuraxial and d
 <!-- related:start (generated) -->
 ## Related
 - [Chronic Liver Disease and Cirrhosis](chronic-liver-disease.md)
+- [Neuraxial and Regional Blocks with Anticoagulants](../regional/neuraxial-anticoagulation.md)
 <!-- related:end -->

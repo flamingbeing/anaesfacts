@@ -143,4 +143,5 @@ Check control and end-organ damage, adjust medicines and insulin for fasting, ke
 - [Acromegaly](acromegaly.md)
 - [Cushing's Syndrome](cushings-syndrome.md)
 - [Vascular Patients](vascular-patients.md)
+- [Pancreas Transplantation](../procedures/pancreas-transplantation.md)
 <!-- related:end -->

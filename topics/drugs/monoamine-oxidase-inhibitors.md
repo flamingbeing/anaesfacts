@@ -160,4 +160,5 @@ Old, now seldom used antidepressants that block amine breakdown; the anaesthetic
 - [Ephedrine](ephedrine.md)
 - [Phenylephrine](phenylephrine.md)
 - [Tricyclic Antidepressants](tricyclic-antidepressants.md)
+- [Psychiatric Patients](../comorbidities/psychiatric-patients.md)
 <!-- related:end -->

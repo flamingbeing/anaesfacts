@@ -114,4 +114,5 @@ Anaesthesia for organ retrieval from brain dead (DBD) and circulatory death (DCD
 <!-- related:start (generated) -->
 ## Related
 - [Liver Transplantation](liver-transplantation.md)
+- [Renal Transplantation (Recipient)](renal-transplantation.md)
 <!-- related:end -->

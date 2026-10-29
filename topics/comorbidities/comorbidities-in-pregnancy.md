@@ -351,5 +351,6 @@ Haematological, liver, cardiac, respiratory, endocrine and neurological disease 
 
 <!-- related:start (generated) -->
 ## Related
+- [Pre-eclampsia, Eclampsia and HELLP](pre-eclampsia.md)
 - [Obstetric Anaesthesia](../procedures/obstetric-anaesthesia.md)
 <!-- related:end -->

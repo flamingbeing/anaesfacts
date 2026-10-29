@@ -110,3 +110,9 @@ Weigh the patient's thromboembolic risk against the procedure's bleeding risk, t
   - A: High thromboembolic risk patients on warfarin only, not DOACs
 - Q: Therapeutic enoxaparin bridging dose?
   - A: 1-1.5mg/kg BD subcutaneously, starting 3 days before surgery
+
+<!-- related:start (generated) -->
+## Related
+- [Prosthetic Heart Valves](../comorbidities/prosthetic-heart-valves.md)
+- [Neuraxial and Regional Blocks with Anticoagulants](../regional/neuraxial-anticoagulation.md)
+<!-- related:end -->

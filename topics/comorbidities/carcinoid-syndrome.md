@@ -90,3 +90,9 @@ Prevent carcinoid crisis with octreotide, smooth anaesthesia and avoidance of tr
   - A: Ipratropium or more octreotide; avoid beta-agonists such as salbutamol.
 - Q: Main urinary marker for carcinoid?
   - A: 24-hour urinary 5-HIAA.
+
+<!-- related:start (generated) -->
+## Related
+- [Pancreatic Surgery](../procedures/pancreatic-surgery.md)
+- [Phaeochromocytoma Surgery](../procedures/phaeochromocytoma-surgery.md)
+<!-- related:end -->

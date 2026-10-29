@@ -71,4 +71,6 @@ Haemodynamic goal for MR: "fast, full, forward": high-normal heart rate, normal 
 - [Mitral Stenosis](mitral-stenosis.md)
 - [Aortic Regurgitation](aortic-regurgitation.md)
 - [Mitral Valve Surgery](../procedures/mitral-valve-surgery.md)
+- [Rheumatic Fever and Rheumatic Heart Disease](rheumatic-heart-disease.md)
+- [Percutaneous Mitral Commissurotomy](../procedures/percutaneous-mitral-commissurotomy.md)
 <!-- related:end -->

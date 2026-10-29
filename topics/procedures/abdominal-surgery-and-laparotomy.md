@@ -76,4 +76,5 @@ Fluid shifts, aspiration risk, heat loss and postoperative lung impairment drive
 - [Intestinal Obstruction and Laparotomy](intestinal-obstruction.md)
 - [Laparoscopic Surgery](laparoscopic-surgery.md)
 - [Rectus sheath block](../regional/rectus-sheath-block.md)
+- [Surgery for Complications of Pancreatitis](pancreatitis-surgery.md)
 <!-- related:end -->

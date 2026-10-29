@@ -36,5 +36,6 @@ Main issues: consent, cooperation at induction and emergence, and the risk of po
 
 <!-- related:start (generated) -->
 ## Related
+- [Parkinson's Disease](parkinsons-disease.md)
 - [Anaesthesia for the Elderly and Frailty](../other/elderly-and-frailty.md)
 <!-- related:end -->

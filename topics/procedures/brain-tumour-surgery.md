@@ -62,4 +62,5 @@ Control seizures and ICP, document deficits, plan steroid cover, and aim for smo
 <!-- related:start (generated) -->
 ## Related
 - [Awake Craniotomy and Deep Brain Stimulation](awake-craniotomy.md)
+- [Pituitary and Transsphenoidal Surgery](pituitary-surgery.md)
 <!-- related:end -->

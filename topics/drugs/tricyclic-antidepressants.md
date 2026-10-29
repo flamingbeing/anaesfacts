@@ -168,4 +168,5 @@ Serotonin and/or noradrenaline reuptake inhibitors used for depression and, at l
 ## Related
 - [Monoamine oxidase inhibitors](monoamine-oxidase-inhibitors.md)
 - [Sodium bicarbonate](sodium-bicarbonate.md)
+- [Psychiatric Patients](../comorbidities/psychiatric-patients.md)
 <!-- related:end -->

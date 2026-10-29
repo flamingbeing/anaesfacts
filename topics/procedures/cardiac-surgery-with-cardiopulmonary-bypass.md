@@ -441,4 +441,5 @@ Anaesthesia for on-pump heart surgery: manage the underlying cardiac lesion, TEE
 ## Related
 - [Aortic Regurgitation](../comorbidities/aortic-regurgitation.md)
 - [Aortic Dissection and Thoracic Aortic Aneurysm Repair](aortic-dissection-and-thoracic-aortic-aneurysm.md)
+- [Pulmonary Embolectomy](pulmonary-embolectomy.md)
 <!-- related:end -->

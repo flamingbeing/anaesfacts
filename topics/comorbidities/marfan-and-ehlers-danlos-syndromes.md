@@ -72,3 +72,9 @@ Inherited connective tissue disorders: guard the aorta and lungs, and position a
   - A: TTE
 - Q: What airway risk is specific to Ehlers-Danlos syndrome?
   - A: Severe tracheal bruising, so intubate gently
+
+<!-- related:start (generated) -->
+## Related
+- [Prosthetic Heart Valves](prosthetic-heart-valves.md)
+- [Osteogenesis Imperfecta](osteogenesis-imperfecta.md)
+<!-- related:end -->

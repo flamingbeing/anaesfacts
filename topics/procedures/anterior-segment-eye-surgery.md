@@ -39,3 +39,8 @@ Open-eye front-of-eye surgery where intraocular pressure control is critical, as
   - A: Mannitol or acetazolamide, plus IPPV with CO2 control
 - Q: Is IV atropine safe in glaucoma patients?
   - A: Yes, little reaches the eye
+
+<!-- related:start (generated) -->
+## Related
+- [Cataract Surgery (Phacoemulsification)](cataract-surgery.md)
+<!-- related:end -->

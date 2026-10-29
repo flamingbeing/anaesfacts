@@ -366,6 +366,7 @@ Vascular patients having carotid plaque removed: keep cerebral perfusion up duri
 - [Cervical Plexus Block](../regional/cervical-plexus-block.md)
 - [Endovascular Thrombectomy for Ischaemic Stroke](endovascular-thrombectomy-for-stroke.md)
 - [Abdominal Aortic Aneurysm and Open Repair](open-aaa-repair.md)
+- [Previous Stroke and TIA](../comorbidities/previous-stroke-and-tia.md)
 - [Interventional Neuroradiology](neuroradiology.md)
 - [Supraclavicular nerve block](../regional/supraclavicular-nerve-block.md)
 <!-- related:end -->

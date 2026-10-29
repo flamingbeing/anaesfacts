@@ -186,4 +186,6 @@ Most patients have little reserve; HOCM needs a full, slow, well-constricted hea
 - [Phenylephrine](../drugs/phenylephrine.md)
 - [Cardiac Implantable Electronic Devices](cardiac-implantable-electronic-devices.md)
 - [Alcoholism](alcoholism.md)
+- [Mucopolysaccharidoses](mucopolysaccharidoses.md)
+- [Pericardial Disease](pericardial-disease.md)
 <!-- related:end -->

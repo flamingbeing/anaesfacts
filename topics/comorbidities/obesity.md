@@ -307,6 +307,7 @@ A multisystem disease: difficult and physiologically unforgiving airway, reduced
 <!-- related:start (generated) -->
 ## Related
 - [Obstructive Sleep Apnoea](obstructive-sleep-apnoea.md)
+- [Restrictive Lung Disease](restrictive-lung-disease.md)
 - [Bariatric Surgery](../procedures/bariatric-surgery.md)
 - [Cosmetic Surgery](../procedures/cosmetic-surgery.md)
 <!-- related:end -->

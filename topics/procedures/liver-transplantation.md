@@ -188,8 +188,10 @@ Recipient anaesthesia for liver transplant: careful work-up, then three surgical
 ## Related
 - [Chronic Liver Disease and Cirrhosis](../comorbidities/chronic-liver-disease.md)
 - [Acute Liver Failure](../comorbidities/acute-liver-failure.md)
+- [Renal Transplantation (Recipient)](renal-transplantation.md)
 - [Organ Procurement for Transplantation](organ-procurement.md)
 - [Anaesthesia after Heart Transplant](../comorbidities/anaesthesia-after-heart-transplant.md)
 - [Immunosuppression](../comorbidities/immunosuppression.md)
+- [Liver Failure in Children](../comorbidities/paediatric-liver-failure.md)
 - [Living Donor Liver Transplant](living-donor-liver-transplant.md)
 <!-- related:end -->

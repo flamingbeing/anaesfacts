@@ -131,4 +131,5 @@ Infection of the endocardium and valves; prophylaxis only for high-risk patients
 <!-- related:start (generated) -->
 ## Related
 - [Adults with Congenital Heart Disease](adult-congenital-heart-disease.md)
+- [Prosthetic Heart Valves](prosthetic-heart-valves.md)
 <!-- related:end -->

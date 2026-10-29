@@ -127,4 +127,6 @@ Fixed cardiac output state: keep heart rate slow, SVR and preload up, and corona
 - [Mitral Stenosis](mitral-stenosis.md)
 - [Aortic Regurgitation](aortic-regurgitation.md)
 - [Cardiomyopathy (HOCM, DCM, Restrictive)](cardiomyopathy.md)
+- [Prosthetic Heart Valves](prosthetic-heart-valves.md)
+- [Rheumatic Fever and Rheumatic Heart Disease](rheumatic-heart-disease.md)
 <!-- related:end -->

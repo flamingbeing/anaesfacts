@@ -42,4 +42,5 @@ Quaternary amine anticholinesterase, mainly for myasthenia gravis; longer acting
 <!-- related:start (generated) -->
 ## Related
 - [Myasthenia Gravis and Lambert-Eaton Syndrome](../comorbidities/myasthenia-gravis.md)
+- [Myasthenia Gravis in Children](../comorbidities/paediatric-myasthenia-gravis.md)
 <!-- related:end -->

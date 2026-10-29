@@ -194,4 +194,5 @@ Who is at risk of AKI around surgery, how anaesthesia affects the kidney, how to
 <!-- related:start (generated) -->
 ## Related
 - [Chronic Kidney Disease and Dialysis](chronic-kidney-disease.md)
+- [Renal Failure in Children](paediatric-renal-failure.md)
 <!-- related:end -->

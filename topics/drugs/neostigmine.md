@@ -75,6 +75,7 @@ Reversible acetylcholinesterase inhibitor (quaternary amine), mainly used to rev
 
 <!-- related:start (generated) -->
 ## Related
+- [Myasthenia Gravis in Children](../comorbidities/paediatric-myasthenia-gravis.md)
 - [Glycopyrrolate](glycopyrrolate.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)

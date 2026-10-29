@@ -77,6 +77,8 @@ Bipyridine phosphodiesterase III inhibitor: an inodilator that raises cAMP, givi
 - [Enoximone](enoximone.md)
 - [Levosimendan](levosimendan.md)
 - [Dobutamine](dobutamine.md)
+- [Pericardial Disease](../comorbidities/pericardial-disease.md)
+- [Pulmonary Hypertension and Right Ventricular Dysfunction](../comorbidities/pulmonary-hypertension.md)
 - [Phosphodiesterase inhibitors](phosphodiesterase-inhibitors.md)
 - [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
 <!-- related:end -->
