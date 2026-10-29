@@ -1,0 +1,191 @@
+{
+ "topic": "drugs/dobutamine",
+ "questions": [
+  {
+   "fact_id": "drugs/dobutamine#43a79f",
+   "kind": "mcq",
+   "stem": "Which dobutamine 250 mg presentation contains sodium metabisulfite?",
+   "options": [
+    "250 mg in 20 ml (with sodium metabisulfite)",
+    "250 mg in 5 ml (with sodium metabisulfite)",
+    "250 mg in 5 ml (with ascorbic acid)",
+    "250 mg in 50 ml (with ascorbic acid)"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#3cdd2c",
+   "kind": "mcq",
+   "stem": "How is 250 mg of dobutamine diluted for infusion?",
+   "options": [
+    "In 20 ml (12.5 mg/ml), as for dopamine",
+    "In 50 ml (5 mg/ml), as for dopamine",
+    "In 50 ml (5 mg/ml), as for noradrenaline",
+    "In 100 ml (2.5 mg/ml), as for dopamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#e16a85",
+   "kind": "mcq",
+   "stem": "Which statement about dobutamine administration is correct?",
+   "options": [
+    "Bolus dose before the infusion",
+    "Loading dose is required first",
+    "Given intramuscularly as needed",
+    "IV infusion only; no loading dose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#30ac30",
+   "kind": "mcq",
+   "stem": "What is often needed alongside dobutamine?",
+   "options": [
+    "Glyceryl trinitrate",
+    "Adrenaline",
+    "Noradrenaline",
+    "Esmolol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#b56211",
+   "kind": "blank",
+   "stem": "Dobutamine is started at ____ mcg/kg/min.",
+   "answer": "3–5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#785fd3",
+   "kind": "mcq",
+   "stem": "What is the usual dobutamine dose range?",
+   "options": [
+    "3–5 mcg/kg/min",
+    "5–20 mcg/kg/min",
+    "2–10 mcg/kg/min",
+    "20–50 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#09d92c",
+   "kind": "statement",
+   "stem": "What should the dobutamine dose be titrated to?",
+   "answer": "Haemodynamic targets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#0d64f7",
+   "kind": "statement",
+   "stem": "Which three cardiac measures increase with dobutamine?",
+   "answer": "Contractility, stroke volume and cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#1e9f62",
+   "kind": "mcq",
+   "stem": "By how much does heart rate usually rise on dobutamine?",
+   "options": [
+    "5–15/min",
+    "1–3/min",
+    "20–30/min",
+    "50–60/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#ff43f6",
+   "kind": "mcq",
+   "stem": "At about what dose does dobutamine cause mild vasodilation?",
+   "options": [
+    "About 15 mcg/kg/min",
+    "About 20 mcg/kg/min",
+    "About 5 mcg/kg/min",
+    "About 50 mcg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#bef200",
+   "kind": "mcq",
+   "stem": "Which enzyme metabolises dobutamine?",
+   "options": [
+    "Monoamine oxidase",
+    "COMT",
+    "Pseudocholinesterase",
+    "Aldehyde dehydrogenase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#3ff708",
+   "kind": "mcq",
+   "stem": "What is the half-life of dobutamine?",
+   "options": [
+    "About 20 min",
+    "About 12 hours",
+    "About 4 hours",
+    "About 2 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#87cc9a",
+   "kind": "blank",
+   "stem": "Dobutamine is contraindicated in aortic stenosis, hypertrophic obstructive cardiomyopathy and ____.",
+   "answer": "Cardiac tamponade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#fd8a73",
+   "kind": "mcq",
+   "stem": "Which adverse effect can occur with dobutamine at any dose?",
+   "options": [
+    "Hypotension",
+    "Bradycardia",
+    "Arrhythmias",
+    "Hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dobutamine#b12f94",
+   "kind": "mcq",
+   "stem": "How soon does tolerance develop to dobutamine?",
+   "options": [
+    "Within days",
+    "Within hours",
+    "Within weeks",
+    "Within minutes"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
