@@ -240,6 +240,7 @@ Removal of one or both adrenals, or an extra-adrenal tumour: alpha then beta blo
 
 <!-- related:start (generated) -->
 ## Related
+- [Phentolamine](../drugs/phentolamine.md)
 - [Carcinoid Syndrome](../comorbidities/carcinoid-syndrome.md)
 - [Magnesium sulfate and hypomagnesaemia](../drugs/magnesium-sulfate.md)
 <!-- related:end -->

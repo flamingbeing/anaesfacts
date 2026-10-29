@@ -127,9 +127,10 @@ IV fluids with large solute molecules that stay mainly in plasma and hold water 
   - Lower MW preparations last at least 6 hours, though the effect starts to fade within one hour
 
 ### Disadvantages
+- Use is now suspended or heavily restricted because of acute kidney injury and higher mortality in sepsis and critical illness
 - Itch in up to 13%
 - Coagulopathy
-  - Inhibits factor VII and von Willebrand factor and reduces platelet adhesiveness
+  - Lowers factor VIII and von Willebrand factor and reduces platelet adhesiveness
   - First blamed on high MW; a high OH/glucose ratio is now thought to matter more
   - Clinically significant only with large volumes (e.g. >50 mL/kg of tetrastarch)
 - Renal injury
@@ -157,6 +158,7 @@ IV fluids with large solute molecules that stay mainly in plasma and hold water 
 - Dextran-70 may be preferred: lasts 12 hours versus 6 hours for dextran-40
 
 ### Disadvantages
+- Use is now suspended or heavily restricted because of acute kidney injury and higher mortality in sepsis and critical illness
 - Intermediate risk of anaphylactoid reactions
 - Coagulopathy (dose related)
   - Impaired platelet aggregation, lower factor VIII and von Willebrand factor, more fibrinolysis

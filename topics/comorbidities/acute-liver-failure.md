@@ -18,10 +18,10 @@ New hepatocellular dysfunction with coagulopathy and encephalopathy in a patient
 - Hepatocellular dysfunction with coagulopathy and encephalopathy, without pre-existing liver disease
 - High mortality (10-100%)
 
-## Types (mortality)
-- Hyperacute: within 7 days (30%)
-- Acute: 7-28 days (33%)
-- Subacute: 28 days – 6 months (14%)
+## Types (survival)
+- Hyperacute: within 7 days (30% survival)
+- Acute: 7-28 days (33% survival)
+- Subacute: 28 days – 6 months (14% survival)
 
 ## Causes
 - Viral hepatitis (A to G, CMV, HSV, EBV)
@@ -60,7 +60,7 @@ New hepatocellular dysfunction with coagulopathy and encephalopathy in a patient
   - Virology: hepatitis serology
   - Immunology:
     - Antinuclear antibody (chronic active hepatitis)
-    - Smooth muscle antibody (primary biliary cirrhosis)
+    - Smooth muscle antibody (autoimmune hepatitis)
     - Alpha-fetoprotein (hepatoma)
 - Imaging: ultrasound, CT/MRCP
 - ERCP

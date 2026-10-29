@@ -246,7 +246,7 @@ Planning for and managing surgical blood loss: blood volume and allowable loss, 
 - Platelets: 5-10 ml/kg raises the count by 30-50 x 10^9/l
   - Aim above 50k (50 x 10^9/l) for surgery
 - FFP: 10 to 20 ml/kg
-  - Aim INR >1.5, PT/aPTT less than 1.5x normal (as in the note)
+  - Aim INR <1.5, PT/aPTT less than 1.5x normal
 - Cryoprecipitate: 5 ml/kg, or 1-2 units per 10 kg
   - Aim fibrinogen more than 1 g/l
 

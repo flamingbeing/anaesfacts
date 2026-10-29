@@ -39,7 +39,7 @@ Direct-acting pure α1 agonist: raises SVR and blood pressure with a reflex brad
   - Coronary and cerebral perfusion pressure increase; coronary and cerebral blood flow change little
 - CNS: no stimulation
 - Renal: blood flow falls, as with noradrenaline
-- Uterus: gives a better cord gas profile in obstetrics, but uptake has been limited by the risk of accidental overdose
+- Uterus: now the first-line vasopressor for spinal hypotension at caesarean section (2018 international consensus); gives a better cord gas profile
 
 ## Adverse effects
 - Cardiac output can fall: use with caution in ischaemic heart disease

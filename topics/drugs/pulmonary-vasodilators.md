@@ -51,7 +51,7 @@ Overview of drug classes that lower pulmonary artery pressure, and why few work 
 ## Endothelin receptor antagonists
 - Competitive antagonists at ETA and ETB receptors; clinically ETB effects seem to dominate and PA pressure falls
 - Endothelin contributes to pulmonary vascular remodelling in chronic hypoxia, which these drugs may slow
-- Bosentan and ambrisentan in current use; longer-acting macitentan described as still in trials
+- Bosentan, ambrisentan and macitentan in current use; macitentan (longer-acting) has been licensed for pulmonary arterial hypertension since 2013
 
 ## Flashcards
 - Q: Why is inhaled nitric oxide selective for the pulmonary circulation?

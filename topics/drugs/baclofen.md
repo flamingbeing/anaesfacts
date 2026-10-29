@@ -44,7 +44,7 @@ Antispasmodic acting at GABA-B receptors; best for pain linked to spasticity.
 - Constipation
 - Transaminitis: monitor LFTs
 - Withdrawal: hallucinations, seizures
-- Intrathecal overdose: antidote is pyridostigmine 1 mg IV
+- Intrathecal overdose: antidote is physostigmine 1 mg IV
 
 ## Indications
 
@@ -60,7 +60,7 @@ Antispasmodic acting at GABA-B receptors; best for pain linked to spasticity.
 - Q: Features of baclofen withdrawal?
   - A: Hallucinations and seizures
 - Q: Antidote for intrathecal baclofen overdose?
-  - A: Pyridostigmine 1 mg IV
+  - A: Physostigmine 1 mg IV
 
 <!-- related:start (generated) -->
 ## Related

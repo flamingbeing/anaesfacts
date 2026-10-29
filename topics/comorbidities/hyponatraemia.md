@@ -181,7 +181,7 @@ Serum sodium below 135 mEq/L; usually a hypotonic state of excess free water rel
   - Chronic: no faster than 0.5 mEq/L per hour (or 10–12 mEq/L in 24 hours)
 
 ## Hypertonic saline (3% NaCl)
-- Must use a central line
+- Ideally use a central line if multiple doses are needed
 - Rate: 1-2 ml/kg/h
 - In practice: boluses of 100 to 150 mls of 3% saline, repeated as needed
 - Alternative: initial rate (mL/hr) = weight (kg) x desired rise in sodium per hour

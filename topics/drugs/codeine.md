@@ -37,7 +37,7 @@ Weak opioid prodrug: about 10% becomes morphine via CYP2D6, so effect varies wit
 ## Pharmacokinetics
 - Oral bioavailability 50%, slightly higher than morphine (methyl group reduces first-pass metabolism)
 - 5–15% excreted unchanged in urine; the rest metabolised in the liver by three routes
-  - 80% (60-80%): glucuronidation to codeine-6-glucuronide (CYP3A4); main clearance route
+  - 80% (60-80%): glucuronidation to codeine-6-glucuronide (UGT2B7); main clearance route
   - 10% (10-20%): N-demethylation to norcodeine (CYP3A4)
   - 10% (up to 15%): O-demethylation to morphine (CYP2D6)
     - Morphine then forms normorphine, morphine-3-glucuronide and morphine-6-glucuronide

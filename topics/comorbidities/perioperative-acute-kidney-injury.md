@@ -144,7 +144,7 @@ Who is at risk of AKI around surgery, how anaesthesia affects the kidney, how to
     - Loop diuretic: blocks reabsorption in the loop of Henle; higher tubular flow keeps tubules patent
     - Meta-analysis: no increase in mortality in AKI (no strong evidence of benefit)
     - Prophylactic use may harm the kidney, especially if the patient is dry
-  - Mannitol: IV 0.5 g/kg (note says 0.5mg/kg)
+  - Mannitol: IV 0.5 g/kg
     - Osmotic diuretic and free radical scavenger
     - Benefit shown only in renal transplant
   - Never use diuretics to push urine output before the circulation is filled: oliguria is most often from low volume, and diuretics then worsen renal function; give only once filling and BP are adequate

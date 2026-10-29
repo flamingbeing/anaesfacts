@@ -16,11 +16,11 @@ Bipyridine phosphodiesterase III inhibitor: an inodilator that raises cAMP, givi
 
 ## Presentation
 - 10 mg in 10 ml (1 mg/ml), yellow solution, stored at room temperature
-- Class recorded as bipyridine / biguanide
+- Class: bipyridine
 
 ## Administration
 - IV only; dilute before use
-- One dilution: 10 mg in 50 ml (recorded as giving 0.5 mg/kg)
+- One dilution: 10 mg in 50 ml (0.2 mg/ml)
 - Onset 5-15 mins
 
 ## Dosage
