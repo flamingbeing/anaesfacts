@@ -1,0 +1,279 @@
+{
+ "topic": "procedures/vp-shunt",
+ "questions": [
+  {
+   "fact_id": "procedures/vp-shunt#5032aa",
+   "kind": "statement",
+   "stem": "In hydrocephalus, what does a VP shunt do with CSF?",
+   "answer": "Diverts CSF away from the ventricles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#6726ea",
+   "kind": "statement",
+   "stem": "In hydrocephalus, what is the usual route of a VP shunt?",
+   "answer": "Ventriculoperitoneal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#f3a80d",
+   "kind": "statement",
+   "stem": "What do the flushing system and valves in a VP shunt prevent?",
+   "answer": "Clotting and back pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#b9417b",
+   "kind": "mcq",
+   "stem": "Which patient group most often has a VP shunt inserted?",
+   "options": [
+    "Pregnant women only",
+    "Elderly patients only",
+    "Children",
+    "Neonates only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#5f04e3",
+   "kind": "mcq",
+   "stem": "Where is the tip of the catheter placed in a VP shunt?",
+   "options": [
+    "Fourth ventricle",
+    "Third ventricle",
+    "Lateral ventricle",
+    "Cerebral aqueduct"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#9000f8",
+   "kind": "statement",
+   "stem": "How is a VP shunt catheter routed from the head to the peritoneum?",
+   "answer": "Tunnelled subcutaneously up or down the neck and trunk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#26f79d",
+   "kind": "statement",
+   "stem": "How many surgeons can work at the same time on a VP shunt?",
+   "answer": "2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#dc9db9",
+   "kind": "mcq",
+   "stem": "How does VP shunt insertion compare with a craniotomy for speed?",
+   "options": [
+    "Slower",
+    "Much longer",
+    "Equal in duration",
+    "Quicker"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#379ff5",
+   "kind": "mcq",
+   "stem": "Which pressure is often raised in patients needing a VP shunt?",
+   "options": [
+    "Intra-abdominal pressure",
+    "Intracranial pressure",
+    "Central venous pressure",
+    "Portal venous pressure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#8f8d5e",
+   "kind": "blank",
+   "stem": "For a VP shunt, the patient is supine and the head is turned on a ____.",
+   "answer": "horseshoe",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#8ab537",
+   "kind": "mcq",
+   "stem": "In VP shunt positioning, which way does the head face relative to the anaesthetist?",
+   "options": [
+    "Towards the anaesthetist",
+    "Away from the anaesthetist",
+    "Straight up",
+    "Sideways to the theatre door"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#c57411",
+   "kind": "mcq",
+   "stem": "Which invasive lines are usually not needed for VP shunt insertion?",
+   "options": [
+    "Central line only",
+    "Two large-bore cannulae",
+    "Arterial and central lines",
+    "Arterial line only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#72b6ef",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is used for VP shunt insertion?",
+   "options": [
+    "General anaesthesia",
+    "Spinal anaesthesia",
+    "Local anaesthesia alone",
+    "Epidural anaesthesia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#adbc93",
+   "kind": "statement",
+   "stem": "What airway is usually used for a VP shunt?",
+   "answer": "Endotracheal tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#620289",
+   "kind": "mcq",
+   "stem": "What is the usual maintenance technique for VP shunt anaesthesia?",
+   "options": [
+    "Sevoflurane",
+    "Nitrous oxide",
+    "Desflurane",
+    "TIVA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#14cb72",
+   "kind": "mcq",
+   "stem": "Which antibiotic is given for VP shunt insertion?",
+   "options": [
+    "Gentamicin",
+    "Cefazolin",
+    "Metronidazole",
+    "Vancomycin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#2bc22b",
+   "kind": "mcq",
+   "stem": "What type of intravenous fluid is used during VP shunt insertion?",
+   "options": [
+    "Hypotonic",
+    "Isotonic",
+    "Hypertonic",
+    "Colloid only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#ede1c2",
+   "kind": "mcq",
+   "stem": "Which analgesic is used alone for VP shunt insertion?",
+   "options": [
+    "Morphine alone",
+    "Pethidine alone",
+    "Fentanyl alone",
+    "Paracetamol alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#ed3a09",
+   "kind": "mcq",
+   "stem": "During VP shunt insertion, which step is very painful and stimulating?",
+   "options": [
+    "Positioning",
+    "Tunnelling",
+    "Burr hole",
+    "Skin closure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#fc00ac",
+   "kind": "mcq",
+   "stem": "After VP shunt insertion, the GCS falls. Which investigation is needed?",
+   "options": [
+    "Chest X-ray",
+    "CT scan",
+    "Lumbar puncture",
+    "EEG"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#5f112b",
+   "kind": "mcq",
+   "stem": "What is the risk if CSF is drained from a VP shunt too quickly?",
+   "options": [
+    "Hypoglycaemia",
+    "Intracranial haemorrhage",
+    "Laryngospasm",
+    "Hypothermia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#d12c7e",
+   "kind": "statement",
+   "stem": "Which two complications are common with VP shunts?",
+   "answer": "Shunt infection and revision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vp-shunt#3e4e14",
+   "kind": "mcq",
+   "stem": "Which chest complication can occur during shunt tunnelling?",
+   "options": [
+    "Pulmonary embolism",
+    "Pleural effusion",
+    "Pneumothorax from the trocar",
+    "Haemothorax from the catheter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

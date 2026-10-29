@@ -1,0 +1,65 @@
+{
+ "topic": "procedures/remote-site-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/remote-site-anaesthesia#b3885f",
+   "kind": "statement",
+   "stem": "In remote site anaesthesia, what do the four problems in the 3P3Es summary describe?",
+   "answer": "Unfamiliar, untrained, limited, isolated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/remote-site-anaesthesia#338462",
+   "kind": "mcq",
+   "stem": "What is the environmental problem at a remote site for anaesthesia?",
+   "options": [
+    "Large and well-equipped",
+    "Small and unfamiliar",
+    "Familiar and modern",
+    "Permanently staffed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/remote-site-anaesthesia#5d5d4c",
+   "kind": "blank",
+   "stem": "At a remote anaesthesia site, the personnel problem is that staff are ____.",
+   "answer": "untrained",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/remote-site-anaesthesia#27fefa",
+   "kind": "statement",
+   "stem": "What equipment problem does remote site anaesthesia face?",
+   "answer": "Limited specialised kit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/remote-site-anaesthesia#7d23d7",
+   "kind": "blank",
+   "stem": "Remote site anaesthesia needs ____ preparation.",
+   "answer": "Meticulous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/remote-site-anaesthesia#dd7301",
+   "kind": "mcq",
+   "stem": "What is the airway approach at a remote anaesthesia site?",
+   "options": [
+    "High threshold to intubate",
+    "Low threshold to secure the airway",
+    "Defer airway care until transfer",
+    "Avoid any airway device on site"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

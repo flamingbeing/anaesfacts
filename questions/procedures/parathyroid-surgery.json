@@ -1,0 +1,319 @@
+{
+ "topic": "procedures/parathyroid-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/parathyroid-surgery#2e6a01",
+   "kind": "blank",
+   "stem": "Patients having parathyroid surgery are often in ____.",
+   "answer": "end-stage renal failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#82eff3",
+   "kind": "mcq",
+   "stem": "Besides a head wrap and bite block, which airway is used for parathyroid surgery?",
+   "options": [
+    "Double-lumen bronchial tube",
+    "Armoured or north-facing RAE tube with straight extension",
+    "Tracheostomy cannula",
+    "Standard cuffed oral tube with no extension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#a6a29d",
+   "kind": "mcq",
+   "stem": "In parathyroid surgery, why is a shoulder roll placed under the patient?",
+   "options": [
+    "To flex the neck for better access",
+    "To extend the neck",
+    "To tilt the pelvis for ventilation",
+    "To raise the arms above the head"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#e5d0c4",
+   "kind": "blank",
+   "stem": "Parathyroid surgery can be done with or without a ____.",
+   "answer": "frozen section",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#326062",
+   "kind": "mcq",
+   "stem": "How long does parathyroid surgery take in total?",
+   "options": [
+    "1-2hrs",
+    "3-4hrs",
+    "5-6hrs",
+    "30-45 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#73e6b0",
+   "kind": "mcq",
+   "stem": "What is the expected blood loss in parathyroid surgery?",
+   "options": [
+    "Over 500ml",
+    "Over 1 litre",
+    "Around 300ml",
+    "Under 100ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#d6642b",
+   "kind": "statement",
+   "stem": "Name two airway-related complications of parathyroid surgery.",
+   "answer": "Tube dislodgement and circuit disconnection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#e809c1",
+   "kind": "statement",
+   "stem": "What should be monitored after parathyroid surgery in recovery?",
+   "answer": "Airway in PACU and calcium levels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#67ac25",
+   "kind": "mcq",
+   "stem": "How many parathyroid glands control calcium via parathyroid hormone?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#086f67",
+   "kind": "mcq",
+   "stem": "What does parathyroid hormone do to serum phosphate?",
+   "options": [
+    "Phosphate rises",
+    "Calcium falls",
+    "Phosphate falls",
+    "Phosphate is unchanged"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#b76b37",
+   "kind": "mcq",
+   "stem": "What is the commonest indication for parathyroid surgery?",
+   "options": [
+    "Secondary hyperparathyroidism from hyperplasia",
+    "Thyroid nodule causing compression",
+    "Hypoparathyroidism after thyroidectomy",
+    "Primary hyperparathyroidism from an adenoma"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#256540",
+   "kind": "mcq",
+   "stem": "What is the approximate UK incidence of primary hyperparathyroidism?",
+   "options": [
+    "2.5 per 100 000",
+    "25 per 100 000",
+    "250 per 100 000",
+    "1 per 100 000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#256540",
+   "kind": "mcq",
+   "stem": "Up to what risk of primary hyperparathyroidism applies to women over 45?",
+   "options": [
+    "1 in 20",
+    "1 in 500",
+    "1 in 100",
+    "1 in 2000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#4dca55",
+   "kind": "mcq",
+   "stem": "In traditional parathyroid surgery, which incision is used?",
+   "options": [
+    "Lateral thoracotomy",
+    "Midline sternotomy",
+    "Collar incision",
+    "Parotid crease incision"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#b6692a",
+   "kind": "mcq",
+   "stem": "What proportion of primary hyperparathyroidism is a single adenoma?",
+   "options": [
+    "Under 20%",
+    "About 50%",
+    "Over 80%",
+    "Around 10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#4e57bf",
+   "kind": "mcq",
+   "stem": "How often does technetium-99m sestamibi scanning locate parathyroid size and site correctly?",
+   "options": [
+    "In 58% of patients",
+    "In 88% of patients",
+    "In 98% of patients",
+    "In 68% of patients"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#80ba0d",
+   "kind": "mcq",
+   "stem": "Once the gland is localised, how is minimal access parathyroid surgery usually done?",
+   "options": [
+    "Full sternotomy incision",
+    "2-cm incision over the gland",
+    "Lateral thoracotomy incision",
+    "5-cm incision over the thyroid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#d5976b",
+   "kind": "blank",
+   "stem": "For parathyroid surgery under general anaesthesia, use a reinforced ____ or an LMA.",
+   "answer": "ETT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#a7a23c",
+   "kind": "mcq",
+   "stem": "Why is parathyroid surgery increasingly done under local anaesthesia?",
+   "options": [
+    "Gives faster bowel recovery",
+    "Avoids all postoperative calcium checks",
+    "Suits patients with significant cardiorespiratory disease",
+    "Removes the need for antibiotics"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#9d702c",
+   "kind": "mcq",
+   "stem": "Which cervical plexus block types are used for parathyroid surgery?",
+   "options": [
+    "Epidural only",
+    "Brachial plexus only",
+    "Deep, superficial or both",
+    "Intravenous regional only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#9c564b",
+   "kind": "mcq",
+   "stem": "When should serum calcium be checked after parathyroid surgery?",
+   "options": [
+    "At 2 and 12 h",
+    "At 6 and 48 h",
+    "At 6 and 24 h",
+    "At 12 and 48 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#b2fd9d",
+   "kind": "blank",
+   "stem": "Hypocalcaemia after parathyroid surgery is treated with ____.",
+   "answer": "supplements",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#b2fd9d",
+   "kind": "mcq",
+   "stem": "How common is persistent hypercalcaemia after parathyroid surgery?",
+   "options": [
+    "Very common",
+    "Expected in all cases",
+    "Rare",
+    "Common in most cases"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#1dbd5e",
+   "kind": "mcq",
+   "stem": "Pain after parathyroid surgery is usually mild; which analgesia is typical?",
+   "options": [
+    "Epidural infusion",
+    "Patient-controlled intravenous opioid",
+    "Oral analgesia",
+    "Intrathecal morphine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parathyroid-surgery#78d3e3",
+   "kind": "mcq",
+   "stem": "Which analgesic class should be avoided after parathyroid surgery in renal impairment?",
+   "options": [
+    "Paracetamol",
+    "Oral gabapentin",
+    "NSAIDs",
+    "Regional local anaesthetic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

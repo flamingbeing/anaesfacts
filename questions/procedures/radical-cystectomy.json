@@ -1,0 +1,285 @@
+{
+ "topic": "procedures/radical-cystectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/radical-cystectomy#a2dab7",
+   "kind": "mcq",
+   "stem": "What is the main indication for radical cystectomy?",
+   "options": [
+    "Renal calculi causing obstruction",
+    "Muscle-invasive bladder cancer",
+    "Stress urinary incontinence",
+    "Benign prostatic hyperplasia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#cc9105",
+   "kind": "statement",
+   "stem": "Name one less common indication for radical cystectomy.",
+   "answer": "Neurogenic bladder, chronic urinary obstruction or pelvic malignancy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#7397d0",
+   "kind": "statement",
+   "stem": "Which organs are removed in men during radical cystectomy?",
+   "answer": "Bladder, prostate, seminal vesicles and urethra",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#71938a",
+   "kind": "statement",
+   "stem": "Which structures are removed in women during radical cystectomy?",
+   "answer": "Bladder, urethra, anterior vaginal wall, uterus, both ovaries and fallopian tubes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#6d4e14",
+   "kind": "blank",
+   "stem": "At the end of radical cystectomy, urinary diversion is made to the colon or ____.",
+   "answer": "ileum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#fb41af",
+   "kind": "mcq",
+   "stem": "Anaesthesia and positioning for radical cystectomy are similar to which other operation?",
+   "options": [
+    "Nephrectomy",
+    "Hysterectomy",
+    "Radical prostatectomy",
+    "Transurethral resection"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#b58ae2",
+   "kind": "statement",
+   "stem": "What does the bowel component of radical cystectomy add to the operation?",
+   "answer": "Longer operating time and bacteraemia risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#44bdf4",
+   "kind": "statement",
+   "stem": "Which three things should be assessed before radical cystectomy?",
+   "answer": "IHD, COPD, renal function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#f7318b",
+   "kind": "blank",
+   "stem": "Before radical cystectomy, the team should book a ____.",
+   "answer": "HDU bed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#325e63",
+   "kind": "statement",
+   "stem": "Why consider preoperative IV fluids before radical cystectomy?",
+   "answer": "To offset losses from bowel preparation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#8d0b82",
+   "kind": "statement",
+   "stem": "How should an epidural be used during radical cystectomy, given how painful the operation is?",
+   "answer": "Used cautiously until haemostasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#f91da0",
+   "kind": "mcq",
+   "stem": "Which patient positioning is used for radical cystectomy?",
+   "options": [
+    "Lithotomy, with or without head down",
+    "Prone with pelvis supported",
+    "Lateral decubitus, flexed",
+    "Supine with arms tucked"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#1499ee",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is used for radical cystectomy?",
+   "options": [
+    "Spinal anaesthesia alone",
+    "GA with invasive monitoring",
+    "Sedation with non-invasive monitoring",
+    "Local anaesthesia with IV sedation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#044aa5",
+   "kind": "mcq",
+   "stem": "When should cell salvage be stopped during radical cystectomy?",
+   "options": [
+    "Once bowel is opened",
+    "At skin closure",
+    "At the start of the operation",
+    "Once the catheter is placed"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#72d02c",
+   "kind": "statement",
+   "stem": "Which three items should be ready for the intraoperative care of radical cystectomy?",
+   "answer": "Large-bore IV access, blood warmer, blood available in theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#5eedd7",
+   "kind": "mcq",
+   "stem": "Which tube is inserted during radical cystectomy surgery?",
+   "options": [
+    "Nasojejunal feeding tube",
+    "Percutaneous gastrostomy tube",
+    "Nasogastric tube",
+    "Oesophageal stethoscope"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#dca4eb",
+   "kind": "mcq",
+   "stem": "What is used to guard against hypothermia during radical cystectomy?",
+   "options": [
+    "Fluid restriction",
+    "Diuretic infusion",
+    "Nasogastric suction",
+    "Active warming"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#14493a",
+   "kind": "statement",
+   "stem": "Which intraoperative complication is a possibility during radical cystectomy?",
+   "answer": "Air embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#c315d2",
+   "kind": "blank",
+   "stem": "The commonest postoperative complication after radical cystectomy is ____.",
+   "answer": "ileus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#122243",
+   "kind": "mcq",
+   "stem": "How long before radical cystectomy is the carbohydrate drink given?",
+   "options": [
+    "12hr before",
+    "The night before",
+    "6hr before",
+    "1hr before"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#ab4ceb",
+   "kind": "mcq",
+   "stem": "How long can wound catheters placed after the first incision run in radical cystectomy?",
+   "options": [
+    "up to 2days",
+    "up to 12hrs",
+    "up to 5days",
+    "up to 10days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#5ff89d",
+   "kind": "mcq",
+   "stem": "How long does visceral pain usually last after radical cystectomy?",
+   "options": [
+    "24-36hrs",
+    "3-5 days",
+    "1-2hrs",
+    "7-10 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#c65b55",
+   "kind": "mcq",
+   "stem": "Which analgesic has some evidence of increased anastomotic leak after radical cystectomy?",
+   "options": [
+    "Gabapentin",
+    "Paracetamol",
+    "Neuraxial opioids",
+    "NSAIDs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#714146",
+   "kind": "mcq",
+   "stem": "For how long is PCA or epidural analgesia used after radical cystectomy?",
+   "options": [
+    "5 days",
+    "12 hours",
+    "2 days",
+    "10 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#0664e0",
+   "kind": "blank",
+   "stem": "Urine output from the urinary conduit is unreliable because it is ____.",
+   "answer": "positional",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/radical-cystectomy#f32b60",
+   "kind": "statement",
+   "stem": "How does a ureteric anastomotic leak after cystectomy typically show?",
+   "answer": "Urine in the surgical drain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,1303 @@
+{
+ "topic": "procedures/paediatric-neurosurgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#58ab03",
+   "kind": "statement",
+   "stem": "In paediatric neurosurgery, which imaging modalities are used for investigation?",
+   "answer": "Cranial ultrasound, CT or MRI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#2aff9e",
+   "kind": "statement",
+   "stem": "In paediatric neurosurgery, which general principles are the same as in adults?",
+   "answer": "Record preoperative neurological status; control ICP and BP; neuroprotection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#433acf",
+   "kind": "mcq",
+   "stem": "Which coma scale is used in children older than 4 years in paediatric neurosurgery?",
+   "options": [
+    "Apgar score",
+    "Modified Rankin scale",
+    "NEWS2 score",
+    "Glasgow Coma Scale"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#b5ed3f",
+   "kind": "mcq",
+   "stem": "Why avoid sedative or opioid premedication in a child with suspected raised ICP?",
+   "options": [
+    "It causes hypocapnia, which lowers ICP",
+    "It speeds gastric emptying before induction",
+    "Respiratory depression causes hypercapnia, which raises ICP",
+    "It increases airway secretions and laryngospasm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#316521",
+   "kind": "mcq",
+   "stem": "In paediatric neurosurgery, when may a shoulder roll be needed for airway positioning?",
+   "options": [
+    "For a child with a cleft palate",
+    "For a very large head",
+    "For a child with a tracheostomy",
+    "For a child with bulbar palsy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#7e8923",
+   "kind": "mcq",
+   "stem": "Which induction is preferred for a child with raised ICP and no easy IV access?",
+   "options": [
+    "Rectal midazolam sedation",
+    "Rapid sequence induction with suxamethonium",
+    "Sevoflurane by facemask",
+    "Oral midazolam then wait"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#fc7977",
+   "kind": "statement",
+   "stem": "In paediatric neurosurgery, what limits the use of total intravenous anaesthesia (TIVA)?",
+   "answer": "Pharmacokinetic models and monitoring issues",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#022077",
+   "kind": "mcq",
+   "stem": "In paediatric neurosurgery, which children need close glucose monitoring despite avoiding glucose-containing fluids?",
+   "options": [
+    "Children over 10 years old",
+    "Children with epilepsy",
+    "Children on steroids",
+    "Neonates and ex-premature infants"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#62b13a",
+   "kind": "statement",
+   "stem": "In paediatric neurosurgery, why can venous air embolism be paradoxical in infants?",
+   "answer": "The head lies above the heart even when supine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#d77820",
+   "kind": "statement",
+   "stem": "In paediatric neurosurgery, what is hydrocephalus?",
+   "answer": "Abnormal CSF accumulation in the cranium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#78d719",
+   "kind": "statement",
+   "stem": "Name three causes of acquired hydrocephalus in children.",
+   "answer": "Infection, intraventricular haemorrhage, tumour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#78d719",
+   "kind": "mcq",
+   "stem": "Which of these is a congenital cause of hydrocephalus?",
+   "options": [
+    "Brain tumour",
+    "Intraventricular haemorrhage",
+    "Aqueduct stenosis",
+    "Bacterial meningitis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#edea04",
+   "kind": "mcq",
+   "stem": "What proportion of patients with myelomeningocele develop hydrocephalus?",
+   "options": [
+    "Under 20%",
+    "About 10%",
+    "Over 80%",
+    "About 5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#f3cb0f",
+   "kind": "mcq",
+   "stem": "In communicating hydrocephalus, where is CSF blocked in children?",
+   "options": [
+    "Inside the ventricular system",
+    "Beyond the ventricles",
+    "Within the foramen of Monro",
+    "At the foramen magnum"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#60f79d",
+   "kind": "blank",
+   "stem": "In non-communicating hydrocephalus, the blockage lies inside the ____ system.",
+   "answer": "ventricular",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#8dcbc8",
+   "kind": "mcq",
+   "stem": "How is progressive hydrocephalus in children usually diagnosed?",
+   "options": [
+    "Falling head circumference",
+    "Raised serum sodium",
+    "Rising head circumference",
+    "Reduced urine output"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#6675db",
+   "kind": "statement",
+   "stem": "In infants with hydrocephalus, which classic signs are rare and late?",
+   "answer": "Big head, bulging fontanelle, engorged veins and sun setting eyes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#4d6662",
+   "kind": "statement",
+   "stem": "In paediatric hydrocephalus, what does a VP shunt do?",
+   "answer": "Diverts CSF from the ventricle to the peritoneum via a low-pressure valved shunt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#d7a48f",
+   "kind": "mcq",
+   "stem": "In non-communicating hydrocephalus, which procedure links the third ventricle to the subarachnoid space?",
+   "options": [
+    "Lumbar drain insertion",
+    "Ventricular tap",
+    "Ventriculoperitoneal shunt",
+    "Third ventriculostomy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#bcb9c0",
+   "kind": "statement",
+   "stem": "Why do shunts block in premature babies with post-haemorrhagic hydrocephalus?",
+   "answer": "High CSF protein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#dfd983",
+   "kind": "statement",
+   "stem": "In a VP shunt, what is the ventricular access device?",
+   "answer": "A self-sealing dome reservoir under the scalp with a ventricular catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#9aa67b",
+   "kind": "mcq",
+   "stem": "Why is neurology reassessed regularly on the ward in children with hydrocephalus?",
+   "options": [
+    "Sedation always lasts several hours",
+    "Blood tests are never needed",
+    "Deterioration can be rapid",
+    "Ward staff rarely observe the child"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#4f0795",
+   "kind": "statement",
+   "stem": "What problems does raised ICP bring in children awaiting hydrocephalus surgery?",
+   "answer": "Vomiting, dehydration, reduced consciousness and aspiration risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#ab93ee",
+   "kind": "statement",
+   "stem": "Which problems are common in ex-premature children having hydrocephalus surgery?",
+   "answer": "Bronchopulmonary dysplasia, oxygen need, difficult venous access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#665f87",
+   "kind": "mcq",
+   "stem": "In neonates with hydrocephalus, which finding is an important sign of raised ICP?",
+   "options": [
+    "Hyperthermia",
+    "Apnoeic episodes",
+    "Polyuria",
+    "Loud cry"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#f54126",
+   "kind": "statement",
+   "stem": "Which conditions often accompany repeat shunt revisions in hydrocephalus?",
+   "answer": "Cerebral palsy and/or epilepsy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#2c9742",
+   "kind": "statement",
+   "stem": "Why does chronic shunt infection cause anaemia?",
+   "answer": "Poor intake and marrow suppression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#8b6789",
+   "kind": "mcq",
+   "stem": "In a child with hydrocephalus on dexamethasone, what should be considered?",
+   "options": [
+    "Extra oral iron supplements",
+    "Stress-dose steroids",
+    "Withdrawal of all antibiotics",
+    "Prophylactic antiepileptic loading"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#47d1ff",
+   "kind": "statement",
+   "stem": "In hydrocephalus, when is IV induction preferred to limit the rise in ICP?",
+   "answer": "If a cannula is in place or easily placed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#27b6dc",
+   "kind": "statement",
+   "stem": "In hydrocephalus, why is gas induction often the realistic choice in infants?",
+   "answer": "Difficult cannulation with crying harms ICP more than gas induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#9bad13",
+   "kind": "mcq",
+   "stem": "In hydrocephalus surgery, what is the usual fentanyl dose in children?",
+   "options": [
+    "5-10 mcg/kg",
+    "0.5-1 mcg/kg",
+    "1-2 mcg/kg",
+    "10-20 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#9bad13",
+   "kind": "mcq",
+   "stem": "In hydrocephalus surgery, when should fentanyl be reduced or omitted?",
+   "options": [
+    "Children over 10 years old",
+    "Infants over 12 months old",
+    "Ex-premature infants under 5 kg",
+    "Any child with a cannula"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#511d2e",
+   "kind": "statement",
+   "stem": "In paediatric hydrocephalus surgery, how much blood loss is usual?",
+   "answer": "Usually small",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#0e7c19",
+   "kind": "statement",
+   "stem": "How does local anaesthetic at the surgical site help in hydrocephalus surgery?",
+   "answer": "Reduces opioid need",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#2bd540",
+   "kind": "statement",
+   "stem": "Which children need apnoea monitoring after hydrocephalus surgery?",
+   "answer": "Preterm babies and those with neural tube defects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#01311a",
+   "kind": "statement",
+   "stem": "After hydrocephalus surgery in children, how is respiratory support stepped up?",
+   "answer": "Oxygen to nasal CPAP, then nasal CPAP to intubation and IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#8a9d45",
+   "kind": "statement",
+   "stem": "What causes spasticity in cerebral palsy?",
+   "answer": "Loss of descending inhibition in the cord",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#89c0b2",
+   "kind": "mcq",
+   "stem": "How does intrathecal baclofen act in the spinal cord?",
+   "options": [
+    "NMDA receptor antagonism in the cortex",
+    "Dopamine D2 blockade in the striatum",
+    "Alpha-2 agonism in the brainstem",
+    "GABA-B agonism in the cord"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#c30137",
+   "kind": "statement",
+   "stem": "What limits oral baclofen therapy?",
+   "answer": "Somnolence, confusion, ataxia and urinary frequency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#a9e790",
+   "kind": "mcq",
+   "stem": "How does intrathecal baclofen compare with oral baclofen?",
+   "options": [
+    "Needs higher doses with more side effects",
+    "Works only in adults with spasticity",
+    "Works at lower doses with fewer side effects",
+    "Is given as a single bolus only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#bef7ff",
+   "kind": "mcq",
+   "stem": "How long is the intrathecal baclofen trial before a pump is implanted?",
+   "options": [
+    "24-36 hours",
+    "48-72 hours",
+    "5-7 days",
+    "2-3 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#c6625c",
+   "kind": "mcq",
+   "stem": "Where is the baclofen pump placed in the body?",
+   "options": [
+    "Scalp, under the skin",
+    "Thigh, intramuscular",
+    "Subcutaneous pocket in the lateral abdominal wall",
+    "Thoracic spinal canal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#4fe694",
+   "kind": "statement",
+   "stem": "How is an implanted baclofen pump refilled?",
+   "answer": "Through the skin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#d37794",
+   "kind": "mcq",
+   "stem": "What infection rate is quoted for intrathecal baclofen pump complications?",
+   "options": [
+    "25%",
+    "50%",
+    "5%",
+    "0.5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#d37794",
+   "kind": "statement",
+   "stem": "Apart from infection, what are baclofen pump complications?",
+   "answer": "Catheter disconnection or fracture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#45731e",
+   "kind": "statement",
+   "stem": "How have numbers needing general anaesthesia for baclofen pump insertion changed?",
+   "answer": "Risen markedly over the last decade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#a6d1c2",
+   "kind": "statement",
+   "stem": "Which cerebral palsy issues matter for anaesthesia before baclofen pump insertion?",
+   "answer": "Respiratory function, reflux, impaired airway reflexes, epilepsy and medications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#136387",
+   "kind": "statement",
+   "stem": "Besides usual medicines, which premedication may be given before baclofen pump surgery?",
+   "answer": "Antisialogogue, sedative or antacid, as indicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#c53a9b",
+   "kind": "blank",
+   "stem": "Before baclofen pump surgery, venous access may be ____.",
+   "answer": "difficult",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#bfc9c7",
+   "kind": "statement",
+   "stem": "What guides the induction choice for baclofen pump insertion?",
+   "answer": "Venous access and aspiration risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#136d43",
+   "kind": "mcq",
+   "stem": "What airway management is usual for baclofen pump insertion?",
+   "options": [
+    "Laryngeal mask only",
+    "Intubation and IPPV",
+    "Face mask spontaneous ventilation",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#dd133b",
+   "kind": "mcq",
+   "stem": "What position is usually used for baclofen pump insertion?",
+   "options": [
+    "Prone position",
+    "Lateral position",
+    "Sitting position",
+    "Head-down tilt"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#ebe3d4",
+   "kind": "statement",
+   "stem": "What precautions are needed when positioning a child for baclofen pump surgery?",
+   "answer": "Pad pressure points, care with contractures, keep warm, guard against aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#bfa588",
+   "kind": "mcq",
+   "stem": "What morphine dose is used for analgesia in baclofen pump surgery?",
+   "options": [
+    "10-15 mcg/kg",
+    "1-2 mg/kg",
+    "100-150 mcg/kg",
+    "500-600 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#bfa588",
+   "kind": "mcq",
+   "stem": "What fentanyl dose is used for analgesia in baclofen pump surgery?",
+   "options": [
+    "0.5-1 mcg/kg",
+    "20-40 mcg/kg",
+    "2-4 mcg/kg",
+    "10-20 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#16f7e0",
+   "kind": "mcq",
+   "stem": "How long is a baclofen pump purged at the end of surgery?",
+   "options": [
+    "10 minutes",
+    "5 minutes",
+    "2 hours",
+    "40 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#97fedd",
+   "kind": "statement",
+   "stem": "What fluids are given after baclofen pump insertion, and until when?",
+   "answer": "Maintenance fluids until drinking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#e09ea9",
+   "kind": "mcq",
+   "stem": "How soon does spasticity usually ease after starting intrathecal baclofen?",
+   "options": [
+    "Within 2-3 weeks",
+    "Within 6 hours",
+    "Within 24-48 hours",
+    "Within 5-7 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#84d89c",
+   "kind": "statement",
+   "stem": "What are the signs of intrathecal baclofen overdose?",
+   "answer": "Drowsiness, respiratory depression, ascending hypotonia, loss of consciousness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#bf0ea6",
+   "kind": "statement",
+   "stem": "What can abrupt withdrawal of intrathecal baclofen cause, and for how long?",
+   "answer": "Seizures, hallucinations, disorientation, dyskinesia and itch, lasting up to 72 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#a47178",
+   "kind": "mcq",
+   "stem": "What is the commonest reason for craniotomy in children?",
+   "options": [
+    "Epilepsy surgery",
+    "Head injury",
+    "Tumour resection",
+    "Craniosynostosis repair"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#d776dd",
+   "kind": "mcq",
+   "stem": "How do CNS tumours rank among childhood malignancies?",
+   "options": [
+    "Most common",
+    "Second commonest",
+    "Fifth commonest",
+    "Rarest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#732366",
+   "kind": "mcq",
+   "stem": "What share of childhood brain tumours needing craniotomy are in the posterior fossa?",
+   "options": [
+    "20%",
+    "60%",
+    "85%",
+    "40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#0aca97",
+   "kind": "mcq",
+   "stem": "What is the peak age range for children having craniotomy for tumour?",
+   "options": [
+    "10-15 years",
+    "Under 3 months",
+    "1-8 years",
+    "Over 16 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#8d62f2",
+   "kind": "mcq",
+   "stem": "Which childhood CNS tumour type accounts for about 7% of craniotomy cases?",
+   "options": [
+    "Medulloblastoma",
+    "Astrocytoma",
+    "Ependymoma",
+    "Brainstem glioma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#f1a45e",
+   "kind": "statement",
+   "stem": "Apart from tumours, what are other indications for paediatric craniotomy?",
+   "answer": "Epilepsy, head injury, vascular lesions, craniosynostosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#9467e0",
+   "kind": "statement",
+   "stem": "What neurological features should be assessed before paediatric craniotomy?",
+   "answer": "Raised ICP, conscious level, focal signs such as cranial nerve palsies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#e3499b",
+   "kind": "statement",
+   "stem": "What may bulbar palsy have caused before craniotomy in a child?",
+   "answer": "Aspiration and lung damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#a8fcb2",
+   "kind": "statement",
+   "stem": "What problem does vomiting cause before craniotomy in children?",
+   "answer": "Dehydration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#e27839",
+   "kind": "blank",
+   "stem": "In children having craniotomy, multisystem disease is ____.",
+   "answer": "rare",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#9a4bef",
+   "kind": "blank",
+   "stem": "For craniotomy in children, avoid ____ premedication.",
+   "answer": "sedative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#594bdf",
+   "kind": "mcq",
+   "stem": "Which premedication should be considered for infants and prone cases in craniotomy?",
+   "options": [
+    "Benzodiazepine sedative",
+    "Opioid premedication",
+    "Antisialogogue",
+    "Antacid only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#6c1d3e",
+   "kind": "mcq",
+   "stem": "Which induction is usually preferred in paediatric craniotomy with raised ICP?",
+   "options": [
+    "Oral premedication with midazolam",
+    "Intravenous induction",
+    "Intramuscular ketamine",
+    "Inhalational induction only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#d31fc3",
+   "kind": "statement",
+   "stem": "How is the intubation response blunted in paediatric craniotomy?",
+   "answer": "Fentanyl or remifentanil bolus with adequate depth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#7e2e3f",
+   "kind": "mcq",
+   "stem": "Which endotracheal tube is advised for craniotomy in children?",
+   "options": [
+    "Uncuffed plain tube",
+    "Laryngeal mask airway",
+    "Reinforced (armoured) endotracheal tube",
+    "Double-lumen tube"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#c8ebaa",
+   "kind": "blank",
+   "stem": "In paediatric craniotomy, a thicker-walled airway tube may need an internal diameter ____ than the age-based size.",
+   "answer": "0.5 mm smaller",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#6622c4",
+   "kind": "statement",
+   "stem": "What are the two aims of anaesthesia for paediatric craniotomy?",
+   "answer": "Good operating conditions and rapid wake-up for neurological assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#9f990a",
+   "kind": "blank",
+   "stem": "Paediatric craniotomy maintenance uses a volatile agent in oxygen and air or ____.",
+   "answer": "nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#00b7b7",
+   "kind": "statement",
+   "stem": "In paediatric craniotomy, what does a remifentanil infusion do to volatile need and blood pressure?",
+   "answer": "Lowers volatile need and gives moderate, stable hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#00b7b7",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is used for paediatric craniotomy?",
+   "options": [
+    "0.05-0.1 mcg/kg/minute",
+    "1-2 mcg/kg/minute",
+    "0.25-0.5 mcg/kg/minute",
+    "0.5-1 mg/kg/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#c1874c",
+   "kind": "statement",
+   "stem": "What does an opioid infusion or bolus blunt during paediatric craniotomy?",
+   "answer": "Pressor responses to head pins, incision, dural opening and closure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#b5d3d7",
+   "kind": "mcq",
+   "stem": "In paediatric craniotomy, when is deliberate hyperventilation appropriate?",
+   "options": [
+    "Routinely, to keep CO2 low throughout",
+    "Only for acute rises in intracranial pressure",
+    "At induction in every child",
+    "Routinely, to match awake breathing"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#74e834",
+   "kind": "mcq",
+   "stem": "How many cannulae are recommended for rapid fluids in paediatric craniotomy?",
+   "options": [
+    "One large cannula",
+    "Four small cannulae",
+    "A single central line",
+    "Two secure large cannulae"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#b71d1c",
+   "kind": "statement",
+   "stem": "Which drugs are given in paediatric craniotomy as per protocol or surgeon?",
+   "answer": "Mannitol, furosemide, steroids and antibiotics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#4d37df",
+   "kind": "mcq",
+   "stem": "How often is profound induced hypotension used in paediatric craniotomy?",
+   "options": [
+    "In every case",
+    "Rarely",
+    "As first-line technique",
+    "In all infants"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#092552",
+   "kind": "statement",
+   "stem": "What haemodynamic problems can brainstem stimulation cause in paediatric neurosurgery?",
+   "answer": "Hypertension and arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#bb355d",
+   "kind": "statement",
+   "stem": "Beyond ventilation, what does capnography detect in paediatric neurosurgery?",
+   "answer": "Venous air embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#c47e90",
+   "kind": "statement",
+   "stem": "What invasive monitoring is recommended for major paediatric craniotomy cases?",
+   "answer": "Arterial line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#8ec081",
+   "kind": "mcq",
+   "stem": "Which route may be best for a central venous pressure line in paediatric craniotomy?",
+   "options": [
+    "Scalp vein route",
+    "Dorsal hand vein route",
+    "Ankle vein route",
+    "Femoral route"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#a12b2a",
+   "kind": "statement",
+   "stem": "When is a urinary catheter indicated in paediatric craniotomy?",
+   "answer": "Long cases, after mannitol or diuretic, expected high urine output, or major bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#d2118b",
+   "kind": "mcq",
+   "stem": "What position is most paediatric craniotomy cases performed in?",
+   "options": [
+    "Prone",
+    "Supine with head turned",
+    "Sitting",
+    "Lateral decubitus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#ba9672",
+   "kind": "statement",
+   "stem": "Which positioning measures keep cerebral venous pressure low in paediatric craniotomy?",
+   "answer": "Moderate head-up and free jugular veins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#de3bd7",
+   "kind": "statement",
+   "stem": "Why is venous kinking more likely in small children during craniotomy positioning?",
+   "answer": "Short necks and large heads",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#8736b1",
+   "kind": "statement",
+   "stem": "What should be protected when a child is prone for posterior fossa surgery?",
+   "answer": "Eyes and pressure points",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#767cb8",
+   "kind": "mcq",
+   "stem": "Why is the sitting position rarely used in paediatric neurosurgery?",
+   "options": [
+    "Risk of hypothermia",
+    "Risk of tongue swelling",
+    "Risk of venous air embolism",
+    "Risk of hyperkalaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#f604aa",
+   "kind": "statement",
+   "stem": "In paediatric craniotomy, what takes priority over fluid restriction to limit oedema?",
+   "answer": "Circulating volume for cerebral perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#49d554",
+   "kind": "mcq",
+   "stem": "What is the usual maintenance fluid in paediatric craniotomy?",
+   "options": [
+    "5% dextrose",
+    "Hartmann's solution",
+    "0.9% saline",
+    "3% saline"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#40ba0a",
+   "kind": "statement",
+   "stem": "Why is glucose avoided for the first 24 hours in older children during craniotomy?",
+   "answer": "Hyperglycaemia worsens brain injury outcome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#40ba0a",
+   "kind": "statement",
+   "stem": "In small children during craniotomy, which glucose problem is a risk?",
+   "answer": "Hypoglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#18d7b8",
+   "kind": "statement",
+   "stem": "Which fluids should be avoided in paediatric craniotomy, and why?",
+   "answer": "Hyperosmolar or hypo-osmolar fluids, as they worsen cerebral oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#9ac791",
+   "kind": "statement",
+   "stem": "How should blood replacement be guided in paediatric craniotomy when blood loss is hard to measure?",
+   "answer": "Clinical state, urine output and serial haematocrit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#b3dd97",
+   "kind": "statement",
+   "stem": "After paediatric craniotomy, what assessment is made early, before regular HDU checks?",
+   "answer": "Neurological assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#63ae54",
+   "kind": "mcq",
+   "stem": "What oral paracetamol dose is used for analgesia after paediatric craniotomy?",
+   "options": [
+    "15 mg/kg orally 8-hourly",
+    "5 mg/kg orally 4-hourly",
+    "15 mg/kg orally 4-hourly",
+    "50 mg/kg orally 4-hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#63ae54",
+   "kind": "mcq",
+   "stem": "What oral morphine dose is used for analgesia after paediatric craniotomy?",
+   "options": [
+    "200-300 mcg/kg 4-hourly",
+    "20-30 mcg/kg 4-hourly",
+    "2-3 mg/kg 4-hourly",
+    "0.1-0.2 mg/kg 4-hourly"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#6197ae",
+   "kind": "statement",
+   "stem": "After paediatric craniotomy, why may NSAIDs be held early?",
+   "answer": "Platelet effect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#17eb78",
+   "kind": "statement",
+   "stem": "Which analgesic methods suit major paediatric craniotomy cases after surgery?",
+   "answer": "IV morphine infusion, by NCA or PCA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#c3fc8f",
+   "kind": "statement",
+   "stem": "What determines how an arteriovenous malformation (AVM) presents in a child?",
+   "answer": "Size and flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#f04f3a",
+   "kind": "statement",
+   "stem": "What predicts procedural risk in paediatric AVM embolisation?",
+   "answer": "Clinical state",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#84ca12",
+   "kind": "statement",
+   "stem": "Which paediatric lesion carries high mortality and morbidity whatever the treatment?",
+   "answer": "Vein of Galen aneurysm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#cd6bec",
+   "kind": "mcq",
+   "stem": "What is first-choice treatment for paediatric AVM where feasible?",
+   "options": [
+    "Open surgical excision",
+    "Interventional embolisation",
+    "Radiotherapy alone",
+    "Observation only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#546bf3",
+   "kind": "statement",
+   "stem": "What risks does embolisation of a paediatric AVM carry?",
+   "answer": "Intracerebral bleeding, embolus migration, pulmonary emboli, ischaemia of vital areas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#a39855",
+   "kind": "statement",
+   "stem": "What baseline should be documented before paediatric AVM embolisation?",
+   "answer": "Neurological function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#66f184",
+   "kind": "statement",
+   "stem": "What should be looked for before paediatric AVM embolisation?",
+   "answer": "High output cardiac failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#b33000",
+   "kind": "statement",
+   "stem": "Why consider inducing an infant for AVM embolisation in a normal anaesthetic room?",
+   "answer": "The angiography suite is poor for induction and line insertion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#92033d",
+   "kind": "mcq",
+   "stem": "How should a child be ventilated during AVM embolisation?",
+   "options": [
+    "To normocapnia",
+    "To hypocapnia",
+    "To hypercapnia",
+    "Spontaneously, without intubation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#ed6a78",
+   "kind": "statement",
+   "stem": "What practical problem comes from limited access during AVM embolisation?",
+   "answer": "Need for long IV and ventilator extensions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#158d16",
+   "kind": "blank",
+   "stem": "In paediatric AVM embolisation, ____ monitoring is usually indicated.",
+   "answer": "Invasive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#99a186",
+   "kind": "statement",
+   "stem": "In paediatric AVM embolisation, how do femoral angiography catheters compare in small children?",
+   "answer": "Relatively large",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#e7a1b8",
+   "kind": "statement",
+   "stem": "What can repeated catheter flushes cause during AVM embolisation, especially in infants?",
+   "answer": "Hypervolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#6d05da",
+   "kind": "statement",
+   "stem": "What working conditions make long AVM embolisation procedures demanding?",
+   "answer": "A cramped, dim and cool suite",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#751b92",
+   "kind": "statement",
+   "stem": "What should be monitored and maintained during paediatric AVM embolisation?",
+   "answer": "Core temperature",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#97f97f",
+   "kind": "mcq",
+   "stem": "What is the maximum recommended dose of iodinated contrast in children for AVM embolisation?",
+   "options": [
+    "1 mL/kg",
+    "10 mL/kg",
+    "4 mL/kg",
+    "2 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#66cd53",
+   "kind": "statement",
+   "stem": "Given blood loss is hard to estimate, what should be arranged during paediatric AVM embolisation?",
+   "answer": "Blood available",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#1b8743",
+   "kind": "statement",
+   "stem": "When might a child need brief ICU ventilation after AVM embolisation?",
+   "answer": "If hypothermic or transferred between hospitals",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#f016b9",
+   "kind": "statement",
+   "stem": "What new problem should be looked for after paediatric AVM embolisation?",
+   "answer": "A new neurological deficit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#41008e",
+   "kind": "statement",
+   "stem": "Which blood tests follow paediatric AVM embolisation, and why?",
+   "answer": "FBC and electrolytes, to check flush volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery#273ac8",
+   "kind": "statement",
+   "stem": "After femoral puncture in AVM embolisation, what should be checked regularly if the puncture is arterial?",
+   "answer": "Leg perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

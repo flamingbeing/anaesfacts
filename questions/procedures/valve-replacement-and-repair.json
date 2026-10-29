@@ -1,0 +1,35 @@
+{
+ "topic": "procedures/valve-replacement-and-repair",
+ "questions": [
+  {
+   "fact_id": "procedures/valve-replacement-and-repair#d6eba4",
+   "kind": "statement",
+   "stem": "What must be arranged before valve replacement or repair surgery?",
+   "answer": "Dental clearance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/valve-replacement-and-repair#def5bc",
+   "kind": "statement",
+   "stem": "How is one-lung ventilation provided for minimally invasive valve surgery?",
+   "answer": "Double-lumen tube (DLT) or bronchial blocker",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/valve-replacement-and-repair#934321",
+   "kind": "mcq",
+   "stem": "Which position is used for minimally invasive valve surgery?",
+   "options": [
+    "Lateral decubitus with axillary roll",
+    "Supine with a shoulder roll under the operative side",
+    "Prone with bolsters",
+    "Lithotomy with stirrups"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

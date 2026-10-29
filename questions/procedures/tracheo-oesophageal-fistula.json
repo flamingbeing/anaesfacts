@@ -1,0 +1,437 @@
+{
+ "topic": "procedures/tracheo-oesophageal-fistula",
+ "questions": [
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#19fe64",
+   "kind": "mcq",
+   "stem": "What proportion of neonates with oesophageal atresia also have a tracheo-oesophageal fistula?",
+   "options": [
+    "62%",
+    "72%",
+    "92%",
+    "99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#2eb203",
+   "kind": "mcq",
+   "stem": "How common is tracheo-oesophageal fistula at birth?",
+   "options": [
+    "1:300 births",
+    "1:3,000 births",
+    "1:30,000 births",
+    "1:30 births"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#e5ab78",
+   "kind": "mcq",
+   "stem": "Pure oesophageal atresia with no fistula is which Gross type?",
+   "options": [
+    "Gross A",
+    "Gross B",
+    "Gross D",
+    "Gross E"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#b8d032",
+   "kind": "mcq",
+   "stem": "Which Gross type is the most common, with a distal fistula into the trachea?",
+   "options": [
+    "Gross B",
+    "Gross D",
+    "Gross C",
+    "Gross E"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#5c193f",
+   "kind": "blank",
+   "stem": "Gross D tracheo-oesophageal fistula is oesophageal atresia with a ____ TOF.",
+   "answer": "double",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#e274fd",
+   "kind": "mcq",
+   "stem": "Which Gross type is H-type fistula without oesophageal atresia?",
+   "options": [
+    "Gross A",
+    "Gross D",
+    "Gross E",
+    "Gross B"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#34ad88",
+   "kind": "statement",
+   "stem": "What does the prognosis of tracheo-oesophageal fistula depend on?",
+   "answer": "Weight and associated cardiac problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#39be8a",
+   "kind": "mcq",
+   "stem": "When is tracheo-oesophageal fistula usually diagnosed now?",
+   "options": [
+    "In the first year of life",
+    "Antenatally",
+    "Only at repair surgery",
+    "At postmortem examination"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#41f2c7",
+   "kind": "mcq",
+   "stem": "What is the classic presentation of tracheo-oesophageal fistula within hours of birth?",
+   "options": [
+    "Bile-stained vomiting",
+    "Frothy secretions",
+    "Failure to pass meconium",
+    "Rising abdominal distension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#a835c2",
+   "kind": "statement",
+   "stem": "What are the three Cs of late tracheo-oesophageal fistula presentation, especially with feeds?",
+   "answer": "Choking, coughing and cyanosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#26cdb2",
+   "kind": "statement",
+   "stem": "Which ongoing respiratory problems does tracheo-oesophageal fistula cause?",
+   "answer": "Aspiration risk, pneumonitis and recurrent chest infections",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#721716",
+   "kind": "statement",
+   "stem": "Why does abdominal distension occur in tracheo-oesophageal fistula?",
+   "answer": "Gas enters the stomach through the fistula",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#bd162f",
+   "kind": "mcq",
+   "stem": "In oesophageal atresia, where does a nasogastric tube coil on chest X-ray?",
+   "options": [
+    "In the stomach",
+    "In the blind upper pouch",
+    "In the trachea",
+    "Across the diaphragm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#0be312",
+   "kind": "statement",
+   "stem": "What problems can persist after tracheo-oesophageal fistula repair?",
+   "answer": "Reflux, oesophageal stricture or tracheomalacia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#bc0623",
+   "kind": "statement",
+   "stem": "What does VATER stand for in the associations of tracheo-oesophageal fistula?",
+   "answer": "Vertebral, anal, tracheo-oesophageal, radial or renal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#429b90",
+   "kind": "statement",
+   "stem": "What does VACTERL stand for in the associations of tracheo-oesophageal fistula?",
+   "answer": "Vertebral, anorectal, cardiovascular, tracheo-oesophageal, renal, limb",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#bcb53f",
+   "kind": "statement",
+   "stem": "What ventilation should be avoided in a neonate with tracheo-oesophageal fistula before repair?",
+   "answer": "Positive pressure ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#37062b",
+   "kind": "blank",
+   "stem": "Initial IV fluids for a neonate with tracheo-oesophageal fistula should contain ____.",
+   "answer": "glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#84ad70",
+   "kind": "statement",
+   "stem": "How should a neonate with tracheo-oesophageal fistula be nursed during initial stabilisation?",
+   "answer": "Head up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#52e344",
+   "kind": "statement",
+   "stem": "What tube, on what suction, is used during initial stabilisation for tracheo-oesophageal fistula?",
+   "answer": "Replogle tube on continuous low-pressure suction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#2d0f38",
+   "kind": "statement",
+   "stem": "When must a tracheo-oesophageal fistula be closed?",
+   "answer": "Soon after birth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#e850de",
+   "kind": "mcq",
+   "stem": "Which approach is usually used for tracheo-oesophageal fistula repair?",
+   "options": [
+    "Left thoracotomy in supine position",
+    "Right thoracotomy in the lateral position",
+    "Midline laparotomy",
+    "Cervical incision in prone position"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#fd6ea5",
+   "kind": "statement",
+   "stem": "What may be done first to locate the fistula in tracheo-oesophageal fistula surgery?",
+   "answer": "Bronchoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#b84f6f",
+   "kind": "statement",
+   "stem": "In primary repair of tracheo-oesophageal fistula, what happens at fistula closure?",
+   "answer": "The oesophageal ends are sewn together",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#e6446a",
+   "kind": "mcq",
+   "stem": "In long-gap oesophageal atresia, when is the gastrostomy placed?",
+   "options": [
+    "Before the fistula is closed",
+    "When the fistula is closed",
+    "Only after oesophageal repair",
+    "Never; feeds are given nasally"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#f3df67",
+   "kind": "statement",
+   "stem": "How are post-repair oesophageal strictures and dysmotility assessed and treated?",
+   "answer": "Contrast studies and balloon dilatation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#7ed7f4",
+   "kind": "statement",
+   "stem": "Which preoperative test assesses cardiac anomalies in tracheo-oesophageal fistula?",
+   "answer": "Echocardiography",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#da79e6",
+   "kind": "statement",
+   "stem": "Why might limb anomalies matter for tracheo-oesophageal fistula anaesthesia?",
+   "answer": "They may make venous and arterial access difficult",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#9ee37a",
+   "kind": "statement",
+   "stem": "Which preoperative blood tests are needed before tracheo-oesophageal fistula repair?",
+   "answer": "Routine bloods, especially electrolytes, plus group and crossmatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#6e0f48",
+   "kind": "statement",
+   "stem": "In tracheo-oesophageal fistula repair, how is the upper pouch managed to prevent regurgitation?",
+   "answer": "Aspirate it via the Replogle; leave in or remove as the surgeon prefers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#64f618",
+   "kind": "statement",
+   "stem": "Why is an invasive arterial line used during tracheo-oesophageal fistula repair?",
+   "answer": "For metabolic monitoring and to detect surgical compression of great vessels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#f776d0",
+   "kind": "mcq",
+   "stem": "In tracheo-oesophageal fistula repair, what is the main concern when ventilating the patient?",
+   "options": [
+    "Pneumothorax from high peak airway pressure",
+    "Gastric distension from ventilation through the fistula",
+    "Bronchospasm from airway irritation",
+    "Hypercapnia from dead space ventilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#d40206",
+   "kind": "statement",
+   "stem": "In tracheo-oesophageal fistula repair, how is ventilation handled until the fistula is ligated?",
+   "answer": "Keep spontaneous ventilation, or give gentle low-pressure mask ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#dd9b90",
+   "kind": "mcq",
+   "stem": "Which surgical approach is usually used for tracheo-oesophageal fistula repair?",
+   "options": [
+    "Left thoracotomy",
+    "Median sternotomy",
+    "Right thoracotomy",
+    "Laparotomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#7b43fb",
+   "kind": "statement",
+   "stem": "In tracheo-oesophageal fistula repair, when is a needle gastrostomy needed?",
+   "answer": "Rarely, to decompress the stomach before the fistula is tied",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#d309d5",
+   "kind": "blank",
+   "stem": "After tracheo-oesophageal fistula repair, the child usually returns to ICU for a period of ____.",
+   "answer": "IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#e2641e",
+   "kind": "mcq",
+   "stem": "After tracheo-oesophageal fistula repair, what neck position reduces anastomotic tension?",
+   "options": [
+    "Full neck extension",
+    "Neutral or slightly flexed neck",
+    "Maximal neck rotation",
+    "Head turned fully to one side"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#16748d",
+   "kind": "mcq",
+   "stem": "What is the reported anastomotic leak rate after tracheo-oesophageal fistula repair?",
+   "options": [
+    "1-2%",
+    "40-50%",
+    "10-20%",
+    "60-70%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#a96591",
+   "kind": "mcq",
+   "stem": "After tracheo-oesophageal fistula repair, what share of children need dilatation for oesophageal stricture?",
+   "options": [
+    "5-10%",
+    "20-40%",
+    "60-70%",
+    "80-90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#2effbd",
+   "kind": "mcq",
+   "stem": "What rate of stridor and tracheomalacia is reported after tracheo-oesophageal fistula repair?",
+   "options": [
+    "2%",
+    "50%",
+    "20%",
+    "80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#c68de9",
+   "kind": "statement",
+   "stem": "After tracheo-oesophageal fistula repair, how is reflux treated?",
+   "answer": "Antacids first, with fundoplication later if needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tracheo-oesophageal-fistula#bbb17b",
+   "kind": "statement",
+   "stem": "Which respiratory problems can complicate tracheo-oesophageal fistula repair?",
+   "answer": "Aspiration, atelectasis, recurrent pneumonia and respiratory infections",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

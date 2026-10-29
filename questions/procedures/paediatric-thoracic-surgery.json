@@ -1,0 +1,623 @@
+{
+ "topic": "procedures/paediatric-thoracic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#8c6c93",
+   "kind": "statement",
+   "stem": "In paediatric thoracic surgery with a conventional ETT, how is the operated lung retracted in open surgery?",
+   "answer": "Surgeon retracts it with swabs and retractors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#23713e",
+   "kind": "statement",
+   "stem": "In paediatric lung isolation, what does DLT stand for?",
+   "answer": "Double lumen tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#101e5d",
+   "kind": "mcq",
+   "stem": "Which lung isolation device is preferred for children aged 8-18 years?",
+   "options": [
+    "Double lumen tube (DLT)",
+    "Bronchial blocker",
+    "Conventional ETT",
+    "Selective endobronchial intubation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#c03e16",
+   "kind": "blank",
+   "stem": "The smallest double lumen tube made is usable only in children over ____ years old.",
+   "answer": "8",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#c03e16",
+   "kind": "mcq",
+   "stem": "What is the smallest double lumen tube made for children?",
+   "options": [
+    "18F",
+    "26F",
+    "35F",
+    "14F"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#91b9e4",
+   "kind": "statement",
+   "stem": "What does the paediatric 5Fr bronchial blocker lack?",
+   "answer": "A central lumen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#0cab71",
+   "kind": "mcq",
+   "stem": "In paediatric lung isolation, what is the minimum endotracheal tube size?",
+   "options": [
+    "3.0mm",
+    "4.0mm",
+    "5.0mm",
+    "6.5mm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#3733eb",
+   "kind": "mcq",
+   "stem": "In paediatric lung isolation, what is the maximum cuff volume?",
+   "options": [
+    "1ml",
+    "3ml",
+    "5ml",
+    "10ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#b4fc02",
+   "kind": "mcq",
+   "stem": "For a blocker and bronchoscope to fit through an ETT together, what must (OD blocker + OD bronchoscope) / ID tube be?",
+   "options": [
+    "Greater than 0.9",
+    "Less than 1.5",
+    "Less than 0.9",
+    "Exactly 0.9"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#8f1932",
+   "kind": "mcq",
+   "stem": "Which lung isolation method is preferred at 0-6 months of age?",
+   "options": [
+    "Coaxial blocker through the ETT",
+    "Double lumen tube",
+    "Parallel blocker outside the ETT",
+    "Selective endobronchial intubation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#954c01",
+   "kind": "mcq",
+   "stem": "For lung isolation at 6 months to 2 years, which blocker technique is preferred?",
+   "options": [
+    "Coaxial, through the ETT",
+    "Parallel, outside the ETT",
+    "Coaxial, outside the ETT",
+    "Parallel, through the ETT"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#a0add7",
+   "kind": "mcq",
+   "stem": "For lung isolation at 2 to 8 years, which blocker technique is preferred?",
+   "options": [
+    "Parallel, outside the ETT",
+    "Coaxial, through the ETT",
+    "Parallel, through the ETT",
+    "Coaxial, outside the ETT"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#ed834b",
+   "kind": "mcq",
+   "stem": "For ventilation around a bronchoscope in an ETT, the OD bronchoscope divided by ID tube must be below what?",
+   "options": [
+    "1.0",
+    "0.5",
+    "0.7",
+    "0.3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#3ac419",
+   "kind": "mcq",
+   "stem": "Which paediatric fibreoptic bronchoscope has no suction channel?",
+   "options": [
+    "3.2",
+    "2.2",
+    "2.5",
+    "3.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#94db74",
+   "kind": "mcq",
+   "stem": "What is the smallest ETT the smallest fibreoptic bronchoscope (2.2) can be used through?",
+   "options": [
+    "2.5",
+    "4.0",
+    "5.0",
+    "3.0"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#6a2696",
+   "kind": "statement",
+   "stem": "Through a 2.5 ETT, can ventilation occur around a 2.2 bronchoscope?",
+   "answer": "No: ratio 0.88 is above 0.7",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#2f9ea8",
+   "kind": "statement",
+   "stem": "How is the paediatric trachea shaped in cross-section?",
+   "answer": "Elliptical, with transverse diameter larger than anteroposterior",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#e3f60d",
+   "kind": "mcq",
+   "stem": "Because the child's trachea is elliptical, which diameter should airway devices be sized on?",
+   "options": [
+    "Transverse diameter",
+    "Anteroposterior diameter",
+    "Mean of both diameters",
+    "Tracheal length"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#3e2ae8",
+   "kind": "mcq",
+   "stem": "In children, the left main bronchus is about what fraction of tracheal diameter?",
+   "options": [
+    "0.5",
+    "0.66",
+    "0.86",
+    "1.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#3e2ae8",
+   "kind": "mcq",
+   "stem": "In children, the right main bronchus is about what fraction of tracheal diameter?",
+   "options": [
+    "0.66",
+    "0.5",
+    "0.86",
+    "1.0"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#c5034c",
+   "kind": "statement",
+   "stem": "In paediatric thoracic surgery, which closed cardiac procedures are indications for thoracotomy?",
+   "answer": "PDA ligation, coarctation repair, modified Blalock-Taussig shunt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#ba05bd",
+   "kind": "mcq",
+   "stem": "When is congenital lobar emphysema resected in children?",
+   "options": [
+    "Routinely at birth",
+    "Only after age 8",
+    "When it compresses adjacent lung",
+    "Never, it resolves spontaneously"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#ba05bd",
+   "kind": "statement",
+   "stem": "In congenital lobar emphysema, what makes the condition worse?",
+   "answer": "IPPV pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#a9f693",
+   "kind": "statement",
+   "stem": "What is done for mediastinal masses in paediatric thoracic surgery?",
+   "answer": "Biopsy or resection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#1495e4",
+   "kind": "statement",
+   "stem": "In paediatric thoracic surgery, which approach is used for scoliosis?",
+   "answer": "Anterior approach",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#1cfe17",
+   "kind": "statement",
+   "stem": "Which complications can follow paediatric thoracic surgery?",
+   "answer": "Stump leak, hypoventilation, hypoxia, intrapulmonary bleeding, haemothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#1e8c7f",
+   "kind": "mcq",
+   "stem": "Many paediatric thoracic procedures are now thoracoscopic, creating a capnothorax with which gas?",
+   "options": [
+    "Nitrous oxide",
+    "CO2",
+    "Oxygen",
+    "Helium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#bc6ac7",
+   "kind": "mcq",
+   "stem": "What is oxygen consumption in neonates and infants, in mL/kg/min?",
+   "options": [
+    "3 mL/kg/min",
+    "5 mL/kg/min",
+    "7 mL/kg/min",
+    "10 mL/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#bc6ac7",
+   "kind": "mcq",
+   "stem": "What is oxygen consumption in adults, in mL/kg/min?",
+   "options": [
+    "7 mL/kg/min",
+    "1 mL/kg/min",
+    "3 mL/kg/min",
+    "5 mL/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#dd3077",
+   "kind": "mcq",
+   "stem": "In children, up to what age does closing volume exceed functional residual capacity?",
+   "options": [
+    "1-2 years",
+    "2-3 years",
+    "6-8 years",
+    "12-14 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#7bfad8",
+   "kind": "statement",
+   "stem": "In paediatric thoracic surgery, what can make the upper operated lung get more perfusion?",
+   "answer": "Immature hypoxic pulmonary vasoconstriction, compliant chest wall and volatile agents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#f03d3b",
+   "kind": "statement",
+   "stem": "How is heat loss prevented in open paediatric thoracic surgery?",
+   "answer": "Warm theatre, warm fluids and gases, and a warming mattress",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#d2e12c",
+   "kind": "statement",
+   "stem": "In a child having thoracic surgery, what associated condition should be looked for?",
+   "answer": "Associated cardiac disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#a55bdd",
+   "kind": "statement",
+   "stem": "Which prior treatment should be asked about before paediatric thoracic surgery?",
+   "answer": "Chemotherapy or radiotherapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#da5f47",
+   "kind": "statement",
+   "stem": "Which imaging should be reviewed before paediatric thoracic surgery?",
+   "answer": "CXR, CT or MRI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#6c4f71",
+   "kind": "statement",
+   "stem": "What risks should be assessed before paediatric thoracic surgery?",
+   "answer": "Lung soiling, bleeding and poor postoperative respiratory function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#528f3f",
+   "kind": "statement",
+   "stem": "In paediatric thoracic surgery, which blood gas is advised pre-operatively in a hypoxic child?",
+   "answer": "Arterial or capillary gas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#395326",
+   "kind": "mcq",
+   "stem": "In paediatric thoracic surgery, below what age are formal lung function tests difficult?",
+   "options": [
+    "Under 2 years of age",
+    "Over 12 years of age",
+    "Under 8-10 years of age",
+    "Under 6 months of age"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#483c26",
+   "kind": "mcq",
+   "stem": "Which drug type should be avoided before paediatric thoracic surgery in a hypoxic or hypercarbic child?",
+   "options": [
+    "Regular oral paracetamol",
+    "Sedative premedication",
+    "Intravenous fluid bolus",
+    "Inhalational induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#a92617",
+   "kind": "statement",
+   "stem": "When is inhalational induction sometimes necessary in paediatric thoracic surgery?",
+   "answer": "Mediastinal mass biopsy or resection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#7484b9",
+   "kind": "statement",
+   "stem": "How is the position of an ETT, DLT or bronchial blocker confirmed in paediatric thoracic surgery?",
+   "answer": "Fibreoptic scope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#67b8e7",
+   "kind": "statement",
+   "stem": "What is the maintenance anaesthetic in paediatric thoracic surgery?",
+   "answer": "Volatile in oxygen and air",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#113bc1",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is given in paediatric thoracic surgery?",
+   "options": [
+    "1-2 mcg/kg/min",
+    "0.5-1 mcg/kg/hour",
+    "0.1-0.25 mcg/kg/min",
+    "0.01-0.02 mcg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#113bc1",
+   "kind": "mcq",
+   "stem": "Why is a remifentanil infusion used in paediatric thoracic surgery?",
+   "options": [
+    "Provides long-lasting postoperative analgesia",
+    "Reduces volatile need and aids cardiovascular stability",
+    "Replaces all need for muscle relaxants",
+    "Causes bronchodilation during one-lung ventilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#dcb460",
+   "kind": "statement",
+   "stem": "What factors set the threshold for an arterial line, central line or urinary catheter in paediatric thoracic surgery?",
+   "answer": "Age, size, pathology and expected course",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#168d7b",
+   "kind": "statement",
+   "stem": "How is the child positioned for paediatric thoracic surgery?",
+   "answer": "Lateral, operative side up",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#ef36e5",
+   "kind": "statement",
+   "stem": "When might hand ventilation with a T-piece be better in paediatric thoracic surgery?",
+   "answer": "If compliance changes, or with hypoxia or hypercarbia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#eb0028",
+   "kind": "statement",
+   "stem": "What oxygen level is often needed during one-lung anaesthesia in paediatric thoracic surgery?",
+   "answer": "High FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#9c42cb",
+   "kind": "statement",
+   "stem": "What may be needed during one-lung ventilation in paediatric thoracic surgery to clear CO2 or improve oxygenation?",
+   "answer": "Periodic re-expansion and two-lung ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#b8df53",
+   "kind": "statement",
+   "stem": "What gas problem does neonatal thoracoscopy cause in paediatric thoracic surgery?",
+   "answer": "Hypercarbia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#b8df53",
+   "kind": "statement",
+   "stem": "What can capnothorax cause during neonatal thoracoscopy?",
+   "answer": "Hypotension needing a fluid bolus and/or inotrope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#ca868b",
+   "kind": "mcq",
+   "stem": "In paediatric thoracotomy, what is the IV morphine bolus dose?",
+   "options": [
+    "10-15 mcg/kg",
+    "1-2 mg/kg",
+    "100-150 mcg/kg",
+    "500-600 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#ca868b",
+   "kind": "mcq",
+   "stem": "In paediatric thoracotomy, what is the fentanyl bolus dose range?",
+   "options": [
+    "0.1-0.5 mcg/kg",
+    "1-5 mcg/kg",
+    "10-20 mcg/kg",
+    "50-100 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#1b0775",
+   "kind": "statement",
+   "stem": "Which local technique is used alongside an opioid for paediatric thoracoscopy?",
+   "answer": "Port-site infiltration with local anaesthetic and adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#803e16",
+   "kind": "statement",
+   "stem": "What fluids are given after paediatric thoracic surgery until the child feeds?",
+   "answer": "Maintenance fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#2baa06",
+   "kind": "mcq",
+   "stem": "In paediatric thoracic surgery, how painful can chest drains be compared with the incision?",
+   "options": [
+    "Much less than the incision",
+    "As much as the incision",
+    "Not painful at all",
+    "Painful only in the first hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-thoracic-surgery#92ff2a",
+   "kind": "mcq",
+   "stem": "In paediatric thoracic surgery, how useful is regular NSAID for postoperative pain?",
+   "options": [
+    "Of little use in most patients",
+    "Very useful in most patients",
+    "Contraindicated in most patients",
+    "Useful only in neonates"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "topic": "procedures/trauma-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/trauma-surgery#e0dc0d",
+   "kind": "blank",
+   "stem": "In trauma anaesthesia, manage the patient by ____ principles.",
+   "answer": "ATLS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#2c7586",
+   "kind": "blank",
+   "stem": "Trauma patients may need ____ in interventional radiology.",
+   "answer": "angioembolisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#bc347e",
+   "kind": "statement",
+   "stem": "In major trauma needing several procedures, what is the priority?",
+   "answer": "Lifesaving surgery first, but combine procedures where possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#3f85f0",
+   "kind": "statement",
+   "stem": "Why should the anaesthetist review a major trauma patient fully personally?",
+   "answer": "Major injuries are easily missed in the emergency department",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#6d0b8f",
+   "kind": "mcq",
+   "stem": "Before anaesthesia for major trauma, what is the minimum assessment to complete?",
+   "options": [
+    "A full whole-body CT scan",
+    "An ATLS primary survey just before anaesthesia",
+    "A complete coagulation panel",
+    "A detailed neurological examination"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#ad93b7",
+   "kind": "statement",
+   "stem": "In major trauma, what should not delay lifesaving surgery?",
+   "answer": "Fully correcting hypovolaemia or unnecessary tests",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#bccaf7",
+   "kind": "mcq",
+   "stem": "In trauma with ongoing uncontrolled bleeding, what systolic BP target is used for permissive hypotension?",
+   "options": [
+    "100 mmHg",
+    "60 mmHg",
+    "80 mmHg",
+    "120 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#6d93d2",
+   "kind": "mcq",
+   "stem": "When is suxamethonium contraindicated after burns or spinal injury?",
+   "options": [
+    "Within the first 6 hours of injury",
+    "More than 48 hours after the burn or spinal injury",
+    "Within the first 24 hours of injury",
+    "Only if the patient is hypotensive"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#cf1d04",
+   "kind": "mcq",
+   "stem": "In trauma with raised or possibly raised ICP, what PaCO2 range is aimed for?",
+   "options": [
+    "6.5-7 kPa (49-53 mmHg)",
+    "3-3.5 kPa (22-26 mmHg)",
+    "4.5–5 kPa (35–38 mmHg)",
+    "5.5-6 kPa (41-45 mmHg)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#cf1d04",
+   "kind": "statement",
+   "stem": "In trauma with raised ICP, why is PaCO2 kept in a set range?",
+   "answer": "To keep ICP stable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#1550fd",
+   "kind": "statement",
+   "stem": "In trauma surgery, why is regional anaesthesia often impractical?",
+   "answer": "Urgency, instability, coagulopathy, and risk of masking compartment syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#b80622",
+   "kind": "mcq",
+   "stem": "What venous access is ideal in major trauma?",
+   "options": [
+    "One 20G cannula",
+    "Two 22G cannulae",
+    "Two 14–16G cannulae",
+    "A single central line only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#f821d8",
+   "kind": "statement",
+   "stem": "Why is temperature control important in trauma anaesthesia?",
+   "answer": "Hypothermia causes significant morbidity; prevent and treat it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#fba583",
+   "kind": "statement",
+   "stem": "In trauma, should placing an arterial line delay surgery?",
+   "answer": "No; it is not usually needed at once and should not delay surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#897480",
+   "kind": "statement",
+   "stem": "In trauma, what causes unexplained hypotension and tachycardia?",
+   "answer": "Hypovolaemia, pneumothorax, tamponade, fat or air embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#6782d7",
+   "kind": "statement",
+   "stem": "In trauma, what causes unexplained hypoxia with a rising inflation pressure?",
+   "answer": "Tension pneumothorax or fat embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#10d61e",
+   "kind": "mcq",
+   "stem": "Which rare cause of unexplained hypertension in trauma should be considered?",
+   "options": [
+    "Hypovolaemia",
+    "Tension pneumothorax",
+    "Thoracic aortic disruption",
+    "Cardiac tamponade"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#bdbd2e",
+   "kind": "statement",
+   "stem": "In trauma in pregnancy, which airway risks are even higher?",
+   "answer": "Aspiration and difficult airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#8ff848",
+   "kind": "statement",
+   "stem": "What injury pattern differs in trauma in pregnancy?",
+   "answer": "Preterm labour, abruption, uterine rupture, amniotic fluid embolism, alloimmunisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#a36980",
+   "kind": "statement",
+   "stem": "Why may shock decompensate late in pregnant trauma patients?",
+   "answer": "Physiological hypervolaemic haemodilution",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#fd0fa7",
+   "kind": "mcq",
+   "stem": "In trauma in pregnancy with maternal cardiac arrest, when should caesarean section be done?",
+   "options": [
+    "Immediately at arrest",
+    "At 10 minutes after arrest",
+    "At 4 minutes after arrest",
+    "After 20 minutes of failed CPR"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#d4bf81",
+   "kind": "mcq",
+   "stem": "In trauma in pregnancy, when are steroids given for fetal lung maturity?",
+   "options": [
+    "If over 34 weeks gestation",
+    "If under 34 weeks gestation",
+    "Only after 37 weeks gestation",
+    "Only after delivery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/trauma-surgery#74ca60",
+   "kind": "statement",
+   "stem": "In trauma in pregnancy, which imaging modalities raise issues to consider?",
+   "answer": "CT and X-ray",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

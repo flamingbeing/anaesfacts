@@ -1,0 +1,353 @@
+{
+ "topic": "procedures/prostatectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/prostatectomy#6c5252",
+   "kind": "blank",
+   "stem": "Robotic prostatectomy involves a steep head-down position and ____ pneumoperitoneum.",
+   "answer": "prolonged",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#b77380",
+   "kind": "statement",
+   "stem": "Why is the patient paralysed for robotic laparoscopic prostatectomy?",
+   "answer": "Poor access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#fd3e35",
+   "kind": "mcq",
+   "stem": "Along with the whole prostate, what does open radical prostatectomy partly remove?",
+   "options": [
+    "Part of the rectum",
+    "Part of the ureter",
+    "Part of the bladder neck",
+    "Part of the psoas muscle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#84ce46",
+   "kind": "mcq",
+   "stem": "Why may pelvic lymph node dissection be added to radical prostatectomy?",
+   "options": [
+    "For staging",
+    "To reduce blood loss",
+    "To improve urine output",
+    "To reduce postoperative pain"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#fa2c11",
+   "kind": "mcq",
+   "stem": "Why are laparoscopic and robotic prostatectomy increasingly used?",
+   "options": [
+    "They cost less than open surgery",
+    "They are less invasive",
+    "They avoid all blood loss",
+    "They remove more pelvic nodes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#7f442f",
+   "kind": "mcq",
+   "stem": "What positioning is used for robotic laparoscopic prostatectomy?",
+   "options": [
+    "Very steep head-down",
+    "Flat supine",
+    "Lateral decubitus",
+    "Reverse Trendelenburg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#42bd13",
+   "kind": "mcq",
+   "stem": "Which complication is linked to prolonged pneumoperitoneum in robotic prostatectomy?",
+   "options": [
+    "Surgical emphysema",
+    "Malignant hyperthermia",
+    "Tension pneumothorax",
+    "Hypothermia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#5033a1",
+   "kind": "mcq",
+   "stem": "Open prostatectomy, with or without pelvic node removal, also involves which step?",
+   "options": [
+    "Stapled bowel resection",
+    "Ureteric stenting only",
+    "Anastomosis",
+    "Cystectomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#e56f74",
+   "kind": "mcq",
+   "stem": "In which patients is open simple prostatectomy typically done, as for TURP?",
+   "options": [
+    "Young men with prostate cancer",
+    "Elderly men",
+    "Women with urinary retention",
+    "Men under 40 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#bb9e98",
+   "kind": "mcq",
+   "stem": "Radical prostatectomy is more often offered to which patients?",
+   "options": [
+    "Older men with many comorbidities",
+    "Younger men with fewer comorbidities",
+    "Men with metastatic disease only",
+    "Men on long-term anticoagulation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#38c054",
+   "kind": "statement",
+   "stem": "Which three comorbidities are highlighted for prostatectomy anaesthesia?",
+   "answer": "IHD, COPD, smoking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#24f8b1",
+   "kind": "statement",
+   "stem": "Which preoperative test is used to assess renal function before prostatectomy?",
+   "answer": "U+E",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#aaf472",
+   "kind": "mcq",
+   "stem": "Which bed level is advised for radical prostatectomy?",
+   "options": [
+    "Standard ward bed",
+    "Theatre recovery only",
+    "HDU bed",
+    "Day-case bay"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#5e3556",
+   "kind": "mcq",
+   "stem": "Which patient position is used for open simple and radical prostatectomy?",
+   "options": [
+    "Prone, head up",
+    "Supine, head down",
+    "Lateral decubitus",
+    "Supine, head up"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#312b90",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is used for open simple and radical prostatectomy?",
+   "options": [
+    "Spinal anaesthesia alone",
+    "GA (ETT) with or without epidural",
+    "Sedation with local infiltration",
+    "GA (LMA) without epidural"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#59a529",
+   "kind": "mcq",
+   "stem": "What thoracic level should an epidural reach for open prostatectomy?",
+   "options": [
+    "T10-12",
+    "T6-8",
+    "L2-3",
+    "C7-T1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#fa0f04",
+   "kind": "mcq",
+   "stem": "Which intraoperative analgesic infusion works well during open prostatectomy?",
+   "options": [
+    "Morphine patient-controlled analgesia",
+    "Oral codeine",
+    "Remifentanil infusion",
+    "Tramadol bolus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#bdd306",
+   "kind": "mcq",
+   "stem": "What blood loss is typical in open simple and radical prostatectomy?",
+   "options": [
+    "Minimal, usually below 100ml",
+    "Moderate to large, usually below 1 litre",
+    "Massive, usually above 3 litres",
+    "Small, usually under 50ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#54c181",
+   "kind": "mcq",
+   "stem": "Which dyes may be requested after urethral reconstruction in prostatectomy?",
+   "options": [
+    "Fluorescein or indocyanine green",
+    "Methylene blue or indigo carmine",
+    "Isosulfan blue or glucose",
+    "Adrenaline or ephedrine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#c10e52",
+   "kind": "mcq",
+   "stem": "Which complication of open prostatectomy results from fluid shifts?",
+   "options": [
+    "Pneumothorax",
+    "Coagulopathy or anaemia",
+    "Retinal detachment",
+    "Hyperkalaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#a1b355",
+   "kind": "statement",
+   "stem": "Which serious complication is recognised in open prostatectomy?",
+   "answer": "Air embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#83da24",
+   "kind": "mcq",
+   "stem": "Retroperitoneal insufflation may cause excess fluid to be given, through which effect?",
+   "options": [
+    "Reduces urine output",
+    "Increases urine output",
+    "Lowers CO2 absorption",
+    "Lowers blood pressure"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#a06495",
+   "kind": "mcq",
+   "stem": "Which technique is an option for severe postoperative pain after open prostatectomy?",
+   "options": [
+    "Oral paracetamol alone",
+    "Epidural",
+    "Intramuscular pethidine",
+    "Topical lidocaine patch"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#81671f",
+   "kind": "mcq",
+   "stem": "What makes urine output hard to measure during open prostatectomy?",
+   "options": [
+    "Diuretic infusion",
+    "Irrigation",
+    "Low cardiac output",
+    "Hypertonic saline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#3e683c",
+   "kind": "mcq",
+   "stem": "Under PROSPECT 2020, what is basic analgesia after prostatectomy?",
+   "options": [
+    "Oral morphine alone",
+    "Paracetamol plus NSAID or COX-2 selective inhibitor",
+    "Paracetamol alone with codeine",
+    "IV ketamine infusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#692835",
+   "kind": "mcq",
+   "stem": "Which regional technique is first choice for robotic radical prostatectomy under PROSPECT 2020?",
+   "options": [
+    "Single-shot spinal",
+    "Bilateral TAP block",
+    "Unilateral rectus sheath block",
+    "Pudendal nerve block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostatectomy#b6db70",
+   "kind": "mcq",
+   "stem": "Under PROSPECT 2020, what should be considered for open prostatectomy?",
+   "options": [
+    "Routine epidural catheter",
+    "IV lidocaine",
+    "Single-shot TAP block",
+    "IV magnesium infusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "topic": "procedures/pancreatitis-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/pancreatitis-surgery#a50d23",
+   "kind": "mcq",
+   "stem": "In pancreatitis, which finding is an indication for surgery?",
+   "options": [
+    "Mild oedematous pancreatitis",
+    "Serum amylase raised",
+    "Infected pancreatic necrosis",
+    "Pancreatic pseudocyst under 2 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatitis-surgery#55dc31",
+   "kind": "statement",
+   "stem": "When is surgery indicated in haemorrhagic pancreatitis?",
+   "answer": "When it does not respond to blood product resuscitation and correction of coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatitis-surgery#dd1b82",
+   "kind": "statement",
+   "stem": "Which two anaesthetic problems are common in pancreatitis surgery patients?",
+   "answer": "Respiratory compromise and sepsis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatitis-surgery#2d1349",
+   "kind": "mcq",
+   "stem": "Which electrolyte disturbance is especially common in severe pancreatitis?",
+   "options": [
+    "Hypernatraemia",
+    "Hyperkalaemia",
+    "Hypercalcaemia",
+    "Hypocalcaemia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatitis-surgery#783e33",
+   "kind": "statement",
+   "stem": "How is invasive monitoring decided for pancreatitis surgery?",
+   "answer": "Case by case",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

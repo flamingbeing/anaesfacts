@@ -1,0 +1,375 @@
+{
+ "topic": "regional/epidural-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "regional/epidural-anaesthesia#5726e2",
+   "kind": "mcq",
+   "stem": "Epidural analgesia for labour is especially favoured in which obstetric condition?",
+   "options": [
+    "Placenta praevia",
+    "Pre-eclampsia",
+    "Ectopic pregnancy",
+    "Gestational diabetes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#1e0d38",
+   "kind": "mcq",
+   "stem": "Epidural anaesthesia can supplement general anaesthesia for which type of surgery?",
+   "options": [
+    "Major abdominal surgery",
+    "Cataract surgery",
+    "Diagnostic bronchoscopy",
+    "Skin lesion excision"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#d640a6",
+   "kind": "statement",
+   "stem": "For which surgery types can an epidural serve as the primary anaesthetic?",
+   "answer": "Abdominal, thoracic and lower limb surgery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#f031ba",
+   "kind": "statement",
+   "stem": "For ambulatory surgery, which techniques are usually preferred over an epidural?",
+   "answer": "Spinal or peripheral nerve blocks.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#721b1f",
+   "kind": "statement",
+   "stem": "In children, when is an epidural, especially a caudal, usually placed?",
+   "answer": "Under anaesthesia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#62664e",
+   "kind": "mcq",
+   "stem": "Which epidural technique combines an intrathecal dose with an epidural catheter in one procedure?",
+   "options": [
+    "Caudal epidural",
+    "Combined spinal-epidural (CSE)",
+    "Lumbar epidural",
+    "Thoracic epidural"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#7124eb",
+   "kind": "statement",
+   "stem": "How do the physiological effects and contraindications of epidural anaesthesia compare with spinal?",
+   "answer": "They are much the same as for spinal anaesthesia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#9dd44e",
+   "kind": "mcq",
+   "stem": "Compared with peripheral nerve blocks for analgesia, what do epidurals usually have?",
+   "options": [
+    "Fewer side effects",
+    "More side effects",
+    "Identical side effects",
+    "No side effects"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#7d55e8",
+   "kind": "mcq",
+   "stem": "Which surface landmark marks the C7 spinal level?",
+   "options": [
+    "Rib margin",
+    "Vertebra prominens",
+    "Top of the iliac crest",
+    "Inferior angle of the scapula"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#67623b",
+   "kind": "mcq",
+   "stem": "Which surface landmark marks the T3 spinal level?",
+   "options": [
+    "Root of the spine of the scapula",
+    "Rib margin",
+    "Top of the iliac crest",
+    "Vertebra prominens"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#308cf9",
+   "kind": "mcq",
+   "stem": "Which surface landmark marks the T7 spinal level?",
+   "options": [
+    "Rib margin",
+    "Vertebra prominens",
+    "Inferior angle of the scapula",
+    "Top of the iliac crest"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#b69605",
+   "kind": "mcq",
+   "stem": "Which surface landmark marks the L1 spinal level?",
+   "options": [
+    "Top of the iliac crest",
+    "Rib margin",
+    "Root of the spine of the scapula",
+    "Vertebra prominens"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#4b1ff2",
+   "kind": "mcq",
+   "stem": "Which surface landmark marks the L4 spinal level?",
+   "options": [
+    "Top of the iliac crest",
+    "Rib margin",
+    "Inferior angle of the scapula",
+    "Vertebra prominens"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#90675f",
+   "kind": "statement",
+   "stem": "What is the purpose of giving an epidural test dose?",
+   "answer": "To exclude intravascular or intrathecal catheter placement.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#565ff1",
+   "kind": "mcq",
+   "stem": "Before an epidural test dose, what do you look for when aspirating the catheter?",
+   "options": [
+    "Air or saline",
+    "Blood or CSF",
+    "Urine or bile",
+    "Lymph fluid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#35970b",
+   "kind": "statement",
+   "stem": "After giving an epidural test dose, when should the patient be assessed?",
+   "answer": "At once, and every 3-5 min after.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#3f6734",
+   "kind": "mcq",
+   "stem": "What adrenaline dose is in the classic epidural test dose of lidocaine?",
+   "options": [
+    "5 mcg",
+    "15 mcg",
+    "50 mcg",
+    "150 mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#274683",
+   "kind": "statement",
+   "stem": "After an epidural test dose, what should be checked on the sensory and motor side?",
+   "answer": "Onset and level; some onset is expected, but not too fast.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#017030",
+   "kind": "statement",
+   "stem": "Which systemic symptoms should you ask about after an epidural test dose?",
+   "answer": "Dizziness, tinnitus, metallic taste and palpitations.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#cd0d06",
+   "kind": "mcq",
+   "stem": "With an adrenaline test dose, which heart rate change suggests intravascular injection?",
+   "options": [
+    "A rise of 10 beats/min within 1 min",
+    "A rise of 3 beats/min within 1 min",
+    "A rise of 30 beats/min within 1 min",
+    "A fall of 10 beats/min within 1 min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#7b0720",
+   "kind": "mcq",
+   "stem": "How is an epidural loaded with local anaesthetic, in increments?",
+   "options": [
+    "3-5 ml every 3-5 min",
+    "10 ml every 10 min",
+    "1 ml every 1 min",
+    "20 ml every 15 min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#a5f0f0",
+   "kind": "statement",
+   "stem": "Why is there a 3-5 min gap between epidural loading increments?",
+   "answer": "It allows assessment of response and avoids systemic toxicity.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#c55d43",
+   "kind": "statement",
+   "stem": "How should epidural top-up doses be handled?",
+   "answer": "Treat them like loading doses; confirm catheter position first.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#c9b5ec",
+   "kind": "statement",
+   "stem": "What determines how far an epidural local anaesthetic spreads?",
+   "answer": "The volume of local anaesthetic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#aa11a1",
+   "kind": "mcq",
+   "stem": "How much local anaesthetic per segment is used for a lumbar epidural?",
+   "options": [
+    "0.7 ml",
+    "1-2 ml",
+    "3 ml",
+    "5 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#60c0aa",
+   "kind": "mcq",
+   "stem": "How much local anaesthetic per segment is used for a thoracic epidural?",
+   "options": [
+    "3 ml",
+    "0.7 ml",
+    "1-2 ml",
+    "5 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#6e09dc",
+   "kind": "mcq",
+   "stem": "How much local anaesthetic per segment is used for a caudal epidural?",
+   "options": [
+    "1-2 ml",
+    "0.7 ml",
+    "3 ml",
+    "10 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#f82fe5",
+   "kind": "statement",
+   "stem": "Why is epidural onset delayed at L5-S1 after lumbar injection?",
+   "answer": "These nerve roots are larger.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#514872",
+   "kind": "statement",
+   "stem": "What volume per segment is commonly used for short patients (5 ft 2 in or less) in place of 2 ml?",
+   "answer": "1 ml per segment.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#6d76cb",
+   "kind": "mcq",
+   "stem": "Under the Bromage rule, how much is added per segment for each 2 in of height above 5 ft?",
+   "options": [
+    "0.5 ml",
+    "0.1 ml",
+    "1 ml",
+    "0.01 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#c7a2b3",
+   "kind": "mcq",
+   "stem": "Which epidural maintenance option gives more cardiovascular stability?",
+   "options": [
+    "Programmed intermittent bolus",
+    "Continuous epidural infusion",
+    "Patient-controlled epidural analgesia",
+    "Intermittent manual top-ups"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/epidural-anaesthesia#d83b6a",
+   "kind": "mcq",
+   "stem": "Compared with continuous infusion, which epidural maintenance option gives better spread?",
+   "options": [
+    "Continuous epidural infusion",
+    "Patient-controlled epidural analgesia",
+    "Programmed intermittent bolus (PIB)",
+    "Single bolus top-ups"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

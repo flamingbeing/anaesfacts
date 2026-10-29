@@ -1,0 +1,451 @@
+{
+ "topic": "procedures/renal-transplantation",
+ "questions": [
+  {
+   "fact_id": "procedures/renal-transplantation#4e5af7",
+   "kind": "mcq",
+   "stem": "Which of these is an absolute contraindication to renal transplantation?",
+   "options": [
+    "Morbid obesity",
+    "Old age",
+    "Active cancer",
+    "Well-controlled hypertension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#f05f37",
+   "kind": "mcq",
+   "stem": "Which is a relative contraindication to renal transplantation?",
+   "options": [
+    "Recent myocardial infarction",
+    "Morbid obesity",
+    "Active cancer",
+    "Severe vascular disease"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#7cc5f2",
+   "kind": "mcq",
+   "stem": "Which patient position is used for renal transplantation?",
+   "options": [
+    "Lithotomy",
+    "Prone",
+    "Lateral decubitus",
+    "Supine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#9dbc09",
+   "kind": "statement",
+   "stem": "Who advises on the antibiotics given before renal transplantation surgery?",
+   "answer": "Infectious diseases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#fd7637",
+   "kind": "mcq",
+   "stem": "Which skin incision is used for renal transplantation?",
+   "options": [
+    "Midline laparotomy",
+    "Subcostal transverse incision",
+    "Lower quadrant curvilinear incision",
+    "Upper quadrant vertical incision"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#c8a7eb",
+   "kind": "statement",
+   "stem": "In renal transplantation, which anastomosis is made first?",
+   "answer": "Renal vein to iliac vein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#c8a7eb",
+   "kind": "blank",
+   "stem": "In renal transplantation, the renal artery is anastomosed to the ____ artery.",
+   "answer": "external iliac",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#c8a7eb",
+   "kind": "mcq",
+   "stem": "In renal transplantation, which anastomosis is made last?",
+   "options": [
+    "Ureter to ureter",
+    "Renal artery to renal vein",
+    "Ureter to bladder",
+    "Bladder to iliac vein"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#317788",
+   "kind": "statement",
+   "stem": "Which three agents make up the diuretic cocktail given during the arterial anastomosis in renal transplantation?",
+   "answer": "Saline, mannitol, albumin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#b2a161",
+   "kind": "statement",
+   "stem": "Which vasopressor should be avoided in renal transplantation surgery?",
+   "answer": "Phenylephrine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#89d127",
+   "kind": "statement",
+   "stem": "Which three specialties review a renal transplant candidate before surgery?",
+   "answer": "Nephrologist, surgeon, infectious diseases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#1b3d19",
+   "kind": "statement",
+   "stem": "What four aspects of renal failure should be assessed before renal transplantation?",
+   "answer": "Volume status, timing of last dialysis, electrolyte and acid-base problems, anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#df80b2",
+   "kind": "mcq",
+   "stem": "When considering EPO for anaemia before renal transplant, what target haemoglobin applies?",
+   "options": [
+    "7–8 g/dL",
+    "9–10 g/dL",
+    "12–13 g/dL",
+    "6–7 g/dL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#df80b2",
+   "kind": "blank",
+   "stem": "Before renal transplantation, consider ____ for anaemia.",
+   "answer": "EPO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#bd1b86",
+   "kind": "statement",
+   "stem": "Which comorbidities are common in renal transplant candidates?",
+   "answer": "Diabetes, hypertension, coronary disease, autoimmune disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#96e1a0",
+   "kind": "mcq",
+   "stem": "In renal transplant assessment, at what PASP should cardiology review be arranged?",
+   "options": [
+    ">30 mmHg",
+    ">60 mmHg",
+    ">45 mmHg",
+    ">80 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#8cae59",
+   "kind": "mcq",
+   "stem": "How long before renal transplantation should a patient stop smoking?",
+   "options": [
+    "1-2 weeks",
+    "4-8 weeks",
+    "24-48 hours",
+    "12-16 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#aa6f5d",
+   "kind": "statement",
+   "stem": "Which two blood checks must be valid before renal transplantation?",
+   "answer": "Group and crossmatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#a925f0",
+   "kind": "mcq",
+   "stem": "What dose of hydrocortisone is given before renal transplantation, usually on the ward?",
+   "options": [
+    "50mg",
+    "100mg",
+    "200mg",
+    "500mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#404426",
+   "kind": "blank",
+   "stem": "For moderate-risk renal transplant, give basiliximab (Simulect) ____ IV on transfer to theatre.",
+   "answer": "20mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#5de46b",
+   "kind": "mcq",
+   "stem": "Which antibiotic is given before renal transplantation, usually on the ward?",
+   "options": [
+    "Flucloxacillin 2g",
+    "Ceftriaxone 2g",
+    "Ceftriaxone 1g",
+    "Gentamicin 5mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#5de46b",
+   "kind": "mcq",
+   "stem": "Which IV antibiotic replaces ceftriaxone in renal transplantation if MRSA or allergy?",
+   "options": [
+    "Metronidazole",
+    "Gentamicin",
+    "Vancomycin",
+    "Co-amoxiclav"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#84be48",
+   "kind": "statement",
+   "stem": "Why is blood pressure closely monitored during renal transplantation?",
+   "answer": "Graft perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#9916d2",
+   "kind": "mcq",
+   "stem": "What MAP target applies before the graft anastomosis in renal transplantation?",
+   "options": [
+    ">70mmHg",
+    ">50mmHg",
+    "60-65mmHg",
+    ">90mmHg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#9d4f3f",
+   "kind": "mcq",
+   "stem": "What MAP target applies after the graft anastomosis in renal transplantation?",
+   "options": [
+    "60-65 mmHg",
+    "75-85 mmHg",
+    "90-100 mmHg",
+    "50-55 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#bba382",
+   "kind": "mcq",
+   "stem": "What complication may a MAP above 75 mmHg reduce after renal transplantation?",
+   "options": [
+    "Ureteric stricture",
+    "Delayed graft function",
+    "Wound dehiscence",
+    "Anastomotic bleeding"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#bba382",
+   "kind": "statement",
+   "stem": "Why does the transplanted kidney need a higher MAP target?",
+   "answer": "It has impaired autoregulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#ab31f2",
+   "kind": "mcq",
+   "stem": "What cumulative phenylephrine dose should prompt a search for the cause of hypotension in renal transplantation?",
+   "options": [
+    "100mcg",
+    "1mg",
+    "250mcg",
+    "500mcg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#ab31f2",
+   "kind": "mcq",
+   "stem": "What cumulative ephedrine dose should prompt a search for the cause of hypotension in renal transplantation?",
+   "options": [
+    "5mg",
+    "15mg",
+    "30mg",
+    "50mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#930837",
+   "kind": "statement",
+   "stem": "Which two fluid states should be avoided during renal transplantation?",
+   "answer": "Hypovolaemia and overload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#6c1e9f",
+   "kind": "mcq",
+   "stem": "Roughly how much fluid is given over a renal transplant operation?",
+   "options": [
+    "500ml to 1000ml",
+    "2000ml to 3000ml",
+    "4000ml to 5000ml",
+    "300ml to 500ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#66d62d",
+   "kind": "mcq",
+   "stem": "How much normal saline is in the premix given before reperfusion in renal transplantation?",
+   "options": [
+    "240ml",
+    "100ml",
+    "340ml",
+    "500ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#66d62d",
+   "kind": "blank",
+   "stem": "The pre-reperfusion premix in renal transplantation contains 100ml of 20% albumin and ____ 20% mannitol.",
+   "answer": "62.5ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#dccc71",
+   "kind": "mcq",
+   "stem": "When potassium is below 5, which muscle relaxant is used for rapid sequence induction in renal transplantation?",
+   "options": [
+    "Rocuronium",
+    "Vecuronium",
+    "Suxamethonium",
+    "Atracurium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#dccc71",
+   "kind": "statement",
+   "stem": "Which three conditions raise aspiration risk and favour rapid sequence induction in renal transplantation?",
+   "answer": "Uraemia, reflux, gastroparesis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#1a22f1",
+   "kind": "statement",
+   "stem": "Which volatile anaesthetic is acceptable in renal transplantation?",
+   "answer": "Sevoflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#b1a02e",
+   "kind": "mcq",
+   "stem": "What intrathecal morphine dose is an option for analgesia in renal transplantation?",
+   "options": [
+    "20mcg to 30mcg",
+    "200mcg to 300mcg",
+    "2mg to 3mg",
+    "500mcg to 1mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#1a365b",
+   "kind": "mcq",
+   "stem": "What does the chest X-ray in recovery check after renal transplantation?",
+   "options": [
+    "Urinary catheter position",
+    "Central line position",
+    "Graft ultrasound findings",
+    "Drain output volume"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#af1585",
+   "kind": "blank",
+   "stem": "Renal transplant patients need ____ care for graft function and haemodynamics.",
+   "answer": "High dependency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/renal-transplantation#15020c",
+   "kind": "statement",
+   "stem": "Who directs postoperative immunosuppression after renal transplantation?",
+   "answer": "Nephrology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

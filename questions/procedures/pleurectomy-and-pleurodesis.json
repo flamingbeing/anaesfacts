@@ -1,0 +1,253 @@
+{
+ "topic": "procedures/pleurectomy-and-pleurodesis",
+ "questions": [
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#d99210",
+   "kind": "statement",
+   "stem": "In pleurectomy and pleurodesis, which two underlying conditions should be considered?",
+   "answer": "Pneumothorax or COPD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#584d35",
+   "kind": "statement",
+   "stem": "In pleurectomy, which tissue is stripped from the inside of the chest wall?",
+   "answer": "Pleura",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#bbe5a0",
+   "kind": "mcq",
+   "stem": "Before pleurectomy, what must be done first if the chest X-ray shows a pneumothorax?",
+   "options": [
+    "Pleural aspiration alone",
+    "Immediate surgery without a drain",
+    "Chest drain insertion",
+    "Epidural catheter placement"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#8daa32",
+   "kind": "statement",
+   "stem": "In pleurectomy planning, which plan should be agreed in advance?",
+   "answer": "Postoperative analgesia plan",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#5650b6",
+   "kind": "mcq",
+   "stem": "What defines a massive pleural effusion before pleurectomy?",
+   "options": [
+    "Less than one-third of the hemithorax",
+    "Over two-thirds of the hemithorax",
+    "Over half of the hemithorax",
+    "Any effusion needing a chest drain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#5f116f",
+   "kind": "mcq",
+   "stem": "How long before pleurectomy should the chest drain be in place?",
+   "options": [
+    "1hr",
+    ">12hr",
+    "30 minutes",
+    "48hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#68a013",
+   "kind": "mcq",
+   "stem": "Which patient position is used for pleurectomy surgery?",
+   "options": [
+    "Lateral decubitus",
+    "Supine with head down",
+    "Prone",
+    "Lithotomy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#630bd5",
+   "kind": "mcq",
+   "stem": "Which two surgical approaches are used for pleurectomy?",
+   "options": [
+    "Laparoscopy or robotic assistance",
+    "Median sternotomy alone",
+    "Open thoracotomy or VATS",
+    "Mediastinoscopy or laparotomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#f6f44e",
+   "kind": "mcq",
+   "stem": "Which ventilation strategy is used for pleurectomy anaesthesia?",
+   "options": [
+    "IPPV, DLT and OLV",
+    "Spontaneous ventilation with a face mask",
+    "CPAP through a single-lumen tube",
+    "Apnoeic oxygenation with an LMA"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#e732c3",
+   "kind": "mcq",
+   "stem": "During pleurectomy, what should be done with airway pressures?",
+   "options": [
+    "Keep them as high as possible",
+    "Keep them as low as possible",
+    "Hold them at a fixed 30 cmH2O",
+    "Allow them to rise freely"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#c1f503",
+   "kind": "mcq",
+   "stem": "Which anaesthetic gas should be avoided during pleurectomy?",
+   "options": [
+    "Sevoflurane",
+    "N2O",
+    "Desflurane",
+    "Xenon"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#7d3194",
+   "kind": "mcq",
+   "stem": "During pleurodesis, when should the lung be deliberately collapsed?",
+   "options": [
+    "Only after the chest drain is removed",
+    "While the surgeon instils the irritant",
+    "Throughout the whole closing of the chest wall",
+    "Before induction of anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#cd259c",
+   "kind": "mcq",
+   "stem": "How painful is the intraoperative part of pleurectomy and pleurodesis for the patient?",
+   "options": [
+    "Painless",
+    "Mildly uncomfortable",
+    "Only painful when turned",
+    "Very painful"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#40124c",
+   "kind": "mcq",
+   "stem": "Which drugs should be avoided during pleurodesis because they reduce its effectiveness?",
+   "options": [
+    "Paracetamol and gabapentin",
+    "Opioids and ketamine",
+    "NSAIDs and dexamethasone",
+    "Intravenous lidocaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#9fc1b3",
+   "kind": "mcq",
+   "stem": "What should be aimed for at the end of pleurodesis to oppose the pleural layers?",
+   "options": [
+    "Maximal diuresis",
+    "Collapse of the lung",
+    "Full lung expansion",
+    "Hypercapnia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#9704a9",
+   "kind": "mcq",
+   "stem": "What serious risk arises when a large effusion is turned effusion side up?",
+   "options": [
+    "Malignant hyperthermia",
+    "Cardiovascular collapse",
+    "Hypoglycaemia",
+    "Pneumothorax of the other lung"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#732148",
+   "kind": "mcq",
+   "stem": "What position should the patient be placed in after extubation following pleurectomy?",
+   "options": [
+    "Lie flat with legs raised",
+    "Sit upright",
+    "Prone",
+    "Left lateral decubitus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#788466",
+   "kind": "mcq",
+   "stem": "Which investigation confirms full lung expansion after pleurectomy?",
+   "options": [
+    "ECG",
+    "CT of the chest",
+    "CXR",
+    "Echocardiogram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pleurectomy-and-pleurodesis#673662",
+   "kind": "mcq",
+   "stem": "After pleurectomy, which complication should be watched for as the lung re-expands?",
+   "options": [
+    "Re-expansion pulmonary oedema",
+    "Tension pneumothorax",
+    "Aspiration pneumonia",
+    "Phrenic nerve palsy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

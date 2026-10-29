@@ -1,0 +1,215 @@
+{
+ "topic": "procedures/urology-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/urology-surgery#44e185",
+   "kind": "statement",
+   "stem": "What tends to characterise patients having urology surgery?",
+   "answer": "Often elderly, with many comorbidities including renal impairment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#74536e",
+   "kind": "statement",
+   "stem": "Why does anaesthesia for urology surgery vary so widely?",
+   "answer": "Procedures range from outpatient cystoscopy to major cancer surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#846949",
+   "kind": "statement",
+   "stem": "Which findings suggest renal failure in a urology patient before surgery?",
+   "answer": "Haematuria or proteinuria, raised urea and creatinine, reduced creatinine clearance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#f0fd5e",
+   "kind": "statement",
+   "stem": "In a urology patient with renal failure, what must be decided before surgery?",
+   "answer": "Acute or chronic, and the cause: prerenal, renal or postrenal (obstructive)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#ddfd55",
+   "kind": "mcq",
+   "stem": "In urology surgery, which drug group should be avoided in patients with renal impairment?",
+   "options": [
+    "Hepatotoxic drugs",
+    "Nephrotoxic drugs",
+    "Anticholinergic drugs",
+    "Antiemetic drugs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#fe45b2",
+   "kind": "statement",
+   "stem": "In urology surgery, what intraoperative problem should be corrected?",
+   "answer": "Hypovolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#ac6000",
+   "kind": "mcq",
+   "stem": "What should guide drug dosing in urology surgery patients?",
+   "options": [
+    "Renal function",
+    "Hepatic function",
+    "Body weight alone",
+    "Cardiac output"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#b18eef",
+   "kind": "statement",
+   "stem": "Which intraoperative problem should be watched for in urology surgery?",
+   "answer": "Urinary outflow obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#79e182",
+   "kind": "statement",
+   "stem": "Even with normal blood pressure, what effect can anaesthesia have on kidney perfusion?",
+   "answer": "Lowers renal blood flow and GFR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#79e182",
+   "kind": "statement",
+   "stem": "How does anaesthesia lower blood pressure in urology patients?",
+   "answer": "Myocardial and sympathetic depression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#1880e4",
+   "kind": "statement",
+   "stem": "Which urology procedures are done with the patient in lithotomy?",
+   "answer": "Cystoscopy, TURP, TURBT, ureteroscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#75d55b",
+   "kind": "mcq",
+   "stem": "Which patient position is used for renal surgery in urology?",
+   "options": [
+    "Lithotomy position",
+    "Kidney rest (lateral flexed) position",
+    "Prone jackknife position",
+    "Supine with arms out"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#64d992",
+   "kind": "statement",
+   "stem": "Which complication can occur at cystoscopy in urology?",
+   "answer": "Bladder perforation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#235cca",
+   "kind": "statement",
+   "stem": "Which rare but serious complication can occur during cystoscopy?",
+   "answer": "Autonomic hyperreflexia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#cd35f6",
+   "kind": "statement",
+   "stem": "In urology patients with spinal cord injury at T6 or above, which emergency is a risk?",
+   "answer": "Hypertensive emergency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#f761f5",
+   "kind": "statement",
+   "stem": "Which complication can occur after TURP?",
+   "answer": "Bacteraemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#5328b7",
+   "kind": "statement",
+   "stem": "For how long are antibiotics continued after catheter removal in urology surgery?",
+   "answer": "2–3 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#5328b7",
+   "kind": "statement",
+   "stem": "When should prophylactic antibiotics be started in urology surgery?",
+   "answer": "Before the start of the procedure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#dacb39",
+   "kind": "statement",
+   "stem": "What risk arises from large volumes of cool irrigant in elderly urology patients?",
+   "answer": "Hypothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#f92901",
+   "kind": "statement",
+   "stem": "Which conditions can laser surgery treat in urology?",
+   "answer": "Condylomata, interstitial cystitis, BPH, ureteric or bladder stricture, contracture or stones, superficial urinary tract or genital cancers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#b669cc",
+   "kind": "statement",
+   "stem": "Roughly how long does a prostate biopsy or spacer insertion take?",
+   "answer": "About 30 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#b669cc",
+   "kind": "statement",
+   "stem": "Why should anaesthesia for prostate biopsy not be too light?",
+   "answer": "No movement while the ultrasound probe is in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#38d0ec",
+   "kind": "statement",
+   "stem": "What is the usual anaesthetic for prostate biopsy and spacer insertion?",
+   "answer": "GA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/urology-surgery#38d0ec",
+   "kind": "statement",
+   "stem": "Which spinal agent is rarely used for prostate biopsy and spacer insertion?",
+   "answer": "Prilocaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

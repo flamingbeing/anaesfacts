@@ -1,0 +1,503 @@
+{
+ "topic": "procedures/turp",
+ "questions": [
+  {
+   "fact_id": "procedures/turp#6aadac",
+   "kind": "mcq",
+   "stem": "What is transurethral resection of the prostate (TURP) usually performed for?",
+   "options": [
+    "Localised prostate cancer in younger men",
+    "Benign prostatic hypertrophy with obstructive symptoms",
+    "Recurrent stones with urinary infection",
+    "Bladder neck stenosis after catheterisation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#e565e3",
+   "kind": "statement",
+   "stem": "In TURP, what does the resectoscope do to tissue protruding into the prostatic urethra?",
+   "answer": "It cuts and coagulates it.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#7ece04",
+   "kind": "statement",
+   "stem": "What complication does continuous irrigation during TURP create the risk of?",
+   "answer": "TURP syndrome.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#a7e33e",
+   "kind": "statement",
+   "stem": "When might simple open prostatectomy have fewer complications than TURP?",
+   "answer": "Very large prostate (>100g).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#81d08a",
+   "kind": "mcq",
+   "stem": "Above what resection time do TURP complications rise?",
+   "options": [
+    "Over 30 mins",
+    "Over 1hr",
+    "Over 2hr",
+    "Over 4hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#34ca8d",
+   "kind": "statement",
+   "stem": "Which outcomes does bipolar TURP lower?",
+   "answer": "Overall complications, transfusion and TURP syndrome.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#c4c804",
+   "kind": "statement",
+   "stem": "Describe the typical patient presenting for TURP.",
+   "answer": "Often elderly, with comorbidities and polypharmacy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#a65162",
+   "kind": "statement",
+   "stem": "Why are heart failure patients at particular risk during TURP?",
+   "answer": "Fluid absorption.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#d92564",
+   "kind": "mcq",
+   "stem": "Which patient factor makes spinal anaesthesia for TURP hard?",
+   "options": [
+    "Mild anaemia",
+    "Confusion or deafness",
+    "Previous appendicectomy",
+    "Recent weight loss"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#6bc648",
+   "kind": "mcq",
+   "stem": "What block level does spinal anaesthesia for TURP need?",
+   "options": [
+    "T4",
+    "T10",
+    "L3",
+    "C6"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#c9886c",
+   "kind": "statement",
+   "stem": "During TURP, which fluid should never be used?",
+   "answer": "Glucose.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#4538f0",
+   "kind": "mcq",
+   "stem": "What weight of prostate tissue is usually resected in TURP?",
+   "options": [
+    "5–20g",
+    "100–150g",
+    "15–60g",
+    "200–250g"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#09ff40",
+   "kind": "mcq",
+   "stem": "To prevent hypothermia in TURP, what should the irrigant be warmed to?",
+   "options": [
+    "30°C",
+    "42°C",
+    "25°C",
+    "37°C"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#5c4b8f",
+   "kind": "mcq",
+   "stem": "Which antibiotic is usually given as prophylaxis for TURP?",
+   "options": [
+    "Gentamicin",
+    "Vancomycin",
+    "Ceftriaxone",
+    "Metronidazole"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#844b6d",
+   "kind": "statement",
+   "stem": "In which position is the patient placed for TURP?",
+   "answer": "Lithotomy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#32a59e",
+   "kind": "mcq",
+   "stem": "For how long is post-TURP saline bladder irrigation usually continued?",
+   "options": [
+    "About 4hr",
+    "About 24hr",
+    "About 3 days",
+    "About 1 week"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#b8a5cb",
+   "kind": "statement",
+   "stem": "What pain pattern is typical after TURP?",
+   "answer": "Usually little pain; catheter discomfort or bladder spasm.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#ebc0c9",
+   "kind": "statement",
+   "stem": "After TURP, what may need resuscitation and a return to theatre?",
+   "answer": "Ongoing bleeding.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#be3c1c",
+   "kind": "statement",
+   "stem": "Which bloods should be checked the day after TURP?",
+   "answer": "FBC, creatinine and electrolytes.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#7998ac",
+   "kind": "statement",
+   "stem": "What kind of sodium disturbance does absorbed irrigant cause in TURP syndrome?",
+   "answer": "Iso-osmolar hyponatraemia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#84e5ad",
+   "kind": "mcq",
+   "stem": "What is the reported incidence of TURP syndrome?",
+   "options": [
+    "10–20%",
+    "1–8%",
+    "0.1–0.5%",
+    "30–40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#84e5ad",
+   "kind": "mcq",
+   "stem": "What is the mortality of severe TURP syndrome?",
+   "options": [
+    "10%",
+    "2%",
+    "25%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#4475e9",
+   "kind": "mcq",
+   "stem": "Which TURP irrigant is clear, cheap and non-conductive?",
+   "options": [
+    "0.9% saline",
+    "Glycine",
+    "Ringer's lactate",
+    "Hartmann's solution"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#990ca1",
+   "kind": "mcq",
+   "stem": "What is the main problem with 0.9% saline as a TURP irrigant?",
+   "options": [
+    "It is too viscous to irrigate",
+    "It causes haemolysis",
+    "It conducts electricity",
+    "It is hard to sterilise"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#b4ebd4",
+   "kind": "statement",
+   "stem": "In TURP syndrome, what is the main cause of the CNS features?",
+   "answer": "Hypo-osmolality.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#be5508",
+   "kind": "mcq",
+   "stem": "What is the osmolality of 1.5% glycine irrigant?",
+   "options": [
+    "110 mOsmol/kg",
+    "290 mOsmol/kg",
+    "220 mOsmol/kg",
+    "400 mOsmol/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#d95a86",
+   "kind": "statement",
+   "stem": "In glycine toxicity, what role of glycine underlies the visual disturbance and seizures?",
+   "answer": "It is an inhibitory neurotransmitter.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#649dd0",
+   "kind": "statement",
+   "stem": "What reflex heart-rate change accompanies fluid overload in TURP syndrome?",
+   "answer": "Bradycardia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#80281b",
+   "kind": "statement",
+   "stem": "Which secondary effect of TURP syndrome worsens hyponatraemia?",
+   "answer": "Natriuresis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#93cff8",
+   "kind": "mcq",
+   "stem": "When can TURP syndrome first appear after starting resection?",
+   "options": [
+    "Within 1 minute of starting",
+    "2 to 7 days after surgery",
+    "15 minutes to 24 hours from start",
+    "Only after catheter removal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#3a28aa",
+   "kind": "mcq",
+   "stem": "Which of these is a central nervous system feature of TURP syndrome?",
+   "options": [
+    "Burning sensation in face and hands",
+    "Polyuria",
+    "Urticaria",
+    "Hyperkalaemic arrest"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#8c9492",
+   "kind": "statement",
+   "stem": "What blood pressure pattern does TURP syndrome show?",
+   "answer": "Early hypertension, then late hypotension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#5708b5",
+   "kind": "mcq",
+   "stem": "What is the ideal maximum resection time to lower TURP risk?",
+   "options": [
+    "Less than 2 hours",
+    "Less than 60 mins",
+    "Less than 90 mins",
+    "Less than 4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#a23201",
+   "kind": "mcq",
+   "stem": "What irrigation bag height limits hydrostatic pressure in TURP?",
+   "options": [
+    "Below 100cm",
+    "Below 70cm",
+    "Below 120cm",
+    "Below 50cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#293ada",
+   "kind": "mcq",
+   "stem": "Which diathermy allows 0.9% saline irrigation for TURP?",
+   "options": [
+    "Monopolar diathermy",
+    "Ultrasonic cutting",
+    "Bipolar diathermy",
+    "Cold cutting loop"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#2564dd",
+   "kind": "statement",
+   "stem": "Why is a T10 block level needed for TURP, though prostatic pain is sacral?",
+   "answer": "For bladder distension.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#15f28b",
+   "kind": "statement",
+   "stem": "What is the first action in acute TURP syndrome?",
+   "answer": "Stop irrigation and finish surgery quickly.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#caf1f0",
+   "kind": "mcq",
+   "stem": "How are seizures from TURP syndrome treated?",
+   "options": [
+    "Furosemide alone",
+    "Benzodiazepines or magnesium",
+    "Glucose infusion",
+    "Oxygen alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#b5ce45",
+   "kind": "mcq",
+   "stem": "Which diuretic treats fluid overload from TURP syndrome?",
+   "options": [
+    "Mannitol",
+    "Spironolactone",
+    "Furosemide",
+    "Acetazolamide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#bd192b",
+   "kind": "mcq",
+   "stem": "What concentration of saline treats severe hyponatraemia in TURP syndrome?",
+   "options": [
+    "0.9%",
+    "1.5%",
+    "3%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#bd192b",
+   "kind": "mcq",
+   "stem": "Below what sodium level is hypertonic saline indicated in TURP syndrome?",
+   "options": [
+    "Below 135 mmol/L",
+    "Below 120 mmol/L",
+    "Below 100 mmol/L",
+    "Below 128 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#a92f6b",
+   "kind": "statement",
+   "stem": "What advantages does holmium laser enucleation of the prostate (HoLEP) offer?",
+   "answer": "Lower morbidity and a short hospital stay.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#f5a220",
+   "kind": "statement",
+   "stem": "For which prostates is HoLEP useful?",
+   "answer": "Large prostates.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#0a7666",
+   "kind": "mcq",
+   "stem": "How deep does the holmium laser penetrate tissue in HoLEP?",
+   "options": [
+    "5–10 mm",
+    "0.5–1 mm",
+    "2–3 cm",
+    "10–15 mm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turp#d5e1d5",
+   "kind": "statement",
+   "stem": "Why is TURP syndrome with HoLEP reported only anecdotally?",
+   "answer": "Saline is the irrigant.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

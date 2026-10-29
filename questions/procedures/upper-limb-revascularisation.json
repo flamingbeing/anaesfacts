@@ -1,0 +1,67 @@
+{
+ "topic": "procedures/upper-limb-revascularisation",
+ "questions": [
+  {
+   "fact_id": "procedures/upper-limb-revascularisation#b4b832",
+   "kind": "statement",
+   "stem": "What is the commonest cause of chronic upper limb ischaemia?",
+   "answer": "Atherosclerosis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/upper-limb-revascularisation#e6e7a3",
+   "kind": "statement",
+   "stem": "Why may chronic upper limb ischaemia be clinically silent?",
+   "answer": "Good collateral circulation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/upper-limb-revascularisation#217a8a",
+   "kind": "statement",
+   "stem": "In subclavian steal, what happens to vertebral artery flow when the arm is exercised?",
+   "answer": "Blood is drawn backwards down the vertebral artery to the limb.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/upper-limb-revascularisation#b9a1b1",
+   "kind": "statement",
+   "stem": "What usually causes acute upper limb ischaemia?",
+   "answer": "Emboli.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/upper-limb-revascularisation#835b81",
+   "kind": "mcq",
+   "stem": "Which emergency procedure treats acute upper limb ischaemia to prevent compartment syndrome?",
+   "options": [
+    "Carotid endarterectomy",
+    "Subclavian angioplasty",
+    "Brachial embolectomy",
+    "Cervical sympathectomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/upper-limb-revascularisation#19cf5c",
+   "kind": "statement",
+   "stem": "For upper limb revascularisation, what anaesthetic is usually used?",
+   "answer": "Local anaesthesia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/upper-limb-revascularisation#4f2e9e",
+   "kind": "statement",
+   "stem": "How often is general anaesthesia needed for upper limb revascularisation?",
+   "answer": "Rarely.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

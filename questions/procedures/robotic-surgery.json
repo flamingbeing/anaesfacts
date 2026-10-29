@@ -1,0 +1,57 @@
+{
+ "topic": "procedures/robotic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/robotic-surgery#324cdc",
+   "kind": "mcq",
+   "stem": "In robotic surgery, how does patient positioning compare with open or laparoscopic surgery?",
+   "options": [
+    "Less steep and more upright",
+    "Identical in every case",
+    "May be more extreme and steeper",
+    "Always supine and flat"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/robotic-surgery#9e20aa",
+   "kind": "mcq",
+   "stem": "Why is robotic surgery a concern in traumatic brain injury?",
+   "options": [
+    "It causes more hypocapnia",
+    "It causes more hypercapnia",
+    "It lowers blood pressure only",
+    "It causes hypothermia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/robotic-surgery#5f6562",
+   "kind": "statement",
+   "stem": "What practical problem does a docked robot create for the anaesthetist?",
+   "answer": "Difficult access to the patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/robotic-surgery#587ea0",
+   "kind": "statement",
+   "stem": "What injury risk do the robot's arms pose to the patient in robotic surgery?",
+   "answer": "The robot's arms may injure the patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/robotic-surgery#fa6d3d",
+   "kind": "statement",
+   "stem": "How might robotic surgery change overall operating time?",
+   "answer": "Overall operating time may be longer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

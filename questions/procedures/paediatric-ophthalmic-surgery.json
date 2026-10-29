@@ -1,0 +1,1235 @@
+{
+ "topic": "procedures/paediatric-ophthalmic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#5efed6",
+   "kind": "statement",
+   "stem": "In paediatric eye surgery, what is usually true of patients' general health?",
+   "answer": "Most are healthy; a few have conditions that change the technique",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#2bc399",
+   "kind": "blank",
+   "stem": "In paediatric eye surgery, many eye conditions need ____ anaesthetics.",
+   "answer": "repeated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#863e3c",
+   "kind": "mcq",
+   "stem": "In paediatric eye surgery, which anaesthetic do children need, unlike adults?",
+   "options": [
+    "Local anaesthesia alone",
+    "Topical drops only",
+    "Sedation without airway control",
+    "General anaesthesia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f2389a",
+   "kind": "mcq",
+   "stem": "In children having eye surgery, how strong is the oculocardiac reflex?",
+   "options": [
+    "Weak and rarely clinically relevant",
+    "Particularly strong",
+    "Absent under general anaesthesia",
+    "Present only under local anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#88c7e0",
+   "kind": "statement",
+   "stem": "In paediatric eye surgery, what should be considered about anaesthesia?",
+   "answer": "Its effects on IOP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#5cd3d2",
+   "kind": "mcq",
+   "stem": "How common is postoperative nausea and vomiting (PONV) after paediatric eye surgery?",
+   "options": [
+    "Very common",
+    "Rare, seen in under 5%",
+    "Uncommon, usually under 10%",
+    "Limited to strabismus surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#0d504e",
+   "kind": "mcq",
+   "stem": "Which setting suits most paediatric eye surgery cases?",
+   "options": [
+    "Routine overnight admission",
+    "Intensive care admission",
+    "Day surgery",
+    "Week-long ward stay"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#19d199",
+   "kind": "mcq",
+   "stem": "Which age group rarely tolerates a proper eye examination under anaesthesia?",
+   "options": [
+    "Children over 8 years",
+    "Children under 5 years",
+    "Children over 12 years",
+    "Children over 16 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#ec7b42",
+   "kind": "statement",
+   "stem": "In children having eye examination under anaesthesia, what usually causes anaesthetic problems?",
+   "answer": "Associated conditions affecting the airway or other systems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#23c7e4",
+   "kind": "blank",
+   "stem": "When IOP does not matter in examination under anaesthesia, a ____ examination is done.",
+   "answer": "general",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#30f471",
+   "kind": "statement",
+   "stem": "When IOP is measured under anaesthesia in children, what must the anaesthetic achieve?",
+   "answer": "Good conditions without changing IOP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#982093",
+   "kind": "mcq",
+   "stem": "What IV ketamine dose is often used before measuring IOP in children?",
+   "options": [
+    "1-2 mg/kg IV",
+    "0.1-0.2 mg/kg IV",
+    "10-20 mg/kg IV",
+    "50-100 mg/kg IV"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#982093",
+   "kind": "mcq",
+   "stem": "When is IOP often measured after ketamine in children?",
+   "options": [
+    "After intubation is complete",
+    "During emergence from anaesthesia",
+    "Before airway stimulation or other drugs",
+    "Straight after suxamethonium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#fe7a68",
+   "kind": "statement",
+   "stem": "Which drugs given with ketamine for IOP measurement reduce its secretions?",
+   "answer": "Atropine 20 mcg/kg or glycopyrronium 10 mcg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#ec12b2",
+   "kind": "mcq",
+   "stem": "In paediatric eye surgery, what percentage of people have a misaligned visual axis?",
+   "options": [
+    "0.1-0.5%",
+    "15-20%",
+    "30-40%",
+    "3-5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#b92c48",
+   "kind": "mcq",
+   "stem": "What is the male to female ratio in paediatric strabismus?",
+   "options": [
+    "2:1",
+    "1:2",
+    "3:1",
+    "1:1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#b0833e",
+   "kind": "blank",
+   "stem": "In paediatric strabismus the cause is usually ____.",
+   "answer": "idiopathic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f6015b",
+   "kind": "statement",
+   "stem": "Which CNS disorders are associated with paediatric strabismus?",
+   "answer": "Cerebral palsy, meningomyelocele with hydrocephalus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#4f438d",
+   "kind": "statement",
+   "stem": "In paediatric strabismus, which hidden muscle disorder should be considered?",
+   "answer": "Occult myopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#7d42cb",
+   "kind": "mcq",
+   "stem": "In strabismus surgery, what does a muscle resection do to an extraocular muscle?",
+   "options": [
+    "Lengthens the muscle",
+    "Shortens the muscle",
+    "Weakens it without changing its length",
+    "Moves it to a new insertion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#edd4fe",
+   "kind": "mcq",
+   "stem": "In older children after strabismus surgery, when is an adjustable suture set?",
+   "options": [
+    "During the same anaesthetic",
+    "At 1-2 weeks after surgery",
+    "At 24-48 hours after surgery",
+    "Only at the first dressing change"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#786ee4",
+   "kind": "mcq",
+   "stem": "How long does strabismus surgery on two muscles take?",
+   "options": [
+    "About 30 minutes",
+    "About 1.5 hours",
+    "About 3 hours",
+    "About 5 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#d6125b",
+   "kind": "statement",
+   "stem": "For a child having strabismus surgery, what premedication approach is usual?",
+   "answer": "Premedication as needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f40858",
+   "kind": "statement",
+   "stem": "Which airway devices are used for paediatric strabismus surgery?",
+   "answer": "ETT or LMA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#41a32d",
+   "kind": "mcq",
+   "stem": "Which technique may lower PONV in older children having strabismus surgery?",
+   "options": [
+    "Nitrous oxide added to the mixture",
+    "Higher inspired oxygen concentration",
+    "TIVA",
+    "Routine opioid infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#4f8de4",
+   "kind": "statement",
+   "stem": "Why watch the ECG after the surgeon's topical adrenaline in strabismus surgery?",
+   "answer": "It is absorbed systemically",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#fb5161",
+   "kind": "statement",
+   "stem": "In strabismus surgery, what does a forced duction test tell apart?",
+   "answer": "Paretic muscle from restricted muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f5ae32",
+   "kind": "mcq",
+   "stem": "For how long after suxamethonium is forced duction testing invalid?",
+   "options": [
+    "Up to 20 min",
+    "Up to 5 min",
+    "Up to 60 min",
+    "Up to 2 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#210c64",
+   "kind": "mcq",
+   "stem": "What causes the oculocardiac reflex during strabismus surgery?",
+   "options": [
+    "Topical adrenaline absorption",
+    "Suxamethonium fasciculation",
+    "Traction on extraocular muscles",
+    "Hypercapnia from airway obstruction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#1b1f29",
+   "kind": "mcq",
+   "stem": "Which topical drug is used for analgesia in paediatric strabismus surgery?",
+   "options": [
+    "Atropine drops",
+    "Phenylephrine drops",
+    "Tetracaine drops",
+    "Cyclopentolate drops"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#385275",
+   "kind": "statement",
+   "stem": "In paediatric strabismus surgery, what is the main downside of adding IV fentanyl?",
+   "answer": "Increases PONV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#10ecc8",
+   "kind": "mcq",
+   "stem": "How common is PONV after strabismus surgery?",
+   "options": [
+    "5-10%",
+    "90-100%",
+    "10-20%",
+    "50-75%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#838c21",
+   "kind": "mcq",
+   "stem": "What ondansetron dose is suggested as one of two antiemetics in strabismus surgery?",
+   "options": [
+    "10 mcg/kg, maximum 4 mg",
+    "1 mg/kg, maximum 4 mg",
+    "100 mcg/kg, maximum 4 mg",
+    "100 mcg/kg, maximum 40 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#3bc098",
+   "kind": "mcq",
+   "stem": "What PONV rate can antiemetic combinations reach after strabismus surgery?",
+   "options": [
+    "About 25%",
+    "About 50%",
+    "About 5%",
+    "About 75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#abf447",
+   "kind": "statement",
+   "stem": "After strabismus surgery, what can upset children?",
+   "answer": "The eye patch and poor vision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#4d9d05",
+   "kind": "statement",
+   "stem": "Which postoperative analgesics are used after paediatric strabismus surgery?",
+   "answer": "Paracetamol, NSAID and an oral opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#146fe9",
+   "kind": "blank",
+   "stem": "In paediatric strabismus surgery, a rescue antiemetic should be of a ____ class, e.g. cyclizine 1 mg/kg IV, if ondansetron and dexamethasone are already given.",
+   "answer": "different",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#2b36bf",
+   "kind": "statement",
+   "stem": "After strabismus surgery in children, why keep the IV cannula in place?",
+   "answer": "To give IV antiemetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6789e6",
+   "kind": "mcq",
+   "stem": "What is the usual setting for paediatric strabismus surgery?",
+   "options": [
+    "Routine ICU admission",
+    "Mostly day cases",
+    "Week-long ward stay",
+    "Routine overnight admission"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#9e2650",
+   "kind": "mcq",
+   "stem": "Of 1.5 million blind children worldwide, what percentage live in Africa or Asia?",
+   "options": [
+    "15%",
+    "50%",
+    "85%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#4bc35f",
+   "kind": "mcq",
+   "stem": "In childhood cataract classification, what period defines infantile cataract?",
+   "options": [
+    "Between ages 5 and 8 years",
+    "The first 2 years",
+    "After age 10",
+    "Only in adolescence"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#0a0768",
+   "kind": "mcq",
+   "stem": "In paediatric cataract, what share of cases is hereditary?",
+   "options": [
+    "25%",
+    "10%",
+    "75%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#0a0768",
+   "kind": "mcq",
+   "stem": "What inheritance pattern is usual for hereditary cataract in otherwise well children?",
+   "options": [
+    "Autosomal recessive",
+    "Mitochondrial",
+    "Autosomal dominant",
+    "Polygenic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#0a0768",
+   "kind": "mcq",
+   "stem": "Which cataract-associated syndrome is X-linked recessive?",
+   "options": [
+    "Lowe oculocerebrorenal syndrome",
+    "Down syndrome",
+    "Cri du chat syndrome",
+    "Edwards syndrome"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#c59f8a",
+   "kind": "statement",
+   "stem": "Which metabolic conditions can cause cataract in children?",
+   "answer": "G6PD deficiency, galactosaemia, hypoglycaemia, infant hypocalcaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#0dfaa1",
+   "kind": "mcq",
+   "stem": "How young can a child be for cataract surgery with a lens implant in some centres?",
+   "options": [
+    "As young as 4 years",
+    "Not before age 5",
+    "As young as 4 weeks",
+    "Only after age 1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#0dfaa1",
+   "kind": "mcq",
+   "stem": "How long does paediatric cataract surgery with a lens implant take?",
+   "options": [
+    "5-10 min",
+    "10-15 min",
+    "30-60 min",
+    "2-3 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#ddbadc",
+   "kind": "mcq",
+   "stem": "After paediatric cataract surgery, up to what share of children need more surgery for capsule thickening?",
+   "options": [
+    "Up to 10%",
+    "Up to 90%",
+    "Up to 30%",
+    "Up to 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#ddbadc",
+   "kind": "statement",
+   "stem": "After paediatric cataract surgery, which complication needs lifelong follow-up?",
+   "answer": "Glaucoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6d7f81",
+   "kind": "statement",
+   "stem": "Which mydriatics does the surgeon usually give before paediatric cataract surgery, and at what strength?",
+   "answer": "Phenylephrine 2.5% and cyclopentolate 1%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6d7f81",
+   "kind": "mcq",
+   "stem": "Which underlying condition needs airway planning before paediatric cataract surgery?",
+   "options": [
+    "Retinoblastoma",
+    "Mucopolysaccharidosis",
+    "Sturge-Weber syndrome",
+    "Aniridia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#8dd0bf",
+   "kind": "statement",
+   "stem": "What are the anaesthetic aims in paediatric cataract surgery?",
+   "answer": "Still eye, no rise in IOP, smooth induction and emergence without coughing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6af5d2",
+   "kind": "mcq",
+   "stem": "In paediatric cataract surgery, what is IPPV used to avoid?",
+   "options": [
+    "Hypotension",
+    "Bradycardia",
+    "Hypoglycaemia",
+    "Hypercapnia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#3b737f",
+   "kind": "mcq",
+   "stem": "In paediatric cataract surgery, why is nitrous oxide often avoided?",
+   "options": [
+    "To prevent awareness",
+    "To lower IOP",
+    "To reduce PONV",
+    "To avoid airway irritation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#cea561",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is used in paediatric cataract anaesthesia?",
+   "options": [
+    "1-2.5 mcg/kg/minute",
+    "0.1-0.25 mcg/kg/minute",
+    "0.1-0.25 mg/kg/minute",
+    "10-25 mcg/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#d5ab4f",
+   "kind": "statement",
+   "stem": "Which inspired oxygen level should be avoided in premature neonates having cataract surgery?",
+   "answer": "High FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#a19fac",
+   "kind": "mcq",
+   "stem": "What is the purpose of giving two antiemetics in paediatric cataract surgery?",
+   "options": [
+    "Prevent emergence agitation",
+    "Limit vomiting-related IOP rises",
+    "Reduce oculocardiac reflex",
+    "Prevent suxamethonium myalgia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#a19fac",
+   "kind": "mcq",
+   "stem": "What dexamethasone dose is used as one of two antiemetics in paediatric cataract surgery?",
+   "options": [
+    "1-2 mg/kg",
+    "1-2 mcg/kg",
+    "10-20 mg/kg",
+    "100-200 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#ef4ae0",
+   "kind": "mcq",
+   "stem": "Which opioid gives analgesia and mild sedation in paediatric cataract surgery?",
+   "options": [
+    "Atropine 20 mcg/kg",
+    "Naloxone 1 mcg/kg IV",
+    "Fentanyl 1-2 mcg/kg IV",
+    "Ondansetron 100 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#7b3feb",
+   "kind": "mcq",
+   "stem": "What oral morphine dose is used after paediatric cataract surgery?",
+   "options": [
+    "2-3 mg/kg 4-hourly",
+    "200-300 mcg/kg 4-hourly",
+    "200-300 mcg/kg 12-hourly",
+    "20-30 mcg/kg 4-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#7b3feb",
+   "kind": "mcq",
+   "stem": "What is the IV dose of cyclizine as a rescue antiemetic in paediatric cataract surgery?",
+   "options": [
+    "0.1 mg/kg IV",
+    "10 mg/kg IV",
+    "1 mg/kg oral",
+    "1 mg/kg IV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6c03ed",
+   "kind": "statement",
+   "stem": "For a child with a syndrome such as Pompe disease, what anaesthetic need must be managed?",
+   "answer": "Respiratory support",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#580f1f",
+   "kind": "statement",
+   "stem": "In paediatric glaucoma, how does raised IOP damage the optic nerve?",
+   "answer": "Reduces optic nerve capillary flow, leading to loss of optic nerve tissue and function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6c0ff3",
+   "kind": "mcq",
+   "stem": "In paediatric glaucoma, what percentage of cases are bilateral?",
+   "options": [
+    "25%",
+    "10%",
+    "50%",
+    "75%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6c0ff3",
+   "kind": "mcq",
+   "stem": "How common is congenital glaucoma, measured per births?",
+   "options": [
+    "1:1000 births",
+    "1:5000 births",
+    "1:10000 births",
+    "1:100 births"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#76cd5d",
+   "kind": "mcq",
+   "stem": "In primary congenital glaucoma, which structure fails to develop?",
+   "options": [
+    "Optic nerve capillaries",
+    "Lens zonules",
+    "Trabecular drainage channels",
+    "Corneal endothelium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f93b17",
+   "kind": "mcq",
+   "stem": "In paediatric glaucoma, which syndrome has intraocular angiomas that raise IOP and block the angle?",
+   "options": [
+    "Axenfeld-Rieger syndrome",
+    "Sturge-Weber syndrome",
+    "Aniridia",
+    "Down syndrome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f93b17",
+   "kind": "mcq",
+   "stem": "In aniridia, what percentage of cases are linked with Wilms tumour?",
+   "options": [
+    "2%",
+    "50%",
+    "20%",
+    "75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#fb566e",
+   "kind": "mcq",
+   "stem": "What drug class is acetazolamide in paediatric glaucoma?",
+   "options": [
+    "Beta blocker",
+    "Prostaglandin analogue",
+    "Alpha agonist",
+    "Carbonic anhydrase inhibitor"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#fb566e",
+   "kind": "mcq",
+   "stem": "What is the oral acetazolamide dose in paediatric glaucoma?",
+   "options": [
+    "15-30 mg/kg oral as a single dose",
+    "1.5-3 mg/kg/day oral in 3 or 4 divided doses",
+    "15-30 mg/kg/day oral in 3 or 4 divided doses",
+    "150-300 mg/kg/day oral in 2 divided doses"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#fb566e",
+   "kind": "mcq",
+   "stem": "What occasional metabolic effect can oral acetazolamide cause in paediatric glaucoma?",
+   "options": [
+    "Hypoglycaemia",
+    "Metabolic acidosis",
+    "Bradycardia",
+    "Metabolic alkalosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#159212",
+   "kind": "statement",
+   "stem": "In paediatric glaucoma, what must come before surgery?",
+   "answer": "EUA and IOP measurement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#39c010",
+   "kind": "mcq",
+   "stem": "In paediatric glaucoma, what new channel does trabeculectomy create?",
+   "options": [
+    "Vitreous to suprachoroidal space",
+    "Incision in the optic nerve sheath",
+    "New channel from anterior chamber to sub-Tenon space",
+    "Cut in the ciliary body"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#39c010",
+   "kind": "mcq",
+   "stem": "Which antifibrotic agents may be added in trabeculectomy to limit scarring?",
+   "options": [
+    "Atropine or cyclopentolate",
+    "Mitomycin C or 5-fluorouracil",
+    "Acetazolamide or timolol",
+    "Heparin or tranexamic acid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#35e8d5",
+   "kind": "statement",
+   "stem": "In paediatric glaucoma, why is sedative premedication often needed?",
+   "answer": "Children are often anxious after many anaesthetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#322d09",
+   "kind": "statement",
+   "stem": "What should anaesthesia avoid in paediatric glaucoma surgery?",
+   "answer": "Raised IOP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#91f465",
+   "kind": "mcq",
+   "stem": "Which drug clearly raises IOP and is avoided in paediatric glaucoma?",
+   "options": [
+    "Propofol",
+    "Sevoflurane",
+    "Suxamethonium",
+    "Thiopentone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#344171",
+   "kind": "mcq",
+   "stem": "When should IOP be measured during paediatric glaucoma anaesthesia?",
+   "options": [
+    "Before induction",
+    "After extubation",
+    "After laryngoscopy and intubation",
+    "After induction, before laryngoscopy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#67f007",
+   "kind": "statement",
+   "stem": "In paediatric glaucoma anaesthesia, what ventilation is used to avoid hypercapnia?",
+   "answer": "Intubation and IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#99ff50",
+   "kind": "mcq",
+   "stem": "What is the maximum ondansetron dose in paediatric glaucoma antiemetic use?",
+   "options": [
+    "0.4 mg",
+    "8 mg",
+    "40 mg",
+    "4 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#9433e0",
+   "kind": "statement",
+   "stem": "In paediatric glaucoma, how should the child be extubated?",
+   "answer": "Without coughing or straining",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f9c830",
+   "kind": "mcq",
+   "stem": "How does glaucoma surgery pain compare with most paediatric eye surgery?",
+   "options": [
+    "Less painful",
+    "Painless",
+    "More painful",
+    "Equally painful"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#218185",
+   "kind": "statement",
+   "stem": "What treatment options exist for retinoblastoma?",
+   "answer": "IV, periocular, intravitreal or intra-arterial chemotherapy; radiotherapy; focal therapy; enucleation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#845dcf",
+   "kind": "statement",
+   "stem": "Name the three focal therapies used for retinoblastoma.",
+   "answer": "Cryotherapy, transpupillary thermotherapy, laser",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#3d5334",
+   "kind": "mcq",
+   "stem": "Where is intra-arterial ophthalmic artery chemotherapy for retinoblastoma usually given?",
+   "options": [
+    "Ophthalmic operating theatre",
+    "Cardiac catheter laboratory",
+    "Interventional radiology",
+    "Paediatric intensive care unit"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#0650c5",
+   "kind": "mcq",
+   "stem": "What anaesthetic keeps a child completely still for intra-arterial retinoblastoma chemotherapy?",
+   "options": [
+    "Sedation with spontaneous breathing",
+    "Spinal anaesthesia with opioid",
+    "General anaesthesia with tracheal tube and paralysis",
+    "Local anaesthesia with sedation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#2b98c7",
+   "kind": "statement",
+   "stem": "What sudden respiratory change can occur during intra-arterial retinoblastoma chemotherapy?",
+   "answer": "Sudden severe fall in lung compliance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#79fd8f",
+   "kind": "mcq",
+   "stem": "In intra-arterial retinoblastoma chemotherapy, which adrenaline bolus dose works better than smaller doses?",
+   "options": [
+    "0.05 to 0.1 mcg/kg",
+    "5 to 10 mcg/kg",
+    "0.5 to 1 mcg/kg",
+    "50 to 100 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#79fd8f",
+   "kind": "blank",
+   "stem": "In intra-arterial retinoblastoma chemotherapy, adrenaline is very effective, especially when given ____.",
+   "answer": "early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#03380e",
+   "kind": "statement",
+   "stem": "How common is postoperative nausea and vomiting after intra-arterial retinoblastoma chemotherapy?",
+   "answer": "Very common",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#429e0c",
+   "kind": "mcq",
+   "stem": "In developed countries, which children are most often affected by penetrating eye injury?",
+   "options": [
+    "Girls aged 12-16 years",
+    "Infants under one year",
+    "Boys aged 3-9 years",
+    "Boys aged 12-16 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#ec8912",
+   "kind": "statement",
+   "stem": "What is the usual mechanism of penetrating eye injury in children?",
+   "answer": "Sharp tools poked into the eye by the child, or thrown objects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#fa18ec",
+   "kind": "statement",
+   "stem": "What surgical treatment does a penetrating eye injury in a child need?",
+   "answer": "Wound closure with or without foreign body removal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#74da74",
+   "kind": "mcq",
+   "stem": "Which IV fentanyl dose blunts the IOP rise from laryngoscopy in penetrating eye injury surgery?",
+   "options": [
+    "1-2 mcg/kg",
+    "0.1-0.2 mcg/kg",
+    "10-20 mcg/kg",
+    "5-10 mcg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#74da74",
+   "kind": "mcq",
+   "stem": "Which IV drug at 1.5 mg/kg blunts the IOP rise from laryngoscopy in penetrating eye injury surgery?",
+   "options": [
+    "Propofol",
+    "Ketamine",
+    "Ondansetron",
+    "Lidocaine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6f6117",
+   "kind": "mcq",
+   "stem": "What IV ondansetron dose is given prophylactically in penetrating eye injury surgery in a child?",
+   "options": [
+    "10 mcg/kg",
+    "1 mg/kg",
+    "100 mcg/kg",
+    "500 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#8e057e",
+   "kind": "mcq",
+   "stem": "Which rescue antiemetic is given IV at 1 mg/kg after penetrating eye injury surgery?",
+   "options": [
+    "Cyclizine",
+    "Metoclopramide",
+    "Dexamethasone",
+    "Droperidol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f2cb96",
+   "kind": "mcq",
+   "stem": "What oral paracetamol dose is given after penetrating eye injury surgery in a child?",
+   "options": [
+    "10 mg/kg oral 6-hourly",
+    "30 mg/kg oral 6-hourly",
+    "15 mg/kg oral 4-hourly",
+    "1.5 mg/kg oral 4-hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#f2cb96",
+   "kind": "mcq",
+   "stem": "What oral morphine dose is given after penetrating eye injury surgery in a child?",
+   "options": [
+    "20-30 mcg/kg oral 4-hourly",
+    "2-3 mg/kg oral 4-hourly",
+    "50-100 mcg/kg oral 6-hourly",
+    "200-300 mcg/kg oral 4-hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#b40fc6",
+   "kind": "mcq",
+   "stem": "In paediatric retinal detachment, what share of all cases do children make up?",
+   "options": [
+    "5-10%",
+    "1-2%",
+    "20-25%",
+    "40-50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#cbbbb7",
+   "kind": "blank",
+   "stem": "Surgery for a primary retinal detachment in a child waits until the child is ____.",
+   "answer": "fasted",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#d9319d",
+   "kind": "mcq",
+   "stem": "How long does paediatric retinal detachment surgery usually take?",
+   "options": [
+    "30-60 minutes",
+    "5-6 hours",
+    "2-4 hours",
+    "8-10 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#d9319d",
+   "kind": "statement",
+   "stem": "What ventilation target is aimed for during paediatric retinal detachment surgery?",
+   "answer": "Normocapnia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#6e6082",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is used during paediatric retinal detachment surgery?",
+   "options": [
+    "2.5-5 mcg/kg/min",
+    "0.25-0.5 mcg/kg/min",
+    "0.025-0.05 mcg/kg/min",
+    "1-2 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-ophthalmic-surgery#b31768",
+   "kind": "mcq",
+   "stem": "Which antiemetic given IV at 1 mg/kg is a prophylactic option for paediatric retinal detachment surgery?",
+   "options": [
+    "Metoclopramide",
+    "Prochlorperazine",
+    "Hyoscine",
+    "Cyclizine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

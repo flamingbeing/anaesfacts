@@ -1,0 +1,569 @@
+{
+ "topic": "procedures/pituitary-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/pituitary-surgery#108266",
+   "kind": "statement",
+   "stem": "What approach is usually used for pituitary surgery?",
+   "answer": "Transsphenoidal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#c6c952",
+   "kind": "mcq",
+   "stem": "Which of these is a mass effect of a pituitary tumour?",
+   "options": [
+    "Hypoglycaemia",
+    "Tinnitus",
+    "Hydrocephalus",
+    "Pruritus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#c6c952",
+   "kind": "statement",
+   "stem": "Which mass effects can a pituitary tumour cause?",
+   "answer": "Visual field loss, cavernous sinus involvement, hydrocephalus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#f64b7a",
+   "kind": "blank",
+   "stem": "A rare complication of pituitary tumours is pituitary ____.",
+   "answer": "apoplexy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#12508b",
+   "kind": "mcq",
+   "stem": "Which structure lies laterally to the pituitary fossa?",
+   "options": [
+    "Optic chiasm and third ventricle",
+    "Sphenoid sinus and nasal cavity",
+    "Cavernous sinus with internal carotid artery and CN 3, 4, 5, 6",
+    "Frontal lobe and olfactory tract"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#054d61",
+   "kind": "mcq",
+   "stem": "Which of these is an anterior pituitary hormone?",
+   "options": [
+    "ADH",
+    "GH",
+    "Oxytocin",
+    "Aldosterone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#054d61",
+   "kind": "statement",
+   "stem": "Which hormones does the anterior pituitary secrete?",
+   "answer": "ACTH, GH, TSH, FSH / LH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#30c3f4",
+   "kind": "mcq",
+   "stem": "Which of these is a posterior pituitary hormone?",
+   "options": [
+    "ACTH",
+    "TSH",
+    "Prolactin",
+    "Oxytocin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#30c3f4",
+   "kind": "statement",
+   "stem": "Which hormones does the posterior pituitary secrete?",
+   "answer": "ADH, oxytocin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#932cca",
+   "kind": "mcq",
+   "stem": "What share of intracranial tumours are pituitary tumours?",
+   "options": [
+    "5%",
+    "15%",
+    "30%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#23e1e8",
+   "kind": "mcq",
+   "stem": "Pituitary tumours usually present in which age range?",
+   "options": [
+    "1st–2nd decade",
+    "2nd–3rd decade",
+    "4-6th decade",
+    "7th–9th decade"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#6b947d",
+   "kind": "mcq",
+   "stem": "What size defines a pituitary microadenoma?",
+   "options": [
+    "2–3cm",
+    "< 1cm",
+    "5cm",
+    "> 2cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#6b947d",
+   "kind": "statement",
+   "stem": "How do pituitary macroadenomas usually behave before they present?",
+   "answer": "Often stay silent and present later",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#3ac3dc",
+   "kind": "mcq",
+   "stem": "Which bleeding pattern is typical of transsphenoidal pituitary surgery?",
+   "options": [
+    "Frequent need for cell salvage",
+    "Little blood loss",
+    "Routine blood loss over 2 litres",
+    "Usually no blood loss at all"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#75910f",
+   "kind": "mcq",
+   "stem": "Supine with head-up tilt in transsphenoidal surgery carries which risk?",
+   "options": [
+    "Hypothermia",
+    "Tension pneumothorax",
+    "Malignant hyperthermia",
+    "Venous air embolism (VAE)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#3ed1a3",
+   "kind": "statement",
+   "stem": "Which two tumour features are assessed before pituitary surgery?",
+   "answer": "Micro vs macro; functioning vs non-functioning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#cd8aaf",
+   "kind": "mcq",
+   "stem": "Which finding belongs to the preoperative neurological examination for pituitary surgery?",
+   "options": [
+    "Visual fields",
+    "Renal function",
+    "Liver enzymes",
+    "Thyroid ultrasound"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#cd8aaf",
+   "kind": "statement",
+   "stem": "What should the preoperative neurological examination for pituitary surgery cover?",
+   "answer": "Visual fields, focal deficits, peripheral neuropathy, proximal myopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#dccde3",
+   "kind": "mcq",
+   "stem": "Which specialty assesses the nose before transsphenoidal pituitary surgery?",
+   "options": [
+    "Cardiology",
+    "Nephrology",
+    "ENT",
+    "Dermatology"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#eda25e",
+   "kind": "statement",
+   "stem": "Before pituitary surgery, what should the anaesthetist agree with the surgeon?",
+   "answer": "The surgical approach",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#7e89f2",
+   "kind": "statement",
+   "stem": "Which two tests check adrenal function before pituitary surgery?",
+   "answer": "Synacthen test and 8am cortisol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#c2d915",
+   "kind": "mcq",
+   "stem": "In pituitary surgery, if the Synacthen test and 8am cortisol are normal, what steroid cover is given?",
+   "options": [
+    "Hydrocortisone 50mg Q8H for 48h",
+    "Dexamethasone at induction",
+    "Supraphysiological glucocorticoid for 48h",
+    "No perioperative steroids; check cortisol daily for 1-3 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#cc4a67",
+   "kind": "mcq",
+   "stem": "In pituitary surgery, if the Synacthen test or 8am cortisol is abnormal, what cover is given?",
+   "options": [
+    "No perioperative steroids at all",
+    "Supraphysiological glucocorticoid for 48h",
+    "Dexamethasone at induction only",
+    "Oral prednisolone for seven days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#9fb2de",
+   "kind": "mcq",
+   "stem": "In pituitary steroid cover after abnormal results, what is the day 0 hydrocortisone dose?",
+   "options": [
+    "Hydrocortisone 25mg Q8H",
+    "Hydrocortisone 50mg at 8am",
+    "Hydrocortisone 50mg Q8H",
+    "Hydrocortisone 100mg Q8H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#41c9ed",
+   "kind": "mcq",
+   "stem": "In pituitary steroid cover after abnormal results, what is the day 1 hydrocortisone dose?",
+   "options": [
+    "Hydrocortisone 50mg Q8H",
+    "Hydrocortisone 25mg at 8am",
+    "Hydrocortisone 25mg Q8H",
+    "Hydrocortisone 100mg Q8H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#72280c",
+   "kind": "mcq",
+   "stem": "In pituitary steroid cover after abnormal results, what is the day 2 hydrocortisone dose?",
+   "options": [
+    "Hydrocortisone 25mg Q8H",
+    "Hydrocortisone 50mg at 8am",
+    "Hydrocortisone 25mg at 8am",
+    "Hydrocortisone 50mg Q8H"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#d2b3a3",
+   "kind": "mcq",
+   "stem": "In transsphenoidal surgery with an intact HPA axis, which drug should be avoided?",
+   "options": [
+    "Hydrocortisone",
+    "Fentanyl",
+    "Dexamethasone",
+    "Prednisolone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#0320e6",
+   "kind": "mcq",
+   "stem": "Where is the anaesthetic machine positioned for transsphenoidal pituitary surgery?",
+   "options": [
+    "Beside the left arm",
+    "Up at the head of the bed",
+    "Across the chest",
+    "Moved down towards the feet"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#0320e6",
+   "kind": "mcq",
+   "stem": "What head position is used for transsphenoidal pituitary surgery?",
+   "options": [
+    "Head down, steep Trendelenburg",
+    "Slight head up",
+    "Fully flat, head level",
+    "Lateral tilt to the left"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#8c847c",
+   "kind": "statement",
+   "stem": "Besides blood pressure, what else is monitored in transsphenoidal pituitary surgery?",
+   "answer": "VAE monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#a1db4c",
+   "kind": "mcq",
+   "stem": "Who injects nasal vasoconstrictors during transsphenoidal pituitary surgery?",
+   "options": [
+    "The anaesthetist",
+    "The scrub nurse",
+    "The surgeon",
+    "The recovery nurse"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#4a0272",
+   "kind": "mcq",
+   "stem": "Why avoid nitrous oxide in transsphenoidal pituitary surgery?",
+   "options": [
+    "Bronchospasm",
+    "Malignant hyperthermia",
+    "Pneumocephalus",
+    "Hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#d5dd60",
+   "kind": "mcq",
+   "stem": "Which PaCO2 helps bring the tumour down in transsphenoidal pituitary surgery?",
+   "options": [
+    "Low PaCO2 from hyperventilation",
+    "Severe hypocarbia below 3.5kPa",
+    "Normal to high-normal PaCO2",
+    "Markedly raised PaCO2 above 60mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#5c6e79",
+   "kind": "statement",
+   "stem": "What two variables are controlled for neuroprotection during pituitary surgery?",
+   "answer": "BP and ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#de4fab",
+   "kind": "mcq",
+   "stem": "Which structures carry a bleeding risk during transsphenoidal pituitary surgery?",
+   "options": [
+    "Facial artery and thyroid gland",
+    "Vertebral artery and jugular vein",
+    "Internal carotid artery and cavernous sinus",
+    "Middle meningeal artery and ethmoid sinus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#ed7d00",
+   "kind": "statement",
+   "stem": "Which specialty does the initial FESS-style approach in pituitary surgery?",
+   "answer": "ENT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#ed7d00",
+   "kind": "mcq",
+   "stem": "Why may the thigh be draped in transsphenoidal pituitary surgery?",
+   "options": [
+    "For a fascia graft (dural patch)",
+    "For arterial line placement",
+    "For a femoral central line",
+    "For a donor skin graft"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#2fbe0d",
+   "kind": "mcq",
+   "stem": "Which analgesics are used intraoperatively in pituitary surgery?",
+   "options": [
+    "Ketamine or lidocaine",
+    "Fentanyl or morphine",
+    "Propofol or thiopentone",
+    "Ondansetron or metoclopramide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#b22112",
+   "kind": "statement",
+   "stem": "After transsphenoidal surgery, what is done before extubation?",
+   "answer": "Remove throat pack and suction the oropharynx",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#10163e",
+   "kind": "statement",
+   "stem": "What kind of emergence is aimed for after transsphenoidal surgery?",
+   "answer": "Smooth, rapid wake-up to assess GCS early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#9a15e4",
+   "kind": "mcq",
+   "stem": "Why blunt the hypertensive response at emergence after pituitary surgery?",
+   "options": [
+    "Hypothermia",
+    "Bronchospasm",
+    "Bleeding",
+    "Hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#ef905a",
+   "kind": "mcq",
+   "stem": "What should be avoided at emergence to prevent a CSF leak after pituitary surgery?",
+   "options": [
+    "Hypothermia",
+    "ICP surges",
+    "Hypoglycaemia",
+    "Bronchospasm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#ab00a5",
+   "kind": "statement",
+   "stem": "What postoperative analgesia is used after pituitary surgery?",
+   "answer": "Paracetamol, codeine phosphate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#abfc93",
+   "kind": "statement",
+   "stem": "After pituitary surgery, what is the rule for the nose?",
+   "answer": "Nothing through the nose, including NIV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#7cacbd",
+   "kind": "mcq",
+   "stem": "How is diabetes insipidus treated after pituitary surgery?",
+   "options": [
+    "Furosemide",
+    "Desmopressin",
+    "Mannitol",
+    "Spironolactone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#7cacbd",
+   "kind": "mcq",
+   "stem": "After pituitary surgery, diabetes insipidus accounts for what share of neuronal dysfunction?",
+   "options": [
+    "< 20%",
+    "> 50%",
+    "> 80%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#ed8684",
+   "kind": "statement",
+   "stem": "Which cranial nerves run in the cavernous sinus and can be palsied after pituitary surgery?",
+   "answer": "CN 3, 4, 5, 6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pituitary-surgery#ed8684",
+   "kind": "mcq",
+   "stem": "Which complication after pituitary surgery involves the cavernous sinus?",
+   "options": [
+    "Pneumothorax",
+    "Hypokalaemia",
+    "Cranial nerve palsy",
+    "Hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "topic": "regional/central-neuraxial-blocks",
+ "questions": [
+  {
+   "fact_id": "regional/central-neuraxial-blocks#075bd4",
+   "kind": "statement",
+   "stem": "In central neuraxial blocks, where is local anaesthetic placed?",
+   "answer": "Around central nervous system nerve roots.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/central-neuraxial-blocks#fc0ddb",
+   "kind": "mcq",
+   "stem": "Which neuraxial technique injects local anaesthetic into the subarachnoid space?",
+   "options": [
+    "Epidural",
+    "Spinal",
+    "Caudal",
+    "Paravertebral"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/central-neuraxial-blocks#1c7bd5",
+   "kind": "statement",
+   "stem": "In an epidural block, where does the drug diffuse after injection into the epidural space?",
+   "answer": "Into the subarachnoid space.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/central-neuraxial-blocks#adc471",
+   "kind": "mcq",
+   "stem": "Which of these is a variation of central neuraxial block?",
+   "options": [
+    "Peripheral nerve block",
+    "Intravenous regional anaesthesia",
+    "Local wound infiltration",
+    "Combined spinal-epidural (CSE)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/central-neuraxial-blocks#52c044",
+   "kind": "statement",
+   "stem": "Name three common complications of central neuraxial block.",
+   "answer": "Nausea, shivering, itch.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/central-neuraxial-blocks#889ecb",
+   "kind": "mcq",
+   "stem": "Which uncommon complication of central neuraxial block is a headache after dural puncture?",
+   "options": [
+    "Post-dural puncture headache (PDPH)",
+    "Nausea",
+    "Shivering",
+    "Itch"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/central-neuraxial-blocks#7c2ef4",
+   "kind": "mcq",
+   "stem": "Which is a rare serious complication of central neuraxial block?",
+   "options": [
+    "Nausea",
+    "Shivering",
+    "Haematoma",
+    "Itch"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "topic": "procedures/volatile-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/volatile-anaesthesia#f19536",
+   "kind": "blank",
+   "stem": "Volatile anaesthesia is usually the ____ technique.",
+   "answer": "default",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#11d07d",
+   "kind": "mcq",
+   "stem": "What may end-tidal volatile monitoring do for intraoperative awareness?",
+   "options": [
+    "Lowers the risk of awareness",
+    "Raises the risk of awareness",
+    "Has no effect on awareness",
+    "Prevents all intraoperative hypotension"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#8750cc",
+   "kind": "mcq",
+   "stem": "Which effect of volatile agents is useful in asthma?",
+   "options": [
+    "Bronchoconstriction",
+    "Increased airway secretions",
+    "Bronchodilation",
+    "Airway mucus thickening"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#bfadc0",
+   "kind": "mcq",
+   "stem": "Through what mechanism may volatile agents protect the heart in cardiac surgery?",
+   "options": [
+    "Coronary steal",
+    "Ischaemic preconditioning",
+    "Beta-1 blockade",
+    "Afterload increase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#152972",
+   "kind": "statement",
+   "stem": "What did the 2014 AHA statement find for volatile agents in non-cardiac surgery?",
+   "answer": "No reduction in myocardial ischaemia or MI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#f38fa6",
+   "kind": "mcq",
+   "stem": "What practical advantage does inhalational induction with volatiles give children?",
+   "options": [
+    "Requires a large-bore cannula",
+    "No IV access needed",
+    "Needs a central venous line",
+    "Avoids airway instrumentation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#6e6a08",
+   "kind": "mcq",
+   "stem": "How do volatile agents affect hypoxic pulmonary vasoconstriction?",
+   "options": [
+    "Enhance it at high flows",
+    "No effect on it",
+    "Reverse it in asthma",
+    "Inhibit it"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#d3001b",
+   "kind": "mcq",
+   "stem": "How do volatile agents affect the link between cerebral metabolic rate and cerebral blood flow?",
+   "options": [
+    "Uncouple them",
+    "Couple them more tightly",
+    "Abolish cerebral blood flow",
+    "Raise metabolic rate only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#0ee7e6",
+   "kind": "blank",
+   "stem": "Volatile agents are delivered by a ____.",
+   "answer": "vaporiser",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#6cdcb0",
+   "kind": "mcq",
+   "stem": "What is the status of any definition of low-flow anaesthesia?",
+   "options": [
+    "Fixed at exactly 1 L/min by convention",
+    "No single agreed definition exists",
+    "Set by a single international standard",
+    "Defined only by agent consumption rate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#cc4e2d",
+   "kind": "mcq",
+   "stem": "In low-flow anaesthesia, how does fresh gas flow compare with minute ventilation?",
+   "options": [
+    "Above minute ventilation",
+    "Equal to tidal volume",
+    "Double minute ventilation",
+    "Below minute ventilation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#146e2e",
+   "kind": "mcq",
+   "stem": "One definition of low-flow anaesthesia uses what rebreathing fraction?",
+   "options": [
+    "Below 20%",
+    "Exactly 25%",
+    "Above 50%",
+    "Between 10% and 15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#b65a08",
+   "kind": "mcq",
+   "stem": "In low-flow anaesthesia, what fresh gas flow is called metabolic flow?",
+   "options": [
+    "100 mL/min",
+    "250 mL/min",
+    "750 mL/min",
+    "2 L/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#c54d13",
+   "kind": "mcq",
+   "stem": "What is the fresh gas flow range for minimal flow anaesthesia?",
+   "options": [
+    "250-500 mL/min",
+    "500-1000 mL/min",
+    "1-2 L/min",
+    "2-4 L/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#0da3c9",
+   "kind": "mcq",
+   "stem": "What is the fresh gas flow range for low flow anaesthesia?",
+   "options": [
+    "250-500 mL/min",
+    "1-2 L/min",
+    "500-1000 mL/min",
+    "2-4 L/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#f96f8e",
+   "kind": "mcq",
+   "stem": "What is the fresh gas flow range for medium flow anaesthesia?",
+   "options": [
+    "1-2 L/min",
+    "500-1000 mL/min",
+    "2-4 L/min",
+    "4-6 L/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#0ffc42",
+   "kind": "mcq",
+   "stem": "What is the fresh gas flow range for high flow anaesthesia?",
+   "options": [
+    "500-1000 mL/min",
+    "1-2 L/min",
+    "4-6 L/min",
+    "2-4 L/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#9468c2",
+   "kind": "mcq",
+   "stem": "What is the fresh gas flow for very high flow anaesthesia?",
+   "options": [
+    "1-2 L/min",
+    "2-4 L/min",
+    "Above 4 L/min",
+    "500-1000 mL/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#5aff57",
+   "kind": "mcq",
+   "stem": "What effect does low-flow anaesthesia have on the humidity of inspired gas?",
+   "options": [
+    "Drier inspired gas",
+    "Better humidity",
+    "No change in humidity",
+    "Lower humidity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#4d3a16",
+   "kind": "mcq",
+   "stem": "By how much can low-flow anaesthesia raise inspired gas temperature?",
+   "options": [
+    "Up to 2 degrees C",
+    "Up to 6 degrees C",
+    "Up to 12 degrees C",
+    "Up to 10 degrees C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/volatile-anaesthesia#f24a96",
+   "kind": "statement",
+   "stem": "In low-flow anaesthesia, what happens to gas and volatile agent use?",
+   "answer": "Less use of gas and volatile agent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

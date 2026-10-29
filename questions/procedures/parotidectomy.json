@@ -1,0 +1,107 @@
+{
+ "topic": "procedures/parotidectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/parotidectomy#ca05b5",
+   "kind": "mcq",
+   "stem": "During parotid excision, which nerve is preserved?",
+   "options": [
+    "Hypoglossal nerve",
+    "Facial nerve",
+    "Vagus nerve",
+    "Lingual nerve"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parotidectomy#fe68de",
+   "kind": "mcq",
+   "stem": "Which type of parotidectomy sacrifices the facial nerve?",
+   "options": [
+    "Superficial",
+    "Total",
+    "Radical",
+    "Bilateral"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parotidectomy#1fa5db",
+   "kind": "blank",
+   "stem": "Before parotidectomy, a careful ____ assessment is needed.",
+   "answer": "airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parotidectomy#9497c5",
+   "kind": "blank",
+   "stem": "Before parotidectomy, check the patient's ____.",
+   "answer": "mouth opening",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parotidectomy#16a9c8",
+   "kind": "mcq",
+   "stem": "How is the head positioned for parotidectomy?",
+   "options": [
+    "Flexed forward on the chest",
+    "Fully flexed in a sitting position",
+    "Neck fully flexed, head level",
+    "Tilted and extended"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parotidectomy#5f3d16",
+   "kind": "blank",
+   "stem": "For parotidectomy, use a north-facing RAE tube or reinforced ____.",
+   "answer": "LMA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parotidectomy#07afb2",
+   "kind": "mcq",
+   "stem": "What must be avoided during parotid dissection when facial nerve EMG monitoring is used?",
+   "options": [
+    "Deep sedation with propofol",
+    "Hyperventilation",
+    "Neuromuscular block",
+    "Arterial line insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parotidectomy#f22282",
+   "kind": "statement",
+   "stem": "Why are hypotension avoidance and good IV access important in parotidectomy?",
+   "answer": "The surgery can bleed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/parotidectomy#5f67af",
+   "kind": "mcq",
+   "stem": "What should be watched for after parotidectomy?",
+   "options": [
+    "Rebound hypotension",
+    "Rebound bradycardia",
+    "Rebound hypoglycaemia",
+    "Rebound hypertension"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

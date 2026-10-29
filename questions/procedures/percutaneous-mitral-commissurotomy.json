@@ -1,0 +1,139 @@
+{
+ "topic": "procedures/percutaneous-mitral-commissurotomy",
+ "questions": [
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#f97ee4",
+   "kind": "mcq",
+   "stem": "Which imaging is used for measurements during percutaneous mitral commissurotomy?",
+   "options": [
+    "TEE",
+    "Coronary angiography",
+    "Chest X-ray",
+    "Transthoracic echo only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#6e60f8",
+   "kind": "mcq",
+   "stem": "Where is the access puncture made for percutaneous mitral commissurotomy?",
+   "options": [
+    "Internal jugular vein",
+    "Radial artery",
+    "Groin",
+    "Subclavian vein"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#7382d0",
+   "kind": "statement",
+   "stem": "During PTMC, which structure is punctured once the wire is passed up?",
+   "answer": "Interatrial septum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#f15003",
+   "kind": "mcq",
+   "stem": "In PTMC, after septal puncture, the catheter is passed through which valve?",
+   "options": [
+    "The aortic valve",
+    "The mitral valve",
+    "The tricuspid valve",
+    "The pulmonary valve"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#602f03",
+   "kind": "mcq",
+   "stem": "In PTMC, which balloon is inflated first?",
+   "options": [
+    "Proximal balloon",
+    "Central balloon",
+    "Distal balloon",
+    "Both at the same time"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#a17f58",
+   "kind": "mcq",
+   "stem": "Why is an arterial line placed for PTMC?",
+   "options": [
+    "Continuous cardiac output",
+    "Heparin and ACT sampling",
+    "Blood gas for ventilation",
+    "Pressure for TEE probe"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#a17f58",
+   "kind": "mcq",
+   "stem": "For PTMC with poor veins, which alternative access is considered?",
+   "options": [
+    "Radial artery",
+    "Femoral artery",
+    "External jugular access",
+    "Brachial artery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#36a963",
+   "kind": "mcq",
+   "stem": "Why is general anaesthesia usually needed for PTMC?",
+   "options": [
+    "For ventilation only",
+    "For TEE",
+    "To control heart rate",
+    "For neuromuscular block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#cb6de0",
+   "kind": "mcq",
+   "stem": "What happens briefly during balloon inflation in PTMC?",
+   "options": [
+    "Sustained hypertension",
+    "Very brief loss of cardiac output",
+    "Immediate renal failure",
+    "Persistent heart block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/percutaneous-mitral-commissurotomy#35e780",
+   "kind": "mcq",
+   "stem": "Why keep the patient dry during PTMC?",
+   "options": [
+    "To maintain renal perfusion pressure",
+    "To prevent flash pulmonary oedema",
+    "To avoid hyperkalaemia",
+    "To reduce heart rate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
