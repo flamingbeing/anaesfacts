@@ -107,6 +107,7 @@ New hepatocellular dysfunction with coagulopathy and encephalopathy in a patient
 
 <!-- related:start (generated) -->
 ## Related
+- [Liver Transplantation](../procedures/liver-transplantation.md)
 - [Paracetamol](../drugs/paracetamol.md)
 - [Drugs in liver impairment](../drugs/drugs-in-liver-impairment.md)
 <!-- related:end -->

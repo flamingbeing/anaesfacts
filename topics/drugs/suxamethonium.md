@@ -186,8 +186,11 @@ The only depolarising neuromuscular blocker in clinical use: fastest onset and s
 - [Burns](../comorbidities/burns.md)
 - [GERD and Hiatus Hernia](../comorbidities/gerd-and-hiatus-hernia.md)
 - [Guillain-Barré Syndrome](../comorbidities/guillain-barre-syndrome.md)
+- [Multiple sclerosis](../comorbidities/multiple-sclerosis.md)
+- [Neuromuscular diseases](../comorbidities/neuromuscular-diseases.md)
 - [Neuromuscular blockers](neuromuscular-blockers.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
 - [Electroconvulsive Therapy](../procedures/electroconvulsive-therapy.md)
+- [Open globe and penetrating eye injury](../procedures/open-globe-injury.md)
 <!-- related:end -->

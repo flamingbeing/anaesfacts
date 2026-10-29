@@ -57,5 +57,6 @@ Anaesthesia follows obesity principles, plus bougie handling, arm positioning an
 
 <!-- related:start (generated) -->
 ## Related
+- [Obesity](../comorbidities/obesity.md)
 - [Laparoscopic Surgery](laparoscopic-surgery.md)
 <!-- related:end -->

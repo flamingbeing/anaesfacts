@@ -106,6 +106,7 @@ Proceed with AF if rate is under 110, asymptomatic and no heart failure; continu
 <!-- related:start (generated) -->
 ## Related
 - [Amiodarone](../drugs/amiodarone.md)
+- [Mitral Stenosis](mitral-stenosis.md)
 - [Digoxin](../drugs/digoxin.md)
 - [Flecainide](../drugs/flecainide.md)
 - [Magnesium sulfate and hypomagnesaemia](../drugs/magnesium-sulfate.md)

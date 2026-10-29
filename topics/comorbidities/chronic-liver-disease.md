@@ -229,5 +229,7 @@ Multi-system disease: grade severity (Child-Pugh, MELD), protect hepatic blood f
 ## Related
 - [Coagulopathy](coagulopathy.md)
 - [Alcoholism](alcoholism.md)
+- [Liver resection](../procedures/liver-resection.md)
 - [Drugs in liver impairment](../drugs/drugs-in-liver-impairment.md)
+- [Liver Transplantation](../procedures/liver-transplantation.md)
 <!-- related:end -->

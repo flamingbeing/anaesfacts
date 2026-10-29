@@ -133,4 +133,5 @@ Abdominoplasty, liposuction, facelift and prominent ear correction: watch local 
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Lidocaine](../drugs/lidocaine.md)
 - [Breast Surgery](breast-surgery.md)
+- [Obesity](../comorbidities/obesity.md)
 <!-- related:end -->

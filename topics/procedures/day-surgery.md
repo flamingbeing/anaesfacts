@@ -258,6 +258,7 @@ Choose patients well, use short-acting drugs, prevent pain and PONV aggressively
 
 <!-- related:start (generated) -->
 ## Related
+- [Obstructive Sleep Apnoea](../comorbidities/obstructive-sleep-apnoea.md)
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](total-intravenous-anaesthesia.md)
 - [Drug-Induced Sleep Endoscopy (DISE)](drug-induced-sleep-endoscopy.md)
 - [Hernia Repair](hernia-repair.md)

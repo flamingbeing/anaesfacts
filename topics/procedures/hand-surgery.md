@@ -84,5 +84,6 @@ Mostly day cases suited to local or regional anaesthesia; the tourniquet often d
 ## Related
 - [Wrist Block](../regional/wrist-block.md)
 - [Free Flap Surgery](free-flap-surgery.md)
+- [Hand Replantation and Upper Limb Revascularisation](hand-replantation.md)
 - [Forearm and Elbow Level Blocks](../regional/forearm-blocks.md)
 <!-- related:end -->

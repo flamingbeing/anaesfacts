@@ -65,5 +65,6 @@ Rare syndrome of growth hormone (GH) excess from the anterior pituitary; key con
 
 <!-- related:start (generated) -->
 ## Related
+- [Obstructive Sleep Apnoea](obstructive-sleep-apnoea.md)
 - [Diabetes Mellitus](diabetes-mellitus.md)
 <!-- related:end -->

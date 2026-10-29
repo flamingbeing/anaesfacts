@@ -71,6 +71,7 @@ Pure opioid antagonist, titrated to restore adequate breathing; short acting, so
 - [Fentanyl](fentanyl.md)
 - [Codeine](codeine.md)
 - [Alfentanil](alfentanil.md)
+- [Opioid-Dependent Patients](../comorbidities/opioid-dependence.md)
 - [Opioids](opioids.md)
 - [Oxycodone](oxycodone.md)
 - [Tramadol](tramadol.md)

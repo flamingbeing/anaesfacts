@@ -139,6 +139,7 @@ Frail elderly patients with high mortality: operate early, optimise only what ca
 - [Hip Surgery](hip-surgery.md)
 - [Anaesthesia for the Elderly and Frailty](../other/elderly-and-frailty.md)
 - [Fascia Iliaca Block](../regional/fascia-iliaca-block.md)
+- [Bone Cement Implantation Syndrome](../crises/bone-cement-implantation-syndrome.md)
 - [Fat Embolism Syndrome](../crises/fat-embolism-syndrome.md)
 - [Limb Fractures](limb-fractures.md)
 - [Femoral Nerve Block](../regional/femoral-nerve-block.md)

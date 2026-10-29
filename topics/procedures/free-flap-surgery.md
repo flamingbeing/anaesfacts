@@ -247,6 +247,7 @@ Keep the flap perfused: a warm, well-filled, vasodilated, pain-free patient with
 - [Remifentanil](../drugs/remifentanil.md)
 - [Breast reduction and augmentation](breast-reduction-and-augmentation.md)
 - [Duration of Surgery (Short and Long Cases)](duration-of-surgery.md)
+- [Hand Replantation and Upper Limb Revascularisation](hand-replantation.md)
 - [Hand and Forearm Surgery](hand-surgery.md)
 - [Head and Neck Cancer Surgery](head-and-neck-cancer-surgery.md)
 <!-- related:end -->

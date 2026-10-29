@@ -181,10 +181,12 @@ NMDA receptor antagonist giving dissociative anaesthesia and strong analgesia, w
 - [Burns](../comorbidities/burns.md)
 - [Cardiac Tamponade](../comorbidities/cardiac-tamponade.md)
 - [Intellectual Disability and Autism](../comorbidities/intellectual-disability-and-autism.md)
+- [Opioid-Dependent Patients](../comorbidities/opioid-dependence.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
 - [Gabapentinoids](gabapentinoids.md)
 - [Induction agents](induction-agents.md)
 - [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
+- [Effect of Anaesthetic Agents on ICP, CBF and CMR](../physiology/anaesthetic-agents-icp-cbf-cmr.md)
 - [Mechanisms of general anaesthetic action](../physiology/mechanisms-of-general-anaesthetic-action.md)
 - [Lower Limb Arthroscopy](../procedures/knee-arthroscopy.md)
 <!-- related:end -->
