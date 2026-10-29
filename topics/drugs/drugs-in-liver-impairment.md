@@ -120,6 +120,7 @@ How cirrhosis and liver failure change drug handling, and which anaesthetic, ana
 
 <!-- related:start (generated) -->
 ## Related
+- [Chronic Liver Disease and Cirrhosis](../comorbidities/chronic-liver-disease.md)
 - [Acute Liver Failure](../comorbidities/acute-liver-failure.md)
 - [Drugs in renal impairment](drugs-in-renal-impairment.md)
 - [Paracetamol](paracetamol.md)

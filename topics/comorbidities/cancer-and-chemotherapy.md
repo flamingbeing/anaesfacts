@@ -140,4 +140,5 @@ Think of the 4 Ms in cancer patients (mass, metastases, metabolic, medications) 
 - [Cytoreductive surgery and HIPEC](../procedures/crs-hipec.md)
 - [Anterior Mediastinal Mass](anterior-mediastinal-mass.md)
 - [Breast Surgery](../procedures/breast-surgery.md)
+- [Oesophagectomy](../procedures/oesophagectomy.md)
 <!-- related:end -->

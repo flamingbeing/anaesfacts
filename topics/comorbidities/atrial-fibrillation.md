@@ -110,4 +110,5 @@ Proceed with AF if rate is under 110, asymptomatic and no heart failure; continu
 - [Flecainide](../drugs/flecainide.md)
 - [Magnesium sulfate and hypomagnesaemia](../drugs/magnesium-sulfate.md)
 - [Procainamide](../drugs/procainamide.md)
+- [Direct Current Cardioversion](../procedures/cardioversion.md)
 <!-- related:end -->

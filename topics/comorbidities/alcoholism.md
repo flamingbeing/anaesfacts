@@ -38,3 +38,9 @@ Acute intoxication lowers anaesthetic requirements and raises aspiration risk; c
   - A: High aspiration risk
 - Q: What postoperative care should be planned for withdrawal risk?
   - A: High dependency care because of the risk of delirium tremens
+
+<!-- related:start (generated) -->
+## Related
+- [Cardiomyopathy (HOCM, DCM, Restrictive)](cardiomyopathy.md)
+- [Chronic Liver Disease and Cirrhosis](chronic-liver-disease.md)
+<!-- related:end -->

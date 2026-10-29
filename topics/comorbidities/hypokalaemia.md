@@ -131,4 +131,5 @@ Serum K below 3.5 mEq/L; replace orally if mild, IV if symptomatic or below 3.0,
 <!-- related:start (generated) -->
 ## Related
 - [Digoxin](../drugs/digoxin.md)
+- [Conn's Syndrome](conns-syndrome.md)
 <!-- related:end -->

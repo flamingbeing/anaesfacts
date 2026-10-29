@@ -62,3 +62,8 @@ Rare syndrome of growth hormone (GH) excess from the anterior pituitary; key con
   - A: Ulnar at the elbow, median at the wrist, common peroneal at the fibular head.
 - Q: Main side effect of bromocriptine to watch for?
   - A: Severe postural hypotension.
+
+<!-- related:start (generated) -->
+## Related
+- [Diabetes Mellitus](diabetes-mellitus.md)
+<!-- related:end -->

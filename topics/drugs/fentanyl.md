@@ -104,6 +104,7 @@ Synthetic phenylpiperidine opioid, a highly lipid-soluble mu agonist about 100 t
 - [Remifentanil](remifentanil.md)
 - [Alfentanil](alfentanil.md)
 - [Pethidine](pethidine.md)
+- [Chronic Kidney Disease and Dialysis](../comorbidities/chronic-kidney-disease.md)
 - [Naloxone](naloxone.md)
 - [Opioid prescribing and conversion](opioid-conversion.md)
 - [Opioids](opioids.md)

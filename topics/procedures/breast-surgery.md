@@ -103,5 +103,6 @@ Sided surgery in anxious patients with high PONV risk; protect the operative arm
 <!-- related:start (generated) -->
 ## Related
 - [Cancer and chemotherapy](../comorbidities/cancer-and-chemotherapy.md)
+- [Cosmetic Surgery](cosmetic-surgery.md)
 - [PECS and Serratus Anterior Plane Blocks](../regional/pecs-and-serratus-anterior-plane-blocks.md)
 <!-- related:end -->

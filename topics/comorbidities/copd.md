@@ -304,4 +304,5 @@ Chronic obstructive lung disease: optimise first, avoid bronchospasm and air tra
 - [Asthma](asthma.md)
 - [Interscalene Block](../regional/interscalene-block.md)
 - [Theophylline and Aminophylline](../drugs/theophylline-and-aminophylline.md)
+- [Bullectomy and Emphysema Surgery](../procedures/bullectomy.md)
 <!-- related:end -->

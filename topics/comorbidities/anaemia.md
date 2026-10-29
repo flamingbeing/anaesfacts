@@ -172,6 +172,7 @@ Preoperative anaemia: define it, find the cause, treat before elective surgery (
 
 <!-- related:start (generated) -->
 ## Related
+- [Chronic Kidney Disease and Dialysis](chronic-kidney-disease.md)
 - [Cancer and chemotherapy](cancer-and-chemotherapy.md)
 - [Red cell transfusion](../drugs/red-cell-transfusion.md)
 <!-- related:end -->

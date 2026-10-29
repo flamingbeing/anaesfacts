@@ -269,5 +269,6 @@ Planning for and managing surgical blood loss: blood volume and allowable loss, 
 ## Related
 - [Intraoperative fluid management](intraoperative-fluid-management.md)
 - [Red cell transfusion](../drugs/red-cell-transfusion.md)
+- [Colorectal Resection](colorectal-resection.md)
 - [General Anaesthesia](general-anaesthesia.md)
 <!-- related:end -->

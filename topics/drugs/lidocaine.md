@@ -135,5 +135,6 @@ Achiral amide local anaesthetic (lignocaine, Xylocaine) that is also a class Ib 
 - [Procainamide](procainamide.md)
 - [Ropivacaine](ropivacaine.md)
 - [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
+- [Cosmetic Surgery](../procedures/cosmetic-surgery.md)
 - [Bier Block (Intravenous Regional Anaesthesia)](../regional/bier-block.md)
 <!-- related:end -->

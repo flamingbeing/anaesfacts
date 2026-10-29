@@ -33,3 +33,8 @@ Main issues: consent, cooperation at induction and emergence, and the risk of po
   - A: May not be extubatable
 - Q: Approach to induction and emergence in an uncooperative confused adult?
   - A: Manage as for a child
+
+<!-- related:start (generated) -->
+## Related
+- [Anaesthesia for the Elderly and Frailty](../other/elderly-and-frailty.md)
+<!-- related:end -->

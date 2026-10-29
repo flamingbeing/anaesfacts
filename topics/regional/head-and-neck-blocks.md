@@ -84,5 +84,6 @@ Trigeminal anatomy, complications specific to head and neck blocks, trigeminal g
 ## Related
 - [Cervical Plexus Block](cervical-plexus-block.md)
 - [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
+- [Craniotomy](../procedures/craniotomy.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 <!-- related:end -->
