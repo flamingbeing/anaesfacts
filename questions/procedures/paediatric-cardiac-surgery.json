@@ -1,0 +1,2103 @@
+{
+ "topic": "procedures/paediatric-cardiac-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#155a93",
+   "kind": "mcq",
+   "stem": "In a shunt lesion, which pressure effect should anaesthesia avoid?",
+   "options": [
+    "Lowering pulmonary pressures",
+    "Raising pulmonary pressures",
+    "Lowering systemic pressures",
+    "Raising systemic pressures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#41f7ee",
+   "kind": "statement",
+   "stem": "In paediatric cardiac anaesthesia, which investigation should be reviewed?",
+   "answer": "Echo (TTE)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f21734",
+   "kind": "statement",
+   "stem": "In congenital heart disease, what is given before dental procedures where indicated?",
+   "answer": "Antibiotic prophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#e1c31d",
+   "kind": "mcq",
+   "stem": "What is the incidence of congenital heart disease in live births?",
+   "options": [
+    "1-2:1000",
+    "5-10:1000",
+    "20-30:1000",
+    "50-60:1000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#1ab9b8",
+   "kind": "mcq",
+   "stem": "What share of children with congenital heart disease survive the first year?",
+   "options": [
+    "Under 50%",
+    "More than 80%",
+    "About 30%",
+    "More than 95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#1ab9b8",
+   "kind": "mcq",
+   "stem": "About what share of first-year survivors with congenital heart disease reach adulthood?",
+   "options": [
+    "About 50%",
+    "About 80%",
+    "About 20%",
+    "About 95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#995654",
+   "kind": "mcq",
+   "stem": "What share of congenital heart surgery is performed in children under one year?",
+   "options": [
+    "Under a fifth",
+    "About a third",
+    "Over half",
+    "Nearly all"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#feaace",
+   "kind": "statement",
+   "stem": "How is congenital heart disease classified anatomically?",
+   "answer": "Segmental, sequential look at each atrium, ventricle, great artery and vein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a4c567",
+   "kind": "statement",
+   "stem": "Which physiological features group congenital heart lesions for anaesthesia?",
+   "answer": "Shunting, oxygenation, pulmonary blood flow, and volume or pressure loading",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#de9c67",
+   "kind": "statement",
+   "stem": "In congenital heart disease, what should be traced for each patient before predicting drug, ventilation and fluid effects?",
+   "answer": "Blood flow path, shunts, chamber and vessel pressures, and effects of SVR and PVR changes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#161a73",
+   "kind": "mcq",
+   "stem": "What is the main effect of a left to right shunt?",
+   "options": [
+    "Cyanosis from deoxygenated systemic blood",
+    "Increased pulmonary blood flow and volume overload",
+    "Pure pressure overload with no flow change",
+    "Reduced pulmonary blood flow and cyanosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#4f1d10",
+   "kind": "statement",
+   "stem": "What does a right to left shunt do to the systemic circulation?",
+   "answer": "Lets deoxygenated blood in, causing cyanosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#93aeed",
+   "kind": "statement",
+   "stem": "What features do mixed or complex congenital heart lesions have?",
+   "answer": "Cyanosis with variable volume and pressure overload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0a0a92",
+   "kind": "mcq",
+   "stem": "Which type of loading do obstructive congenital heart lesions cause?",
+   "options": [
+    "Volume overload",
+    "Pressure overload",
+    "Shunt-only cyanosis",
+    "Regurgitant volume loading"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#4a0520",
+   "kind": "mcq",
+   "stem": "Which of these congenital heart lesions is acyanotic?",
+   "options": [
+    "Tetralogy of Fallot",
+    "Transposition of the great arteries",
+    "Patent ductus arteriosus",
+    "Truncus arteriosus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#016473",
+   "kind": "mcq",
+   "stem": "Which of these is one of the cyanotic 'Five Ts' lesions?",
+   "options": [
+    "Coarctation of the aorta",
+    "Atrial septal defect",
+    "Truncus arteriosus",
+    "Pulmonary stenosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#73a1a2",
+   "kind": "mcq",
+   "stem": "How long does the transitional circulation last after birth?",
+   "options": [
+    "Only the first few hours",
+    "First few days to weeks of life",
+    "The first two years",
+    "Beyond the first year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#e3cb8f",
+   "kind": "statement",
+   "stem": "In the transitional circulation, the pulmonary vasculature is very reactive; what may reopen?",
+   "answer": "The duct",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#cd7547",
+   "kind": "statement",
+   "stem": "In the transitional circulation, which four factors make the pulmonary vasculature very sensitive?",
+   "answer": "Hypoxia, hypercarbia, acidosis and prostaglandins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#4e53ca",
+   "kind": "statement",
+   "stem": "What can happen to the transitional circulation after birth?",
+   "answer": "Shunting or reversion to fetal circulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f2fe42",
+   "kind": "statement",
+   "stem": "In a balanced circulation, how are systemic and pulmonary circulations arranged?",
+   "answer": "Connected and working in parallel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#505546",
+   "kind": "mcq",
+   "stem": "In a normal heart, what is the Qp:Qs ratio?",
+   "options": [
+    "2",
+    "1",
+    "3",
+    "0.5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#1fa41b",
+   "kind": "mcq",
+   "stem": "Which of these is a created connection in balanced circulation?",
+   "options": [
+    "Ventricular septal defect",
+    "Atrial septal defect",
+    "Modified BT shunt",
+    "Aortic valve stenosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#57a003",
+   "kind": "statement",
+   "stem": "What do duct-dependent lesions need until surgery?",
+   "answer": "A patent ductus supplying the pulmonary or systemic circulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0d1f69",
+   "kind": "mcq",
+   "stem": "How does duct-dependent systemic circulation usually present?",
+   "options": [
+    "Severe hypertension",
+    "Isolated heart murmur",
+    "Fever and tachycardia",
+    "Collapse or cardiac failure"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#71c950",
+   "kind": "mcq",
+   "stem": "How does duct-dependent pulmonary circulation usually present?",
+   "options": [
+    "Worsening cyanosis that does not respond to more oxygen",
+    "Collapse or cardiac failure",
+    "Fever and tachycardia",
+    "Severe hypertension"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#4fe4d5",
+   "kind": "statement",
+   "stem": "To keep the duct open, which inspired oxygen level should be avoided?",
+   "answer": "High FiO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#53765c",
+   "kind": "mcq",
+   "stem": "What is the usual alprostadil (PGE1) infusion range to keep the duct open?",
+   "options": [
+    "0.5-5 nanograms/kg/min",
+    "5-50 micrograms/kg/min",
+    "5-50 nanograms/kg/min",
+    "50-500 nanograms/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#03e589",
+   "kind": "statement",
+   "stem": "Which anaesthetic physiology group includes cardiac failure and duct-dependent systemic circulation?",
+   "answer": "Increased pulmonary blood flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#91ac2b",
+   "kind": "mcq",
+   "stem": "In an atrial septal defect, which chambers are volume overloaded?",
+   "options": [
+    "Left atrium and left ventricle",
+    "Left ventricle only",
+    "Right atrium and right ventricle",
+    "Aorta only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#d98c3a",
+   "kind": "blank",
+   "stem": "Atrial septal defect types include ostium secundum and ostium ____.",
+   "answer": "primum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0be86e",
+   "kind": "mcq",
+   "stem": "Which heart sound is typical of an atrial septal defect?",
+   "options": [
+    "Narrow split S2",
+    "Wide fixed split S2",
+    "Single loud S2 only",
+    "Opening snap at the apex"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#98d9e1",
+   "kind": "statement",
+   "stem": "In atrial septal defect, what determines the appearance on the ECG?",
+   "answer": "The size and type of the defect.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#d690eb",
+   "kind": "statement",
+   "stem": "Which chambers and vessels are enlarged on chest X-ray in atrial septal defect?",
+   "answer": "Right atrium, right ventricle and pulmonary artery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#ad7d76",
+   "kind": "mcq",
+   "stem": "At what age is atrial septal defect surgery usually done?",
+   "options": [
+    "6-12 months",
+    "3-5 years",
+    "10-12 years",
+    "18-20 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#037421",
+   "kind": "mcq",
+   "stem": "In adults needing atrial septal defect surgery, what percentage have atrial flutter or AF?",
+   "options": [
+    "About 5%",
+    "About 20%",
+    "About 50%",
+    "About 80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#137e05",
+   "kind": "mcq",
+   "stem": "Which chambers are volume overloaded in ventricular septal defect?",
+   "options": [
+    "Right atrium and right ventricle",
+    "Right ventricle only",
+    "Left atrium and left ventricle",
+    "Right atrium only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#137e05",
+   "kind": "statement",
+   "stem": "In ventricular septal defect, which way does the shunt flow in systole?",
+   "answer": "Left to right, from the LV to the RV.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#d12a3a",
+   "kind": "mcq",
+   "stem": "What percentage of ventricular septal defects close spontaneously?",
+   "options": [
+    "5-10%",
+    "30-40%",
+    "60-70%",
+    "90-100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#d12a3a",
+   "kind": "blank",
+   "stem": "Muscular ventricular septal defects are most likely to ____ spontaneously.",
+   "answer": "close",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#baa1e1",
+   "kind": "statement",
+   "stem": "Which artery and chambers are enlarged on chest X-ray in ventricular septal defect?",
+   "answer": "Main pulmonary artery, left atrium and left ventricle.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#8a0223",
+   "kind": "statement",
+   "stem": "How do patients with a restrictive ventricular septal defect usually present?",
+   "answer": "Usually asymptomatic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f919e8",
+   "kind": "mcq",
+   "stem": "At what age may a non-restrictive ventricular septal defect need repair?",
+   "options": [
+    "12-18 months of age",
+    "5-10 years of age",
+    "18-24 months of age",
+    "3-6 months of age"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#72edbc",
+   "kind": "mcq",
+   "stem": "In patent ductus arteriosus risk factors, what percentage of very low birth weight infants are affected by prematurity?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b890ad",
+   "kind": "blank",
+   "stem": "In term infants, the ductus arteriosus is usually completely occluded by ____.",
+   "answer": "6 weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#1dc28c",
+   "kind": "mcq",
+   "stem": "Which closure method may suit older patients with a patent ductus arteriosus?",
+   "options": [
+    "Prostaglandin infusion",
+    "Pulmonary artery banding",
+    "Transcatheter closure",
+    "Balloon atrial septostomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#432350",
+   "kind": "mcq",
+   "stem": "Which gas state promotes closure of a patent ductus arteriosus?",
+   "options": [
+    "Hypoxia",
+    "Hypercapnia",
+    "Hyperoxia",
+    "Hypoxaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#45350c",
+   "kind": "mcq",
+   "stem": "During PDA ligation, which site is usually used for postductal SpO2?",
+   "options": [
+    "Right hand",
+    "A lower limb",
+    "Left ear",
+    "Forehead"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#56c36f",
+   "kind": "mcq",
+   "stem": "If SpO2 falls when the lung is retracted during PDA ligation, what helps?",
+   "options": [
+    "Lower FiO2 and stop hand ventilation",
+    "Stop ventilation until the lungs re-inflate",
+    "Reduce FiO2 and rely on the ventilator",
+    "Increase FiO2 and hand ventilate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b66522",
+   "kind": "mcq",
+   "stem": "After PDA ligation, what proportion of preterm infants may develop post-ligation cardiac syndrome?",
+   "options": [
+    "Nearly 5%",
+    "Nearly 90%",
+    "Nearly 50%",
+    "Nearly 15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#2b7389",
+   "kind": "statement",
+   "stem": "Atrioventricular septal defect ranges from which mild lesion up to complete AVSD?",
+   "answer": "Primum ASD with cleft mitral valve.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f71b00",
+   "kind": "statement",
+   "stem": "Which valve is typically regurgitant in complete atrioventricular septal defect?",
+   "answer": "The common AV valve.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#1c2e09",
+   "kind": "mcq",
+   "stem": "What percentage of complete AVSDs are associated with trisomy 21?",
+   "options": [
+    "5%",
+    "10%",
+    "30%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#da3313",
+   "kind": "blank",
+   "stem": "In tetralogy of Fallot, the four features are overriding aorta, VSD, RV hypertrophy and infundibular ____.",
+   "answer": "stenosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#c0f52e",
+   "kind": "statement",
+   "stem": "In tetralogy of Fallot, what determines the degree of cyanosis?",
+   "answer": "The degree of right ventricular outflow obstruction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b40ae2",
+   "kind": "statement",
+   "stem": "Which surgical approach to tetralogy of Fallot is now used less often?",
+   "answer": "Two-stage repair.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#946d9c",
+   "kind": "mcq",
+   "stem": "A tube graft from the subclavian artery to the pulmonary artery is which neonatal shunt in tetralogy of Fallot?",
+   "options": [
+    "Glenn shunt",
+    "Modified BT shunt",
+    "Norwood procedure",
+    "Arterial switch"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#946d9c",
+   "kind": "mcq",
+   "stem": "In tetralogy of Fallot, full repair usually follows the neonatal shunt at about what age?",
+   "options": [
+    "3 months",
+    "5 years",
+    "1 year",
+    "10 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#229f77",
+   "kind": "mcq",
+   "stem": "At what age do tet spells in tetralogy of Fallot peak?",
+   "options": [
+    "6-12 months",
+    "12-18 months",
+    "2-4 months",
+    "5-7 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#229f77",
+   "kind": "statement",
+   "stem": "In tetralogy of Fallot, what happens during a tet spell?",
+   "answer": "Hypercyanosis with fast, deep breathing.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#2636ab",
+   "kind": "blank",
+   "stem": "Long fasts are avoided in tetralogy of Fallot because dehydration risks clotting a surgical ____.",
+   "answer": "shunt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#d37759",
+   "kind": "blank",
+   "stem": "In tetralogy of Fallot with significant polycythaemia, expect coagulation ____.",
+   "answer": "defects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#16ab5b",
+   "kind": "statement",
+   "stem": "Which volatile agent is a useful induction agent in tetralogy of Fallot despite reduced pulmonary blood flow?",
+   "answer": "Sevoflurane.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0f22d9",
+   "kind": "statement",
+   "stem": "What two problems may follow repair of tetralogy of Fallot?",
+   "answer": "Conduction defects and pulmonary regurgitation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#888928",
+   "kind": "mcq",
+   "stem": "In transposition of the great arteries, which ventricle gives rise to the aorta?",
+   "options": [
+    "Left atrium",
+    "Left ventricle",
+    "Right ventricle",
+    "Right atrium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#888928",
+   "kind": "mcq",
+   "stem": "About what percentage of transposition of the great arteries also has a significant VSD?",
+   "options": [
+    "5%",
+    "10%",
+    "50%",
+    "25%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#441436",
+   "kind": "statement",
+   "stem": "In transposition of the great arteries, what provides mixing of the circulations in the fetus?",
+   "answer": "The ductus arteriosus and foramen ovale.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#10b1af",
+   "kind": "mcq",
+   "stem": "What is the initial drug treatment for transposition of the great arteries in neonates?",
+   "options": [
+    "IV milrinone infusion",
+    "IV adrenaline infusion",
+    "IV furosemide bolus",
+    "IV alprostadil infusion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f7f578",
+   "kind": "mcq",
+   "stem": "How early is the arterial switch operation performed for transposition of the great arteries?",
+   "options": [
+    "Between 3 and 6 months of age",
+    "Within the first 14 days of life",
+    "Around 1 year of age",
+    "After 5 years of age"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f7f578",
+   "kind": "statement",
+   "stem": "In the arterial switch operation, where are the coronary arteries reimplanted?",
+   "answer": "Above the neo-aortic valve.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#297fea",
+   "kind": "blank",
+   "stem": "The atrial switch for transposition of the great arteries is now ____.",
+   "answer": "rare",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#fb9704",
+   "kind": "blank",
+   "stem": "In coarctation of the aorta, the ____ pulses are weak.",
+   "answer": "femoral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#59c308",
+   "kind": "mcq",
+   "stem": "At what ages can coarctation of the aorta be diagnosed?",
+   "options": [
+    "Neonatal period only",
+    "Childhood only",
+    "Adulthood only",
+    "At any age"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f1cfcd",
+   "kind": "statement",
+   "stem": "How may a neonate with coarctation of the aorta present?",
+   "answer": "Cardiac failure or collapse.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#ace3b5",
+   "kind": "mcq",
+   "stem": "What is the PGE1 infusion dose used to reopen the duct in neonatal coarctation?",
+   "options": [
+    "0.5-5 micrograms/kg/min",
+    "5-50 nanograms/kg/min",
+    "50-100 nanograms/kg/min",
+    "1-2 micrograms/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#55eafb",
+   "kind": "mcq",
+   "stem": "Through which approach is coarctation of the aorta usually repaired?",
+   "options": [
+    "Median sternotomy",
+    "Right thoracotomy",
+    "Subcostal laparotomy",
+    "Left thoracotomy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#55eafb",
+   "kind": "statement",
+   "stem": "Which later procedure may treat residual gradients after coarctation repair?",
+   "answer": "Balloon dilatation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f4dfd5",
+   "kind": "statement",
+   "stem": "In single ventricle physiology, what is the state of the other ventricle?",
+   "answer": "Rudimentary or hypoplastic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f7bf1d",
+   "kind": "blank",
+   "stem": "In single ventricle physiology, systemic and pulmonary venous blood undergo complete ____.",
+   "answer": "mixing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a958d1",
+   "kind": "mcq",
+   "stem": "What is the commonest single ventricle lesion?",
+   "options": [
+    "Tricuspid atresia",
+    "Double inlet ventricle",
+    "Pulmonary atresia with intact septum",
+    "HLHS"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a958d1",
+   "kind": "mcq",
+   "stem": "What percentage of single ventricle lesions is HLHS?",
+   "options": [
+    "10%",
+    "25%",
+    "40%",
+    "60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b7d41b",
+   "kind": "statement",
+   "stem": "Apart from HLHS, name one other single ventricle lesion.",
+   "answer": "Tricuspid atresia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#6a8bf6",
+   "kind": "statement",
+   "stem": "With complete mixing in single ventricle, how do PaO2 values in the proximal PA and ascending aorta compare?",
+   "answer": "About the same.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#8f64c4",
+   "kind": "mcq",
+   "stem": "Which operation is stage 1 of single ventricle palliation?",
+   "options": [
+    "Glenn procedure",
+    "Norwood procedure",
+    "Fontan procedure",
+    "Arterial switch"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#db225f",
+   "kind": "mcq",
+   "stem": "Which stage 2 operation connects the SVC to the pulmonary arteries in single ventricle palliation?",
+   "options": [
+    "Norwood procedure",
+    "Fontan completion",
+    "Bidirectional cavopulmonary connection",
+    "Arterial switch"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#ff2c8e",
+   "kind": "mcq",
+   "stem": "By what age is pulmonary vascular resistance usually low enough for passive SVC flow to perfuse the lungs?",
+   "options": [
+    "1-2 weeks",
+    "2-3 years",
+    "5-7 years",
+    "3–6 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#ca5e94",
+   "kind": "mcq",
+   "stem": "Which operation is stage 3 of single ventricle palliation?",
+   "options": [
+    "Norwood procedure",
+    "Glenn procedure",
+    "Fontan procedure",
+    "Blalock-Taussig shunt"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0e0134",
+   "kind": "mcq",
+   "stem": "What is the main investigation to define the lesion before paediatric cardiac surgery?",
+   "options": [
+    "Chest X-ray",
+    "Echocardiography",
+    "Electroencephalography",
+    "Lung function tests"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0e0134",
+   "kind": "statement",
+   "stem": "Which imaging modality is increasingly used to define the lesion before paediatric cardiac surgery?",
+   "answer": "Cardiac MRI.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#881b5d",
+   "kind": "mcq",
+   "stem": "How long before anaesthesia may a polycythaemic child with CHD have clear fluids?",
+   "options": [
+    "Up to 6 hours before",
+    "Up to 30 minutes before",
+    "Up to 12 hours before",
+    "Up to 2 hours before"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#ab528b",
+   "kind": "mcq",
+   "stem": "In infants with congenital heart disease, about what percentage have non-cardiac anomalies?",
+   "options": [
+    "About 5%",
+    "About 50%",
+    "About 25%",
+    "About 75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f2d803",
+   "kind": "statement",
+   "stem": "Which cardiac lesions are linked to trisomy 21?",
+   "answer": "AVSD, TOF and VSD.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#3a45d4",
+   "kind": "statement",
+   "stem": "For congenital heart disease patients, which surgical lists commonly include them?",
+   "answer": "Any list, especially dental lists.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f3fe03",
+   "kind": "statement",
+   "stem": "What determines the technique and setting for non-cardiac surgery in congenital heart disease?",
+   "answer": "Lesion severity and the surgery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#8b4757",
+   "kind": "blank",
+   "stem": "Endocarditis ____ is given to at-risk patients having dental procedures.",
+   "answer": "prophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#3d0902",
+   "kind": "statement",
+   "stem": "Which analgesic techniques are good for non-cardiac surgery in congenital heart disease?",
+   "answer": "Regional and peripheral blocks.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#4fc771",
+   "kind": "mcq",
+   "stem": "Which of these is a palliative cardiac operation?",
+   "options": [
+    "ASD closure",
+    "PDA ligation",
+    "PA banding",
+    "VSD closure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#c34b11",
+   "kind": "mcq",
+   "stem": "In paediatric cardiac surgery, what does open surgery require?",
+   "options": [
+    "Regional anaesthesia alone",
+    "Cardiopulmonary bypass",
+    "Epidural infusion",
+    "Hypothermia alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#d9b208",
+   "kind": "statement",
+   "stem": "Once the lesion and planned operation are understood, what should be predicted?",
+   "answer": "How anaesthesia will affect physiology.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#dbc45f",
+   "kind": "statement",
+   "stem": "Which congenital heart disease patients for non-cardiac surgery need a paediatric cardiac centre?",
+   "answer": "Those with complex lesions.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#23bd67",
+   "kind": "mcq",
+   "stem": "In which children is premedication usually avoided?",
+   "options": [
+    "Children having bypass surgery",
+    "Children over 5 years",
+    "Children having major surgery",
+    "Young infants and neonates"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#974caa",
+   "kind": "statement",
+   "stem": "Why does reducing anxiety matter during premedication for congenital heart surgery?",
+   "answer": "It helps cardiovascular stability.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#afa671",
+   "kind": "mcq",
+   "stem": "What is the oral midazolam premedication dose for children with congenital heart disease?",
+   "options": [
+    "0.25 mg/kg (maximum 10 mg)",
+    "0.5 mg/kg (maximum 20 mg)",
+    "1 mg/kg (maximum 40 mg)",
+    "2 mg/kg (maximum 60 mg)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#afa671",
+   "kind": "mcq",
+   "stem": "How long before induction is oral midazolam premedication given?",
+   "options": [
+    "10 minutes",
+    "1 hour",
+    "30 minutes",
+    "3 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#dd87ad",
+   "kind": "mcq",
+   "stem": "What is the oral alimemazine (trimeprazine) premedication dose for children?",
+   "options": [
+    "1 mg/kg (maximum 30 mg)",
+    "5 mg/kg (maximum 100 mg)",
+    "0.1 mg/kg (maximum 5 mg)",
+    "2 mg/kg (maximum 60 mg)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#dd87ad",
+   "kind": "mcq",
+   "stem": "How long before induction is oral alimemazine premedication given?",
+   "options": [
+    "30 minutes",
+    "3 hours",
+    "1 hour",
+    "10 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a2c880",
+   "kind": "statement",
+   "stem": "Beyond full routine monitoring, what is added for congenital heart surgery?",
+   "answer": "Arterial and central lines as needed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#846836",
+   "kind": "mcq",
+   "stem": "Unlike adults, when are invasive lines usually placed in paediatric cardiac anaesthesia?",
+   "options": [
+    "Before induction",
+    "Only after surgery",
+    "After induction and intubation",
+    "Before premedication"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a15aeb",
+   "kind": "statement",
+   "stem": "What determines the sites used for invasive lines in children with congenital heart disease?",
+   "answer": "Anatomy and past or planned surgery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#edc34b",
+   "kind": "mcq",
+   "stem": "In paediatric cardiac surgery, which arterial cannula gauge is usually used?",
+   "options": [
+    "18G",
+    "26G",
+    "22G",
+    "20G"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#238a2f",
+   "kind": "mcq",
+   "stem": "In paediatric cardiac surgery, which vein is the usual site for a central line?",
+   "options": [
+    "Left subclavian vein",
+    "Right internal jugular vein",
+    "Femoral vein",
+    "Left internal jugular vein"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#2b4a22",
+   "kind": "statement",
+   "stem": "What should guide the choice of induction agents in paediatric cardiac surgery?",
+   "answer": "Effects on cardiac output, heart rate, SVR and PVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#2b4a22",
+   "kind": "statement",
+   "stem": "Why is induction slow in children with cardiac failure?",
+   "answer": "Long circulation time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#6529ed",
+   "kind": "mcq",
+   "stem": "Which volatile agent is described as cardiovascularly stable and well tolerated in paediatric cardiac induction?",
+   "options": [
+    "Halothane",
+    "Sevoflurane",
+    "Enflurane",
+    "Methoxyflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#46681c",
+   "kind": "mcq",
+   "stem": "Which induction agent is useful in neonates and in children with cardiac compromise?",
+   "options": [
+    "Thiopentone",
+    "Halothane",
+    "Atracurium",
+    "Ketamine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#5abc1f",
+   "kind": "statement",
+   "stem": "Which induction agent is an alternative in older children in paediatric cardiac surgery?",
+   "answer": "Etomidate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b3b15d",
+   "kind": "blank",
+   "stem": "Propofol is usable for induction in paediatric cardiac surgery, with ____ in cardiac impairment.",
+   "answer": "caution",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#3146a2",
+   "kind": "statement",
+   "stem": "Which drug class is given at induction in paediatric cardiac surgery, especially when the heart is failing?",
+   "answer": "Opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#53fa8c",
+   "kind": "mcq",
+   "stem": "Which relaxant is chosen for its long action and vagolytic effect in paediatric cardiac anaesthesia?",
+   "options": [
+    "Vecuronium",
+    "Rocuronium",
+    "Pancuronium",
+    "Atracurium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#53fa8c",
+   "kind": "blank",
+   "stem": "The pancuronium dose used in paediatric cardiac anaesthesia is ____ mcg/kg.",
+   "answer": "100",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#53fa8c",
+   "kind": "mcq",
+   "stem": "Which relaxants are described as stable and shorter acting in paediatric cardiac anaesthesia?",
+   "options": [
+    "Pancuronium and atracurium",
+    "Suxamethonium and pancuronium",
+    "Vecuronium and rocuronium",
+    "Atracurium and suxamethonium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#634c35",
+   "kind": "mcq",
+   "stem": "Which intubation route is used in most bypass cases where postoperative IPPV is planned?",
+   "options": [
+    "Oral intubation",
+    "Tracheostomy",
+    "Nasal intubation",
+    "Laryngeal mask airway"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#634c35",
+   "kind": "blank",
+   "stem": "Nasal intubation suits paediatric cardiac patients up to ____ years of age.",
+   "answer": "8-10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#2df857",
+   "kind": "mcq",
+   "stem": "Which intravenous infusion is an option for maintenance in paediatric cardiac anaesthesia?",
+   "options": [
+    "Dobutamine",
+    "Propofol",
+    "Glyceryl trinitrate",
+    "Noradrenaline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#067a54",
+   "kind": "statement",
+   "stem": "Why is nitrous oxide limited to induction in cardiopulmonary bypass cases?",
+   "answer": "Air embolism risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a130f9",
+   "kind": "mcq",
+   "stem": "In paediatric bypass cases, which anaesthetic combination is the current trend?",
+   "options": [
+    "High-dose opioid alone",
+    "Moderate opioid plus volatile",
+    "Low-dose opioid plus nitrous oxide",
+    "Benzodiazepine alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#c1ba1c",
+   "kind": "statement",
+   "stem": "Through what route can a volatile agent be given during bypass?",
+   "answer": "Added to the oxygenator gas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#e9878c",
+   "kind": "mcq",
+   "stem": "Which lesion risk groups in children get endocarditis prophylaxis before dental extraction?",
+   "options": [
+    "Low risk lesions only",
+    "High and moderate risk lesions",
+    "Only lesions in neonates",
+    "No lesion groups, prophylaxis is optional"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#be9ecd",
+   "kind": "statement",
+   "stem": "What should be avoided during paediatric cardiac anaesthesia, especially with right to left shunts?",
+   "answer": "Air bubbles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#1c6941",
+   "kind": "statement",
+   "stem": "What should be kept at hand during paediatric cardiac anaesthesia?",
+   "answer": "Resuscitation drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#3a229b",
+   "kind": "statement",
+   "stem": "Which regional technique is used for thoracotomy, especially with planned early extubation?",
+   "answer": "Thoracic epidural catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#451656",
+   "kind": "blank",
+   "stem": "Neuraxial block for bypass is controversial because of anticoagulation and rare but catastrophic ____.",
+   "answer": "epidural haematoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0db618",
+   "kind": "statement",
+   "stem": "Although less common now, what do diagnostic catheters still find in children?",
+   "answer": "Residual or missed defects after repair",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#8833a7",
+   "kind": "mcq",
+   "stem": "Which catheter procedure closes a PDA or ASD in children?",
+   "options": [
+    "Surgical shunt insertion",
+    "Device closure",
+    "Pulmonary artery banding",
+    "Epicardial pacing"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#82ede8",
+   "kind": "statement",
+   "stem": "What airway approach is used for paediatric anaesthesia in the catheter lab?",
+   "answer": "Intubation and ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#c6b61d",
+   "kind": "statement",
+   "stem": "Cardiac catheter procedures can be long; what two precautions are needed?",
+   "answer": "Keep warm and protect pressure points",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0451b0",
+   "kind": "statement",
+   "stem": "Which three complications must the team be ready for in the paediatric catheter lab?",
+   "answer": "Arrhythmias, sudden loss of cardiac output, major bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#cdfd87",
+   "kind": "statement",
+   "stem": "Is cardiopulmonary bypass used in closed paediatric cardiac procedures?",
+   "answer": "No bypass; intubation and ventilation required",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0eab13",
+   "kind": "statement",
+   "stem": "Which patients are likely to need postoperative ventilation after closed cardiac procedures?",
+   "answer": "Neonates and infants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#5609e0",
+   "kind": "statement",
+   "stem": "Beyond the usual arterial line, which line is used for major closed cardiac procedures?",
+   "answer": "Central line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#10905b",
+   "kind": "statement",
+   "stem": "What two surgical approaches are used for closed paediatric cardiac procedures?",
+   "answer": "Thoracotomy or median sternotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a1237d",
+   "kind": "statement",
+   "stem": "What does a systemic to pulmonary artery shunt improve where pulmonary flow is restricted?",
+   "answer": "Pulmonary flow and oxygenation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f4708d",
+   "kind": "mcq",
+   "stem": "What graft size is usually used for a modified Blalock-Taussig shunt?",
+   "options": [
+    "1-2 mm",
+    "3.5-5 mm",
+    "6-8 mm",
+    "10-12 mm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f4708d",
+   "kind": "blank",
+   "stem": "A modified Blalock-Taussig shunt runs from the subclavian artery to the ____ pulmonary artery.",
+   "answer": "same-side",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#d7901c",
+   "kind": "statement",
+   "stem": "During shunt surgery by thoracotomy, what can worsen hypoxia?",
+   "answer": "One-lung collapse for access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#caed34",
+   "kind": "mcq",
+   "stem": "What postoperative SpO2 is usual after a systemic to pulmonary artery shunt?",
+   "options": [
+    "In the 90s",
+    "In the 80s",
+    "Above 98 percent",
+    "In the 60s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#caed34",
+   "kind": "blank",
+   "stem": "The aim is enough pulmonary flow for oxygenation without overloading the ____.",
+   "answer": "LV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a575c4",
+   "kind": "statement",
+   "stem": "What should a child with an existing shunt avoid?",
+   "answer": "Dehydration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a575c4",
+   "kind": "statement",
+   "stem": "Besides avoiding dehydration, what should a child with an existing shunt be given?",
+   "answer": "Antibiotic prophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b2df97",
+   "kind": "statement",
+   "stem": "What does pulmonary artery banding do to pulmonary flow?",
+   "answer": "Restricts pulmonary flow to prevent heart failure and pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#542216",
+   "kind": "statement",
+   "stem": "Which large left to right shunts were formerly treated with pulmonary artery banding?",
+   "answer": "AVSD and large VSD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#e2f486",
+   "kind": "mcq",
+   "stem": "What band material is used for pulmonary artery banding?",
+   "options": [
+    "Silicone or latex",
+    "Dacron or PTFE",
+    "Nylon or titanium",
+    "Stainless steel or cotton"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#e2f486",
+   "kind": "blank",
+   "stem": "The band is tightened until PA pressure is below ____ of systolic.",
+   "answer": "50%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#ba7244",
+   "kind": "statement",
+   "stem": "When is the pulmonary artery band removed?",
+   "answer": "At definitive surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#843366",
+   "kind": "statement",
+   "stem": "In pulmonary artery banding, what happens if the band is too loose?",
+   "answer": "Heart failure and pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#843366",
+   "kind": "mcq",
+   "stem": "In pulmonary artery banding, what happens if the band is too tight?",
+   "options": [
+    "Hypertension and bradycardia",
+    "Right to left shunt and profound hypoxia",
+    "Pleural effusion and ascites",
+    "Pneumothorax and haemothorax"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f61c76",
+   "kind": "statement",
+   "stem": "In infants and young children, epicardial pacing is mostly used for which condition?",
+   "answer": "AV block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#76c64a",
+   "kind": "mcq",
+   "stem": "Which approach is used for epicardial pacemaker insertion in children?",
+   "options": [
+    "Left thoracotomy",
+    "Median sternotomy",
+    "Subcostal laparotomy",
+    "Right thoracotomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#5f2f49",
+   "kind": "statement",
+   "stem": "After previous cardiac surgery, what major complication is expected during epicardial pacemaker insertion?",
+   "answer": "Major bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#3d08bf",
+   "kind": "statement",
+   "stem": "Which team members should work together for paediatric cardiac bypass?",
+   "answer": "Surgeon, anaesthetist, perfusionist and cardiology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#bb5d9c",
+   "kind": "statement",
+   "stem": "Why is accurate cannula placement vital during bypass cannulation?",
+   "answer": "For systemic perfusion and venous drainage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#6def4f",
+   "kind": "statement",
+   "stem": "What handling effects must be tolerated up to a point before bypass?",
+   "answer": "Some hypotension and arrhythmia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#430218",
+   "kind": "mcq",
+   "stem": "Which steps before bypass are most stimulating in paediatric cardiac surgery?",
+   "options": [
+    "Venous cannulation alone",
+    "Heparin administration",
+    "Skin incision and sternotomy",
+    "Induction of anaesthesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#c51c35",
+   "kind": "statement",
+   "stem": "Which baseline tests are taken before bypass in paediatric cardiac surgery?",
+   "answer": "ABG and ACT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#e6c7c4",
+   "kind": "mcq",
+   "stem": "What heparin dose is given when the surgeon asks, before bypass in children?",
+   "options": [
+    "100 units/kg",
+    "150 units/kg",
+    "300 units/kg",
+    "500 units/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#e6c7c4",
+   "kind": "blank",
+   "stem": "The ACT should be over ____ secs before going on bypass.",
+   "answer": "400",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#298389",
+   "kind": "statement",
+   "stem": "Which antifibrinolytic may be used in redo and complex neonatal cases?",
+   "answer": "Aprotinin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#3b5d42",
+   "kind": "statement",
+   "stem": "What affects how long pre-bypass time takes in paediatric cardiac surgery?",
+   "answer": "Previous surgery and extra-cardiac shunts to ligate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#59925d",
+   "kind": "statement",
+   "stem": "What type of pump is in the standard paediatric bypass circuit?",
+   "answer": "Roller pump",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#5a7397",
+   "kind": "mcq",
+   "stem": "Relative to blood volume, how large is the bypass prime in a child?",
+   "options": [
+    "About 50%",
+    "Up to 100%",
+    "About 10%",
+    "About 150%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#5a7397",
+   "kind": "blank",
+   "stem": "Blood is added to the prime to reach a haematocrit of ____ on bypass.",
+   "answer": "24-28%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#e01b54",
+   "kind": "statement",
+   "stem": "How is bypass flow set in paediatric cardiac surgery?",
+   "answer": "By body surface area",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#f76368",
+   "kind": "mcq",
+   "stem": "Which vasopressor is used to adjust arterial pressure on bypass in children?",
+   "options": [
+    "Phentolamine",
+    "Glyceryl trinitrate",
+    "Phenylephrine",
+    "Salbutamol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#a4d073",
+   "kind": "statement",
+   "stem": "What continuous measurement confirms adequate flow on bypass?",
+   "answer": "Mixed venous saturation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#c7ec31",
+   "kind": "statement",
+   "stem": "When is ventilation stopped during bypass?",
+   "answer": "At full flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#7ffbe9",
+   "kind": "statement",
+   "stem": "Besides opioids, which drugs can be used for anaesthesia on bypass?",
+   "answer": "Benzodiazepines, propofol or volatile agents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#6e1fac",
+   "kind": "mcq",
+   "stem": "What temperature range is commonly used for deeper hypothermic bypass in children?",
+   "options": [
+    "34-36°C",
+    "25-32°C",
+    "37-38°C",
+    "40-42°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#6e1fac",
+   "kind": "blank",
+   "stem": "With circulatory arrest, the usual temperature is ____.",
+   "answer": "18-20°C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#55db95",
+   "kind": "statement",
+   "stem": "How are blood gases measured at 37°C adjusted during hypothermia on bypass?",
+   "answer": "Corrected to patient temperature by nomogram",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#baaf03",
+   "kind": "statement",
+   "stem": "What does pH-stat management do during hypothermia on bypass?",
+   "answer": "Adds CO2 to keep pH and pCO2 normal for 37°C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#0dfe5c",
+   "kind": "statement",
+   "stem": "How is the myocardium protected during cross-clamp and cardiac arrest?",
+   "answer": "Hypothermia and cardioplegia into the aortic root",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#253eae",
+   "kind": "statement",
+   "stem": "What does ultrafiltration during or after bypass reduce?",
+   "answer": "CPB and haemodilution effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#040bac",
+   "kind": "blank",
+   "stem": "Before weaning from bypass, the child should be rewarmed, with normal electrolytes and neutral ____.",
+   "answer": "acid-base",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#040bac",
+   "kind": "statement",
+   "stem": "What should be anticipated before weaning from bypass in children?",
+   "answer": "Inotropes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#31faa1",
+   "kind": "mcq",
+   "stem": "What core temperature is aimed for at separation from bypass?",
+   "options": [
+    "34-35°C",
+    "36-36.5°C",
+    "38-39°C",
+    "40-41°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#dfadc8",
+   "kind": "statement",
+   "stem": "How is filling judged at separation from bypass?",
+   "answer": "Looking at the heart, plus CVP or atrial pressures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b256b0",
+   "kind": "statement",
+   "stem": "When is pacing needed after separation from bypass?",
+   "answer": "If slow or AV dissociation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#c5df02",
+   "kind": "statement",
+   "stem": "What does epicardial echo after bypass check?",
+   "answer": "The repair, residual lesions, filling and function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#8d42d0",
+   "kind": "mcq",
+   "stem": "What protamine dose is given slowly once off bypass in children?",
+   "options": [
+    "0.5-1 mg/kg",
+    "2-5 mg/kg",
+    "10-15 mg/kg",
+    "20-25 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#8d42d0",
+   "kind": "statement",
+   "stem": "When protamine is given, what must be stopped at once?",
+   "answer": "Cardiotomy suction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#3e0f64",
+   "kind": "statement",
+   "stem": "Which patients may need blood components for coagulopathy after bypass?",
+   "answer": "Neonates and cyanosed children",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#070ec9",
+   "kind": "mcq",
+   "stem": "Which drug is the commonest first-line inotrope after paediatric bypass, at 3-10 mcg/kg/min?",
+   "options": [
+    "Adrenaline",
+    "Milrinone",
+    "Dopamine",
+    "Phentolamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#070ec9",
+   "kind": "blank",
+   "stem": "The dopamine dose after paediatric bypass is ____ mcg/kg/min.",
+   "answer": "3-10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b46ab4",
+   "kind": "mcq",
+   "stem": "Which drug is used for persistent hypotension despite adequate preload after bypass?",
+   "options": [
+    "Glyceryl trinitrate",
+    "Adrenaline",
+    "Phentolamine",
+    "Frusemide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#b46ab4",
+   "kind": "blank",
+   "stem": "Adrenaline is given after bypass at ____ mcg/kg/min.",
+   "answer": "0.02-0.5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#cbcbf7",
+   "kind": "mcq",
+   "stem": "Which drug is an inotrope, lusitrope and vasodilator, attractive after bypass in neonates?",
+   "options": [
+    "Dobutamine",
+    "Milrinone",
+    "Noradrenaline",
+    "Levosimendan"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#cbcbf7",
+   "kind": "blank",
+   "stem": "The milrinone loading dose is ____ mcg/kg, often given on CPB.",
+   "answer": "25-50",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#c96035",
+   "kind": "statement",
+   "stem": "In some children, for how long may the chest be left open after bypass to help RV recovery?",
+   "answer": "24-48 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#4ef635",
+   "kind": "mcq",
+   "stem": "In what share of paediatric bypass cases is ECMO or VAD needed?",
+   "options": [
+    "About 15%",
+    "Less than 5%",
+    "About 30%",
+    "About 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-cardiac-surgery#4ef635",
+   "kind": "statement",
+   "stem": "Which factors are linked to the best outcomes with ECMO or VAD after bypass?",
+   "answer": "RV failure, reparative surgery and initial successful weaning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

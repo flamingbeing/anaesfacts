@@ -1,0 +1,751 @@
+{
+ "topic": "comorbidities/paediatric-diabetes-mellitus",
+ "questions": [
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#89437d",
+   "kind": "mcq",
+   "stem": "Roughly what share of childhood diabetes is type 1 (insulin-dependent) diabetes?",
+   "options": [
+    "50%",
+    "70%",
+    "90%",
+    "30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#cb0165",
+   "kind": "mcq",
+   "stem": "In type 1 diabetes in children, what percentage have islet cell antibodies at diagnosis?",
+   "options": [
+    "20%",
+    "50%",
+    "95%",
+    "80%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#ae1950",
+   "kind": "statement",
+   "stem": "In type 1 diabetes in children, which symptoms build up over a few weeks before diagnosis?",
+   "answer": "Thirst, polyuria, tiredness, poor appetite and weight loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#dfadfe",
+   "kind": "mcq",
+   "stem": "A child with diabetes symptoms: which random venous plasma glucose confirms type 1 diagnosis?",
+   "options": [
+    "Over 5.5 mmol/L",
+    "Over 7.1 mmol/L",
+    "Over 11.1 mmol/L",
+    "Over 15.0 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#e19ea9",
+   "kind": "mcq",
+   "stem": "A child with diabetes symptoms: which fasting plasma glucose level diagnoses type 1 diabetes?",
+   "options": [
+    "Over 5.5 mmol/L",
+    "Over 7.1 mmol/L",
+    "Over 9.0 mmol/L",
+    "Over 15.0 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#e27407",
+   "kind": "mcq",
+   "stem": "A child with diabetes symptoms: what 2-hour glucose after a 75 g load diagnoses type 1 diabetes?",
+   "options": [
+    "Over 7.8 mmol/L",
+    "Over 9.0 mmol/L",
+    "Over 11.1 mmol/L",
+    "Over 15.0 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#d5b277",
+   "kind": "blank",
+   "stem": "In a child with no symptoms, glucose over 11.1 mmol/L must be seen again on a ____ day before diagnosing type 1 diabetes.",
+   "answer": "second",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#a15415",
+   "kind": "mcq",
+   "stem": "In paediatric diabetes, which 2-hour glucose after a 75 g load, with fasting under 7.0 mmol/L, means impaired glucose tolerance?",
+   "options": [
+    "Over 11.1 mmol/L",
+    "Under 7.8 mmol/L",
+    "Over 15.0 mmol/L",
+    "Over 7.8 but under 11.1 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#cb26fd",
+   "kind": "statement",
+   "stem": "In paediatric diabetes, what sources can insulin come from?",
+   "answer": "Animal (porcine) or human sources, or recombinant DNA in bacteria or yeast",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#194865",
+   "kind": "mcq",
+   "stem": "Insulin preparations in paediatric diabetes are grouped by duration of action: how many types are there?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#bc9af5",
+   "kind": "mcq",
+   "stem": "In paediatric type 1 diabetes, what is the usual insulin regimen?",
+   "options": [
+    "Short-acting insulin alone at each meal",
+    "Long-acting insulin alone at night",
+    "An intermediate or long-acting insulin plus a short-acting one",
+    "Oral agent plus short-acting insulin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#529c9e",
+   "kind": "mcq",
+   "stem": "What routine blood glucose target range is given for children with type 1 diabetes, while avoiding hypoglycaemia?",
+   "options": [
+    "2-4 mmol/L",
+    "7-15 mmol/L",
+    "4-9 mmol/L",
+    "10-20 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#a4070a",
+   "kind": "mcq",
+   "stem": "Over what period does an HbA1c result reflect glucose control in children with diabetes?",
+   "options": [
+    "The previous 24 hours",
+    "The previous 2 weeks",
+    "The previous 6-8 weeks",
+    "The previous 12 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#a4070a",
+   "kind": "mcq",
+   "stem": "What HbA1c is ideal in children with diabetes, when tight targets risk hypoglycaemia?",
+   "options": [
+    "9-10% or less",
+    "4-5% or less",
+    "6.5-7.5% or less",
+    "11-12% or less"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#10693f",
+   "kind": "mcq",
+   "stem": "When does screening for retinopathy, neuropathy and nephropathy start in children with type 1 diabetes?",
+   "options": [
+    "2 years after diagnosis or yearly from age 10",
+    "5 years after diagnosis or yearly from age 12",
+    "At diagnosis, then every 5 years",
+    "10 years after diagnosis or yearly from age 16"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#90b35f",
+   "kind": "statement",
+   "stem": "In paediatric type 1 diabetes, which lifestyle factors matter long term?",
+   "answer": "Diet, exercise and avoiding obesity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#175c6c",
+   "kind": "statement",
+   "stem": "What underlying problem drives type 2 diabetes in children and adults?",
+   "answer": "Low insulin or peripheral insulin resistance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#e0355b",
+   "kind": "mcq",
+   "stem": "Type 2 diabetes is rare in children but rising alongside which condition?",
+   "options": [
+    "Coeliac disease",
+    "Obesity",
+    "Hyperthyroidism",
+    "Iron deficiency"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#ff1690",
+   "kind": "mcq",
+   "stem": "In maturity onset diabetes of the young (MODY), what does treatment aim at?",
+   "options": [
+    "Increased insulin dosing",
+    "Starting oral sulphonylureas",
+    "Weight loss",
+    "Strict bed rest"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#ac7949",
+   "kind": "statement",
+   "stem": "In paediatric type 2 diabetes, when is insulin given?",
+   "answer": "Only occasionally, if symptomatic or hyperglycaemic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#f720ea",
+   "kind": "statement",
+   "stem": "For a child with diabetes having surgery, which three groups form the team approach?",
+   "answer": "Surgeon, anaesthetist and diabetes team",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#cf4919",
+   "kind": "statement",
+   "stem": "Surgical stress response in a child with diabetes: what metabolic changes does it cause?",
+   "answer": "Catabolism, higher metabolic rate, protein and fat breakdown, starvation, glucose intolerance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#e3a4db",
+   "kind": "mcq",
+   "stem": "What glucose range is the normoglycaemia aim in perioperative care of a child with diabetes?",
+   "options": [
+    "10-15 mmol/L",
+    "2-4 mmol/L",
+    "15-20 mmol/L",
+    "4-10 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#0f0528",
+   "kind": "mcq",
+   "stem": "For a child with diabetes, how long can a procedure last and still count as minor surgery?",
+   "options": [
+    "Up to 60 min",
+    "Up to 30 min",
+    "Up to 2 hours",
+    "Up to 4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#35f790",
+   "kind": "statement",
+   "stem": "For poorly controlled, emergency or major surgery in a child with diabetes, which infusions are needed?",
+   "answer": "Glucose, insulin and potassium infusions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#061327",
+   "kind": "mcq",
+   "stem": "When should a child with diabetes be admitted for elective minor surgery?",
+   "options": [
+    "On the morning of surgery",
+    "The day before surgery",
+    "Two days before surgery",
+    "After the operation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#a60853",
+   "kind": "blank",
+   "stem": "Before minor surgery in a child with diabetes, the ideal blood glucose range is ____ mmol/L.",
+   "answer": "4-10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#9d9824",
+   "kind": "mcq",
+   "stem": "Before minor surgery in a child with diabetes, at what glucose should urine ketones be tested?",
+   "options": [
+    "Over 10 mmol/L",
+    "Over 15 mmol/L",
+    "Over 20 mmol/L",
+    "Under 4 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#cbf976",
+   "kind": "mcq",
+   "stem": "Where should a child with diabetes be placed on a minor surgery list if possible?",
+   "options": [
+    "Last on the list",
+    "Middle of the list",
+    "First on the list if possible",
+    "Only as an emergency"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#3aece7",
+   "kind": "mcq",
+   "stem": "On a morning minor-surgery list, what dose of long-acting insulin detemir starts when IV fluids start?",
+   "options": [
+    "10% of total daily dose",
+    "20% of total daily dose",
+    "50% of total daily dose",
+    "100% of total daily dose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#5e3d64",
+   "kind": "mcq",
+   "stem": "On a morning minor-surgery list, which IV fluid is started at 08.00?",
+   "options": [
+    "0.9% saline at maintenance rate",
+    "Hartmann's solution at maintenance rate",
+    "0.45% saline with 5% dextrose at maintenance rate",
+    "10% dextrose at bolus rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#fc8a1c",
+   "kind": "mcq",
+   "stem": "On an afternoon minor-surgery list, which IV fluid is given at maintenance rate?",
+   "options": [
+    "0.9% saline at maintenance rate",
+    "0.45% saline with 5% dextrose at maintenance rate",
+    "Hartmann's solution at maintenance rate",
+    "10% dextrose at bolus rate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#af4d02",
+   "kind": "mcq",
+   "stem": "On an afternoon minor-surgery list, what share of daily dose is short-acting Actrapid given before breakfast?",
+   "options": [
+    "5% of total daily dose",
+    "20% of total daily dose",
+    "10% of total daily dose",
+    "30% of total daily dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#1ea7e9",
+   "kind": "statement",
+   "stem": "After minor surgery in a child with diabetes, when does the eating insulin plan apply?",
+   "answer": "Eating or drinking within 2 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#a6ab73",
+   "kind": "mcq",
+   "stem": "After minor surgery, a child with diabetes who is eating gets what share of daily dose as soluble insulin?",
+   "options": [
+    "10% of total daily dose",
+    "30% of total daily dose",
+    "20% of total daily dose",
+    "50% of total daily dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#caa25f",
+   "kind": "mcq",
+   "stem": "How many units of soluble insulin go into the combined postoperative infusion bag after minor surgery?",
+   "options": [
+    "5 units",
+    "8 units",
+    "16 units",
+    "10 units"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#3cf5dc",
+   "kind": "mcq",
+   "stem": "After minor surgery in a child with diabetes, how often is glucose checked until awake and stable?",
+   "options": [
+    "Every 4 hours",
+    "Hourly",
+    "Every 2 hours",
+    "Twice daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#3cf5dc",
+   "kind": "blank",
+   "stem": "Once awake and stable after minor surgery, a child's glucose is checked every ____ hours.",
+   "answer": "2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#f1bee0",
+   "kind": "mcq",
+   "stem": "On the postoperative minor-surgery infusion, what insulin per 500 mL applies when glucose is over 21 mmol/L?",
+   "options": [
+    "8 units per 500 mL",
+    "12 units per 500 mL",
+    "16 units per 500 mL",
+    "20 units per 500 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#4e1218",
+   "kind": "mcq",
+   "stem": "On the postoperative minor-surgery infusion, what insulin per 500 mL applies when glucose is under 7 mmol/L?",
+   "options": [
+    "4 units per 500 mL",
+    "10 units per 500 mL",
+    "16 units per 500 mL",
+    "8 units per 500 mL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#7ed730",
+   "kind": "statement",
+   "stem": "For major or emergency surgery in a child with diabetes, how is insulin given alongside IV fluids?",
+   "answer": "Continuous insulin infusion with separate IV fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#95cb49",
+   "kind": "mcq",
+   "stem": "For major or emergency surgery, how many units of soluble insulin are made up in 50 mL of 0.9% saline?",
+   "options": [
+    "25 units",
+    "100 units",
+    "50 units",
+    "10 units"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#0b4823",
+   "kind": "mcq",
+   "stem": "In a child having major surgery, what insulin infusion rate applies when glucose is under 15 mmol/L?",
+   "options": [
+    "0.01 units (mL)/kg/hour",
+    "0.5 units (mL)/kg/hour",
+    "0.05 units (mL)/kg/hour",
+    "0.1 units (mL)/kg/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#f0ed0d",
+   "kind": "mcq",
+   "stem": "In a child having major surgery, what insulin infusion rate applies when glucose is 15 mmol/L or more?",
+   "options": [
+    "0.05 units (mL)/kg/hour",
+    "0.01 units (mL)/kg/hour",
+    "0.5 units (mL)/kg/hour",
+    "0.1 units (mL)/kg/hour"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#7b1116",
+   "kind": "mcq",
+   "stem": "During major or emergency surgery in a child, between what glucose levels should it be kept?",
+   "options": [
+    "Between 12 and 15 mmol/L",
+    "Between 5 and 12 mmol/L",
+    "Between 2 and 5 mmol/L",
+    "Between 15 and 20 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#d0d2a0",
+   "kind": "mcq",
+   "stem": "In major surgery insulin infusion, what is the half-life of IV insulin?",
+   "options": [
+    "30-40 min",
+    "1-2 hours",
+    "3-4 min",
+    "10-12 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#32b099",
+   "kind": "mcq",
+   "stem": "In major surgery, if glucose falls under 3 mmol/L on IV insulin, for how long is the insulin stopped?",
+   "options": [
+    "5 min",
+    "15 min",
+    "30 min",
+    "60 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#6067f6",
+   "kind": "mcq",
+   "stem": "In major surgery, what changes if hypoglycaemia keeps recurring on the insulin infusion?",
+   "options": [
+    "Double the insulin rate",
+    "Switch to 10% glucose fluids",
+    "Stop IV fluids altogether",
+    "Switch to 0.9% saline alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#fcf9da",
+   "kind": "mcq",
+   "stem": "In major or emergency surgery, at what rate are the IV fluids run, in mL per kg per hour?",
+   "options": [
+    "1 mL/kg/hour",
+    "2.5 mL/kg/hour",
+    "5 mL/kg/hour",
+    "10 mL/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#fcf9da",
+   "kind": "mcq",
+   "stem": "In major or emergency surgery, how much potassium chloride goes into each 500 mL bag of IV fluid?",
+   "options": [
+    "5 mmol",
+    "20 mmol",
+    "10 mmol",
+    "40 mmol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#9bc7a8",
+   "kind": "statement",
+   "stem": "How often is glucose checked before, during and after major or emergency surgery in a child with diabetes?",
+   "answer": "Hourly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#c0fb91",
+   "kind": "mcq",
+   "stem": "In a child with diabetes having major surgery on IV fluids, how often should U&E be checked?",
+   "options": [
+    "At least daily",
+    "Once a week",
+    "Only before surgery",
+    "Every four hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#301d2a",
+   "kind": "mcq",
+   "stem": "In major or emergency surgery, when is the IV insulin infusion stopped once the child is eating and drinking?",
+   "options": [
+    "At the start of the next day",
+    "Immediately when eating starts",
+    "1 hour after giving usual subcutaneous insulin after the first meal",
+    "Once glucose is below 5 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#2db4aa",
+   "kind": "statement",
+   "stem": "After major surgery in a child with diabetes, insulin needs may be higher early on. Who advises on this?",
+   "answer": "The diabetes team",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#a788b7",
+   "kind": "mcq",
+   "stem": "Which is the commonest acute complication of type 1 diabetes in children?",
+   "options": [
+    "Retinopathy",
+    "Nephropathy",
+    "Hypoglycaemia",
+    "Hypothyroidism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#2785fc",
+   "kind": "statement",
+   "stem": "What are common causes of hypoglycaemia in a child with type 1 diabetes?",
+   "answer": "Missed meals, unplanned exercise, insulin errors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#8a54aa",
+   "kind": "statement",
+   "stem": "In an awake child with type 1 diabetes and hypoglycaemia, which symptoms appear?",
+   "answer": "Hunger, sweating, tremor, tachycardia, anxiety, weakness, mood change, slurred speech, confusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#8a54aa",
+   "kind": "statement",
+   "stem": "If hypoglycaemia in a child with type 1 diabetes goes untreated, what does it progress to?",
+   "answer": "Seizures and coma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#f72e8e",
+   "kind": "mcq",
+   "stem": "A conscious child with type 1 diabetes and hypoglycaemia who can eat should be given what?",
+   "options": [
+    "Intramuscular glucagon",
+    "Intravenous insulin",
+    "Rest without food",
+    "Oral carbohydrate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#580f80",
+   "kind": "mcq",
+   "stem": "For an unconscious child with hypoglycaemia, what is the first treatment given?",
+   "options": [
+    "2 ml/kg of 50% dextrose",
+    "5 ml/kg of 10% dextrose",
+    "2 ml/kg of 10% dextrose",
+    "10 ml/kg of 5% dextrose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-diabetes-mellitus#580f80",
+   "kind": "mcq",
+   "stem": "For an unconscious child with hypoglycaemia, what IV fluids follow the dextrose bolus?",
+   "options": [
+    "IV fluids with 20% glucose",
+    "IV fluids with 0.9% saline alone",
+    "IV fluids with 2.5% glucose",
+    "IV fluids with 5% or 10% glucose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

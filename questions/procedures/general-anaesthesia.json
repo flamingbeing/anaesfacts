@@ -1,0 +1,5231 @@
+{
+ "topic": "procedures/general-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/general-anaesthesia#f07756",
+   "kind": "mcq",
+   "stem": "Which ASA physical status class describes a normal healthy patient?",
+   "options": [
+    "ASA 2",
+    "ASA 1",
+    "ASA 4",
+    "ASA 5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3ed810",
+   "kind": "mcq",
+   "stem": "Which ASA physical status class denotes mild systemic disease?",
+   "options": [
+    "ASA 3",
+    "ASA 5",
+    "ASA 2",
+    "ASA 4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#042af4",
+   "kind": "blank",
+   "stem": "ASA 2 examples include current smoker, social drinker, BMI 30-40, pregnancy, well-controlled DM or ____, mild lung disease.",
+   "answer": "hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#042af4",
+   "kind": "mcq",
+   "stem": "Which of these is an example of ASA 2?",
+   "options": [
+    "Shock",
+    "Active hepatitis",
+    "Current smoker",
+    "Brain-dead organ donor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6a2e79",
+   "kind": "mcq",
+   "stem": "Which ASA class is severe systemic disease without a constant threat to life?",
+   "options": [
+    "ASA 4",
+    "ASA 2",
+    "ASA 3",
+    "ASA 6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e9015a",
+   "kind": "mcq",
+   "stem": "Which condition is an example of ASA 3?",
+   "options": [
+    "Shock",
+    "Current smoker",
+    "End-stage renal failure on dialysis",
+    "Sepsis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d99fd0",
+   "kind": "mcq",
+   "stem": "Which ASA class is severe disease that is a constant threat to life?",
+   "options": [
+    "ASA 2",
+    "ASA 4",
+    "ASA 6",
+    "ASA 1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f94310",
+   "kind": "mcq",
+   "stem": "Which condition is an example of ASA 4?",
+   "options": [
+    "Pregnancy",
+    "Shock",
+    "BMI >40",
+    "Current smoker"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#be1a72",
+   "kind": "mcq",
+   "stem": "Which ASA class is moribund, not expected to survive without the operation?",
+   "options": [
+    "ASA 4",
+    "ASA 6",
+    "ASA 5",
+    "ASA 3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#304315",
+   "kind": "mcq",
+   "stem": "Which ASA class is a brain-dead organ donor?",
+   "options": [
+    "ASA 4",
+    "ASA 5",
+    "ASA 6",
+    "ASA 1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#596043",
+   "kind": "mcq",
+   "stem": "Which letter suffix on an ASA class marks an emergency operation?",
+   "options": [
+    "R",
+    "U",
+    "E",
+    "F"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#268787",
+   "kind": "mcq",
+   "stem": "What is the ASA physical status score mainly used for?",
+   "options": [
+    "Predicting exact perioperative risk",
+    "Assessing and communicating preanaesthetic comorbidity",
+    "Choosing the anaesthetic technique",
+    "Dosing induction and maintenance drugs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c9b08b",
+   "kind": "statement",
+   "stem": "What should ASA class be combined with to help predict perioperative risk?",
+   "answer": "surgery type, frailty and deconditioning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4c57da",
+   "kind": "statement",
+   "stem": "What two factors do postoperative complications track?",
+   "answer": "ASA class and emergency surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1e430d",
+   "kind": "statement",
+   "stem": "Which outcomes does ASA 3-4 predict?",
+   "answer": "blood loss, duration of postoperative ventilation, ICU stay, complications and mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fdb5a8",
+   "kind": "statement",
+   "stem": "In total abdominal hysterectomy, what does ASA 3 or above predict?",
+   "answer": "more blood loss and transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fdb5a8",
+   "kind": "statement",
+   "stem": "After hip fracture in elderly patients, what does ASA 3 or above predict?",
+   "answer": "more delirium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2fe904",
+   "kind": "statement",
+   "stem": "What two outcomes does ASA class strongly predict?",
+   "answer": "resource use and mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2fe904",
+   "kind": "blank",
+   "stem": "ASA 3 patients have higher ____ after elective hip or knee replacement.",
+   "answer": "mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#026819",
+   "kind": "statement",
+   "stem": "What kind of pathway is enhanced recovery after surgery (ERAS)?",
+   "answer": "Multimodal, multidisciplinary, evidence-based pathway covering the whole perioperative journey",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0c4e58",
+   "kind": "statement",
+   "stem": "What does ERAS aim to do to the surgical stress response and to protein breakdown?",
+   "answer": "Blunt the surgical stress response (metabolic, endocrine, inflammatory) and limit protein breakdown",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#17c740",
+   "kind": "statement",
+   "stem": "What does ERAS aim for in hospital stay and recovery after surgery?",
+   "answer": "Shorten hospital stay and speed return to normal life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#29f502",
+   "kind": "statement",
+   "stem": "Why does good pain control matter in ERAS?",
+   "answer": "So patients mobilise and avoid immobility complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3344ef",
+   "kind": "statement",
+   "stem": "What does ERAS aim for in length of stay and function?",
+   "answer": "Shorter stay and earlier return to function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2266a9",
+   "kind": "mcq",
+   "stem": "Which driver underlies the metabolic component of the surgical stress response?",
+   "options": [
+    "Hypothermia-induced shivering",
+    "Insulin resistance driven by IL-6",
+    "Cortisol and ADH release",
+    "Cytokine release"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2266a9",
+   "kind": "statement",
+   "stem": "Which hormones drive the neuroendocrine part of the surgical stress response?",
+   "answer": "cortisol, ADH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7592d1",
+   "kind": "statement",
+   "stem": "Which complication areas does ERAS address after surgery?",
+   "answer": "Fluids, pain, blood management, thromboembolism, ileus, orthostatic intolerance, cognition, psychological factors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#cfc955",
+   "kind": "statement",
+   "stem": "Multidisciplinary ERAS planning spans which three areas?",
+   "answer": "surgery, anaesthesia and recovery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#052787",
+   "kind": "statement",
+   "stem": "What standard tools form part of the ERAS pathway?",
+   "answer": "Standard order sets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3824fd",
+   "kind": "statement",
+   "stem": "What does ERAS require you to do for chronic disease and medicines?",
+   "answer": "Assess and optimise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d92e36",
+   "kind": "blank",
+   "stem": "Treat anaemia with oral or IV iron and/or erythropoietic agents; aim Hb ____ before surgery.",
+   "answer": ">12",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d92e36",
+   "kind": "statement",
+   "stem": "What preoperative haemoglobin target does ERAS set?",
+   "answer": "Hb >12",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fdfec7",
+   "kind": "statement",
+   "stem": "Prehabilitation for patients with comorbidities or deconditioning aims to build what?",
+   "answer": "functional capacity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a6cb4d",
+   "kind": "statement",
+   "stem": "What is the main argument against routine neuromuscular reversal?",
+   "answer": "Reversal side effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#dbf687",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blockers does the cyclodextrin in these notes encapsulate?",
+   "options": [
+    "Atracurium and mivacurium",
+    "Rocuronium and vecuronium",
+    "Suxamethonium and rocuronium",
+    "Cisatracurium and atracurium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3b8b1f",
+   "kind": "mcq",
+   "stem": "After an RSI dose of rocuronium 1.2 mg/kg, what reversal dose is given?",
+   "options": [
+    "3 mg/kg",
+    "16 mg/kg",
+    "4 mg/kg",
+    "8 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#19e4af",
+   "kind": "mcq",
+   "stem": "Which condition is an example where neostigmine should be avoided for reversal?",
+   "options": [
+    "Acute asthma",
+    "Myotonic dystrophy",
+    "Hypothermia",
+    "Obesity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#86bbaf",
+   "kind": "mcq",
+   "stem": "Which airway problem in recovery is linked to recurrent laryngeal nerve injury?",
+   "options": [
+    "Laryngospasm",
+    "Cord palsy",
+    "Bronchospasm",
+    "Pneumothorax"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#77a077",
+   "kind": "mcq",
+   "stem": "Which breathing complication follows negative pressure from biting the tube?",
+   "options": [
+    "Pneumothorax",
+    "Diffusion hypoxia",
+    "Pulmonary oedema",
+    "Sputum plugging"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fe6b82",
+   "kind": "statement",
+   "stem": "Name one drug-related cause listed for recovery problems.",
+   "answer": "Drug use or withdrawal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#065199",
+   "kind": "statement",
+   "stem": "Which two readings should be checked for recovery problems?",
+   "answer": "FiO2 and ETCO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ced307",
+   "kind": "mcq",
+   "stem": "Why give 100% oxygen at high flow after volatile anaesthesia?",
+   "options": [
+    "To raise blood pressure",
+    "To wash out volatile",
+    "To reverse neuromuscular block",
+    "To treat hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f12468",
+   "kind": "mcq",
+   "stem": "What train-of-four ratio confirms adequate recovery from neuromuscular block?",
+   "options": [
+    "0.7-0.8",
+    "<0.5",
+    ">0.9",
+    "0.5-0.7"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c2583c",
+   "kind": "mcq",
+   "stem": "What 50% dextrose dose treats hypoglycaemia in recovery?",
+   "options": [
+    "5 ml/kg",
+    "1 ml/kg",
+    "2 ml/kg",
+    "10 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d5ac39",
+   "kind": "mcq",
+   "stem": "What IV insulin dose is used for hyperglycaemia, DKA or HHS in recovery?",
+   "options": [
+    "1-2 units/kg",
+    "0.05-0.1 units/kg",
+    "0.5-1 units/kg",
+    "5-10 units/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0f5d0e",
+   "kind": "mcq",
+   "stem": "What dose of 3% saline treats hyponatraemia in recovery?",
+   "options": [
+    "1 ml/kg",
+    "5 ml/kg",
+    "3 ml/kg",
+    "10 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#635d61",
+   "kind": "statement",
+   "stem": "How long after a 2 hour VATS lobectomy did a patient become unresponsive?",
+   "answer": "45 minutes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#879a5a",
+   "kind": "statement",
+   "stem": "How should oxygen be delivered in a recovery crisis?",
+   "answer": "100% oxygen by non-rebreather",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#107d70",
+   "kind": "mcq",
+   "stem": "For nasal bleeding in recovery, what position should the patient be in?",
+   "options": [
+    "Lie flat",
+    "Sit up",
+    "Head down",
+    "Left lateral"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#107d70",
+   "kind": "statement",
+   "stem": "If packing or topical vasoconstrictors fail for nasal bleeding, where should the patient go?",
+   "answer": "Back to theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0ddf14",
+   "kind": "mcq",
+   "stem": "What glycopyrrolate dose treats secretions after neostigmine given without an anticholinergic?",
+   "options": [
+    "50 mcg/kg (2-3 mg)",
+    "8 mcg/kg (0.2-0.4 mg)",
+    "25 mcg/kg (1-2 mg)",
+    "0.5 mg/kg (2-4 mg)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8c9e35",
+   "kind": "mcq",
+   "stem": "If a retained throat pack is likely in recovery, what should be done?",
+   "options": [
+    "Immediate tracheostomy",
+    "Suction and observe",
+    "RSI and laryngoscopy",
+    "Give more neostigmine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#40e363",
+   "kind": "mcq",
+   "stem": "Which is a risk factor for aspiration pneumonitis?",
+   "options": [
+    "Low body weight",
+    "Hiatus hernia",
+    "Hypothermia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#40e363",
+   "kind": "statement",
+   "stem": "What is done for particulate matter aspirated into the lungs?",
+   "answer": "Lavage or bronchoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#40e363",
+   "kind": "mcq",
+   "stem": "When is intubation indicated for aspiration pneumonitis?",
+   "options": [
+    "For any crackles",
+    "Routinely at extubation",
+    "If severe",
+    "Only after ICU admission"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0f5bad",
+   "kind": "mcq",
+   "stem": "What causes negative pressure pulmonary oedema, per these notes?",
+   "options": [
+    "Excessive opioid dosing",
+    "Low tidal volumes",
+    "Biting the tube without a bite block",
+    "Hyperkalaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ff1229",
+   "kind": "statement",
+   "stem": "What two artefact causes should be excluded for a suspicious blood pressure reading?",
+   "answer": "Cuff size; other arm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a97aeb",
+   "kind": "statement",
+   "stem": "In recovery, what four things should be excluded when a patient is unsettled?",
+   "answer": "Obstruction, distress, instability, altered consciousness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d2de93",
+   "kind": "mcq",
+   "stem": "What is the IV fentanyl bolus size for pain in recovery?",
+   "options": [
+    "100 mcg",
+    "25 mcg",
+    "250 mcg",
+    "2.5 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d2de93",
+   "kind": "mcq",
+   "stem": "To what pain score should IV fentanyl boluses be given in recovery?",
+   "options": [
+    "7 or higher",
+    "4 or less",
+    "9 or higher",
+    "5 or higher"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#99864c",
+   "kind": "mcq",
+   "stem": "What maximum inspiratory force indicates adequate recovery from residual block?",
+   "options": [
+    ">40 cmH2O",
+    ">25-30 cmH2O",
+    ">50 cmH2O",
+    ">60 cmH2O"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5a82a8",
+   "kind": "mcq",
+   "stem": "What SpO2 target is set for oxygenation in recovery?",
+   "options": [
+    "85-90%",
+    "99-100%",
+    "94-98%",
+    "70-80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#78ddd3",
+   "kind": "mcq",
+   "stem": "What IV furosemide dose treats fluid overload in recovery?",
+   "options": [
+    "50-100 mg",
+    "5-10 mg",
+    "0.5-1 mg",
+    "100-200 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7f6417",
+   "kind": "mcq",
+   "stem": "Which signs suggest malignant hyperthermia in recovery?",
+   "options": [
+    "Bradycardia, hypotension",
+    "Hypothermia, shivering",
+    "Tachycardia, hypertension, tachypnoea",
+    "Hypoglycaemia, sweating"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7f6417",
+   "kind": "statement",
+   "stem": "What two checks are used for a possible stroke in recovery?",
+   "answer": "GCS and focal signs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e8a7c9",
+   "kind": "statement",
+   "stem": "Name the three tests to check for recovery problems with glucose and acid-base.",
+   "answer": "Glucose, ABG, electrolytes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ac22ae",
+   "kind": "statement",
+   "stem": "For high blood pressure in recovery, what medication history should be checked?",
+   "answer": "Adherence and whether morning antihypertensives were taken",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5231d4",
+   "kind": "mcq",
+   "stem": "What IV labetalol dose is given for hypertension in recovery?",
+   "options": [
+    "20 mg every 5 min",
+    "5-10 mg every 5-10 min",
+    "1-2 mg every 30 min",
+    "50 mg every 30 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5231d4",
+   "kind": "mcq",
+   "stem": "What IV hydralazine dose is given for hypertension in recovery?",
+   "options": [
+    "20 mg every 5 min",
+    "50 mg every 30 min",
+    "5-10 mg every 20 min",
+    "1-2 mg every 30 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#48d578",
+   "kind": "statement",
+   "stem": "Relative to baseline, what blood pressure target is set in this recovery approach?",
+   "answer": "20% of baseline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#caaeb8",
+   "kind": "mcq",
+   "stem": "Which lung complication in these notes is transfusion-related?",
+   "options": [
+    "Hypoglycaemia",
+    "TRALI",
+    "Hyponatraemia",
+    "Diabetic ketoacidosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#54397d",
+   "kind": "mcq",
+   "stem": "Which circulatory complication follows transfusion, per these notes?",
+   "options": [
+    "Malignant hyperthermia",
+    "Transfusion-associated circulatory overload",
+    "Serotonin syndrome",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f30571",
+   "kind": "mcq",
+   "stem": "How should a doubtful low SpO2 reading be confirmed in recovery?",
+   "options": [
+    "Repeat the same finger",
+    "Other finger or hand, good trace",
+    "Ignore a poor trace",
+    "Apply 100% oxygen only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#268ceb",
+   "kind": "mcq",
+   "stem": "Which is a postoperative pulmonary complication?",
+   "options": [
+    "Acute pancreatitis",
+    "Atelectasis",
+    "Serotonin syndrome",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#492aba",
+   "kind": "mcq",
+   "stem": "Which age is a patient risk factor for postoperative pulmonary complications?",
+   "options": [
+    "Under 40 years",
+    "Under 18 years",
+    "Over 65 years",
+    "Age 30 to 40"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#492aba",
+   "kind": "blank",
+   "stem": "Albumin below ____ g/L is a patient risk factor for postoperative pulmonary complications.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#492aba",
+   "kind": "statement",
+   "stem": "Name two patient comorbidities that raise the risk of postoperative pulmonary complications.",
+   "answer": "COPD; heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2e4adb",
+   "kind": "mcq",
+   "stem": "Which surgery duration is a surgical risk factor for postoperative pulmonary complications?",
+   "options": [
+    "Under 2 hours",
+    "Longer than 3 hours",
+    "Under 30 minutes",
+    "Under 1 hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2e4adb",
+   "kind": "mcq",
+   "stem": "Which type of surgery is a surgical risk factor for postoperative pulmonary complications?",
+   "options": [
+    "Day-case hernia repair",
+    "Knee arthroscopy",
+    "Upper abdominal surgery",
+    "Cataract surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2b6695",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique carries more pulmonary risk than spinal, epidural or regional?",
+   "options": [
+    "Spinal anaesthesia",
+    "General anaesthesia",
+    "Epidural analgesia",
+    "Peripheral nerve block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2b6695",
+   "kind": "blank",
+   "stem": "Anaesthetic risk factor for postoperative pulmonary complications: neuromuscular ____.",
+   "answer": "blockers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#cf0e9e",
+   "kind": "statement",
+   "stem": "How does lung volume falling below closing capacity harm the lungs after surgery?",
+   "answer": "Causes atelectasis, V/Q mismatch, hypoxaemia and pneumonia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#cf0e9e",
+   "kind": "mcq",
+   "stem": "Which lung damage can be caused by the ventilator during anaesthesia?",
+   "options": [
+    "Pulmonary embolism",
+    "Tension pneumothorax",
+    "Pleural effusion",
+    "Ventilator-induced lung injury"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#bf9c98",
+   "kind": "mcq",
+   "stem": "How long before surgery should a smoker ideally stop to reduce pulmonary complications?",
+   "options": [
+    "24 hours before",
+    "Morning of surgery",
+    "8 weeks before",
+    "1 year before"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#bf9c98",
+   "kind": "mcq",
+   "stem": "Which mouthwash is recommended for oral care before surgery to lower chest complications?",
+   "options": [
+    "Nystatin suspension",
+    "Chlorhexidine mouthwash",
+    "Metronidazole gel",
+    "Miconazole oral gel"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#bf9c98",
+   "kind": "statement",
+   "stem": "Name two preoperative chest measures that help prevent postoperative pulmonary complications.",
+   "answer": "Chest physiotherapy; incentive spirometry",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#de0dba",
+   "kind": "mcq",
+   "stem": "How many puffs of salbutamol MDI are given before intubation?",
+   "options": [
+    "6-8 puffs",
+    "2-4 puffs",
+    "1 puff",
+    "10 puffs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#de0dba",
+   "kind": "mcq",
+   "stem": "When is salbutamol MDI given, relative to intubation?",
+   "options": [
+    "Immediately after extubation",
+    "30 minutes before intubation",
+    "Five minutes after intubation",
+    "During emergence"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#de0dba",
+   "kind": "mcq",
+   "stem": "Which relaxant type should be avoided intraoperatively to lower pulmonary complication risk?",
+   "options": [
+    "Short-acting relaxants",
+    "Long-acting relaxants",
+    "Inhaled bronchodilators",
+    "Benzodiazepine premedication"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e7aa02",
+   "kind": "mcq",
+   "stem": "What score range does each item on the post-anaesthesia discharge score receive?",
+   "options": [
+    "10, 5 or 0",
+    "3, 2 or 1",
+    "2, 1 or 0",
+    "1 to 5 points"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#34a988",
+   "kind": "blank",
+   "stem": "PACU discharge activity item: patient ____ on command.",
+   "answer": "raises 1 arm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#04e523",
+   "kind": "statement",
+   "stem": "Name the three SpO2 bands in the PACU discharge score.",
+   "answer": ">95%; 90-95%; <90%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#62d5dd",
+   "kind": "statement",
+   "stem": "Name the three BP bands in the PACU discharge score.",
+   "answer": "Within 20% of baseline; 20-50% from baseline; >50% from baseline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#817d7a",
+   "kind": "statement",
+   "stem": "Name the three heart rate bands in the PACU discharge score.",
+   "answer": "50-100; 45-49 or 101-120; <45 or >120",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#54612f",
+   "kind": "blank",
+   "stem": "PACU discharge pain score bands are 0-3, 4-6 and ____.",
+   "answer": "7-10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#166ba9",
+   "kind": "statement",
+   "stem": "Name the three temperature bands (degrees C) in the PACU discharge score.",
+   "answer": "<36; 35-35.9; <35",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c4acf7",
+   "kind": "mcq",
+   "stem": "What total PACU discharge score allows discharge to the ward?",
+   "options": [
+    "Less than 16",
+    "8 or more",
+    "16 or more",
+    "Less than 8"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c4a097",
+   "kind": "blank",
+   "stem": "A 61-year-old with previous awareness during ____ is booked for total laparoscopic hysterectomy.",
+   "answer": "laparoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c52552",
+   "kind": "mcq",
+   "stem": "What is accidental awareness under general anaesthesia?",
+   "options": [
+    "Failure to wake after a general anaesthetic",
+    "Nausea and vomiting in the recovery room",
+    "Recalled consciousness during a period expected to be under GA",
+    "Hypoxia during induction of anaesthesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6f2d52",
+   "kind": "mcq",
+   "stem": "Which monitor guides TOF-guided reversal and extubation?",
+   "options": [
+    "Peak flow meter",
+    "Nerve stimulator",
+    "Arterial line",
+    "Blood gas analyser"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6f2d52",
+   "kind": "statement",
+   "stem": "Name one processed EEG monitor used to watch for awareness under GA.",
+   "answer": "BIS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#48b24b",
+   "kind": "statement",
+   "stem": "Name a severe psychological consequence of accidental awareness under GA.",
+   "answer": "PTSD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#48b24b",
+   "kind": "mcq",
+   "stem": "Which approach helps patients after accidental awareness under general anaesthesia?",
+   "options": [
+    "Opioid prescription",
+    "Antibiotic course",
+    "Explanation and CBT",
+    "Antipsychotic therapy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#202255",
+   "kind": "mcq",
+   "stem": "Which questionnaire asks patients about possible awareness under general anaesthesia?",
+   "options": [
+    "Apfel score",
+    "Epworth sleepiness scale",
+    "Modified Brice questionnaire",
+    "Glasgow coma scale"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3207c3",
+   "kind": "statement",
+   "stem": "Define informed consent in one sentence.",
+   "answer": "Permission before a healthcare intervention, research, or disclosure of a person's information",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#49305f",
+   "kind": "mcq",
+   "stem": "What is the age of consent in Singapore?",
+   "options": [
+    "16",
+    "25",
+    "21",
+    "20"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#49305f",
+   "kind": "blank",
+   "stem": "Age of consent in Singapore is 21 (____ for those in National Service).",
+   "answer": "18",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ccb962",
+   "kind": "statement",
+   "stem": "In Gillick competence for under-16s, when does the parental right to decide end?",
+   "answer": "Once the child understands enough to grasp the proposal fully",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#53a689",
+   "kind": "statement",
+   "stem": "If a patient lacks capacity, what must be recorded for a best-interests decision?",
+   "answer": "The grounds, the treatment, and why it is in the patient's best interest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#224552",
+   "kind": "mcq",
+   "stem": "What does voluntariness mean for patient consent?",
+   "options": [
+    "Consent given after a clinician's instruction",
+    "Free of coercion, persuasion or manipulation",
+    "Consent signed by family",
+    "Consent given before surgery only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3f740b",
+   "kind": "mcq",
+   "stem": "After morphine for a fracture, how should the patient's capacity be handled?",
+   "options": [
+    "Assume permanent incompetence",
+    "Refuse all non-urgent decisions permanently",
+    "Do not assume incompetence; reassess capacity",
+    "Refer straight to the court"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#04f3c9",
+   "kind": "mcq",
+   "stem": "In ERAS, up to how long before general anaesthesia are clear fluids allowed?",
+   "options": [
+    "Up to 1 hour before",
+    "Up to 2 hours before",
+    "Up to 6 hours before",
+    "Up to 8 hours before"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a41fde",
+   "kind": "statement",
+   "stem": "What effect on wellbeing does taking clear fluids up to 2 hours before GA have?",
+   "answer": "improve wellbeing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3c3525",
+   "kind": "mcq",
+   "stem": "How many grams of carbohydrate are in the ERAS pre-operative drink?",
+   "options": [
+    "50 g",
+    "75 g",
+    "100 g",
+    "150 g"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3c3525",
+   "kind": "mcq",
+   "stem": "What volume of carbohydrate drink is given the night before surgery in ERAS?",
+   "options": [
+    "400 ml",
+    "600 ml",
+    "800 ml",
+    "200 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3c3525",
+   "kind": "mcq",
+   "stem": "What volume of carbohydrate drink is given 2 hours before surgery in ERAS?",
+   "options": [
+    "100 ml",
+    "600 ml",
+    "400 ml",
+    "200 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3c3525",
+   "kind": "statement",
+   "stem": "Which slowly metabolised carbohydrate is used in the ERAS pre-operative drink?",
+   "answer": "maltodextrin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8f9640",
+   "kind": "mcq",
+   "stem": "When is ERAS antibiotic prophylaxis given relative to incision?",
+   "options": [
+    "60 min after incision",
+    "30 min before incision",
+    "At end of surgery",
+    "After wound closure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0e489c",
+   "kind": "statement",
+   "stem": "What is an example device for goal-directed fluids in ERAS?",
+   "answer": "Oesophageal Doppler",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d6bc5e",
+   "kind": "mcq",
+   "stem": "What SVV range is a goal-directed therapy target in ERAS high-risk patients?",
+   "options": [
+    "SVV >2-5%",
+    "SVV >10-15%",
+    "SVV >20-25%",
+    "SVV >5-8%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d6bc5e",
+   "kind": "statement",
+   "stem": "In ERAS, goal-directed therapy is used in which patients?",
+   "answer": "high-risk patients and major colorectal surgery with large losses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#669e53",
+   "kind": "statement",
+   "stem": "Which two markers remain unknown as best markers for ERAS goal-directed therapy?",
+   "answer": "lactate, ScvO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6c5de0",
+   "kind": "mcq",
+   "stem": "What intraoperative urine output does ERAS aim for, accepting oliguria?",
+   "options": [
+    "0.1 ml/kg/h",
+    ">0.3 ml/kg/h",
+    "0.5 ml/kg/h",
+    "1 ml/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ed4de5",
+   "kind": "statement",
+   "stem": "What problems does intraoperative hypothermia cause in ERAS?",
+   "answer": "shivering, vasoconstriction, immunosuppression, arrhythmias, coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ed4de5",
+   "kind": "mcq",
+   "stem": "Which term means keeping body temperature normal during surgery?",
+   "options": [
+    "Normoglycaemia",
+    "Normothermia",
+    "Normovolaemia",
+    "Normocapnia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e95bfd",
+   "kind": "mcq",
+   "stem": "Which two IV drugs does ERAS use for PONV prophylaxis?",
+   "options": [
+    "Metoclopramide and cyclizine",
+    "Dexamethasone and ondansetron",
+    "Haloperidol and promethazine",
+    "Morphine and ketamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e95bfd",
+   "kind": "statement",
+   "stem": "Why is PONV prophylaxis given in ERAS?",
+   "answer": "so patients eat and do physiotherapy early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c61eb8",
+   "kind": "statement",
+   "stem": "What analgesia approach does ERAS favour, with acute pain team input?",
+   "answer": "Multimodal, opioid-sparing analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f84aad",
+   "kind": "mcq",
+   "stem": "Where not contraindicated, what fall in 30-day complications does spinal anaesthesia give in ERAS?",
+   "options": [
+    "25%",
+    "50%",
+    "75%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f84aad",
+   "kind": "statement",
+   "stem": "Where not contraindicated, what does spinal anaesthesia do to blood loss in ERAS?",
+   "answer": "Less blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#937cfd",
+   "kind": "statement",
+   "stem": "Which three blood-management measures during surgery does ERAS list?",
+   "answer": "tranexamic acid, hypotensive anaesthesia and cell salvage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#993999",
+   "kind": "statement",
+   "stem": "What does ERAS advise about routine nasogastric tubes and drains?",
+   "answer": "No routine nasogastric tubes or drains",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#993999",
+   "kind": "statement",
+   "stem": "Why are routine drains discouraged in ERAS?",
+   "answer": "drains do not reduce 30-day complications and hinder physiotherapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#24cd6f",
+   "kind": "statement",
+   "stem": "What does ERAS advise about urinary catheters and lines after surgery?",
+   "answer": "Remove urinary catheter and lines early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2f70dd",
+   "kind": "statement",
+   "stem": "Name the benefits listed for early feeding in ERAS.",
+   "answer": "less muscle loss, shorter stay, possibly fewer infections",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#922c9f",
+   "kind": "mcq",
+   "stem": "How soon after elective colorectal surgery should ERAS feeding start?",
+   "options": [
+    "Only after day 5",
+    "Within 24 hours",
+    "After bowel sounds return",
+    "Not until discharge"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#922c9f",
+   "kind": "statement",
+   "stem": "Besides speeding gut recovery, what does feeding within 24 h reduce?",
+   "answer": "stay, complications and mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1eae8c",
+   "kind": "mcq",
+   "stem": "How long should sugar-free chewing gum be chewed each time in ERAS?",
+   "options": [
+    "2 min",
+    "30 min",
+    ">10 min",
+    "60 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1eae8c",
+   "kind": "mcq",
+   "stem": "How often a day is sugar-free chewing gum advised in ERAS?",
+   "options": [
+    "1-2 times",
+    "3-4 times",
+    "6-8 times",
+    "Once at night"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1eae8c",
+   "kind": "statement",
+   "stem": "What type of chewing gum does ERAS recommend?",
+   "answer": "Sugar-free",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3e77b9",
+   "kind": "statement",
+   "stem": "When should IV fluids be stopped in ERAS?",
+   "answer": "Soon after leaving recovery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f4ae0c",
+   "kind": "statement",
+   "stem": "Which early measure does ERAS pair with physiotherapy?",
+   "answer": "Early mobilisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9f50ad",
+   "kind": "mcq",
+   "stem": "On which postoperative day should an ERAS epidural be removed?",
+   "options": [
+    "day 5-7",
+    "day 2-3",
+    "day 8-10",
+    "day 1 only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9f50ad",
+   "kind": "statement",
+   "stem": "What analgesic principle does ERAS list alongside epidural use?",
+   "answer": "Opioid-sparing analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#82dc2c",
+   "kind": "statement",
+   "stem": "Across which three phases is ERAS multimodal?",
+   "answer": "pre-, intra- and postoperative phases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d76cf9",
+   "kind": "statement",
+   "stem": "What ongoing activity is part of setting up an ERAS pathway?",
+   "answer": "ongoing interactive audit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d76cf9",
+   "kind": "statement",
+   "stem": "Which staff roles sit on the ERAS setup team?",
+   "answer": "administrators and quality staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c4af16",
+   "kind": "mcq",
+   "stem": "Which is an absolute contraindication to volatile agents in TIVA?",
+   "options": [
+    "Asthma history",
+    "Rigid bronchoscopy",
+    "Malignant hyperthermia history",
+    "Neuromonitoring"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#280b78",
+   "kind": "statement",
+   "stem": "Which agents affect evoked potentials more than propofol plus opioid in neuromonitoring?",
+   "answer": "volatile agents or nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9969d0",
+   "kind": "mcq",
+   "stem": "What is propofol's onset and offset speed?",
+   "options": [
+    "Fast onset and offset",
+    "Slow onset and offset",
+    "Fast onset, slow offset",
+    "Slow onset, fast offset"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9969d0",
+   "kind": "statement",
+   "stem": "In which two organ failures is propofol usable?",
+   "answer": "renal and hepatic failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ce2b41",
+   "kind": "statement",
+   "stem": "Why is TIVA chosen for rigid bronchoscopy?",
+   "answer": "Volatile delivery is unreliable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#cd5ebd",
+   "kind": "statement",
+   "stem": "Name one cancer surgery that is a TIVA indication.",
+   "answer": "Mastectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#dae933",
+   "kind": "statement",
+   "stem": "What is the aim of TIVA in neurosurgery?",
+   "answer": "to reduce ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e9d0e1",
+   "kind": "statement",
+   "stem": "What did a 2017 meta-analysis find about processed EEG (BIS) guided TCI propofol?",
+   "answer": "It kept target depth better than manual control on standard monitoring.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#747f05",
+   "kind": "statement",
+   "stem": "Which dose-dependent TIVA effects are shared with volatile anaesthetics?",
+   "answer": "Loss of airway reflexes and respiratory depression.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#cd1232",
+   "kind": "mcq",
+   "stem": "Which dose-dependent TIVA effect causes hypotension?",
+   "options": [
+    "Bronchial smooth muscle relaxation",
+    "Increased airway reflexes",
+    "Vasodilation and myocardial depression",
+    "Renal sodium retention"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#86a000",
+   "kind": "blank",
+   "stem": "In TIVA, a tucked or draped arm can hide IV ____ that leads to awareness.",
+   "answer": "disconnection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ac33e1",
+   "kind": "statement",
+   "stem": "When can TIVA pump errors lead to overdosing?",
+   "answer": "When soft limits are overridden.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#accedd",
+   "kind": "mcq",
+   "stem": "How does TIVA usually compare with volatile anaesthesia on cost?",
+   "options": [
+    "Usually cheaper",
+    "Usually dearer",
+    "Usually identical",
+    "Usually negligible"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#277b28",
+   "kind": "blank",
+   "stem": "TIVA target-controlled infusions are based on a ____ model.",
+   "answer": "three-compartment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1e61b7",
+   "kind": "mcq",
+   "stem": "In TCI, the loading bolus equals target concentration times which volume?",
+   "options": [
+    "V2 (vessel-rich)",
+    "V3 (vessel-poor)",
+    "V1 (central)",
+    "Effect-site volume"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#08b5f6",
+   "kind": "statement",
+   "stem": "After leaving the central compartment, where does the drug go, in order?",
+   "answer": "Vessel-rich tissue (V2), then vessel-poor tissue (V3).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b1000b",
+   "kind": "mcq",
+   "stem": "In TCI at equilibrium, what is the only remaining drug loss?",
+   "options": [
+    "Redistribution into vessel-rich tissue",
+    "Metabolism and excretion",
+    "Binding to plasma proteins",
+    "Uptake into the effect site"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0b444b",
+   "kind": "statement",
+   "stem": "What determines compartment sizes and rate constants in a TCI model?",
+   "answer": "The drug and model, plus age, sex, height and weight entered into the pump.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b6afe5",
+   "kind": "blank",
+   "stem": "A TCI regimen is one bolus then three superimposed infusions: two decaying and one ____.",
+   "answer": "constant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#45a96c",
+   "kind": "statement",
+   "stem": "What lag does the effect-site model in TCI aim to remove?",
+   "answer": "Hysteresis between plasma level and brain effect.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#90deea",
+   "kind": "mcq",
+   "stem": "Why does the effect-site rate constant (keo) run only from plasma to effect site?",
+   "options": [
+    "Plasma has no protein binding",
+    "Brain clears the drug faster than plasma",
+    "Effect-site volume is very large",
+    "Effect-site volume is negligible"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#dec40f",
+   "kind": "statement",
+   "stem": "How is the true keo found experimentally after a bolus?",
+   "answer": "Pick the trial keo whose effect-site curve matches plasma at the observed peak effect.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8f94c5",
+   "kind": "mcq",
+   "stem": "What sets the bolus and rate in TCI?",
+   "options": [
+    "Clinician experience alone",
+    "A computer model of drug and patient",
+    "Fixed weight-based dosing tables",
+    "The manufacturer's standard rate chart"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c11670",
+   "kind": "blank",
+   "stem": "A fixed-rate infusion takes ____ half-lives to reach steady state.",
+   "answer": "5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#cfaf23",
+   "kind": "statement",
+   "stem": "How can TCI reach target changes faster?",
+   "answer": "Using pauses and boluses.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#51f116",
+   "kind": "mcq",
+   "stem": "What does TCI save compared with repeated manual rate changes?",
+   "options": [
+    "Drug volume used",
+    "Pump battery life",
+    "Less work for the clinician",
+    "Syringe count"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#26cf5b",
+   "kind": "statement",
+   "stem": "What should correct TIVA dosing reduce?",
+   "answer": "Awareness and cardiovascular and respiratory side effects.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c57da4",
+   "kind": "mcq",
+   "stem": "Why does TCI give a faster wake-up after TIVA?",
+   "options": [
+    "Larger final infusion rates",
+    "Overdosing is avoided",
+    "Smaller loading boluses",
+    "Shorter surgery times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#65d45e",
+   "kind": "blank",
+   "stem": "Non-electrical TIVA delivery includes elastomeric pumps and manual ____.",
+   "answer": "clamps",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3c04b0",
+   "kind": "mcq",
+   "stem": "Which of these is an electrical TIVA infusion device?",
+   "options": [
+    "Elastomeric pump",
+    "Roller clamp",
+    "Volumetric pump",
+    "Gravity giving set"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0a1159",
+   "kind": "mcq",
+   "stem": "Which alarm warns that a TIVA pump is running on a low battery?",
+   "options": [
+    "High-pressure occlusion alarm",
+    "Syringe misplacement alarm",
+    "Low-power alarm",
+    "End-of-infusion alarm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0a1159",
+   "kind": "blank",
+   "stem": "A TIVA pump's high-pressure alarm for blockages should leave a minimal ____ bolus.",
+   "answer": "post-occlusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b5c89f",
+   "kind": "mcq",
+   "stem": "Which patient data must be entered into a TCI pump?",
+   "options": [
+    "Blood pressure and heart rate",
+    "Age, weight, height and sex",
+    "Haemoglobin and creatinine",
+    "Body mass index only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b5c89f",
+   "kind": "statement",
+   "stem": "Which two concentrations does a TCI pump display?",
+   "answer": "Plasma and effect-site concentrations.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#29a468",
+   "kind": "statement",
+   "stem": "What organisational measures keep a unit's TIVA pumps safe?",
+   "answer": "Standard pumps across the unit, regular servicing, kept on charge, and all staff trained.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#29a468",
+   "kind": "blank",
+   "stem": "Anaesthetists should be ____ before using TIVA alone.",
+   "answer": "trained",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0366eb",
+   "kind": "mcq",
+   "stem": "Who should double-check a correctly prepared TIVA drug before use?",
+   "options": [
+    "No one, if prepared correctly",
+    "The pump's self-test",
+    "A second person",
+    "The manufacturer's label"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0366eb",
+   "kind": "blank",
+   "stem": "Before TIVA, the giving line must be ____ (no air, less backlash).",
+   "answer": "primed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0366eb",
+   "kind": "statement",
+   "stem": "What check stops a syringe siphoning before TIVA?",
+   "answer": "Syringe intact and seated.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#bd508d",
+   "kind": "mcq",
+   "stem": "Where should a TIVA pump sit during use to avoid under-delivery or siphoning?",
+   "options": [
+    "Two metres above the patient",
+    "On the floor below the bed",
+    "At patient level",
+    "Level with the anaesthetic machine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#bd508d",
+   "kind": "statement",
+   "stem": "What should be checked at intervals during TIVA?",
+   "answer": "Volume delivered.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e5dbc3",
+   "kind": "statement",
+   "stem": "What does a high PACO2 do to alveolar oxygen (PAO2)?",
+   "answer": "Lowers PAO2.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e5dbc3",
+   "kind": "statement",
+   "stem": "How does a shunt affect the benefit of preoxygenation?",
+   "answer": "It reduces the benefit.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c2ef0d",
+   "kind": "mcq",
+   "stem": "At rest, at what approximate rate does oxygen leave the lung?",
+   "options": [
+    "200 ml/min",
+    "125 ml/min",
+    "250 ml/min",
+    "350 ml/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c2ef0d",
+   "kind": "mcq",
+   "stem": "Which resting respiratory quotient (RQ) applies to this gas exchange?",
+   "options": [
+    "0.7",
+    "0.8",
+    "1.0",
+    "1.2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#782003",
+   "kind": "statement",
+   "stem": "In apnoea, why does lung volume shrink?",
+   "answer": "Oxygen uptake continues while CO2 entry falls as PACO2 rises.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9c996d",
+   "kind": "mcq",
+   "stem": "What draws gas into the lungs during apnoea with a patent airway?",
+   "options": [
+    "Spontaneous tidal breathing",
+    "Active diaphragm contraction",
+    "Apnoeic mass flow",
+    "Positive pressure from a bag"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f6c8b1",
+   "kind": "statement",
+   "stem": "Why explain the preoxygenation procedure and gain consent first?",
+   "answer": "To improve cooperation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ddcb04",
+   "kind": "mcq",
+   "stem": "Which position increases FRC during preoxygenation?",
+   "options": [
+    "Head-down tilt",
+    "Head-up",
+    "Flat supine",
+    "Lateral decubitus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d357b0",
+   "kind": "mcq",
+   "stem": "Which treatment for an FRC reducer decompresses bowel obstruction?",
+   "options": [
+    "Central venous line",
+    "NG tube",
+    "Chest drain",
+    "Urinary catheter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d357b0",
+   "kind": "mcq",
+   "stem": "Which therapy recruits atelectasis to treat an FRC reducer?",
+   "options": [
+    "Nebulised salbutamol",
+    "NIV",
+    "Intravenous frusemide",
+    "Oral laxatives"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e20736",
+   "kind": "mcq",
+   "stem": "For preoxygenation, how long of tidal breathing on 100% oxygen is needed?",
+   "options": [
+    "30 seconds",
+    "1-2 minutes",
+    "3-5 minutes",
+    "10 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e20736",
+   "kind": "blank",
+   "stem": "Preoxygenate with a ____-fitting mask and 100% oxygen.",
+   "answer": "tight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2c3e8d",
+   "kind": "statement",
+   "stem": "What fresh gas flow keeps the circuit at 100% oxygen during preoxygenation?",
+   "answer": "Fresh gas flow above minute ventilation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2826c4",
+   "kind": "blank",
+   "stem": "Keep the mask seal and airway ____ until intubation.",
+   "answer": "patent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#af5651",
+   "kind": "statement",
+   "stem": "What does high-flow nasal oxygen after mask removal provide?",
+   "answer": "Apnoeic oxygenation plus positive airway pressure.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#051569",
+   "kind": "statement",
+   "stem": "How is preoxygenation success measured?",
+   "answer": "Expired oxygen fraction (FeO2) above 0.9.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#20c538",
+   "kind": "mcq",
+   "stem": "What does the 'for' argument for extended preoxygenation offer in an unexpected difficult airway?",
+   "options": [
+    "Shorter induction time",
+    "Longer time to desaturation",
+    "Less mask claustrophobia",
+    "Lower atelectasis risk"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1f4eac",
+   "kind": "mcq",
+   "stem": "How much time does extended preoxygenation add to induction?",
+   "options": [
+    "About 1 min",
+    "About 30 s",
+    "About 5 min",
+    "About 15 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1f4eac",
+   "kind": "statement",
+   "stem": "What two postoperative problems count against extended preoxygenation?",
+   "answer": "Absorption atelectasis and postoperative hypoxaemia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4bba1b",
+   "kind": "statement",
+   "stem": "What safety margin does preoxygenation give against unexpected events?",
+   "answer": "Bronchospasm, laryngospasm and accidental extubation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4bba1b",
+   "kind": "statement",
+   "stem": "In V/Q mismatch, interstitial lung disease or pulmonary oedema, what hypoxic harms does preoxygenation help prevent?",
+   "answer": "Myocardial ischaemia, AKI and stroke.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8c9036",
+   "kind": "statement",
+   "stem": "What normally splints alveoli open, and what happens to them on 100% oxygen?",
+   "answer": "Nitrogen splints them; with 100% oxygen they collapse as oxygen is absorbed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#bdaaaa",
+   "kind": "blank",
+   "stem": "Supplemental oxygen after open cholecystectomy with opioid analgesia may be needed for up to ____ hours.",
+   "answer": "72",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#67a223",
+   "kind": "mcq",
+   "stem": "What SpO2 target applies to previously healthy adults?",
+   "options": [
+    "88-92%",
+    "85-90%",
+    "99-100%",
+    "94-98%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#250019",
+   "kind": "mcq",
+   "stem": "Before an ABG, what SpO2 target applies with hypercapnia risk factors but no prior respiratory acidosis?",
+   "options": [
+    "94-98%",
+    "98-100%",
+    "88-92%",
+    "85-88%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#250019",
+   "kind": "mcq",
+   "stem": "Which Venturi oxygen concentrations are used before an ABG?",
+   "options": [
+    "35% or 40%",
+    "24% or 28%",
+    "50% or 60%",
+    "60% or 100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f8081d",
+   "kind": "blank",
+   "stem": "After an ABG with normal CO2, raise FiO2 and target an SpO2 of ____.",
+   "answer": "94-98%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#bbb129",
+   "kind": "statement",
+   "stem": "On oxygen, what do you do after a repeat ABG if CO2 rises or ventilation falls?",
+   "answer": "Lower the SpO2 target.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4356d2",
+   "kind": "mcq",
+   "stem": "Raise Venturi flow by what percentage if respiratory rate is above 30?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#61c711",
+   "kind": "statement",
+   "stem": "Which equipment problems count as oxygen therapy errors?",
+   "answer": "Empty cylinders, or faulty or missing kit.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c1f6da",
+   "kind": "mcq",
+   "stem": "Which oxygen error category covers oxygen confused with medical air?",
+   "options": [
+    "Prescribing",
+    "Monitoring",
+    "Equipment",
+    "Administration"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#748137",
+   "kind": "statement",
+   "stem": "What two monitoring failures count as oxygen therapy errors?",
+   "answer": "Patient not monitored, and low SpO2 not acted on.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#95d40d",
+   "kind": "statement",
+   "stem": "Which history features point to a fluid deficit?",
+   "answer": "Thirst, low or concentrated urine, drowsiness or agitation, postural dizziness, palpitations, breathlessness.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#95760a",
+   "kind": "mcq",
+   "stem": "Which capillary refill time on examination suggests poor perfusion from fluid deficit?",
+   "options": [
+    "1 s",
+    "2 s",
+    "0.5 s",
+    ">3 s"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#95760a",
+   "kind": "blank",
+   "stem": "Examination signs of fluid depletion include poor skin turgor and ____ mucosa.",
+   "answer": "dry",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d87339",
+   "kind": "statement",
+   "stem": "Which blood tests suggest fluid depletion?",
+   "answer": "Lactate, raised urea:creatinine ratio, hyperuricaemia and raised creatinine.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5fc532",
+   "kind": "statement",
+   "stem": "What does goal-directed fluid therapy aim to maximise?",
+   "answer": "Stroke volume.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5fc532",
+   "kind": "mcq",
+   "stem": "On which part of the Frank-Starling curve do goal-directed fluid patients sit?",
+   "options": [
+    "The flat plateau",
+    "The steep part",
+    "The descending limb",
+    "The very top"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2cfc1f",
+   "kind": "blank",
+   "stem": "Stroke volume variation above ____ suggests fluid responsiveness.",
+   "answer": "10%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#45aeb0",
+   "kind": "mcq",
+   "stem": "For stroke volume variation measures, what tidal volume is needed?",
+   "options": [
+    "6 ml/kg",
+    "4 ml/kg",
+    "8 ml/kg",
+    "10 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#45aeb0",
+   "kind": "statement",
+   "stem": "Which rhythm and chest state are needed for dynamic fluid measures?",
+   "answer": "Sinus rhythm and closed chest.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#30aad4",
+   "kind": "blank",
+   "stem": "Pulse pressure variation above ____ suggests fluid responsiveness.",
+   "answer": "13%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6359ab",
+   "kind": "blank",
+   "stem": "Peak velocity variation over one breath above ____ suggests fluid responsiveness.",
+   "answer": "12%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f27f12",
+   "kind": "mcq",
+   "stem": "In a leg raise test for fluid responsiveness, what starting position is used?",
+   "options": [
+    "Flat supine with legs down",
+    "45 degrees semi-recumbent",
+    "Head-down 15 degrees",
+    "Sitting upright at 90 degrees"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2f3ef7",
+   "kind": "mcq",
+   "stem": "After the leg raise, how soon does the peak effect occur?",
+   "options": [
+    "5-10 s",
+    "30-90 s",
+    "2-3 min",
+    "5-10 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2f3ef7",
+   "kind": "statement",
+   "stem": "What change after the leg raise suggests fluid responsiveness?",
+   "answer": "A 10% rise in stroke volume (or pulse pressure on the arterial line).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e66916",
+   "kind": "statement",
+   "stem": "What example illustrates prolonged surgery in a fit adult?",
+   "answer": "18-hour lower limb reconstruction in a fit 30-year-old.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e0910b",
+   "kind": "statement",
+   "stem": "Why use an arterial line in prolonged surgery even in healthy patients?",
+   "answer": "For fluid shifts and ABGs, and to avoid nerve injury from repeated cuff inflation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c9340f",
+   "kind": "blank",
+   "stem": "For flap surgery, the haematocrit target is ____.",
+   "answer": "30%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#82c813",
+   "kind": "mcq",
+   "stem": "In prolonged surgery, what maximum core-peripheral temperature gap limits vasoconstriction?",
+   "options": [
+    "Less than 3 degrees C",
+    "Less than 1 degree C",
+    "Less than 5 degrees C",
+    "More than 2 degrees C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c78b67",
+   "kind": "mcq",
+   "stem": "In prolonged surgery, how often should pressure points be relieved where surgery allows?",
+   "options": [
+    "Every 30 minutes",
+    "Only at the end",
+    "Every 2 hours",
+    "Every 6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#de9509",
+   "kind": "blank",
+   "stem": "Atracurium infusion, guided by train-of-four, keeps ____ twitches.",
+   "answer": "1-2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#54b91b",
+   "kind": "mcq",
+   "stem": "Which head position aids airway drainage in long surgery with fluid shifts?",
+   "options": [
+    "Steep head-down Trendelenburg",
+    "Slight reverse Trendelenburg",
+    "Flat supine with arms tucked",
+    "Prone with head extended"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#54b91b",
+   "kind": "blank",
+   "stem": "Neck ties should be kept ____ so jugular drainage is not obstructed.",
+   "answer": "loose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#815606",
+   "kind": "mcq",
+   "stem": "For high PONV risk in long surgery, which anaesthetic technique is suggested?",
+   "options": [
+    "Sevoflurane maintenance",
+    "Opioid-heavy anaesthesia",
+    "Propofol TIVA",
+    "Nitrous oxide top-up"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e65658",
+   "kind": "statement",
+   "stem": "How can the team limit fatigue-related errors in prolonged surgery?",
+   "answer": "Plan breaks and rotate staff.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e2ae0a",
+   "kind": "mcq",
+   "stem": "In the example, what was the haemoglobin of the 57-year-old before colonic resection?",
+   "options": [
+    "9.2 g/dL",
+    "10.1 g/dL",
+    "11.4 g/dL",
+    "12.6 g/dL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f74236",
+   "kind": "blank",
+   "stem": "In men, anaemia is defined as haemoglobin below ____ g/dL.",
+   "answer": "13",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f74236",
+   "kind": "mcq",
+   "stem": "Which haemoglobin threshold defines anaemia in women?",
+   "options": [
+    "Hb <14 g/dL",
+    "Hb <13 g/dL",
+    "Hb <12 g/dL",
+    "Hb <15 g/dL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0fe5ee",
+   "kind": "mcq",
+   "stem": "How far ahead of major elective surgery should a full blood count be checked?",
+   "options": [
+    "1 week",
+    "2-3 days",
+    "4-6 weeks",
+    "6 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#400438",
+   "kind": "mcq",
+   "stem": "How long is oral iron ideally given before surgery?",
+   "options": [
+    "2 weeks",
+    "1 month",
+    "3 months",
+    "6 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#400438",
+   "kind": "blank",
+   "stem": "After IV iron, ferritin peaks about ____ after the infusion.",
+   "answer": "1 week",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e3c06e",
+   "kind": "statement",
+   "stem": "Which two vitamins should be replaced in patient blood management?",
+   "answer": "B12 and folate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4db32c",
+   "kind": "mcq",
+   "stem": "Before elective surgery in anaemia, what haemoglobin target should be reached?",
+   "options": [
+    "Hb >8 g/dL",
+    "Hb >10 g/dL",
+    "Hb >12 g/dL",
+    "Hb >14 g/dL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#97c3e8",
+   "kind": "statement",
+   "stem": "Name one patient-related indication for blood conservation in patient blood management.",
+   "answer": "Rare blood group or antibodies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2790c1",
+   "kind": "mcq",
+   "stem": "Which expected blood loss is a surgical indication for blood conservation?",
+   "options": [
+    "Over 500 ml or 10% of blood volume",
+    "More than 1 L or 20% of blood volume",
+    "Over 2 L or 40% of blood volume",
+    "Any loss over 100 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7b308d",
+   "kind": "statement",
+   "stem": "Name two advantages of intraoperative cell salvage.",
+   "answer": "Avoids donor blood complications; returned at room temperature (less hypothermia)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f31ddb",
+   "kind": "blank",
+   "stem": "Cell salvage blood contains no clotting factors and no ____.",
+   "answer": "platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#53b790",
+   "kind": "mcq",
+   "stem": "Which condition raises intra-abdominal pressure and aspiration risk?",
+   "options": [
+    "Iron deficiency anaemia",
+    "Ascites",
+    "Hypothyroidism",
+    "Cataract"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#53b790",
+   "kind": "blank",
+   "stem": "Autonomic neuropathy causing gastroparesis occurs in diabetes and in ____.",
+   "answer": "GBS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#65fc64",
+   "kind": "mcq",
+   "stem": "Which surgical factor raises aspiration risk with a supraglottic airway?",
+   "options": [
+    "Cataract surgery",
+    "Pneumoperitoneum",
+    "Wrist fixation",
+    "Hand surgery under block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#99cb42",
+   "kind": "blank",
+   "stem": "Using a ____-generation supraglottic device is an anaesthetic factor for aspiration.",
+   "answer": "first",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ff98cf",
+   "kind": "statement",
+   "stem": "What material in the mouth or device suggests aspiration with a supraglottic airway?",
+   "answer": "Bile-stained, particulate or gastric fluid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#960cd4",
+   "kind": "mcq",
+   "stem": "Which ventilation change suggests aspiration with a supraglottic airway?",
+   "options": [
+    "Rising tidal volume",
+    "Falling tidal volume",
+    "Falling heart rate",
+    "Rising oxygen saturation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e1ba17",
+   "kind": "mcq",
+   "stem": "How many large-bore Yankauer suckers should be ready in an aspiration crisis?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5acf26",
+   "kind": "mcq",
+   "stem": "What position is used immediately in aspiration with a supraglottic airway?",
+   "options": [
+    "Head-up at once",
+    "Head-down at once",
+    "Flat supine at once",
+    "Left lateral at once"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6b6764",
+   "kind": "statement",
+   "stem": "If material is in the mouth or the supraglottic device, what is done at once?",
+   "answer": "Suction, remove the device, intubate with RSI and cricoid pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#879bc4",
+   "kind": "blank",
+   "stem": "After aspiration, ventilate with 100% oxygen and add ____.",
+   "answer": "PEEP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ea7af0",
+   "kind": "mcq",
+   "stem": "How is particulate aspiration treated in the airway?",
+   "options": [
+    "Nebulised salbutamol alone",
+    "High-dose intravenous steroids",
+    "Lavage with suction or bronchoscopy",
+    "Prophylactic tracheostomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7725c3",
+   "kind": "statement",
+   "stem": "What should happen to elective surgery not yet started after aspiration?",
+   "answer": "Cancel it, or finish quickly with the minimum safe procedure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#eca17c",
+   "kind": "blank",
+   "stem": "Antibiotics after aspiration should be guided by the result of a ____ stain.",
+   "answer": "Gram",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#478e6c",
+   "kind": "blank",
+   "stem": "After aspiration, give bronchodilators and lung-protective ventilation, and avoid ____.",
+   "answer": "steroids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a07de5",
+   "kind": "mcq",
+   "stem": "How does cricoid pressure stop passive regurgitation?",
+   "options": [
+    "Lifts the larynx to widen the glottis",
+    "Compresses the oesophagus against the vertebral body",
+    "Pushes the thyroid cartilage forward",
+    "Draws gastric contents up by suction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#819bcc",
+   "kind": "statement",
+   "stem": "Name one situation where aspiration risk needs intubation.",
+   "answer": "Upper GI surgery, pregnancy after 18-20 weeks, or a full stomach",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#17bb74",
+   "kind": "mcq",
+   "stem": "Which finding is a contraindication to a supraglottic airway?",
+   "options": [
+    "Mild asthma",
+    "Obesity",
+    "Active vomiting",
+    "Pregnancy after 20 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#17bb74",
+   "kind": "blank",
+   "stem": "Poor ____ is a contraindication to a supraglottic airway.",
+   "answer": "laryngoscopic view",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#acc39a",
+   "kind": "mcq",
+   "stem": "What benefit is claimed for supraglottic airways in the 'for' argument?",
+   "options": [
+    "Increases failed intubation in electives",
+    "May reduce aspiration",
+    "Makes spinal anaesthesia unsafe",
+    "Causes laryngeal oedema"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c7bb40",
+   "kind": "blank",
+   "stem": "Insertion of a supraglottic airway is uncomfortable awake and may cause ____ or vomiting.",
+   "answer": "coughing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b12d66",
+   "kind": "blank",
+   "stem": "The oesophagus lies ____ to the cricoid 90% of the time.",
+   "answer": "lateral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7fcb46",
+   "kind": "mcq",
+   "stem": "Which topic did National Audit Project 1 (NAP1) cover?",
+   "options": [
+    "Accidental awareness during general anaesthesia",
+    "Supervisory role of consultant anaesthetists",
+    "Perioperative anaphylaxis",
+    "Perioperative cardiac arrest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e86396",
+   "kind": "statement",
+   "stem": "What did National Audit Project 2 (NAP2) cover?",
+   "answer": "Mortality and morbidity review meetings",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3b44db",
+   "kind": "blank",
+   "stem": "National Audit Project 3 covered major complications of central ____ block.",
+   "answer": "neuraxial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2e1bde",
+   "kind": "mcq",
+   "stem": "Which topic did NAP4, published in 2011, cover?",
+   "options": [
+    "Central neuraxial block complications",
+    "Major complications of airway management",
+    "Perioperative anaphylaxis",
+    "Accidental awareness"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ebcf25",
+   "kind": "statement",
+   "stem": "What is the topic of NAP5 in the UK and Ireland?",
+   "answer": "Accidental awareness during general anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#350d96",
+   "kind": "blank",
+   "stem": "NAP6 covered perioperative ____.",
+   "answer": "anaphylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4fa2f9",
+   "kind": "mcq",
+   "stem": "When was the NAP7 report on perioperative cardiac arrest launched?",
+   "options": [
+    "March 2021",
+    "June 2019",
+    "November 2023",
+    "September 2025"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9d276d",
+   "kind": "statement",
+   "stem": "Define a difficult airway.",
+   "answer": "A conventionally trained anaesthetist has difficulty with mask ventilation, tracheal intubation or both.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#764f71",
+   "kind": "blank",
+   "stem": "Loss of airway tone with age above ____ can make mask ventilation difficult.",
+   "answer": "55",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#764f71",
+   "kind": "mcq",
+   "stem": "Which lung disease causes stiff lungs and difficult mask ventilation?",
+   "options": [
+    "Hypothyroidism",
+    "Asthma",
+    "Iron deficiency",
+    "Varicose veins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e8e279",
+   "kind": "mcq",
+   "stem": "Below what mouth opening is SAD insertion impossible?",
+   "options": [
+    "1 cm",
+    "2.5 cm",
+    "2 cm",
+    "3 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2a51d4",
+   "kind": "statement",
+   "stem": "Name two causes of difficult front-of-neck access.",
+   "answer": "Previous neck surgery or radiotherapy; anterior neck mass; short or fixed flexed neck; obesity; surgical emphysema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#580118",
+   "kind": "mcq",
+   "stem": "Which congenital syndrome is linked to a difficult airway?",
+   "options": [
+    "Turner",
+    "Marfan",
+    "Noonan",
+    "Pierre Robin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a105c1",
+   "kind": "blank",
+   "stem": "A mouth opening under ____ fingerbreadths is a difficult airway sign.",
+   "answer": "3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#618c80",
+   "kind": "blank",
+   "stem": "A thyromental distance below ____ cm is a difficult airway sign.",
+   "answer": "6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#92f3f9",
+   "kind": "statement",
+   "stem": "Which imaging is advised for compression or invasion in a difficult airway?",
+   "answer": "CT of the neck and thorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#92f3f9",
+   "kind": "mcq",
+   "stem": "Which imaging is advised for atlanto-axial instability in a difficult airway?",
+   "options": [
+    "Panoramic dental X-ray",
+    "Chest X-ray only",
+    "Renal ultrasound",
+    "Lateral flexion-extension C-spine films"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8ffbb4",
+   "kind": "blank",
+   "stem": "Routine kit: oropharyngeal and nasopharyngeal airways, ____ sizes each.",
+   "answer": "3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8ffbb4",
+   "kind": "mcq",
+   "stem": "Which Macintosh laryngoscope blade sizes are routine in the difficult airway kit?",
+   "options": [
+    "1 and 2",
+    "3 and 4",
+    "5 and 6",
+    "2 and 3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1ecca3",
+   "kind": "mcq",
+   "stem": "Within how many minutes should fibreoptic access be available for difficult airways?",
+   "options": [
+    "1",
+    "5",
+    "15",
+    "30"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d65f17",
+   "kind": "statement",
+   "stem": "How should difficult airway equipment be provided safely?",
+   "answer": "Dedicated stocked trolleys, staff who know contents and location, and departmental training",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5922e8",
+   "kind": "mcq",
+   "stem": "Which extubation airway risk is linked to a head-down or prone long case?",
+   "options": [
+    "Tension pneumothorax",
+    "Hypoglycaemia",
+    "Laryngeal oedema",
+    "Hyperthermia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5922e8",
+   "kind": "blank",
+   "stem": "Tracheomalacia risk rises with long intubation, large goitre or a ____ tumour.",
+   "answer": "thymic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ae78df",
+   "kind": "blank",
+   "stem": "Respiratory risks after extubation include diffusion ____.",
+   "answer": "hypoxia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#687c0d",
+   "kind": "mcq",
+   "stem": "Which cardiovascular effect follows the catecholamine surge at extubation?",
+   "options": [
+    "Bradycardia and hypotension",
+    "Tachycardia and hypertension",
+    "Hypothermia and shivering",
+    "Heart block only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c54484",
+   "kind": "blank",
+   "stem": "Patients with asthma, COPD or ____ are at higher extubation risk.",
+   "answer": "OSA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#986f3e",
+   "kind": "blank",
+   "stem": "Extubation risk is raised by a double-____ tube.",
+   "answer": "lumen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#89b42e",
+   "kind": "statement",
+   "stem": "Which guidance does this section say to follow for extubation?",
+   "answer": "DAS extubation guidance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6d67e2",
+   "kind": "mcq",
+   "stem": "What respiratory rate threshold is part of good effort criteria before extubation?",
+   "options": [
+    "RR <20",
+    "RR <30",
+    "RR <40",
+    "RR <50"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6d67e2",
+   "kind": "blank",
+   "stem": "The respiratory rate to tidal volume ratio should be below ____.",
+   "answer": "105",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6a5459",
+   "kind": "mcq",
+   "stem": "What TOF ratio shows full neuromuscular reversal before extubation?",
+   "options": [
+    "TOF ratio >0.5",
+    "TOF ratio >0.7",
+    "TOF ratio >0.9",
+    "TOF ratio >0.8"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8f654b",
+   "kind": "blank",
+   "stem": "Before extubation, under direct laryngoscopy, the airway is cleared, checked for laryngeal ____, and the trachea suctioned.",
+   "answer": "oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8dcbe3",
+   "kind": "mcq",
+   "stem": "When is nasogastric decompression used before extubation?",
+   "options": [
+    "Routinely in every patient",
+    "If aspiration risk",
+    "Only after cardiac surgery",
+    "Only when the cuff leaks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8dcbe3",
+   "kind": "statement",
+   "stem": "Before extubation, which two problems must be excluded?",
+   "answer": "Haematoma or ongoing bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6e4c8a",
+   "kind": "blank",
+   "stem": "Before extubation a ____ test is done, and bronchoscopy is considered for tracheomalacia.",
+   "answer": "cuff leak",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6e4c8a",
+   "kind": "mcq",
+   "stem": "Which airway problem should prompt consideration of bronchoscopy at extubation?",
+   "options": [
+    "Bronchospasm",
+    "Tracheomalacia",
+    "Pneumothorax",
+    "Hiccups"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5b8564",
+   "kind": "mcq",
+   "stem": "What position is best for extubation?",
+   "options": [
+    "Supine with neck extended",
+    "Sitting or lateral",
+    "Prone",
+    "Trendelenburg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5b8564",
+   "kind": "mcq",
+   "stem": "At what level of consciousness should the patient be extubated?",
+   "options": [
+    "Drowsy but following commands",
+    "Under light anaesthesia",
+    "Fully awake with reflexes back",
+    "Sedated to a light plane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b8b27e",
+   "kind": "mcq",
+   "stem": "Which areas provide extended monitoring after extubation?",
+   "options": [
+    "General ward at once",
+    "Recovery and high dependency",
+    "Operating theatre only",
+    "Emergency department"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1c058a",
+   "kind": "mcq",
+   "stem": "In ICU, which reversible problem is a reason to delay extubation?",
+   "options": [
+    "Mild constipation",
+    "Previous appendicectomy",
+    "Hypothermia",
+    "Pre-existing asthma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d7fe20",
+   "kind": "mcq",
+   "stem": "If problems are not readily reversible after major head and neck resection with flap, what is the next step?",
+   "options": [
+    "Re-intubation with a larger tube",
+    "Tracheostomy",
+    "Awake fibreoptic intubation",
+    "Cricothyroidotomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0f387b",
+   "kind": "mcq",
+   "stem": "Which nerve anaesthetises the front half of the nose?",
+   "options": [
+    "Anterior ethmoidal nerve",
+    "Lingual nerve",
+    "Glossopharyngeal nerve",
+    "Recurrent laryngeal nerve"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0f387b",
+   "kind": "mcq",
+   "stem": "Which structures supply the back half of the nose and the nasopharynx?",
+   "options": [
+    "Anterior ethmoidal nerve",
+    "Lingual nerve",
+    "Nasopalatine branches of sphenopalatine ganglion",
+    "Superior laryngeal nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f88651",
+   "kind": "mcq",
+   "stem": "Which nerve anaesthetises the anterior two-thirds of the tongue?",
+   "options": [
+    "Glossopharyngeal nerve",
+    "Recurrent laryngeal nerve",
+    "Lingual nerve",
+    "Hypoglossal nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b376e1",
+   "kind": "mcq",
+   "stem": "Which nerve supplies the posterior third of the tongue and the tonsils?",
+   "options": [
+    "Lingual nerve",
+    "Internal branch of superior laryngeal nerve",
+    "Glossopharyngeal nerve",
+    "Anterior ethmoidal nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f94f82",
+   "kind": "mcq",
+   "stem": "Which nerve anaesthetises the larynx above the vocal cords?",
+   "options": [
+    "Recurrent laryngeal nerve",
+    "Internal branch of superior laryngeal nerve",
+    "Glossopharyngeal nerve",
+    "Lingual nerve"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f94f82",
+   "kind": "mcq",
+   "stem": "Which nerve anaesthetises the larynx below the vocal cords and the trachea?",
+   "options": [
+    "Glossopharyngeal nerve",
+    "Lingual nerve",
+    "Internal branch of superior laryngeal nerve",
+    "Recurrent laryngeal nerve"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8b0c54",
+   "kind": "mcq",
+   "stem": "What concentration of topical cocaine is used for airway anaesthesia?",
+   "options": [
+    "2%",
+    "5% or 10%",
+    "0.5%",
+    "20%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8b0c54",
+   "kind": "mcq",
+   "stem": "What dose of topical cocaine is quoted for awake fibreoptic intubation?",
+   "options": [
+    "0.5 mg/kg",
+    "1.5 mg/kg",
+    "2.5 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#8b0c54",
+   "kind": "statement",
+   "stem": "Which three conditions call for caution with topical cocaine?",
+   "answer": "Coronary disease, hypertension, pseudocholinesterase deficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b6670a",
+   "kind": "mcq",
+   "stem": "How much 8.4% sodium bicarbonate is in Moffett's solution?",
+   "options": [
+    "1 ml",
+    "2 ml",
+    "5 ml",
+    "10 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b6670a",
+   "kind": "mcq",
+   "stem": "Moffett's solution contains 1 ml of which drug at 1:1000?",
+   "options": [
+    "Cocaine",
+    "Adrenaline",
+    "Lidocaine",
+    "Phenylephrine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#40272f",
+   "kind": "mcq",
+   "stem": "Which lidocaine concentrations are used as a spray for airway anaesthesia?",
+   "options": [
+    "4% or 10%",
+    "1% or 2%",
+    "0.5% or 1%",
+    "20% or 30%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4baef5",
+   "kind": "statement",
+   "stem": "What do topical vasoconstrictors such as oxymetazoline achieve in the airway?",
+   "answer": "Less bleeding, shrunken mucosa and more room for scope and tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4baef5",
+   "kind": "mcq",
+   "stem": "Which drug is a topical vasoconstrictor used in the nose before fibreoptic intubation?",
+   "options": [
+    "Atropine",
+    "Oxymetazoline",
+    "Labetalol",
+    "Glyceryl trinitrate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d54c3c",
+   "kind": "statement",
+   "stem": "Name the three methods of applying topical anaesthetic to the airway.",
+   "answer": "Direct spray, soaked ribbon gauze, cotton applicators",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#13f78b",
+   "kind": "mcq",
+   "stem": "In the McKenzie technique, which cannula gauge is joined to oxygen tubing?",
+   "options": [
+    "16G",
+    "18G",
+    "20G",
+    "22G"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#13f78b",
+   "kind": "mcq",
+   "stem": "What oxygen flow is used with the McKenzie technique?",
+   "options": [
+    "0.5-1 L/min",
+    "2-4 L/min",
+    "6-8 L/min",
+    "10-15 L/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#13f78b",
+   "kind": "statement",
+   "stem": "In the McKenzie technique, what does slow injection of local anaesthetic from a 5 ml syringe give?",
+   "answer": "A directed jet",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5e9051",
+   "kind": "mcq",
+   "stem": "Which device on a syringe gives a fine mist of local anaesthetic?",
+   "options": [
+    "Cotton applicator",
+    "Epidural catheter",
+    "Three-way tap",
+    "Mucosal atomisation device"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5a6e35",
+   "kind": "mcq",
+   "stem": "For how long can nebulised lidocaine be given during fibreoptic intubation?",
+   "options": [
+    "Up to 10 min",
+    "Up to 60 min",
+    "Up to 30 min",
+    "Up to 90 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5a6e35",
+   "kind": "statement",
+   "stem": "When is nebulised lidocaine especially useful?",
+   "answer": "Limited mouth opening",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2a553b",
+   "kind": "mcq",
+   "stem": "In spray-as-you-go, which gauge epidural catheter goes through the scope channel?",
+   "options": [
+    "14G",
+    "16G",
+    "18G",
+    "20G"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9ba6a0",
+   "kind": "mcq",
+   "stem": "In glossopharyngeal block, which needle gauge is placed at the posterior tonsillar pillar?",
+   "options": [
+    "16G",
+    "18G",
+    "22G or 25G",
+    "20G"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9ba6a0",
+   "kind": "mcq",
+   "stem": "What volume of 2% lidocaine is injected submucosally for glossopharyngeal block?",
+   "options": [
+    "2-5 ml",
+    "10-15 ml",
+    "0.5-1 ml",
+    "20-25 ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9ba6a0",
+   "kind": "statement",
+   "stem": "How far lateral to the tongue edge is the needle placed for glossopharyngeal block?",
+   "answer": "0.5 cm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c25dfa",
+   "kind": "mcq",
+   "stem": "For superior laryngeal nerve block, onto which structure is the 25G needle first placed?",
+   "options": [
+    "Thyroid notch",
+    "Cricothyroid membrane",
+    "Greater horn of the hyoid",
+    "Base of tonsillar pillar"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c25dfa",
+   "kind": "mcq",
+   "stem": "What volume of 2% lidocaine is given for superior laryngeal nerve block?",
+   "options": [
+    "1 ml",
+    "2 ml",
+    "5 ml",
+    "10 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c7dada",
+   "kind": "mcq",
+   "stem": "For transtracheal recurrent laryngeal block, through which membrane is the needle passed?",
+   "options": [
+    "Thyrohyoid membrane",
+    "Tracheal ring",
+    "Cricothyroid membrane",
+    "Hyoid bone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c7dada",
+   "kind": "mcq",
+   "stem": "What indicates correct needle position in transtracheal block?",
+   "options": [
+    "Blood on aspiration",
+    "Pulsatile fluid on aspiration",
+    "Air bubbles on aspiration",
+    "Easy injection of fluid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c7dada",
+   "kind": "statement",
+   "stem": "In transtracheal block, what spreads the injected lidocaine through the airway?",
+   "answer": "Coughing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a1e4b6",
+   "kind": "mcq",
+   "stem": "Which is a reason to choose awake fibreoptic intubation?",
+   "options": [
+    "Unstable cervical spine",
+    "Routine elective laparoscopy",
+    "Planned day-case knee arthroscopy",
+    "Ambulatory dental extraction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#478d94",
+   "kind": "statement",
+   "stem": "In which airway situation may the scope cork the airway during fibreoptic intubation?",
+   "answer": "Severe acute obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#25d386",
+   "kind": "statement",
+   "stem": "Raised ICP or IOP is worsened by what, making awake fibreoptic intubation risky?",
+   "answer": "Coughing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#25d386",
+   "kind": "mcq",
+   "stem": "Which of these is a reason to avoid awake fibreoptic intubation?",
+   "options": [
+    "Stable blood pressure",
+    "Normal coagulation",
+    "Healthy young adult",
+    "Basal skull fracture"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5518e2",
+   "kind": "mcq",
+   "stem": "Which airway complication of awake fibreoptic intubation involves bleeding from the nose?",
+   "options": [
+    "Bradycardia",
+    "Epistaxis",
+    "Hyperkalaemia",
+    "Renal colic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b68d56",
+   "kind": "statement",
+   "stem": "Why avoid oxygen insufflation down the scope channel during awake fibreoptic intubation?",
+   "answer": "Gastric rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6d024a",
+   "kind": "mcq",
+   "stem": "Which structure bounds the cricothyroid membrane above?",
+   "options": [
+    "Thyroid cartilage",
+    "Cricoid cartilage",
+    "Hyoid bone",
+    "Epiglottis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#6d024a",
+   "kind": "mcq",
+   "stem": "Which muscles lie laterally to the cricothyroid membrane?",
+   "options": [
+    "Sternocleidomastoid muscles",
+    "Cricothyroid muscles",
+    "Digastric muscles",
+    "Thyrohyoid muscles"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#36f48a",
+   "kind": "mcq",
+   "stem": "At which vertebral level is the cricoid cartilage?",
+   "options": [
+    "C2",
+    "C3/4",
+    "C6",
+    "T1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#36f48a",
+   "kind": "mcq",
+   "stem": "Which cartilage at C3/4 houses the vocal cords?",
+   "options": [
+    "Epiglottis",
+    "Cricoid cartilage",
+    "Hyoid bone",
+    "Thyroid cartilage"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a3d3f6",
+   "kind": "mcq",
+   "stem": "About how far below the laryngeal prominence does the cricothyroid membrane lie?",
+   "options": [
+    "About 2 cm",
+    "About 5 cm",
+    "About 1 cm",
+    "About 8 cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#773cc1",
+   "kind": "mcq",
+   "stem": "Which arteries lie near the cricothyroid membrane?",
+   "options": [
+    "Renal and hepatic arteries",
+    "Subclavian and axillary arteries",
+    "Superior thyroid and cricothyroid arteries",
+    "Femoral and popliteal arteries"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1a7ab4",
+   "kind": "mcq",
+   "stem": "Which complication of cricothyroidotomy involves air in the mediastinum?",
+   "options": [
+    "Pleural effusion",
+    "Pneumomediastinum",
+    "Atrial fibrillation",
+    "Hepatitis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#1a7ab4",
+   "kind": "mcq",
+   "stem": "Which structure can be injured during cricothyroidotomy?",
+   "options": [
+    "Vocal cords",
+    "Sciatic nerve",
+    "Radial artery",
+    "Femoral vein"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c73edc",
+   "kind": "statement",
+   "stem": "Which positioning effect improves V/Q matching?",
+   "answer": "Heart weight off the lungs and a freer diaphragm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#effd1c",
+   "kind": "statement",
+   "stem": "Name two causes of reduced preload listed for positioning.",
+   "answer": "Dependent pooling and caval compression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#effd1c",
+   "kind": "mcq",
+   "stem": "Which positioning complication occurs when air enters the venous circulation?",
+   "options": [
+    "Pulmonary oedema",
+    "Hypoglycaemia",
+    "Venous air embolism",
+    "Hyperkalaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f74e0b",
+   "kind": "mcq",
+   "stem": "What does head rotation reduce, through partial carotid or vertebral occlusion?",
+   "options": [
+    "Cerebral blood flow",
+    "Renal blood flow",
+    "Hepatic blood flow",
+    "Pulmonary blood flow"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f74e0b",
+   "kind": "mcq",
+   "stem": "Which structure can neck flexion or extension compress during surgery?",
+   "options": [
+    "Trachea",
+    "Spinal cord",
+    "Oesophagus",
+    "Subclavian artery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#f74e0b",
+   "kind": "mcq",
+   "stem": "Which risk factors raise the chance of peripheral nerve injury from positioning?",
+   "options": [
+    "Extreme body size and diabetes",
+    "Left-handedness and asthma",
+    "Age over 40 and smoking",
+    "Hypertension and gout"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d6a6c8",
+   "kind": "statement",
+   "stem": "Which two pressure types cause musculoskeletal injury during positioning?",
+   "answer": "Direct and indirect pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#db7645",
+   "kind": "mcq",
+   "stem": "Which eye complication of positioning involves the central retinal artery or vein?",
+   "options": [
+    "Glaucoma",
+    "Central retinal artery or vein occlusion",
+    "Cataract",
+    "Conjunctivitis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#db7645",
+   "kind": "mcq",
+   "stem": "Which eye complication of positioning involves the cornea?",
+   "options": [
+    "Retinal detachment",
+    "Uveitis",
+    "Corneal abrasion or ulcer",
+    "Cataract formation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d0ee8f",
+   "kind": "mcq",
+   "stem": "In head-down positioning, what risk does the endotracheal tube face as the lungs move cephalad?",
+   "options": [
+    "Oesophageal placement",
+    "Endobronchial placement",
+    "Cuff rupture",
+    "Tooth damage"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d0ee8f",
+   "kind": "statement",
+   "stem": "Upper airway oedema may cause which breathing sound afterwards?",
+   "answer": "Stridor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3c8b63",
+   "kind": "mcq",
+   "stem": "In head-down positioning, what happens to venous pooling in the legs?",
+   "options": [
+    "Less pooling",
+    "Greatly increased pooling",
+    "Unchanged pooling",
+    "Abolished pooling"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3c8b63",
+   "kind": "mcq",
+   "stem": "In head-down positioning, which structure is pushed further up?",
+   "options": [
+    "Diaphragm",
+    "Bladder",
+    "Pelvic floor",
+    "Kidneys"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#3f3beb",
+   "kind": "blank",
+   "stem": "A splinted diaphragm causes lower compliance, atelectasis, V/Q ____ and hypoxaemia.",
+   "answer": "mismatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#62cc5d",
+   "kind": "mcq",
+   "stem": "What does hypercapnia do to cerebral vessels?",
+   "options": [
+    "Dilates them and raises ICP",
+    "Constricts them and lowers ICP",
+    "No effect on ICP",
+    "Dilates them and lowers ICP"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#62cc5d",
+   "kind": "statement",
+   "stem": "What can long, steep head-down laparoscopy cause on emergence?",
+   "answer": "Temporary neurological dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fad556",
+   "kind": "mcq",
+   "stem": "Above which intra-abdominal pressure is mesenteric and mucosal flow cut?",
+   "options": [
+    "10 mmHg",
+    "15 mmHg",
+    "20 mmHg",
+    "30 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fad556",
+   "kind": "mcq",
+   "stem": "By up to what percentage can high intra-abdominal pressure cut mesenteric flow?",
+   "options": [
+    "20%",
+    "40%",
+    "60%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fad556",
+   "kind": "statement",
+   "stem": "Which acidosis accompanies reduced gut flow from high intra-abdominal pressure?",
+   "answer": "Lactic acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5de934",
+   "kind": "mcq",
+   "stem": "By about what percentage does pressure above 20 mmHg cut GFR?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#5de934",
+   "kind": "statement",
+   "stem": "Reduced renal blood flow from raised pressure risks which kidney injury?",
+   "answer": "AKI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ba4b13",
+   "kind": "statement",
+   "stem": "Which circulatory change in positioning raises DVT risk?",
+   "answer": "Venous stasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7a1772",
+   "kind": "mcq",
+   "stem": "Surgery longer than how many hours is a listed DVT risk factor?",
+   "options": [
+    "2 h",
+    "4 h",
+    "6 h",
+    "8 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e7b0ef",
+   "kind": "mcq",
+   "stem": "What should be done to pressure points during positioning?",
+   "options": [
+    "Shave them",
+    "Ice them",
+    "Pad them",
+    "Rub them"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d4c036",
+   "kind": "statement",
+   "stem": "Consequences of which recovery temperature are an exam focus for perioperative hypothermia?",
+   "answer": "34 degrees C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0f5d44",
+   "kind": "mcq",
+   "stem": "Shoulder surgery is an example of which surgical cause of nerve injury?",
+   "options": [
+    "Manipulation causing stretch",
+    "Tourniquet ischaemia",
+    "Spinal haematoma",
+    "Hypoxic injury"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#440784",
+   "kind": "mcq",
+   "stem": "Which anaesthetic cause of nerve injury comes from poor padding and arm support?",
+   "options": [
+    "Ischaemia",
+    "Stretch",
+    "Compression",
+    "Laceration"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#440784",
+   "kind": "statement",
+   "stem": "Name the three anaesthetic mechanisms of peripheral nerve injury.",
+   "answer": "Ischaemia, compression and stretch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c6910a",
+   "kind": "mcq",
+   "stem": "What should be recorded before surgery to detect later nerve injury?",
+   "options": [
+    "Neurological deficits",
+    "Blood glucose",
+    "Urine output",
+    "Tidal volume"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c6910a",
+   "kind": "mcq",
+   "stem": "How should a non-operative arm be supported to prevent nerve injury?",
+   "options": [
+    "Raised above the head",
+    "Left hanging off the table",
+    "Padded on an arm board",
+    "Strapped flexed at the elbow"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c6910a",
+   "kind": "statement",
+   "stem": "Which medicines should be continued before surgery as part of nerve injury prevention?",
+   "answer": "Antispasmodics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#770ea6",
+   "kind": "mcq",
+   "stem": "Where is a spinal usually done, risking L4/L5 root trauma?",
+   "options": [
+    "L3/4 or L4/5",
+    "T10/11",
+    "C7/T1",
+    "L1/2"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#770ea6",
+   "kind": "statement",
+   "stem": "What syndrome do epidural or subdural haematomas cause?",
+   "answer": "Cauda equina syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#770ea6",
+   "kind": "mcq",
+   "stem": "Which symptom is typical of cauda equina syndrome?",
+   "options": [
+    "Bladder and bowel loss",
+    "Isolated wrist drop",
+    "Facial droop",
+    "Unilateral arm weakness"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c2be37",
+   "kind": "mcq",
+   "stem": "From what thigh tourniquet time does neurapraxia risk rise, especially in diabetes?",
+   "options": [
+    "Over 8 h",
+    "Over 2 h",
+    "Over 30 min",
+    "Over 6 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#c2be37",
+   "kind": "statement",
+   "stem": "What does a long, high-pressure thigh tourniquet cause in the nerve?",
+   "answer": "Neurapraxia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7206ea",
+   "kind": "mcq",
+   "stem": "How does postoperative delirium typically develop?",
+   "options": [
+    "Over a short time, fluctuating during the day",
+    "Gradually over years, stable through the day",
+    "Only at night, never by day",
+    "Immediately, then fixed for weeks"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7206ea",
+   "kind": "statement",
+   "stem": "List four cognitive domains altered in delirium that are not explained by dementia.",
+   "answer": "Memory, orientation, language and perception",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fd0fc9",
+   "kind": "mcq",
+   "stem": "What can postoperative delirium do after initial emergence?",
+   "options": [
+    "Always clear at emergence",
+    "Persist or recur",
+    "Start only after discharge",
+    "Need no monitoring"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#bd88c9",
+   "kind": "mcq",
+   "stem": "In a confused postoperative patient, what must be excluded first?",
+   "options": [
+    "Airway obstruction and respiratory failure",
+    "Wound infection",
+    "Constipation",
+    "Mild anxiety"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#02d74a",
+   "kind": "mcq",
+   "stem": "Oxygen should be titrated to which SpO2 range in the respiratory check for delirium?",
+   "options": [
+    "88-92%",
+    "94-98%",
+    "98-100%",
+    "85-90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#02d74a",
+   "kind": "mcq",
+   "stem": "Wheeze in the respiratory check suggests which problem?",
+   "options": [
+    "Pneumothorax",
+    "Atelectasis",
+    "Bronchospasm or anaphylaxis",
+    "Pulmonary oedema"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#02d74a",
+   "kind": "statement",
+   "stem": "Which test checks hypoxia, hypercapnia, electrolytes and acid-base in the respiratory check?",
+   "answer": "ABG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a49c70",
+   "kind": "statement",
+   "stem": "Mean arterial pressure should be kept near what level?",
+   "answer": "Baseline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a49c70",
+   "kind": "mcq",
+   "stem": "Which life-support protocol guides arrhythmia treatment in the delirium cardiovascular check?",
+   "options": [
+    "ATLS",
+    "PALS",
+    "ACLS",
+    "BLS"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#452a3c",
+   "kind": "mcq",
+   "stem": "At what TOF ratio is residual neuromuscular block excluded in the delirium neurological check?",
+   "options": [
+    "0.4",
+    "0.6",
+    "0.9",
+    "0.2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#452a3c",
+   "kind": "mcq",
+   "stem": "Which IV drug is given as boluses when pain cannot be assessed in delirium workup?",
+   "options": [
+    "Propofol",
+    "Midazolam",
+    "Fentanyl",
+    "Atropine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#452a3c",
+   "kind": "statement",
+   "stem": "Which three substances' withdrawal should be considered in delirium?",
+   "answer": "Alcohol, opiates and barbiturates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9f30a7",
+   "kind": "mcq",
+   "stem": "Which item should be returned to a delirious patient as a non-drug measure?",
+   "options": [
+    "Glasses and hearing aids",
+    "Intravenous cannula",
+    "Nasogastric tube",
+    "Epidural infusion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9f30a7",
+   "kind": "statement",
+   "stem": "Name two non-drug measures for postoperative delirium.",
+   "answer": "Reorientation; family present; quiet area",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#335169",
+   "kind": "mcq",
+   "stem": "What is the loading dose of IV dexmedetomidine for delirium?",
+   "options": [
+    "10 mcg/kg over 1 min",
+    "1 mcg/kg over 10 min",
+    "5 mcg/kg over 30 min",
+    "0.1 mcg/kg over 5 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#335169",
+   "kind": "statement",
+   "stem": "Which two adverse effects should be watched for with alpha-2 agonists?",
+   "answer": "Bradycardia and hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#335169",
+   "kind": "mcq",
+   "stem": "Besides dexmedetomidine, which IV alpha-2 agonist is used for delirium?",
+   "options": [
+    "Ketamine",
+    "Midazolam",
+    "Clonidine",
+    "Propofol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#841c5a",
+   "kind": "mcq",
+   "stem": "What is the IV haloperidol dose given every 10-15 min for delirium?",
+   "options": [
+    "2-3 mg",
+    "0.5-1.0 mg",
+    "5-10 mg",
+    "0.05-0.1 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#841c5a",
+   "kind": "statement",
+   "stem": "Which two adverse effects are watched for with IV haloperidol?",
+   "answer": "QTc and extrapyramidal effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ec8976",
+   "kind": "mcq",
+   "stem": "How should bed rails be used for a delirious patient?",
+   "options": [
+    "Up and padded",
+    "Down and unpadded",
+    "Removed entirely",
+    "Lowered at night only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#ec8976",
+   "kind": "mcq",
+   "stem": "How should physical restraint be used in delirium?",
+   "options": [
+    "Only as a temporary measure",
+    "As first-line management",
+    "Routinely overnight",
+    "Permanently while in bed"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e99681",
+   "kind": "mcq",
+   "stem": "Which receptors does the chemoreceptor trigger zone carry for PONV?",
+   "options": [
+    "Muscarinic, H1 and D2",
+    "Nicotinic and alpha-1",
+    "Beta-1 and beta-2",
+    "Nicotinic and GABA-A"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e99681",
+   "kind": "mcq",
+   "stem": "Which receptor mediates the gut trigger for PONV via the chemoreceptor trigger zone?",
+   "options": [
+    "Beta-2",
+    "Alpha-1",
+    "5-HT3",
+    "Nicotinic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7ad0fd",
+   "kind": "mcq",
+   "stem": "Which receptors in the vestibular apparatus drive PONV?",
+   "options": [
+    "Beta-1 and alpha-1",
+    "Mu and kappa",
+    "Muscarinic and H1",
+    "Nicotinic and GABA-A"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7ad0fd",
+   "kind": "mcq",
+   "stem": "Which ear surgery is an example of PONV from vestibular stimulation?",
+   "options": [
+    "Tympanoplasty",
+    "Appendicectomy",
+    "Cholecystectomy",
+    "Hernia repair"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e73b2e",
+   "kind": "mcq",
+   "stem": "Which cells release serotonin in the gut during surgical trauma?",
+   "options": [
+    "Enterochromaffin cells",
+    "Hepatocytes",
+    "Mast cells",
+    "Osteoclasts"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e73b2e",
+   "kind": "statement",
+   "stem": "Name the two chemicals released by enterochromaffin cells in gut trauma.",
+   "answer": "Substance P and serotonin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2896d9",
+   "kind": "mcq",
+   "stem": "Which drugs act on the chemoreceptor trigger zone to cause PONV?",
+   "options": [
+    "Opioids and anaesthetics",
+    "Antibiotics and diuretics",
+    "Beta-blockers and statins",
+    "Insulin and steroids"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#183b57",
+   "kind": "mcq",
+   "stem": "Which patient factor raises the risk of postoperative nausea and vomiting?",
+   "options": [
+    "Male sex",
+    "Migraine",
+    "Current smoking",
+    "Age over 60"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#183b57",
+   "kind": "mcq",
+   "stem": "In children, from which age does postoperative nausea and vomiting risk rise?",
+   "options": [
+    "After age 3",
+    "After age 12",
+    "After age 18",
+    "After age 1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9ce1ac",
+   "kind": "mcq",
+   "stem": "Compared with propofol TIVA, which anaesthetic choice raises PONV risk?",
+   "options": [
+    "Propofol infusion",
+    "Spinal anaesthesia",
+    "Volatile agents",
+    "Local infiltration only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9ce1ac",
+   "kind": "statement",
+   "stem": "List the anaesthetic factors that increase PONV risk.",
+   "answer": "GA rather than regional; volatile agents; nitrous oxide; intra- and postoperative opioids; longer anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#07c2b2",
+   "kind": "statement",
+   "stem": "Name the four Apfel score factors for adults.",
+   "answer": "Female; non-smoker; previous PONV or motion sickness; expected postoperative opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#a4f5ab",
+   "kind": "mcq",
+   "stem": "Which consequence of PONV adds cost through unplanned hospital use?",
+   "options": [
+    "Shorter recovery time",
+    "Unplanned hospital admission",
+    "Improved patient satisfaction",
+    "Reduced resource use"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4308d8",
+   "kind": "blank",
+   "stem": "PONV can cause dehydration, electrolyte loss and ____ alkalosis.",
+   "answer": "metabolic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#9de6a3",
+   "kind": "mcq",
+   "stem": "Which serious complication can forceful postoperative vomiting cause?",
+   "options": [
+    "Oesophageal rupture",
+    "Spontaneous pneumothorax",
+    "Cerebral oedema",
+    "Hyperkalaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4216d5",
+   "kind": "mcq",
+   "stem": "Which receptor does hyoscine block to reduce PONV?",
+   "options": [
+    "Dopamine D2 receptors",
+    "Central muscarinic receptors",
+    "5-HT3 receptors",
+    "Histamine H1 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4216d5",
+   "kind": "blank",
+   "stem": "Central anticholinergic syndrome causes excitement, hallucinations, odd behaviour, drowsiness and ____.",
+   "answer": "ataxia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#25bcdd",
+   "kind": "mcq",
+   "stem": "Which antiemetic is an H1 antihistamine with mild anticholinergic effects?",
+   "options": [
+    "Ondansetron",
+    "Cyclizine",
+    "Dexamethasone",
+    "Droperidol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#cca4d7",
+   "kind": "mcq",
+   "stem": "What dose range of droperidol is given for PONV in these notes?",
+   "options": [
+    "5-10 mg",
+    "0.625-1.25 mg",
+    "2.5-5 mg",
+    "0.1-0.2 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#cca4d7",
+   "kind": "mcq",
+   "stem": "Which serious ECG effect does droperidol cause?",
+   "options": [
+    "Long QTc",
+    "Short PR interval",
+    "Wide QRS complexes",
+    "ST elevation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#e545b3",
+   "kind": "mcq",
+   "stem": "What class of antiemetic is ondansetron?",
+   "options": [
+    "NK1 antagonist",
+    "5-HT3 antagonist",
+    "Dopamine D2 antagonist",
+    "Cannabinoid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4e8599",
+   "kind": "statement",
+   "stem": "Which mediator do enterochromaffin cells release after drug or mechanical stimulation?",
+   "answer": "Serotonin (5-HT)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#508274",
+   "kind": "blank",
+   "stem": "NK1 antagonists block ____ in the dorsal vagal complex of the brainstem.",
+   "answer": "substance P",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#2ac1ae",
+   "kind": "mcq",
+   "stem": "How does the cannabinoid nabilone reduce PONV?",
+   "options": [
+    "Blocks 5-HT3 receptors in the CTZ",
+    "Blocks CTZ input to the vomiting centre",
+    "Blocks substance P in the dorsal vagal complex",
+    "Releases serotonin from enterochromaffin cells"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4c6a48",
+   "kind": "statement",
+   "stem": "Name the three groups used to stratify PONV risk.",
+   "answer": "Patient, surgery and anaesthetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#4c6a48",
+   "kind": "mcq",
+   "stem": "For open surgery, which anaesthetic may be used to lower PONV risk?",
+   "options": [
+    "Spinal anaesthesia",
+    "Volatile anaesthesia",
+    "Nitrous oxide anaesthesia",
+    "High-dose opioid infusion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d3ef5a",
+   "kind": "mcq",
+   "stem": "Per ERAS, when is carbohydrate loading given to reduce PONV risk?",
+   "options": [
+    "12 hours before",
+    "2 hours before",
+    "Overnight",
+    "6 hours before"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#d3ef5a",
+   "kind": "statement",
+   "stem": "What drug is given by transdermal patch to reduce baseline PONV risk?",
+   "answer": "Scopolamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#fa571a",
+   "kind": "mcq",
+   "stem": "For open surgery, which opioid-sparing block is suggested?",
+   "options": [
+    "Caudal block",
+    "Intravenous morphine PCA",
+    "Bilateral TAP blocks",
+    "Brachial plexus block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7b17e8",
+   "kind": "mcq",
+   "stem": "What IV dose of dexamethasone is given at induction for PONV prophylaxis?",
+   "options": [
+    "8 mg",
+    "4 mg",
+    "2 mg",
+    "10 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#7b17e8",
+   "kind": "mcq",
+   "stem": "When is IV ondansetron 4 mg given for PONV prophylaxis?",
+   "options": [
+    "At induction",
+    "At the end of surgery",
+    "On arrival in recovery",
+    "Night before surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b4ca12",
+   "kind": "statement",
+   "stem": "How should breakthrough PONV be treated after prophylaxis fails?",
+   "answer": "With a drug from a different class",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#20b28f",
+   "kind": "statement",
+   "stem": "What airway problems can residual neuromuscular blockade cause?",
+   "answer": "Airway obstruction; poor pharyngeal function; weakness; blunted hypoxic drive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#07009c",
+   "kind": "mcq",
+   "stem": "Which bedside sign suggests residual neuromuscular blockade?",
+   "options": [
+    "Cannot sustain head lift",
+    "Pupil dilation",
+    "Bradycardia",
+    "Hypothermia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#713496",
+   "kind": "blank",
+   "stem": "Residual block shows as ____ on tetanic or train-of-four stimulation.",
+   "answer": "fade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#43da11",
+   "kind": "mcq",
+   "stem": "Which maximum inspiratory force suggests residual neuromuscular blockade?",
+   "options": [
+    ">40 cmH2O",
+    "<25-30 cmH2O",
+    ">50 cmH2O",
+    ">60 cmH2O"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0ae912",
+   "kind": "statement",
+   "stem": "What lung complications can residual neuromuscular blockade cause?",
+   "answer": "Weak cough, sputum retention, atelectasis, pneumonia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#b119fb",
+   "kind": "statement",
+   "stem": "What musculoskeletal problems can residual neuromuscular blockade cause?",
+   "answer": "Weakness and incoordination, falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#05963d",
+   "kind": "mcq",
+   "stem": "Which lasting psychological harm can follow unpleasant awareness of weakness?",
+   "options": [
+    "Serotonin syndrome",
+    "PTSD",
+    "Malignant hyperthermia",
+    "Anaphylaxis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0c5a53",
+   "kind": "statement",
+   "stem": "Which conditions reduce clearance of rocuronium?",
+   "answer": "Liver disease; hypothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#89df7b",
+   "kind": "mcq",
+   "stem": "Which opioid can give immobility so that neuromuscular blockers can be avoided?",
+   "options": [
+    "Naloxone",
+    "Remifentanil",
+    "Neostigmine",
+    "Sugammadex"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#01d098",
+   "kind": "mcq",
+   "stem": "Which short-acting, organ-independent relaxant is used intraoperatively?",
+   "options": [
+    "Pancuronium",
+    "Vecuronium",
+    "Atracurium",
+    "Pipecuronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#01d098",
+   "kind": "mcq",
+   "stem": "How many twitches is enough for most intraoperative surgery?",
+   "options": [
+    "5-6 twitches",
+    "1-2 twitches",
+    "10 twitches",
+    "0 twitches"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#01d098",
+   "kind": "blank",
+   "stem": "Intraoperatively, check potassium, calcium and ____.",
+   "answer": "Mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#54bd5d",
+   "kind": "mcq",
+   "stem": "What neostigmine dose is given with glycopyrrolate once four twitches are present?",
+   "options": [
+    "25 mcg/kg",
+    "100 mcg/kg",
+    "50 mcg/kg",
+    "200 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#54bd5d",
+   "kind": "mcq",
+   "stem": "What sugammadex dose is given once four twitches are present?",
+   "options": [
+    "5-10 mg/kg",
+    "0.5-1 mg/kg",
+    "1-2 mg/kg",
+    "3-4 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#0e67f6",
+   "kind": "mcq",
+   "stem": "What is the maximum neostigmine dose for further postoperative reversal?",
+   "options": [
+    "140 mcg/kg",
+    "35 mcg/kg",
+    "70 mcg/kg",
+    "100 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#25c2b6",
+   "kind": "statement",
+   "stem": "In the example, what was the atracurium dose for a 50 kg patient?",
+   "answer": "25 mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/general-anaesthesia#97178f",
+   "kind": "statement",
+   "stem": "What is the argument for routine reversal of neuromuscular block?",
+   "answer": "Avoids residual block complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

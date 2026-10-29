@@ -1,0 +1,1099 @@
+{
+ "topic": "other/key-trials",
+ "questions": [
+  {
+   "fact_id": "other/key-trials#2440e3",
+   "kind": "statement",
+   "stem": "What did the Rivers (EGDT) trial test in severe sepsis and septic shock?",
+   "answer": "Early goal-directed therapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#0163db",
+   "kind": "mcq",
+   "stem": "In EMShockNet (2010), what was compared with ScvO2 as an early sepsis goal?",
+   "options": [
+    "Serum procalcitonin",
+    "Urine output alone",
+    "Lactate clearance",
+    "Central venous pressure alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#8224ec",
+   "kind": "mcq",
+   "stem": "In the sepsis non-inferiority study, what happened to mortality when lactate clearance replaced continuous ScvO2?",
+   "options": [
+    "Rose significantly",
+    "Did not rise",
+    "Halved",
+    "Doubled"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#a90fa6",
+   "kind": "mcq",
+   "stem": "What drug was tested in the CORTICUS trial (2008) in septic shock?",
+   "options": [
+    "Vasopressin",
+    "Hydrocortisone",
+    "Dobutamine",
+    "Albumin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#39b3c8",
+   "kind": "statement",
+   "stem": "In CLASSIC, what did restricting IV fluids do to 90-day deaths in adult ICU septic shock?",
+   "answer": "Did not reduce them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#76db00",
+   "kind": "mcq",
+   "stem": "In the VASST trial (2008), vasopressin was compared with which drug in septic shock?",
+   "options": [
+    "Dopamine",
+    "Adrenaline",
+    "Noradrenaline",
+    "Phenylephrine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#ca6ca9",
+   "kind": "mcq",
+   "stem": "In PneumA (2003), how many antibiotic days were compared for ventilator-associated pneumonia?",
+   "options": [
+    "3 vs 7 days",
+    "5 vs 10 days",
+    "8 vs 15 days",
+    "10 vs 21 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#1d85cd",
+   "kind": "mcq",
+   "stem": "In PneumA, which organism's gram stain was an exception to the 8-day antibiotic course?",
+   "options": [
+    "Staphylococcus aureus",
+    "Pseudomonas aeruginosa",
+    "Klebsiella pneumoniae",
+    "Escherichia coli"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#f3252c",
+   "kind": "mcq",
+   "stem": "What did the PRORATA trial (2010) use to guide ICU antibiotics?",
+   "options": [
+    "C-reactive protein",
+    "Procalcitonin",
+    "Serum lactate",
+    "White cell count"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#77bbff",
+   "kind": "mcq",
+   "stem": "Stopping antibiotics at procalcitonin below what level did not raise mortality in ICU?",
+   "options": [
+    "1-2 mcg/L",
+    "0.25-0.5 mcg/L",
+    "5-10 mcg/L",
+    "10-20 mcg/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#77bbff",
+   "kind": "mcq",
+   "stem": "By how many days on average did procalcitonin-guided stopping cut antibiotic use?",
+   "options": [
+    "1 day",
+    "3 days",
+    "7 days",
+    "10 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#450574",
+   "kind": "mcq",
+   "stem": "In 3SITES, which central line site had fewer bloodstream infections and DVTs?",
+   "options": [
+    "Jugular",
+    "Femoral",
+    "Subclavian",
+    "Antecubital"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#450574",
+   "kind": "mcq",
+   "stem": "In 3SITES, what drawback offset the benefit of subclavian lines?",
+   "options": [
+    "More bloodstream infections",
+    "More deep vein thromboses",
+    "More mechanical complications",
+    "Higher mortality"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#70aa02",
+   "kind": "mcq",
+   "stem": "In VITAMINS (2020), what did adding vitamin C and thiamine to hydrocortisone do in septic shock?",
+   "options": [
+    "Slowed shock resolution",
+    "No effect on shock resolution",
+    "Faster shock resolution",
+    "Higher mortality"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#08e887",
+   "kind": "mcq",
+   "stem": "In INTERACT-2 (2015), what systolic target within 1 hour lowered death or severe disability?",
+   "options": [
+    "<120 mm Hg",
+    "<140 mm Hg",
+    "<160 mm Hg",
+    "<200 mm Hg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#979c0c",
+   "kind": "mcq",
+   "stem": "In ATACH-2 (2018), what intensive systolic range did not improve disability or mortality?",
+   "options": [
+    "90 to 109 mm Hg",
+    "110 to 139 mm Hg",
+    "160 to 199 mm Hg",
+    "200 to 219 mm Hg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#979c0c",
+   "kind": "statement",
+   "stem": "Which IV drug was mainly used to lower blood pressure in ATACH-2?",
+   "answer": "Nicardipine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#445cfa",
+   "kind": "mcq",
+   "stem": "In the CRASH trial, what did 48 hours of methylprednisolone after TBI do to mortality?",
+   "options": [
+    "Reduced it",
+    "Increased it",
+    "No effect on it",
+    "Halved it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#2f7cc7",
+   "kind": "mcq",
+   "stem": "Which drug was found beneficial in traumatic brain injury in CRASH-3?",
+   "options": [
+    "Aprotinin",
+    "Tranexamic acid",
+    "Desmopressin",
+    "Methylprednisolone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#4b8684",
+   "kind": "mcq",
+   "stem": "In DECRA, early craniectomy in diffuse TBI did not improve which outcome?",
+   "options": [
+    "Seizure frequency",
+    "Blood glucose control",
+    "Functional outcome",
+    "Serum sodium levels"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#e69322",
+   "kind": "mcq",
+   "stem": "In RESCUEicp, craniectomy for TBI with refractory intracranial hypertension versus medical care: what happened to mortality?",
+   "options": [
+    "Higher mortality",
+    "Lower mortality",
+    "Same mortality",
+    "Doubled mortality"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#e306e5",
+   "kind": "mcq",
+   "stem": "In STITCH, what did early evacuation within 12 h do to mortality in traumatic intracerebral haemorrhage?",
+   "options": [
+    "Increased mortality",
+    "No effect on mortality",
+    "Reduced mortality",
+    "Doubled mortality"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#6dcaa7",
+   "kind": "mcq",
+   "stem": "In HACA (2002), what temperature range was used for mild hypothermia after VF cardiac arrest?",
+   "options": [
+    "28-30° C",
+    "30-32° C",
+    "32-34° C",
+    "36-38° C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#5bdae8",
+   "kind": "mcq",
+   "stem": "In TTM and TTM2, what did hypothermia do to survival versus normothermia after out-of-hospital arrest?",
+   "options": [
+    "Did not improve it",
+    "Clearly improved it",
+    "Halved mortality",
+    "Reduced survival"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#5bdae8",
+   "kind": "mcq",
+   "stem": "What adverse effect was more common with hypothermia in the TTM trials?",
+   "options": [
+    "Arrhythmias",
+    "Pancreatitis",
+    "Renal failure",
+    "Anaphylaxis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#5c3527",
+   "kind": "statement",
+   "stem": "In the 2000 sedation trial, what did daily sedation holidays reduce?",
+   "answer": "Ventilation, ICU and hospital days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#cb159a",
+   "kind": "mcq",
+   "stem": "In the ABC trial (2008), what was paired with daily sedation holidays?",
+   "options": [
+    "Spontaneous breathing trials",
+    "Dexmedetomidine infusion",
+    "Prone positioning",
+    "Early tracheostomy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#6ec27f",
+   "kind": "mcq",
+   "stem": "In SEDCOM (2009), what adverse effect was more common with dexmedetomidine?",
+   "options": [
+    "Delirium",
+    "Tachycardia",
+    "Bradycardia",
+    "Hypertension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#2b888a",
+   "kind": "mcq",
+   "stem": "In SPICE III (2019), what did dexmedetomidine as main sedative do to mortality versus usual care?",
+   "options": [
+    "Halved it",
+    "Cut it by a third",
+    "No mortality benefit",
+    "Doubled it"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#aef0bd",
+   "kind": "mcq",
+   "stem": "In the SAFE trial, what was the overall difference between 4% albumin and 0.9% saline for resuscitation?",
+   "options": [
+    "Albumin clearly better",
+    "Saline clearly better",
+    "No overall difference",
+    "Albumin doubled mortality"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#aef0bd",
+   "kind": "mcq",
+   "stem": "Which resuscitation fluid did SAFE advise avoiding in head injury?",
+   "options": [
+    "0.9% saline",
+    "4% albumin",
+    "Plasmalyte",
+    "Hartmann's solution"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#e716d9",
+   "kind": "mcq",
+   "stem": "In SMART, which fluid reduced a composite of death, renal replacement or renal dysfunction at 30 days?",
+   "options": [
+    "0.9% normal saline",
+    "Plasmalyte",
+    "4% albumin",
+    "Gelofusine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#5005bc",
+   "kind": "mcq",
+   "stem": "In PLUS, what did PL-148 do to 90-day mortality or AKI versus 0.9% saline?",
+   "options": [
+    "Did not reduce them",
+    "Clearly reduced them",
+    "Doubled them",
+    "Tripled them"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#414755",
+   "kind": "mcq",
+   "stem": "What did the PAC-Man trial (2005) find for pulmonary artery catheters in critically ill patients?",
+   "options": [
+    "Clear mortality benefit",
+    "Clear mortality harm",
+    "No clear benefit or harm",
+    "Fewer ICU days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#414755",
+   "kind": "statement",
+   "stem": "PAC-Man (2005) was the largest trial of which monitoring device?",
+   "answer": "Pulmonary artery catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#e7ac95",
+   "kind": "mcq",
+   "stem": "In SOAP II (2010), dopamine was compared with which vasopressor in shock?",
+   "options": [
+    "Adrenaline",
+    "Vasopressin",
+    "Noradrenaline",
+    "Phenylephrine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#c1bcd9",
+   "kind": "mcq",
+   "stem": "In the SHOCK trial (1999), what improved survival compared with medical stabilisation?",
+   "options": [
+    "Early revascularisation",
+    "Intra-aortic balloon pump",
+    "Higher fluid volume",
+    "Dopamine infusion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#fa6566",
+   "kind": "mcq",
+   "stem": "Under current ACC/AHA MI guidance, emergency revascularisation in cardiogenic shock is advised below what age?",
+   "options": [
+    "Younger than 65 years",
+    "Younger than 75 years",
+    "Younger than 85 years",
+    "At any age"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#dead84",
+   "kind": "mcq",
+   "stem": "In IABP-SHOCK II (2012), what did the intra-aortic balloon pump do to outcome in MI with cardiogenic shock?",
+   "options": [
+    "Clearly improved it",
+    "Did not improve it",
+    "Doubled mortality",
+    "Halved mortality"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#a6ae48",
+   "kind": "mcq",
+   "stem": "In dispatcher-assisted CPR, what did compression-only CPR do to overall survival?",
+   "options": [
+    "Clearly improved it",
+    "Did not improve it",
+    "Halved it",
+    "Reduced it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#a3d25b",
+   "kind": "mcq",
+   "stem": "In DANAMI-2, angioplasty for STEMI was compared with which treatment?",
+   "options": [
+    "Fibrinolysis",
+    "Coronary artery bypass grafting",
+    "Beta-blocker therapy",
+    "Intravenous heparin alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#2fee3a",
+   "kind": "mcq",
+   "stem": "In ARDSnet (ARMA, 2000), what tidal volume was used to ventilate ALI/ARDS?",
+   "options": [
+    "8 ml/kg",
+    "6 ml/kg",
+    "10 ml/kg",
+    "12 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#2fee3a",
+   "kind": "mcq",
+   "stem": "In ARDSnet, what plateau pressure limit was set for ventilating ALI/ARDS?",
+   "options": [
+    "20 cm water",
+    "40 cm water",
+    "30 cm water",
+    "50 cm water"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#b2842a",
+   "kind": "mcq",
+   "stem": "In FACTT (2006), what did a conservative fluid strategy in ALI/ARDS cut compared with liberal fluids?",
+   "options": [
+    "Ventilator and ICU days",
+    "Vasopressor use",
+    "Need for dialysis",
+    "Blood transfusions"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#b2842a",
+   "kind": "mcq",
+   "stem": "In FACTT, what CVP target defined the conservative fluid strategy?",
+   "options": [
+    "CVP <2 mmHg",
+    "CVP <4 mmHg",
+    "CVP <8 mmHg",
+    "CVP <12 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#172405",
+   "kind": "mcq",
+   "stem": "In ACURASYS (2010), what early intervention lowered mortality in severe ARDS?",
+   "options": [
+    "Early sedation alone",
+    "Higher tidal volumes",
+    "Neuromuscular blockade",
+    "Routine tracheostomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#217a43",
+   "kind": "mcq",
+   "stem": "In severe ARDS, what did prone positioning do in the PROSEVA trial (2013)?",
+   "options": [
+    "Raised mortality with more adverse events",
+    "Lowered mortality without more adverse events",
+    "Made no difference to mortality",
+    "Lowered mortality but caused more adverse events"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#53dbf6",
+   "kind": "statement",
+   "stem": "In the TracMan trial, how did early (around day 4) and late (day 10) tracheostomy compare?",
+   "answer": "No difference between them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#94c220",
+   "kind": "mcq",
+   "stem": "In moderate to severe early ARDS, what did early high-frequency oscillation do to hospital mortality (OSCILLATE, 2013)?",
+   "options": [
+    "Reduced hospital mortality",
+    "No effect on hospital mortality",
+    "May increase hospital mortality",
+    "Halved hospital mortality"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#a0c8eb",
+   "kind": "statement",
+   "stem": "PReVENT: in ventilated ICU patients without ARDS, how did low tidal volumes compare with intermediate for ventilator-free days at day 28?",
+   "answer": "No better than intermediate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#31e0f3",
+   "kind": "mcq",
+   "stem": "In DEXA-ARDS (2020), what did dexamethasone do to ventilation and mortality in ARDS?",
+   "options": [
+    "Prolonged ventilation and raised mortality",
+    "Sped liberation from ventilation and reduced mortality",
+    "Had no effect on ventilation or mortality",
+    "Reduced ventilation time but raised mortality"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#a7c59b",
+   "kind": "mcq",
+   "stem": "What P/F ratio at 24 hours after onset, on PEEP of 10 cm H2O or more and FiO2 of 0.5 or more, defines established ARDS?",
+   "options": [
+    "Below 200",
+    "Below 300",
+    "Below 100",
+    "Below 150"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#eeb9ef",
+   "kind": "statement",
+   "stem": "Doig 2013: in patients with a short-term relative contraindication to enteral feeding, what did early parenteral nutrition do to 60-day mortality and infection?",
+   "answer": "Did not change them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#0258dd",
+   "kind": "mcq",
+   "stem": "What do POP-UP and SUP-ICU say about routine PPI use in ICU patients?",
+   "options": [
+    "Routine use is recommended for all patients",
+    "Evidence against routine use",
+    "Routine use cuts pneumonia rates",
+    "Routine use is proven to prevent bleeding"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#71e0fd",
+   "kind": "mcq",
+   "stem": "In the ATN trial (2008), what did intensive renal replacement therapy do in critically ill patients?",
+   "options": [
+    "Improved renal and other organ function",
+    "Reduced hypotension and improved outcomes",
+    "Did not improve organ function but caused more hypotension",
+    "Lowered mortality with fewer haemodynamic effects"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#304449",
+   "kind": "blank",
+   "stem": "In BICAR-ICU (2018), sodium bicarbonate for severe metabolic acidosis did not improve ____ at day 28.",
+   "answer": "mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#304449",
+   "kind": "mcq",
+   "stem": "In BICAR-ICU (2018), in which group did sodium bicarbonate show a benefit?",
+   "options": [
+    "Overall trial population",
+    "Prespecified AKI subgroup",
+    "Patients with pH above 7.2",
+    "Patients not on renal replacement"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#528a89",
+   "kind": "mcq",
+   "stem": "In TRICC (1999), what haemoglobin transfusion threshold was found safe in critically ill patients?",
+   "options": [
+    "Below 5g/dl",
+    "7-9g/dl",
+    "5-7g/dl",
+    "10-12g/dl"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#2589bb",
+   "kind": "statement",
+   "stem": "Compared with the older transfusion threshold above 9g/dl, what did the 7-9g/dl threshold achieve?",
+   "answer": "Less blood used, with fewer costs and complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#cf6dff",
+   "kind": "mcq",
+   "stem": "In TRISS (2014), how did 90-day mortality compare between transfusion at Hb 7 and at Hb 9 g/dL in septic shock?",
+   "options": [
+    "Lower with Hb 7 g/dL",
+    "Higher with Hb 7 g/dL",
+    "Similar at 90 days",
+    "Higher with Hb 9 g/dL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#cf6dff",
+   "kind": "mcq",
+   "stem": "In TRISS (2014), transfusing at Hb 7 g/dL instead of 9 g/dL used what percentage fewer units?",
+   "options": [
+    "25%",
+    "50%",
+    "75%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#619921",
+   "kind": "mcq",
+   "stem": "In CRASH-2, what did tranexamic acid do in bleeding trauma patients?",
+   "options": [
+    "Had no effect on death",
+    "Safely reduced death",
+    "Increased deaths from thrombosis",
+    "Doubled the risk of seizures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#ae1916",
+   "kind": "mcq",
+   "stem": "In PROPPR, severe trauma patients were given plasma, platelets and red cells in what ratio, compared with 1:1:2?",
+   "options": [
+    "2:2:1",
+    "1:1:1",
+    "1:2:2",
+    "3:2:1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#d33f20",
+   "kind": "mcq",
+   "stem": "In NICE-SUGAR, which glucose target had lower mortality in critically ill adults?",
+   "options": [
+    "4.5 to 6.0 mmol/L (81 to 108 mg/dL)",
+    "Below 10.0 mmol/L (180 mg/dL)",
+    "Below 7.8 mmol/L (140 mg/dL)",
+    "4.0 to 5.0 mmol/L (72 to 90 mg/dL)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#39c596",
+   "kind": "statement",
+   "stem": "What did NICE-SUGAR do to the 2001 Leuven surgical trial?",
+   "answer": "Overturned its finding favouring tight glucose control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#fa30e0",
+   "kind": "mcq",
+   "stem": "In the Collaborative Eclampsia Trial (1995), which anticonvulsant was best for eclampsia?",
+   "options": [
+    "Phenytoin",
+    "Magnesium",
+    "Diazepam",
+    "Lorazepam"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#c8fe0d",
+   "kind": "mcq",
+   "stem": "In the Magpie trial, by about what percentage did magnesium sulphate in pre-eclampsia cut eclamptic seizures?",
+   "options": [
+    "25%",
+    "58%",
+    "80%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#c8fe0d",
+   "kind": "mcq",
+   "stem": "In the Magpie trial, what was the number needed to treat (NNT) with magnesium sulphate to prevent one eclamptic seizure?",
+   "options": [
+    "19",
+    "37",
+    "250",
+    "91"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#dcdfa3",
+   "kind": "mcq",
+   "stem": "In the 2004 factorial PONV trial, how many interventions were tested?",
+   "options": [
+    "Four",
+    "Six",
+    "Three",
+    "Eight"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#601d3f",
+   "kind": "mcq",
+   "stem": "In the 2004 factorial PONV trial, by about how much did ondansetron, dexamethasone or droperidol each cut relative PONV risk?",
+   "options": [
+    "~12%",
+    "~40%",
+    "~25%",
+    "~50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#d11db9",
+   "kind": "mcq",
+   "stem": "In the 2004 factorial PONV trial, by what percentage did propofol maintenance, rather than volatile, reduce PONV?",
+   "options": [
+    "25%",
+    "12%",
+    "19%",
+    "30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#8292fb",
+   "kind": "mcq",
+   "stem": "In the 2004 factorial PONV trial, by what percentage did avoiding nitrous oxide reduce PONV?",
+   "options": [
+    "19%",
+    "12%",
+    "5%",
+    "30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#f06554",
+   "kind": "mcq",
+   "stem": "In RELIEF (2018), how did restrictive fluids compare with liberal fluids for disability-free survival in higher-risk major abdominal surgery?",
+   "options": [
+    "Improved it markedly",
+    "Lowered it",
+    "Did not improve it",
+    "Improved it only in older patients"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#f06554",
+   "kind": "statement",
+   "stem": "In RELIEF (2018), what complication did restrictive fluids cause more often than liberal fluids?",
+   "answer": "AKI",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#1d6a9d",
+   "kind": "statement",
+   "stem": "Which drug class did the POISE trial study in the perioperative period?",
+   "answer": "Beta-blockers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#12ba9c",
+   "kind": "statement",
+   "stem": "What are the National Audit Projects (NAP) in UK anaesthesia?",
+   "answer": "UK audits of rare but serious anaesthetic complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#ad4631",
+   "kind": "statement",
+   "stem": "NAP1 and NAP2 (UK audits): what key role did they highlight for consultant anaesthetists?",
+   "answer": "Their supervisory role",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#1523c4",
+   "kind": "mcq",
+   "stem": "Which technique did the NAP 3 audit (2009) examine for major complications?",
+   "options": [
+    "Airway management",
+    "Central neuraxial block",
+    "Peripheral nerve block",
+    "Intravenous cannulation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#fa8d44",
+   "kind": "mcq",
+   "stem": "Which area did the NAP 4 audit (2013) examine for major complications?",
+   "options": [
+    "Central neuraxial block",
+    "Airway management",
+    "Blood transfusion",
+    "Anaesthetic gas delivery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#f804e0",
+   "kind": "mcq",
+   "stem": "What did the NAP 5 audit (2014) examine in the UK and Ireland?",
+   "options": [
+    "Post-operative nausea",
+    "Accidental awareness during general anaesthesia",
+    "Malignant hyperthermia",
+    "Dental injury"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#b7f229",
+   "kind": "mcq",
+   "stem": "What was the quoted risk of accidental awareness during general anaesthesia?",
+   "options": [
+    "1:2000",
+    "1:5000",
+    "1:19000",
+    "1:100000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#a97f52",
+   "kind": "mcq",
+   "stem": "What perioperative problem did the NAP 6 audit (2018) examine?",
+   "options": [
+    "Perioperative cardiac arrest",
+    "Perioperative life-threatening allergic reactions",
+    "Perioperative accidental awareness",
+    "Perioperative dental injury"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#f1a450",
+   "kind": "mcq",
+   "stem": "In the NAP 6 audit of perioperative allergic reactions, which agent ranked 3rd as a cause?",
+   "options": [
+    "Propofol",
+    "Chlorhexidine",
+    "Paracetamol",
+    "Ondansetron"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#1b8ba6",
+   "kind": "mcq",
+   "stem": "What perioperative event did the NAP 7 audit (2023) examine?",
+   "options": [
+    "Perioperative accidental awareness",
+    "Perioperative cardiac arrest",
+    "Perioperative anaphylaxis",
+    "Perioperative dental injury"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "other/key-trials#bdd81b",
+   "kind": "statement",
+   "stem": "What topic did the NAP 8 audit cover?",
+   "answer": "Complications of regional anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

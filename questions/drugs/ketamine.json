@@ -1,0 +1,929 @@
+{
+ "topic": "drugs/ketamine",
+ "questions": [
+  {
+   "fact_id": "drugs/ketamine#c5402d",
+   "kind": "mcq",
+   "stem": "What form of isomers is standard ketamine, as opposed to esketamine?",
+   "options": [
+    "Pure S(+) enantiomer",
+    "Mostly R(-) with little S(+)",
+    "Racemic mixture of roughly equal S and R isomers",
+    "Pure R(-) enantiomer"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#defd95",
+   "kind": "mcq",
+   "stem": "How potent is esketamine, the S(+) enantiomer, compared with R(-) ketamine?",
+   "options": [
+    "Half as potent",
+    "Equally potent",
+    "5 to 6 times as potent",
+    "2 to 3 times as potent"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#6dfe79",
+   "kind": "mcq",
+   "stem": "What is the pH range of the ketamine solution?",
+   "options": [
+    "7.0–7.4",
+    "1.0–2.0",
+    "3.5–5.5",
+    "8.5–9.5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#5d1f6f",
+   "kind": "mcq",
+   "stem": "What is the concentration of the ketamine presentation supplied as 100 mg in 2 ml?",
+   "options": [
+    "5 mg/ml",
+    "50 mg/ml",
+    "100 mg/ml",
+    "25 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#ae09bb",
+   "kind": "statement",
+   "stem": "Why does ketamine act so quickly after injection?",
+   "answer": "Small lipophilic molecule that crosses the blood–brain barrier fast",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#1f8baa",
+   "kind": "statement",
+   "stem": "In which situations is ketamine especially good to use?",
+   "answer": "Trauma and severe postoperative pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#1f8baa",
+   "kind": "mcq",
+   "stem": "Which is a situation where ketamine should be avoided?",
+   "options": [
+    "Trauma",
+    "Severe postoperative pain",
+    "Peripheral oedema",
+    "Raised IOP or ICP"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#9e325d",
+   "kind": "mcq",
+   "stem": "What final volume dilutes the ketamine 100 mg in 2 ml vial to 10 mg/ml?",
+   "options": [
+    "2 ml",
+    "20 ml",
+    "10 ml",
+    "50 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a4bf7f",
+   "kind": "mcq",
+   "stem": "What dilution ratio gives the standard 10 mg/ml ketamine infusion from the 50 mg/ml stock?",
+   "options": [
+    "1:2",
+    "1:5",
+    "1:10",
+    "1:20"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a4bf7f",
+   "kind": "mcq",
+   "stem": "For the standard ketamine infusion, how much normal saline is added to 2 ml (100 mg)?",
+   "options": [
+    "4 ml",
+    "8 ml",
+    "12 ml",
+    "16 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#9350ab",
+   "kind": "statement",
+   "stem": "Which route of ketamine is especially useful in combative patients?",
+   "answer": "IM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#f5acc7",
+   "kind": "mcq",
+   "stem": "Besides IV, which routes of ketamine are used for sedation?",
+   "options": [
+    "Subcutaneous and topical",
+    "Intra-arterial and intraosseous",
+    "Oral and rectal",
+    "Intraperitoneal and intravesical"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#93e7cf",
+   "kind": "statement",
+   "stem": "Which neuraxial routes are described for ketamine analgesia?",
+   "answer": "Intrathecal and epidural",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#37b4f4",
+   "kind": "mcq",
+   "stem": "What is the IV induction dose of ketamine?",
+   "options": [
+    "1-2 mg/kg",
+    "0.1-0.3 mg/kg",
+    "5-10 mg/kg",
+    "20-40 mcg/kg/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#37b4f4",
+   "kind": "mcq",
+   "stem": "What dose of ketamine is used for IV co-induction?",
+   "options": [
+    "2 mg/kg",
+    "0.5 mg/kg",
+    "1 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#4ae6d5",
+   "kind": "mcq",
+   "stem": "How quickly does IV ketamine induction take effect?",
+   "options": [
+    "10-15 sec",
+    "45-60 sec",
+    "2-3 min",
+    "5-10 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#854629",
+   "kind": "mcq",
+   "stem": "At what time do central effects of IV ketamine first appear?",
+   "options": [
+    "About 15 seconds",
+    "About 5 minutes",
+    "About 90 seconds",
+    "About 20 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#978b19",
+   "kind": "mcq",
+   "stem": "How long does anaesthesia last after IV ketamine induction?",
+   "options": [
+    "10-15 min",
+    "1-2 min",
+    "30-60 min",
+    "3-4 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#978b19",
+   "kind": "mcq",
+   "stem": "When does reorientation occur after IV ketamine anaesthesia?",
+   "options": [
+    "5-10 min",
+    "2-4 hours",
+    "20-30 min",
+    "12 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#33b1d1",
+   "kind": "mcq",
+   "stem": "What infusion rate extends ketamine anaesthesia?",
+   "options": [
+    "5-10 mcg/kg/min",
+    "0.5-1 mg/kg/min",
+    "100-200 mcg/kg/min",
+    "20-40 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a6fa79",
+   "kind": "mcq",
+   "stem": "What is the IV procedural sedation dose of ketamine?",
+   "options": [
+    "1-2 mg/kg",
+    "0.1-0.3 mg/kg",
+    "3-6 mg/kg",
+    "0.5-1 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a3edaf",
+   "kind": "mcq",
+   "stem": "What is the IV analgesic bolus dose of ketamine, per kilogram?",
+   "options": [
+    "1-2 mg/kg",
+    "0.1-0.3 mg/kg",
+    "0.5-1 mg/kg",
+    "5-10 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a3edaf",
+   "kind": "mcq",
+   "stem": "What absolute dose range is given for a subdissociative IV ketamine analgesic bolus?",
+   "options": [
+    "1-2 mg",
+    "50-100 mg",
+    "5-20 mg",
+    "100-200 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#2d496c",
+   "kind": "mcq",
+   "stem": "What is the IV analgesic infusion rate of ketamine?",
+   "options": [
+    "0.03 mg/kg/h",
+    "1.5 mg/kg/h",
+    "0.3 mg/kg/h",
+    "30 mg/kg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#b409e2",
+   "kind": "mcq",
+   "stem": "What is the initial slow IV bolus of ketamine for intraoperative analgesia?",
+   "options": [
+    "0.05 mg/kg",
+    "1 mg/kg",
+    "0.5 mg/kg",
+    "2 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#fb5168",
+   "kind": "mcq",
+   "stem": "For intraoperative ketamine analgesia, how often is a further 0.25 mg/kg dose given?",
+   "options": [
+    "Every 5 min",
+    "Every 30 min",
+    "Every 2 hours",
+    "Every 4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#fb5168",
+   "kind": "mcq",
+   "stem": "What intraoperative ketamine infusion rate is an alternative to the 0.25 mg/kg doses?",
+   "options": [
+    "2 mg/kg/h",
+    "0.5 mg/kg/min",
+    "0.5 mg/kg/h",
+    "5 mcg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#3e85cf",
+   "kind": "mcq",
+   "stem": "What is the loading dose for postoperative ketamine analgesia?",
+   "options": [
+    "1–2 mg/kg IV bolus",
+    "0.5 mg/kg/h infusion",
+    "0.1–0.3 mg/kg IV bolus",
+    "5–10 mg/kg IM"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#530507",
+   "kind": "mcq",
+   "stem": "What is the postoperative ketamine maintenance infusion range?",
+   "options": [
+    "0.5–1 mg/kg/h",
+    "2–5 mg/kg/h",
+    "0.05–0.3 mg/kg/h",
+    "20–40 mcg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#abd67b",
+   "kind": "mcq",
+   "stem": "After the first 8 hours of postoperative ketamine infusion, how often are observations done?",
+   "options": [
+    "4-hourly",
+    "2-hourly",
+    "8-hourly",
+    "12-hourly"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a4a380",
+   "kind": "mcq",
+   "stem": "Ketamine acts as an antagonist at which receptor?",
+   "options": [
+    "Mu-opioid receptor",
+    "GABA-A receptor",
+    "NMDA receptor",
+    "Beta-1 adrenoceptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a4a380",
+   "kind": "mcq",
+   "stem": "How potent a channel blocker is ketamine, compared with other clinically used NMDA blockers?",
+   "options": [
+    "Most potent",
+    "Least potent",
+    "Equally potent",
+    "Moderately potent"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#e7d8f2",
+   "kind": "mcq",
+   "stem": "Ketamine is a derivative of which compound, found during 1970s research?",
+   "options": [
+    "Morphine",
+    "Clonidine",
+    "Diazepam",
+    "Phencyclidine (PCP)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#7c4b12",
+   "kind": "statement",
+   "stem": "Which enzyme does ketamine inhibit, lowering nitric oxide levels?",
+   "answer": "Nitric oxide synthase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#e59b88",
+   "kind": "mcq",
+   "stem": "Besides NMDA, which receptors does ketamine show some activity at?",
+   "options": [
+    "Histamine H1 receptors",
+    "Opioid receptors",
+    "Glycine receptors",
+    "Cholinesterase enzymes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#f42a5e",
+   "kind": "mcq",
+   "stem": "What is the oral sedation dose of ketamine?",
+   "options": [
+    "1-2 mg/kg",
+    "3-6 mg/kg",
+    "5-10 mg/kg",
+    "0.1-0.3 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#1cc04b",
+   "kind": "mcq",
+   "stem": "What is the intramuscular sedation dose of ketamine?",
+   "options": [
+    "0.1-0.3 mg/kg",
+    "2-5 mg/kg",
+    "20-40 mg/kg",
+    "1-2 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#553012",
+   "kind": "mcq",
+   "stem": "What is the intramuscular induction dose of ketamine?",
+   "options": [
+    "1-2 mg/kg",
+    "5-10 mg/kg",
+    "0.1-0.3 mg/kg",
+    "20-40 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#8e1c15",
+   "kind": "mcq",
+   "stem": "How soon does intramuscular ketamine take effect?",
+   "options": [
+    "45-60 sec",
+    "10-15 sec",
+    "3-4 min",
+    "8-10 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#8e1c15",
+   "kind": "mcq",
+   "stem": "How long does anaesthesia last after intramuscular ketamine?",
+   "options": [
+    "5-10 hours",
+    "15-30 min",
+    "1-2 min",
+    "60-90 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#95bbdb",
+   "kind": "mcq",
+   "stem": "What IV bolus size counts as a sub-anaesthetic (analgesic) ketamine dose?",
+   "options": [
+    "Over 1 mg/kg",
+    "Over 2 mg/kg",
+    "Under 1 mg/kg",
+    "Over 5 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#95bbdb",
+   "kind": "mcq",
+   "stem": "What infusion rate counts as sub-anaesthetic (analgesic) for ketamine?",
+   "options": [
+    "Under 0.5 mg/kg/h",
+    "Over 2 mg/kg/h",
+    "Over 0.5 mg/kg/h",
+    "Over 5 mg/kg/h"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#c29f90",
+   "kind": "mcq",
+   "stem": "In ketamine procedures over 2 hours, how long before the end should it stop?",
+   "options": [
+    "At least 15 min",
+    "At least 30 min",
+    "At least 2 hours",
+    "At least 60 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#7ce757",
+   "kind": "mcq",
+   "stem": "Why does ketamine raise intracranial pressure?",
+   "options": [
+    "Reduced cerebral blood flow",
+    "Increased cerebral blood flow",
+    "Lower cerebral oxygen demand",
+    "Increased cerebrospinal fluid production"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#7ce757",
+   "kind": "statement",
+   "stem": "What happens to cerebral metabolic oxygen consumption (CMRO2) with ketamine?",
+   "answer": "Increases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#10ac34",
+   "kind": "mcq",
+   "stem": "What effect does ketamine have on intraocular pressure?",
+   "options": [
+    "Falls markedly",
+    "Rises slightly",
+    "No change",
+    "Doubles"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#fecf5a",
+   "kind": "mcq",
+   "stem": "What is the effect of ketamine on uterine tone?",
+   "options": [
+    "Consistent relaxation",
+    "Variable effects",
+    "Strong contraction",
+    "Complete loss of tone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a4931c",
+   "kind": "mcq",
+   "stem": "Ketamine has no proven adverse effects on which two organs?",
+   "options": [
+    "Heart and lungs",
+    "Brain and eyes",
+    "Liver and kidneys",
+    "Gut and bladder"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#c65f19",
+   "kind": "statement",
+   "stem": "Through what mechanism does ketamine give perioperative analgesia?",
+   "answer": "NMDA antagonism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a6996c",
+   "kind": "mcq",
+   "stem": "What percentage of patients get emergence phenomena after ketamine?",
+   "options": [
+    "1-2%",
+    "5-8%",
+    "40-50%",
+    "10-20%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#4d0d29",
+   "kind": "mcq",
+   "stem": "What airway change does ketamine commonly cause?",
+   "options": [
+    "Reduced salivation and secretions",
+    "Increased salivation and secretions",
+    "Bronchodilation with drier airways",
+    "Loss of airway reflexes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#e12c0c",
+   "kind": "mcq",
+   "stem": "What atropine dose is suggested to reduce ketamine-related salivation?",
+   "options": [
+    "10 mcg/kg",
+    "20 mcg/kg",
+    "40 mcg/kg",
+    "200 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#e12c0c",
+   "kind": "statement",
+   "stem": "Name an alternative antisialogogue to atropine when giving ketamine.",
+   "answer": "Glycopyrronium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#b55184",
+   "kind": "mcq",
+   "stem": "How often is laryngospasm actually seen with ketamine?",
+   "options": [
+    "Commonly seen",
+    "Rarely seen",
+    "Seen in most patients",
+    "Seen in half of patients"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a481a0",
+   "kind": "mcq",
+   "stem": "How does ketamine nausea and vomiting compare with propofol?",
+   "options": [
+    "Less frequent",
+    "The same",
+    "More frequent",
+    "Absent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a883ad",
+   "kind": "statement",
+   "stem": "Why was ketamine historically limited as an induction agent?",
+   "answer": "Unpleasant side effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#bbe382",
+   "kind": "mcq",
+   "stem": "When does ketamine cause sedation and respiratory depression?",
+   "options": [
+    "At low analgesic doses",
+    "Only at anaesthetic doses",
+    "With every dose",
+    "After repeated low doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#07d5c3",
+   "kind": "statement",
+   "stem": "What serious bladder complication has high-dose recreational ketamine use caused?",
+   "answer": "Severe interstitial cystitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#07d5c3",
+   "kind": "mcq",
+   "stem": "What surgery may be needed for bladder damage from recreational ketamine?",
+   "options": [
+    "Nephrectomy",
+    "Cystectomy",
+    "Prostatectomy",
+    "Hysterectomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#3fb304",
+   "kind": "mcq",
+   "stem": "Ketamine should be avoided in which heart-related situation?",
+   "options": [
+    "Controlled hypertension",
+    "Stable asthma",
+    "Treated hypothyroidism",
+    "Poorly controlled cardiovascular disease"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#281341",
+   "kind": "statement",
+   "stem": "What intracranial condition is a contraindication to ketamine?",
+   "answer": "Raised intracranial pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a61526",
+   "kind": "mcq",
+   "stem": "Why is ketamine avoided in active psychosis?",
+   "options": [
+    "It lowers the seizure threshold",
+    "It worsens psychotomimetic effects",
+    "It causes urinary retention",
+    "It depresses platelet function"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#a7a8b3",
+   "kind": "mcq",
+   "stem": "Which liver state is a contraindication to ketamine?",
+   "options": [
+    "Mild hepatic steatosis",
+    "Asymptomatic gallstones",
+    "Moderate to severe hepatic dysfunction",
+    "Gilbert's syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#f96087",
+   "kind": "statement",
+   "stem": "Why is ketamine a concern in pregnancy?",
+   "answer": "It crosses the placenta",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#3deb7a",
+   "kind": "statement",
+   "stem": "Low-dose ketamine is an analgesic adjunct, especially where pain has what feature?",
+   "answer": "A chronic element",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#b16d5f",
+   "kind": "mcq",
+   "stem": "What percentage of ketamine is protein bound?",
+   "options": [
+    "About 50%",
+    "About 25%",
+    "About 75%",
+    "About 95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#9d2bbd",
+   "kind": "statement",
+   "stem": "How does ketamine's plasma level fall after an IV dose?",
+   "answer": "Bi-exponentially",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#6f895d",
+   "kind": "mcq",
+   "stem": "What does ketamine clearance depend on?",
+   "options": [
+    "Renal plasma flow",
+    "Hepatic blood flow",
+    "Plasma albumin concentration",
+    "Urinary pH"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#f051c4",
+   "kind": "mcq",
+   "stem": "Which active metabolite does ketamine form in the liver?",
+   "options": [
+    "Norfentanyl",
+    "Norketamine",
+    "Normorphine",
+    "Norpethidine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#f051c4",
+   "kind": "mcq",
+   "stem": "Which hepatic enzymes demethylate ketamine?",
+   "options": [
+    "Plasma pseudocholinesterase",
+    "Monoamine oxidase",
+    "Alcohol dehydrogenase",
+    "Cytochrome P450 (CYP2B6, CYP3A4)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#f051c4",
+   "kind": "mcq",
+   "stem": "How potent is the active metabolite norketamine relative to ketamine?",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketamine#42acc2",
+   "kind": "mcq",
+   "stem": "What should be considered for ketamine in severe hepatic impairment?",
+   "options": [
+    "Dose increase",
+    "Standard dosing unchanged",
+    "Dose reduction",
+    "Double the infusion rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

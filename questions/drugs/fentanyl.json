@@ -1,0 +1,625 @@
+{
+ "topic": "drugs/fentanyl",
+ "questions": [
+  {
+   "fact_id": "drugs/fentanyl#f2ef33",
+   "kind": "mcq",
+   "stem": "What is the concentration of the colourless fentanyl solution given neat?",
+   "options": [
+    "25mcg/ml",
+    "50mcg/ml",
+    "100mcg/ml",
+    "10mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#64d861",
+   "kind": "mcq",
+   "stem": "What hourly release range do fentanyl transdermal patches provide?",
+   "options": [
+    "5 to 10 mcg per hour",
+    "25 to 100 mcg per hour",
+    "100 to 400 mcg per hour",
+    "1 to 2 mcg per hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#64d861",
+   "kind": "mcq",
+   "stem": "For how many hours does a fentanyl transdermal patch release drug?",
+   "options": [
+    "24 hours",
+    "48 hours",
+    "72 hours",
+    "168 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#fe3eb4",
+   "kind": "mcq",
+   "stem": "Over what time do fentanyl lozenges release their dose?",
+   "options": [
+    "5 minutes",
+    "15 minutes",
+    "30 minutes",
+    "60 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#6c81da",
+   "kind": "statement",
+   "stem": "Name the routes by which fentanyl can be given.",
+   "answer": "IV, intrathecal, epidural, intranasal, transdermal, transmucosal (lozenge)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#a24a12",
+   "kind": "mcq",
+   "stem": "What is the total adult dose range for low-dose IV fentanyl, given in boluses?",
+   "options": [
+    "25-150mcg",
+    "150-300mcg",
+    "500-1000mcg",
+    "5-25mcg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#d5d1e9",
+   "kind": "mcq",
+   "stem": "How long does a fentanyl transdermal patch take to start working?",
+   "options": [
+    "About 1 hour",
+    "About 24 hours",
+    "About 5 minutes",
+    "About 72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#01ce53",
+   "kind": "mcq",
+   "stem": "How long does a fentanyl patch take to reach minimum effective serum concentration?",
+   "options": [
+    "About 1 hour",
+    "About 12 hours",
+    "About 36 hours",
+    "About 72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#361ff0",
+   "kind": "mcq",
+   "stem": "How long does a fentanyl patch take to reach maximum serum concentration?",
+   "options": [
+    "About 1 hour",
+    "About 12 hours",
+    "About 36 hours",
+    "About 72 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#36b412",
+   "kind": "mcq",
+   "stem": "After a fentanyl patch is removed, how long does serum concentration take to halve?",
+   "options": [
+    "About 2 hours",
+    "About 17 hours",
+    "About 36 hours",
+    "About 72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#0fe378",
+   "kind": "statement",
+   "stem": "Fentanyl doses vary widely. What does the dose depend on?",
+   "answer": "The length of analgesia and sedation needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#89eddf",
+   "kind": "mcq",
+   "stem": "What dose of fentanyl is equianalgesic to 10 mg of morphine?",
+   "options": [
+    "10 mcg",
+    "100 mcg",
+    "1 mg",
+    "1000 mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#b797f1",
+   "kind": "mcq",
+   "stem": "What is the low-dose IV fentanyl dose per kilogram?",
+   "options": [
+    "0.1-0.2mcg/kg",
+    "1-2mcg/kg",
+    "10-20mcg/kg",
+    "50-100mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#c3ccdc",
+   "kind": "mcq",
+   "stem": "How soon after IV fentanyl does peak effect occur?",
+   "options": [
+    "1-2 minutes",
+    "3-5 minutes",
+    "15-20 minutes",
+    "30-60 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#f03a54",
+   "kind": "mcq",
+   "stem": "What is the duration of action of IV fentanyl?",
+   "options": [
+    "5-10 minutes",
+    "30-60 minutes",
+    "2-3 hours",
+    "6-12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#a80e6c",
+   "kind": "mcq",
+   "stem": "What is the high-dose IV fentanyl dose per kilogram?",
+   "options": [
+    "1-2mcg/kg",
+    "5-10mcg/kg",
+    "50–100 mcg/kg",
+    "500-1000mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#61f413",
+   "kind": "mcq",
+   "stem": "Fentanyl's duration of action can extend to about how long?",
+   "options": [
+    "About 1 hour",
+    "About 6 hours",
+    "About 24 hours",
+    "About 72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#9fbdba",
+   "kind": "mcq",
+   "stem": "What is the fentanyl sedation infusion dose range?",
+   "options": [
+    "25-200mcg/hr",
+    "2-5mcg/hr",
+    "250-2000mcg/hr",
+    "0.5-1mcg/hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#91e107",
+   "kind": "mcq",
+   "stem": "What is the intranasal fentanyl premedication dose in children, per kilogram?",
+   "options": [
+    "1 – 2 mcg/kg",
+    "5 – 10 mcg/kg",
+    "10 – 20 mcg/kg",
+    "50 – 100 mcg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#91e107",
+   "kind": "mcq",
+   "stem": "What is the maximum dose of intranasal fentanyl premedication in children?",
+   "options": [
+    "25 mcg",
+    "50 mcg",
+    "100 mcg",
+    "200 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#91e107",
+   "kind": "mcq",
+   "stem": "What is the onset of intranasal fentanyl premedication in children?",
+   "options": [
+    "1-2 minutes",
+    "10 – 15 minutes",
+    "30 – 45 minutes",
+    "60 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#70105b",
+   "kind": "mcq",
+   "stem": "What is the epidural fentanyl dose range?",
+   "options": [
+    "5-10 mcg",
+    "25–100 mcg",
+    "250-500 mcg",
+    "1-2 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#8dc584",
+   "kind": "mcq",
+   "stem": "What is fentanyl's mechanism of action?",
+   "options": [
+    "Kappa-receptor agonist",
+    "Mu-receptor agonist",
+    "Alpha-2 receptor agonist",
+    "NMDA receptor antagonist"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#6f1179",
+   "kind": "mcq",
+   "stem": "How much more potent than morphine is fentanyl?",
+   "options": [
+    "10 times",
+    "100 times",
+    "600 times",
+    "2 times"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#1b1499",
+   "kind": "mcq",
+   "stem": "Fentanyl and morphine bind mu receptors with almost equal affinity. What explains most of fentanyl's extra potency?",
+   "options": [
+    "Lipid solubility",
+    "Stronger receptor binding affinity",
+    "Higher histamine release",
+    "Renal clearance"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#0744e0",
+   "kind": "mcq",
+   "stem": "Fentanyl shares the mu-agonist effects of which other opioid?",
+   "options": [
+    "Morphine",
+    "Ketamine",
+    "Clonidine",
+    "Propofol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#1df8b1",
+   "kind": "mcq",
+   "stem": "Compared with morphine, how does fentanyl affect histamine release?",
+   "options": [
+    "Greater histamine release",
+    "Less histamine release",
+    "No histamine release at all",
+    "Identical histamine release"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#9df4a3",
+   "kind": "mcq",
+   "stem": "Why does intrathecal fentanyl at typical doses rarely cause delayed respiratory depression?",
+   "options": [
+    "It moves quickly from CSF into the cord",
+    "It is cleared by the kidneys within minutes",
+    "It is strongly protein bound",
+    "It causes marked histamine release"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#0b7e8c",
+   "kind": "mcq",
+   "stem": "Which adverse effect of high-dose fentanyl (1000mcg) occurs more often than with morphine?",
+   "options": [
+    "Chest wall rigidity and impaired ventilation",
+    "Bronchospasm from histamine release",
+    "Delayed respiratory depression",
+    "Hypertension from sympathetic stimulation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#7e8815",
+   "kind": "mcq",
+   "stem": "Up to what share of patients may cough briefly after an IV fentanyl bolus?",
+   "options": [
+    "Up to 5%",
+    "Up to 10%",
+    "Up to 50%",
+    "Up to 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#7e8815",
+   "kind": "statement",
+   "stem": "Fentanyl can cause cough after an IV bolus. Why is this paradoxical?",
+   "answer": "Opioids normally suppress cough",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#cc96cd",
+   "kind": "mcq",
+   "stem": "Which lidocaine dose, given 1 minute before fentanyl, prevents its cough?",
+   "options": [
+    "1.5 mg/kg",
+    "0.15 mg/kg",
+    "3 mg/kg",
+    "15 mg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#cc96cd",
+   "kind": "mcq",
+   "stem": "What is the lowest effective lidocaine dose for preventing fentanyl-induced cough?",
+   "options": [
+    "0.05mg/kg",
+    "0.5mg/kg",
+    "2.5mg/kg",
+    "5mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#3d79d9",
+   "kind": "mcq",
+   "stem": "Before a main fentanyl bolus, what smaller fentanyl dose is given 1 minute earlier to prevent cough?",
+   "options": [
+    "10 mcg",
+    "25 mcg",
+    "50 mcg",
+    "250 mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#2970f0",
+   "kind": "mcq",
+   "stem": "Besides lidocaine, which of these also prevents fentanyl-induced cough?",
+   "options": [
+    "Clonidine",
+    "Ondansetron",
+    "Flumazenil",
+    "Glycopyrrolate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#e3ac4a",
+   "kind": "mcq",
+   "stem": "What is fentanyl's role at induction of anaesthesia?",
+   "options": [
+    "Blunts the sympathetic response to intubation",
+    "Increases the sympathetic response to intubation",
+    "Reverses neuromuscular blockade",
+    "Causes histamine-mediated hypotension"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#da9898",
+   "kind": "mcq",
+   "stem": "What is fentanyl's role in spinal and epidural anaesthesia?",
+   "options": [
+    "Adjunct to local anaesthetic",
+    "Sole agent for surgical anaesthesia",
+    "Reversal of local anaesthetic block",
+    "Replacement for the local anaesthetic"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#243976",
+   "kind": "mcq",
+   "stem": "By which route is fentanyl usually given as paediatric premedication?",
+   "options": [
+    "Intranasal",
+    "Intrathecal",
+    "Intravenous infusion",
+    "Transdermal patch"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#897b7d",
+   "kind": "mcq",
+   "stem": "For which long-term condition is the fentanyl transdermal patch indicated?",
+   "options": [
+    "Chronic pain",
+    "Acute migraine",
+    "Status epilepticus",
+    "Alcohol withdrawal"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#bdc331",
+   "kind": "mcq",
+   "stem": "Compared with morphine, how many times more lipid soluble is fentanyl?",
+   "options": [
+    "Six times",
+    "60 times",
+    "600 times",
+    "6000 times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#94bd69",
+   "kind": "mcq",
+   "stem": "Why is the action of low-dose IV fentanyl (under 3 mcg/kg) short?",
+   "options": [
+    "Rapid redistribution",
+    "Rapid renal excretion",
+    "Enzyme induction",
+    "Protein binding saturation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#b2de80",
+   "kind": "statement",
+   "stem": "Why is fentanyl's action much longer after high or prolonged dosing?",
+   "answer": "Tissues saturate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#33fe10",
+   "kind": "mcq",
+   "stem": "Which metabolite results from liver N-demethylation of fentanyl?",
+   "options": [
+    "Norfentanyl",
+    "Morphine-6-glucuronide",
+    "Normeperidine",
+    "Oxymorphone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#564bd9",
+   "kind": "mcq",
+   "stem": "How does fentanyl's elimination half-life compare with morphine's?",
+   "options": [
+    "Shorter, because clearance is higher",
+    "Longer, due to higher lipid solubility and volume",
+    "Longer, because clearance is much lower",
+    "Identical, because clearance is identical"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#dd643a",
+   "kind": "mcq",
+   "stem": "Where does fentanyl become unionised and absorbable after ion trapping in the stomach?",
+   "options": [
+    "Alkaline small bowel",
+    "Acidic stomach",
+    "Colon",
+    "Oesophagus"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/fentanyl#dd643a",
+   "kind": "mcq",
+   "stem": "Despite absorption in the small bowel, why do fentanyl systemic levels not rise much?",
+   "options": [
+    "Rapid hepatic first-pass metabolism",
+    "Rapid renal excretion",
+    "Low lipid solubility",
+    "Poor gastric absorption"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -81,3 +81,13 @@ test('metadata required', () => {
   assert.match(probs({ ...base, date: '29 Oct' }).join(), /date/);
   assert.match(probs({ ...base, kind: 'quiz' }).join(), /kind/);
 });
+
+test('filter: "this topic", shared option text, blank answer not in the fact', () => {
+  assert.match(probs({ ...base, stem: 'Does this topic say the dose?' }).join(), /this topic/);
+  assert.match(probs({ ...base, options: ['3–5 mcg/kg/min', '3–5 mcg/kg/min IV', '10', '20'] }).join(), /shares the answer/);
+  assert.match(probs({ ...base, options: ['3–5 mcg/kg/min', '3-5 mcg/kg/min.', '10', '20'] }).join(), /must differ/);
+  const blank = { fact_id: fact.id, kind: 'blank', stem: 'Start at ____', answer: '3–5 mcg/kg/min', model: 'haiku-5.5', date: '2026-10-29' };
+  assert.deepEqual(probs(blank), []);
+  assert.match(probs({ ...blank, stem: 'Start at 3–5 mcg/kg/min, i.e. ____' }).join(), /gives the answer away/);
+  assert.match(probs({ ...blank, answer: '9 mg' }).join(), /not in the fact/);
+});
