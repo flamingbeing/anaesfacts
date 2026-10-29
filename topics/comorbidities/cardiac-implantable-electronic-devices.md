@@ -144,7 +144,7 @@ Pacemakers, ICDs and CRT: know the device, dependence and EMI risk, then reprogr
 - Electromagnetic radiation that can affect implanted devices
 
 ### Sources
-- Radiofrequency 0-10^9 Hz and microwaves 10^9-10^11 Hz (written in the note as 0-109 Hz and 109-1011 Hz)
+- Radiofrequency 0-10^9 Hz and microwaves 10^9-10^11 Hz
   - Diathermy (monopolar far worse than bipolar), 300-500 kHz
   - Radiofrequency ablation
   - Extracorporeal shock wave lithotripsy
