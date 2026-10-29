@@ -178,3 +178,37 @@ export function questionProblems(q, facts, topic) {
   }
   return bad;
 }
+
+// The app's data (app/<area>.json + app/index.json): each area's verified topics with their facts and questions, in
+// short arrays so a phone loads an area in one small file. Facts: [hash, section, text]; questions: [hash, kind, stem,
+// answer, options?] (answer: the option's index for mcq, else the text). index.json: per area, a version (hash of
+// its file) and counts, so the app fetches only areas that changed.
+export function buildApp() {
+  const index = buildIndex().filter(t => t.status === 'verified');
+  const facts = new Map();
+  for (const f of buildFacts()) (facts.get(f.topic) ?? facts.set(f.topic, []).get(f.topic)).push(f);
+  const qs = new Map();
+  for (const qf of questionFiles()) {
+    const data = JSON.parse(fs.readFileSync(path.join(ROOT, qf), 'utf8'));
+    qs.set(data.topic, data.questions || []);
+  }
+  const files = {}, areas = {};
+  for (const area of AREAS) {
+    const topics = index.filter(t => t.area === area).map(t => {
+      const key = topicKey(t.path), ids = new Set();
+      const f = (facts.get(key) || []).map(x => { const h = x.id.split('#')[1]; ids.add(h); return [h, x.section, x.text]; });
+      const q = (qs.get(key) || []).map(x => [x.fact_id.split('#')[1], x.kind, x.stem, x.answer, ...(x.options ? [x.options] : [])])
+        .filter(x => ids.has(x[0]));
+      return { k: key.split('/')[1], t: t.title, f, q };
+    });
+    if (!topics.length) continue;
+    const text = JSON.stringify({ area, topics }) + '\n';
+    files[`app/${area}.json`] = text;
+    areas[area] = {
+      v: crypto.createHash('sha1').update(text).digest('hex').slice(0, 10),
+      topics: topics.length, facts: topics.reduce((n, t) => n + t.f.length, 0), questions: topics.reduce((n, t) => n + t.q.length, 0),
+    };
+  }
+  files['app/index.json'] = JSON.stringify({ areas }, null, 1) + '\n';
+  return files;
+}
