@@ -1,0 +1,125 @@
+{
+ "topic": "procedures/tavi",
+ "questions": [
+  {
+   "fact_id": "procedures/tavi#bf48cd",
+   "kind": "statement",
+   "stem": "Which patient group is TAVI mainly used for?",
+   "answer": "Frail elderly patients needing AVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#5cc6de",
+   "kind": "mcq",
+   "stem": "Which TAVI approach is percutaneous?",
+   "options": [
+    "Transapical via mini-thoracotomy",
+    "Surgical sternotomy",
+    "Transfemoral",
+    "Open cardiopulmonary bypass"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#6d3d41",
+   "kind": "statement",
+   "stem": "Which access is used for the transapical approach to TAVI?",
+   "answer": "Mini-thoracotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#226663",
+   "kind": "statement",
+   "stem": "How should the theatre be set up for TAVI before the procedure?",
+   "answer": "As for cardiopulmonary bypass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#00b8dc",
+   "kind": "mcq",
+   "stem": "Before using the right radial artery in TAVI, whom should you check with?",
+   "options": [
+    "The surgeon",
+    "The cardiologist",
+    "The perfusionist",
+    "The radiographer"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#bac01d",
+   "kind": "statement",
+   "stem": "What is intermittent rapid ventricular pacing used for during TAVI?",
+   "answer": "Valvotomy and valve placement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#c7b907",
+   "kind": "mcq",
+   "stem": "What systolic pressure is wanted before rapid ventricular pacing in TAVI?",
+   "options": [
+    "SBP <60mmHg",
+    "SBP >100mmHg",
+    "SBP <80mmHg",
+    "SBP <120mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#78de60",
+   "kind": "statement",
+   "stem": "Why is ventilation stopped while the valve is positioned during TAVI?",
+   "answer": "To keep the field still",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#fd4e0e",
+   "kind": "statement",
+   "stem": "What postoperative airway option is possible after TAVI?",
+   "answer": "Early extubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#f7799b",
+   "kind": "mcq",
+   "stem": "After TAVI, how often is minor paravalvular leak seen?",
+   "options": [
+    ">10%",
+    "<5%",
+    ">50%",
+    "<25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#a6566d",
+   "kind": "statement",
+   "stem": "Which complication category after TAVI includes tamponade?",
+   "answer": "Cardiac complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tavi#ca1ba6",
+   "kind": "statement",
+   "stem": "What vascular complications can occur after TAVI?",
+   "answer": "Rupture, tearing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "topic": "procedures/prostate-brachytherapy",
+ "questions": [
+  {
+   "fact_id": "procedures/prostate-brachytherapy#3efd85",
+   "kind": "mcq",
+   "stem": "How long does prostate brachytherapy usually take?",
+   "options": [
+    "30–45 minutes",
+    "1.5–3hr, sometimes longer",
+    "5–6hr",
+    "Under 30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostate-brachytherapy#31b51a",
+   "kind": "mcq",
+   "stem": "What blood loss is usually seen with prostate brachytherapy?",
+   "options": [
+    "Usually major",
+    "Around 1 litre",
+    "Usually minimal",
+    "Usually moderate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostate-brachytherapy#0baec5",
+   "kind": "statement",
+   "stem": "What should be anticipated about postoperative pain after prostate brachytherapy?",
+   "answer": "It can be a problem",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostate-brachytherapy#897e4d",
+   "kind": "mcq",
+   "stem": "Which anaesthetic depth is typically used for prostate brachytherapy?",
+   "options": [
+    "Deep GA with muscle relaxant",
+    "Light GA",
+    "Spinal anaesthesia alone",
+    "Local infiltration only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostate-brachytherapy#886a50",
+   "kind": "mcq",
+   "stem": "What is the main drawback of sedation alone for prostate brachytherapy?",
+   "options": [
+    "Airway is always lost",
+    "Immobility may be unreliable",
+    "Bleeding is much higher",
+    "Radiation exposure increases"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostate-brachytherapy#cc49fb",
+   "kind": "mcq",
+   "stem": "Which neuraxial techniques can be used for prostate brachytherapy?",
+   "options": [
+    "Caudal block only",
+    "Spinal or epidural",
+    "Paravertebral block only",
+    "Peripheral nerve block only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostate-brachytherapy#cc49fb",
+   "kind": "mcq",
+   "stem": "Why might catheters be needed for neuraxial anaesthesia in prostate brachytherapy?",
+   "options": [
+    "Catheters reduce postoperative bleeding",
+    "The procedure may outlast a single spinal",
+    "Catheters prevent urinary retention",
+    "Catheters allow lighter sedation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/prostate-brachytherapy#135e71",
+   "kind": "mcq",
+   "stem": "Why might recovery after prostate brachytherapy happen in an isolated area?",
+   "options": [
+    "Airborne infection risk",
+    "Residual radioactivity",
+    "Anticoagulant reversal",
+    "Post-dural puncture headache"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "topic": "procedures/turbt",
+ "questions": [
+  {
+   "fact_id": "procedures/turbt#1a5208",
+   "kind": "statement",
+   "stem": "In TURBT patients, which comorbidities are often present?",
+   "answer": "Often smokers, with comorbidities such as COPD and IHD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#a88c21",
+   "kind": "statement",
+   "stem": "Why review a TURBT patient's previous anaesthetic charts?",
+   "answer": "Many have had multiple procedures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#54d229",
+   "kind": "mcq",
+   "stem": "What spinal block level is needed for TURBT?",
+   "options": [
+    "Below L2",
+    "Above C5",
+    "Above T10",
+    "Below S1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#54d229",
+   "kind": "statement",
+   "stem": "What anaesthetic options are used for TURBT?",
+   "answer": "General anaesthesia (LMA) or spinal, with or without sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#844b6d",
+   "kind": "mcq",
+   "stem": "What patient position is used for TURBT?",
+   "options": [
+    "Supine and flat",
+    "Prone",
+    "Lithotomy",
+    "Lateral decubitus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#a92645",
+   "kind": "statement",
+   "stem": "How does blood loss behave during TURBT?",
+   "answer": "Variable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#16e824",
+   "kind": "statement",
+   "stem": "What may guide antibiotic prophylaxis for TURBT?",
+   "answer": "Urine cultures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#3b8af6",
+   "kind": "statement",
+   "stem": "During TURBT, what can help with obturator spasm?",
+   "answer": "Muscle relaxation or an obturator nerve block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#c41ac7",
+   "kind": "statement",
+   "stem": "Why check volume status before a diuretic for bladder flushing in TURBT?",
+   "answer": "The patient must not be hypovolaemic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#5b0d4a",
+   "kind": "statement",
+   "stem": "What bladder problem can be marked after TURBT?",
+   "answer": "Bladder spasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#753e97",
+   "kind": "mcq",
+   "stem": "In TURBT, which nerve runs next to the lateral bladder wall?",
+   "options": [
+    "Femoral nerve",
+    "Obturator nerve",
+    "Sciatic nerve",
+    "Pudendal nerve"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#10f8c5",
+   "kind": "statement",
+   "stem": "Why does irrigation raise obturator nerve risk in TURBT?",
+   "answer": "It distends the lateral wall, bringing it close to the nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#89d9cf",
+   "kind": "statement",
+   "stem": "In TURBT, what causes the obturator jerk?",
+   "answer": "Diathermy resection of lateral wall tumours stimulating the nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#0760fa",
+   "kind": "mcq",
+   "stem": "What is the main danger of an obturator jerk during TURBT?",
+   "options": [
+    "Urethral stricture",
+    "Bladder perforation",
+    "Hypothermia",
+    "Fat embolism"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/turbt#4245c2",
+   "kind": "statement",
+   "stem": "In TURBT, when do surgeons often request anaesthetic options for obturator spasm?",
+   "answer": "When the surgeon works near the nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

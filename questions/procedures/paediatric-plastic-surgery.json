@@ -1,0 +1,1709 @@
+{
+ "topic": "procedures/paediatric-plastic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3aa3e3",
+   "kind": "statement",
+   "stem": "What injuries form a large part of on-call paediatric plastic surgery work?",
+   "answer": "Head, limb and fingertip lacerations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0983ce",
+   "kind": "statement",
+   "stem": "For a paediatric laceration in theatre, what is the surgical sequence?",
+   "answer": "Explore for deeper damage, debride, clean and suture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#b5b0e6",
+   "kind": "statement",
+   "stem": "Why is general anaesthesia often preferred for paediatric laceration repair?",
+   "answer": "Local anaesthetic alone is often poorly tolerated, especially by young children",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#403334",
+   "kind": "statement",
+   "stem": "Why is paediatric laceration repair under GA often delayed?",
+   "answer": "Until the child is fasted",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#06ddcb",
+   "kind": "statement",
+   "stem": "Why might an IV cannula already be in place before laceration repair?",
+   "answer": "For antibiotics or analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f4264d",
+   "kind": "mcq",
+   "stem": "How is a child usually ventilated for paediatric laceration repair under GA?",
+   "options": [
+    "IPPV via ETT",
+    "Spontaneous via face mask",
+    "Spontaneous ventilation via LMA",
+    "Spontaneous ventilation via nasal cannula"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f4264d",
+   "kind": "statement",
+   "stem": "For paediatric laceration repair, what is the maintenance gas mix with the volatile?",
+   "answer": "Oxygen with air or nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#cdd42c",
+   "kind": "mcq",
+   "stem": "Which block works very well for finger lacerations in children?",
+   "options": [
+    "Digital or ring block",
+    "Brachial plexus block",
+    "Caudal block",
+    "Infraorbital block"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#09731f",
+   "kind": "statement",
+   "stem": "What is often used during paediatric laceration repair to keep blood loss minimal?",
+   "answer": "A tourniquet",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#83afb6",
+   "kind": "statement",
+   "stem": "What can a laceration repair become if deep damage is found?",
+   "answer": "A long, complex nerve or tendon repair",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#5d0198",
+   "kind": "statement",
+   "stem": "What analgesia is usually needed after simple paediatric laceration repair?",
+   "answer": "Paracetamol and NSAID, with or without a weak opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#55f4b6",
+   "kind": "mcq",
+   "stem": "When are children usually discharged after simple laceration repair?",
+   "options": [
+    "After one week",
+    "Later the same day or next morning",
+    "Only after three days",
+    "Once sutures are removed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#7cd374",
+   "kind": "statement",
+   "stem": "Name the two commonest congenital ear malformations treated by otoplasty.",
+   "answer": "Prominent ears (bat ears) and microtia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3bf5fb",
+   "kind": "mcq",
+   "stem": "In otoplasty for prominent ears, how is the antihelical fold reshaped?",
+   "options": [
+    "Through an elliptical incision behind the ear",
+    "Through a preauricular incision in front of the ear",
+    "Through a full-thickness facial incision",
+    "Through a transverse incision over the mastoid"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a0c440",
+   "kind": "mcq",
+   "stem": "What graft is often used for microtia ear reconstruction?",
+   "options": [
+    "Titanium mesh",
+    "Porcine dermis",
+    "Acellular dermal matrix",
+    "Harvested costal cartilage"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a0c440",
+   "kind": "mcq",
+   "stem": "Microtia can be part of which condition with an asymmetric mandible?",
+   "options": [
+    "Apert syndrome",
+    "Hemifacial microsomia",
+    "Down syndrome",
+    "Marfan syndrome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#75df86",
+   "kind": "statement",
+   "stem": "What are the main complications after otoplasty?",
+   "answer": "Haematoma, asymmetry, infection, prominent scar",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#ace75a",
+   "kind": "mcq",
+   "stem": "From what age is otoplasty usually performed?",
+   "options": [
+    "Age 1 year and over",
+    "Age 3 years and over",
+    "Age 6 years and over",
+    "Age 12 years and over"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#ba979e",
+   "kind": "mcq",
+   "stem": "What is the male to female ratio for children having otoplasty?",
+   "options": [
+    "1:1",
+    "1:2",
+    "2:1",
+    "3:1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a03ef4",
+   "kind": "mcq",
+   "stem": "Which intubation technique may be needed for the few microtia patients who are hard to intubate?",
+   "options": [
+    "Routine direct laryngoscopy",
+    "Fibreoptic intubation",
+    "Tracheostomy",
+    "Laryngeal mask only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#29c5d6",
+   "kind": "statement",
+   "stem": "What premedication is given to children having otoplasty if needed?",
+   "answer": "Sedative premedication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#83457e",
+   "kind": "mcq",
+   "stem": "How are older children induced for otoplasty unless airway problems are expected?",
+   "options": [
+    "IV induction",
+    "Inhalational induction",
+    "Intramuscular induction",
+    "Rectal induction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#6b351b",
+   "kind": "mcq",
+   "stem": "Which airway is needed for otoplasty when costal cartilage is harvested?",
+   "options": [
+    "Face mask only",
+    "Endotracheal tube",
+    "Oropharyngeal airway",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#97fa94",
+   "kind": "statement",
+   "stem": "Why avoid nitrous oxide in otoplasty with costal cartilage harvest?",
+   "answer": "Small pneumothorax risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#08a67f",
+   "kind": "mcq",
+   "stem": "What IV ondansetron dose is used for PONV after otoplasty?",
+   "options": [
+    "50 mcg/kg IV (max 2 mg)",
+    "100 mcg/kg IV (max 4 mg)",
+    "1 mg/kg IV (max 8 mg)",
+    "0.1 mg/kg IV (max 16 mg)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#317f18",
+   "kind": "mcq",
+   "stem": "What fluid bolus is often given to reduce PONV in otoplasty?",
+   "options": [
+    "5 mL/kg",
+    "20 mL/kg",
+    "50 mL/kg",
+    "100 mL/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#bad2ed",
+   "kind": "mcq",
+   "stem": "What volume of 0.5% bupivacaine is used for a great auricular nerve block?",
+   "options": [
+    "0.25 mL",
+    "2 mL",
+    "10 mL",
+    "20 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#de50fe",
+   "kind": "mcq",
+   "stem": "The nerve blocked for otoplasty arises from the superficial cervical plexus at which level?",
+   "options": [
+    "C2",
+    "C3",
+    "C5",
+    "T1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#62aca4",
+   "kind": "mcq",
+   "stem": "What IV morphine dose is used for analgesia after otoplasty?",
+   "options": [
+    "50-75 mcg/kg",
+    "100-150 mcg/kg",
+    "1-2 mg/kg",
+    "500 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#62aca4",
+   "kind": "mcq",
+   "stem": "What IV fentanyl dose is used for analgesia after otoplasty?",
+   "options": [
+    "0.2-0.4 mcg/kg",
+    "2-4 mcg/kg",
+    "10-15 mcg/kg",
+    "25-50 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c603fc",
+   "kind": "mcq",
+   "stem": "Which NSAID dose is given rectally for analgesia after otoplasty?",
+   "options": [
+    "Ibuprofen 10 mg/kg",
+    "Diclofenac 1 mg/kg",
+    "Naproxen 5 mg/kg",
+    "Ketorolac 0.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#936ae0",
+   "kind": "mcq",
+   "stem": "What IV paracetamol dose is given for analgesia after otoplasty?",
+   "options": [
+    "5 mg/kg",
+    "15 mg/kg",
+    "30 mg/kg",
+    "60 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#936ae0",
+   "kind": "blank",
+   "stem": "Paracetamol after otoplasty can be given rectally at ____ mg/kg.",
+   "answer": "40",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0c2728",
+   "kind": "statement",
+   "stem": "After otoplasty, what fluid continues until drinking and PONV is controlled?",
+   "answer": "Maintenance fluid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#44a53f",
+   "kind": "statement",
+   "stem": "If PONV occurs after otoplasty, what antiemetic should be used?",
+   "answer": "A different antiemetic from the one given in theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#8ae32b",
+   "kind": "mcq",
+   "stem": "What oral morphine dose is given 4-hourly after otoplasty?",
+   "options": [
+    "50-75 mcg/kg",
+    "200-300 mcg/kg",
+    "1-2 mg/kg",
+    "400-500 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3590a3",
+   "kind": "statement",
+   "stem": "Why is a chest X-ray done after costal cartilage harvest in otoplasty?",
+   "answer": "To exclude pneumothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#737def",
+   "kind": "statement",
+   "stem": "How common is bleeding needing re-exploration after otoplasty?",
+   "answer": "Low rate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#8e426c",
+   "kind": "mcq",
+   "stem": "Where is simple otoplasty for prominent ears usually performed?",
+   "options": [
+    "An overnight admission",
+    "Often a day case",
+    "A week-long admission",
+    "An ICU admission"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#569ca0",
+   "kind": "blank",
+   "stem": "Cleft lip and palate are the commonest congenital ____ abnormalities.",
+   "answer": "orofacial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#4fe869",
+   "kind": "mcq",
+   "stem": "How often does cleft lip and palate occur in live births?",
+   "options": [
+    "1:300",
+    "1:1000",
+    "1:2000",
+    "1:600"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c30b7b",
+   "kind": "mcq",
+   "stem": "How often does isolated cleft palate occur in live births?",
+   "options": [
+    "1:600",
+    "1:2000",
+    "1:1000",
+    "1:300"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c78c19",
+   "kind": "mcq",
+   "stem": "In cleft lip and palate, what share of cases is cleft lip alone?",
+   "options": [
+    "45%",
+    "40%",
+    "15%",
+    "25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c78c19",
+   "kind": "mcq",
+   "stem": "In cleft lip and palate, what share of cases is isolated cleft palate?",
+   "options": [
+    "15%",
+    "45%",
+    "25%",
+    "40%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3817a2",
+   "kind": "mcq",
+   "stem": "In cleft lip and palate, what is the sex ratio?",
+   "options": [
+    "Male to female 2:1",
+    "Female to male 2:1",
+    "Male to female 1:2",
+    "Female to male 1:2"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3817a2",
+   "kind": "blank",
+   "stem": "In isolated cleft palate the male to female ratio is ____.",
+   "answer": "1:2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a3ee8d",
+   "kind": "mcq",
+   "stem": "At what gestation does failure of fusion cause cleft lip and palate?",
+   "options": [
+    "12-14 weeks' gestation",
+    "6-8 weeks' gestation",
+    "2-4 weeks' gestation",
+    "20-24 weeks' gestation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a19f39",
+   "kind": "blank",
+   "stem": "Unilateral cleft lip is more often on the ____ side than the right.",
+   "answer": "left",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#2fd189",
+   "kind": "statement",
+   "stem": "When cleft lip and palate runs in families, what do those families need?",
+   "answer": "Genetic counselling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0d492d",
+   "kind": "statement",
+   "stem": "Name a maternal drug exposure in pregnancy linked to cleft lip and palate.",
+   "answer": "Steroids, benzodiazepines or anticonvulsants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#529353",
+   "kind": "mcq",
+   "stem": "In cleft lip and palate, what share of children have other anomalies?",
+   "options": [
+    "1-2%",
+    "30-40%",
+    "10-20%",
+    "50-60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#84353a",
+   "kind": "mcq",
+   "stem": "Which cleft-associated syndrome features retrognathia and a posteriorly displaced tongue?",
+   "options": [
+    "Treacher Collins syndrome",
+    "Klippel-Feil syndrome",
+    "Pierre Robin sequence",
+    "Down syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#84353a",
+   "kind": "mcq",
+   "stem": "In Pierre Robin sequence, what percentage of children have cleft palate?",
+   "options": [
+    "28%",
+    "15%",
+    "80%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#846f16",
+   "kind": "mcq",
+   "stem": "What share of cleft lip and palate patients have congenital heart disease?",
+   "options": [
+    "1-2%",
+    "5-10%",
+    "20-25%",
+    "40-50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#091677",
+   "kind": "statement",
+   "stem": "What feeding problem do infants with cleft lip and palate typically have?",
+   "answer": "Cannot suckle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#cd8c9c",
+   "kind": "mcq",
+   "stem": "Which speech problem is typical in cleft lip and palate?",
+   "options": [
+    "Stammering",
+    "Nasal speech",
+    "Slurred speech",
+    "Hoarse voice"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#6a075a",
+   "kind": "mcq",
+   "stem": "Which ear problems are linked to cleft lip and palate?",
+   "options": [
+    "Sudden sensorineural deafness only",
+    "Eustachian tube dysfunction and hearing loss",
+    "Acute mastoiditis with facial swelling",
+    "Vertigo from vestibular neuritis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#38d9cf",
+   "kind": "blank",
+   "stem": "Cleft lip and palate is associated with ____ stenosis.",
+   "answer": "subglottic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#8974db",
+   "kind": "mcq",
+   "stem": "At what age is cleft lip usually repaired?",
+   "options": [
+    "About 6 weeks",
+    "About 9 months",
+    "About 3 months",
+    "About 2 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#7a2af4",
+   "kind": "mcq",
+   "stem": "At what age is cleft palate usually repaired?",
+   "options": [
+    "About 3 months",
+    "About 5 years",
+    "About 2 years",
+    "9-12 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#1b96d8",
+   "kind": "statement",
+   "stem": "What later complication after cleft palate repair may need a pharyngoplasty?",
+   "answer": "Velopharyngeal insufficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#634fa5",
+   "kind": "statement",
+   "stem": "Before anaesthesia for cleft lip and palate, what should be looked for?",
+   "answer": "Associated conditions affecting anaesthesia or airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#86c407",
+   "kind": "statement",
+   "stem": "A child with cleft lip and palate has a recent respiratory infection: what is usually done?",
+   "answer": "Defer the surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#08ad87",
+   "kind": "mcq",
+   "stem": "How does chronic airway obstruction or OSA affect postoperative airway risk in cleft surgery?",
+   "options": [
+    "Decreases postoperative airway risk",
+    "Increases postoperative airway risk",
+    "Has no effect on airway risk",
+    "Only affects feeding after surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f75177",
+   "kind": "statement",
+   "stem": "What blood problem is possible in infants aged 3-6 months with cleft lip and palate?",
+   "answer": "Physiological anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3cad99",
+   "kind": "statement",
+   "stem": "Children with cleft lip and palate may have had what before anaesthesia?",
+   "answer": "Multiple previous operations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3d9835",
+   "kind": "mcq",
+   "stem": "What premedication is usually given before cleft lip and palate surgery?",
+   "options": [
+    "Oral midazolam before induction",
+    "Rectal diazepam before induction",
+    "No sedative premedication usually",
+    "Oral clonidine before induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#218e8b",
+   "kind": "mcq",
+   "stem": "How is anaesthesia usually induced for cleft lip and palate surgery?",
+   "options": [
+    "Rectal midazolam before induction",
+    "Inhalational induction",
+    "Intramuscular ketamine before induction",
+    "Oral clonidine before induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#2f248c",
+   "kind": "mcq",
+   "stem": "What tube is usually used for intubation in cleft lip and palate surgery?",
+   "options": [
+    "North-facing preformed RAE tube",
+    "Armoured cuffed tube",
+    "South-facing preformed RAE tube",
+    "Uncuffed straight Magill tube"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0ee650",
+   "kind": "blank",
+   "stem": "For cleft lip and palate surgery, IPPV is common but ____ breathing is possible.",
+   "answer": "spontaneous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#bcacf0",
+   "kind": "mcq",
+   "stem": "Which opioid cuts volatile requirement and speeds emergence in cleft lip and palate surgery?",
+   "options": [
+    "Alfentanil",
+    "Pethidine",
+    "Remifentanil",
+    "Morphine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c655cd",
+   "kind": "statement",
+   "stem": "What fluid should be given during cleft lip and palate repair, and when?",
+   "answer": "Maintenance fluid; replace volume if needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#ec2bed",
+   "kind": "statement",
+   "stem": "How often is temperature control a problem in cleft lip and palate anaesthesia?",
+   "answer": "Rarely",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#46fbc1",
+   "kind": "mcq",
+   "stem": "Who usually places the throat pack in cleft lip repair?",
+   "options": [
+    "The surgeon",
+    "The paediatric nurse",
+    "The anaesthetist",
+    "The ENT surgeon"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#428fae",
+   "kind": "mcq",
+   "stem": "For cleft lip and palate repair analgesia, what is the IV morphine dose?",
+   "options": [
+    "10-15 mcg/kg",
+    "1-2 mcg/kg",
+    "400-500 mcg/kg",
+    "100-150 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#428fae",
+   "kind": "mcq",
+   "stem": "For cleft lip and palate repair analgesia, what is the IV fentanyl dose?",
+   "options": [
+    "0.5-1 mcg/kg",
+    "20-40 mcg/kg",
+    "2-4 mcg/kg",
+    "10-12 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#6d8c14",
+   "kind": "mcq",
+   "stem": "What IV paracetamol dose is used for cleft lip and palate analgesia?",
+   "options": [
+    "10 mg/kg",
+    "15 mg/kg",
+    "25 mg/kg",
+    "30 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#6d8c14",
+   "kind": "mcq",
+   "stem": "What rectal paracetamol dose is used for cleft lip and palate analgesia?",
+   "options": [
+    "15 mg/kg",
+    "20 mg/kg",
+    "40 mg/kg",
+    "60 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0fc3fe",
+   "kind": "blank",
+   "stem": "For the infraorbital block, the entry point is about ____ mm lateral to the side of the nose.",
+   "answer": "7.5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0fc3fe",
+   "kind": "statement",
+   "stem": "Where is the entry point for the infraorbital block in cleft lip repair?",
+   "answer": "Halfway between the midpoint of the palpebral fissure and the angle of the mouth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#506c37",
+   "kind": "mcq",
+   "stem": "What volume of 0.5% bupivacaine is injected for the infraorbital block?",
+   "options": [
+    "1-2 mL",
+    "5-10 mL",
+    "0.1-0.2 mL",
+    "3-4 mL"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#506c37",
+   "kind": "statement",
+   "stem": "In the infraorbital block for cleft lip repair, how is the needle directed before injecting?",
+   "answer": "Perpendicular to the skin until bone is felt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#7ad057",
+   "kind": "statement",
+   "stem": "Name the two main early complications after cleft palate repair.",
+   "answer": "Bleeding and upper airway obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c87942",
+   "kind": "mcq",
+   "stem": "What proportion show some airway obstruction after cleft palate repair?",
+   "options": [
+    "3%",
+    "10%",
+    "25%",
+    "40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c87942",
+   "kind": "statement",
+   "stem": "Which palate shape increases airway obstruction after cleft palate repair?",
+   "answer": "Tight or lengthened palate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#08ca1d",
+   "kind": "mcq",
+   "stem": "How long may high-risk cleft palate children stay intubated in ICU?",
+   "options": [
+    "6-12 hours",
+    "3-5 days",
+    "24-48 hours",
+    "1 week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a90ff9",
+   "kind": "statement",
+   "stem": "How is airway obstruction after cleft palate repair detected?",
+   "answer": "Pulse oximetry on air",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#aa9c6f",
+   "kind": "statement",
+   "stem": "For how long is maintenance fluid given after cleft palate repair?",
+   "answer": "Until feeding, usually early",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#27776e",
+   "kind": "mcq",
+   "stem": "After cleft palate repair, what oral morphine dose is given 4-hourly?",
+   "options": [
+    "50-75 mcg/kg",
+    "1-2 mg/kg",
+    "200-300 mcg/kg",
+    "400-500 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#27776e",
+   "kind": "statement",
+   "stem": "What do some centres give in HDU after cleft palate repair?",
+   "answer": "Low-dose IV morphine infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c09346",
+   "kind": "statement",
+   "stem": "In craniofacial surgery, what is craniosynostosis?",
+   "answer": "Premature closure of cranial sutures, causing abnormal bone growth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f1dba0",
+   "kind": "mcq",
+   "stem": "How common is craniosynostosis per live births?",
+   "options": [
+    "1:300",
+    "1:800",
+    "1:5000",
+    "1:2000"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#e8b41b",
+   "kind": "statement",
+   "stem": "In faciocraniosynostoses, which facial feature is especially typical?",
+   "answer": "Midface hypoplasia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#e65497",
+   "kind": "statement",
+   "stem": "What does surgery for craniosynostosis aim to achieve?",
+   "answer": "Relieve ICP, correct deformity and improve appearance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#2981f2",
+   "kind": "mcq",
+   "stem": "In complex craniosynostosis, when is frontal and cranial surgery usually done?",
+   "options": [
+    "6-8 weeks",
+    "4-12 months",
+    "2-3 years",
+    "5-6 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#2981f2",
+   "kind": "mcq",
+   "stem": "When is facial retrusion corrected in severe craniosynostosis?",
+   "options": [
+    "Around 12 months",
+    "Around 2 years",
+    "Around 8 years",
+    "Around 5 years"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#2997c1",
+   "kind": "statement",
+   "stem": "What can dissection of the orbit trigger in craniofacial surgery?",
+   "answer": "Oculocardiac reflex",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#988536",
+   "kind": "statement",
+   "stem": "Which airway history features should be sought in craniofacial patients?",
+   "answer": "Feeding difficulty, failure to thrive, sleep disturbance, daytime sleepiness, developmental problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#5cf99b",
+   "kind": "statement",
+   "stem": "In maxillary hypoplasia, what is done about upper airway obstruction before surgery?",
+   "answer": "ENT and respiratory optimisation with overnight sleep studies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#99913e",
+   "kind": "statement",
+   "stem": "What airway measures may faciocraniosynostosis need before surgery?",
+   "answer": "Choanal dilatation, nasal stents, nasopharyngeal airways, nocturnal nasal CPAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#cf4e1b",
+   "kind": "statement",
+   "stem": "When is tracheostomy considered before craniofacial surgery?",
+   "answer": "Severe airway problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#829f92",
+   "kind": "statement",
+   "stem": "What do earlier anaesthetic records for craniofacial patients show?",
+   "answer": "Airway, intubation and access difficulties",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#9a52e1",
+   "kind": "mcq",
+   "stem": "When is sedative premedication given before craniofacial surgery?",
+   "options": [
+    "If no respiratory compromise or raised ICP",
+    "Only with raised ICP",
+    "Never, to avoid airway risk",
+    "Always, with rectal diazepam"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#213ddd",
+   "kind": "mcq",
+   "stem": "Which induction is often preferred in craniofacial surgery?",
+   "options": [
+    "Rectal midazolam first",
+    "Inhalational induction",
+    "Intramuscular ketamine first",
+    "Oral clonidine first"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#213ddd",
+   "kind": "statement",
+   "stem": "In craniofacial surgery, what makes IV access hard in many children?",
+   "answer": "Limb anomalies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#cc9df2",
+   "kind": "mcq",
+   "stem": "What airway pattern is typical in craniofacial surgery?",
+   "options": [
+    "Easy mask airway, difficult intubation",
+    "Difficult mask airway, easy intubation",
+    "Difficult mask airway, difficult intubation",
+    "Easy mask airway, easy intubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f9bfa5",
+   "kind": "statement",
+   "stem": "In maxillary hypoplasia, what makes a mask seal hard?",
+   "answer": "Marked proptosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f9bfa5",
+   "kind": "statement",
+   "stem": "In maxillary hypoplasia, what typically happens after induction?",
+   "answer": "Obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0265a8",
+   "kind": "statement",
+   "stem": "Which tube type is used for intubation in craniofacial surgery?",
+   "answer": "Armoured or preformed, depending on surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#72aa59",
+   "kind": "statement",
+   "stem": "Which lines are placed in major craniofacial cases?",
+   "answer": "Arterial line, femoral venous line, urinary catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#526a1b",
+   "kind": "statement",
+   "stem": "What neck position should be avoided in craniofacial surgery, and why?",
+   "answer": "Excess neck rotation (cerebral venous congestion)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#526a1b",
+   "kind": "blank",
+   "stem": "Craniofacial surgery needs meticulous ____ care with a foam or gel mattress.",
+   "answer": "pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#b1fce3",
+   "kind": "statement",
+   "stem": "What anaesthetic technique is used in craniofacial surgery?",
+   "answer": "Balanced opioid and volatile technique",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#b1fce3",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is useful in craniofacial surgery?",
+   "options": [
+    "2.5-5 mcg/kg/min",
+    "0.025-0.05 mcg/kg/min",
+    "1-2 mcg/kg/min",
+    "0.25-0.5 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#6aa8bb",
+   "kind": "statement",
+   "stem": "Why is hypotensive anaesthesia used cautiously in craniofacial surgery?",
+   "answer": "Cerebral perfusion concern with head-up and raised ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f0e235",
+   "kind": "statement",
+   "stem": "How large can blood loss be in craniofacial surgery in infants?",
+   "answer": "Very large, especially in complex surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#7a89e1",
+   "kind": "statement",
+   "stem": "Where are most craniofacial surgery patients nursed after surgery?",
+   "answer": "HDU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#6a5bbd",
+   "kind": "mcq",
+   "stem": "After craniofacial surgery, what share of blood volume can babies lose into drains or bandages?",
+   "options": [
+    "1%",
+    "10%",
+    "25%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#7f8f58",
+   "kind": "mcq",
+   "stem": "What oral ibuprofen dose is given 6-hourly after craniofacial surgery?",
+   "options": [
+    "5 mg/kg",
+    "10 mg/kg",
+    "20 mg/kg",
+    "30 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#7f8f58",
+   "kind": "statement",
+   "stem": "When is ibuprofen given after craniofacial surgery?",
+   "answer": "If bleeding is not a concern",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#7f8f58",
+   "kind": "mcq",
+   "stem": "What oral paracetamol dose is given 4-hourly after craniofacial surgery?",
+   "options": [
+    "10 mg/kg",
+    "30 mg/kg",
+    "40 mg/kg",
+    "15 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#710d51",
+   "kind": "statement",
+   "stem": "Despite marked swelling and bruising after craniofacial surgery, how are pain scores?",
+   "answer": "Surprisingly low",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a79892",
+   "kind": "statement",
+   "stem": "In free flap surgery, what is free tissue transfer used for?",
+   "answer": "Large wounds that cannot be closed primarily",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a79892",
+   "kind": "statement",
+   "stem": "In free flap surgery, how is circulation restored to the transferred tissue?",
+   "answer": "Microvascular anastomosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#1bcb70",
+   "kind": "statement",
+   "stem": "In free flap surgery, what is done to the vessels once the flap is raised?",
+   "answer": "They are clamped",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f40dac",
+   "kind": "statement",
+   "stem": "In free flap surgery, what happens to flow and metabolism in primary ischaemia?",
+   "answer": "Flow stops and metabolism becomes anaerobic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0408bd",
+   "kind": "statement",
+   "stem": "In free flap surgery, what is the ideal effect of reperfusion once anastomoses are complete and clamps released?",
+   "answer": "Ideally reverses the derangement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#8f8f0f",
+   "kind": "mcq",
+   "stem": "In free flap surgery, how does secondary ischaemia after reperfusion compare with primary ischaemia?",
+   "options": [
+    "Less damaging than primary ischaemia",
+    "More damaging than primary ischaemia",
+    "Equally damaging to primary ischaemia",
+    "Harmless if reperfusion is prompt"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3318af",
+   "kind": "mcq",
+   "stem": "In free flap surgery, how long can the skin tolerate ischaemia?",
+   "options": [
+    "4-6 hours",
+    "10-12 hours",
+    "24-48 hours",
+    "1-2 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3318af",
+   "kind": "mcq",
+   "stem": "In free flap surgery, after how many hours of ischaemia do muscle changes become irreversible?",
+   "options": [
+    "2 hours",
+    "6 hours",
+    "8 hours",
+    "4 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#63c3a2",
+   "kind": "statement",
+   "stem": "In free flap surgery, what three states of the arterial anastomosis can cause flap failure?",
+   "answer": "Inadequate, in spasm or thrombosed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#598768",
+   "kind": "blank",
+   "stem": "In free flap surgery, a venous anastomosis can be defective, in spasm, thrombosed or ____.",
+   "answer": "compressed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#d229e0",
+   "kind": "statement",
+   "stem": "In paediatric free flap surgery, what causes oedema of the flap?",
+   "answer": "Excess crystalloid, extreme haemodilution, handling trauma, long ischaemia time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#644c7a",
+   "kind": "mcq",
+   "stem": "How long does a free flap operation in children typically last?",
+   "options": [
+    "1-2 hours",
+    "6-12 hours",
+    "24-36 hours",
+    "3-4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#39e507",
+   "kind": "statement",
+   "stem": "In free flap surgery, which three factors reduce flap flow and promote failure?",
+   "answer": "Hypovolaemia, vasoconstriction and hypothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#37b81a",
+   "kind": "statement",
+   "stem": "In free flap anaesthesia, what three aims guide management of flap perfusion?",
+   "answer": "Vasodilatation, good perfusion pressure and low viscosity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#34b43f",
+   "kind": "statement",
+   "stem": "In free flap surgery, what is the main determinant of blood flow through a vessel?",
+   "answer": "Vessel radius",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#d71db1",
+   "kind": "statement",
+   "stem": "In free flap anaesthesia, what two things help maintain adequate perfusion pressure?",
+   "answer": "Adequate anaesthetic depth and fluid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#b11f76",
+   "kind": "mcq",
+   "stem": "In free flap surgery, haemodilution to what haematocrit improves flow?",
+   "options": [
+    "20%",
+    "40%",
+    "30%",
+    "45%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#3d64a2",
+   "kind": "mcq",
+   "stem": "Why is a regional block continued after free flap surgery?",
+   "options": [
+    "To prevent small-vessel vasoconstriction",
+    "To increase blood viscosity",
+    "To reduce perfusion pressure",
+    "To allow earlier extubation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#0fd22c",
+   "kind": "statement",
+   "stem": "In paediatric free flap surgery, what preoperative history is important?",
+   "answer": "Surgical history and previous anaesthetic and analgesic experience",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#ad96cf",
+   "kind": "blank",
+   "stem": "Children having free flap surgery are usually given sedative ____.",
+   "answer": "premedication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#aa100f",
+   "kind": "mcq",
+   "stem": "During IPPV in free flap surgery, which gas abnormality should be avoided to prevent vasoconstriction?",
+   "options": [
+    "Hypercapnia",
+    "Hypocapnia",
+    "Hyperkalaemia",
+    "Hyponatraemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#ef766d",
+   "kind": "mcq",
+   "stem": "In free flap surgery, what remifentanil infusion rate reduces volatile anaesthetic needs?",
+   "options": [
+    "0.05-0.1 mcg/kg/min",
+    "0.25-0.5 mcg/kg/min",
+    "1-2 mcg/kg/min",
+    "2-4 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f3b782",
+   "kind": "statement",
+   "stem": "What monitoring is advised for children having free flap surgery beyond standard monitoring?",
+   "answer": "Arterial line, CVP, urine output, core and peripheral temperature",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a34a3c",
+   "kind": "statement",
+   "stem": "Which tests should be repeated during paediatric free flap surgery?",
+   "answer": "Serial arterial blood gases and haematocrit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#6d79a4",
+   "kind": "statement",
+   "stem": "What precautions are needed for positioning in a long free flap case?",
+   "answer": "Careful positioning of limbs and joints; protect pressure areas and eyes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#319d9d",
+   "kind": "statement",
+   "stem": "In free flap surgery, what block is preferred for the recipient site if possible?",
+   "answer": "Regional (sympathetic) block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#15c810",
+   "kind": "mcq",
+   "stem": "Why is moderate hypotension used while the free flap is raised?",
+   "options": [
+    "Improves the field and reduces bleeding",
+    "Raises flap blood viscosity",
+    "Prevents flap vasodilatation",
+    "Shortens anastomosis time"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#76bee3",
+   "kind": "statement",
+   "stem": "What should guide strict fluid management in paediatric free flap surgery?",
+   "answer": "Maintenance, insensible losses and blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f3d441",
+   "kind": "mcq",
+   "stem": "In free flap surgery, what target haematocrit is aimed for while cardiac output is maintained?",
+   "options": [
+    "Around 45%",
+    "Around 20%",
+    "Around 30%",
+    "Around 38%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#c6c3ed",
+   "kind": "mcq",
+   "stem": "In free flap surgery, what core-peripheral temperature gap suggests a warm, filled, vasodilated patient?",
+   "options": [
+    "Over 2°C",
+    "Under 2°C",
+    "Over 5°C",
+    "Over 10°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#01a4c4",
+   "kind": "mcq",
+   "stem": "In free flap surgery, which term describes the ideal state at reperfusion?",
+   "options": [
+    "Cold and dry",
+    "Warm and wet",
+    "Hot and dry",
+    "Cold and wet"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#72bf88",
+   "kind": "statement",
+   "stem": "In free flap surgery, how often are vasodilators or inotropes needed?",
+   "answer": "Rarely needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#f25455",
+   "kind": "statement",
+   "stem": "Why is a smooth emergence important after free flap surgery?",
+   "answer": "Avoids sympathetic surge and vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#a8faed",
+   "kind": "statement",
+   "stem": "Which analgesic approach is increasingly used after paediatric free flap surgery?",
+   "answer": "Postoperative regional techniques",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#00e458",
+   "kind": "mcq",
+   "stem": "Which blocks are used for thigh donor sites in paediatric free flap surgery?",
+   "options": [
+    "Axillary brachial plexus block",
+    "Transversus abdominis plane block",
+    "Femoral, fascia iliaca or 3-in-1 blocks",
+    "Stellate ganglion block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#476116",
+   "kind": "statement",
+   "stem": "When are colloid boluses used in paediatric free flap fluid management?",
+   "answer": "As needed, to maintain CVP and urine output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-plastic-surgery#fa59f9",
+   "kind": "statement",
+   "stem": "Why are frequent flap checks done in paediatric free flap surgery?",
+   "answer": "Early detection of ischaemia or congestion may save the flap",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

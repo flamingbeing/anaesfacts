@@ -1,0 +1,71 @@
+{
+ "topic": "procedures/rigid-oesophagoscopy",
+ "questions": [
+  {
+   "fact_id": "procedures/rigid-oesophagoscopy#730894",
+   "kind": "mcq",
+   "stem": "Which indication for rigid oesophagoscopy involves removing a swallowed object?",
+   "options": [
+    "Hiatus hernia repair",
+    "Foreign body removal",
+    "Gastric bypass revision",
+    "Pleural drainage"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/rigid-oesophagoscopy#5fd541",
+   "kind": "statement",
+   "stem": "What is the main reason for airway protection in rigid oesophagoscopy?",
+   "answer": "High aspiration risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/rigid-oesophagoscopy#bfabfb",
+   "kind": "mcq",
+   "stem": "Which airway device is mandatory for rigid oesophagoscopy?",
+   "options": [
+    "Laryngeal mask airway",
+    "Jet ventilation cannula",
+    "Cuffed ETT",
+    "Tubeless rigid tube"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/rigid-oesophagoscopy#94260c",
+   "kind": "statement",
+   "stem": "Why must rigid oesophagoscopy be done under full muscle relaxation?",
+   "answer": "Movement or bucking greatly increases the risk of oesophageal perforation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/rigid-oesophagoscopy#8134a2",
+   "kind": "mcq",
+   "stem": "Which short-acting opioid is used to blunt the sympathetic response in rigid oesophagoscopy?",
+   "options": [
+    "Morphine",
+    "Methadone",
+    "Naloxone",
+    "Remifentanil"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/rigid-oesophagoscopy#1b981d",
+   "kind": "statement",
+   "stem": "Which signs after rigid oesophagoscopy should raise suspicion of oesophageal perforation?",
+   "answer": "Surgical emphysema, chest pain, unexplained tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

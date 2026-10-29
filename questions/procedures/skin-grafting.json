@@ -1,0 +1,63 @@
+{
+ "topic": "procedures/skin-grafting",
+ "questions": [
+  {
+   "fact_id": "procedures/skin-grafting#40ae8c",
+   "kind": "blank",
+   "stem": "Patients having skin grafting may have major ____.",
+   "answer": "burns",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/skin-grafting#cbd897",
+   "kind": "mcq",
+   "stem": "Skin grafting under general anaesthesia: which airway and breathing approach is described?",
+   "options": [
+    "Tracheostomy with IPPV",
+    "Facemask with apnoeic oxygenation",
+    "LMA with spontaneous ventilation",
+    "Double-lumen tube with IPPV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/skin-grafting#35eff4",
+   "kind": "blank",
+   "stem": "During skin grafting, blood loss is usually ____.",
+   "answer": "variable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/skin-grafting#2b2a08",
+   "kind": "mcq",
+   "stem": "In a skin graft operation, which site is very painful?",
+   "options": [
+    "The recipient wound",
+    "The suture line",
+    "The donor site",
+    "The dressing change"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/skin-grafting#963b89",
+   "kind": "mcq",
+   "stem": "Skin grafting postoperative analgesia: which first-line drugs are used?",
+   "options": [
+    "Epidural infusion",
+    "Simple analgesics",
+    "General anaesthetic",
+    "Nerve block only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

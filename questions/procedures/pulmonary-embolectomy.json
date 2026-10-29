@@ -1,0 +1,245 @@
+{
+ "topic": "procedures/pulmonary-embolectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#99c34c",
+   "kind": "mcq",
+   "stem": "What is the typical state of a patient before pulmonary embolectomy?",
+   "options": [
+    "Stable and fully conscious",
+    "Collapsed, with resuscitation ongoing",
+    "Awake and ambulatory",
+    "Hypertensive with chest pain only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#ee9311",
+   "kind": "mcq",
+   "stem": "What share of the pulmonary trunk must be obstructed before a healthy right ventricle fails?",
+   "options": [
+    "10-20%",
+    "50-80%",
+    "20-30%",
+    "90-100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#575155",
+   "kind": "mcq",
+   "stem": "What prior treatment may a patient needing pulmonary embolectomy already have had?",
+   "options": [
+    "Thrombolysis",
+    "Pacemaker insertion",
+    "Cardioversion",
+    "Vena caval filter alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#b35dcb",
+   "kind": "mcq",
+   "stem": "What is essential for any chance of survival in pulmonary embolectomy?",
+   "options": [
+    "Urgent CPB",
+    "Delayed imaging with CT",
+    "Thrombolysis alone",
+    "Prolonged ventilation first"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#61eb34",
+   "kind": "statement",
+   "stem": "Once surgery is decided for pulmonary embolectomy, what should happen?",
+   "answer": "Move without delay",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#455953",
+   "kind": "mcq",
+   "stem": "Which induction approach suits pulmonary embolectomy?",
+   "options": [
+    "Slow inhalational induction",
+    "Rapid induction",
+    "Awake fibreoptic intubation",
+    "Sedation with spontaneous ventilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#3ee9f5",
+   "kind": "mcq",
+   "stem": "What drug is given at induction as needed for pulmonary embolectomy?",
+   "options": [
+    "Antiemetics",
+    "Long-acting muscle relaxants",
+    "Inotropes",
+    "Antifibrinolytics"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#74b12a",
+   "kind": "mcq",
+   "stem": "What heparin dose is given at induction for pulmonary embolectomy?",
+   "options": [
+    "100 IU/kg",
+    "300 IU/kg",
+    "30 IU/kg",
+    "5000 IU fixed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#b9aef3",
+   "kind": "statement",
+   "stem": "In pulmonary embolectomy, when should cardiopulmonary bypass be started?",
+   "answer": "As soon as possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#d3c125",
+   "kind": "mcq",
+   "stem": "What can make ventilation difficult during pulmonary embolectomy?",
+   "options": [
+    "Massive airway haemorrhage",
+    "Excess bronchial secretions alone",
+    "Low tidal volume settings",
+    "Heparin-induced bronchospasm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#94f385",
+   "kind": "mcq",
+   "stem": "What heart rate is aimed for after bypass in pulmonary embolectomy?",
+   "options": [
+    "Deliberately slow",
+    "Normal",
+    "Above 150 per minute",
+    "Irregular"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#4a584a",
+   "kind": "mcq",
+   "stem": "How should preload be managed after bypass in pulmonary embolectomy?",
+   "options": [
+    "Restrict fluids strictly",
+    "Keep as empty as possible",
+    "Keep well filled",
+    "Withhold all fluids for 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#7312a5",
+   "kind": "mcq",
+   "stem": "What support for contractility is likely after bypass in pulmonary embolectomy?",
+   "options": [
+    "Beta-blocker infusion",
+    "Calcium channel blockers",
+    "Diuretic therapy",
+    "Inotropic support"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#d301a1",
+   "kind": "mcq",
+   "stem": "What drug class can help lower systemic vascular resistance after pulmonary embolectomy bypass?",
+   "options": [
+    "Vasodilators",
+    "Vasopressors",
+    "Anticholinergics",
+    "Antiarrhythmics"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#1be663",
+   "kind": "mcq",
+   "stem": "How long should heparin be delayed after bypass in pulmonary embolectomy?",
+   "options": [
+    "At least 4 hrs",
+    "At least 12 hrs",
+    "At least 24 hrs",
+    "Immediately after bypass"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#d5aedc",
+   "kind": "mcq",
+   "stem": "What can very high right-sided pressures open in pulmonary embolectomy?",
+   "options": [
+    "A coronary artery",
+    "A patent foramen ovale",
+    "The mitral valve",
+    "The aortic root"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#53ad55",
+   "kind": "mcq",
+   "stem": "Why is capnography unreliable at induction for pulmonary embolectomy?",
+   "options": [
+    "Pulmonary blood flow is severely reduced",
+    "Sensors are always disconnected",
+    "Sevoflurane blocks infrared readings",
+    "Patient is always hypothermic"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pulmonary-embolectomy#73a5e1",
+   "kind": "mcq",
+   "stem": "What happens to EtCO2 after successful pulmonary embolectomy?",
+   "options": [
+    "Falls sharply",
+    "Remains unchanged",
+    "Improves dramatically",
+    "Becomes unmeasurable permanently"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

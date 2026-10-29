@@ -1,0 +1,789 @@
+{
+ "topic": "procedures/thyroidectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/thyroidectomy#cf9112",
+   "kind": "statement",
+   "stem": "What two extents of thyroidectomy can be performed?",
+   "answer": "Hemithyroidectomy or total thyroidectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#cc2680",
+   "kind": "mcq",
+   "stem": "How are most retrosternal goitres removed at thyroidectomy?",
+   "options": [
+    "Through the neck",
+    "Via median sternotomy",
+    "By thoracoscopy",
+    "Via mediastinoscopy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#d2b19a",
+   "kind": "mcq",
+   "stem": "How long does a total thyroidectomy usually take?",
+   "options": [
+    "1-2 hrs",
+    "30-45 min",
+    "3-4 hrs",
+    "5-6 hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#7b46e3",
+   "kind": "blank",
+   "stem": "Blood loss in a thyroidectomy is usually ____.",
+   "answer": "<100 ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#db7a51",
+   "kind": "mcq",
+   "stem": "After thyroidectomy, how severe is the pain usually described?",
+   "options": [
+    "Moderate",
+    "Mild",
+    "Severe",
+    "Absent"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#a039ee",
+   "kind": "statement",
+   "stem": "Which three points should be checked before thyroidectomy?",
+   "answer": "Euthyroid status, airway compromise, retrosternal extension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#d1adcd",
+   "kind": "mcq",
+   "stem": "Why is smooth extubation advised after thyroidectomy?",
+   "options": [
+    "To speed up recovery",
+    "To prevent aspiration",
+    "To lower heart rate",
+    "To reduce bleeding"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#1cb3a5",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is often used for thyroidectomy?",
+   "options": [
+    "Desflurane inhalation",
+    "Epidural infusion",
+    "Spinal anaesthesia",
+    "TIVA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#420709",
+   "kind": "blank",
+   "stem": "For thyroidectomy, use a forced-air ____ and a temperature probe.",
+   "answer": "warmer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#bd7733",
+   "kind": "statement",
+   "stem": "What airway arrangement is special in thyroidectomy?",
+   "answer": "Shared airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#4dbd4d",
+   "kind": "statement",
+   "stem": "What two things should be monitored after thyroidectomy?",
+   "answer": "Airway monitoring in PACU and calcium levels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#dcdfd9",
+   "kind": "blank",
+   "stem": "Postoperative airway obstruction after thyroidectomy can come from haematoma, oedema, vocal cord palsy or ____.",
+   "answer": "tracheomalacia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#f76b5d",
+   "kind": "mcq",
+   "stem": "What usually follows accidental removal of the parathyroids during thyroidectomy?",
+   "options": [
+    "Hypocalcaemia",
+    "Hypercalcaemia",
+    "Hyperkalaemia",
+    "Hyponatraemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#b71bd1",
+   "kind": "blank",
+   "stem": "Preoperative thyroidectomy assessment includes checking the ____ calcium.",
+   "answer": "corrected",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#47a445",
+   "kind": "mcq",
+   "stem": "When should usual antithyroid drugs be given before thyroidectomy?",
+   "options": [
+    "On the day of surgery",
+    "Stop them a week before",
+    "Only after surgery",
+    "Stop them one month before"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#1ecb54",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is now preferred for thyroidectomy?",
+   "options": [
+    "Spinal anaesthesia",
+    "Caudal block",
+    "Brachial plexus block",
+    "General anaesthesia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#d03dc7",
+   "kind": "mcq",
+   "stem": "How was thyroidectomy historically commonly performed?",
+   "options": [
+    "Under general anaesthesia",
+    "Under local anaesthesia",
+    "Under caudal block",
+    "Under spinal anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#8f3948",
+   "kind": "mcq",
+   "stem": "How should the head be positioned for thyroidectomy?",
+   "options": [
+    "Slightly flexed",
+    "Rotated to one side",
+    "Fully extended",
+    "Neutral"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#1c5d53",
+   "kind": "mcq",
+   "stem": "Which tilt helps venous drainage during thyroidectomy?",
+   "options": [
+    "Head-down tilt",
+    "Left lateral tilt",
+    "Head-up tilt",
+    "Trendelenburg tilt"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#66f219",
+   "kind": "statement",
+   "stem": "What eye care is needed during thyroidectomy, especially with exophthalmos?",
+   "answer": "Pad the eyes well",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#cc69ac",
+   "kind": "statement",
+   "stem": "Which item should be avoided around the neck during thyroidectomy?",
+   "answer": "Neck ties",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#43c74d",
+   "kind": "mcq",
+   "stem": "Which airway tube is least likely to kink in thyroidectomy?",
+   "options": [
+    "Standard cuffed oral tube",
+    "Laryngeal mask airway",
+    "Double-lumen tube",
+    "Armoured ETT or north-facing RAE"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#0a2687",
+   "kind": "statement",
+   "stem": "What may be needed on the tube if the recurrent laryngeal nerve is monitored?",
+   "answer": "Electrode tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#6533c7",
+   "kind": "statement",
+   "stem": "Why must the tube be taped securely during thyroidectomy?",
+   "answer": "Little access to the airway during surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#1fcce2",
+   "kind": "blank",
+   "stem": "Good muscle relaxation is essential in thyroidectomy unless ____ is used.",
+   "answer": "nerve monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#998f20",
+   "kind": "statement",
+   "stem": "Which opioid infusion is common in thyroidectomy anaesthesia?",
+   "answer": "Remifentanil",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#62c0b6",
+   "kind": "statement",
+   "stem": "If neuromuscular function is monitored in thyroidectomy, what should be avoided?",
+   "answer": "Paralysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#df87d6",
+   "kind": "statement",
+   "stem": "Why might a surgeon ask for a Valsalva manoeuvre during thyroidectomy?",
+   "answer": "To check haemostasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#e2ffa8",
+   "kind": "mcq",
+   "stem": "When switching to bag ventilation in thyroidectomy, what APL valve setting is used?",
+   "options": [
+    "10",
+    "20",
+    "30",
+    "50"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#81007e",
+   "kind": "statement",
+   "stem": "How can vocal cord movement be checked if recurrent laryngeal nerve integrity is in doubt?",
+   "answer": "Laryngoscope or fibreoptic scope through an LMA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#46c880",
+   "kind": "mcq",
+   "stem": "What IV lidocaine dose is given as an alternative in thyroidectomy extubation?",
+   "options": [
+    "0.5 mg/kg",
+    "1.5 mg/kg",
+    "2.5 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#59b5e2",
+   "kind": "mcq",
+   "stem": "Which drug may reduce airway oedema after a long or difficult thyroidectomy?",
+   "options": [
+    "Frusemide",
+    "Dexamethasone",
+    "Adrenaline",
+    "Heparin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#c4232d",
+   "kind": "mcq",
+   "stem": "How common is regional anaesthesia for thyroidectomy?",
+   "options": [
+    "Standard",
+    "Uncommon",
+    "Mandatory",
+    "Preferred"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#6d036d",
+   "kind": "blank",
+   "stem": "Regional thyroidectomy can use a bilateral ____ block at C2-C4.",
+   "answer": "superficial cervical plexus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#6d036d",
+   "kind": "mcq",
+   "stem": "For thyroidectomy regional anaesthesia, which cervical levels does the bilateral superficial plexus block cover?",
+   "options": [
+    "C1-C2",
+    "C5-C7",
+    "C2-C4",
+    "T1-T4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#dc46d4",
+   "kind": "mcq",
+   "stem": "Apart from a superficial plexus block, which other regional option is possible for thyroidectomy?",
+   "options": [
+    "Lumbar spinal",
+    "Caudal block",
+    "Cervical epidural",
+    "Ankle block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#06e424",
+   "kind": "mcq",
+   "stem": "Which site is a suitable ground electrode position for recurrent laryngeal nerve monitoring?",
+   "options": [
+    "Subcutaneous over the sternum",
+    "Over the forehead",
+    "Inside the ETT cuff",
+    "Under the tongue"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#e85e19",
+   "kind": "statement",
+   "stem": "What does the evidence say about nerve monitoring and recurrent laryngeal nerve palsy rates?",
+   "answer": "It does not significantly reduce them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#b0cc4f",
+   "kind": "statement",
+   "stem": "Which drugs are used for postoperative nausea after thyroidectomy, where risk is high?",
+   "answer": "Ondansetron and/or cyclizine plus dexamethasone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#801ba2",
+   "kind": "mcq",
+   "stem": "After thyroidectomy for thyrotoxicosis, what T4 half-life explains why beta-blockers may continue?",
+   "options": [
+    "7-8 hours",
+    "1-2 days",
+    "7–8 days",
+    "30-45 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#9e605e",
+   "kind": "mcq",
+   "stem": "What is the reported haematoma rate after thyroidectomy?",
+   "options": [
+    "0.04%",
+    "4%",
+    "0.4%",
+    "14%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#71c497",
+   "kind": "mcq",
+   "stem": "What proportion of hypocalcaemia after thyroidectomy is permanent?",
+   "options": [
+    "0.4%",
+    "3%",
+    "10%",
+    "30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#33077a",
+   "kind": "mcq",
+   "stem": "After thyroidectomy, at what calcium level is urgent IV calcium needed?",
+   "options": [
+    "1.5 mmol/L",
+    "2.5 mmol/L",
+    "1 mmol/L",
+    "2 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#eec71b",
+   "kind": "statement",
+   "stem": "Which chest complications can follow thyroidectomy, especially with retrosternal goitre?",
+   "answer": "Pneumothorax, haemothorax or chylothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#92352d",
+   "kind": "statement",
+   "stem": "What complication of thyroidectomy causes shaving problems for men?",
+   "answer": "Neuropraxia at the operative site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#542ba5",
+   "kind": "statement",
+   "stem": "In recovery, what is the first step for respiratory distress after total thyroidectomy?",
+   "answer": "Call for help, inform the surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#cb2b91",
+   "kind": "statement",
+   "stem": "What framework guides assessment and support for respiratory distress in recovery after total thyroidectomy?",
+   "answer": "ABC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#4d09b4",
+   "kind": "statement",
+   "stem": "Which vital signs and airway features should be checked for respiratory distress in recovery after thyroidectomy?",
+   "answer": "SpO2, pulse, BP; airway patency, stridor, breathing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#b95f90",
+   "kind": "mcq",
+   "stem": "For neck swelling with suspected venous oedema after thyroidectomy, what position is advised?",
+   "options": [
+    "Head down 15 degrees",
+    "Flat supine",
+    "Sit up at 45 degrees",
+    "Lateral recovery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#b95f90",
+   "kind": "statement",
+   "stem": "If neck haematoma after thyroidectomy is in extremis, where is it evacuated?",
+   "answer": "At the bedside",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#d1997c",
+   "kind": "mcq",
+   "stem": "When does thyroid storm more often occur relative to thyroidectomy?",
+   "options": [
+    "2 to 4 days after",
+    "6 to 18 hours after",
+    "Within the first hour after",
+    "Several weeks after"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#e81d80",
+   "kind": "statement",
+   "stem": "What is thought to trigger thyroid storm during thyroidectomy?",
+   "answer": "Handling of the gland in hyperthyroid patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#0e7247",
+   "kind": "mcq",
+   "stem": "Thyroid storm during thyroidectomy is mainly seen in which patients?",
+   "options": [
+    "Euthyroid patients",
+    "Well controlled on antithyroid drugs",
+    "Poorly treated patients",
+    "Patients with goitre alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#9aecf7",
+   "kind": "statement",
+   "stem": "Which scoring system assesses the likelihood of thyroid storm?",
+   "answer": "Burch-Wartofsky Point Scale",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#84d8a5",
+   "kind": "mcq",
+   "stem": "A Burch-Wartofsky score of 25–44 suggests what?",
+   "options": [
+    "Impending storm",
+    "Normal thyroid function",
+    "Euthyroid state",
+    "Resolved thyrotoxicosis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#889bcb",
+   "kind": "mcq",
+   "stem": "A Burch-Wartofsky score above 45 highly suggests what?",
+   "options": [
+    "Impending storm",
+    "Thyroid storm",
+    "Euthyroid state",
+    "Mild hypothyroidism"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#dc38a1",
+   "kind": "statement",
+   "stem": "Which two intraoperative clues suggest thyroid storm?",
+   "answer": "Hyperpyrexia and tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#b8ec5c",
+   "kind": "statement",
+   "stem": "What metabolic changes occur during intraoperative thyroid storm?",
+   "answer": "Rising temperature, higher O2 consumption and CO2 production, acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#175623",
+   "kind": "statement",
+   "stem": "Which thyroid storm features appear in an awake patient?",
+   "answer": "GI and mental status changes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#008637",
+   "kind": "mcq",
+   "stem": "What mortality is quoted for an emergency thyroid storm?",
+   "options": [
+    "5%",
+    "10%",
+    "20%",
+    "40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#113a95",
+   "kind": "statement",
+   "stem": "Name two methods of active cooling used in intraoperative thyroid storm.",
+   "answer": "Cooling blankets, cold IV fluid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#25c252",
+   "kind": "mcq",
+   "stem": "What is the esmolol bolus dose in intraoperative thyroid storm?",
+   "options": [
+    "0.025-0.05 mg/kg",
+    "0.25-0.5 mg/kg",
+    "2.5-5 mg/kg",
+    "25-50 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#25c252",
+   "kind": "mcq",
+   "stem": "What is the esmolol infusion rate in intraoperative thyroid storm?",
+   "options": [
+    "5-20 mcg/kg/min",
+    "50-200 mcg/kg/min",
+    "500-2000 mcg/kg/min",
+    "1-2 mg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#826c69",
+   "kind": "mcq",
+   "stem": "What oral propranolol dose is used in intraoperative thyroid storm?",
+   "options": [
+    "1-5 mg",
+    "10-40 mg",
+    "100-200 mg",
+    "250-500 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#826c69",
+   "kind": "mcq",
+   "stem": "What is the maximum IV propranolol rate in intraoperative thyroid storm?",
+   "options": [
+    "0.5 mg/min",
+    "1 mg/min",
+    "5 mg/min",
+    "10 mg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#584719",
+   "kind": "blank",
+   "stem": "In intraoperative thyroid storm, ____ 200-400 mg PO/NG/PR 6-hourly blocks thyroid hormone synthesis.",
+   "answer": "PTU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#1df164",
+   "kind": "mcq",
+   "stem": "In intraoperative thyroid storm, when should iodide be given relative to PTU?",
+   "options": [
+    "At the same time as PTU",
+    "1 hr after PTU",
+    "6 hr after PTU",
+    "Before PTU is started"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#1df164",
+   "kind": "mcq",
+   "stem": "What dose of potassium iodide is given PO or NG 6-hourly in intraoperative thyroid storm?",
+   "options": [
+    "2 drops",
+    "5 drops",
+    "10 drops",
+    "20 drops"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#d867ad",
+   "kind": "blank",
+   "stem": "In intraoperative thyroid storm, ____ 100-200 mg IV 8-hourly blocks T4 to T3 conversion.",
+   "answer": "hydrocortisone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#a747c2",
+   "kind": "mcq",
+   "stem": "Which last-resort option in intraoperative thyroid storm blocks enterohepatic circulation?",
+   "options": [
+    "Plasmapheresis",
+    "Cholestyramine",
+    "Dantrolene",
+    "Lithium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/thyroidectomy#dd9850",
+   "kind": "statement",
+   "stem": "What should be checked to identify malignant hyperthermia during intraoperative thyroid storm?",
+   "answer": "ETCO2 and O2, blood gas, urine colour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

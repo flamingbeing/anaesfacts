@@ -1,0 +1,553 @@
+{
+ "topic": "procedures/paediatric-venous-access",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-venous-access#c5c89a",
+   "kind": "statement",
+   "stem": "In neonates needing a peripheral cannula, which veins may be the best option?",
+   "answer": "Scalp veins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#09dbb8",
+   "kind": "mcq",
+   "stem": "A critically unwell child needs immediate access. What is the maximum number of peripheral attempts before going intraosseous?",
+   "options": [
+    "Four peripheral attempts",
+    "Two peripheral attempts",
+    "Six peripheral attempts",
+    "Eight peripheral attempts"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#37eb58",
+   "kind": "statement",
+   "stem": "What is the minimum cannulation a child having anaesthesia receives, as in adults?",
+   "answer": "At least one peripheral cannula",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#1d8dad",
+   "kind": "mcq",
+   "stem": "What is the smallest plastic peripheral cannula available for children?",
+   "options": [
+    "24 G",
+    "22 G",
+    "26 G",
+    "20 G"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#691271",
+   "kind": "mcq",
+   "stem": "Which peripheral cannula gauge is usually used in neonates?",
+   "options": [
+    "18 G",
+    "24 G",
+    "20 G",
+    "16 G"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#979183",
+   "kind": "statement",
+   "stem": "For infants and older children, which gauge is usually used unless a wider bore is needed?",
+   "answer": "22 G",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#0087f0",
+   "kind": "mcq",
+   "stem": "What tubing length is used in the standard flow test for peripheral cannulas?",
+   "options": [
+    "60 cm",
+    "110 cm",
+    "150 cm",
+    "30 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#57b17a",
+   "kind": "statement",
+   "stem": "What child-friendly words can replace 'needle' when explaining a cannula?",
+   "answer": "'Plastic tube' or 'straw'",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#364283",
+   "kind": "statement",
+   "stem": "What should happen about cannulation at the preoperative visit for a child?",
+   "answer": "Explain the need for a cannula to child and parents, and look for the best veins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#bb38d4",
+   "kind": "mcq",
+   "stem": "How long before cannulation should EMLA cream be applied over the best veins?",
+   "options": [
+    "30-40 minutes",
+    "10 minutes",
+    "1-2 hours",
+    "4-6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#bb38d4",
+   "kind": "mcq",
+   "stem": "How long before cannulation should Ametop be applied over the best veins?",
+   "options": [
+    "5-10 minutes",
+    "30-40 minutes",
+    "1-2 hours",
+    "Immediately before"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#fc189e",
+   "kind": "statement",
+   "stem": "How can a child be kept from seeing the needle during cannulation?",
+   "answer": "Keep it out of sight and distract the child, with parents or play specialists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#f0f044",
+   "kind": "statement",
+   "stem": "After removing the topical cream before paediatric cannulation, what should the assistant do?",
+   "answer": "Hold the limb still and congest the vein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#a60181",
+   "kind": "statement",
+   "stem": "Why flush a new paediatric cannula with saline before giving induction drugs?",
+   "answer": "To confirm patency and avoid subcutaneous induction agent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#2ff9f6",
+   "kind": "statement",
+   "stem": "Why keep access to the head and airway during paediatric cannulation, despite parents and play specialists?",
+   "answer": "The child desaturates fast once anaesthetised",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#14ef83",
+   "kind": "statement",
+   "stem": "Why is the external jugular vein useful in a child after failed attempts elsewhere?",
+   "answer": "Constant, easily found landmark",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#f50295",
+   "kind": "mcq",
+   "stem": "Which technique is needed for external jugular cannulation because the vein counts as central?",
+   "options": [
+    "Clean technique",
+    "Aseptic technique",
+    "Peripheral technique only",
+    "No special precautions"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#12ea59",
+   "kind": "statement",
+   "stem": "Where does a guidewire passed down the external jugular vein often stick?",
+   "answer": "Where the vein pierces deep fascia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#b91610",
+   "kind": "mcq",
+   "stem": "Under what age is internal jugular cannulation hard in children?",
+   "options": [
+    "Over 5 years",
+    "Under 1 year",
+    "Over 10 years",
+    "Over 2 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#6f7d68",
+   "kind": "statement",
+   "stem": "Why does muscle relaxation help during internal jugular cannulation in children?",
+   "answer": "Prevents movement and injury to nearby structures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#43802b",
+   "kind": "mcq",
+   "stem": "What length range do paediatric internal jugular catheters come in?",
+   "options": [
+    "2 cm to 10 cm",
+    "6 cm to 30 cm",
+    "15 cm to 50 cm",
+    "30 cm to 60 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#975599",
+   "kind": "mcq",
+   "stem": "At what angle to the skin is the needle inserted for internal jugular cannulation?",
+   "options": [
+    "15 degrees",
+    "45 degrees",
+    "30 degrees",
+    "60 degrees"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#975599",
+   "kind": "statement",
+   "stem": "Where should the needle be aimed during internal jugular cannulation?",
+   "answer": "The ipsilateral nipple",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#f98c2c",
+   "kind": "mcq",
+   "stem": "How far may the needle be advanced for paediatric internal jugular cannulation?",
+   "options": [
+    "1 cm",
+    "5 cm",
+    "2.5 cm",
+    "10 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#7922d1",
+   "kind": "mcq",
+   "stem": "Which muscle lies superficial to the internal jugular vein?",
+   "options": [
+    "Trapezius",
+    "Scalenus anterior",
+    "Digastric",
+    "Sternocleidomastoid"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#a92b76",
+   "kind": "mcq",
+   "stem": "In which children is femoral venous cannulation especially popular?",
+   "options": [
+    "Adolescents",
+    "Neonates and infants",
+    "School-age children",
+    "Adults over 60"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#f76ef2",
+   "kind": "statement",
+   "stem": "What limits a femoral venous line for measuring cardiac pressures in children?",
+   "answer": "It does not give accurate cardiac filling pressures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#cc8b29",
+   "kind": "statement",
+   "stem": "When should a peripheral cannula be sited after inhalational induction in a child?",
+   "answer": "As soon as practical",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#f96598",
+   "kind": "statement",
+   "stem": "What determines the size of a paediatric peripheral cannula?",
+   "answer": "Child size, expected fluid needs and venous anatomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#90551f",
+   "kind": "statement",
+   "stem": "In paediatric femoral venous access, why are femoral lines less favoured than neck lines for long-term use?",
+   "answer": "Infection, kinking with leg movement, and displacement during nappy changes and perineal care",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#571262",
+   "kind": "mcq",
+   "stem": "In paediatric femoral vein anatomy, where does the vein become the external iliac vein?",
+   "options": [
+    "The pubic symphysis",
+    "The inguinal ligament",
+    "The iliac crest",
+    "The adductor canal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#859a64",
+   "kind": "mcq",
+   "stem": "Where do you feel the femoral artery when locating the femoral vein in a child?",
+   "options": [
+    "1-2 cm above the midpoint of the inguinal ligament",
+    "At the pubic symphysis, just lateral to it",
+    "1-2 cm below the midpoint of the inguinal ligament",
+    "5 cm below the anterior superior iliac spine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#e7001b",
+   "kind": "mcq",
+   "stem": "At what angle should the needle enter when cannulating a child's femoral vein?",
+   "options": [
+    "30° to the coronal plane",
+    "90° to the coronal plane",
+    "45° to the coronal plane",
+    "60° to the coronal plane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#ddb6dc",
+   "kind": "mcq",
+   "stem": "How far may the needle be advanced in paediatric femoral vein cannulation?",
+   "options": [
+    "1 cm",
+    "5 cm",
+    "2.5 cm",
+    "10 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#ddb6dc",
+   "kind": "statement",
+   "stem": "Why must the needle not advance beyond 2.5 cm in femoral vein cannulation in a child?",
+   "answer": "Risk of perforating a viscus or entering the hip joint",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#43151f",
+   "kind": "mcq",
+   "stem": "Which complication is common with femoral vein cannulation in a child?",
+   "options": [
+    "Oesophageal perforation",
+    "Femoral artery puncture",
+    "Laryngeal oedema",
+    "Brachial plexus injury"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#e52146",
+   "kind": "statement",
+   "stem": "In a child, when is intraosseous access used?",
+   "answer": "For rapid access when peripheral or central attempts fail",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#5fd8c0",
+   "kind": "mcq",
+   "stem": "Which sample can be taken through an intraosseous needle in a child?",
+   "options": [
+    "Cerebrospinal fluid",
+    "Urine",
+    "Stool",
+    "Blood, labelled as bone marrow"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#816a70",
+   "kind": "mcq",
+   "stem": "From what age does a child's bone marrow change to less vascular yellow marrow?",
+   "options": [
+    "2 years of age",
+    "3 years of age",
+    "5 years of age",
+    "8 years of age"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#184b23",
+   "kind": "mcq",
+   "stem": "Below what age is intraosseous access recommended in children?",
+   "options": [
+    "Under 4 years",
+    "Under 8 years",
+    "Under 6 years",
+    "Under 12 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#5cebc1",
+   "kind": "statement",
+   "stem": "For what patients is intraosseous access indicated during resuscitation?",
+   "answer": "Babies or children under 6 years",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#dbf6b6",
+   "kind": "mcq",
+   "stem": "How soon should intraosseous access be replaced with IV access in a child?",
+   "options": [
+    "Within 1 hour",
+    "Within 1 week",
+    "Within 24 hours if possible",
+    "Within 3 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#7b51e4",
+   "kind": "statement",
+   "stem": "What are the advantages of intraosseous access in children?",
+   "answer": "Clear landmarks, fast, no special skill needed, high success, few complications, takes many drugs and fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#40d882",
+   "kind": "statement",
+   "stem": "Which bone is the most common intraosseous insertion site in children?",
+   "answer": "Anterior proximal tibia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#40d882",
+   "kind": "mcq",
+   "stem": "Where on the tibia is the usual intraosseous needle site in children?",
+   "options": [
+    "2 cm above the medial malleolus",
+    "2 cm below the tibial tuberosity",
+    "At the mid-shaft of the fibula",
+    "5 cm below the knee joint line"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#8e13cd",
+   "kind": "mcq",
+   "stem": "At what angle should an intraosseous needle meet the bone surface?",
+   "options": [
+    "45° to the bone surface",
+    "Parallel to the bone surface",
+    "90° to the bone surface",
+    "30° to the bone surface"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#e33fbe",
+   "kind": "mcq",
+   "stem": "What volume of saline is injected to confirm an intraosseous needle is in position?",
+   "options": [
+    "5 mL 0.9% saline",
+    "20 mL 0.9% saline",
+    "50 mL 0.9% saline",
+    "10 mL 0.9% saline"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#de89c4",
+   "kind": "mcq",
+   "stem": "Which needle gauges are the purpose-made intraosseous needles for children?",
+   "options": [
+    "26 G and 28 G",
+    "18 G and 20 G",
+    "10 G and 12 G",
+    "22 G and 24 G"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-venous-access#b58900",
+   "kind": "statement",
+   "stem": "What complications can intraosseous access in a child's tibia cause?",
+   "answer": "Tibia transfixed, calf compartment syndrome, osteomyelitis, haemorrhage, growth plate injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

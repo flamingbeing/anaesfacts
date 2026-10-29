@@ -1,0 +1,293 @@
+{
+ "topic": "procedures/paediatric-tracheostomy",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#2cc423",
+   "kind": "mcq",
+   "stem": "Pierre Robin syndrome is a reason for paediatric tracheostomy. Which indication category does it fall under?",
+   "options": [
+    "Long-term respiratory support",
+    "Chronic lung disease",
+    "Upper airway obstruction",
+    "Neuromuscular weakness"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#b58372",
+   "kind": "mcq",
+   "stem": "Ondine's curse is an indication for paediatric tracheostomy. Which indication category does it fall under?",
+   "options": [
+    "Congenital heart failure",
+    "Upper airway obstruction",
+    "Long-term respiratory support",
+    "Acute kidney injury"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#0f2edc",
+   "kind": "statement",
+   "stem": "Paediatric tracheostomy can be done with the child breathing spontaneously. Via what device, if needed?",
+   "answer": "Face mask or LMA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#178cbe",
+   "kind": "blank",
+   "stem": "If intubation is expected to be difficult for paediatric tracheostomy, use gas induction and intubate under deep ____ anaesthesia.",
+   "answer": "inhalational",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#b8627f",
+   "kind": "statement",
+   "stem": "Which anaesthetic approach is preferred for paediatric tracheostomy when possible?",
+   "answer": "Intubation, neuromuscular blockade and IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#c89476",
+   "kind": "statement",
+   "stem": "What maintenance options are used for paediatric tracheostomy anaesthesia?",
+   "answer": "Volatile in oxygen and air, or 100% oxygen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#8a9e5d",
+   "kind": "mcq",
+   "stem": "Why is a shoulder roll placed under the child for paediatric tracheostomy?",
+   "options": [
+    "To stop surgical bleeding",
+    "To lift the chest for ventilation",
+    "To keep the head flat",
+    "To fully extend the neck and bring the trachea forward"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#7ab429",
+   "kind": "mcq",
+   "stem": "What does adding adrenaline to local anaesthetic achieve at the paediatric tracheostomy incision?",
+   "options": [
+    "Faster tracheal incision",
+    "Haemostasis and analgesia",
+    "Reduced need for ventilation",
+    "Stronger neuromuscular blockade"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#9dbf77",
+   "kind": "statement",
+   "stem": "Why is an opioid bolus given to a child after paediatric tracheostomy?",
+   "answer": "Postoperative sedation so the agitated child does not dislodge the tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#1a8182",
+   "kind": "blank",
+   "stem": "Before tracheal incision in paediatric tracheostomy, ventilate with 100% ____ for a few minutes.",
+   "answer": "oxygen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#a341d0",
+   "kind": "mcq",
+   "stem": "How does a paediatric tracheostomy tube usually compare in size with the ETT it replaces?",
+   "options": [
+    "0.5 mm smaller",
+    "1 mm larger",
+    "0.5 mm larger",
+    "Same size"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#0db493",
+   "kind": "mcq",
+   "stem": "In paediatric tracheostomy, when is the endotracheal tube fully removed?",
+   "options": [
+    "Immediately after the tube is placed",
+    "Once ventilation via the tracheostomy is adequate",
+    "Before the tracheal incision is made",
+    "As soon as the child is awake"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#bf91f3",
+   "kind": "mcq",
+   "stem": "Why are two stay sutures placed either side of a paediatric tracheostomy incision?",
+   "options": [
+    "To control bleeding from the thyroid gland",
+    "To hold the stoma open if tube replacement is needed early",
+    "To anchor the shoulder roll in place",
+    "To close the wound after decannulation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#990f4d",
+   "kind": "statement",
+   "stem": "What is often used to watch the tracheostomy tube being inserted during paediatric tracheostomy?",
+   "answer": "A fibrescope passed through the ETT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#10a562",
+   "kind": "mcq",
+   "stem": "What does a fibrescope passed through a paediatric tracheostomy tube confirm?",
+   "options": [
+    "The cuff is fully inflated",
+    "The stay sutures are secure",
+    "The tip is above the carina",
+    "The oesophagus is clear"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#3d7782",
+   "kind": "mcq",
+   "stem": "Before tying the tapes after paediatric tracheostomy, how should the neck be positioned?",
+   "options": [
+    "Keep the shoulder roll and extend the neck",
+    "Tilt the head fully back",
+    "Remove the shoulder roll and flex the neck",
+    "Leave the neck in extension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#d282fb",
+   "kind": "statement",
+   "stem": "What should the early chest X-ray after paediatric tracheostomy check?",
+   "answer": "Tube position and length; exclude pneumothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#afd116",
+   "kind": "mcq",
+   "stem": "Which is a common problem after paediatric tracheostomy?",
+   "options": [
+    "Hypoglycaemia",
+    "Malignant hyperthermia",
+    "Surgical emphysema",
+    "Postural hypotension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#fa0b53",
+   "kind": "mcq",
+   "stem": "How long does a paediatric tracheostomy track take to mature?",
+   "options": [
+    "1-2 days",
+    "3-4 days",
+    "7-9 days",
+    "14-21 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#e51546",
+   "kind": "statement",
+   "stem": "Why does a child with a paediatric tracheostomy need humidified oxygen and frequent suction?",
+   "answer": "Upper airway warming and humidification are bypassed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#f15a5d",
+   "kind": "statement",
+   "stem": "Which two preoperative factors are key when planning a paediatric tracheostomy?",
+   "answer": "Cause of airway obstruction and known ease of intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#0894bb",
+   "kind": "statement",
+   "stem": "For a child in the long-term ventilation group, what must be reviewed before paediatric tracheostomy?",
+   "answer": "Respiratory function from the notes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#9aba77",
+   "kind": "statement",
+   "stem": "What should the anaesthetist do with the airway before paediatric tracheostomy?",
+   "answer": "Examine it and predict difficulty with maintenance and intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#b69631",
+   "kind": "statement",
+   "stem": "Which two clinicians should plan a paediatric tracheostomy together?",
+   "answer": "Surgeon and anaesthetist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#03d951",
+   "kind": "statement",
+   "stem": "What postoperative resource should be anticipated after a paediatric tracheostomy?",
+   "answer": "An ICU bed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#7a367d",
+   "kind": "statement",
+   "stem": "In what state may a child arrive from ICU for paediatric tracheostomy?",
+   "answer": "Already intubated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-tracheostomy#a3d4ce",
+   "kind": "mcq",
+   "stem": "At which tracheal level is a paediatric tracheostomy sited?",
+   "options": [
+    "Between the first and second tracheal rings",
+    "Between the second and third tracheal rings",
+    "Between the fourth and fifth tracheal rings",
+    "At the level of the carina"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

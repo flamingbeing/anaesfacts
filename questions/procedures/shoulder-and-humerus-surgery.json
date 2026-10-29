@@ -1,0 +1,277 @@
+{
+ "topic": "procedures/shoulder-and-humerus-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#1ccbb0",
+   "kind": "statement",
+   "stem": "Which four procedures are most common in shoulder surgery, and how are they usually done?",
+   "answer": "Acromioplasty, stabilisation, adhesiolysis, rotator cuff repair; usually arthroscopic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#42450c",
+   "kind": "blank",
+   "stem": "Shoulder surgery: an open total or partial replacement of the glenohumeral joint is a glenohumeral ____.",
+   "answer": "arthroplasty",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#dec2d0",
+   "kind": "statement",
+   "stem": "In shoulder surgery preoperative assessment, besides the shoulder cause, which underlying condition must be looked for?",
+   "answer": "Rheumatoid arthritis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#4456f2",
+   "kind": "blank",
+   "stem": "Shoulder surgery positions include supine with head-up tilt, lateral, or ____.",
+   "answer": "beach-chair",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#0ec2b1",
+   "kind": "statement",
+   "stem": "In shoulder surgery with the patient head-up, why must the airway be secured particularly well?",
+   "answer": "The head is away from the anaesthetist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#f7937e",
+   "kind": "mcq",
+   "stem": "Shoulder surgery under general anaesthesia in beach-chair position: which airway device is often enough?",
+   "options": [
+    "Oropharyngeal airway",
+    "Laryngeal mask airway",
+    "Tracheostomy",
+    "Nasopharyngeal airway"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#6d1d92",
+   "kind": "mcq",
+   "stem": "For shoulder surgery, which regional block is the block of choice?",
+   "options": [
+    "Axillary block",
+    "Femoral nerve block",
+    "Interscalene block",
+    "Paravertebral block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#8a85eb",
+   "kind": "statement",
+   "stem": "For shoulder surgery, where should the IV cannula be sited?",
+   "answer": "Opposite arm (long extension) or ankle/foot",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#f8bd76",
+   "kind": "statement",
+   "stem": "In shoulder surgery, if the BP cuff shares an arm with the IV cannula, what should be fitted to the line?",
+   "answer": "An anti-reflux valve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#9c90e8",
+   "kind": "mcq",
+   "stem": "How painful are arthroscopic and open shoulder surgery?",
+   "options": [
+    "Mild only",
+    "Moderate to severe",
+    "Negligible",
+    "Severe only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#ed8c9a",
+   "kind": "blank",
+   "stem": "Shoulder surgery pain is unpredictable, may last days, and is worst in the first ____.",
+   "answer": "48hr",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#397876",
+   "kind": "blank",
+   "stem": "Shoulder and humerus surgery is usually done as ____ surgery.",
+   "answer": "day",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#73a9df",
+   "kind": "mcq",
+   "stem": "Which spinal levels from the cervical plexus give the shoulder's sensory supply?",
+   "options": [
+    "C7,8",
+    "C3,4",
+    "T1,2",
+    "L1,2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#3300aa",
+   "kind": "mcq",
+   "stem": "Which nerve arising from the upper trunk mainly supplies the shoulder joint?",
+   "options": [
+    "Radial nerve",
+    "Suprascapular nerve",
+    "Ulnar nerve",
+    "Median nerve"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#0e90ac",
+   "kind": "statement",
+   "stem": "Which three nerves give only a minor supply to the shoulder joint?",
+   "answer": "Lateral pectoral, musculocutaneous and subscapular nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#0d6540",
+   "kind": "blank",
+   "stem": "The skin of the shoulder cape and upper chest is supplied by the ____ nerves.",
+   "answer": "supraclavicular",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#837b39",
+   "kind": "statement",
+   "stem": "Which nerve branching from the axillary nerve supplies skin distal to the glenohumeral joint?",
+   "answer": "Superior lateral cutaneous nerve of arm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#984092",
+   "kind": "statement",
+   "stem": "Can selective nerve blocks alone serve as the anaesthetic for shoulder surgery, and why?",
+   "answer": "No: analgesia only, as not all nerves are covered",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#2b4012",
+   "kind": "statement",
+   "stem": "For Bankart and capsular shift repair, how does pain compare with cuff repair?",
+   "answer": "Usually less painful",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#53ea5c",
+   "kind": "statement",
+   "stem": "For rotator cuff repair, which drug is given as a loading dose during surgery, with PCA considered?",
+   "answer": "Morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#9530ac",
+   "kind": "statement",
+   "stem": "For rotator cuff repair pain, which catheter-based option can be considered?",
+   "answer": "Interscalene catheter with LA infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#0e9cb6",
+   "kind": "mcq",
+   "stem": "How long does total shoulder replacement usually take?",
+   "options": [
+    "30-60min",
+    "2-3hr",
+    "6-8hr",
+    "10-12hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#2df376",
+   "kind": "mcq",
+   "stem": "How severe is pain after total shoulder replacement?",
+   "options": [
+    "Mild (+)",
+    "Moderate (++)",
+    "Severe (+++ to ++++)",
+    "Negligible (0)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#fa6de0",
+   "kind": "blank",
+   "stem": "Total shoulder replacement: expected blood loss is about ____.",
+   "answer": "250-500ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#011d4c",
+   "kind": "statement",
+   "stem": "For total shoulder replacement, which airway and ventilation technique is used?",
+   "answer": "ETT and IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#1acde0",
+   "kind": "statement",
+   "stem": "With an interscalene block for total shoulder replacement, why can breakthrough pain occur in the glenoid phase?",
+   "answer": "Fibres from T2 are not always blocked",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#153573",
+   "kind": "mcq",
+   "stem": "Total shoulder replacement without interscalene block: how much local anaesthetic does the surgeon infiltrate?",
+   "options": [
+    "10–15mL of 0.25% bupivacaine",
+    "20–30mL of 0.25% bupivacaine",
+    "50–60mL of 0.25% bupivacaine",
+    "5–10mL of 0.5% bupivacaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/shoulder-and-humerus-surgery#b10230",
+   "kind": "blank",
+   "stem": "Pain after total shoulder replacement is worst in the first ____, and PCA or intermittent morphine is usually enough.",
+   "answer": "24hr",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

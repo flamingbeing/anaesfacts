@@ -1,0 +1,247 @@
+{
+ "topic": "procedures/testicular-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/testicular-surgery#b0f9eb",
+   "kind": "mcq",
+   "stem": "Which operation is an example of testicular surgery?",
+   "options": [
+    "Cholecystectomy",
+    "Orchidopexy",
+    "Nephrectomy",
+    "Appendicectomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#4866fb",
+   "kind": "mcq",
+   "stem": "How long does testicular surgery usually take?",
+   "options": [
+    "10-15 minutes",
+    "2-3 hours",
+    "30min -1hr",
+    "4-5 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#d0c0c4",
+   "kind": "mcq",
+   "stem": "How much pain is expected with testicular surgery?",
+   "options": [
+    "None (0)",
+    "Mild (+)",
+    "Moderate to severe (++ to +++)",
+    "Minimal (+/-)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#634b92",
+   "kind": "mcq",
+   "stem": "What is the expected blood loss in testicular surgery?",
+   "options": [
+    "Over one litre",
+    "Around 500 mL",
+    "Not significant",
+    "Several litres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#588f6b",
+   "kind": "mcq",
+   "stem": "What patient position is used for testicular surgery?",
+   "options": [
+    "Prone",
+    "Lateral decubitus",
+    "Lithotomy",
+    "Supine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#4de253",
+   "kind": "mcq",
+   "stem": "What is the usual indication for radical orchidectomy?",
+   "options": [
+    "Bladder cancer",
+    "Renal stones",
+    "Testicular cancer",
+    "Prostatic hyperplasia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#1a9f3d",
+   "kind": "statement",
+   "stem": "In radical orchidectomy, why watch closely for systemic toxicity?",
+   "answer": "Patients may have had chemotherapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#5b241b",
+   "kind": "mcq",
+   "stem": "Which chemotherapy drug causes pulmonary toxicity in patients with testicular cancer?",
+   "options": [
+    "Cisplatin",
+    "Vincristine",
+    "Bleomycin",
+    "Doxorubicin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#a27982",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is acceptable for radical orchidectomy?",
+   "options": [
+    "Only general anaesthesia",
+    "Only spinal anaesthesia",
+    "Neither general nor regional",
+    "Either general or regional anaesthesia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#1b92fb",
+   "kind": "statement",
+   "stem": "What additional operation may be added to radical orchidectomy for testicular cancer?",
+   "answer": "Retroperitoneal lymph node dissection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#536976",
+   "kind": "mcq",
+   "stem": "Which setting are patients for testicular surgery often suitable for?",
+   "options": [
+    "Intensive care admission",
+    "Prolonged inpatient stay",
+    "Day surgery",
+    "Specialist cardiac unit"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#f45a1b",
+   "kind": "mcq",
+   "stem": "Which drug should be ready during testicular surgery in case of a vagal response?",
+   "options": [
+    "Adrenaline",
+    "Naloxone",
+    "Atropine",
+    "Flumazenil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#df5b03",
+   "kind": "mcq",
+   "stem": "Which spinal roots give somatic innervation in testicular surgery?",
+   "options": [
+    "T4 to L2",
+    "L3 to S1",
+    "S1 to S3",
+    "L1 to S3"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#df5b03",
+   "kind": "statement",
+   "stem": "Name the four somatic nerves supplying the scrotum in testicular surgery.",
+   "answer": "Ilioinguinal, genitofemoral, pudendal and posterior scrotal nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#2a6229",
+   "kind": "mcq",
+   "stem": "Which spinal segments make up the sympathetic chain relevant to testicular surgery?",
+   "options": [
+    "T4–T6",
+    "L1–S3",
+    "T10–L4",
+    "S2–S4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#2a6229",
+   "kind": "mcq",
+   "stem": "Which spinal segments carry the parasympathetic supply in testicular surgery?",
+   "options": [
+    "S2–S4",
+    "L1–L3",
+    "T10–L4",
+    "S1–S3"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#97f187",
+   "kind": "mcq",
+   "stem": "Which spinal segments must a local technique for scrotal surgery cover?",
+   "options": [
+    "T4–T8",
+    "L1–L3",
+    "T10–S3",
+    "S1–S5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#c2b4d8",
+   "kind": "mcq",
+   "stem": "When using a local technique for testicular surgery, what volume of local anaesthetic is infiltrated around the cord?",
+   "options": [
+    "1–2mL",
+    "20–30mL",
+    "5–10mL",
+    "50–60mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/testicular-surgery#c2b4d8",
+   "kind": "statement",
+   "stem": "In a local technique for testicular surgery, where is the cord felt before infiltration?",
+   "answer": "Where it enters the top of the scrotum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "topic": "procedures/tenckhoff-catheter",
+ "questions": [
+  {
+   "fact_id": "procedures/tenckhoff-catheter#ca29e3",
+   "kind": "statement",
+   "stem": "Before Tenckhoff insertion, what temporary access might the patient have had?",
+   "answer": "A temporary femoral dialysis catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#8342a4",
+   "kind": "statement",
+   "stem": "What is the typical patient profile for Tenckhoff insertion?",
+   "answer": "Many are vasculopaths; some are younger",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#ff7e7e",
+   "kind": "statement",
+   "stem": "What surgical approach is usually used for Tenckhoff insertion?",
+   "answer": "Laparoscopic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#7c4a78",
+   "kind": "mcq",
+   "stem": "How long does a typical Tenckhoff insertion take?",
+   "options": [
+    "2-3 hr",
+    "Around 4 hr",
+    "6-8 hr",
+    "<1 hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#d8fcb4",
+   "kind": "mcq",
+   "stem": "Which airway devices are used for Tenckhoff insertion under general anaesthesia?",
+   "options": [
+    "Nasal prongs only",
+    "LMA or ETT",
+    "Face mask only",
+    "Tracheostomy tube"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#f844d1",
+   "kind": "statement",
+   "stem": "What do surgeons usually prefer for the patient during Tenckhoff insertion?",
+   "answer": "The patient paralysed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#6b7637",
+   "kind": "mcq",
+   "stem": "How does Tenckhoff removal compare with insertion?",
+   "options": [
+    "Simpler and quicker",
+    "More complex and longer",
+    "Equally complex",
+    "Needs laparoscopy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#bfa0ce",
+   "kind": "statement",
+   "stem": "Which catheter problem, such as kinking or migration, is an indication for Tenckhoff removal?",
+   "answer": "Catheter malfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#bfa0ce",
+   "kind": "statement",
+   "stem": "Which event after a kidney transplant is an indication for Tenckhoff removal?",
+   "answer": "Successful kidney transplant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#90053e",
+   "kind": "statement",
+   "stem": "For Tenckhoff removal in sepsis or peritonitis, what should be checked?",
+   "answer": "Inflammatory markers and blood cultures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#5d571d",
+   "kind": "statement",
+   "stem": "Before Tenckhoff removal, what two dialysis points should you establish?",
+   "answer": "When the last session was; need for temporary haemodialysis access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#812bd6",
+   "kind": "statement",
+   "stem": "Which fluid problem can peritonitis cause in a patient having Tenckhoff removal?",
+   "answer": "Relative hypovolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/tenckhoff-catheter#5e8034",
+   "kind": "mcq",
+   "stem": "Which anaesthetic suits stable patients undergoing Tenckhoff removal?",
+   "options": [
+    "General anaesthesia with ETT",
+    "Spinal anaesthesia",
+    "Local infiltration with sedation",
+    "Epidural anaesthesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

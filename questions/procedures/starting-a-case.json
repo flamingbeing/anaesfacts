@@ -1,0 +1,239 @@
+{
+ "topic": "procedures/starting-a-case",
+ "questions": [
+  {
+   "fact_id": "procedures/starting-a-case#02104f",
+   "kind": "statement",
+   "stem": "What is the name of the pre-operative huddle with the whole team?",
+   "answer": "Team brief",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#e59b27",
+   "kind": "mcq",
+   "stem": "What should be set up and tested when a patient arrives in theatre?",
+   "options": [
+    "The urinary catheter",
+    "The IV drip",
+    "The epidural kit",
+    "The oxygen cylinder"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#9bff24",
+   "kind": "blank",
+   "stem": "On arrival in theatre, consider giving a ____ of antibiotics.",
+   "answer": "test dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#ecce25",
+   "kind": "blank",
+   "stem": "On arrival in theatre, if indicated, give a ____ puff of an inhaler.",
+   "answer": "salbutamol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#f321cf",
+   "kind": "statement",
+   "stem": "Before induction under general anaesthesia, what should be checked alongside preoxygenation?",
+   "answer": "Equipment and staff: airway, drugs, ventilator",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#019077",
+   "kind": "mcq",
+   "stem": "For how long should you preoxygenate before induction, with the APL valve open?",
+   "options": [
+    "1-2 min",
+    "3-5 min",
+    "10-15 min",
+    "30 sec"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#019077",
+   "kind": "statement",
+   "stem": "What should you watch during preoxygenation before induction?",
+   "answer": "End-tidal oxygen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#2be402",
+   "kind": "statement",
+   "stem": "Which opioid is given first at induction, before propofol or lignocaine?",
+   "answer": "Fentanyl",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#af1fc9",
+   "kind": "blank",
+   "stem": "During mask ventilation at induction, partly close the ____ valve.",
+   "answer": "APL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#d87f47",
+   "kind": "statement",
+   "stem": "What signs confirm effective mask ventilation during induction?",
+   "answer": "Chest rise, misting, and an ETCO2 trace",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#8092a2",
+   "kind": "mcq",
+   "stem": "During induction, how quickly should you decide whether mask ventilation is possible?",
+   "options": [
+    "Within 1-2 minutes",
+    "Within 30-60 seconds",
+    "Within 5-10 seconds",
+    "Within 10-15 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#40945a",
+   "kind": "statement",
+   "stem": "After giving the muscle relaxant at induction, what keeps the patient asleep?",
+   "answer": "Turn on the volatile",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#505ced",
+   "kind": "mcq",
+   "stem": "How long should you wait after rocuronium before intubating?",
+   "options": [
+    "30 sec",
+    "2-3 min",
+    "5 min",
+    "1 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#2d3a9d",
+   "kind": "statement",
+   "stem": "Before intubating or inserting an LMA, what should you consider doing with the volatile?",
+   "answer": "Turn it off or reduce its flow first",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#933c72",
+   "kind": "statement",
+   "stem": "How do you confirm tube placement and ventilation after intubation?",
+   "answer": "Auscultate and check ETCO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#4b3766",
+   "kind": "blank",
+   "stem": "After securing the airway, reduce flows and FiO2, switch to ____, then switch to the ventilator.",
+   "answer": "desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#b5ba8d",
+   "kind": "mcq",
+   "stem": "In the alternative order for setting up the machine, which setting is made first?",
+   "options": [
+    "Ventilator",
+    "Volatile agent",
+    "FiO2 and flow",
+    "Carbon dioxide absorber"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#d8edd7",
+   "kind": "statement",
+   "stem": "What housekeeping steps follow intubation in general anaesthesia?",
+   "answer": "Check cuff pressure; consider a bite block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#36e665",
+   "kind": "blank",
+   "stem": "After induction, check the patient's ____.",
+   "answer": "blood pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#5f7fad",
+   "kind": "statement",
+   "stem": "Once intubated, which two routes can be used for the maintenance hypnotic?",
+   "answer": "Inhalational or IV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#e2a0f8",
+   "kind": "mcq",
+   "stem": "With flows of 1 + 1 l/min in maintenance, what sevoflurane concentration is used until the target is reached?",
+   "options": [
+    "1%",
+    "8%",
+    "4%",
+    "6%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#f5b94a",
+   "kind": "statement",
+   "stem": "On the surgical side, what is done immediately before the surgical time-out?",
+   "answer": "Draping",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#9cd30a",
+   "kind": "mcq",
+   "stem": "When is an extra fentanyl dose given before the knife goes to skin?",
+   "options": [
+    "Immediately after the time-out",
+    "At the end of the case",
+    "Before the patient is positioned",
+    "After finishing draping, before the time-out"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/starting-a-case#cb73c4",
+   "kind": "blank",
+   "stem": "During preparation for surgery, protective gel can be applied to the ____.",
+   "answer": "mouth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

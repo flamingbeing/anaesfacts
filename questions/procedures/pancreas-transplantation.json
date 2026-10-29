@@ -1,0 +1,157 @@
+{
+ "topic": "procedures/pancreas-transplantation",
+ "questions": [
+  {
+   "fact_id": "procedures/pancreas-transplantation#c6450e",
+   "kind": "mcq",
+   "stem": "What is the main indication for pancreas transplantation?",
+   "options": [
+    "Type II diabetes alone",
+    "Acute pancreatitis",
+    "Pancreatic adenocarcinoma",
+    "Type I diabetes and its complications"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#048d5a",
+   "kind": "mcq",
+   "stem": "How many types of pancreas transplant are there?",
+   "options": [
+    "2 types",
+    "3 types",
+    "4 types",
+    "5 types"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#91d23b",
+   "kind": "mcq",
+   "stem": "How long does a pancreas transplant operation usually last?",
+   "options": [
+    "1-2hr",
+    "3-4hr",
+    "9-10hr",
+    "5-7hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#8b79b3",
+   "kind": "mcq",
+   "stem": "How often should blood glucose be checked closely during pancreas transplant surgery?",
+   "options": [
+    "Every 2 hours",
+    "Every 30 min",
+    "Every 4 hours",
+    "Only once at the end"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#5f7f12",
+   "kind": "mcq",
+   "stem": "Which steroid is given during pancreas transplant surgery?",
+   "options": [
+    "Hydrocortisone 100mg",
+    "Dexamethasone 4mg",
+    "Methylprednisolone 1g",
+    "Prednisolone 10mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#5f7f12",
+   "kind": "mcq",
+   "stem": "In pancreas transplant surgery, when should a repeat methylprednisolone dose be considered?",
+   "options": [
+    "At 1 hour",
+    "At 6 hours",
+    "At 12 hours",
+    "At 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#8cbefa",
+   "kind": "statement",
+   "stem": "What does the diuretic cocktail given in pancreas transplantation contain?",
+   "answer": "Saline, mannitol and albumin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#29b2fd",
+   "kind": "statement",
+   "stem": "Which vessels are clamped during pancreas transplant surgery?",
+   "answer": "IVC side clamp and iliac artery clamping",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#fe14d1",
+   "kind": "mcq",
+   "stem": "At the pancreatic anastomosis in pancreas transplantation, how often is glucose checked?",
+   "options": [
+    "Every 2 hours",
+    "Every hour",
+    "Only once at the end",
+    "Every 15 mins"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#fe14d1",
+   "kind": "statement",
+   "stem": "What infusion is often needed alongside glucose checks at the pancreatic anastomosis in pancreas transplantation?",
+   "answer": "Dextrose infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#aceb38",
+   "kind": "mcq",
+   "stem": "Where do pancreas transplant patients usually go after surgery?",
+   "options": [
+    "General surgical ward",
+    "Coronary care unit",
+    "Surgical high dependency",
+    "Day surgery unit"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#e83676",
+   "kind": "statement",
+   "stem": "What must be continued after pancreas transplant surgery?",
+   "answer": "Immunosuppression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreas-transplantation#c82857",
+   "kind": "statement",
+   "stem": "What complications can follow pancreas transplantation?",
+   "answer": "Graft thrombosis, pancreatitis, infection, anastomotic leak, immunosuppressant side effects, bladder problems, SIRS and shock",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

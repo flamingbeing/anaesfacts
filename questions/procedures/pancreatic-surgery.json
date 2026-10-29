@@ -1,0 +1,77 @@
+{
+ "topic": "procedures/pancreatic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/pancreatic-surgery#f175bf",
+   "kind": "statement",
+   "stem": "In acute pancreatitis, when is pancreatic surgery indicated?",
+   "answer": "When medical treatment fails, for excision or drainage of necrotic or infected areas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-surgery#96f3ff",
+   "kind": "mcq",
+   "stem": "Which complication of chronic pancreatitis can need pancreatic surgery?",
+   "options": [
+    "Splenic rupture",
+    "Inguinal hernia",
+    "Diverticulitis",
+    "Pseudocyst or abscess"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-surgery#6de01d",
+   "kind": "mcq",
+   "stem": "What share of pancreatic islet cell tumours are hormonally active?",
+   "options": [
+    "10–20%",
+    "30–40%",
+    "60–70%",
+    "90–95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-surgery#0d20c2",
+   "kind": "mcq",
+   "stem": "Why might the surgeon ask for subcutaneous octreotide in pancreatic surgery?",
+   "options": [
+    "To stimulate insulin release",
+    "To lower blood pressure",
+    "To prevent nausea",
+    "To reduce pancreatic leak"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-surgery#872731",
+   "kind": "mcq",
+   "stem": "What is the usual subcutaneous octreotide dose in pancreatic surgery?",
+   "options": [
+    "50mcg, i.e. 0.5ml (1 vial)",
+    "100mcg, i.e. 1ml (1 vial)",
+    "200mcg, i.e. 2ml (2 vials)",
+    "500mcg, i.e. 5ml (5 vials)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-surgery#75abbb",
+   "kind": "statement",
+   "stem": "What tube is usually needed in pancreatic surgery?",
+   "answer": "Nasogastric tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

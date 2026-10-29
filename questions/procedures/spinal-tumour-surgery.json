@@ -1,0 +1,79 @@
+{
+ "topic": "procedures/spinal-tumour-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/spinal-tumour-surgery#936431",
+   "kind": "statement",
+   "stem": "Which operation is given as an example of spinal tumour surgery?",
+   "answer": "Vertebrectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/spinal-tumour-surgery#a650f0",
+   "kind": "blank",
+   "stem": "Spinal tumours are classed as primary or ____.",
+   "answer": "secondary",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/spinal-tumour-surgery#1e43a1",
+   "kind": "mcq",
+   "stem": "How long does spinal tumour surgery usually take?",
+   "options": [
+    "30–60 min",
+    "1–2 hr",
+    "2–6+ hr",
+    "10–12 hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/spinal-tumour-surgery#53c2ff",
+   "kind": "mcq",
+   "stem": "How severe is pain after spinal tumour surgery?",
+   "options": [
+    "Mild (+)",
+    "Moderate (++)",
+    "Severe to very severe (+++/++++)",
+    "None (0)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/spinal-tumour-surgery#861820",
+   "kind": "mcq",
+   "stem": "How many units of blood should be crossmatched for spinal tumour surgery?",
+   "options": [
+    "2 units",
+    "4 units",
+    "6 units",
+    "12 units"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/spinal-tumour-surgery#207ab8",
+   "kind": "statement",
+   "stem": "Which operating positions are used for spinal tumour surgery?",
+   "answer": "Supine, prone or lateral tilt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/spinal-tumour-surgery#7fb119",
+   "kind": "statement",
+   "stem": "Spinal tumour surgery is often difficult; what two risks does it carry?",
+   "answer": "Major blood loss and neurological injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

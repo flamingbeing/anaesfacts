@@ -1,0 +1,405 @@
+{
+ "topic": "procedures/total-hip-replacement",
+ "questions": [
+  {
+   "fact_id": "procedures/total-hip-replacement#c11460",
+   "kind": "statement",
+   "stem": "How does total hip replacement compare with neck of femur surgery?",
+   "answer": "Similar, without the emergency or the fall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#c35cdd",
+   "kind": "statement",
+   "stem": "Which anaesthetic technique is preferred for total hip replacement?",
+   "answer": "Spinal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#b36a00",
+   "kind": "statement",
+   "stem": "What are the two main concerns for anaesthesia in total hip replacement?",
+   "answer": "Bone cement implantation syndrome and blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#6c0dc1",
+   "kind": "mcq",
+   "stem": "Which antifibrinolytic should be given for total hip replacement?",
+   "options": [
+    "Frusemide",
+    "Heparin",
+    "Vitamin K",
+    "Tranexamic acid"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#a2c729",
+   "kind": "mcq",
+   "stem": "How often does DVT occur after total hip replacement despite prophylaxis?",
+   "options": [
+    "at least 0.1%",
+    "at least 1%",
+    "at least 5%",
+    "at least 10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#a2c729",
+   "kind": "statement",
+   "stem": "When should VTE prophylaxis be started for total hip replacement?",
+   "answer": "On admission",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#211408",
+   "kind": "statement",
+   "stem": "Which patient positions are used for total hip replacement?",
+   "answer": "Lateral or supine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#9b1ef1",
+   "kind": "blank",
+   "stem": "Total hip replacement needs ____ antibiotic prophylaxis.",
+   "answer": "intraoperative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#fb2e9a",
+   "kind": "mcq",
+   "stem": "What is the typical duration of total hip replacement surgery?",
+   "options": [
+    "30-60min",
+    "90-120min",
+    "3-4hr",
+    "6-8hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#fd7b8b",
+   "kind": "mcq",
+   "stem": "By how much does bone cement raise the PE risk in total hip replacement?",
+   "options": [
+    "2-fold",
+    "3-fold",
+    "5-fold",
+    "10-fold"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#e96c54",
+   "kind": "mcq",
+   "stem": "What is the typical blood loss in total hip replacement?",
+   "options": [
+    "50–100mL",
+    "300–500mL",
+    "1000–1500mL",
+    "2–3L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#d14829",
+   "kind": "statement",
+   "stem": "After total hip replacement, how does blood lost into drains and tissues compare with surgical loss?",
+   "answer": "A similar volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#74573b",
+   "kind": "blank",
+   "stem": "Total hip replacement needs a valid group and ____.",
+   "answer": "crossmatch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#3999a3",
+   "kind": "mcq",
+   "stem": "What minimum cannula size is advised for total hip replacement?",
+   "options": [
+    "14G or larger",
+    "16G or larger",
+    "20G or larger",
+    "22G or larger"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#c61ff1",
+   "kind": "statement",
+   "stem": "What does active warming achieve in total hip replacement?",
+   "answer": "Reduces blood loss, morbidity and mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#7756ea",
+   "kind": "statement",
+   "stem": "When should cell salvage be considered in total hip replacement?",
+   "answer": "For complex surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#f4ea30",
+   "kind": "statement",
+   "stem": "What pain grade is given for primary total hip replacement?",
+   "answer": "severe (+++)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#2edc83",
+   "kind": "statement",
+   "stem": "What analgesia usually suffices after total hip replacement?",
+   "answer": "Simple oral opioids with regular paracetamol or NSAIDs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#84f8c5",
+   "kind": "mcq",
+   "stem": "What volume of bupivacaine 0.5% is used for a single-shot spinal in total hip replacement?",
+   "options": [
+    "about 1mL",
+    "about 3mL",
+    "about 6mL",
+    "about 10mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#84f8c5",
+   "kind": "blank",
+   "stem": "For a single-shot spinal in total hip replacement, adding ____ 0.25–0.5mg prolongs analgesia.",
+   "answer": "diamorphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#91f87b",
+   "kind": "mcq",
+   "stem": "Which neuraxial technique suits longer total hip replacement cases?",
+   "options": [
+    "Single-shot spinal",
+    "Combined spinal-epidural",
+    "Caudal block",
+    "Femoral nerve block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#6d6c2e",
+   "kind": "mcq",
+   "stem": "If a neuraxial block is contraindicated for total hip replacement, which alternative gives similar analgesia?",
+   "options": [
+    "Lumbar plexus (psoas) block or femoral 3-in-1 block",
+    "Transversus abdominis plane block",
+    "Intrathecal morphine alone",
+    "Intravenous paracetamol alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#0cbcac",
+   "kind": "statement",
+   "stem": "How should the legs be positioned after total hip replacement to prevent dislocation?",
+   "answer": "Abducted on a pillow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#0372da",
+   "kind": "mcq",
+   "stem": "When should haemoglobin be checked after total hip replacement?",
+   "options": [
+    "1hr",
+    "24hr",
+    "72hr",
+    "7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#42cb6c",
+   "kind": "mcq",
+   "stem": "When should patients be mobilised after total hip replacement?",
+   "options": [
+    "2–6hr",
+    "24–48hr",
+    "3–5 days",
+    "7–10 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#42cb6c",
+   "kind": "mcq",
+   "stem": "How long does an epidural infusion's benefit mainly last after total hip replacement?",
+   "options": [
+    "up to 2hr",
+    "up to 6hr",
+    "up to 24hr",
+    "up to 72hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#c1e064",
+   "kind": "statement",
+   "stem": "Which patients are bilateral total hip replacements chosen for by some surgeons?",
+   "answer": "Younger, fit patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#eff6f7",
+   "kind": "statement",
+   "stem": "How does significant cardiovascular disease affect bilateral total hip replacement?",
+   "answer": "Raises mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#283c5b",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is most practical for bilateral total hip replacement?",
+   "options": [
+    "Intravenous sedation alone",
+    "GA with epidural",
+    "Femoral nerve block alone",
+    "Local infiltration alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#36c6c1",
+   "kind": "statement",
+   "stem": "What invasive monitoring is used for bilateral total hip replacement?",
+   "answer": "Arterial line, with or without CVP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#7d85cd",
+   "kind": "statement",
+   "stem": "How does revision total hip replacement compare with primary replacement?",
+   "answer": "Longer, bloodier and more painful",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#81023e",
+   "kind": "mcq",
+   "stem": "What duration range is given for revision total hip replacement?",
+   "options": [
+    "30–60min",
+    "2-6hr",
+    "8-10hr",
+    "24-48hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#e9089b",
+   "kind": "statement",
+   "stem": "What pain grade is given for revision total hip replacement?",
+   "answer": "very severe (++++)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#310fa9",
+   "kind": "statement",
+   "stem": "What does mobilisation after revision total hip replacement depend on?",
+   "answer": "Complexity and strength of the reconstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#fa5f3c",
+   "kind": "statement",
+   "stem": "Why is a single-shot spinal unsuitable for revision total hip replacement?",
+   "answer": "Too long",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#db55e2",
+   "kind": "statement",
+   "stem": "What monitoring should be considered for revision total hip replacement if major bleeding is expected?",
+   "answer": "Arterial line, and consider a CVP line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#07d854",
+   "kind": "mcq",
+   "stem": "What blood loss is typical for revision total hip replacement?",
+   "options": [
+    "about 100mL",
+    "about 1L",
+    "about 3L",
+    "about 5L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-hip-replacement#07d854",
+   "kind": "mcq",
+   "stem": "How many units of blood should be crossmatched for revision total hip replacement?",
+   "options": [
+    "1U",
+    "2U",
+    "4U",
+    "6U"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

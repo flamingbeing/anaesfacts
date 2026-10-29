@@ -1,0 +1,373 @@
+{
+ "topic": "procedures/pancreatic-tumour-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#731f24",
+   "kind": "mcq",
+   "stem": "In pancreatic tumour surgery, what is the 5-year survival with cancer-directed treatment?",
+   "options": [
+    "5% – 10%",
+    "15% – 25%",
+    "40% – 50%",
+    "60% – 70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#731f24",
+   "kind": "mcq",
+   "stem": "What is the 5-year survival without cancer-directed treatment in pancreatic tumours?",
+   "options": [
+    "10% – 12%",
+    "30% – 40%",
+    "50% – 60%",
+    "1% – 5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#cf59fe",
+   "kind": "mcq",
+   "stem": "What is the acceptable 30-day operative mortality for pancreatic tumour surgery in the US?",
+   "options": [
+    "<10%",
+    "<20%",
+    "<5%",
+    "<30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#6542eb",
+   "kind": "statement",
+   "stem": "What causes most perioperative deaths after pancreatic tumour surgery?",
+   "answer": "Systemic (non-surgical) complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#7fb947",
+   "kind": "statement",
+   "stem": "Which resection operations are used for pancreatic tumours?",
+   "answer": "Whipple, distal pancreatectomy, total pancreatectomy, regional pancreatectomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#4983d0",
+   "kind": "statement",
+   "stem": "What laparotomy incisions are used for an open Whipple?",
+   "answer": "Large midline incision with lateral extension (L shape), or subcostal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#c14c7f",
+   "kind": "statement",
+   "stem": "In an open Whipple, what is done with an extensive or metastatic tumour?",
+   "answer": "It is not resected",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#08dd0a",
+   "kind": "mcq",
+   "stem": "In an open Whipple, what is the first part of the operation?",
+   "options": [
+    "Drain placement",
+    "Wound closure",
+    "Resection",
+    "Stoma formation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#a6fa3a",
+   "kind": "statement",
+   "stem": "Which three anastomoses make up the reconstruction in an open Whipple?",
+   "answer": "Gastrojejunostomy, hepaticojejunostomy, pancreaticojejunostomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#6f0ea1",
+   "kind": "mcq",
+   "stem": "Why are drains nearly always left after an open Whipple?",
+   "options": [
+    "Routine infection prophylaxis",
+    "Blood loss control",
+    "High leak risk",
+    "Pain relief"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#6ca1a7",
+   "kind": "mcq",
+   "stem": "Which type of anaemia is common in patients before pancreatic tumour surgery?",
+   "options": [
+    "Sickle cell anaemia",
+    "Haemolytic anaemia",
+    "Anaemia of chronic disease",
+    "Aplastic anaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#90ceac",
+   "kind": "statement",
+   "stem": "What should be checked in pancreatic tumour patients with pain or vomiting before surgery?",
+   "answer": "Electrolytes, as electrolyte disturbance is common",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#ea361e",
+   "kind": "statement",
+   "stem": "What is the usual nutritional state of patients having pancreatic tumour surgery?",
+   "answer": "Malnourished",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#95e0e5",
+   "kind": "statement",
+   "stem": "What pre-operative blood preparation is needed for major pancreatic tumour surgery?",
+   "answer": "Group and crossmatch, with blood products on standby",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#95e0e5",
+   "kind": "mcq",
+   "stem": "Where should a patient after major pancreatic tumour surgery be booked?",
+   "options": [
+    "General ward bed",
+    "Day case unit",
+    "High dependency or surgical ICU",
+    "Emergency department trolley"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#19caf1",
+   "kind": "statement",
+   "stem": "In pancreatic tumour surgery, when should analgesia be placed?",
+   "answer": "Before surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#9b6c2f",
+   "kind": "statement",
+   "stem": "What losses need fluid replacement in long pancreatic tumour operations?",
+   "answer": "Insensible and third space losses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#327af0",
+   "kind": "mcq",
+   "stem": "What is the expected blood loss for a Whipple operation?",
+   "options": [
+    "100-200 ml",
+    "500-750 ml",
+    "2000-2500 ml",
+    "3000-3500 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#327af0",
+   "kind": "mcq",
+   "stem": "What is the expected blood loss for a total pancreatectomy?",
+   "options": [
+    "250-300 ml",
+    "1500-2000 ml",
+    "750-1000 ml",
+    "3000-3500 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#327af0",
+   "kind": "mcq",
+   "stem": "What is the expected blood loss for a regional pancreatectomy?",
+   "options": [
+    "200-400 ml",
+    "2000-2500 ml",
+    "750-1500 ml",
+    "100-150 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#4dc90e",
+   "kind": "statement",
+   "stem": "What measures are used to keep temperature in pancreatic tumour surgery?",
+   "answer": "Temperature probe, fluid warmer, forced-air and table warmer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#f5db20",
+   "kind": "mcq",
+   "stem": "Why does hypocalcaemia occur during pancreatic tumour surgery?",
+   "options": [
+    "Excess sodium intake",
+    "Raised serum bicarbonate",
+    "Release of pancreatic lipase",
+    "Oral magnesium overdose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#86d1ca",
+   "kind": "mcq",
+   "stem": "When is subcutaneous octreotide given in pancreatic tumour surgery?",
+   "options": [
+    "After the drains are placed",
+    "At the end of surgery",
+    "Only after the patient wakes",
+    "Before the pancreas is cut"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#86d1ca",
+   "kind": "mcq",
+   "stem": "What dose of subcutaneous octreotide is given before the pancreas is cut?",
+   "options": [
+    "50 mcg",
+    "100 mcg",
+    "200 mcg",
+    "500 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#d2a103",
+   "kind": "mcq",
+   "stem": "What dose of spinal morphine is given for pancreatic tumour surgery?",
+   "options": [
+    "20-30 mcg",
+    "500-600 mcg",
+    "200-300 mcg",
+    "1-2 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#9d2789",
+   "kind": "mcq",
+   "stem": "Which thoracic epidural level is used for open pancreatic tumour surgery?",
+   "options": [
+    "T1-2",
+    "T6-8",
+    "L3-4",
+    "C5-6"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#9d2789",
+   "kind": "mcq",
+   "stem": "Which back landmark lies at about the T7 level?",
+   "options": [
+    "Iliac crest",
+    "Sternal angle",
+    "Inferior angle of scapula",
+    "Greater trochanter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#6408b5",
+   "kind": "mcq",
+   "stem": "Which epidural bupivacaine concentration is considered during pancreatic tumour surgery?",
+   "options": [
+    "2% lignocaine",
+    "0.5% bupivacaine",
+    "5% bupivacaine",
+    "0.05% bupivacaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#6408b5",
+   "kind": "mcq",
+   "stem": "What bupivacaine concentration is used after surgery for pancreatic tumour epidurals?",
+   "options": [
+    "0.5% – 1%",
+    "0.125% – 0.25%",
+    "1% – 2%",
+    "2% – 4%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#f56c55",
+   "kind": "mcq",
+   "stem": "Where is a patient usually managed after open pancreatic tumour surgery?",
+   "options": [
+    "General ward",
+    "Day case unit",
+    "Surgical high dependency",
+    "Emergency department"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/pancreatic-tumour-surgery#2dc8f8",
+   "kind": "mcq",
+   "stem": "How is a pancreatic leak detected after pancreatic tumour surgery?",
+   "options": [
+    "Drain bilirubin",
+    "Urine glucose",
+    "Drain pH",
+    "Drain amylase"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "topic": "regional/complications-of-neuraxial-blocks",
+ "questions": [
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#f38c22",
+   "kind": "mcq",
+   "stem": "What is the NAP3-based risk of permanent major harm after any neuraxial block?",
+   "options": [
+    "1 in 1000 to 5000",
+    "1 in 25000 to 50000",
+    "1 in 200 to 500",
+    "1 in 100000 to 200000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#cf0f43",
+   "kind": "statement",
+   "stem": "What can a high or total spinal block lead to?",
+   "answer": "Respiratory and cardiac arrest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#1b206d",
+   "kind": "blank",
+   "stem": "A high or total spinal block can follow an unrecognised ____ placement.",
+   "answer": "intrathecal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#428504",
+   "kind": "statement",
+   "stem": "In neuraxial block hypotension, what does sympathetic block do to the vasculature?",
+   "answer": "Vasodilation, lowering preload and SVR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#751827",
+   "kind": "mcq",
+   "stem": "At a similar sensory level, how is the fall in BP with epidural thought to compare with spinal?",
+   "options": [
+    "Slower and smaller",
+    "Faster and larger",
+    "Faster but smaller",
+    "Slower but larger"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#b9dcff",
+   "kind": "statement",
+   "stem": "In an awake patient, what early features suggest hypotension after a neuraxial block?",
+   "answer": "Light-headedness, altered mental state, nausea and vomiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#6f950a",
+   "kind": "mcq",
+   "stem": "For lower limb surgery under neuraxial block, what block height should be aimed for to limit hypotension?",
+   "options": [
+    "Above T10",
+    "Above T6",
+    "Below T10",
+    "Below T4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#6f950a",
+   "kind": "statement",
+   "stem": "How should local anaesthetic dosing be adjusted to reduce hypotension after neuraxial block?",
+   "answer": "Lower the LA dose and titrate more slowly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#d1be79",
+   "kind": "statement",
+   "stem": "Has routine empirical fluid been convincingly shown to reduce hypotension after neuraxial block?",
+   "answer": "No, not convincingly shown",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#03e38e",
+   "kind": "mcq",
+   "stem": "How often should blood pressure be cycled to monitor for hypotension after neuraxial block?",
+   "options": [
+    "Every 10 min",
+    "Every 15 min",
+    "Every 1 min",
+    "Every 30 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#76698a",
+   "kind": "mcq",
+   "stem": "As the block approaches T1–T4, which fibres does neuraxial block affect to cause bradycardia?",
+   "options": [
+    "Phrenic nerve fibres",
+    "Lumbar motor fibres",
+    "Pudendal sensory fibres",
+    "Cardioaccelerator fibres"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#fa8561",
+   "kind": "mcq",
+   "stem": "Bradycardia during neuraxial block is more common in which type of patient?",
+   "options": [
+    "Elderly (age over 70), ASA 3, sedated patients",
+    "Young (age less than 50), healthy (ASA 1), awake patients",
+    "Older (age over 65), anaemic, sedated patients",
+    "Young (age less than 50), ASA 3, sedated patients"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#e537ff",
+   "kind": "mcq",
+   "stem": "At what sensory level does neuraxial block raise the risk of bradycardia?",
+   "options": [
+    "Below T10",
+    "Above T6",
+    "Below T12",
+    "Below L1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#4913af",
+   "kind": "mcq",
+   "stem": "Which baseline heart rate increases bradycardia risk during spinal anaesthesia?",
+   "options": [
+    "Heart rate above 100bpm",
+    "Heart rate above 90bpm",
+    "Heart rate less than 60bpm",
+    "Heart rate above 120bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#4913af",
+   "kind": "mcq",
+   "stem": "Which ECG finding increases bradycardia risk during spinal anaesthesia?",
+   "options": [
+    "Short QT interval",
+    "Narrow QRS complex",
+    "ST depression",
+    "Prolonged PR interval"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#d1d2e7",
+   "kind": "statement",
+   "stem": "Name the three drugs listed for managing bradycardia after neuraxial block.",
+   "answer": "Atropine, ephedrine or adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#e95f38",
+   "kind": "mcq",
+   "stem": "At what sensory level is nausea and vomiting more likely with neuraxial block?",
+   "options": [
+    "T6 and above",
+    "T10 and below",
+    "L1 and below",
+    "S2 and below"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#d37afa",
+   "kind": "statement",
+   "stem": "What is proposed as the mechanism of shivering after neuraxial block?",
+   "answer": "Fall in core temperature, or thermoregulatory response to heat redistribution",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#91c53d",
+   "kind": "mcq",
+   "stem": "Shivering after neuraxial block is usually worse with which technique?",
+   "options": [
+    "Spinal",
+    "Equal with both",
+    "Epidural",
+    "Peripheral nerve block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#5b632c",
+   "kind": "mcq",
+   "stem": "Pruritus after neuraxial block is caused by which drug class?",
+   "options": [
+    "Local anaesthetics",
+    "Vasopressors",
+    "Opioids",
+    "Corticosteroids"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#a26b01",
+   "kind": "mcq",
+   "stem": "Pruritus after neuraxial opioid is commoner by which route?",
+   "options": [
+    "Epidural route",
+    "Spinal route",
+    "Systemic route",
+    "Oral route"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#a26b01",
+   "kind": "mcq",
+   "stem": "What is the reported pruritus rate with the spinal route of opioid?",
+   "options": [
+    "46%",
+    "8.5%",
+    "4.6%",
+    "65%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#aedcdf",
+   "kind": "mcq",
+   "stem": "Urinary retention after neuraxial block results from blocking which spinal roots?",
+   "options": [
+    "S2–S4",
+    "T10–L1",
+    "T1–T4",
+    "L2–L4"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#3adbb2",
+   "kind": "mcq",
+   "stem": "Which patients are at higher risk of urinary retention after neuraxial block?",
+   "options": [
+    "Elderly men with prostatic hypertrophy",
+    "Young women with endometriosis",
+    "Children with hydronephrosis",
+    "Young men with inguinal hernia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#ccad4a",
+   "kind": "statement",
+   "stem": "Why does the subdural space open during an inadvertent subdural block?",
+   "answer": "Needle and injected fluid tear neurothelial cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#941367",
+   "kind": "statement",
+   "stem": "How does onset of subdural block compare with subarachnoid and epidural block?",
+   "answer": "Slower than subarachnoid block, faster than epidural",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#941367",
+   "kind": "mcq",
+   "stem": "How long does an inadvertent subdural block usually take to resolve?",
+   "options": [
+    "2 hours",
+    "30 minutes",
+    "6 hours",
+    "24 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#3616d7",
+   "kind": "statement",
+   "stem": "What usually causes local anaesthetic systemic toxicity after neuraxial block?",
+   "answer": "Intravascular injection through the needle or a catheter threaded into a vessel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#bcc84a",
+   "kind": "mcq",
+   "stem": "Why is local anaesthetic systemic toxicity mostly an epidural problem rather than a spinal one?",
+   "options": [
+    "Epidural doses are small",
+    "Spinal doses are small",
+    "Spinal doses are large",
+    "Spinal needles are finer"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#535bf3",
+   "kind": "mcq",
+   "stem": "Up to what percentage of epidurals are placed intravascularly?",
+   "options": [
+    "0.1-0.3%",
+    "13-17%",
+    "30-70%",
+    "3-7%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#6321c1",
+   "kind": "mcq",
+   "stem": "How far should an epidural catheter be inserted into the space to limit intravascular placement?",
+   "options": [
+    "No more than 10 cm",
+    "No more than 15 cm",
+    "No more than 5 cm",
+    "At least 10 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#455e8f",
+   "kind": "blank",
+   "stem": "For an intravascular epidural catheter, withdraw it ____ at a time, flushing with saline and aspirating.",
+   "answer": "1 cm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#1c4a9c",
+   "kind": "mcq",
+   "stem": "Anaphylaxis to local anaesthetic is more likely with which drug class?",
+   "options": [
+    "Amides",
+    "Opioids",
+    "Esters",
+    "Vasopressors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/complications-of-neuraxial-blocks#042690",
+   "kind": "mcq",
+   "stem": "What maternal complication is linked to labour epidural analgesia?",
+   "options": [
+    "Maternal fever",
+    "Maternal bradycardia",
+    "Maternal jaundice",
+    "Maternal hyperkalaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

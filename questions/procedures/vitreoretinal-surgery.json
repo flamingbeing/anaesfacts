@@ -1,0 +1,103 @@
+{
+ "topic": "procedures/vitreoretinal-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/vitreoretinal-surgery#286a0d",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique suits vitreoretinal surgery?",
+   "options": [
+    "Topical anaesthesia alone",
+    "Regional block and/or GA",
+    "Nitrous oxide with GA",
+    "Sedation with no block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vitreoretinal-surgery#0d5b86",
+   "kind": "mcq",
+   "stem": "When should nitrous oxide be avoided in vitreoretinal surgery?",
+   "options": [
+    "With regional block alone",
+    "With topical anaesthesia alone",
+    "When SF6 or C3F8 gas is to be injected",
+    "With an injected silicone oil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vitreoretinal-surgery#47b701",
+   "kind": "mcq",
+   "stem": "How long does SF6 usually take to absorb after vitreoretinal surgery?",
+   "options": [
+    "3 days",
+    "6 weeks",
+    "10 days",
+    "25 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vitreoretinal-surgery#cc437b",
+   "kind": "mcq",
+   "stem": "After how many days was blindness reported with nitrous oxide given after SF6?",
+   "options": [
+    "10 days",
+    "25 days",
+    "41 days",
+    "6 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vitreoretinal-surgery#cc437b",
+   "kind": "mcq",
+   "stem": "After how many days was blindness reported with nitrous oxide given after C3F8?",
+   "options": [
+    "25 days",
+    "6 weeks",
+    "41 days",
+    "10 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vitreoretinal-surgery#995762",
+   "kind": "mcq",
+   "stem": "When is retinal detachment surgery managed as intraocular surgery?",
+   "options": [
+    "Whenever a regional block is used",
+    "When the surgeon drains subretinal fluid",
+    "When the eye is only rotated",
+    "Whenever nitrous oxide is given"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vitreoretinal-surgery#463c15",
+   "kind": "mcq",
+   "stem": "Which reflex can globe rotation or muscle traction trigger in retinal detachment surgery?",
+   "options": [
+    "Corneal reflex",
+    "Oculocardiac reflex",
+    "Hering-Breuer reflex",
+    "Cough reflex"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

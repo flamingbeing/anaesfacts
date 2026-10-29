@@ -1,0 +1,269 @@
+{
+ "topic": "procedures/peripheral-arterial-bypass-graft",
+ "questions": [
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#d6a02f",
+   "kind": "statement",
+   "stem": "How are peripheral arterial bypass grafts named?",
+   "answer": "By where the bypass starts and ends",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#6b8e08",
+   "kind": "mcq",
+   "stem": "Which conduits are used for bypass grafts in peripheral arterial bypass surgery?",
+   "options": [
+    "Short saphenous vein or pericardial patch",
+    "Femoral vein or bovine pericardium",
+    "Long saphenous vein or synthetic graft",
+    "Internal jugular vein or cadaveric artery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#50474c",
+   "kind": "mcq",
+   "stem": "What heparin dose is usually given before clamping in peripheral arterial bypass?",
+   "options": [
+    "1000–2000 U",
+    "3000–5000 U",
+    "5000–7000 U",
+    "10000–15000 U"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#50474c",
+   "kind": "blank",
+   "stem": "In peripheral arterial bypass, heparin is usually given before ____.",
+   "answer": "clamping",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#cac04a",
+   "kind": "mcq",
+   "stem": "What protamine dose is used to reverse heparin after peripheral arterial bypass?",
+   "options": [
+    "2–3mg per 100U heparin",
+    "0.5–1mg per 100U heparin",
+    "1–2mg per 100U heparin",
+    "5–10mg per 100U heparin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#cac04a",
+   "kind": "statement",
+   "stem": "In peripheral arterial bypass, when and how is protamine given to reverse heparin?",
+   "answer": "Slowly, after unclamping",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#b4ec9f",
+   "kind": "mcq",
+   "stem": "What cardiovascular effect can follow reperfusing an ischaemic limb in peripheral arterial bypass?",
+   "options": [
+    "Sustained hypertension and tachycardia",
+    "Brief myocardial depression and hypotension",
+    "Bronchospasm with hypoxaemia",
+    "Hypothermia with shivering"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#6e60d3",
+   "kind": "statement",
+   "stem": "In peripheral arterial bypass, which patient group needs particular anaesthetic attention?",
+   "answer": "Vascular patients with systemic arterial disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#0a1925",
+   "kind": "mcq",
+   "stem": "How is peripheral arterial bypass usually tolerated compared with aortic surgery?",
+   "options": [
+    "Usually less well tolerated",
+    "Equally tolerated in most patients",
+    "Usually better tolerated",
+    "Not comparable, as the risks differ widely"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#5fe2b3",
+   "kind": "mcq",
+   "stem": "Before peripheral arterial bypass, when is dynamic cardiac testing needed?",
+   "options": [
+    "Routinely, for every patient",
+    "Only for patients with a pacemaker",
+    "Rarely, unless something new such as unstable angina",
+    "Routinely, for all diabetic patients"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#7cc5f2",
+   "kind": "mcq",
+   "stem": "What patient position is used for peripheral arterial bypass surgery?",
+   "options": [
+    "Prone",
+    "Lateral decubitus",
+    "Supine",
+    "Reverse Trendelenburg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#7a0754",
+   "kind": "mcq",
+   "stem": "How long does peripheral arterial bypass surgery usually take?",
+   "options": [
+    "Under 1hr, rarely overrunning",
+    "2–6hr and unpredictable",
+    "8–10hr, rarely overrunning",
+    "6–8hr, always on schedule"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#6378fc",
+   "kind": "mcq",
+   "stem": "When can regional anaesthesia alone become impractical for peripheral arterial bypass?",
+   "options": [
+    "Operations shorter than 1hr",
+    "Operations longer than 3hr",
+    "Operations lasting under 30 minutes",
+    "Operations on a single limb only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#073edd",
+   "kind": "mcq",
+   "stem": "Which ECG monitoring is used during peripheral arterial bypass?",
+   "options": [
+    "3-lead ECG",
+    "12-lead ECG",
+    "5-lead ECG",
+    "Single-lead ECG"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#ceed46",
+   "kind": "mcq",
+   "stem": "What IV access is recommended for peripheral arterial bypass surgery?",
+   "options": [
+    "One 22G cannula only",
+    "Two 20G cannulas only",
+    "One 24G cannula only",
+    "At least one large IV cannula (14 or 16G)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#6bfdcb",
+   "kind": "statement",
+   "stem": "Where do stable patients go after peripheral arterial bypass?",
+   "answer": "To the general ward",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#051d28",
+   "kind": "mcq",
+   "stem": "Which patients after peripheral arterial bypass may need high dependency care?",
+   "options": [
+    "Those with fit healthy hearts and no comorbidities",
+    "All patients over 50 years old",
+    "Those with comorbidities such as heart failure",
+    "Patients who had a short operation under 1hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#93cb38",
+   "kind": "mcq",
+   "stem": "What is the graft route in axillo-bifemoral bypass?",
+   "options": [
+    "Intraperitoneal graft from aorta to both iliac arteries",
+    "Extraperitoneal trouser graft from axillary artery to both femoral arteries",
+    "Retroperitoneal graft from abdominal aorta to popliteal artery",
+    "Subcutaneous graft from carotid artery to both femoral arteries"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#7afdda",
+   "kind": "mcq",
+   "stem": "How does axillo-bifemoral bypass compare with open AAA repair?",
+   "options": [
+    "More invasive and shorter in duration",
+    "Equally invasive and quicker overall",
+    "Less invasive and better tolerated, but very long",
+    "Less invasive but poorly tolerated"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#dead5b",
+   "kind": "mcq",
+   "stem": "When is axillo-bifemoral bypass indicated?",
+   "options": [
+    "Mild femoropopliteal disease in young fit patients",
+    "Isolated tibial disease in patients with diabetes",
+    "Severe aorto-iliac occlusive disease in patients too frail for open aortic surgery",
+    "Acute limb ischaemia in fit younger adults"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/peripheral-arterial-bypass-graft#2e0915",
+   "kind": "mcq",
+   "stem": "About how long does axillo-bifemoral bypass usually take?",
+   "options": [
+    "About 2hr",
+    "About 12hr",
+    "About 6hrs",
+    "About 30 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

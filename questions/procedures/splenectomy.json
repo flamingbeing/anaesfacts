@@ -1,0 +1,51 @@
+{
+ "topic": "procedures/splenectomy",
+ "questions": [
+  {
+   "fact_id": "procedures/splenectomy#59ad8f",
+   "kind": "statement",
+   "stem": "What are the elective indications for splenectomy?",
+   "answer": "Haematological disease and thrombocytopenia, or cancer staging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/splenectomy#37131f",
+   "kind": "statement",
+   "stem": "What are the emergency indications for splenectomy?",
+   "answer": "Trauma, ruptured splenic aneurysm, or uncontrollable bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/splenectomy#da7922",
+   "kind": "statement",
+   "stem": "Why might sickle cell disease patients need transfusion before splenectomy?",
+   "answer": "To prevent sickling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/splenectomy#7c62f4",
+   "kind": "mcq",
+   "stem": "In ITP, when are platelets usually given during splenectomy?",
+   "options": [
+    "Before induction of anaesthesia",
+    "After the spleen is removed",
+    "Only if bleeding occurs",
+    "Before the skin incision"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/splenectomy#aa409a",
+   "kind": "statement",
+   "stem": "Why check chemotherapy history before splenectomy for Hodgkin's staging?",
+   "answer": "Some drugs affect kidney, lung and heart function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

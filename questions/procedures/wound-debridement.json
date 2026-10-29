@@ -1,0 +1,41 @@
+{
+ "topic": "procedures/wound-debridement",
+ "questions": [
+  {
+   "fact_id": "procedures/wound-debridement#b0626d",
+   "kind": "statement",
+   "stem": "What two problems do very large wounds bring during wound debridement?",
+   "answer": "Severe pain and heavy bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/wound-debridement#b90e75",
+   "kind": "mcq",
+   "stem": "Scrubbing a wound straight after induction, what airway problem can the pain trigger?",
+   "options": [
+    "Hypoglycaemia",
+    "Laryngospasm",
+    "Oesophageal intubation",
+    "Hypotension only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/wound-debridement#7be11f",
+   "kind": "mcq",
+   "stem": "Which injury is an indication for wound debridement?",
+   "options": [
+    "Closed fracture",
+    "Benign skin lesion",
+    "Open fracture",
+    "Routine suture removal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

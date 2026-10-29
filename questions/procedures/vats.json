@@ -1,0 +1,651 @@
+{
+ "topic": "procedures/vats",
+ "questions": [
+  {
+   "fact_id": "procedures/vats#d22be3",
+   "kind": "mcq",
+   "stem": "What ventilation strategy is used during VATS?",
+   "options": [
+    "Two-lung ventilation with a single-lumen tube",
+    "One-lung ventilation with a DLT",
+    "Jet ventilation through a laryngeal mask",
+    "High-frequency oscillation through a tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#3f0e45",
+   "kind": "mcq",
+   "stem": "Which patient position is used for VATS?",
+   "options": [
+    "Supine with the table flat",
+    "Prone with arms above the head",
+    "Lateral with the table broken",
+    "Lithotomy with legs raised"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#643858",
+   "kind": "mcq",
+   "stem": "How is the thoracoscope introduced into the chest for VATS?",
+   "options": [
+    "Through a midline sternotomy",
+    "Through a subxiphoid incision",
+    "Through a neck incision",
+    "Through intercostal incisions"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#4c89c7",
+   "kind": "blank",
+   "stem": "For VATS the patient is placed lateral with the ____ broken.",
+   "answer": "table",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#a2f3fd",
+   "kind": "mcq",
+   "stem": "How long does a VATS thymectomy usually take?",
+   "options": [
+    "1-2 hrs",
+    "3-4 hrs",
+    "30-45 min",
+    "5-6 hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#f8662e",
+   "kind": "mcq",
+   "stem": "How long does a VATS lobectomy usually take?",
+   "options": [
+    "4-5 hrs",
+    "1-3 hrs",
+    "6-8 hrs",
+    "30-45 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#daedf7",
+   "kind": "mcq",
+   "stem": "How long does added mediastinal lymph node dissection take during VATS?",
+   "options": [
+    "3-4 hrs",
+    "20-30 min",
+    "5-6 hrs",
+    "1-2 hrs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#e544fc",
+   "kind": "mcq",
+   "stem": "Compared with open thoracotomy, how does VATS affect blood loss?",
+   "options": [
+    "More blood loss",
+    "The same blood loss",
+    "Less blood loss",
+    "Blood loss is always greater"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#6d0045",
+   "kind": "mcq",
+   "stem": "Compared with open thoracotomy, how does VATS affect postoperative lung function?",
+   "options": [
+    "Greater loss of lung function",
+    "Same loss of lung function",
+    "No measurable change in lung function",
+    "Less loss of lung function"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#29fe40",
+   "kind": "mcq",
+   "stem": "Compared with open thoracotomy, how does VATS affect postoperative pain?",
+   "options": [
+    "More pain",
+    "Less pain",
+    "About the same pain",
+    "Pain only on day one"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#51dd66",
+   "kind": "mcq",
+   "stem": "Which VATS indication involves taking a tissue sample?",
+   "options": [
+    "Cholecystectomy",
+    "Hernia repair",
+    "Lung or pleural biopsy",
+    "Appendicectomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#9be23b",
+   "kind": "mcq",
+   "stem": "Which VATS indication treats fluid collecting around the lung?",
+   "options": [
+    "Drainage of pleural effusion",
+    "Drainage of ascites",
+    "Drainage of renal cyst",
+    "Drainage of brain abscess"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#dba8d5",
+   "kind": "mcq",
+   "stem": "Which pericardial procedure can VATS be used for?",
+   "options": [
+    "Pericardial biopsy or window",
+    "Mitral valve replacement",
+    "Pacemaker insertion",
+    "Central line placement"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#0e8fcf",
+   "kind": "statement",
+   "stem": "Apart from lung, pleura and mediastinum, what else can VATS reach?",
+   "answer": "Heart and great vessels, oesophagus, diaphragm, spine and nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#64cca9",
+   "kind": "mcq",
+   "stem": "Where are the small incisions made for VATS?",
+   "options": [
+    "Lateral chest wall",
+    "Anterior midline sternum",
+    "Posterior over the spine",
+    "Upper abdomen"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#e91e91",
+   "kind": "statement",
+   "stem": "In VATS, when is the trocar placed?",
+   "answer": "Once the lung on that side is collapsed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#2a0efa",
+   "kind": "mcq",
+   "stem": "What is placed at the end of VATS before the lung is re-expanded?",
+   "options": [
+    "A chest drain",
+    "A central venous catheter",
+    "A nasogastric tube",
+    "A urinary catheter"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#14fcc9",
+   "kind": "mcq",
+   "stem": "What is the approximate length of the single incision in uniportal VATS?",
+   "options": [
+    "About 1 cm",
+    "About 10 cm",
+    "About 4 cm",
+    "About 20 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#6e1861",
+   "kind": "mcq",
+   "stem": "What proportion of patients have a complication after VATS?",
+   "options": [
+    "About 25%",
+    "About 9%",
+    "About 1%",
+    "About 40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#55065f",
+   "kind": "statement",
+   "stem": "Name two complications that can follow VATS.",
+   "answer": "Haemorrhage, surgical emphysema, empyema, recurrent pneumothorax, pulmonary oedema or pneumonia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#a63611",
+   "kind": "statement",
+   "stem": "Which VATS complication involves tumour spread at the chest drain site?",
+   "answer": "Tumour seeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#ff6987",
+   "kind": "mcq",
+   "stem": "Which complication is described as common after VATS?",
+   "options": [
+    "Ventricular arrhythmia",
+    "Bowel obstruction",
+    "Renal failure",
+    "Persistent air leak"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#d014aa",
+   "kind": "mcq",
+   "stem": "What is placed under the patient's axilla for lateral VATS?",
+   "options": [
+    "A large gel pad under the hip",
+    "A small axillary roll",
+    "A foam wedge under the knee",
+    "A pillow under the head only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#ffa6ad",
+   "kind": "mcq",
+   "stem": "How is the head supported in lateral VATS positioning?",
+   "options": [
+    "Gel head ring with no towel",
+    "Foam head sponge with a towel underneath",
+    "Rigid metal head clamp",
+    "Pillow with the head turned fully"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#88bf22",
+   "kind": "mcq",
+   "stem": "Why is a chest X-ray done in PACU after VATS?",
+   "options": [
+    "To check for bowel perforation",
+    "To confirm endotracheal tube depth",
+    "To check for pneumothorax or haemothorax",
+    "To screen for pulmonary embolism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#aaf9dd",
+   "kind": "statement",
+   "stem": "In lateral VATS, what is done after the table is broken?",
+   "answer": "Recheck the tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#a41f38",
+   "kind": "statement",
+   "stem": "In lateral VATS positioning, what must not touch the face?",
+   "answer": "Clamps",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#dd0dc5",
+   "kind": "statement",
+   "stem": "How should IV and arterial lines be run in lateral VATS?",
+   "answer": "Straight, not doubled back",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#59dc27",
+   "kind": "mcq",
+   "stem": "In VATS, which way should the endotracheal tube be taped?",
+   "options": [
+    "Towards the dependent lung",
+    "Towards the non-dependent lung",
+    "Straight up the face",
+    "Flat against the neck"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#62e56c",
+   "kind": "statement",
+   "stem": "When should the patient be turned to lateral in VATS?",
+   "answer": "Once the tube and lines are in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#0871b8",
+   "kind": "mcq",
+   "stem": "How is the non-dependent arm supported in lateral VATS?",
+   "options": [
+    "Tucked alongside the body",
+    "Hanging off the table edge",
+    "A gel pad on the arm support",
+    "Under the patient's head"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#48ab6d",
+   "kind": "mcq",
+   "stem": "What position should the head be held in while the table is broken for VATS?",
+   "options": [
+    "Flexed forward",
+    "Neutral",
+    "Extended back",
+    "Rotated fully to one side"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#c3c40b",
+   "kind": "mcq",
+   "stem": "What supports the endotracheal tube in lateral VATS?",
+   "options": [
+    "A foam wedge",
+    "An angle board",
+    "A roll of gauze",
+    "A rigid head clamp"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#4db523",
+   "kind": "mcq",
+   "stem": "When might an arterial line not be needed for VATS?",
+   "options": [
+    "For any lobectomy",
+    "For a small procedure such as a biopsy",
+    "For every thymectomy",
+    "Never for any VATS"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#f8f5f8",
+   "kind": "statement",
+   "stem": "What device is used to collapse the lung for VATS?",
+   "answer": "DLT or bronchial blocker",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#449c2a",
+   "kind": "mcq",
+   "stem": "How much is the tracheal cuff inflated with first in the VATS lung-isolation sequence?",
+   "options": [
+    "2 ml",
+    "10 ml",
+    "5 ml",
+    "20 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#437c3a",
+   "kind": "mcq",
+   "stem": "How much is the bronchial cuff inflated with in the VATS lung-isolation sequence?",
+   "options": [
+    "5 ml",
+    "2 ml",
+    "0.5 ml",
+    "10 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#918a77",
+   "kind": "mcq",
+   "stem": "What oxygen concentration is used until one-lung ventilation is established?",
+   "options": [
+    "30% oxygen",
+    "60% oxygen",
+    "100% oxygen",
+    "Room air"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#6b298e",
+   "kind": "statement",
+   "stem": "What is the alternative way to isolate the lung with a DLT before ventilating?",
+   "answer": "Pass the bronchoscope into the left main bronchus, then railroad the DLT over it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#5cb1b3",
+   "kind": "mcq",
+   "stem": "Which drugs give fast emergence and return of airway reflexes after VATS?",
+   "options": [
+    "Long-acting IV agents",
+    "Short-acting IV agents",
+    "Oral sedatives",
+    "Intramuscular depot opioids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#89e7fa",
+   "kind": "mcq",
+   "stem": "Why are IV fluids kept cautious during VATS?",
+   "options": [
+    "To prevent intraoperative hypertension",
+    "To prevent postoperative pulmonary oedema",
+    "To reduce the oxygen requirement",
+    "To avoid hypothermia in the lung"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#e9eb38",
+   "kind": "statement",
+   "stem": "How long can neuromuscular paralysis last during VATS?",
+   "answer": "Until the chest drain is going in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#46c989",
+   "kind": "mcq",
+   "stem": "Which analgesic combination does PROSPECT 2021 recommend for VATS?",
+   "options": [
+    "Ketamine infusion alone",
+    "Opioid infusion alone",
+    "Paracetamol plus NSAID or COX-2 inhibitor",
+    "Gabapentin alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#b8a9a0",
+   "kind": "mcq",
+   "stem": "Which IV drug does PROSPECT 2021 recommend for VATS analgesia?",
+   "options": [
+    "IV ketamine",
+    "IV pethidine",
+    "IV dexmedetomidine",
+    "IV midazolam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#d7a0d4",
+   "kind": "mcq",
+   "stem": "Which regional block does PROSPECT 2021 recommend for VATS?",
+   "options": [
+    "Thoracic epidural",
+    "Intercostal block",
+    "Paravertebral block or ESP block",
+    "Spinal anaesthesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#3236f5",
+   "kind": "mcq",
+   "stem": "What role do opioids have after VATS under PROSPECT 2021?",
+   "options": [
+    "Scheduled first-line, every four hours",
+    "Postoperative rescue only",
+    "Standard PCA for 48 hours",
+    "Preoperative premedication only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#1b397b",
+   "kind": "statement",
+   "stem": "In robotic-assisted thoracic surgery, what helps when access to the patient is poor?",
+   "answer": "Extend the breathing circuit and drip",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#9cc748",
+   "kind": "statement",
+   "stem": "In RATS, how is the robot kept clear of ceiling-mounted arms?",
+   "answer": "Rotate or move the table",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#62be62",
+   "kind": "mcq",
+   "stem": "Why are arm supports avoided in robotic-assisted thoracic surgery?",
+   "options": [
+    "They block the anaesthetic circuit",
+    "They stop the drapes falling",
+    "They prevent arterial line checks",
+    "They block the robot"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#8812ad",
+   "kind": "statement",
+   "stem": "How should the drapes be handled in RATS?",
+   "answer": "Let them fall freely",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#36aef4",
+   "kind": "statement",
+   "stem": "Why is CO2 insufflated during RATS?",
+   "answer": "To compress the non-ventilated lung and improve the view",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#446cb0",
+   "kind": "mcq",
+   "stem": "What is the lowest insufflation pressure at which tension-like changes can occur in RATS?",
+   "options": [
+    "2 mmHg",
+    "10 mmHg",
+    "5 mmHg",
+    "15 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/vats#0c9985",
+   "kind": "mcq",
+   "stem": "How can the risk of tension-like changes in RATS be reduced?",
+   "options": [
+    "Increase gas flow to 10 l/min",
+    "Insufflate rapidly at high pressure",
+    "Limit gas flow to 2 l/min and insufflate slowly",
+    "Keep insufflation at 20 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

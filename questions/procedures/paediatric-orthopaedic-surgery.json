@@ -1,0 +1,1619 @@
+{
+ "topic": "procedures/paediatric-orthopaedic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#d4cf91",
+   "kind": "statement",
+   "stem": "What is the usual health status of children having paediatric orthopaedic surgery?",
+   "answer": "Most are well with an isolated problem; some have syndromes or neuromuscular disorders",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#bec8e0",
+   "kind": "statement",
+   "stem": "Which procedures often mean repeated anaesthetics in paediatric orthopaedic patients?",
+   "answer": "Surgery, casts, cast changes and metalwork removal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#4fa9b4",
+   "kind": "mcq",
+   "stem": "In paediatric orthopaedic surgery, which airway suits a short supine case?",
+   "options": [
+    "Double-lumen tracheal tube",
+    "Tracheostomy",
+    "Laryngeal mask airway",
+    "Endobronchial blocker"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#304d00",
+   "kind": "mcq",
+   "stem": "What tourniquet pressure is enough for a child's lower limb?",
+   "options": [
+    "50 mm Hg above systolic",
+    "150 mm Hg above systolic",
+    "75 mm Hg above systolic",
+    "Equal to diastolic pressure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#7ee409",
+   "kind": "statement",
+   "stem": "In children with musculoskeletal disease, how does regional anaesthesia change as they grow?",
+   "answer": "It gets harder",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#7b045b",
+   "kind": "mcq",
+   "stem": "What percentage of Ilizarov limb lengthening cases cause compartment syndrome distal to the site?",
+   "options": [
+    "About 10%",
+    "About 20%",
+    "About 0.5%",
+    "About 2%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#7b045b",
+   "kind": "statement",
+   "stem": "Why do some teams avoid regional anaesthesia for Ilizarov limb lengthening?",
+   "answer": "Compartment syndrome distal to the site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#1a2c42",
+   "kind": "mcq",
+   "stem": "What diazepam dose treats postoperative muscle spasm in a child?",
+   "options": [
+    "0.01 mg kg-1",
+    "0.5 mg kg-1",
+    "0.1 mg kg-1",
+    "1 mg kg-1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#1a2c42",
+   "kind": "mcq",
+   "stem": "What midazolam infusion rate treats postoperative muscle spasm in a child?",
+   "options": [
+    "1-3 mcg kg-1 h-1",
+    "100-300 mcg kg-1 h-1",
+    "10-30 mcg kg-1 h-1",
+    "50-70 mcg kg-1 h-1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f7329d",
+   "kind": "statement",
+   "stem": "In developmental dysplasia of the hip, what does an unstable hip mean at birth?",
+   "answer": "Dislocated or dislocatable at birth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#678488",
+   "kind": "mcq",
+   "stem": "About what proportion of newborns have an unstable hip at birth in developmental dysplasia of the hip?",
+   "options": [
+    "About 0.15%",
+    "About 15%",
+    "About 5%",
+    "About 1.5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#678488",
+   "kind": "mcq",
+   "stem": "How often does developmental dysplasia of the hip need treatment in UK babies?",
+   "options": [
+    "About 1 in 40",
+    "About 1 in 100",
+    "About 1 in 50",
+    "About 1 in 400"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#783c19",
+   "kind": "mcq",
+   "stem": "How much more common is developmental dysplasia of the hip in girls than boys?",
+   "options": [
+    "2-3 times more common",
+    "4-5 times more common",
+    "10 times more common",
+    "Equally common"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#4b8756",
+   "kind": "statement",
+   "stem": "Which clinical tests are used in neonatal screening for developmental dysplasia of the hip?",
+   "answer": "Ortolani and Barlow tests",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#4b8756",
+   "kind": "statement",
+   "stem": "In the UK, when is ultrasound used for developmental dysplasia of the hip screening?",
+   "answer": "Only with risk factors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#d5173e",
+   "kind": "statement",
+   "stem": "Late-presenting developmental dysplasia of the hip classically appears roughly how long after walking begins?",
+   "answer": "Around 1 year",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#5f8c33",
+   "kind": "mcq",
+   "stem": "What is the initial treatment for infants with developmental dysplasia of the hip?",
+   "options": [
+    "Hip spica casting alone",
+    "Femoral osteotomy",
+    "Pavlik harness or gallows traction",
+    "Pelvic osteotomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#5f8c33",
+   "kind": "statement",
+   "stem": "What follows Pavlik harness or gallows traction in infant developmental dysplasia of the hip?",
+   "answer": "Arthrogram and closed reduction under general anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#d94349",
+   "kind": "mcq",
+   "stem": "Roughly how often is a hip spica changed under general anaesthesia in developmental dysplasia of the hip?",
+   "options": [
+    "Weekly",
+    "Roughly monthly",
+    "Every six months",
+    "Once a year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#d94349",
+   "kind": "mcq",
+   "stem": "For how many months are hip spica changes under general anaesthesia usually continued in developmental dysplasia of the hip?",
+   "options": [
+    "1-2 weeks",
+    "2-3 weeks",
+    "6-12 months",
+    "2-3 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#7930e7",
+   "kind": "mcq",
+   "stem": "What incision is usually used for open reduction in older children with developmental dysplasia of the hip?",
+   "options": [
+    "Lateral thigh incision",
+    "Midline abdominal incision",
+    "Groin incision",
+    "Posterior flank incision"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#123ba9",
+   "kind": "mcq",
+   "stem": "For developmental dysplasia of the hip presenting at 3-4 years, what femoral procedure is added to open reduction?",
+   "options": [
+    "Femoral lengthening osteotomy",
+    "Femoral shortening osteotomy",
+    "Femoral head excision",
+    "Hip arthrodesis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#603198",
+   "kind": "statement",
+   "stem": "What is the most feared complication of developmental dysplasia of the hip?",
+   "answer": "Avascular necrosis of the hip",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#a5c9da",
+   "kind": "statement",
+   "stem": "What else should be looked for in a child with developmental dysplasia of the hip?",
+   "answer": "Other congenital anomalies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#469c27",
+   "kind": "statement",
+   "stem": "Why is building rapport with parents important in developmental dysplasia of the hip care?",
+   "answer": "It is often the start of many anaesthetics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#68adc7",
+   "kind": "statement",
+   "stem": "When is transfusion unlikely in developmental dysplasia of the hip surgery?",
+   "answer": "Without pelvic or femoral surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#10d31a",
+   "kind": "mcq",
+   "stem": "What induction is usual for infants having developmental dysplasia of the hip surgery?",
+   "options": [
+    "Rapid sequence induction",
+    "Intravenous induction with propofol",
+    "Inhalational induction",
+    "Intramuscular ketamine induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#3e33b5",
+   "kind": "mcq",
+   "stem": "In developmental dysplasia of the hip anaesthesia, which analgesia is used if an adductor tenotomy is done?",
+   "options": [
+    "Caudal block",
+    "Local infiltration",
+    "Lumbar epidural",
+    "Femoral nerve block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#7a8ceb",
+   "kind": "mcq",
+   "stem": "What IV morphine dose is given before open hip reduction in developmental dysplasia of the hip?",
+   "options": [
+    "10 mcg/kg",
+    "1 mg/kg",
+    "100 mcg/kg",
+    "500 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#6c4be9",
+   "kind": "statement",
+   "stem": "Where must IV access be sited for developmental dysplasia of the hip surgery?",
+   "answer": "Upper body",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#6c4be9",
+   "kind": "statement",
+   "stem": "Which central line is sometimes needed for developmental dysplasia of the hip surgery, despite its morbidity?",
+   "answer": "Internal jugular line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#852edc",
+   "kind": "mcq",
+   "stem": "Which airway is usual for infants having developmental dysplasia of the hip surgery?",
+   "options": [
+    "Laryngeal mask with spontaneous breathing",
+    "Intubation and IPPV",
+    "Facemask with spontaneous breathing",
+    "Nasal high-flow oxygen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#b0b673",
+   "kind": "mcq",
+   "stem": "Which maintenance technique reduces volatile needs in developmental dysplasia of the hip anaesthesia?",
+   "options": [
+    "Propofol infusion",
+    "Nitrous oxide alone",
+    "Ketamine boluses",
+    "Remifentanil infusion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#6789ae",
+   "kind": "mcq",
+   "stem": "For developmental dysplasia of the hip in a child up to 10-15 kg, which caudal dose covers the inguinal dermatomes?",
+   "options": [
+    "1 mL/kg of 0.5 levobupivacaine",
+    "0.5 mL/kg of 0.25 levobupivacaine",
+    "1 mL/kg of 0.25 levobupivacaine",
+    "2 mL/kg of 0.125 levobupivacaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#158ed3",
+   "kind": "mcq",
+   "stem": "What lumbar epidural volume of 0.5% levobupivacaine gives a dense block in older children with developmental dysplasia of the hip?",
+   "options": [
+    "0.05-0.1 mL/kg",
+    "0.3-0.5 mL/kg",
+    "0.5-1 mL/kg",
+    "1-2 mL/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#69e961",
+   "kind": "statement",
+   "stem": "If an epidural catheter stays in after developmental dysplasia of the hip surgery, what do some units do to the spica?",
+   "answer": "Cut a window in its back",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#212d98",
+   "kind": "mcq",
+   "stem": "How long does a day-case spica change take in developmental dysplasia of the hip?",
+   "options": [
+    "10-20 min",
+    "2-3 hours",
+    "90-120 min",
+    "40-60 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#53d86a",
+   "kind": "statement",
+   "stem": "When should sedative premedication be considered in developmental dysplasia of the hip?",
+   "answer": "If repeated anaesthetics distress the child",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#54d624",
+   "kind": "statement",
+   "stem": "In developmental dysplasia of the hip surgery, what must be done carefully when the child is moved between several positions?",
+   "answer": "Secure the ETT or LMA and cannula",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#04e054",
+   "kind": "mcq",
+   "stem": "In developmental dysplasia of the hip surgery, what should be done because small infants get cold when exposed?",
+   "options": [
+    "Keep the theatre cool to reduce infection",
+    "Warm the theatre and monitor temperature",
+    "Monitor heart rate only, not temperature",
+    "Cover the infant with a dry sheet only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#27f8de",
+   "kind": "blank",
+   "stem": "For developmental dysplasia of the hip, analgesia is usually ____.",
+   "answer": "unnecessary",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#5cac3e",
+   "kind": "mcq",
+   "stem": "For developmental dysplasia of the hip, what oral morphine dose is given 4-hourly, regular or as needed?",
+   "options": [
+    "20-30 mcg/kg",
+    "200-300 mcg/kg",
+    "2-3 mg/kg",
+    "500-600 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#5cac3e",
+   "kind": "statement",
+   "stem": "For developmental dysplasia of the hip, name two postoperative morphine options besides oral morphine.",
+   "answer": "Epidural infusion or IV morphine infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#aa287d",
+   "kind": "blank",
+   "stem": "Congenital talipes equinovarus (clubfoot) is one of the ____ congenital orthopaedic conditions needing surgery in infancy.",
+   "answer": "commonest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#1f94cc",
+   "kind": "mcq",
+   "stem": "What is the UK incidence of clubfoot (talipes equinovarus) per live births?",
+   "options": [
+    "5-10:1000",
+    "1-3:1000",
+    "10-30:1000",
+    "0.1-0.3:1000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#1f94cc",
+   "kind": "mcq",
+   "stem": "What proportion of children with clubfoot have bilateral involvement?",
+   "options": [
+    "10%",
+    "50%",
+    "25%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#1f94cc",
+   "kind": "mcq",
+   "stem": "In clubfoot, what is the male to female ratio?",
+   "options": [
+    "1:1",
+    "2.5:1",
+    "1:2.5",
+    "5:1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#e30818",
+   "kind": "statement",
+   "stem": "Name three conditions that may be associated with clubfoot.",
+   "answer": "Neuromuscular disease, arthrogryposis or cerebral palsy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#e30818",
+   "kind": "blank",
+   "stem": "Most children with clubfoot are otherwise ____.",
+   "answer": "healthy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f438bb",
+   "kind": "statement",
+   "stem": "In clubfoot, which muscle groups are imbalanced against the plantarflexors and invertors?",
+   "answer": "Dorsiflexors and evertors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#e01a06",
+   "kind": "statement",
+   "stem": "What is the goal of clubfoot treatment?",
+   "answer": "Plantigrade foot with reasonable shape and function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#e1c4ae",
+   "kind": "mcq",
+   "stem": "What success rate is quoted for strapping or serial casts in clubfoot?",
+   "options": [
+    "5-10%",
+    "30-50%",
+    "70-90%",
+    "60-80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#5a321b",
+   "kind": "statement",
+   "stem": "For clubfoot not corrected by strapping or casts, what is used before the child walks?",
+   "answer": "Surgery and repeated cast manipulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#3b36f6",
+   "kind": "mcq",
+   "stem": "At what age is primary clubfoot surgery usually performed?",
+   "options": [
+    "12-18 months",
+    "3-9 months",
+    "3-9 weeks",
+    "2-3 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#3b36f6",
+   "kind": "statement",
+   "stem": "What range of procedures does primary clubfoot surgery span?",
+   "answer": "Limited medial soft tissue release to extensive posteromedial tendon lengthening or bony surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#0f7031",
+   "kind": "mcq",
+   "stem": "What proportion of clubfoot patients need later tendon transfers or osteotomies?",
+   "options": [
+    "About 5%",
+    "About 60%",
+    "About 25%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#9a9989",
+   "kind": "statement",
+   "stem": "Before a caudal block for clubfoot surgery, what should be checked?",
+   "answer": "Lower spine abnormality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#527b96",
+   "kind": "statement",
+   "stem": "In clubfoot, what should be looked for before anaesthesia?",
+   "answer": "Congenital neuromuscular disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#77e712",
+   "kind": "mcq",
+   "stem": "What induction is usual for infants having clubfoot surgery?",
+   "options": [
+    "Rapid sequence intravenous induction",
+    "Inhalational induction",
+    "Rectal midazolam induction",
+    "Intramuscular ketamine induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#0de0ec",
+   "kind": "mcq",
+   "stem": "In clubfoot surgery, where is IV access preferred if possible?",
+   "options": [
+    "Lower limb near the foot",
+    "Upper body",
+    "Scalp vein only",
+    "Femoral vein routinely"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#0de0ec",
+   "kind": "statement",
+   "stem": "In clubfoot surgery, which central line is occasionally needed when peripheral access is hard?",
+   "answer": "Internal jugular line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#73ba35",
+   "kind": "mcq",
+   "stem": "For an infant having clubfoot surgery done prone, which airway tube should be used?",
+   "options": [
+    "Standard uncuffed ETT",
+    "Armoured ETT",
+    "Laryngeal mask airway",
+    "Tracheostomy tube"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#9f990a",
+   "kind": "blank",
+   "stem": "For clubfoot surgery, maintenance is with a ____ agent in oxygen and air or nitrous oxide.",
+   "answer": "volatile",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#94c3d2",
+   "kind": "mcq",
+   "stem": "Why can tourniquets in clubfoot surgery cause hyperthermia?",
+   "options": [
+    "Faster sweating in the operated limb",
+    "Less heat loss below the cuff",
+    "Reduced metabolic rate in the foot",
+    "Vasodilation of the upper limb"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#155319",
+   "kind": "mcq",
+   "stem": "In clubfoot surgery, which regional block covers the sacral dermatomes?",
+   "options": [
+    "Lumbar epidural",
+    "Caudal",
+    "Femoral nerve block",
+    "Brachial plexus block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#155319",
+   "kind": "mcq",
+   "stem": "For a clubfoot caudal block with 0.5% levobupivacaine, what volume per kg is used?",
+   "options": [
+    "0.03-0.05 mL/kg",
+    "1-2 mL/kg",
+    "3-5 mL/kg",
+    "0.3-0.5 mL/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#898e57",
+   "kind": "mcq",
+   "stem": "If regional anaesthesia is not possible for clubfoot surgery, what morphine dose is given with an NSAID?",
+   "options": [
+    "10-15 mcg/kg",
+    "1-1.5 mg/kg",
+    "100-150 mcg/kg",
+    "300-400 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#803e16",
+   "kind": "statement",
+   "stem": "For clubfoot surgery, until when are maintenance fluids continued?",
+   "answer": "Until feeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#8d9381",
+   "kind": "statement",
+   "stem": "What is the analgesic regimen for severe pain after bilateral or extensive clubfoot surgery?",
+   "answer": "Epidural or IV morphine infusion plus NSAID and paracetamol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#c0d2ce",
+   "kind": "mcq",
+   "stem": "After lesser clubfoot surgery, which analgesic combination is used?",
+   "options": [
+    "Epidural local anaesthetic infusion alone",
+    "Paracetamol, NSAID and oral opioid",
+    "Intravenous morphine infusion alone",
+    "Caudal block with morphine only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#3b2db3",
+   "kind": "mcq",
+   "stem": "What approach is used for femoral osteotomy in children?",
+   "options": [
+    "Medial approach",
+    "Lateral approach",
+    "Anterior approach",
+    "Posterior midline approach"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#3b2db3",
+   "kind": "blank",
+   "stem": "In femoral osteotomy in children, the femur is usually fixed with a ____.",
+   "answer": "blade plate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#14f591",
+   "kind": "blank",
+   "stem": "In femoral osteotomy, bleeding is usually ____ unless combined with other surgery.",
+   "answer": "modest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#4f62af",
+   "kind": "blank",
+   "stem": "Children having femoral osteotomy for Perthes disease are usually ____.",
+   "answer": "healthy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#8747c4",
+   "kind": "statement",
+   "stem": "Why consider premedication for a child having late DDH femoral osteotomy?",
+   "answer": "Child may be anxious or uncooperative after many prior procedures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#8747c4",
+   "kind": "blank",
+   "stem": "In late DDH, parents may be ____ after real or perceived screening failure.",
+   "answer": "disheartened",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#267823",
+   "kind": "statement",
+   "stem": "In cerebral palsy, what should be done with the usual medications before femoral osteotomy?",
+   "answer": "Give them on the morning of surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#267823",
+   "kind": "statement",
+   "stem": "Before femoral osteotomy in cerebral palsy, what blood arrangement should be made?",
+   "answer": "Group and save",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#e38da0",
+   "kind": "mcq",
+   "stem": "For femoral osteotomy, which induction may be easier in young children or cerebral palsy?",
+   "options": [
+    "Rapid sequence induction",
+    "Inhalational induction",
+    "Intramuscular ketamine induction",
+    "Epidural-first anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#c82e1d",
+   "kind": "statement",
+   "stem": "What airway management is common for femoral osteotomy?",
+   "answer": "Intubation and IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f02373",
+   "kind": "mcq",
+   "stem": "How is blood loss usually replaced in femoral osteotomy?",
+   "options": [
+    "Packed red cells only",
+    "Crystalloid or colloid",
+    "Fresh frozen plasma routinely",
+    "Cell salvage alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#e520d7",
+   "kind": "mcq",
+   "stem": "In femoral osteotomy, which regional technique with postoperative infusion suits severe cerebral palsy with pelvic surgery?",
+   "options": [
+    "Brachial plexus block",
+    "Femoral nerve block",
+    "Lumbar epidural",
+    "Intrathecal morphine alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#50789e",
+   "kind": "mcq",
+   "stem": "In femoral osteotomy, what fentanyl dose is given if regional anaesthesia is not possible or fails?",
+   "options": [
+    "20-40 mcg/kg",
+    "0.2-0.4 mcg/kg",
+    "2-4 mcg/kg",
+    "2-4 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#50789e",
+   "kind": "mcq",
+   "stem": "In femoral osteotomy, what morphine dose range is given if regional anaesthesia is not possible or failed?",
+   "options": [
+    "10-20 mcg/kg",
+    "100-200 mcg/kg",
+    "1-2 mg/kg",
+    "200-400 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#50789e",
+   "kind": "statement",
+   "stem": "In femoral osteotomy without regional anaesthesia, what can be used with a morphine bolus before emergence?",
+   "answer": "Remifentanil",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#66fdfb",
+   "kind": "blank",
+   "stem": "After femoral osteotomy, maintenance fluids are usually given ____.",
+   "answer": "overnight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#9b322c",
+   "kind": "statement",
+   "stem": "After a single-shot block for femoral osteotomy, what should be ready for when the block wears off?",
+   "answer": "IV morphine infusion or PCA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#ae0b3c",
+   "kind": "statement",
+   "stem": "What is run through an epidural catheter after femoral osteotomy on a suitable ward?",
+   "answer": "Local anaesthetic with opioid infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#74c783",
+   "kind": "mcq",
+   "stem": "After femoral osteotomy, how long is IV or epidural analgesia usually needed?",
+   "options": [
+    "2-4 hours",
+    "24-72 hours",
+    "5-7 days",
+    "10-14 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#a9f0dd",
+   "kind": "statement",
+   "stem": "Pelvic osteotomy in children is often combined with which other procedures?",
+   "answer": "Hip reduction or femoral osteotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#832948",
+   "kind": "statement",
+   "stem": "For pelvic osteotomy, which preoperative blood arrangement is made, as for femoral osteotomy?",
+   "answer": "Group and save",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#136d43",
+   "kind": "statement",
+   "stem": "What airway management is usual for pelvic osteotomy?",
+   "answer": "Intubation and IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#ded5cf",
+   "kind": "statement",
+   "stem": "In teenagers having pelvic osteotomy, what is the main reason for a urinary catheter?",
+   "answer": "Urinary retention",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#ded5cf",
+   "kind": "statement",
+   "stem": "During pelvic osteotomy, what does urine output help guide?",
+   "answer": "Volume status",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#014be4",
+   "kind": "mcq",
+   "stem": "In pelvic osteotomy with significant blood loss, what IV access is needed at minimum?",
+   "options": [
+    "One large IV cannula",
+    "At least two large IV cannulae",
+    "Two small IV cannulae are enough",
+    "Peripheral cannula in one arm only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#faf33d",
+   "kind": "statement",
+   "stem": "In pelvic osteotomy, what does a remifentanil infusion do?",
+   "answer": "Reduces volatile requirement and gives moderate hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#1fc8a5",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique suits older children having pelvic osteotomy?",
+   "options": [
+    "Spinal anaesthesia alone",
+    "TIVA",
+    "Caudal block alone",
+    "Inhaled nitrous oxide only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f326d5",
+   "kind": "statement",
+   "stem": "In pelvic osteotomy with combined general and regional anaesthesia, which regional technique is used and continued after surgery?",
+   "answer": "Lumbar epidural",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#164b6d",
+   "kind": "statement",
+   "stem": "For pelvic osteotomy without an epidural, what analgesia is given?",
+   "answer": "Generous morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#cf27f3",
+   "kind": "statement",
+   "stem": "Why might transfusion be needed in cerebral palsy pelvic osteotomy?",
+   "answer": "Combined surgery, heavy loss or possible preoperative anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#84c8a8",
+   "kind": "statement",
+   "stem": "Despite warming measures, what complication are children prone to in long pelvic osteotomy cases?",
+   "answer": "Hypothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#bff258",
+   "kind": "mcq",
+   "stem": "After pelvic osteotomy, what warming should continue in recovery if the child is cold?",
+   "options": [
+    "Warmed IV fluids only",
+    "Passive covering with a sheet",
+    "Forced-air warming",
+    "Leaving the child uncovered"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#1249ca",
+   "kind": "mcq",
+   "stem": "After pelvic osteotomy, how long are maintenance fluids usually given?",
+   "options": [
+    "2-4 hours",
+    "5-7 days",
+    "24-48 hours",
+    "72-96 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#e687b9",
+   "kind": "statement",
+   "stem": "After significant blood loss or transfusion in pelvic osteotomy, which bloods should be checked?",
+   "answer": "FBC and U&E",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#3bad84",
+   "kind": "mcq",
+   "stem": "After pelvic osteotomy, how long is epidural analgesia usually given?",
+   "options": [
+    "6-12 hours",
+    "48-72 hours",
+    "2-3 hours",
+    "7-10 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#b9fa43",
+   "kind": "mcq",
+   "stem": "After pelvic osteotomy epidural, what oral morphine dose is given 4-hourly?",
+   "options": [
+    "20-30 mcg/kg",
+    "2-3 mg/kg",
+    "200-300 mcg/kg",
+    "500-600 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#307c0b",
+   "kind": "statement",
+   "stem": "What is epiphysiodesis, used to correct limb length inequality?",
+   "answer": "Fusion of the growth plate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#307c0b",
+   "kind": "statement",
+   "stem": "How is the growth plate ablated in epiphysiodesis?",
+   "answer": "With drills and curettes under image intensifier",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#bb95ff",
+   "kind": "statement",
+   "stem": "In epiphysiodesis with small incisions, what pain does local anaesthetic injection control?",
+   "answer": "Skin pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#b288c3",
+   "kind": "statement",
+   "stem": "In epiphysiodesis, what may the surgeon apply if bleeding from exposed cancellous bone is heavy?",
+   "answer": "Procoagulant foam",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#87e1a3",
+   "kind": "statement",
+   "stem": "What are the aims of tendon surgery in children?",
+   "answer": "Correct muscle imbalance in joint deformity and/or improve gait",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#b28fbc",
+   "kind": "statement",
+   "stem": "Why does a cast after tendon surgery reduce analgesic needs?",
+   "answer": "It holds the joint position and limits movement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#478ecd",
+   "kind": "blank",
+   "stem": "After tendon surgery in children, painful postoperative muscle ____ is common.",
+   "answer": "spasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#566808",
+   "kind": "blank",
+   "stem": "Ilizarov limb lengthening preserves ____ in limb length inequality from unequal growth, trauma or osteomyelitis.",
+   "answer": "height",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#1752ca",
+   "kind": "statement",
+   "stem": "What three components make up Ilizarov limb lengthening?",
+   "answer": "Corticotomy, distraction and external fixation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#87aa06",
+   "kind": "mcq",
+   "stem": "How long does Ilizarov limb lengthening surgery typically take?",
+   "options": [
+    "1-2 hours",
+    "10 h or more",
+    "30 minutes",
+    "3-4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#76fe32",
+   "kind": "mcq",
+   "stem": "In Ilizarov lengthening, about how much new bone forms per month of treatment?",
+   "options": [
+    "5 cm",
+    "1 mm",
+    "1 cm",
+    "3 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#ddafcf",
+   "kind": "statement",
+   "stem": "For Ilizarov limb lengthening, which complication makes careful documentation of pre-existing nerve deficits important?",
+   "answer": "Transient nerve palsies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#ff2eef",
+   "kind": "mcq",
+   "stem": "In Ilizarov limb lengthening, which site carries a high risk of compartment syndrome?",
+   "options": [
+    "Humeral lengthening",
+    "Tibial lengthening",
+    "Metacarpal lengthening",
+    "Radial lengthening"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#dff045",
+   "kind": "statement",
+   "stem": "Why are neuraxial blocks often avoided in Ilizarov limb lengthening despite severe pain?",
+   "answer": "To allow monitoring of nerve and vascular recovery and compartment syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#86945e",
+   "kind": "statement",
+   "stem": "Why might a child with a previous painful fixator need an epidural for Ilizarov lengthening?",
+   "answer": "To agree to the surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#309f18",
+   "kind": "blank",
+   "stem": "Syndactyly is congenital failure of fingers (or toes) to ____.",
+   "answer": "separate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#6dc4ca",
+   "kind": "mcq",
+   "stem": "In syndactyly, when is the fusion classed as complete?",
+   "options": [
+    "When phalanges are fused",
+    "When fused to the tips",
+    "When digits are separated by skin",
+    "When only nail beds are fused"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#6dc4ca",
+   "kind": "statement",
+   "stem": "In syndactyly, when is the fusion classed as complex?",
+   "answer": "When the phalanges are fused",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#13a587",
+   "kind": "mcq",
+   "stem": "What is the approximate incidence of syndactyly?",
+   "options": [
+    "1:250",
+    "1:500",
+    "1:2500",
+    "1:25000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#103249",
+   "kind": "statement",
+   "stem": "In syndactyly, what embryological process fails, and when?",
+   "answer": "Failure of differentiation in the first trimester",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#105617",
+   "kind": "mcq",
+   "stem": "What proportion of syndactyly cases have a family history?",
+   "options": [
+    "Up to 10%",
+    "Up to 25%",
+    "Up to 50%",
+    "Up to 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#af64f9",
+   "kind": "mcq",
+   "stem": "Which syndrome linked to syndactyly also causes craniosynostosis and midface hypoplasia?",
+   "options": [
+    "Poland syndrome",
+    "Down syndrome",
+    "Apert syndrome",
+    "Marfan syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#af64f9",
+   "kind": "mcq",
+   "stem": "What percentage of children with Apert syndrome have learning difficulty?",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#28b511",
+   "kind": "mcq",
+   "stem": "Which blistering skin disorder is associated with syndactyly?",
+   "options": [
+    "Ichthyosis vulgaris",
+    "Epidermolysis bullosa",
+    "Vitiligo",
+    "Psoriasis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#051edc",
+   "kind": "mcq",
+   "stem": "Which extra-digit anomaly is associated with syndactyly?",
+   "options": [
+    "Brachydactyly",
+    "Polydactyly",
+    "Clinodactyly",
+    "Camptodactyly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f6c873",
+   "kind": "statement",
+   "stem": "Which hand finding accompanies one-sided chest muscle absence in Poland syndrome?",
+   "answer": "Syndactyly of the same-side hand",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#7374a1",
+   "kind": "blank",
+   "stem": "In syndactyly, early repair around ____ gives the best look and function.",
+   "answer": "12 months",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#0bfd4b",
+   "kind": "statement",
+   "stem": "How is complex syndactyly usually managed surgically?",
+   "answer": "Usually needs several staged operations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#0e08d9",
+   "kind": "mcq",
+   "stem": "Which donor site usually supplies full thickness skin grafts for syndactyly repair?",
+   "options": [
+    "Forearm",
+    "Thigh",
+    "Abdomen",
+    "Scalp"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#5b055e",
+   "kind": "statement",
+   "stem": "Why might digits be pinned after syndactyly repair?",
+   "answer": "To prevent contracture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#b5ca2f",
+   "kind": "statement",
+   "stem": "What are the main morbidities after syndactyly repair?",
+   "answer": "Scarring and contractures needing revision, infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#56fab9",
+   "kind": "statement",
+   "stem": "Which pre-anaesthetic history items matter for syndactyly repair?",
+   "answer": "Previous anaesthetic history; syndromes (especially Apert) with airway difficulty",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#e8641d",
+   "kind": "mcq",
+   "stem": "Before syndactyly repair, when is sedative premedication withheld?",
+   "options": [
+    "Routinely, in every child",
+    "When airway concerns are present",
+    "Only if IV access fails",
+    "Only for first procedures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f5849c",
+   "kind": "statement",
+   "stem": "Why is inhalational induction common for toddlers having syndactyly repair?",
+   "answer": "They often have difficult IV access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#82cb59",
+   "kind": "statement",
+   "stem": "In syndactyly repair, which syndrome carries a possible difficult airway?",
+   "answer": "Apert syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#ff0ce1",
+   "kind": "mcq",
+   "stem": "Which airway is preferred for long, complex syndactyly repairs?",
+   "options": [
+    "Facemask only",
+    "Endotracheal tube",
+    "Oropharyngeal airway",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#702b4e",
+   "kind": "statement",
+   "stem": "Which two ventilation modes are both acceptable for syndactyly repair?",
+   "answer": "Spontaneous ventilation or IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f52a3f",
+   "kind": "mcq",
+   "stem": "What IV morphine dose is used for analgesia after syndactyly repair?",
+   "options": [
+    "10-20 mcg/kg",
+    "50-75 mcg/kg",
+    "300-400 mcg/kg",
+    "100-150 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f52a3f",
+   "kind": "mcq",
+   "stem": "What IV fentanyl dose is used for analgesia after syndactyly repair?",
+   "options": [
+    "0.5-1 mcg/kg",
+    "2-4 mcg/kg",
+    "10-20 mcg/kg",
+    "25-50 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#b1e4e7",
+   "kind": "mcq",
+   "stem": "Which regional block suits complex syndactyly repairs?",
+   "options": [
+    "Caudal block",
+    "Femoral nerve block",
+    "Brachial plexus block",
+    "Popliteal sciatic block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#d8adcf",
+   "kind": "mcq",
+   "stem": "Which NSAID dose is given rectally to improve analgesia after syndactyly repair?",
+   "options": [
+    "Ibuprofen 10 mg/kg",
+    "Diclofenac 1 mg/kg",
+    "Naproxen 5 mg/kg",
+    "Ketorolac 0.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#0c4cff",
+   "kind": "statement",
+   "stem": "What should continue after syndactyly repair until the child is drinking?",
+   "answer": "Maintenance fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#f58730",
+   "kind": "mcq",
+   "stem": "What oral morphine dose is given 4-hourly after syndactyly repair?",
+   "options": [
+    "50-75 mcg/kg",
+    "200-300 mcg/kg",
+    "1-2 mg/kg",
+    "400-500 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-orthopaedic-surgery#3bf199",
+   "kind": "mcq",
+   "stem": "How soon is another general anaesthetic likely after syndactyly repair?",
+   "options": [
+    "The same day",
+    "About six weeks later",
+    "About a week later",
+    "About a month later"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

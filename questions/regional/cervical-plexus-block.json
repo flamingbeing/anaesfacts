@@ -1,0 +1,569 @@
+{
+ "topic": "regional/cervical-plexus-block",
+ "questions": [
+  {
+   "fact_id": "regional/cervical-plexus-block#ecdede",
+   "kind": "mcq",
+   "stem": "Which cervical plexus block technique carries risk of intrathecal or vertebral artery injection?",
+   "options": [
+    "Superficial block",
+    "Deep block",
+    "Lesser occipital nerve block",
+    "Greater auricular nerve block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#e2c71e",
+   "kind": "statement",
+   "stem": "Why is the superficial cervical plexus block preferred over the deep block?",
+   "answer": "Simpler and safer, and suits most indications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#7bb7ef",
+   "kind": "mcq",
+   "stem": "Which spinal nerve roots form the cervical plexus?",
+   "options": [
+    "C2–C6",
+    "C3–C5",
+    "C1–C4",
+    "T1–T2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#aa43d9",
+   "kind": "mcq",
+   "stem": "In the cervical plexus, which nerve is carried mainly by loop 1 (C1–C2)?",
+   "options": [
+    "Phrenic nerve",
+    "Ansa cervicalis",
+    "Spinal accessory nerve (CN XI)",
+    "Hypoglossal nerve (CN XII)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#f6c28a",
+   "kind": "statement",
+   "stem": "Which nerves make up loop 2 (C2–C3) of the cervical plexus?",
+   "answer": "Ansa cervicalis, greater auricular and transverse cervical nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#3a9ebe",
+   "kind": "mcq",
+   "stem": "Which nerve is carried by loop 3 (C3–C4) of the cervical plexus?",
+   "options": [
+    "Hypoglossal nerve",
+    "Phrenic nerve",
+    "Lesser occipital nerve",
+    "Ansa cervicalis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#9c9bbe",
+   "kind": "mcq",
+   "stem": "How many cutaneous branches does the superficial cervical plexus have?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#d3ecde",
+   "kind": "mcq",
+   "stem": "Which root supplies the lesser occipital nerve of the superficial cervical plexus?",
+   "options": [
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#f18180",
+   "kind": "mcq",
+   "stem": "Which roots supply the greater auricular nerve of the cervical plexus?",
+   "options": [
+    "C1–C2",
+    "C3–C4",
+    "C4–C5",
+    "C2–C3"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#b4cd1b",
+   "kind": "mcq",
+   "stem": "Which roots supply the transverse cervical nerve of the cervical plexus?",
+   "options": [
+    "C1–C2",
+    "C5–C6",
+    "C3–C4",
+    "C2–C3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#17433a",
+   "kind": "mcq",
+   "stem": "Which roots supply the supraclavicular nerve of the cervical plexus?",
+   "options": [
+    "C3–C4",
+    "C1–C2",
+    "C2–C3",
+    "C6–C7"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#4c13d4",
+   "kind": "statement",
+   "stem": "In the cervical plexus, where do the four superficial branches emerge relative to the SCM?",
+   "answer": "From behind the posterior border of the SCM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#1cd712",
+   "kind": "statement",
+   "stem": "What sensory skin territory does the superficial cervical plexus supply?",
+   "answer": "Anterolateral neck, from jawline to clavicle, back to the mastoid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#bcc25c",
+   "kind": "mcq",
+   "stem": "Which muscle receives motor supply from the deep cervical plexus?",
+   "options": [
+    "Scalenus anterior",
+    "Biceps brachii",
+    "Deltoid",
+    "Latissimus dorsi"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#2eeecd",
+   "kind": "mcq",
+   "stem": "Which nerves does a cervical plexus block not cover?",
+   "options": [
+    "Mental, infraorbital and supraorbital nerves",
+    "Lesser occipital and greater auricular nerves",
+    "Phrenic and supraclavicular nerves",
+    "Ansa cervicalis and transverse cervical nerves"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#6f2508",
+   "kind": "mcq",
+   "stem": "For a superficial cervical plexus block, at which layer is local anaesthetic deposited?",
+   "options": [
+    "Deep to the prevertebral fascia",
+    "Superficial to the deep cervical fascia",
+    "Within the SCM muscle belly",
+    "Between the investing fascia and prevertebral fascia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#62cf8e",
+   "kind": "blank",
+   "stem": "The intermediate cervical plexus block injects between the investing layer of deep cervical fascia and the ____",
+   "answer": "prevertebral fascia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#7501b2",
+   "kind": "mcq",
+   "stem": "For a deep cervical plexus block, where is local anaesthetic deposited?",
+   "options": [
+    "Deep to the prevertebral fascia",
+    "Superficial to the deep cervical fascia",
+    "Between investing and prevertebral fascia",
+    "Subcutaneously behind the SCM"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#bf1d21",
+   "kind": "mcq",
+   "stem": "In the landmark superficial cervical plexus block, where is the first subcutaneous infiltration made?",
+   "options": [
+    "Mastoid tip",
+    "Lateral to the C4 transverse process",
+    "Midpoint of the posterior SCM border",
+    "Mid-clavicle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#01f338",
+   "kind": "mcq",
+   "stem": "In the landmark superficial cervical plexus block fan technique, how far above and below the insertion point do you redirect?",
+   "options": [
+    "4–5 cm",
+    "2–3 cm",
+    "6–8 cm",
+    "10–12 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#650196",
+   "kind": "mcq",
+   "stem": "In the landmark superficial cervical plexus block, how much local anaesthetic goes in at the midpoint?",
+   "options": [
+    "7 ml",
+    "1 ml",
+    "3 ml",
+    "10 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#693414",
+   "kind": "mcq",
+   "stem": "In the landmark superficial cervical plexus block, what volume is given caudad and cephalad along the posterior border?",
+   "options": [
+    "3 ml",
+    "15 ml",
+    "7 ml",
+    "1 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#fe56b2",
+   "kind": "mcq",
+   "stem": "In the landmark superficial cervical plexus block, how deep should the injection stay?",
+   "options": [
+    "Deep to the prevertebral fascia",
+    "Into the SCM muscle belly",
+    "Subcutaneous, no more than 1–2 cm",
+    "Up to 5 cm into the neck"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#55f601",
+   "kind": "mcq",
+   "stem": "What is the total local anaesthetic volume for the landmark superficial cervical plexus block?",
+   "options": [
+    "10–15 mL",
+    "1–2 mL",
+    "20–25 mL",
+    "30–40 mL"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#de90d2",
+   "kind": "mcq",
+   "stem": "Given that no motor block is needed, which ropivacaine concentration suits the landmark superficial cervical plexus block?",
+   "options": [
+    "0.75–1%",
+    "0.2–0.5%",
+    "1.5–2%",
+    "2–3%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#c22669",
+   "kind": "mcq",
+   "stem": "In the ultrasound true superficial cervical plexus block, where is subcutaneous infiltration made?",
+   "options": [
+    "Medial edge of the SCM",
+    "Over the mastoid process",
+    "Lateral edge of the SCM",
+    "Over the clavicular head"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#dc0097",
+   "kind": "mcq",
+   "stem": "Which procedure is an indication for the intermediate cervical plexus block?",
+   "options": [
+    "Hip arthroplasty",
+    "Carotid endarterectomy",
+    "Lumbar discectomy",
+    "Coronary artery bypass"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#f8ac0e",
+   "kind": "statement",
+   "stem": "What advantages does ultrasound give over landmarks for the intermediate cervical plexus block?",
+   "answer": "See the spread in the right plane, avoid going too deep and hitting nearby structures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#32d3f6",
+   "kind": "mcq",
+   "stem": "For the ultrasound intermediate cervical plexus block, local anaesthetic should reach the sensory branches of which nerves?",
+   "options": [
+    "C1, C2 and C3",
+    "C2, C3 and C4",
+    "C5, C6 and C7",
+    "T1, T2 and T3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#4719f0",
+   "kind": "mcq",
+   "stem": "Which needle length is used for the ultrasound intermediate cervical plexus block?",
+   "options": [
+    "25mm",
+    "100mm",
+    "50mm",
+    "150mm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#354346",
+   "kind": "mcq",
+   "stem": "For the ultrasound intermediate cervical plexus block, what volume of local anaesthetic is used?",
+   "options": [
+    "5–15 mL",
+    "1–2 mL",
+    "25–30 mL",
+    "40–50 mL"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#252b57",
+   "kind": "mcq",
+   "stem": "Which local anaesthetic concentration suits the purely sensory intermediate cervical plexus block?",
+   "options": [
+    "Lidocaine 4%",
+    "Bupivacaine 0.75%",
+    "Lidocaine 1%",
+    "Ropivacaine 1.5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#26e9ce",
+   "kind": "statement",
+   "stem": "When injecting an intermediate cervical plexus block under ultrasound, what should you see, and what if spread is poor?",
+   "answer": "Layering out between the SCM and prevertebral fascia; reposition if spread is poor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#85e84b",
+   "kind": "mcq",
+   "stem": "For the intermediate cervical plexus block, if the plexus is not seen, which alternative approach is used?",
+   "options": [
+    "Sub-sternocleidomastoid approach",
+    "Supraclavicular approach",
+    "Retromandibular approach",
+    "Posterior triangle approach"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#5058e4",
+   "kind": "mcq",
+   "stem": "When doing an ultrasound intermediate cervical plexus block, which vessels should you look for?",
+   "options": [
+    "Facial and occipital arteries",
+    "Subclavian and axillary vessels",
+    "Carotid, jugular and vertebral vessels",
+    "Thyroid and cricoid vessels"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#525757",
+   "kind": "statement",
+   "stem": "What does the deep cervical plexus block effectively amount to, and at which roots?",
+   "answer": "A paravertebral block of C2–C4 at the intervertebral foramina",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#aa95d1",
+   "kind": "statement",
+   "stem": "In the landmark deep cervical plexus block, which line is drawn to locate the insertion points?",
+   "answer": "From the mastoid tip to Chassaignac's tubercle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#d04fcb",
+   "kind": "mcq",
+   "stem": "In the landmark deep cervical plexus block, how far caudal to the mastoid is the C4 insertion point?",
+   "options": [
+    "2cm",
+    "4cm",
+    "8cm",
+    "6cm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#d04fcb",
+   "kind": "mcq",
+   "stem": "In the landmark deep cervical plexus block, how far caudal to the mastoid is the C3 insertion point?",
+   "options": [
+    "6cm",
+    "2cm",
+    "3cm",
+    "4cm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#3ce47d",
+   "kind": "statement",
+   "stem": "What injection options are described for the deep cervical plexus block?",
+   "answer": "Single injection at C4, or triple injection at C2, C3 and C4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#b8684b",
+   "kind": "mcq",
+   "stem": "For the deep cervical plexus block, how much local anaesthetic is given per level?",
+   "options": [
+    "10-15 mL",
+    "3-5 mL",
+    "1-2 mL",
+    "20-25 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#e03b96",
+   "kind": "statement",
+   "stem": "In the FRCA landmark deep cervical plexus technique, where is local anaesthetic infiltrated?",
+   "answer": "Lateral to the transverse processes of the second, third and fourth cervical vertebrae, about 2 cm deep",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#a9f41c",
+   "kind": "mcq",
+   "stem": "How do complications of the superficial and intermediate cervical plexus blocks compare with interscalene block?",
+   "options": [
+    "Much higher, with frequent phrenic palsy",
+    "Similar, with serious complications close to zero",
+    "Lower, with no reported nerve injury",
+    "Higher, with frequent intravascular injection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#bde2c1",
+   "kind": "mcq",
+   "stem": "Compared with the superficial cervical plexus block, how do complications of the deep cervical plexus block compare?",
+   "options": [
+    "Lower",
+    "The same",
+    "Higher",
+    "Zero"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/cervical-plexus-block#3e1304",
+   "kind": "mcq",
+   "stem": "What conversion-to-general-anaesthesia rate is quoted for the cervical plexus block?",
+   "options": [
+    "0.5%",
+    "2.5%",
+    "10%",
+    "25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
