@@ -206,4 +206,5 @@ Serum sodium below 135 mEq/L; usually a hypotonic state of excess free water rel
 <!-- related:start (generated) -->
 ## Related
 - [Paediatric fluids and electrolytes](../drugs/paediatric-fluids-and-electrolytes.md)
+- [Hysteroscopic Surgery](../procedures/hysteroscopic-surgery.md)
 <!-- related:end -->

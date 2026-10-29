@@ -167,6 +167,7 @@ Core: prompt lipid emulsion while supporting the circulation (ACLS).
 ## Related
 - [Local Anaesthetics](../drugs/local-anaesthetics.md)
 - [Bupivacaine](../drugs/bupivacaine.md)
+- [High Spinal and Total Spinal Anaesthesia](high-spinal.md)
 - [Levobupivacaine](../drugs/levobupivacaine.md)
 - [Lidocaine](../drugs/lidocaine.md)
 - [Local anaesthetics in children](../drugs/paediatric-local-anaesthetics.md)
@@ -177,6 +178,7 @@ Core: prompt lipid emulsion while supporting the circulation (ACLS).
 - [Caudal Epidural Block](../regional/caudal-epidural-block.md)
 - [Cervical Plexus Block](../regional/cervical-plexus-block.md)
 - [Complications of Neuraxial Blocks](../regional/complications-of-neuraxial-blocks.md)
+- [Failed Regional Anaesthesia](../regional/failed-regional-anaesthesia.md)
 - [Nerve Blocks of the Head and Neck](../regional/head-and-neck-blocks.md)
 - [Intercostal Nerve Block](../regional/intercostal-nerve-block.md)
 - [Interscalene Block](../regional/interscalene-block.md)

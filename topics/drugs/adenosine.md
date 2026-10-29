@@ -64,3 +64,8 @@ Endogenous purine nucleoside that briefly blocks the AV node; used to terminate 
   - Inosine is broken down to hypoxanthine, xanthine and uric acid, excreted renally
   - Some deamination happens in plasma, but more slowly than inside cells
 - Naturally occurring in all cells: adenine (purine base) plus D-ribose (pentose sugar)
+
+<!-- related:start (generated) -->
+## Related
+- [Intracranial Aneurysm Clipping and Coiling](../procedures/intracranial-aneurysm-surgery.md)
+<!-- related:end -->

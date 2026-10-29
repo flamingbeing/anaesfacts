@@ -56,4 +56,5 @@ Plan airway, relaxant, temperature, fluids and pressure care by expected case le
 <!-- related:start (generated) -->
 ## Related
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](total-intravenous-anaesthesia.md)
+- [Free Flap Surgery](free-flap-surgery.md)
 <!-- related:end -->

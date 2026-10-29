@@ -174,5 +174,8 @@ Low-potency anaesthetic and analgesic gas (MAC 105%), with fast onset and offset
 - [Oxygen](oxygen.md)
 - [Paediatric inhalational agents](paediatric-inhalational-agents.md)
 - [Xenon](xenon.md)
+- [Green Anaesthesia and Sustainability](../other/green-anaesthesia.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
+- [Intestinal Obstruction and Laparotomy](../procedures/intestinal-obstruction.md)
+- [IVF Oocyte Retrieval and Embryo Transfer](../procedures/ivf-oocyte-retrieval.md)
 <!-- related:end -->

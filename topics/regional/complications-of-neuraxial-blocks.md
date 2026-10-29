@@ -169,6 +169,7 @@ Complications of spinal and epidural blocks, grouped by cause: needle or cathete
 <!-- related:start (generated) -->
 ## Related
 - [Epidural Anaesthesia](epidural-anaesthesia.md)
+- [High Spinal and Total Spinal Anaesthesia](../crises/high-spinal.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Caudal Epidural Block](caudal-epidural-block.md)
 <!-- related:end -->

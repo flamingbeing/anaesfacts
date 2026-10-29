@@ -126,5 +126,6 @@ Block of the C2–C4 cervical plexus at superficial, intermediate or deep (parav
 - [Interscalene Block](interscalene-block.md)
 - [Carotid Endarterectomy](../procedures/carotid-endarterectomy.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [High Spinal and Total Spinal Anaesthesia](../crises/high-spinal.md)
 - [Nerve Blocks of the Head and Neck](head-and-neck-blocks.md)
 <!-- related:end -->

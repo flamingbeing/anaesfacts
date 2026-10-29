@@ -47,3 +47,8 @@ Risk depends on whether the lesion is uncorrected, corrected or palliated; watch
   - A: Paradoxical emboli
 - Q: Two key intraoperative precautions for a patient with a shunt?
   - A: Avoid pulmonary hypertension and take bubble precautions
+
+<!-- related:start (generated) -->
+## Related
+- [Infective Endocarditis](infective-endocarditis.md)
+<!-- related:end -->

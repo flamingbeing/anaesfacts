@@ -138,6 +138,8 @@ Local anaesthetic placed around nerves after they leave the neuraxis: types, con
 <!-- related:start (generated) -->
 ## Related
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Failed Regional Anaesthesia](failed-regional-anaesthesia.md)
+- [Starting a Case and Preparing for Surgery](../procedures/starting-a-case.md)
 - [Penile Nerve Block](penile-block.md)
 - [Posterior Cutaneous Nerve of the Thigh Block](posterior-femoral-cutaneous-nerve-block.md)
 - [Suprascapular Nerve Block](suprascapular-nerve-block.md)

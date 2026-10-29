@@ -81,5 +81,7 @@ Vascular patients nearly always have coronary disease: assess risk, keep supply 
 
 <!-- related:start (generated) -->
 ## Related
+- [Ischaemic Heart Disease](ischaemic-heart-disease.md)
+- [Hypertension](hypertension.md)
 - [Diabetes Mellitus](diabetes-mellitus.md)
 <!-- related:end -->

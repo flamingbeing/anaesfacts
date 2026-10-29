@@ -96,5 +96,6 @@ Overview of lower limb blocks and the lumbosacral plexus nerve supply to skin, m
 - [Sciatic Nerve Block and Parasacral Sacral Plexus Block](sciatic-nerve-block.md)
 - [Femoral Nerve Block](femoral-nerve-block.md)
 - [PENG Block](peng-block.md)
+- [Hip Surgery](../procedures/hip-surgery.md)
 - [Distal Saphenous Nerve Block](distal-saphenous-nerve-block.md)
 <!-- related:end -->

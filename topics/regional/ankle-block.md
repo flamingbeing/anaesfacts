@@ -97,6 +97,7 @@ Block of the five nerves supplying the foot (two deep, three superficial) for fo
 ## Related
 - [Popliteal Sciatic Block](popliteal-sciatic-block.md)
 - [Adductor Canal Block](adductor-canal-block.md)
+- [Foot and Ankle Surgery](../procedures/foot-and-ankle-surgery.md)
 - [Digital Ring Block and Metacarpal Block](digital-ring-block.md)
 - [Distal Saphenous Nerve Block](distal-saphenous-nerve-block.md)
 - [Sciatic Nerve Block and Parasacral Sacral Plexus Block](sciatic-nerve-block.md)

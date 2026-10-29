@@ -64,6 +64,7 @@ Usually fit patients under GA, 30 degrees head up; reductions bleed more (crossm
 
 <!-- related:start (generated) -->
 ## Related
+- [Free Flap Surgery](free-flap-surgery.md)
 - [PECS and Serratus Anterior Plane Blocks](../regional/pecs-and-serratus-anterior-plane-blocks.md)
 - [Thoracic Paravertebral Block](../regional/thoracic-paravertebral-block.md)
 <!-- related:end -->

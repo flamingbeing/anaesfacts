@@ -55,3 +55,8 @@ Low serum phosphate from intracellular shift, poor intake, bone uptake or renal 
   - A: Severe symptoms or inability to tolerate oral therapy
 - Q: Name a cause from excess skeletal uptake.
   - A: Hungry bone syndrome after parathyroidectomy, or osteoblastic metastases
+
+<!-- related:start (generated) -->
+## Related
+- [Hyperparathyroidism](hyperparathyroidism.md)
+<!-- related:end -->

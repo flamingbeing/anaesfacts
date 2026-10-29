@@ -203,5 +203,7 @@ Neuroanaesthesia for craniotomy: control BP and ICP, protect the brain, give a s
 ## Related
 - [Awake Craniotomy and Deep Brain Stimulation](awake-craniotomy.md)
 - [Endovascular Thrombectomy for Ischaemic Stroke](endovascular-thrombectomy-for-stroke.md)
+- [Intracranial Aneurysm Clipping and Coiling](intracranial-aneurysm-surgery.md)
+- [VP Shunt and Hydrocephalus Surgery](vp-shunt.md)
 - [Nerve Blocks of the Head and Neck](../regional/head-and-neck-blocks.md)
 <!-- related:end -->

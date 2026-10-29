@@ -74,6 +74,7 @@ Block of the two L1 nerves between internal oblique and transversus abdominis ne
 ## Related
 - [Caudal Epidural Block](caudal-epidural-block.md)
 - [Rectus sheath block](rectus-sheath-block.md)
+- [Hernia Repair](../procedures/hernia-repair.md)
 - [Peripheral nerve blocks in children](paeds-peripheral-nerve-blocks.md)
 - [TAP and quadratus lumborum blocks](tap-and-quadratus-lumborum-blocks.md)
 <!-- related:end -->
