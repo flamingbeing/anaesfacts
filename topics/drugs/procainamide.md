@@ -66,5 +66,6 @@ Class Ia antiarrhythmic like quinidine but less vagolytic; side effects (hypoten
 - [Lidocaine](lidocaine.md)
 - [Amiodarone](amiodarone.md)
 - [Antiarrhythmics](antiarrhythmics.md)
+- [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
 - [Disopyramide](disopyramide.md)
 <!-- related:end -->

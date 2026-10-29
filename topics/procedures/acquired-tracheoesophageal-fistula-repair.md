@@ -99,3 +99,8 @@ The main danger is aspiration: avoid positive pressure until the fistula is isol
   - A: Uncontrollable coughing after swallowing, especially fizzy drinks
 - Q: Airway or oesophageal stent first?
   - A: Airway first, so the oesophageal stent cannot compress the airway
+
+<!-- related:start (generated) -->
+## Related
+- [Bronchopleural Fistula Repair](bronchopleural-fistula-repair.md)
+<!-- related:end -->

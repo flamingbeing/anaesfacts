@@ -187,6 +187,8 @@ Cardiac glycoside from the woolly foxglove (Digitalis lanata): slows AV conducti
 - [Amiodarone](amiodarone.md)
 - [Verapamil](verapamil.md)
 - [Beta Blockers](beta-blockers.md)
+- [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
+- [Heart Failure](../comorbidities/heart-failure.md)
 - [Hypokalaemia and potassium replacement](../comorbidities/hypokalaemia.md)
 - [Quinidine](quinidine.md)
 <!-- related:end -->

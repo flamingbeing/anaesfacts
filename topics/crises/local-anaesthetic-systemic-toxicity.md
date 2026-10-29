@@ -185,6 +185,7 @@ Core: prompt lipid emulsion while supporting the circulation (ACLS).
 - [Peripheral Nerve Block Follow-up](../regional/peripheral-nerve-block-follow-up.md)
 - [Peripheral Nerve Block Technique](../regional/peripheral-nerve-block-technique.md)
 - [Peripheral Nerve Blocks Overview](../regional/peripheral-nerve-blocks.md)
+- [Regional anaesthesia review](../regional/regional-anaesthesia-review.md)
 - [Regional Blocks Quick Reference](../regional/regional-blocks-quick-reference.md)
 - [TAP and quadratus lumborum blocks](../regional/tap-and-quadratus-lumborum-blocks.md)
 <!-- related:end -->

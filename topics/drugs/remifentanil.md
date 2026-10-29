@@ -118,5 +118,6 @@ Ultra-short-acting synthetic pure mu agonist (a phenylpiperidine related to fent
 - [Morphine](morphine.md)
 - [Opioids](opioids.md)
 - [Paediatric opioids](paediatric-opioids.md)
+- [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](../procedures/total-intravenous-anaesthesia.md)
 <!-- related:end -->

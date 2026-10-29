@@ -143,6 +143,8 @@ The most commonly used IV induction agent: a phenol (2,6-diisopropylphenol) acti
 - [Inhaled anaesthetics](inhaled-anaesthetics.md)
 - [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
 - [Remifentanil](remifentanil.md)
+- [Accidental Awareness during General Anaesthesia](../other/accidental-awareness.md)
+- [Patient Movement During Anaesthesia](../other/patient-movement-under-anaesthesia.md)
 - [Mechanisms of general anaesthetic action](../physiology/mechanisms-of-general-anaesthetic-action.md)
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](../procedures/total-intravenous-anaesthesia.md)
 <!-- related:end -->

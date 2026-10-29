@@ -79,5 +79,6 @@ Calcium sensitiser: a novel inotrope and inodilator (like milrinone), with effec
 - [Milrinone](milrinone.md)
 - [Dobutamine](dobutamine.md)
 - [Noradrenaline](noradrenaline.md)
+- [Heart Failure](../comorbidities/heart-failure.md)
 - [Enoximone](enoximone.md)
 <!-- related:end -->

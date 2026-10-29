@@ -156,4 +156,5 @@ Working out intraoperative fluid needs: traditional calculation, restrictive (ze
 - [Fluid status](../physiology/fluid-status.md)
 - [Fluid Responsiveness](../physiology/fluid-responsiveness.md)
 - [Intraoperative bleeding and patient blood management](intraoperative-bleeding-and-blood-management.md)
+- [General Anaesthesia](general-anaesthesia.md)
 <!-- related:end -->

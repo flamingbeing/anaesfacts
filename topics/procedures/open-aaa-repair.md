@@ -224,3 +224,9 @@ Highest-risk vascular surgery: manage cross-clamp and unclamp haemodynamics, blo
   - A: Muscle relaxation removes abdominal tamponade and can cause collapse
 - Q: Which clamp level causes the greatest physiological insult?
   - A: Supracoeliac
+
+<!-- related:start (generated) -->
+## Related
+- [Heart Failure](../comorbidities/heart-failure.md)
+- [Aortic Dissection and Thoracic Aortic Aneurysm Repair](aortic-dissection-and-thoracic-aortic-aneurysm.md)
+<!-- related:end -->

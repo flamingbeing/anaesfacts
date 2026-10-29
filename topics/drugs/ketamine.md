@@ -177,9 +177,13 @@ NMDA receptor antagonist giving dissociative anaesthesia and strong analgesia, w
 - [Etomidate](etomidate.md)
 - [Thiopentone](thiopentone.md)
 - [Midazolam](midazolam.md)
+- [Asthma](../comorbidities/asthma.md)
+- [Burns](../comorbidities/burns.md)
+- [Cardiac Tamponade](../comorbidities/cardiac-tamponade.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
 - [Gabapentinoids](gabapentinoids.md)
 - [Induction agents](induction-agents.md)
 - [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
 - [Mechanisms of general anaesthetic action](../physiology/mechanisms-of-general-anaesthetic-action.md)
+- [Lower Limb Arthroscopy](../procedures/knee-arthroscopy.md)
 <!-- related:end -->

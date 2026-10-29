@@ -58,4 +58,5 @@ Intermediate-acting non-depolarising benzylisoquinolinium muscle relaxant, broke
 ## Related
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
+- [Patient Movement During Anaesthesia](../other/patient-movement-under-anaesthesia.md)
 <!-- related:end -->

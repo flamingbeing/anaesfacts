@@ -77,3 +77,8 @@ Isolation theatre with everything prepared, full PPE, and fewer aerosols: avoid 
   - A: Minimise mask ventilation, RSI if the airway looks easy, deep anaesthesia and full paralysis, experienced operator, cuff up before ventilating.
 - Q: Why avoid high-level PPE outside AGPs?
   - A: It impairs communication, breathing, vision and dexterity and causes overheating.
+
+<!-- related:start (generated) -->
+## Related
+- [COVID-19](covid-19.md)
+<!-- related:end -->

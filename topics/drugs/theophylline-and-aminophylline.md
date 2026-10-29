@@ -93,3 +93,9 @@ Methylxanthine bronchodilators with a narrow therapeutic range; less used now be
   - A: CYP1A2; smoking increases clearance
 - Q: What proportion of aminophylline is theophylline?
   - A: 80% (20% ethylenediamine)
+
+<!-- related:start (generated) -->
+## Related
+- [Asthma](../comorbidities/asthma.md)
+- [COPD, Bronchiectasis and Cystic Fibrosis](../comorbidities/copd.md)
+<!-- related:end -->

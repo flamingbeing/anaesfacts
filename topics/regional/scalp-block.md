@@ -111,3 +111,9 @@ Blocks the trigeminal and cervical plexus branches that supply the scalp, by rin
   - A: Two-thirds of the way from the mastoid to the external occipital protuberance on the superior nuchal line, medial to the occipital artery
 - Q: Volume for a greater occipital nerve block?
   - A: 1–3 mL
+
+<!-- related:start (generated) -->
+## Related
+- [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
+- [Regional anaesthesia review](regional-anaesthesia-review.md)
+<!-- related:end -->
