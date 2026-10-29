@@ -77,3 +77,8 @@ Short, highly stimulating day-case surgery (haemorrhoidectomy, perianal fistula)
   - A: Common peroneal nerve; foot drop
 - Q: What should you avoid right after a saddle spinal for anorectal surgery?
   - A: Immediate head-down tilt
+
+<!-- related:start (generated) -->
+## Related
+- [Excision of Lump](excision-of-lump.md)
+<!-- related:end -->

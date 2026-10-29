@@ -232,5 +232,6 @@ Neuraxial is the technique of choice; GA (RSI) for the most urgent cases or when
 
 <!-- related:start (generated) -->
 ## Related
+- [Epidural Anaesthesia](../regional/epidural-anaesthesia.md)
 - [Accidental Awareness during General Anaesthesia](../other/accidental-awareness.md)
 <!-- related:end -->

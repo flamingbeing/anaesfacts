@@ -50,4 +50,5 @@ Blocks the supraclavicular nerve (from the cervical plexus, not the brachial ple
 <!-- related:start (generated) -->
 ## Related
 - [Interscalene Block](interscalene-block.md)
+- [Carotid Endarterectomy](../procedures/carotid-endarterectomy.md)
 <!-- related:end -->

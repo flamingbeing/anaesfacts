@@ -49,3 +49,8 @@ Summary of neuraxial techniques, contraindications and complications.
   - A: Fixed cardiac output (aortic stenosis), sepsis, hypovolaemia (also severe spinal deformity or instrumentation, pre-existing neurological disease)
 - Q: Rare serious complications of neuraxial block?
   - A: Haematoma, abscess, permanent neurological deficit, LAST
+
+<!-- related:start (generated) -->
+## Related
+- [Epidural Anaesthesia](epidural-anaesthesia.md)
+<!-- related:end -->

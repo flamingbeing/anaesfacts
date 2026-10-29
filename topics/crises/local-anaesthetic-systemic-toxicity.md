@@ -172,6 +172,7 @@ Core: prompt lipid emulsion while supporting the circulation (ACLS).
 - [Local anaesthetics in children](../drugs/paediatric-local-anaesthetics.md)
 - [Ropivacaine](../drugs/ropivacaine.md)
 - [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
+- [Cosmetic Surgery](../procedures/cosmetic-surgery.md)
 - [Bier Block (Intravenous Regional Anaesthesia)](../regional/bier-block.md)
 - [Caudal Epidural Block](../regional/caudal-epidural-block.md)
 - [Cervical Plexus Block](../regional/cervical-plexus-block.md)

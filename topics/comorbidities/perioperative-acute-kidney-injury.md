@@ -190,3 +190,8 @@ Who is at risk of AKI around surgery, how anaesthesia affects the kidney, how to
   - A: Urine output < 0.5 ml/kg/h: give 250-500 ml normal saline
 - Q: At what intra-abdominal pressure is intra-abdominal hypertension a renal threat, and the treatment?
   - A: IAP > 20 mmHg; decompressive laparotomy
+
+<!-- related:start (generated) -->
+## Related
+- [Chronic Kidney Disease and Dialysis](chronic-kidney-disease.md)
+<!-- related:end -->

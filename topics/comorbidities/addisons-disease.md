@@ -95,3 +95,9 @@ Loss of adrenal cortex function; give steroid cover throughout the perioperative
   - A: More than 50mg
 - Q: Initial hydrocortisone dose for adrenal crisis?
   - A: 200mg IV, then 100mg four times a day
+
+<!-- related:start (generated) -->
+## Related
+- [Cushing's Syndrome](cushings-syndrome.md)
+- [Conn's Syndrome](conns-syndrome.md)
+<!-- related:end -->

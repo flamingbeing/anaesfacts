@@ -94,6 +94,7 @@ Assess compensation, keep euvolaemic, reduce afterload, induce slowly and suppor
 ## Related
 - [Anaesthesia after Heart Transplant](anaesthesia-after-heart-transplant.md)
 - [Arrhythmias and Long QT Syndrome](arrhythmias.md)
+- [Cardiomyopathy (HOCM, DCM, Restrictive)](cardiomyopathy.md)
 - [Digoxin](../drugs/digoxin.md)
 - [Levosimendan](../drugs/levosimendan.md)
 - [Abdominal Aortic Aneurysm and Open Repair](../procedures/open-aaa-repair.md)

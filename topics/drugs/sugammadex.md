@@ -84,6 +84,7 @@ Modified gamma-cyclodextrin that encapsulates aminosteroid neuromuscular blocker
 - [Neostigmine](neostigmine.md)
 - [Suxamethonium](suxamethonium.md)
 - [Breastfeeding Women](../comorbidities/breastfeeding.md)
+- [Chronic Kidney Disease and Dialysis](../comorbidities/chronic-kidney-disease.md)
 - [Drugs in renal impairment](drugs-in-renal-impairment.md)
 - [Neuromuscular blockers](neuromuscular-blockers.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)

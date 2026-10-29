@@ -52,6 +52,8 @@ Fascial plane block with local anaesthetic deep to the erector spinae muscles on
 <!-- related:start (generated) -->
 ## Related
 - [Interpleural Block](interpleural-block.md)
+- [Rib Fractures and Flail Chest](../comorbidities/rib-fractures-flail-chest.md)
+- [Regional Anaesthesia Equipment](../equipment/regional-anaesthesia-equipment.md)
 - [Intercostal Nerve Block](intercostal-nerve-block.md)
 - [Parasternal Intercostal Plane Blocks](parasternal-intercostal-plane-block.md)
 - [PECS and Serratus Anterior Plane Blocks](pecs-and-serratus-anterior-plane-blocks.md)

@@ -186,4 +186,5 @@ The only depolarising neuromuscular blocker in clinical use: fastest onset and s
 - [Neuromuscular blockers](neuromuscular-blockers.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
+- [Electroconvulsive Therapy](../procedures/electroconvulsive-therapy.md)
 <!-- related:end -->

@@ -146,5 +146,7 @@ The most commonly used IV induction agent: a phenol (2,6-diisopropylphenol) acti
 - [Accidental Awareness during General Anaesthesia](../other/accidental-awareness.md)
 - [Patient Movement During Anaesthesia](../other/patient-movement-under-anaesthesia.md)
 - [Mechanisms of general anaesthetic action](../physiology/mechanisms-of-general-anaesthetic-action.md)
+- [Drug-Induced Sleep Endoscopy (DISE)](../procedures/drug-induced-sleep-endoscopy.md)
+- [Electroconvulsive Therapy](../procedures/electroconvulsive-therapy.md)
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](../procedures/total-intravenous-anaesthesia.md)
 <!-- related:end -->

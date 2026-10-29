@@ -112,3 +112,8 @@ Beating-heart coronary grafting without CPB: haemodynamic instability during gra
   - A: Noradrenaline (alpha agonist), to avoid tachycardia.
 - Q: What is the usual MIDCAB graft?
   - A: A single LIMA to LAD graft.
+
+<!-- related:start (generated) -->
+## Related
+- [Coronary Artery Bypass Grafting (CABG)](cabg.md)
+<!-- related:end -->

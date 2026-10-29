@@ -95,6 +95,7 @@ Epidural analgesia in children: why it is used, anatomy, technique, doses and co
 <!-- related:start (generated) -->
 ## Related
 - [Paediatric Central Neuraxial Blocks](paediatric-central-neuraxial-blocks.md)
+- [Epidural Anaesthesia](epidural-anaesthesia.md)
 - [Bupivacaine](../drugs/bupivacaine.md)
 - [Ropivacaine](../drugs/ropivacaine.md)
 - [Paediatric Spinal Anaesthesia](paediatric-spinal-anaesthesia.md)
