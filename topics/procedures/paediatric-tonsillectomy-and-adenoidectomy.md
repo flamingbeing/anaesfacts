@@ -68,7 +68,7 @@ Shared airway; indication is infection or obstruction/OSA; OSA children need cau
 - Antibiotic: co-amoxiclav (Augmentin)
 - Mouth gag can obstruct, kink or displace the ETT: watch during placement
 - Multimodal analgesia: paracetamol plus opioid
-  - Codeine phosphate 0.5-1 mg/kg IM, morphine 100-150 mcg/kg IV, or fentanyl 1-2 mcg/kg IV
+  - Morphine 100-150 mcg/kg IV, or fentanyl 1-2 mcg/kg IV
   - NSAIDs widely used in the UK despite concern about haemostasis
 - High PONV risk:
   - Ondansetron 100 mcg/kg IV (max 4 mg) and/or dexamethasone 150 mcg/kg IV
@@ -79,7 +79,7 @@ Shared airway; indication is infection or obstruction/OSA; OSA children need cau
 
 ## Postoperative care
 - Encourage oral intake (may be poor from throat pain)
-- Common regimen: paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, codeine phosphate 1 mg/kg oral 4-hourly
+- Common regimen: paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, oral morphine 200-300 mcg/kg 4-hourly
 - Most UK patients stay overnight; day case is growing but needs careful selection, meticulous surgery and close early observation for bleeding
 - Overnight stay recommended for:
   - Age <2-3 years

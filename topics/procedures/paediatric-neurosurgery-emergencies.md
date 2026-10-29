@@ -50,7 +50,7 @@ Emergency paediatric neurosurgery is mostly blocked VP shunts, with fewer head i
 - Analgesia:
   - Paracetamol 15 mg/kg oral 6-hourly
   - Ibuprofen 10 mg/kg oral 6-hourly
-  - Codeine phosphate 1 mg/kg oral 4-hourly if needed
+  - Oral morphine 200-300 mcg/kg 4-hourly if needed
 
 ## Head injury: initial resuscitation
 ### Background

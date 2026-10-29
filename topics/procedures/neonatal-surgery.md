@@ -186,7 +186,7 @@ Common neonatal operations: pyloric stenosis is a medical emergency first; NEC a
 - Lithotomy (as near as possible in a neonate), hips and knees flexed and taped; baby at the far end of the table
 - Caudal single shot for sacral dermatomes: 0.3-0.5 mL/kg 0.25% levobupivacaine or similar
   - Sacrum sometimes abnormal; caudal may not be possible
-- Afterwards oral analgesia: paracetamol 15 mg/kg oral 6-hourly (max 60 mg/kg/day) and codeine phosphate 0.5 mg/kg oral 4-hourly
+- Afterwards oral analgesia: paracetamol 15 mg/kg oral 6-hourly (max 60 mg/kg/day) and oral morphine 200-300 mcg/kg 4-hourly
 
 ### Colostomy
 - Supine
@@ -289,7 +289,7 @@ Common neonatal operations: pyloric stenosis is a medical emergency first; NEC a
 - Tight closure of a large lesion may impair ventilation; Chiari malformation may also affect breathing
 - Neonatal surgical unit with ECG and pulse oximetry
 - Maintenance fluids until feeding
-- Paracetamol 15 mg/kg oral 6-hourly (max 60 mg/kg/day) and codeine phosphate 0.5 mg/kg oral 4-hourly; IV morphine infusion for extensive lesions
+- Paracetamol 15 mg/kg oral 6-hourly (max 60 mg/kg/day) and oral morphine 200-300 mcg/kg 4-hourly; IV morphine infusion for extensive lesions
 
 ## Flashcards
 - Q: When is a baby with pyloric stenosis ready for theatre?

@@ -103,7 +103,7 @@ Anaesthetic considerations for common paediatric general, urological and laparos
 - Usually surgical ward; continue maintenance fluids and antibiotics
 - Analgesia by condition, peritonism and extent of surgery
   - IV morphine infusion or PCA, plus paracetamol and NSAID; or
-  - Oral opioid (codeine phosphate 1 mg/kg 4-hourly) plus paracetamol and NSAID
+  - Oral opioid (oral morphine 200-300 mcg/kg 4-hourly) plus paracetamol and NSAID
 - Some young late-presenting children need HDU: oxygen, more fluid, urine output monitoring
 
 ## Intussusception
@@ -170,7 +170,7 @@ Anaesthetic considerations for common paediatric general, urological and laparos
   - Motor block after caudal now a problem
   - Penile block more reliable than in infants
 - Both blocks can fail; usually obvious during surgery: give opioid so the child does not wake without analgesia
-  - Morphine 100-150 mcg/kg IV, codeine phosphate 0.5-1 mg/kg IM, or fentanyl 2-4 mcg/kg IV
+  - Morphine 100-150 mcg/kg IV or fentanyl 2-4 mcg/kg IV
 - NSAID in all cases unless contraindicated (can be oral after surgery)
 - Lidocaine ointment on the glans at the end as a supplement
 - Bleeding after circumcision (re-exploration for haemostasis): check with the surgeon whether a penile block is acceptable
@@ -239,7 +239,7 @@ Anaesthetic considerations for common paediatric general, urological and laparos
 - Caudal for children up to 20 kg
 - Many also ask for surgical wound infiltration
 - Some older (especially overweight) children need opioid plus antiemetic despite the block
-  - Morphine 100-150 mcg/kg IV, codeine phosphate 0.5-1 mg/kg IM, or fentanyl 2-4 mcg/kg IV
+  - Morphine 100-150 mcg/kg IV or fentanyl 2-4 mcg/kg IV
 - NSAID if no contraindication
 
 ### Hernia: postoperative care
@@ -288,7 +288,7 @@ Anaesthetic considerations for common paediatric general, urological and laparos
 - Unilateral: ilioinguinal block plus surgical scrotal infiltration
 - Bilateral: caudal may be better
 - Testicular sympathetic supply enters the CNS at about T10: even with a good incision block, traction can trigger laryngospasm or vagal bradycardia
-  - Some give opioid plus antiemetic (morphine 100-150 mcg/kg IV, codeine phosphate 0.5-1 mg/kg IM, fentanyl 2-4 mcg/kg IV)
+  - Some give opioid plus antiemetic (morphine 100-150 mcg/kg IV, fentanyl 2-4 mcg/kg IV)
   - Others intubate younger boys
 
 ### Orchidopexy: postoperative care
@@ -340,7 +340,7 @@ Anaesthetic considerations for common paediatric general, urological and laparos
 
 ### Acute scrotum: postoperative care
 - Quick recovery and oral intake; IV maintenance fluids for febrile infants until drinking
-- Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, codeine phosphate 1 mg/kg oral 4-hourly
+- Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, oral morphine 200-300 mcg/kg 4-hourly
 
 ## Hypospadias repair
 - Fairly common (about 1:350 male births); other anomalies rare; renal function usually normal
@@ -371,7 +371,7 @@ Anaesthetic considerations for common paediatric general, urological and laparos
   - Adjuncts to prolong it: clonidine 1-2 mcg/kg or preservative-free ketamine 0.5 mg/kg
 - Penile block if minor and distal
 - NSAID unless contraindicated
-- Mild postoperative sedation helps stop the boy touching dressings or catheter: opioid often given despite a good caudal (morphine 100-150 mcg/kg IV or codeine phosphate 0.5-1 mg/kg IM)
+- Mild postoperative sedation helps stop the boy touching dressings or catheter: opioid often given despite a good caudal (morphine 100-150 mcg/kg IV)
 
 ### Hypospadias: postoperative care
 - Maintenance fluids until drinking well, to keep urine flowing through the catheter

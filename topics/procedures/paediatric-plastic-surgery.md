@@ -59,14 +59,14 @@ Lacerations, otoplasty, cleft lip and palate, craniofacial surgery and free flap
   - LA with adrenaline infiltration (also aids haemostasis)
   - Great auricular nerve block: 2 mL 0.5% bupivacaine with or without adrenaline, injected superficially where a lateral line from the upper border of the cricoid crosses the posterior border of sternocleidomastoid
     - Nerve from the superficial cervical plexus (C3) becomes superficial here, then supplies the external ear and mastoid; useful for otoplasty and mastoid surgery
-  - Opioid (weigh against PONV): morphine 100-150 mcg/kg, fentanyl 2-4 mcg/kg IV, or codeine phosphate 0.5-1 mg/kg IM
+  - Opioid (weigh against PONV): morphine 100-150 mcg/kg, fentanyl 2-4 mcg/kg IV
   - NSAID: diclofenac 1 mg/kg rectal
   - Paracetamol: 15 mg/kg IV or 40 mg/kg rectal
 
 ### Postoperative care
 - Usually straightforward; maintenance fluid until drinking and free of PONV
 - If PONV occurs, use a different antiemetic from the one given in theatre
-- Oral paracetamol, NSAID and opioid (e.g. codeine phosphate 1 mg/kg 4-hourly)
+- Oral paracetamol, NSAID and opioid (e.g. oral morphine 200-300 mcg/kg 4-hourly)
 - CXR after costal cartilage harvest to exclude pneumothorax
 - Low rate of bleeding needing re-exploration
 - Simple otoplasty for prominent ears often a day case
@@ -141,7 +141,7 @@ Lacerations, otoplasty, cleft lip and palate, craniofacial surgery and free flap
   - Awake extubation
 - Analgesia:
   - LA with adrenaline infiltration (mainly for haemostasis)
-  - Opioid: morphine 100-150 mcg/kg, fentanyl 2-4 mcg/kg IV, or codeine phosphate 0.5-1 mg/kg IM
+  - Opioid: morphine 100-150 mcg/kg, fentanyl 2-4 mcg/kg IV
   - NSAID: diclofenac 1 mg/kg rectal
   - Paracetamol 15 mg/kg IV or 40 mg/kg rectal
   - Infraorbital nerve block for cleft lip:
@@ -159,7 +159,7 @@ Lacerations, otoplasty, cleft lip and palate, craniofacial surgery and free flap
   - High-risk children (e.g. severe Pierre Robin) may go to ICU intubated for 24-48 hours until swelling settles
 - Pulse oximetry on air to detect obstruction
 - Maintenance fluid until feeding (usually early)
-- Paracetamol, NSAID and oral codeine phosphate 1 mg/kg 4-hourly; some centres use a low-dose IV morphine infusion in HDU
+- Paracetamol, NSAID and oral morphine 200-300 mcg/kg 4-hourly; some centres use a low-dose IV morphine infusion in HDU
 
 ## Craniofacial surgery
 - Craniosynostosis: premature closure of cranial sutures, causing abnormal bone growth
@@ -219,7 +219,7 @@ Lacerations, otoplasty, cleft lip and palate, craniofacial surgery and free flap
 - Maintenance fluids
 - Bleeding may continue: babies may lose 10% of blood volume into drains or head bandages
   - Regular cardiovascular review and serial FBC; transfuse as indicated
-- Analgesia: paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly (if bleeding is not a concern), codeine phosphate 1 mg/kg oral 4-hourly
+- Analgesia: paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly (if bleeding is not a concern), oral morphine 200-300 mcg/kg 4-hourly
 - Pain scores surprisingly low despite marked swelling and bilateral black eyes
 
 ## Free flap surgery

@@ -50,7 +50,7 @@ Mostly healthy children with forearm, supracondylar or tibial fractures; main ri
 - Tourniquet used for ORIF: minimal blood loss
 - Opioid needed for operations; consider even for simple MUA
   - Surgeon first increases the deformity before reducing it, so a pain-free child in a back slab may wake in pain
-  - Morphine 100-150 mcg/kg IV, fentanyl 2-4 mcg/kg IV, or codeine phosphate 1-1.5 mg/kg IM
+  - Morphine 100-150 mcg/kg IV, fentanyl 2-4 mcg/kg IV
   - If opioid given shortly before surgery, titrate to comfort in recovery instead
   - Add NSAID or paracetamol and an antiemetic
 - Brachial plexus block usually avoided: numbness and motor block confuse postoperative neurological checks
@@ -58,7 +58,7 @@ Mostly healthy children with forearm, supracondylar or tibial fractures; main ri
 
 ### Postoperative care
 - Early eating and drinking
-- Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, codeine phosphate 1 mg/kg oral 4-hourly
+- Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, oral morphine 200-300 mcg/kg 4-hourly
 - After MUA: usually same-day discharge if day surgery criteria are met
 - After long anaesthetics or complex out-of-hours surgery: may stay overnight
 
@@ -96,7 +96,7 @@ Mostly healthy children with forearm, supracondylar or tibial fractures; main ri
 ### Postoperative care
 - If lateral, fracture side up
 - IV maintenance fluids until drinking
-- Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, codeine phosphate 1 mg/kg oral 4-hourly
+- Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, oral morphine 200-300 mcg/kg 4-hourly
 - Not discharged the same day: arm elevated in a sling to reduce swelling; monitor distal nerve and circulation
 
 ## Femoral shaft fractures
@@ -109,7 +109,7 @@ Mostly healthy children with forearm, supracondylar or tibial fractures; main ri
 - Severe pain: treat on arrival and to allow traction
   - Morphine 200 mcg/kg IV, then 50 mcg IV boluses every 5-10 min until comfortable
   - May add femoral nerve block, usually done blind without a nerve stimulator and may fail, so IV morphine comes first
-- Ongoing analgesia for 7-14 days: paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, codeine phosphate 1 mg/kg oral 6-hourly
+- Ongoing analgesia for 7-14 days: paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, oral morphine 200-300 mcg/kg 4-hourly
 - Anaesthesia may be needed for splint fitting, traction adjustment, or manipulation with or without ORIF
 
 ### Preoperative assessment
@@ -163,7 +163,7 @@ Mostly healthy children with forearm, supracondylar or tibial fractures; main ri
 
 ### Postoperative care
 - IV maintenance until drinking
-- Paracetamol 15 mg/kg oral 4-hourly and ibuprofen 10 mg/kg oral 6-hourly; add codeine phosphate 1 mg/kg oral 4-hourly if needed
+- Paracetamol 15 mg/kg oral 4-hourly and ibuprofen 10 mg/kg oral 6-hourly; add oral morphine 200-300 mcg/kg 4-hourly if needed
 - Leave secure venous access for IV antibiotics; infants may need central access
 
 ## Nerve and tendon repairs
@@ -184,7 +184,7 @@ Mostly healthy children with forearm, supracondylar or tibial fractures; main ri
 ### Postoperative care
 - Priority: recovery of function; frequent motor and neurological checks
 - IV maintenance until drinking
-- Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, codeine phosphate 1 mg/kg oral 4-hourly
+- Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, oral morphine 200-300 mcg/kg 4-hourly
 
 ## Replantation after amputation
 - Traumatic amputations are rare in children

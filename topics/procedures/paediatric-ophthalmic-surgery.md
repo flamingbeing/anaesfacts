@@ -74,7 +74,7 @@ Children need GA for eye surgery; key issues are repeated anaesthetics, the ocul
   - Non-depolarising relaxants do not interfere
 - Oculocardiac reflex: traction on extraocular muscles causes vagal bradycardia; prevent with atropine 20 mcg/kg or glycopyrronium 10 mcg/kg
 - Analgesia: topical tetracaine, NSAID, paracetamol
-  - Fentanyl 1-2 mcg/kg IV or codeine 1 mg/kg IM add analgesia and sedation but increase PONV
+  - Fentanyl 1-2 mcg/kg IV adds analgesia and sedation but increases PONV
 - PONV is common (50-75%)
   - Use two antiemetics with different actions, e.g. ondansetron 100 mcg/kg (max 4 mg) and dexamethasone 100-200 mcg/kg
   - Combinations can cut PONV to about 5%
@@ -111,8 +111,8 @@ Children need GA for eye surgery; key issues are repeated anaesthetics, the ocul
 - Remifentanil 0.1-0.25 mcg/kg/minute lowers volatile needs and smooths emergence; TIVA often used in older children
 - Avoid high FiO2 in premature neonates
 - Two antiemetics to limit vomiting-related IOP rises, e.g. ondansetron 100 mcg/kg and dexamethasone 100-200 mcg/kg
-- Analgesia: tetracaine drops, NSAID, paracetamol; opioid for analgesia and mild sedation, e.g. fentanyl 1-2 mcg/kg IV or codeine 0.5-1 mg/kg IM
-- Postoperative: early oral intake; paracetamol, NSAID and oral opioid, e.g. codeine 1 mg/kg 4-hourly; rescue cyclizine 1 mg/kg IV; keep the cannula; mostly day cases
+- Analgesia: tetracaine drops, NSAID, paracetamol; opioid for analgesia and mild sedation, e.g. fentanyl 1-2 mcg/kg IV
+- Postoperative: early oral intake; paracetamol, NSAID and oral opioid, e.g. oral morphine 200-300 mcg/kg 4-hourly; rescue cyclizine 1 mg/kg IV; keep the cannula; mostly day cases
 - Manage any syndrome needs, e.g. respiratory support in Pompe disease
 
 ## Glaucoma
@@ -143,9 +143,9 @@ Children need GA for eye surgery; key issues are repeated anaesthetics, the ocul
 - Intubation (south-facing RAE ETT) and IPPV to avoid hypercapnia
 - Volatile in oxygen and air; avoid nitrous oxide (PONV); remifentanil 0.1-0.25 mcg/kg/min; TIVA in older children
 - Two antiemetics, e.g. ondansetron 100 mcg/kg (max 4 mg) and dexamethasone 100-200 mcg/kg
-- Analgesia: tetracaine drops, NSAID, paracetamol; fentanyl 1-2 mcg/kg IV or codeine 0.5-1 mg/kg IM
+- Analgesia: tetracaine drops, NSAID, paracetamol; fentanyl 1-2 mcg/kg IV
 - Extubate without coughing or straining
-- Postoperative: early oral intake; paracetamol, NSAID and oral opioid (e.g. codeine 1 mg/kg 4-hourly); more painful than most paediatric eye surgery
+- Postoperative: early oral intake; paracetamol, NSAID and oral opioid (e.g. oral morphine 200-300 mcg/kg 4-hourly); more painful than most paediatric eye surgery
 
 ## Retinoblastoma
 - Treatments: IV, periocular, intravitreal or intra-arterial chemotherapy; radiotherapy; focal therapy; enucleation
@@ -200,7 +200,7 @@ Children need GA for eye surgery; key issues are repeated anaesthetics, the ocul
   - Smooth emergence and extubation to avoid IOP rises
 - Postoperative
   - IV fluids until drinking without PONV; cyclizine 1 mg/kg IV as rescue
-  - Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, codeine 1 mg/kg oral 4-hourly; topical NSAID drops
+  - Paracetamol 15 mg/kg oral 4-hourly, ibuprofen 10 mg/kg oral 6-hourly, oral morphine 200-300 mcg/kg 4-hourly; topical NSAID drops
   - Pain usually not a big problem
   - Overnight stay common after long or out-of-hours surgery, or if more eye drops are needed
 

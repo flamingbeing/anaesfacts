@@ -130,7 +130,7 @@ Shared-airway surgery in often anxious children; usually nasal intubation, throa
 ## Dental abscess: postoperative care
 - Swelling and pain settle quickly; oral intake usually resumes
 - Paracetamol 15 mg/kg oral 4-hourly and ibuprofen 10 mg/kg oral 6-hourly usually suffice
-- Codeine phosphate 1 mg/kg oral 4-hourly if needed
+- Oral morphine 200-300 mcg/kg 4-hourly if needed
 - May stay 24 hours for further IV antibiotics before switching to oral
 
 ## Flashcards

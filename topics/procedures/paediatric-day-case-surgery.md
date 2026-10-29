@@ -80,12 +80,12 @@ Children suit day surgery (target 50-70% of elective cases); select by patient, 
   - Paracetamol: oral load 20 mg/kg preoperatively, or rectal 30-40 mg/kg after induction
   - IV paracetamol 15 mg/kg may be better than rectal (erratic absorption)
   - NSAIDs: ibuprofen 5-10 mg/kg or diclofenac 1 mg/kg, oral preoperatively or rectal/IV after induction
-- Single perioperative opioid doses useful in some cases: fentanyl 1-2 mcg/kg or codeine phosphate 1 mg/kg
+- Single perioperative opioid doses useful in some cases: fentanyl 1-2 mcg/kg or morphine 100-150 mcg/kg IV
   - Procedures needing repeated opioid doses are not suitable for day surgery
 
 ## Postoperative care
 - Home analgesia mainly paracetamol and NSAIDs
-- For some procedures, 3 or 4 doses of a weak opioid (e.g. codeine phosphate) may be supplied for parents to give, with written advice
+- For some procedures, 3 or 4 doses of an oral opioid (e.g. oral morphine; not codeine in children) may be supplied for parents to give, with written advice
 
 ## Discharge criteria
 - Airway reflexes intact; no respiratory distress or stridor
