@@ -11,11 +11,15 @@ unless the owner asked for that content to be published (neutral pointers like "
 ## Rules that bite
 
 - **Only the owner verifies.** Never set `status: verified` or `verified_on` yourself, except when importing text the
-  owner has already confirmed is the owner's own verified wording. Everything else you add is `status: draft`.
-- **Own words only.** No pasted text from textbooks, journals, guidelines or websites (copyright), even reworded
-  closely; cite the source in `sources` instead. No images unless the owner made them.
-- **No hospital-internal material**: local protocols, phone numbers, ward names, colleagues, cases.
-- Keep the owner's wording as written in verified entries; fix nothing without asking. Labels you add for context go in
+  owner has already vetted (the owner's notes count as vetted, owner 29 Oct 2026). Everything else is `status: draft`.
+- **No copied wording.** No pasted text from textbooks, journals, guidelines or websites (copyright): restate it in
+  fresh short wording, not a close paraphrase; cite the source in `sources` if useful. No images unless the owner made them.
+- **Numbers are kept exactly.** When importing from the owner's notes, every number in the note appears in the topic.
+- **Style** (owner, 29 Oct 2026; reference `topics/drugs/dobutamine.md`): one-line summary under the title, short
+  plain bullets, no up/down arrows (write "increases", "falls"), section titles written out (Administration, not Admin).
+  Drugs use, in order and skipping empty ones: Presentation, Administration, Dosage, Mechanism of action, Effects,
+  Adverse effects, Contraindications, Indications, Pharmacokinetics. Other topics take sections from their content.
+- After import, keep verified entries as they are; change them only when the owner asks. Labels you add for context go in
   square brackets, e.g. `[Infusion]`.
 - One topic per file, `topics/<area>/<kebab-case>.md`. Rebuild `index.json` (`node tools/build-index.mjs`) after
   any change; the check fails if it is stale.

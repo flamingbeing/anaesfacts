@@ -19,7 +19,7 @@ tags: [inotrope]
 ---
 ```
 
-- **verified**: written or checked by the owner, in the owner's own words. Apps may show these.
+- **verified**: written or vetted by the owner. Apps may show these.
 - **draft**: proposed by an app or a session, not yet checked. Apps must not show drafts as fact.
 
 `index.json` lists every entry (path, title, area, status, verified date). Rebuild it with `node tools/build-index.mjs`.
@@ -33,7 +33,7 @@ topic file). Filter on `status: verified`. Pin a commit instead of `@main` if th
 ## Adding to it
 
 Open a PR that adds or edits a topic file with `status: draft`. Only the owner changes a status to `verified`.
-Own words only: no pasted textbook, journal or guideline text (link the source instead), no images you do not own,
+No copied wording: no pasted textbook, journal or guideline text (link the source instead), no images you do not own,
 and nothing about patients, colleagues or hospital-internal protocols.
 
 Not medical advice; for teaching and the owner's own reference.
