@@ -70,6 +70,8 @@ Aminosteroid non-depolarising muscle relaxant with rapid onset due to low potenc
 
 <!-- related:start (generated) -->
 ## Related
+- [Sugammadex](sugammadex.md)
+- [Suxamethonium](suxamethonium.md)
 - [Neostigmine](neostigmine.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)
 - [Neuromuscular blockers](neuromuscular-blockers.md)

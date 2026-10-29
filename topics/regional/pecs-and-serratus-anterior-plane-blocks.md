@@ -120,4 +120,6 @@ Chest wall fascial plane blocks (now called interpectoral and pectoserratus plan
 <!-- related:start (generated) -->
 ## Related
 - [Thoracic Paravertebral Block](thoracic-paravertebral-block.md)
+- [Erector Spinae Plane Block](erector-spinae-plane-block.md)
+- [Intercostal Nerve Block](intercostal-nerve-block.md)
 <!-- related:end -->

@@ -191,4 +191,5 @@ How renal impairment and dialysis change drug handling, which anaesthetic and an
 <!-- related:start (generated) -->
 ## Related
 - [Drugs in liver impairment](drugs-in-liver-impairment.md)
+- [Sugammadex](sugammadex.md)
 <!-- related:end -->

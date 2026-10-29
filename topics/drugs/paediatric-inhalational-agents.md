@@ -84,5 +84,8 @@ Children need more volatile (MAC peaks around 6 months) and induce and wake fast
 
 <!-- related:start (generated) -->
 ## Related
+- [Sevoflurane](sevoflurane.md)
+- [Desflurane](desflurane.md)
+- [Isoflurane](isoflurane.md)
 - [Nitrous oxide](nitrous-oxide.md)
 <!-- related:end -->

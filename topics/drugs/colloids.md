@@ -191,3 +191,8 @@ IV fluids with large solute molecules that stay mainly in plasma and hold water 
 | Dextran 40 | 200 | 4 | 1 in 366 | Coagulopathy, renal impairment |
 | Dextran 70 | 140 | 6 | | |
 | Hetastarch | 100 | 24 | 1 in 1724 | Itch, coagulopathy, renal impairment |
+
+<!-- related:start (generated) -->
+## Related
+- [Types of Fluid Replacement](types-of-fluid-replacement.md)
+<!-- related:end -->

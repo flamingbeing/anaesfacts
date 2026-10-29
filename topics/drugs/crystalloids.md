@@ -133,6 +133,7 @@ Solutions of salts or sugars whose small molecules pass freely from plasma into 
 <!-- related:start (generated) -->
 ## Related
 - [Paediatric fluids and electrolytes](paediatric-fluids-and-electrolytes.md)
+- [Types of Fluid Replacement](types-of-fluid-replacement.md)
 - [Fluid Responsiveness](../physiology/fluid-responsiveness.md)
 - [Fluid terminology and chemistry](../physiology/fluid-terminology-and-chemistry.md)
 <!-- related:end -->

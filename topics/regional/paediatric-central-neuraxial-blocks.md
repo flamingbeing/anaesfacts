@@ -112,6 +112,7 @@ Principles, local anaesthetic pharmacology and toxicity management for spinal, e
 
 <!-- related:start (generated) -->
 ## Related
+- [Caudal Epidural Block](caudal-epidural-block.md)
 - [Paediatric Epidural Blockade](paediatric-epidural.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Levobupivacaine](../drugs/levobupivacaine.md)

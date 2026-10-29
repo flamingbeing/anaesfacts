@@ -54,3 +54,8 @@ Platelets for low counts or poor function; targets depend on bleeding, brain inj
   - A: 22ºC on an agitator, use within 5 days
 - Q: Expected rise from single-donor apheresis platelets?
   - A: 40-60,000/mm3
+
+<!-- related:start (generated) -->
+## Related
+- [Blood Groups and Blood Components](../physiology/blood-groups.md)
+<!-- related:end -->

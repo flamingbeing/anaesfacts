@@ -100,6 +100,7 @@ Drugs that support blood pressure and flow in critically ill patients; overview 
 <!-- related:start (generated) -->
 ## Related
 - [Noradrenaline](noradrenaline.md)
+- [Vasopressin](vasopressin.md)
 - [Dobutamine](dobutamine.md)
 - [Adrenaline (Epinephrine)](adrenaline.md)
 - [Milrinone](milrinone.md)

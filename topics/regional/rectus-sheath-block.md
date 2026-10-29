@@ -57,6 +57,7 @@ Local anaesthetic on the posterior rectus sheath blocks the terminal intercostal
 <!-- related:start (generated) -->
 ## Related
 - [TAP and quadratus lumborum blocks](tap-and-quadratus-lumborum-blocks.md)
+- [Ilioinguinal and Iliohypogastric Nerve Block](ilioinguinal-iliohypogastric-block.md)
 - [Peripheral nerve blocks in children](paeds-peripheral-nerve-blocks.md)
 - [Peripheral nerve block catheters](peripheral-nerve-block-catheters.md)
 <!-- related:end -->

@@ -237,6 +237,36 @@
   ]
  },
  {
+  "path": "topics/comorbidities/hyponatraemia.md",
+  "title": "Hyponatraemia and Hypertonic Saline",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "electrolytes",
+   "sodium",
+   "icu",
+   "neurosurgery"
+  ],
+  "aliases": [
+   "hyponatremia",
+   "low sodium",
+   "hypertonic saline",
+   "3% saline",
+   "3% NaCl",
+   "osmotic demyelination",
+   "central pontine myelinolysis",
+   "pseudohyponatraemia"
+  ],
+  "related": [
+   "comorbidities/siadh",
+   "comorbidities/cerebral-salt-wasting",
+   "comorbidities/hypernatraemia",
+   "physiology/osmolarity-and-osmolality",
+   "comorbidities/diabetes-insipidus-siadh-cerebral-salt-wasting"
+  ]
+ },
+ {
   "path": "topics/comorbidities/hypophosphataemia.md",
   "title": "Hypophosphataemia",
   "area": "comorbidities",
@@ -809,6 +839,31 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/desflurane.md",
+  "title": "Desflurane",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "volatile",
+   "inhalational-anaesthetic",
+   "greenhouse-gas",
+   "day-surgery"
+  ],
+  "aliases": [
+   "des",
+   "Suprane",
+   "volatile anaesthetic"
+  ],
+  "related": [
+   "drugs/sevoflurane",
+   "drugs/isoflurane",
+   "drugs/volatile-anaesthetics-overview",
+   "equipment/vaporisers",
+   "drugs/nitrous-oxide"
+  ]
  },
  {
   "path": "topics/drugs/dexmedetomidine.md",
@@ -1444,6 +1499,29 @@
    "physiology/inhaled-anaesthetic-kinetics",
    "crises/malignant-hyperthermia",
    "drugs/propofol"
+  ]
+ },
+ {
+  "path": "topics/drugs/isoflurane.md",
+  "title": "Isoflurane",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "volatile",
+   "inhalational anaesthetic"
+  ],
+  "aliases": [
+   "iso",
+   "Forane",
+   "AErrane"
+  ],
+  "related": [
+   "drugs/sevoflurane",
+   "drugs/desflurane",
+   "drugs/enflurane",
+   "physiology/minimum-alveolar-concentration",
+   "equipment/carbon-dioxide-absorbents"
   ]
  },
  {
@@ -2622,6 +2700,34 @@
   ]
  },
  {
+  "path": "topics/drugs/pulmonary-vasodilators.md",
+  "title": "Pulmonary Vasodilators",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "pulmonary hypertension",
+   "vasodilator",
+   "overview"
+  ],
+  "aliases": [
+   "pulmonary hypertension drugs",
+   "iNO",
+   "inhaled nitric oxide",
+   "prostacyclin",
+   "epoprostenol",
+   "sildenafil",
+   "bosentan"
+  ],
+  "related": [
+   "drugs/nitric-oxide",
+   "drugs/epoprostenol",
+   "drugs/sildenafil",
+   "drugs/endothelin-receptor-antagonists",
+   "comorbidities/pulmonary-hypertension"
+  ]
+ },
+ {
   "path": "topics/drugs/pyridostigmine.md",
   "title": "Pyridostigmine",
   "area": "drugs",
@@ -2773,6 +2879,32 @@
   ]
  },
  {
+  "path": "topics/drugs/sevoflurane.md",
+  "title": "Sevoflurane",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "volatile",
+   "inhalational anaesthetic",
+   "compound a"
+  ],
+  "aliases": [
+   "sevo",
+   "Sevorane",
+   "Sedaconda",
+   "Anaconda",
+   "AnaConDa"
+  ],
+  "related": [
+   "drugs/isoflurane",
+   "drugs/desflurane",
+   "drugs/halothane",
+   "physiology/minimum-alveolar-concentration",
+   "equipment/carbon-dioxide-absorbents"
+  ]
+ },
+ {
   "path": "topics/drugs/sildenafil.md",
   "title": "Sildenafil",
   "area": "drugs",
@@ -2836,6 +2968,57 @@
   "related": []
  },
  {
+  "path": "topics/drugs/sugammadex.md",
+  "title": "Sugammadex",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "reversal agent",
+   "neuromuscular blockade",
+   "cyclodextrin"
+  ],
+  "aliases": [
+   "Bridion",
+   "SRBA",
+   "selective relaxant binding agent",
+   "cyclodextrin"
+  ],
+  "related": [
+   "drugs/rocuronium",
+   "drugs/vecuronium",
+   "drugs/neostigmine",
+   "drugs/suxamethonium"
+  ]
+ },
+ {
+  "path": "topics/drugs/suxamethonium.md",
+  "title": "Suxamethonium",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuromuscular blocker",
+   "depolarising",
+   "rsi",
+   "pseudocholinesterase"
+  ],
+  "aliases": [
+   "succinylcholine",
+   "sux",
+   "scoline",
+   "diacetylcholine",
+   "depolarising muscle relaxant"
+  ],
+  "related": [
+   "drugs/rocuronium",
+   "drugs/neostigmine",
+   "drugs/sugammadex",
+   "crises/malignant-hyperthermia",
+   "airway/laryngospasm"
+  ]
+ },
+ {
   "path": "topics/drugs/sympathetic-drugs.md",
   "title": "Sympathetic Drugs",
   "area": "drugs",
@@ -2872,6 +3055,56 @@
   ]
  },
  {
+  "path": "topics/drugs/terlipressin.md",
+  "title": "Terlipressin",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vasopressor",
+   "vasopressin-analogue",
+   "septic-shock",
+   "varices"
+  ],
+  "aliases": [
+   "triglycyl-lysine vasopressin",
+   "Glypressin"
+  ],
+  "related": [
+   "drugs/vasopressin",
+   "drugs/noradrenaline",
+   "comorbidities/hepatorenal-syndrome",
+   "comorbidities/oesophageal-varices"
+  ]
+ },
+ {
+  "path": "topics/drugs/theophylline-and-aminophylline.md",
+  "title": "Theophylline and Aminophylline",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "bronchodilator",
+   "xanthine",
+   "phosphodiesterase inhibitor",
+   "asthma"
+  ],
+  "aliases": [
+   "xanthines",
+   "methylxanthines",
+   "theophylline",
+   "aminophylline",
+   "Nuelin",
+   "Neulin"
+  ],
+  "related": [
+   "drugs/salbutamol",
+   "drugs/caffeine",
+   "comorbidities/asthma",
+   "comorbidities/copd"
+  ]
+ },
+ {
   "path": "topics/drugs/thiopentone.md",
   "title": "Thiopentone",
   "area": "drugs",
@@ -2884,6 +3117,36 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/topical-cutaneous-anaesthesia.md",
+  "title": "Topical Cutaneous Anaesthesia",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "topical",
+   "paediatrics",
+   "cannulation"
+  ],
+  "aliases": [
+   "EMLA",
+   "eutectic mixture of local anaesthetic",
+   "Ametop",
+   "amethocaine cream",
+   "tetracaine cream",
+   "ethyl chloride",
+   "numbing cream",
+   "cold spray"
+  ],
+  "related": [
+   "drugs/prilocaine",
+   "drugs/amethocaine",
+   "drugs/local-anaesthetics-overview",
+   "procedures/paediatric-preoperative-anxiety",
+   "comorbidities/methaemoglobinaemia"
+  ]
  },
  {
   "path": "topics/drugs/tramadol.md",
@@ -2906,6 +3169,118 @@
    "drugs/tapentadol",
    "drugs/naloxone",
    "comorbidities/serotonin-syndrome"
+  ]
+ },
+ {
+  "path": "topics/drugs/transfusion-reactions.md",
+  "title": "Transfusion Complications and Reactions",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "transfusion",
+   "blood products",
+   "massive transfusion",
+   "haematology"
+  ],
+  "aliases": [
+   "transfusion reaction",
+   "TRALI",
+   "TACO",
+   "AHTR",
+   "FNHTR",
+   "TA-GVHD",
+   "massive transfusion complications"
+  ],
+  "related": [
+   "physiology/blood-groups",
+   "drugs/massive-transfusion",
+   "crises/anaphylaxis",
+   "comorbidities/hyperkalaemia"
+  ]
+ },
+ {
+  "path": "topics/drugs/tricyclic-antidepressants.md",
+  "title": "Tricyclic Antidepressants",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antidepressant",
+   "chronic-pain",
+   "neuropathic-pain",
+   "overdose",
+   "drug-interactions"
+  ],
+  "aliases": [
+   "TCA",
+   "TCAs",
+   "tricyclics",
+   "amitriptyline",
+   "nortriptyline",
+   "imipramine",
+   "clomipramine",
+   "desipramine",
+   "dothiepin"
+  ],
+  "related": [
+   "drugs/monoamine-oxidase-inhibitors",
+   "drugs/ssris",
+   "drugs/antidepressants-overview",
+   "crises/tca-overdose",
+   "drugs/sodium-bicarbonate"
+  ]
+ },
+ {
+  "path": "topics/drugs/types-of-fluid-replacement.md",
+  "title": "Types of Fluid Replacement",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "fluids",
+   "crystalloid",
+   "colloid",
+   "transfusion"
+  ],
+  "aliases": [
+   "fluid replacement",
+   "crystalloid vs colloid",
+   "IV fluids",
+   "volume replacement"
+  ],
+  "related": [
+   "drugs/crystalloids",
+   "drugs/colloids",
+   "drugs/sodium-bicarbonate",
+   "drugs/blood-products",
+   "physiology/water-and-electrolytes"
+  ]
+ },
+ {
+  "path": "topics/drugs/vasopressin.md",
+  "title": "Vasopressin",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vasopressor",
+   "hormone",
+   "septic-shock",
+   "v1-v2-receptors"
+  ],
+  "aliases": [
+   "antidiuretic hormone",
+   "ADH",
+   "arginine vasopressin",
+   "AVP"
+  ],
+  "related": [
+   "drugs/terlipressin",
+   "drugs/desmopressin",
+   "drugs/noradrenaline",
+   "drugs/vaptans",
+   "physiology/posterior-pituitary"
   ]
  },
  {
@@ -2948,6 +3323,28 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/drugs/xenon.md",
+  "title": "Xenon",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "inhalational",
+   "anaesthetic-gas",
+   "noble-gas"
+  ],
+  "aliases": [
+   "Xe",
+   "xenon anaesthesia"
+  ],
+  "related": [
+   "drugs/nitrous-oxide",
+   "drugs/desflurane",
+   "drugs/volatile-anaesthetics-overview",
+   "drugs/sevoflurane"
+  ]
  },
  {
   "path": "topics/equipment/fluid-warmers-and-rapid-infusers.md",
@@ -3061,6 +3458,34 @@
   ],
   "aliases": [],
   "related": []
+ },
+ {
+  "path": "topics/physiology/blood-groups.md",
+  "title": "Blood Groups and Blood Components",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "transfusion",
+   "blood groups",
+   "haematology",
+   "blood products"
+  ],
+  "aliases": [
+   "blood types",
+   "ABO",
+   "Rhesus",
+   "RhD",
+   "Bombay phenotype",
+   "universal donor",
+   "blood components"
+  ],
+  "related": [
+   "drugs/transfusion-reactions",
+   "drugs/red-cell-transfusion",
+   "drugs/platelet-transfusion",
+   "drugs/ffp-and-cryoprecipitate"
+  ]
  },
  {
   "path": "topics/physiology/body-fluid-compartments.md",
@@ -3390,6 +3815,35 @@
   ]
  },
  {
+  "path": "topics/procedures/interventional-pain-management.md",
+  "title": "Interventional Pain Management",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "chronic-pain",
+   "radiofrequency",
+   "anticoagulation",
+   "sympathetic-block"
+  ],
+  "aliases": [
+   "pain interventions",
+   "radiofrequency ablation",
+   "RFA",
+   "pulsed RF",
+   "stellate ganglion block",
+   "SGB",
+   "ASRA interventional pain anticoagulation"
+  ],
+  "related": [
+   "regional/neuraxial-anticoagulation",
+   "procedures/spinal-cord-stimulator",
+   "regional/motor-sparing-knee-blocks",
+   "regional/bier-block",
+   "drugs/clopidogrel"
+  ]
+ },
+ {
   "path": "topics/procedures/intraoperative-analgesia.md",
   "title": "Intraoperative analgesia and nociception monitoring",
   "area": "procedures",
@@ -3632,6 +4086,506 @@
   ]
  },
  {
+  "path": "topics/regional/adductor-canal-block.md",
+  "title": "Adductor Canal Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower-limb",
+   "saphenous-nerve",
+   "knee",
+   "ultrasound"
+  ],
+  "aliases": [
+   "ACB",
+   "saphenous nerve block",
+   "subsartorial block",
+   "transsartorial saphenous block"
+  ],
+  "related": [
+   "regional/distal-saphenous-nerve-block",
+   "regional/femoral-nerve-block",
+   "regional/lower-limb-blocks",
+   "regional/sciatic-nerve-block",
+   "regional/obturator-nerve-block"
+  ]
+ },
+ {
+  "path": "topics/regional/ankle-block.md",
+  "title": "Ankle Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower limb",
+   "foot",
+   "peripheral nerve block"
+  ],
+  "aliases": [
+   "ankle nerve block",
+   "tibial nerve block",
+   "deep peroneal nerve block",
+   "superficial peroneal nerve block",
+   "sural nerve block"
+  ],
+  "related": [
+   "regional/saphenous-nerve-block",
+   "regional/popliteal-sciatic-block",
+   "regional/adductor-canal-block",
+   "procedures/foot-and-ankle-surgery"
+  ]
+ },
+ {
+  "path": "topics/regional/axillary-block.md",
+  "title": "Axillary Brachial Plexus Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "upper-limb",
+   "brachial-plexus",
+   "ultrasound"
+  ],
+  "aliases": [
+   "axillary block",
+   "axillary brachial plexus block",
+   "axillary PNB"
+  ],
+  "related": [
+   "regional/intercostobrachial-nerve-block",
+   "regional/infraclavicular-block",
+   "regional/supraclavicular-block",
+   "regional/interscalene-block",
+   "regional/lateral-and-medial-antebrachial-cutaneous-nerve-block"
+  ]
+ },
+ {
+  "path": "topics/regional/bier-block.md",
+  "title": "Bier Block (Intravenous Regional Anaesthesia)",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "upper-limb",
+   "lower-limb",
+   "tourniquet",
+   "local-anaesthetic",
+   "crps"
+  ],
+  "aliases": [
+   "Bier block",
+   "IVRA",
+   "intravenous regional anaesthesia",
+   "intravenous regional anesthesia"
+  ],
+  "related": [
+   "drugs/lidocaine",
+   "drugs/prilocaine",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "equipment/tourniquet",
+   "regional/brachial-plexus-blocks-introduction"
+  ]
+ },
+ {
+  "path": "topics/regional/brachial-plexus-blocks-introduction.md",
+  "title": "Brachial Plexus Blocks Introduction",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "upper-limb",
+   "peripheral-nerve-block",
+   "brachial-plexus",
+   "anatomy"
+  ],
+  "aliases": [
+   "brachial plexus block",
+   "upper limb blocks",
+   "BPB",
+   "interscalene",
+   "supraclavicular",
+   "infraclavicular",
+   "axillary block",
+   "superior trunk block"
+  ],
+  "related": [
+   "regional/interscalene-block",
+   "regional/supraclavicular-block",
+   "regional/infraclavicular-block",
+   "regional/axillary-block",
+   "physiology/brachial-plexus-anatomy"
+  ]
+ },
+ {
+  "path": "topics/regional/caudal-epidural-block.md",
+  "title": "Caudal Epidural Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neuraxial",
+   "epidural",
+   "regional"
+  ],
+  "aliases": [
+   "caudal block",
+   "caudal",
+   "paediatric caudal",
+   "caudal epidural",
+   "caudal catheter"
+  ],
+  "related": [
+   "regional/neuraxial-blockade-overview",
+   "regional/complications-of-neuraxial-blocks",
+   "regional/ilioinguinal-iliohypogastric-block",
+   "drugs/clonidine",
+   "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
+  "path": "topics/regional/central-neuraxial-blocks.md",
+  "title": "Central Neuraxial Blocks",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuraxial",
+   "spinal",
+   "epidural"
+  ],
+  "aliases": [
+   "CNB",
+   "neuraxial anaesthesia",
+   "neuraxial block"
+  ],
+  "related": [
+   "regional/spinal-anaesthesia",
+   "regional/epidural-anaesthesia",
+   "regional/combined-spinal-epidural",
+   "regional/caudal-block",
+   "crises/high-spinal"
+  ]
+ },
+ {
+  "path": "topics/regional/cervical-plexus-block.md",
+  "title": "Cervical Plexus Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "head-and-neck",
+   "cervical-plexus",
+   "ultrasound",
+   "landmark"
+  ],
+  "aliases": [
+   "superficial cervical plexus block",
+   "intermediate cervical plexus block",
+   "deep cervical plexus block",
+   "SCPB",
+   "DCPB"
+  ],
+  "related": [
+   "physiology/cervical-plexus-anatomy",
+   "regional/interscalene-block",
+   "procedures/carotid-endarterectomy",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "crises/high-spinal"
+  ]
+ },
+ {
+  "path": "topics/regional/complications-of-neuraxial-blocks.md",
+  "title": "Complications of Neuraxial Blocks",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuraxial",
+   "spinal",
+   "epidural",
+   "complications"
+  ],
+  "aliases": [
+   "CNB complications",
+   "spinal complications",
+   "epidural complications",
+   "neuraxial complications",
+   "subdural block"
+  ],
+  "related": [
+   "regional/neuraxial-blockade-overview",
+   "regional/spinal-anaesthesia",
+   "regional/epidural-anaesthesia",
+   "regional/high-spinal",
+   "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
+  "path": "topics/regional/digital-ring-block.md",
+  "title": "Digital Ring Block and Metacarpal Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "hand",
+   "upper-limb",
+   "regional",
+   "local-anaesthetic"
+  ],
+  "aliases": [
+   "digital block",
+   "ring block",
+   "metacarpal block",
+   "metatarsal block",
+   "finger block",
+   "toe block"
+  ],
+  "related": [
+   "regional/local-infiltration-and-field-block",
+   "regional/wrist-block",
+   "regional/ankle-block",
+   "regional/peripheral-nerve-blockade-overview"
+  ]
+ },
+ {
+  "path": "topics/regional/distal-saphenous-nerve-block.md",
+  "title": "Distal Saphenous Nerve Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower-limb",
+   "saphenous-nerve",
+   "landmark",
+   "ultrasound"
+  ],
+  "aliases": [
+   "saphenous nerve block",
+   "below-knee field block",
+   "perivenous saphenous block",
+   "saphenous block at medial malleolus"
+  ],
+  "related": [
+   "regional/adductor-canal-block",
+   "regional/ankle-block",
+   "regional/popliteal-block",
+   "regional/sciatic-nerve-block",
+   "regional/lower-limb-blocks"
+  ]
+ },
+ {
+  "path": "topics/regional/erector-spinae-plane-block.md",
+  "title": "Erector Spinae Plane Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "fascial plane block",
+   "truncal block",
+   "thoracic"
+  ],
+  "aliases": [
+   "ESP block",
+   "ESPB",
+   "erector spinae block"
+  ],
+  "related": [
+   "regional/paravertebral-block",
+   "regional/interpleural-block",
+   "regional/serratus-anterior-plane-block",
+   "regional/thoracic-epidural"
+  ]
+ },
+ {
+  "path": "topics/regional/fascia-iliaca-block.md",
+  "title": "Fascia Iliaca Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower-limb",
+   "hip-fracture",
+   "ultrasound",
+   "regional"
+  ],
+  "aliases": [
+   "FIB",
+   "FICB",
+   "fascia iliaca compartment block",
+   "suprainguinal fascia iliaca block",
+   "SIFI"
+  ],
+  "related": [
+   "regional/femoral-nerve-block",
+   "regional/lateral-femoral-cutaneous-nerve-block",
+   "procedures/hip-surgery",
+   "regional/peripheral-nerve-blockade-overview"
+  ]
+ },
+ {
+  "path": "topics/regional/femoral-nerve-block.md",
+  "title": "Femoral Nerve Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower-limb",
+   "peripheral-nerve-block",
+   "ultrasound",
+   "hip-fracture",
+   "knee"
+  ],
+  "aliases": [
+   "FNB",
+   "femoral block",
+   "3 in 1 block",
+   "continuous femoral nerve block"
+  ],
+  "related": [
+   "regional/fascia-iliaca-block",
+   "regional/adductor-canal-block",
+   "regional/sciatic-nerve-block",
+   "regional/peripheral-nerve-blockade-overview",
+   "procedures/hip-fracture"
+  ]
+ },
+ {
+  "path": "topics/regional/forearm-blocks.md",
+  "title": "Forearm and Elbow Level Blocks",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "upper limb",
+   "peripheral nerve block",
+   "hand surgery",
+   "rescue block"
+  ],
+  "aliases": [
+   "elbow blocks",
+   "radial nerve block",
+   "median nerve block",
+   "ulnar nerve block",
+   "rescue blocks",
+   "distal upper limb blocks"
+  ],
+  "related": [
+   "regional/axillary-block",
+   "regional/infraclavicular-block",
+   "regional/supraclavicular-block",
+   "regional/wrist-block",
+   "procedures/hand-surgery"
+  ]
+ },
+ {
+  "path": "topics/regional/head-and-neck-blocks.md",
+  "title": "Nerve Blocks of the Head and Neck",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "head and neck",
+   "trigeminal",
+   "scalp",
+   "neurosurgery"
+  ],
+  "aliases": [
+   "scalp block",
+   "trigeminal nerve block",
+   "Gasserian ganglion block",
+   "face blocks"
+  ],
+  "related": [
+   "regional/greater-occipital-nerve-block",
+   "regional/cervical-plexus-block",
+   "procedures/awake-craniotomy",
+   "procedures/craniotomy",
+   "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
+  "path": "topics/regional/ilioinguinal-iliohypogastric-block.md",
+  "title": "Ilioinguinal and Iliohypogastric Nerve Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "abdominal-wall",
+   "inguinal",
+   "regional"
+  ],
+  "aliases": [
+   "IIIH block",
+   "ilioinguinal block",
+   "iliohypogastric block",
+   "II/IH block",
+   "anterior TAP block",
+   "inguinal field block"
+  ],
+  "related": [
+   "regional/transversus-abdominis-plane-block",
+   "regional/caudal-epidural-block",
+   "regional/rectus-sheath-block",
+   "regional/peripheral-nerve-blockade-overview",
+   "procedures/paediatric-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/regional/infraclavicular-block.md",
+  "title": "Infraclavicular Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "brachial plexus",
+   "upper limb",
+   "cords",
+   "catheter"
+  ],
+  "aliases": [
+   "ICB",
+   "infraclavicular brachial plexus block",
+   "costoclavicular block",
+   "retroclavicular block",
+   "RAPTIR",
+   "paracoracoid block"
+  ],
+  "related": [
+   "regional/supraclavicular-block",
+   "regional/interscalene-block",
+   "regional/axillary-block",
+   "regional/intercostobrachial-nerve-block"
+  ]
+ },
+ {
+  "path": "topics/regional/intercostal-nerve-block.md",
+  "title": "Intercostal Nerve Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "chest-wall",
+   "thoracic",
+   "regional",
+   "ultrasound"
+  ],
+  "aliases": [
+   "ICNB",
+   "intercostal block",
+   "rib block"
+  ],
+  "related": [
+   "regional/paravertebral-block",
+   "regional/serratus-anterior-plane-block",
+   "regional/erector-spinae-plane-block",
+   "regional/peripheral-nerve-blockade-overview",
+   "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
   "path": "topics/regional/intercostobrachial-nerve-block.md",
   "title": "Intercostobrachial Nerve Block",
   "area": "regional",
@@ -3639,7 +4593,7 @@
   "verified_on": "2026-10-29",
   "tags": [
    "upper limb",
-   "cutaneous block",
+   "superficial block",
    "tourniquet"
   ],
   "aliases": [
@@ -3648,10 +4602,215 @@
    "ICB block"
   ],
   "related": [
-   "regional/upper-limb-blocks-introduction",
    "regional/axillary-brachial-plexus-block",
-   "regional/interscalene-brachial-plexus-block",
-   "regional/supraclavicular-brachial-plexus-block"
+   "regional/interscalene-block",
+   "regional/supraclavicular-block",
+   "regional/pecs-block"
+  ]
+ },
+ {
+  "path": "topics/regional/interpleural-block.md",
+  "title": "Interpleural Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "truncal block",
+   "thoracic",
+   "pleura"
+  ],
+  "aliases": [
+   "intrapleural block",
+   "interpleural analgesia",
+   "intrapleural analgesia"
+  ],
+  "related": [
+   "regional/paravertebral-block",
+   "regional/erector-spinae-plane-block",
+   "regional/intercostal-nerve-block",
+   "regional/thoracic-epidural"
+  ]
+ },
+ {
+  "path": "topics/regional/interscalene-block.md",
+  "title": "Interscalene Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "brachial plexus",
+   "upper limb",
+   "shoulder",
+   "phrenic nerve"
+  ],
+  "aliases": [
+   "ISB",
+   "interscalene brachial plexus block",
+   "superior trunk block",
+   "STB"
+  ],
+  "related": [
+   "regional/supraclavicular-block",
+   "regional/infraclavicular-block",
+   "regional/cervical-plexus-block",
+   "procedures/shoulder-surgery",
+   "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
+  "path": "topics/regional/lateral-and-medial-antebrachial-cutaneous-nerve-block.md",
+  "title": "Lateral and Medial Antebrachial Cutaneous Nerve Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "upper-limb",
+   "forearm",
+   "cutaneous-nerve"
+  ],
+  "aliases": [
+   "LAC block",
+   "MAC block",
+   "lateral cutaneous nerve of forearm block",
+   "medial cutaneous nerve of forearm block"
+  ],
+  "related": [
+   "regional/axillary-block",
+   "regional/intercostobrachial-nerve-block",
+   "regional/forearm-nerve-blocks",
+   "procedures/arteriovenous-fistula-surgery"
+  ]
+ },
+ {
+  "path": "topics/regional/lateral-femoral-cutaneous-nerve-block.md",
+  "title": "Lateral Femoral Cutaneous Nerve Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower limb",
+   "superficial block",
+   "hip",
+   "ultrasound"
+  ],
+  "aliases": [
+   "LFCN block",
+   "LFCNB",
+   "lateral cutaneous nerve of thigh block"
+  ],
+  "related": [
+   "regional/lumbar-plexus-block",
+   "regional/fascia-iliaca-block",
+   "regional/femoral-nerve-block",
+   "regional/pericapsular-nerve-group-block"
+  ]
+ },
+ {
+  "path": "topics/regional/local-infiltration-and-field-block.md",
+  "title": "Local Infiltration and Field Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "infiltration",
+   "regional"
+  ],
+  "aliases": [
+   "local infiltration",
+   "wound infiltration",
+   "subcutaneous infiltration",
+   "field block",
+   "LA infiltration"
+  ],
+  "related": [
+   "regional/peripheral-nerve-blockade-overview",
+   "regional/digital-ring-block",
+   "drugs/topical-cutaneous-anaesthesia",
+   "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
+  "path": "topics/regional/lower-limb-blocks.md",
+  "title": "Lower Limb Blocks",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower-limb",
+   "lumbar-plexus",
+   "sacral-plexus",
+   "anatomy"
+  ],
+  "aliases": [
+   "lower extremity regional anaesthesia",
+   "lumbar plexus",
+   "sacral plexus",
+   "lumbosacral plexus"
+  ],
+  "related": [
+   "regional/adductor-canal-block",
+   "regional/obturator-nerve-block",
+   "regional/sciatic-nerve-block",
+   "regional/femoral-nerve-block",
+   "regional/peng-block"
+  ]
+ },
+ {
+  "path": "topics/regional/lumbar-plexus-block.md",
+  "title": "Lumbar Plexus (Psoas) Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower limb",
+   "deep block",
+   "hip",
+   "ultrasound"
+  ],
+  "aliases": [
+   "psoas compartment block",
+   "PCB",
+   "posterior lumbar plexus block",
+   "PLB",
+   "LPB",
+   "shamrock block",
+   "Winnie block"
+  ],
+  "related": [
+   "regional/femoral-nerve-block",
+   "regional/sciatic-nerve-block",
+   "regional/lateral-femoral-cutaneous-nerve-block",
+   "regional/obturator-nerve-block",
+   "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
+  "path": "topics/regional/motor-sparing-knee-blocks.md",
+  "title": "Motor-Sparing Knee Blocks (Genicular Nerve Block and iPACK)",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower-limb",
+   "knee",
+   "motor-sparing",
+   "peripheral-nerve-block",
+   "ultrasound"
+  ],
+  "aliases": [
+   "genicular nerve block",
+   "GNB",
+   "iPACK",
+   "interspace between popliteal artery and capsule of knee",
+   "motor sparing knee block"
+  ],
+  "related": [
+   "regional/adductor-canal-block",
+   "regional/femoral-nerve-block",
+   "regional/sciatic-nerve-block",
+   "procedures/total-knee-arthroplasty",
+   "regional/interventional-pain-management"
   ]
  },
  {
@@ -3736,6 +4895,31 @@
    "regional/nerve-injury-after-peripheral-nerve-blocks",
    "regional/spinal-anaesthesia",
    "regional/epidural-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/regional/obturator-nerve-block.md",
+  "title": "Obturator Nerve Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower-limb",
+   "obturator-nerve",
+   "ultrasound",
+   "fascial-plane"
+  ],
+  "aliases": [
+   "obturator block",
+   "subpectineal obturator block",
+   "interfascial obturator block"
+  ],
+  "related": [
+   "regional/lower-limb-blocks",
+   "regional/adductor-canal-block",
+   "regional/femoral-nerve-block",
+   "procedures/turbt",
+   "regional/tap-block"
   ]
  },
  {
@@ -4218,6 +5402,62 @@
   ]
  },
  {
+  "path": "topics/regional/sciatic-nerve-block.md",
+  "title": "Sciatic Nerve Block and Parasacral Sacral Plexus Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "lower-limb",
+   "peripheral-nerve-block",
+   "ultrasound",
+   "sciatic",
+   "landmark"
+  ],
+  "aliases": [
+   "sciatic block",
+   "sacral plexus block",
+   "parasacral block",
+   "transgluteal sciatic",
+   "subgluteal sciatic",
+   "anterior sciatic",
+   "Labat approach",
+   "Raj approach",
+   "PSPS",
+   "PIP block"
+  ],
+  "related": [
+   "regional/femoral-nerve-block",
+   "regional/popliteal-sciatic-block",
+   "regional/lumbar-plexus-block",
+   "regional/peripheral-nerve-blockade-overview",
+   "regional/ankle-block"
+  ]
+ },
+ {
+  "path": "topics/regional/supraclavicular-block.md",
+  "title": "Supraclavicular Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "brachial plexus",
+   "upper limb",
+   "pneumothorax"
+  ],
+  "aliases": [
+   "SCB",
+   "supraclavicular brachial plexus block",
+   "corner pocket"
+  ],
+  "related": [
+   "regional/interscalene-block",
+   "regional/infraclavicular-block",
+   "regional/axillary-block",
+   "regional/intercostobrachial-nerve-block"
+  ]
+ },
+ {
   "path": "topics/regional/supraclavicular-nerve-block.md",
   "title": "Supraclavicular nerve block",
   "area": "regional",
@@ -4324,6 +5564,28 @@
    "regional/intercostal-nerve-block",
    "regional/pecs-and-serratus-anterior-plane-blocks",
    "regional/thoracic-epidural"
+  ]
+ },
+ {
+  "path": "topics/regional/thoracolumbar-interfascial-plane-block.md",
+  "title": "Thoracolumbar Interfascial Plane Block",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "spine surgery",
+   "fascial plane block",
+   "truncal"
+  ],
+  "aliases": [
+   "TLIP block",
+   "TLIP",
+   "intertransverse process block"
+  ],
+  "related": [
+   "regional/erector-spinae-plane-block",
+   "regional/paravertebral-block",
+   "procedures/spine-surgery"
   ]
  },
  {

@@ -168,9 +168,11 @@ Low-potency anaesthetic and analgesic gas (MAC 105%), with fast onset and offset
 - [Minimum alveolar concentration (MAC)](../physiology/minimum-alveolar-concentration.md)
 - [Entonox](entonox.md)
 - [Fluid terminology and chemistry](../physiology/fluid-terminology-and-chemistry.md)
+- [Desflurane](desflurane.md)
 - [Inhaled anaesthetics](inhaled-anaesthetics.md)
 - [Nitric oxide](nitric-oxide.md)
 - [Oxygen](oxygen.md)
 - [Paediatric inhalational agents](paediatric-inhalational-agents.md)
+- [Xenon](xenon.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
 <!-- related:end -->

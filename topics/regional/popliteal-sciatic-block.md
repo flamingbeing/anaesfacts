@@ -110,6 +110,9 @@ Sciatic nerve block above the knee, ideally inside Vloka's sheath where the tibi
 
 <!-- related:start (generated) -->
 ## Related
+- [Femoral Nerve Block](femoral-nerve-block.md)
+- [Ankle Block](ankle-block.md)
 - [Rebound Pain and Perineural Adjuncts](rebound-pain-perineural-adjuncts.md)
 - [Posterior Cutaneous Nerve of the Thigh Block](posterior-femoral-cutaneous-nerve-block.md)
+- [Sciatic Nerve Block and Parasacral Sacral Plexus Block](sciatic-nerve-block.md)
 <!-- related:end -->

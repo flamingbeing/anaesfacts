@@ -46,6 +46,7 @@ Children are almost always blocked under GA, which hides the warning signs of in
 
 <!-- related:start (generated) -->
 ## Related
+- [Ilioinguinal and Iliohypogastric Nerve Block](ilioinguinal-iliohypogastric-block.md)
 - [Rectus sheath block](rectus-sheath-block.md)
 - [Peripheral nerve block catheters](peripheral-nerve-block-catheters.md)
 <!-- related:end -->

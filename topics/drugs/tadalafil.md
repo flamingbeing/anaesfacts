@@ -25,4 +25,5 @@ PDE5 inhibitor (ADCIRCA) that lasts longer than sildenafil.
 ## Related
 - [Sildenafil](sildenafil.md)
 - [Phosphodiesterase inhibitors](phosphodiesterase-inhibitors.md)
+- [Pulmonary Vasodilators](pulmonary-vasodilators.md)
 <!-- related:end -->

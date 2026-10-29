@@ -150,5 +150,7 @@ Fascial plane blocks of the abdominal wall: TAP blocks give somatic (wall and pa
 <!-- related:start (generated) -->
 ## Related
 - [Rectus sheath block](rectus-sheath-block.md)
+- [Ilioinguinal and Iliohypogastric Nerve Block](ilioinguinal-iliohypogastric-block.md)
+- [Erector Spinae Plane Block](erector-spinae-plane-block.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 <!-- related:end -->

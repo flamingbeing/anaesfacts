@@ -5,49 +5,49 @@ status: verified
 verified_on: 2026-10-29
 origin: owner-notes
 aliases: [ICBN block, intercostobrachial block, ICB block]
-related: [regional/upper-limb-blocks-introduction, regional/axillary-brachial-plexus-block, regional/interscalene-brachial-plexus-block, regional/supraclavicular-brachial-plexus-block]
+related: [regional/axillary-brachial-plexus-block, regional/interscalene-block, regional/supraclavicular-block, regional/pecs-block]
 sources: []
-tags: [upper limb, cutaneous block, tourniquet]
+tags: [upper limb, superficial block, tourniquet]
 ---
 
 # Intercostobrachial Nerve Block
 
-Superficial subcutaneous block along the axillary crease that covers skin of the upper medial and posterior arm, which no brachial plexus block reaches.
+Subcutaneous block along the axillary crease that supplements a brachial plexus block for the medial and posterior upper arm.
 
-## Distribution of anaesthesia
-- Upper half of the medial and posterior arm skin, shared with the medial cutaneous nerve of the arm (a branch of the medial cord)
-- Part of the anterior axilla
-- Arises from the T2 nerve root (occasionally T1)
-  - Not part of the brachial plexus, so no brachial plexus approach blocks it
+## Anatomy
+- From the T2 root (occasionally T1): not part of the brachial plexus, so no brachial plexus approach blocks it
+- Usually the lateral cutaneous branch of the second intercostal nerve
+- Runs superficially through breast tissue, lateral chest wall and axilla to the posteromedial arm; vulnerable during axillary surgery
+- With the medial cutaneous nerve of the arm (from the medial cord), supplies skin of the upper half of the medial and posterior arm; also part of the anterior axilla
 
 ## Indications
-- Supplement to any brachial plexus block when surgery involves:
-  - The upper medial or posterior arm
-  - A pneumatic tourniquet
-  - An anterior arthroscopic port
-- It does not relieve tourniquet pain
-  - Tourniquet pain comes from ischaemia and compression; it is covered by the brachial plexus block plus intraoperative sedation
-  - Extra skin anaesthesia adds nothing for tourniquet pain
+- Adjunct to any brachial plexus block for surgery on the medial or posterior upper arm
+- Anterior arthroscopic port
+- Skin sensation from an upper arm tourniquet
+  - It does not block the ischaemic and compressive tourniquet pain; that needs the brachial plexus block plus intraoperative sedation, not extra skin anaesthesia
+
+## Technique
+- Landmark: 5 mL of local anaesthetic subcutaneously, above and below, along the axillary crease, with a 1.5-in. 25-gauge needle
+- Ultrasound: probe in short axis on the medial, inferior surface of the arm
 
 ## Complications
-- Almost none, because the injection is superficial
-
-## Landmark technique
-- 1.5-in. 25-gauge needle
-- 5 mL of local anaesthetic injected subcutaneously along the axillary crease, both superiorly and inferiorly
+- Almost none, as it is superficial
 
 ## Flashcards
-- Q: Which nerve root gives rise to the intercostobrachial nerve?
-  - A: T2 (occasionally T1); it is not part of the brachial plexus.
-- Q: Does any brachial plexus approach block the intercostobrachial nerve?
-  - A: No; it must be blocked separately.
-- Q: What volume and needle are used for the landmark intercostobrachial block?
-  - A: 5 mL of local anaesthetic subcutaneously above and below the axillary crease via a 1.5-in. 25-gauge needle.
-- Q: Does an intercostobrachial block prevent tourniquet pain?
-  - A: No; tourniquet pain is ischaemic and compressive and is managed by the brachial plexus block plus sedation.
+- Q: Which root does the intercostobrachial nerve come from?
+  - A: T2 (occasionally T1); it is not part of the brachial plexus
+- Q: Landmark technique for an intercostobrachial block?
+  - A: 5 mL of local anaesthetic subcutaneously along the axillary crease
+- Q: Does it prevent tourniquet pain?
+  - A: No; only tourniquet skin sensation, not the ischaemic or compressive pain
 
 <!-- related:start (generated) -->
 ## Related
-- [Upper Limb Blocks Introduction](upper-limb-blocks-introduction.md)
+- [Interscalene Block](interscalene-block.md)
+- [Supraclavicular Block](supraclavicular-block.md)
+- [Axillary Brachial Plexus Block](axillary-block.md)
+- [Infraclavicular Block](infraclavicular-block.md)
+- [Lateral and Medial Antebrachial Cutaneous Nerve Block](lateral-and-medial-antebrachial-cutaneous-nerve-block.md)
 - [Regional Blocks Quick Reference](regional-blocks-quick-reference.md)
+- [Upper Limb Blocks Introduction](upper-limb-blocks-introduction.md)
 <!-- related:end -->

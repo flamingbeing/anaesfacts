@@ -49,6 +49,7 @@ Selective PDE5 inhibitor that enhances nitric oxide vasodilation; used for pulmo
 - [Tadalafil](tadalafil.md)
 - [Phosphodiesterase inhibitors](phosphodiesterase-inhibitors.md)
 - [Nitric oxide](nitric-oxide.md)
+- [Pulmonary Vasodilators](pulmonary-vasodilators.md)
 - [Endothelin receptor antagonists](endothelin-receptor-antagonists.md)
 - [Epoprostenol](epoprostenol.md)
 <!-- related:end -->
