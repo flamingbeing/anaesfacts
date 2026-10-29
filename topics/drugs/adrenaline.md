@@ -129,4 +129,5 @@ Endogenous catecholamine from the adrenal gland acting on α and β receptors: �
 - [Isoprenaline](isoprenaline.md)
 - [Noradrenaline](noradrenaline.md)
 - [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
+- [Rebound Pain and Perineural Adjuncts](../regional/rebound-pain-perineural-adjuncts.md)
 <!-- related:end -->

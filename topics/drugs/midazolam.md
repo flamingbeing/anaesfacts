@@ -97,4 +97,5 @@ Water-soluble, short-acting benzodiazepine for premedication, co-induction and s
 - [Induction agents](induction-agents.md)
 - [Ketamine](ketamine.md)
 - [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
+- [Adolescents and Teenagers](../other/adolescents.md)
 <!-- related:end -->

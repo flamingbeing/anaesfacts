@@ -56,4 +56,5 @@ Long-acting amide local anaesthetic (Marcaine); racemic, with marked cardiotoxic
 - [Local anaesthetics in children](paediatric-local-anaesthetics.md)
 - [Ropivacaine](ropivacaine.md)
 - [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
+- [Paediatric Epidural Blockade](../regional/paediatric-epidural.md)
 <!-- related:end -->

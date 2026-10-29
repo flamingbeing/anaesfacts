@@ -62,4 +62,6 @@ Amide local anaesthetic; the S-enantiomer of (racemic) bupivacaine, with less ca
 - [Bupivacaine](bupivacaine.md)
 - [Ropivacaine](ropivacaine.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Paediatric Central Neuraxial Blocks](../regional/paediatric-central-neuraxial-blocks.md)
+- [Penile Nerve Block](../regional/penile-block.md)
 <!-- related:end -->
