@@ -1,0 +1,245 @@
+{
+ "topic": "comorbidities/perioperative-acute-kidney-injury",
+ "questions": [
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#c1b795",
+   "kind": "statement",
+   "stem": "In perioperative AKI, how does the surgical stress response cause sodium and water retention?",
+   "answer": "RAAS activation and more ADH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#baeaca",
+   "kind": "mcq",
+   "stem": "In a patient with AKI before surgery, when is sodium bicarbonate given?",
+   "options": [
+    "pH above 7.2",
+    "pH below 7.2",
+    "pH 7.35 to 7.45",
+    "pH above 7.45"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#2bc994",
+   "kind": "statement",
+   "stem": "In preoperative AKI, what is the formula for the bicarbonate deficit?",
+   "answer": "0.5 x body weight (kg) x (24 - HCO3)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#a65b89",
+   "kind": "statement",
+   "stem": "In a patient with AKI during surgery, what do the intraoperative goals mirror?",
+   "answer": "Supportive AKI care",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#0732ed",
+   "kind": "statement",
+   "stem": "Why does general anaesthesia carry particular risk in a patient with AKI during surgery?",
+   "answer": "Fluid shifts and haemodynamic instability",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#8d61c9",
+   "kind": "statement",
+   "stem": "Which nephrotoxic drug class should be avoided after surgery in a patient with AKI?",
+   "answer": "NSAIDs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#8d61c9",
+   "kind": "statement",
+   "stem": "After surgery in AKI, which example drug needs its dose adjusted?",
+   "answer": "Gabapentin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#01418c",
+   "kind": "statement",
+   "stem": "What glycaemic goal is kept intraoperatively in a patient with AKI?",
+   "answer": "Normoglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#e7659a",
+   "kind": "statement",
+   "stem": "In postoperative AKI, when should dialysis be started if criteria are met?",
+   "answer": "Once haemodynamically stable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#8559c5",
+   "kind": "statement",
+   "stem": "Before surgery, which three things should be optimised to protect the kidney in AKI?",
+   "answer": "Volume status, cardiac output and MAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#bed66a",
+   "kind": "mcq",
+   "stem": "In critically ill patients, an RCT found no AKI difference between albumin and which fluid?",
+   "options": [
+    "Hartmann's solution",
+    "0.9% saline",
+    "Gelatin",
+    "Hydroxyethyl starch"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#0bac1d",
+   "kind": "statement",
+   "stem": "Before surgery in AKI, which kidney-protective measure applies to diabetic patients?",
+   "answer": "Glucose control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#aaf204",
+   "kind": "statement",
+   "stem": "In AKI, if possible, until when should elective surgery be delayed?",
+   "answer": "Until acute renal dysfunction recovers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#06c29f",
+   "kind": "mcq",
+   "stem": "What should happen to dialysis for a dialysis-dependent patient who needs surgery?",
+   "options": [
+    "Dialyse after surgery",
+    "Omit dialysis until after surgery",
+    "Dialyse before surgery",
+    "Stop dialysis for surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#957357",
+   "kind": "statement",
+   "stem": "Which two measures help prevent contrast nephropathy in patients with AKI?",
+   "answer": "Isotonic IV fluids and N-acetylcysteine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#957357",
+   "kind": "mcq",
+   "stem": "Which drug, given with isotonic IV fluids, helps prevent contrast nephropathy?",
+   "options": [
+    "Furosemide",
+    "N-acetylcysteine",
+    "Dopamine",
+    "Ondansetron"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#077e47",
+   "kind": "statement",
+   "stem": "Which parameters should be monitored before surgery in a patient with AKI?",
+   "answer": "Urine output, urea, electrolytes and creatinine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#a26318",
+   "kind": "statement",
+   "stem": "What is the mainstay of intraoperative renal protection in AKI?",
+   "answer": "Stable haemodynamics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#25e8bd",
+   "kind": "mcq",
+   "stem": "What is the IV furosemide bolus dose for renal protection in perioperative AKI?",
+   "options": [
+    "5-10mg",
+    "20-40mg",
+    "100-150mg",
+    "300-400mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#25e8bd",
+   "kind": "mcq",
+   "stem": "What IV furosemide regimen is used in established renal failure around surgery?",
+   "options": [
+    "50mg over 1h",
+    "250mg over 1h",
+    "500mg over 4h",
+    "1g over 4h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#a444a7",
+   "kind": "mcq",
+   "stem": "After surgery in AKI, what volume of normal saline is given as a fluid challenge for low urine output?",
+   "options": [
+    "50-100ml",
+    "250-500ml",
+    "500-1000ml",
+    "1-2 litres"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#a444a7",
+   "kind": "mcq",
+   "stem": "After surgery in AKI, below what urine output is a normal saline fluid challenge given?",
+   "options": [
+    "0.1ml/kg/h",
+    "0.5ml/kg/h",
+    "0.8ml/kg/h",
+    "2ml/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#ecb1d2",
+   "kind": "statement",
+   "stem": "In postoperative AKI, at what intra-abdominal pressure does hypertension threaten the kidney?",
+   "answer": "IAP > 20mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-acute-kidney-injury#ecb1d2",
+   "kind": "statement",
+   "stem": "In postoperative AKI from intra-abdominal hypertension, what is the treatment?",
+   "answer": "Decompressive laparotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

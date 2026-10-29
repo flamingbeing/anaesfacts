@@ -1,0 +1,243 @@
+{
+ "topic": "drugs/platelet-transfusion",
+ "questions": [
+  {
+   "fact_id": "drugs/platelet-transfusion#045a0b",
+   "kind": "mcq",
+   "stem": "In platelet transfusion, how many donors are pooled to make a CSP unit?",
+   "options": [
+    "4-6 donors",
+    "1-2 donors",
+    "8-10 donors",
+    "12-15 donors"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#d6c03e",
+   "kind": "statement",
+   "stem": "Roughly how much does a pooled platelet transfusion raise the platelet count?",
+   "answer": "About 15,000/mm3.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#03a5cc",
+   "kind": "mcq",
+   "stem": "One single-donor (apheresis) platelet unit is equivalent to how many random-donor units?",
+   "options": [
+    "1-2 units",
+    "8-10 units",
+    "12-15 units",
+    "4-6 units"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#bfc498",
+   "kind": "mcq",
+   "stem": "What platelet count rise is expected from single-donor (apheresis) platelets?",
+   "options": [
+    "25,000/mm3",
+    "5,000/mm3",
+    "40-60,000/mm3",
+    "100,000/mm3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#04b020",
+   "kind": "mcq",
+   "stem": "At what temperature are platelet units stored?",
+   "options": [
+    "4ºC in a refrigerator",
+    "22ºC on an agitator",
+    "-30ºC in a freezer",
+    "37ºC in a warm bath"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#04b020",
+   "kind": "blank",
+   "stem": "Platelet units should be used within ____ days.",
+   "answer": "5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#4241c5",
+   "kind": "statement",
+   "stem": "What is current guidance on warming platelets before transfusion?",
+   "answer": "Do not warm them; evidence is scarce.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#8d868b",
+   "kind": "statement",
+   "stem": "What does extreme warming of platelets do to them?",
+   "answer": "Impairs aggregation and alters cytoskeletal membrane components.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#8d868b",
+   "kind": "mcq",
+   "stem": "Above what temperature does extreme warming impair platelet aggregation?",
+   "options": [
+    "37-38 degrees C",
+    "30-32 degrees C",
+    "43-45 degrees C",
+    "50-55 degrees C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#8696bc",
+   "kind": "mcq",
+   "stem": "What is the usual platelet transfusion dose?",
+   "options": [
+    "20-25 ml/kg",
+    "1-2 ml/kg",
+    "5-10 ml/kg",
+    "30-40 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#43438a",
+   "kind": "mcq",
+   "stem": "In platelet transfusion, how much does one CSP raise the ROTEM EXTEM A5?",
+   "options": [
+    "2-3 mm",
+    "15-20 mm",
+    "30-40 mm",
+    "8-10 mm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#e75195",
+   "kind": "mcq",
+   "stem": "Which platelet dose applies to paediatric cardiac patients?",
+   "options": [
+    "1-2 ml/kg",
+    "5-10 ml/kg",
+    "15-20 ml/kg",
+    "30-35 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#e33549",
+   "kind": "mcq",
+   "stem": "What platelet count target applies to bleeding patients?",
+   "options": [
+    "20k",
+    "40k",
+    "100k",
+    "150k"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#ae9900",
+   "kind": "mcq",
+   "stem": "What platelet count target applies to brain injury or trauma?",
+   "options": [
+    "120k",
+    "40k",
+    "150k",
+    "80k"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#0cdafb",
+   "kind": "mcq",
+   "stem": "What platelet count target applies to surgery or line insertion?",
+   "options": [
+    "25k",
+    "10k",
+    "70k",
+    "50k"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#5554a2",
+   "kind": "blank",
+   "stem": "Platelet transfusion is indicated for abnormal platelet function, but not for ____.",
+   "answer": "ITP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#51fcf6",
+   "kind": "mcq",
+   "stem": "Emergency platelet transfusion can reverse the effect of which drug group?",
+   "options": [
+    "Heparin",
+    "Tranexamic acid",
+    "Antiplatelet drugs",
+    "Vitamin K"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#90af9d",
+   "kind": "mcq",
+   "stem": "For platelet dysfunction, how many pooled platelet units may act as a catalyst?",
+   "options": [
+    "4 units",
+    "1 unit",
+    "6 units",
+    "10 units"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#4a2d14",
+   "kind": "statement",
+   "stem": "Why are apheresis platelets preferred for potential bone marrow transplant recipients?",
+   "answer": "They carry a lower risk of refractoriness.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/platelet-transfusion#6d01ba",
+   "kind": "statement",
+   "stem": "Define platelet refractoriness after platelet transfusion.",
+   "answer": "Little or no rise in count after transfusion (e.g. under 5000).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

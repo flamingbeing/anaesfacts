@@ -1,0 +1,2325 @@
+{
+ "topic": "procedures/cardiac-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#68c82f",
+   "kind": "statement",
+   "stem": "What two points should be checked in the preoperative assessment for CABG?",
+   "answer": "Number of vessels; any radial artery harvest (check the consent)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#fa7e2a",
+   "kind": "statement",
+   "stem": "In preoperative assessment for valve replacement, what two things should be established?",
+   "answer": "Which valve, symptoms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#4954ff",
+   "kind": "statement",
+   "stem": "What measures should the preoperative 2D echo report for a cardiac surgery patient?",
+   "answer": "EF, PASP, regional wall motion abnormalities, mitral E/A ratio, LVIDd/LVIDs, other valves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a51a0c",
+   "kind": "mcq",
+   "stem": "For a first cardiac case, until what time may the patient have sips of water?",
+   "options": [
+    "2am",
+    "6am",
+    "8am",
+    "10am"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a51a0c",
+   "kind": "mcq",
+   "stem": "From what time should a cardiac surgery patient be nil by mouth?",
+   "options": [
+    "10pm",
+    "12 midnight",
+    "6am",
+    "6pm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#8e33aa",
+   "kind": "mcq",
+   "stem": "How many units of packed cells should be on standby for cardiac surgery?",
+   "options": [
+    "2 units",
+    "4 units",
+    "6 units",
+    "8 units"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#8e33aa",
+   "kind": "mcq",
+   "stem": "What volume of fresh frozen plasma should be on standby for cardiac surgery?",
+   "options": [
+    "500 ml",
+    "1 L",
+    "2 L",
+    "3 L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#06e573",
+   "kind": "mcq",
+   "stem": "Where should a cardiac surgery patient go after surgery?",
+   "options": [
+    "Post-anaesthesia recovery bay only",
+    "General surgical ward",
+    "Cardiothoracic ICU (CTICU) bed",
+    "Emergency department"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#fff41f",
+   "kind": "mcq",
+   "stem": "Where should the initial IV cannula be placed for cardiac surgery?",
+   "options": [
+    "Antecubital fossa",
+    "Hand or forearm",
+    "External jugular vein",
+    "Femoral vein"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#fff41f",
+   "kind": "mcq",
+   "stem": "What cannula gauge is used for the initial IV in cardiac surgery?",
+   "options": [
+    "14G only",
+    "16 or 18G",
+    "20 or 22G",
+    "24G"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#1e08cf",
+   "kind": "mcq",
+   "stem": "Which sedative is given before lines in cardiac surgery?",
+   "options": [
+    "Propofol",
+    "Midazolam",
+    "Ketamine",
+    "Dexmedetomidine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#1e08cf",
+   "kind": "mcq",
+   "stem": "What fentanyl dose may be added to midazolam sedation before lines?",
+   "options": [
+    "10 mcg",
+    "30 mcg",
+    "50 mcg",
+    "100 mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#9a4a51",
+   "kind": "mcq",
+   "stem": "In cardiac surgery, which line is used to return cell-saver blood?",
+   "options": [
+    "Right internal jugular CVC",
+    "Arterial line",
+    "Peripheral line",
+    "Pulmonary artery catheter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#9a4a51",
+   "kind": "mcq",
+   "stem": "Which hand should the peripheral line for cardiac surgery be placed in?",
+   "options": [
+    "Elbow crease of the dominant arm",
+    "Non-dominant hand",
+    "Lower leg",
+    "Foot dorsum"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#5b1a8b",
+   "kind": "mcq",
+   "stem": "Which artery is cannulated for the arterial line in cardiac surgery?",
+   "options": [
+    "Right femoral artery",
+    "Left brachial artery",
+    "Left radial artery",
+    "Dorsalis pedis artery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#eb25ae",
+   "kind": "mcq",
+   "stem": "Which vein is cannulated for the central line in cardiac surgery?",
+   "options": [
+    "Left subclavian vein",
+    "Right internal jugular vein",
+    "Right femoral vein",
+    "Left internal jugular vein"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#4290bb",
+   "kind": "mcq",
+   "stem": "What volume of lignocaine 1% is used for the superficial cervical plexus block?",
+   "options": [
+    "3 ml",
+    "5 ml",
+    "7 ml",
+    "10 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#4290bb",
+   "kind": "mcq",
+   "stem": "Where is the superficial cervical plexus block given?",
+   "options": [
+    "Midpoint of the anterior border of sternocleidomastoid",
+    "Midpoint of the posterior border of sternocleidomastoid",
+    "Tip of the mastoid process",
+    "Lateral border of the scapula"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#bb205c",
+   "kind": "mcq",
+   "stem": "In mitral surgery with bicaval cannulation, which intercostal space should the tip be aimed at?",
+   "options": [
+    "1st intercostal space",
+    "2nd intercostal space",
+    "4th intercostal space",
+    "6th intercostal space"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#8548b1",
+   "kind": "mcq",
+   "stem": "For a male patient, what is the fixation depth of the central line?",
+   "options": [
+    "10 cm",
+    "12 cm",
+    "13 cm",
+    "15 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#8548b1",
+   "kind": "mcq",
+   "stem": "For a female patient, what is the fixation depth of the central line?",
+   "options": [
+    "10 cm",
+    "12 cm",
+    "13 cm",
+    "14 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#dac157",
+   "kind": "statement",
+   "stem": "How should a central line be kept clean during cardiac surgery setup?",
+   "answer": "Cover all ports; syringe on the last free port",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#7bd6ff",
+   "kind": "mcq",
+   "stem": "Who attaches the 5-lead ECG in minimally invasive cardiac surgery?",
+   "options": [
+    "Anaesthetist",
+    "Perfusionist",
+    "Anaesthetic assistant",
+    "Surgeon"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#cd56e0",
+   "kind": "mcq",
+   "stem": "How many diathermy pads does the scrub side apply in cardiac surgery?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#cd56e0",
+   "kind": "statement",
+   "stem": "Besides diathermy pads, what dressing does the scrub side apply in cardiac surgery?",
+   "answer": "A sacral foam dressing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#3b6621",
+   "kind": "statement",
+   "stem": "What two items should be checked in cardiac theatre preparation?",
+   "answer": "The machine and a small mask",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#4f46a7",
+   "kind": "mcq",
+   "stem": "Which two adrenaline concentrations are prepared in cardiac theatre?",
+   "options": [
+    "1 mcg/ml and 10 mcg/ml",
+    "10 mcg/ml and 100 mcg/ml",
+    "100 mcg/ml and 1 mg/ml",
+    "10 mg/ml and 100 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a0e169",
+   "kind": "mcq",
+   "stem": "What concentration of phenylephrine is prepared in cardiac theatre?",
+   "options": [
+    "10 mcg/ml",
+    "50 mcg/ml",
+    "100 mcg/ml",
+    "1 mg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#71627e",
+   "kind": "mcq",
+   "stem": "How many 10 ml syringes are labelled and drawn up on standby in cardiac theatre prep?",
+   "options": [
+    "1-2",
+    "3-4",
+    "5-6",
+    "8-10"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c9415d",
+   "kind": "mcq",
+   "stem": "How is ephedrine prepared for cardiac theatre standby?",
+   "options": [
+    "5 mg/ml in 10 ml",
+    "5 mg/ml in 6 ml",
+    "10 mg/ml in 6 ml",
+    "3 mg/ml in 6 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#66534b",
+   "kind": "mcq",
+   "stem": "How is atropine prepared for cardiac theatre standby?",
+   "options": [
+    "0.3 mg in 1 ml",
+    "0.6 mg in 1 ml",
+    "1 mg in 1 ml",
+    "0.6 mg in 5 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#dd0c5f",
+   "kind": "mcq",
+   "stem": "What syringe size is calcium chloride drawn up in for cardiac theatre?",
+   "options": [
+    "2 ml syringe",
+    "10 ml syringe",
+    "20 ml syringe",
+    "50 ml syringe"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0cc1d4",
+   "kind": "mcq",
+   "stem": "What heparin dose is given before bypass in cardiac surgery?",
+   "options": [
+    "150-200 u/kg",
+    "300 u/kg + 2000 IU",
+    "100 u/kg + 1000 IU",
+    "500 u/kg + 2000 IU"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0cc1d4",
+   "kind": "mcq",
+   "stem": "Up to what heparin dose may be given in an emergency crash onto bypass?",
+   "options": [
+    "250 u/kg",
+    "400 u/kg",
+    "600 u/kg",
+    "800 u/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#ff548a",
+   "kind": "mcq",
+   "stem": "What size syringe holds the fentanyl 500 mcg in cardiac theatre prep?",
+   "options": [
+    "5 ml",
+    "10 ml",
+    "20 ml",
+    "50 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#fefe21",
+   "kind": "mcq",
+   "stem": "In cardiac theatre prep, how is alfentanil prepared as an alternative to fentanyl?",
+   "options": [
+    "1 mg diluted to 5 ml",
+    "1 mg diluted to 10 ml",
+    "10 mg diluted to 10 ml",
+    "500 mcg diluted to 20 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#fb3031",
+   "kind": "mcq",
+   "stem": "What total fentanyl dose is prepared for sicker cardiac patients?",
+   "options": [
+    "500 mcg alone",
+    "250 + 250 mcg",
+    "500 + 500 mcg",
+    "750 mcg alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0a0e21",
+   "kind": "mcq",
+   "stem": "For other cardiac patients, which opioid is prepared with fentanyl 500 mcg?",
+   "options": [
+    "Morphine 10 mg",
+    "Alfentanil 1 mg in 10 ml",
+    "Remifentanil TCI",
+    "Pethidine 50 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#060498",
+   "kind": "mcq",
+   "stem": "Propofol is prepared as a 50 ml and a 20 ml syringe; which size is often enough?",
+   "options": [
+    "10 ml",
+    "20 ml",
+    "50 ml",
+    "100 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#2e8ae9",
+   "kind": "mcq",
+   "stem": "What rocuronium dose is prepared in cardiac theatre?",
+   "options": [
+    "10 mg",
+    "50 mg",
+    "75 mg",
+    "150 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#95e5c9",
+   "kind": "mcq",
+   "stem": "What atracurium neat infusion volume is prepared for patients over 70 kg?",
+   "options": [
+    "10 ml",
+    "25 ml",
+    "50 ml",
+    "75 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#970545",
+   "kind": "mcq",
+   "stem": "Which antibiotic and dose are prepared in cardiac theatre?",
+   "options": [
+    "Cefazolin 1 g",
+    "Cefazolin 2 g",
+    "Gentamicin 2 g",
+    "Vancomycin 1 g"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#34a8a8",
+   "kind": "mcq",
+   "stem": "Which analgesic is prepared at 10 mg in cardiac theatre?",
+   "options": [
+    "Paracetamol",
+    "Tramadol",
+    "Morphine",
+    "Pethidine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#5a357d",
+   "kind": "mcq",
+   "stem": "What midazolam dose is prepared in cardiac theatre?",
+   "options": [
+    "1 mg",
+    "2.5 mg",
+    "5 mg",
+    "10 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#6eadfb",
+   "kind": "mcq",
+   "stem": "In some centres, who is handed tranexamic acid to give into the bypass pump?",
+   "options": [
+    "The scrub nurse",
+    "The surgeon",
+    "The perfusionist",
+    "The anaesthetic assistant"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#6eadfb",
+   "kind": "mcq",
+   "stem": "For tranexamic acid in cardiac theatre, what fixed dose is an alternative to 30 mg/kg?",
+   "options": [
+    "500 mg",
+    "1 g",
+    "2 g",
+    "5 g"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c8e191",
+   "kind": "mcq",
+   "stem": "What noradrenaline concentration is now used in cardiac theatre prep?",
+   "options": [
+    "4 mg in 100 ml",
+    "8 mg in 100 ml",
+    "16 mg in 100 ml",
+    "8 mg in 50 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c8e191",
+   "kind": "mcq",
+   "stem": "What was the former noradrenaline concentration in cardiac theatre prep?",
+   "options": [
+    "2 mg in 100 ml",
+    "4 mg in 100 ml",
+    "16 mg in 100 ml",
+    "4 mg in 50 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#dbf1a6",
+   "kind": "mcq",
+   "stem": "How is neat GTN prepared for cardiac theatre?",
+   "options": [
+    "5 mg in 50 ml",
+    "50 mg in 50 ml",
+    "50 mg in 100 ml",
+    "50 mg in 10 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e72770",
+   "kind": "statement",
+   "stem": "For propofol TCI in cardiac theatre prep, which mode is used with a 1 min induction?",
+   "answer": "Plasma mode",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#1613fe",
+   "kind": "mcq",
+   "stem": "Remifentanil TCI in cardiac theatre prep is given as an example for which disease?",
+   "options": [
+    "Left main disease",
+    "Right coronary disease",
+    "Aortic stenosis",
+    "Mitral regurgitation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c7fd26",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker is given as an infusion in cardiac theatre prep?",
+   "options": [
+    "Rocuronium",
+    "Atracurium",
+    "Suxamethonium",
+    "Vecuronium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#729e14",
+   "kind": "statement",
+   "stem": "In cardiac surgery on the table, which depth-of-anaesthesia monitor is switched on?",
+   "answer": "BIS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d0cadf",
+   "kind": "mcq",
+   "stem": "What flow of nasal prong oxygen is given on the table in cardiac surgery?",
+   "options": [
+    "1 L",
+    "2 L",
+    "4 L",
+    "6 L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c6f738",
+   "kind": "mcq",
+   "stem": "About how much fluid is run through the IV on the table in cardiac surgery?",
+   "options": [
+    "100 ml",
+    "500 ml",
+    "1 L",
+    "2 L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c6f738",
+   "kind": "mcq",
+   "stem": "Which fluids may be run through the IV on the table in cardiac surgery?",
+   "options": [
+    "Gelatin or albumin",
+    "Saline or Hartmann's",
+    "Dextran or starch",
+    "Glucose 5% or water"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#10d5cb",
+   "kind": "mcq",
+   "stem": "Which baseline tests are taken from the arterial line on the table in cardiac surgery?",
+   "options": [
+    "Full blood count and U&Es",
+    "ACT and ABG",
+    "Troponin and CK",
+    "Lactate and glucose only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a66fa5",
+   "kind": "mcq",
+   "stem": "Which lumen carries the transducer on the central line in cardiac surgery?",
+   "options": [
+    "Blue (16G) lumen",
+    "Brown (14G) lumen",
+    "Green (18G) lumen",
+    "Yellow (20G) lumen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#00f576",
+   "kind": "statement",
+   "stem": "On the table in cardiac surgery, how are vasopressors and vasodilators placed on the 18G lumens?",
+   "answer": "Vasopressors/inotropes ('uppers') and vasodilators ('downers') on separate lumens",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#00f576",
+   "kind": "mcq",
+   "stem": "Why turn on and flush each pump on the table in cardiac surgery?",
+   "options": [
+    "To warm the infusion",
+    "To check every pump works",
+    "To remove air from the line",
+    "To calibrate the transducer"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#efcc9c",
+   "kind": "mcq",
+   "stem": "At what rate are drug infusions usually started on the table in cardiac surgery?",
+   "options": [
+    "0.1 ml/h",
+    "1 ml/h",
+    "5 ml/h",
+    "10 ml/h"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#efcc9c",
+   "kind": "mcq",
+   "stem": "What weight-based dose does a starting rate of 0.1 ml/h usually correspond to?",
+   "options": [
+    "0.001 mcg/kg/h",
+    "0.01 mcg/kg/h",
+    "0.1 mcg/kg/h",
+    "1 mcg/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#4c614b",
+   "kind": "mcq",
+   "stem": "If IV access is difficult in cardiac surgery, what line should be inserted?",
+   "options": [
+    "A single-lumen CVC",
+    "A quad-lumen CVC",
+    "A 16G peripheral cannula",
+    "A pulmonary artery catheter"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#892a51",
+   "kind": "mcq",
+   "stem": "What fentanyl dose is given at induction in cardiac surgery?",
+   "options": [
+    "100 mcg",
+    "200 mcg",
+    "500 mcg",
+    "1 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#892a51",
+   "kind": "mcq",
+   "stem": "What midazolam dose range is given at induction in cardiac surgery?",
+   "options": [
+    "1-2 mg",
+    "3-5 mg",
+    "5-10 mg",
+    "10-20 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#892a51",
+   "kind": "mcq",
+   "stem": "What propofol dose range is given at induction in cardiac surgery?",
+   "options": [
+    "5-10 mg",
+    "20-50 mg",
+    "100-150 mg",
+    "200-250 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a7e198",
+   "kind": "mcq",
+   "stem": "During cardiac induction, which drug may be given as 2-3 ml boluses to control BP?",
+   "options": [
+    "Alfentanil",
+    "Fentanyl",
+    "Remifentanil",
+    "Midazolam"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#317c20",
+   "kind": "statement",
+   "stem": "How is the nasopharyngeal temperature probe handled during cardiac induction?",
+   "answer": "Insert, secure, transduce (check the label on screen)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#5a0089",
+   "kind": "statement",
+   "stem": "In cardiac induction, why consider passing an orogastric tube in and out?",
+   "answer": "To decompress the stomach before TEE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d97a90",
+   "kind": "statement",
+   "stem": "What is done with the TEE leads during cardiac induction?",
+   "answer": "Attach them to the machine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#b75dc5",
+   "kind": "mcq",
+   "stem": "What tranexamic acid dose range is given at induction in cardiac surgery?",
+   "options": [
+    "10-20 mg/kg",
+    "30-40 mg/kg",
+    "50-60 mg/kg",
+    "100 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#b75dc5",
+   "kind": "mcq",
+   "stem": "Which antibiotic is given at induction in cardiac surgery alongside tranexamic acid?",
+   "options": [
+    "Gentamicin",
+    "Cefazolin",
+    "Vancomycin",
+    "Metronidazole"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a86b0d",
+   "kind": "mcq",
+   "stem": "What atracurium infusion rate is used at induction in cardiac surgery?",
+   "options": [
+    "0.5-1 ml/h",
+    "2.5-3 ml/h",
+    "5-6 ml/h",
+    "10 ml/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a86b0d",
+   "kind": "mcq",
+   "stem": "What hourly atracurium bolus is given as an alternative to the infusion?",
+   "options": [
+    "5 mg",
+    "10 mg",
+    "20 mg",
+    "50 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#eb1cea",
+   "kind": "statement",
+   "stem": "In cardiac induction, what checks are made on the IV and arterial lines after tucking the arms in?",
+   "answer": "Confirm IV still runs and arterial line still aspirates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c48038",
+   "kind": "statement",
+   "stem": "Where should the drape bar sit in cardiac surgery?",
+   "answer": "Over the eyes, level, clear of the nose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#5fb837",
+   "kind": "mcq",
+   "stem": "If radial artery harvest is planned, which way is the drape corner folded?",
+   "options": [
+    "Towards the scrub side",
+    "Away from the assistant side",
+    "Towards the assistant side",
+    "Towards the head of the bed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#5fb837",
+   "kind": "statement",
+   "stem": "Why fold the drape corner when radial artery harvest is planned?",
+   "answer": "Stops flapping and contamination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a7f80d",
+   "kind": "statement",
+   "stem": "How is the defibrillator cable brought out during cardiac draping?",
+   "answer": "Passed out between the adhered part of the drape",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#30964c",
+   "kind": "mcq",
+   "stem": "In the high-dose opioid technique for cardiac surgery, the rest of the fentanyl is given up to what dose?",
+   "options": [
+    "2 mcg/kg",
+    "5 mcg/kg",
+    "10 mcg/kg",
+    "20 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#6351c3",
+   "kind": "statement",
+   "stem": "Which value is tracked on the ABG during cardiac induction?",
+   "answer": "Glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#6a66c4",
+   "kind": "mcq",
+   "stem": "At what glucose level in cardiac surgery should insulin be considered?",
+   "options": [
+    "Above 5 mmol/L",
+    "Above 10 mmol/L",
+    "Above 15 mmol/L",
+    "Above 20 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#6a66c4",
+   "kind": "mcq",
+   "stem": "Without adrenaline, what insulin rate is run in cardiac surgery?",
+   "options": [
+    "1 u/h",
+    "1/2 u/h",
+    "1/3 u/h",
+    "1/5 u/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#99ac0f",
+   "kind": "statement",
+   "stem": "On transfer to ICU after cardiac surgery, how is the insulin rate changed?",
+   "answer": "Reduce to 0.5X u/h based on the last glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d0c95d",
+   "kind": "statement",
+   "stem": "What should be documented after TEE in cardiac induction?",
+   "answer": "TEE findings",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e80b62",
+   "kind": "statement",
+   "stem": "How are the infusion lines managed on the table in cardiac surgery?",
+   "answer": "Coil together and hook to the side of the arm board",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#bc57be",
+   "kind": "mcq",
+   "stem": "What fentanyl dose is given just before sternotomy in cardiac surgery?",
+   "options": [
+    "50 mcg",
+    "250 mcg",
+    "500 mcg",
+    "750 mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#39ea8b",
+   "kind": "statement",
+   "stem": "What does 'lungs down' involve during sternotomy in cardiac surgery?",
+   "answer": "Switch to bag and/or disconnect the expiratory limb to deflate the lungs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#39ea8b",
+   "kind": "statement",
+   "stem": "Why are the lungs deflated during sternotomy in cardiac surgery?",
+   "answer": "So the pleura is less likely to be opened (pneumothorax)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#96bf02",
+   "kind": "mcq",
+   "stem": "In cardiac surgery at 'lungs up', what is done if the left pleura is breached?",
+   "options": [
+    "Ventilation is stopped",
+    "A chest drain goes in",
+    "Lungs are left deflated",
+    "Surgery is paused for x-ray"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#fd0803",
+   "kind": "mcq",
+   "stem": "During LIMA dissection in cardiac surgery, what tidal volume is used?",
+   "options": [
+    "4 ml/kg",
+    "6 ml/kg",
+    "8 ml/kg",
+    "10 ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#fd0803",
+   "kind": "statement",
+   "stem": "During LIMA dissection in cardiac surgery, what happens with PEEP and why?",
+   "answer": "PEEP is off, as it is usually not needed with an open chest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#fd0803",
+   "kind": "statement",
+   "stem": "During LIMA dissection in cardiac surgery, what does the surgeon ask for?",
+   "answer": "Table up and tilted away",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#cac9a7",
+   "kind": "statement",
+   "stem": "In endoscopic radial artery harvest, what should be watched for?",
+   "answer": "CO2 absorption and rising EtCO2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#cac9a7",
+   "kind": "mcq",
+   "stem": "Compared with radial artery harvest, CO2 absorption is less of an issue with which harvest?",
+   "options": [
+    "Pericardial window",
+    "Femoral vein cannulation",
+    "Saphenous vein harvest",
+    "Aortic root cannulation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#f6c00a",
+   "kind": "mcq",
+   "stem": "In cardiac surgery before bypass, how much saline flushes the heparin given via the central line?",
+   "options": [
+    "5 ml",
+    "50 ml",
+    "20 ml",
+    "100 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#73659b",
+   "kind": "blank",
+   "stem": "Before bypass in cardiac surgery, the target ACT checked after heparin is above ____ s.",
+   "answer": "400",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#ea5ed2",
+   "kind": "statement",
+   "stem": "In cardiac surgery, which alternative line can be used to sample ACT before bypass?",
+   "answer": "The arterial line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#bc1747",
+   "kind": "mcq",
+   "stem": "What systolic BP should be kept for aortic cannulation in cardiac surgery to avoid dislodging plaque?",
+   "options": [
+    "SBP 110-120",
+    "SBP 80-90",
+    "SBP 130-140",
+    "SBP 60-70"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#bc1747",
+   "kind": "blank",
+   "stem": "For aortic cannulation in cardiac surgery, a small GTN bolus of ____ ml may be given if needed.",
+   "answer": "0.3-0.5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#b868b9",
+   "kind": "statement",
+   "stem": "In cardiac surgery, what ACT level is needed before going on bypass?",
+   "answer": "Above 400 s",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#7d70d0",
+   "kind": "mcq",
+   "stem": "During cooling on cardiac bypass, which temperature falls first?",
+   "options": [
+    "Peripheral temperature",
+    "Rectal temperature",
+    "Oesophageal temperature",
+    "Nasopharyngeal temperature"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#ca8fcf",
+   "kind": "mcq",
+   "stem": "On cardiac bypass, which gas is left running at 0.5 L/min after the ventilator is turned off?",
+   "options": [
+    "Oxygen",
+    "Air",
+    "Sevoflurane",
+    "Nitrous oxide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#b3608f",
+   "kind": "blank",
+   "stem": "During cardiac bypass, set the QRS tone volume to ____.",
+   "answer": "0",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#b3608f",
+   "kind": "statement",
+   "stem": "What should be done with the monitor alarms during cardiac bypass?",
+   "answer": "Turn all monitor alarms off",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#3c46bf",
+   "kind": "statement",
+   "stem": "During cardiac bypass, which way should the BIS monitor be turned?",
+   "answer": "To face the perfusionist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#25edda",
+   "kind": "mcq",
+   "stem": "On cardiac bypass, what dose of extra midazolam is given?",
+   "options": [
+    "5-10 mg",
+    "10-20 mg",
+    "0.5-1 mg",
+    "25-30 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#25edda",
+   "kind": "blank",
+   "stem": "On cardiac bypass, if there is no atracurium infusion, give atracurium ____ mg.",
+   "answer": "20",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#25edda",
+   "kind": "statement",
+   "stem": "On cardiac bypass, when is morphine given?",
+   "answer": "At the start of bypass or during rewarming",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c775fb",
+   "kind": "mcq",
+   "stem": "If propofol is used on cardiac bypass, what infusion rate is given?",
+   "options": [
+    "0.4-0.5 mg/kg/h",
+    "4-5 mg/kg/h",
+    "40-50 mg/kg/h",
+    "10-12 mg/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#84bc20",
+   "kind": "statement",
+   "stem": "On cardiac bypass, what does the perfusionist give once the aortic cross-clamp is applied?",
+   "answer": "Cardioplegia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#27365e",
+   "kind": "mcq",
+   "stem": "On cardiac bypass, if blood pressure falls, what MAP range should be kept?",
+   "options": [
+    "80-100",
+    "40-50",
+    "60-80",
+    "100-120"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#624d99",
+   "kind": "statement",
+   "stem": "In the bypass phase of cardiac surgery, what pacing equipment should be checked?",
+   "answer": "The pacing box and batteries",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d2b9c6",
+   "kind": "blank",
+   "stem": "On cardiac bypass, keep blood glucose below ____.",
+   "answer": "10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d2b9c6",
+   "kind": "statement",
+   "stem": "On cardiac bypass, what should the potassium level be?",
+   "answer": "Normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0f3d62",
+   "kind": "blank",
+   "stem": "On cardiac bypass, the perfusionist keeps ACT above ____ s as a buffer.",
+   "answer": "480",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0f3c6b",
+   "kind": "blank",
+   "stem": "On cardiac bypass, take an arterial blood gas every ____ min.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0f3c6b",
+   "kind": "statement",
+   "stem": "During cardiac bypass, which on-pump arterial gases must be recorded?",
+   "answer": "The first and last on-pump gases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#3350fa",
+   "kind": "mcq",
+   "stem": "On cardiac bypass, what venous ScvO2 range is aimed for?",
+   "options": [
+    "55-60",
+    "75-80",
+    "90-95",
+    "40-45"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#3072e4",
+   "kind": "mcq",
+   "stem": "On cardiac bypass, what guides the oxygenator gas (sweep) flow?",
+   "options": [
+    "Blood pressure",
+    "Haemoglobin",
+    "pCO2",
+    "ScvO2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#3072e4",
+   "kind": "statement",
+   "stem": "On cardiac bypass, what guides pump flow?",
+   "answer": "Blood pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d7f0a6",
+   "kind": "mcq",
+   "stem": "On cardiac bypass, if MAP is not controlled with GTN, which drug can be considered?",
+   "options": [
+    "Noradrenaline",
+    "Adrenaline",
+    "Phentolamine",
+    "Atropine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d7f0a6",
+   "kind": "statement",
+   "stem": "How should phentolamine be prepared before giving it on cardiac bypass?",
+   "answer": "Dilute 10 mg/ml to 1 mg/ml, give 1 ml at a time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#bdf649",
+   "kind": "statement",
+   "stem": "On cardiac bypass, which drug is started at 0.1 mcg/kg/min and titrated upwards?",
+   "answer": "SNP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#789872",
+   "kind": "mcq",
+   "stem": "During rewarming on cardiac bypass, what GTN rate is used for more even peripheral warming?",
+   "options": [
+    "1 ml/h",
+    "10 ml/h",
+    "5 ml/h",
+    "2 ml/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a14727",
+   "kind": "mcq",
+   "stem": "On cardiac bypass rewarming, when should GTN be stopped?",
+   "options": [
+    "Peripheral-core gap above 0.5 °C",
+    "Peripheral-core gap above 2 °C",
+    "Peripheral-core gap below 0.5 °C",
+    "Temperature reaches 36 °C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a14727",
+   "kind": "statement",
+   "stem": "When GTN is stopped during rewarming on cardiac bypass, which drugs are increased?",
+   "answer": "Noradrenaline and adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0b15ea",
+   "kind": "blank",
+   "stem": "On cardiac bypass rewarming, redose relaxant when temperature is above 35 °C or EMG is above ____, whichever comes first.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0b15ea",
+   "kind": "mcq",
+   "stem": "On cardiac bypass rewarming, what dose of rocuronium or atracurium is used to redose relaxant?",
+   "options": [
+    "10 mg",
+    "20 mg",
+    "50 mg",
+    "100 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#739aaa",
+   "kind": "mcq",
+   "stem": "On cardiac bypass rewarming, at what temperature is blood taken for TEG platelet mapping?",
+   "options": [
+    "34 °C",
+    "38 °C",
+    "36 °C",
+    "32 °C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#8e94e6",
+   "kind": "statement",
+   "stem": "On cardiac bypass rewarming at 36 °C, which blood product should be ordered?",
+   "answer": "Platelets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e549fb",
+   "kind": "mcq",
+   "stem": "On cardiac bypass rewarming, how should platelets be given?",
+   "options": [
+    "Through the warmed line",
+    "Through a warmed giving set",
+    "Via a new giving set, not warmed",
+    "Through the warmed central line"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#6cf91c",
+   "kind": "statement",
+   "stem": "In cardiac surgery, what rhythm problem is common as the aortic cross-clamp comes off?",
+   "answer": "Arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#96de91",
+   "kind": "mcq",
+   "stem": "In cardiac surgery, what energy is used for internal defibrillation as the clamp comes off?",
+   "options": [
+    "1-2 J",
+    "20-30 J",
+    "6-10 J",
+    "100-200 J"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d1832a",
+   "kind": "blank",
+   "stem": "In cardiac surgery, for arrhythmia as the cross-clamp comes off, give lignocaine ____ mg.",
+   "answer": "100",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#351f9a",
+   "kind": "mcq",
+   "stem": "In cardiac surgery, what amiodarone bolus is given for arrhythmia as the clamp comes off?",
+   "options": [
+    "75 mg",
+    "150 mg",
+    "300 mg",
+    "450 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#351f9a",
+   "kind": "blank",
+   "stem": "In cardiac surgery, consider an amiodarone infusion in ____ ml water.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#21035c",
+   "kind": "mcq",
+   "stem": "In cardiac surgery, which colour pacing wire is attached to the atrium?",
+   "options": [
+    "White",
+    "Red",
+    "Blue",
+    "Green"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#21035c",
+   "kind": "blank",
+   "stem": "In cardiac surgery, after attaching the pacing wires, pace the heart at ____ bpm.",
+   "answer": "88",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e67064",
+   "kind": "statement",
+   "stem": "In cardiac surgery, what clamp is used on the aorta for the proximal anastomoses?",
+   "answer": "Side-biting clamp",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e65053",
+   "kind": "mcq",
+   "stem": "When weaning off cardiac bypass, how much should support be reduced at a time?",
+   "options": [
+    "5-10%",
+    "10-15%",
+    "75-100%",
+    "25-50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e65053",
+   "kind": "statement",
+   "stem": "What is TEE used for when weaning off cardiac bypass?",
+   "answer": "To check contractility",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#56bfcc",
+   "kind": "mcq",
+   "stem": "What is the initial protamine dose per 100 IU of heparin after cardiac bypass?",
+   "options": [
+    "0.5 mg",
+    "2 mg",
+    "5 mg",
+    "1 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#714639",
+   "kind": "mcq",
+   "stem": "After coming off cardiac bypass, how is protamine given when asked?",
+   "options": [
+    "As one rapid bolus via the central line",
+    "Slowly in 2 ml aliquots via a peripheral line",
+    "As a single 20 ml bolus via the arterial line",
+    "Through the cardiopulmonary bypass circuit"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0bed8a",
+   "kind": "blank",
+   "stem": "Protamine option: give 80% of the intended dose or ____ mg/kg, then check ACT.",
+   "answer": "20",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0bed8a",
+   "kind": "statement",
+   "stem": "What dosing option avoids protamine overdose after cardiac bypass?",
+   "answer": "Give 80% of the intended dose or 20 mg/kg, then check ACT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#13f2cb",
+   "kind": "mcq",
+   "stem": "What TXA dose is given after protamine when coming off cardiac bypass?",
+   "options": [
+    "1 g or 20 mg/kg",
+    "500 mg or 10 mg/kg",
+    "250 mg or 5 mg/kg",
+    "2 g or 50 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c66602",
+   "kind": "mcq",
+   "stem": "Which antibiotic at a 1 g dose is given when coming off cardiac bypass?",
+   "options": [
+    "Gentamicin",
+    "Cefazolin",
+    "Vancomycin",
+    "Metronidazole"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#020635",
+   "kind": "mcq",
+   "stem": "How long after coming off cardiac bypass should calcium be replaced?",
+   "options": [
+    "2 min",
+    "60 min",
+    "20 min",
+    "5 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a79bcc",
+   "kind": "statement",
+   "stem": "After coming off cardiac bypass, which tests can guide blood product replacement?",
+   "answer": "Platelet panel or ROTEM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a79bcc",
+   "kind": "statement",
+   "stem": "After coming off cardiac bypass, which plasma products should be considered?",
+   "answer": "FFP or CSP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#2f52fc",
+   "kind": "mcq",
+   "stem": "Coming off cardiac bypass, through which line is cell-saver blood returned?",
+   "options": [
+    "The central line",
+    "A peripheral line",
+    "The arterial line",
+    "The pulmonary artery line"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#2f52fc",
+   "kind": "statement",
+   "stem": "Why may oozing increase when cell-saver blood is returned after bypass?",
+   "answer": "It contains heparin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#2f52fc",
+   "kind": "blank",
+   "stem": "When resuscitating after cardiac bypass, consider giving ____ unit of gelatin or albumin.",
+   "answer": "1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#2f52fc",
+   "kind": "statement",
+   "stem": "After coming off cardiac bypass, what should be increased during resuscitation along with fluids?",
+   "answer": "Inotropes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#eec9e2",
+   "kind": "mcq",
+   "stem": "During aortic decannulation after cardiac bypass, what SBP range should be kept?",
+   "options": [
+    "SBP in the 120s",
+    "SBP in the 90s",
+    "SBP in the 60s",
+    "SBP in the 150s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#eec9e2",
+   "kind": "statement",
+   "stem": "At decannulation after cardiac bypass, which cannula usually comes out first?",
+   "answer": "The venous cannula",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#9fa76b",
+   "kind": "statement",
+   "stem": "At the end of cardiac surgery, what should be confirmed with the perfusionist?",
+   "answer": "Urine pre and on bypass, cross-clamp time, bypass time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#bcf6ee",
+   "kind": "mcq",
+   "stem": "At the end of cardiac surgery, at what rate is the propofol infusion started?",
+   "options": [
+    "1 ml/h",
+    "40 ml/h",
+    "100 ml/h",
+    "10 ml/h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#bcf6ee",
+   "kind": "blank",
+   "stem": "The propofol infusion for the end of cardiac surgery is made from 40 ml in a ____ ml syringe.",
+   "answer": "50",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#bcf6ee",
+   "kind": "statement",
+   "stem": "How long before the end of cardiac surgery should the propofol infusion start?",
+   "answer": "About 30 minutes before the end",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d7b466",
+   "kind": "statement",
+   "stem": "At the end of cardiac surgery, what guides turning sevoflurane down until it is off?",
+   "answer": "Blood pressure and BIS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#20616d",
+   "kind": "statement",
+   "stem": "At the end of cardiac surgery, which relaxant is given as a bolus if there is no infusion?",
+   "answer": "Atracurium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#4ae8b9",
+   "kind": "mcq",
+   "stem": "When should controlled drug records be signed after cardiac surgery?",
+   "options": [
+    "Immediately after each dose",
+    "Only after leaving theatre",
+    "Before the case starts",
+    "At the start of handover"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#37e52f",
+   "kind": "mcq",
+   "stem": "In cardiac anaesthesia, what dose in mcg is given at induction?",
+   "options": [
+    "100 mcg",
+    "400 mcg",
+    "600 mcg",
+    "200 mcg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#cf6656",
+   "kind": "mcq",
+   "stem": "In cardiac anaesthesia, what dose in mcg is given at skin incision and sternotomy?",
+   "options": [
+    "100 mcg",
+    "150 mcg",
+    "1000 mcg",
+    "300 mcg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#f64ef1",
+   "kind": "blank",
+   "stem": "In cardiac anaesthesia, during graft harvesting, give boluses of ____ mcg.",
+   "answer": "50",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#7fdaf8",
+   "kind": "mcq",
+   "stem": "In cardiac surgery, what total fluid volume should the case aim for?",
+   "options": [
+    "250 ml",
+    "1000 ml",
+    "2000 ml",
+    "500 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#7fdaf8",
+   "kind": "statement",
+   "stem": "In cardiac surgery, why is the total volume kept low?",
+   "answer": "The pump prime gives a lot of volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#581f17",
+   "kind": "statement",
+   "stem": "In cardiac surgery, which fluid is given as the second unit, and not to everyone?",
+   "answer": "Gelatin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#38b609",
+   "kind": "mcq",
+   "stem": "At the end of cardiac surgery, when should adrenaline be considered?",
+   "options": [
+    "If blood glucose is high",
+    "If ejection fraction is poor",
+    "If potassium is low",
+    "If temperature is above 36 °C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#53ff85",
+   "kind": "mcq",
+   "stem": "At the end of cardiac surgery, which diuretic is given if urine output is poor?",
+   "options": [
+    "Mannitol",
+    "Frusemide",
+    "Adrenaline",
+    "Protamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a308aa",
+   "kind": "mcq",
+   "stem": "Before ICU transfer after cardiac surgery, which wire is disconnected from the transducer?",
+   "options": [
+    "Axillary temperature wire",
+    "Rectal temperature wire",
+    "Oesophageal temperature wire",
+    "Bladder temperature wire"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#1deca5",
+   "kind": "mcq",
+   "stem": "Before ICU transfer after cardiac surgery, which temperature probe is disconnected and removed?",
+   "options": [
+    "Axillary",
+    "Tympanic",
+    "Nasopharyngeal",
+    "Infrared forehead"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0fe232",
+   "kind": "statement",
+   "stem": "Before ICU transfer after cardiac surgery, what is done to the CVC cable?",
+   "answer": "Unplug and coil it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0fe232",
+   "kind": "statement",
+   "stem": "After disconnecting CVC tubing from the transducer for ICU transfer, what is done with the tubing end?",
+   "answer": "Cap it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e3c25a",
+   "kind": "statement",
+   "stem": "At ICU transfer after cardiac surgery, what follows after the arterial cable is passed to the ICU monitor?",
+   "answer": "Plug in, zero and transduce",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a2a453",
+   "kind": "statement",
+   "stem": "At ICU transfer, where is the arterial/CVC pole moved to on the bed?",
+   "answer": "The centre pole hole on the far side of the bed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#f99089",
+   "kind": "statement",
+   "stem": "Before ICU transfer after cardiac surgery, what is done with the TEE leads?",
+   "answer": "Peel them off",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#39d930",
+   "kind": "statement",
+   "stem": "At ICU transfer, who attaches new ECG leads for the ICU monitor?",
+   "answer": "The assistant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#a7395c",
+   "kind": "statement",
+   "stem": "At ICU transfer after cardiac surgery, what tape is removed from the patient?",
+   "answer": "Eye tape",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0b7f4b",
+   "kind": "statement",
+   "stem": "At ICU transfer after cardiac surgery, which two infusions are disconnected?",
+   "answer": "Atracurium and insulin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#86cf09",
+   "kind": "blank",
+   "stem": "At ICU transfer, keep the other infusions running at ____ ml/h.",
+   "answer": "0.1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#1a748d",
+   "kind": "statement",
+   "stem": "At ICU transfer, where is the half pole moved to on the bed?",
+   "answer": "The near-side pole hole",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#1a748d",
+   "kind": "statement",
+   "stem": "Before ICU transfer after cardiac surgery, which two items are checked to work?",
+   "answer": "Bag-valve-mask and oxygen cylinder",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#d4e050",
+   "kind": "statement",
+   "stem": "When the patient is turned at ICU transfer, which pads are removed?",
+   "answer": "Diathermy and defibrillator pads",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#4f40e4",
+   "kind": "statement",
+   "stem": "At ICU transfer, how is bilateral chest rise confirmed after connecting oxygen?",
+   "answer": "With bagging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#acceb2",
+   "kind": "statement",
+   "stem": "At handover after cardiac surgery, which demographics are given?",
+   "answer": "Name, age and drug allergies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#c7d7b1",
+   "kind": "statement",
+   "stem": "In cardiac anaesthesia handover, which intraoperative events should be reported?",
+   "answer": "Difficult intubation or venous access, arrhythmia, difficulty weaning from bypass, bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#78fb64",
+   "kind": "statement",
+   "stem": "In cardiac anaesthesia handover, what should be reported about heparin and protamine?",
+   "answer": "Heparin and protamine given, and the last ACT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#22de10",
+   "kind": "statement",
+   "stem": "In cardiac anaesthesia handover, which fluid balance items should be reported?",
+   "answer": "Fluids in and out, including urine and blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#7b4087",
+   "kind": "mcq",
+   "stem": "Which of these is an indication for off-pump cardiac surgery?",
+   "options": [
+    "Need for deep hypothermic circulatory arrest",
+    "Porcelain aorta unsuitable for clamping",
+    "Planned use of hypotensive anaesthesia",
+    "Routine need for intra-aortic balloon pump"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#45a91f",
+   "kind": "statement",
+   "stem": "How is temperature managed in off-pump cardiac surgery?",
+   "answer": "Active warming with a fluid warmer and active humidifier",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e5db4a",
+   "kind": "mcq",
+   "stem": "In off-pump cardiac surgery, what fluid volume is suggested?",
+   "options": [
+    "5-10 ml/kg",
+    "10-12 ml/kg",
+    "15-20 ml/kg",
+    "25-30 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#92f759",
+   "kind": "mcq",
+   "stem": "What heparin dose is used in off-pump cardiac surgery?",
+   "options": [
+    "50-100 u/kg",
+    "300-400 u/kg",
+    "400-500 u/kg",
+    "150-200 u/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#92f759",
+   "kind": "statement",
+   "stem": "In off-pump cardiac surgery, why is there less oozing?",
+   "answer": "No CPB inflammatory response, and less heparin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#88217a",
+   "kind": "mcq",
+   "stem": "In off-pump cardiac surgery, what heart rate is aimed for to reduce movement in the field?",
+   "options": [
+    "HR 60",
+    "HR 40",
+    "HR 80",
+    "HR 100"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#88217a",
+   "kind": "statement",
+   "stem": "In off-pump cardiac surgery, which drugs are used to raise blood pressure?",
+   "answer": "Noradrenaline or phenylephrine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#8a2cf9",
+   "kind": "mcq",
+   "stem": "In off-pump surgery, which 2-limbed suction stabiliser holds a section of myocardium still?",
+   "options": [
+    "Starfish",
+    "Tourniquet",
+    "Octopus",
+    "Sternal retractor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#8a2cf9",
+   "kind": "statement",
+   "stem": "In off-pump surgery, what does the 5-limbed starfish stabiliser do?",
+   "answer": "Lifts the apex for work on the circumflex territory on the posterior surface",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#de89cc",
+   "kind": "blank",
+   "stem": "In the cardiopulmonary bypass circuit, the main arterial line runs to the ____.",
+   "answer": "arterial cannula",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#221ddd",
+   "kind": "mcq",
+   "stem": "In the cardiopulmonary bypass circuit, which component cools or warms the blood?",
+   "options": [
+    "Dual heat exchanger",
+    "Bubble trap",
+    "Cardioplegia roller pump",
+    "Venous reservoir"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#e14c4b",
+   "kind": "statement",
+   "stem": "In cardiac surgery, which heart parameters does TEE assess better than TTE?",
+   "answer": "LVEF, regional wall motion, RV function and volume status",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#b0590b",
+   "kind": "statement",
+   "stem": "In cardiac surgery, when does TEE valve assessment help more than TTE?",
+   "answer": "After valve repair or replacement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#2715b2",
+   "kind": "statement",
+   "stem": "In cardiac surgery, what causes heparin resistance?",
+   "answer": "Relative deficiency of antithrombin III",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-anaesthesia#0b3d38",
+   "kind": "mcq",
+   "stem": "What treats heparin resistance in cardiac surgery?",
+   "options": [
+    "Protamine",
+    "Tranexamic acid",
+    "FFP",
+    "Platelet transfusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

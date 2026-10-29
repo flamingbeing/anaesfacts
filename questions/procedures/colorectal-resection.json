@@ -1,0 +1,571 @@
+{
+ "topic": "procedures/colorectal-resection",
+ "questions": [
+  {
+   "fact_id": "procedures/colorectal-resection#75e687",
+   "kind": "mcq",
+   "stem": "How long does a laparoscopic colorectal resection usually take?",
+   "options": [
+    "30-60min",
+    "90-180min",
+    "4-6hr",
+    "240-300min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#75e687",
+   "kind": "statement",
+   "stem": "How does open anterior resection compare with laparoscopic colorectal resection for operating time?",
+   "answer": "Open anterior resection is faster.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#ada8f8",
+   "kind": "mcq",
+   "stem": "What is typical blood loss in laparoscopic colorectal resection without conversion?",
+   "options": [
+    "Under 100ml",
+    "Under 500ml",
+    "Over 1000ml",
+    "Over 2000ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#ada8f8",
+   "kind": "statement",
+   "stem": "Blood loss in laparoscopic colorectal resection rises if the case is converted to what?",
+   "answer": "Laparotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#347468",
+   "kind": "mcq",
+   "stem": "What patient position is used for laparoscopic colorectal resection?",
+   "options": [
+    "Prone jack-knife",
+    "Supine with arms tucked",
+    "Steep head-down lithotomy (Lloyd-Davies)",
+    "Left lateral decubitus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#075a58",
+   "kind": "mcq",
+   "stem": "Which airway is standard for laparoscopic colorectal resection under general anaesthesia?",
+   "options": [
+    "Laryngeal mask airway",
+    "Nasal endotracheal tube",
+    "Routine oral intubation",
+    "Tracheostomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#a41489",
+   "kind": "statement",
+   "stem": "Colorectal resection preoperative assessment: what are patients often like?",
+   "answer": "Elderly with significant comorbidity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#0db22f",
+   "kind": "mcq",
+   "stem": "In colorectal resection assessment, what sets how urgent the operation is?",
+   "options": [
+    "Patient's age",
+    "Body mass index",
+    "Surgeon's preference",
+    "The indication"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#ce3b75",
+   "kind": "mcq",
+   "stem": "Why use gentle mask ventilation after induction for colorectal surgery?",
+   "options": [
+    "To reverse neuromuscular block",
+    "To avoid gastric inflation",
+    "To prevent intraoperative awareness",
+    "To increase tidal volume"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#a4d22f",
+   "kind": "statement",
+   "stem": "Why ask about an NG or OG tube early in colorectal surgery?",
+   "answer": "Easier to place before surgery starts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#5c237c",
+   "kind": "mcq",
+   "stem": "In colorectal resection, why should the arterial line transducer be secured?",
+   "options": [
+    "So the surgeon can see the monitor",
+    "So positioning does not dislodge it",
+    "To allow earlier extubation",
+    "To reduce fluid requirement"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#fec483",
+   "kind": "mcq",
+   "stem": "Which monitor should always be used when giving full muscle relaxation in colorectal surgery?",
+   "options": [
+    "Arterial blood gas analysis",
+    "Bispectral index monitor",
+    "Nerve stimulator",
+    "Central venous pressure line"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#36f08b",
+   "kind": "mcq",
+   "stem": "In laparoscopic colorectal surgery, which infusion blunts the response to pneumoperitoneum?",
+   "options": [
+    "Propofol infusion",
+    "Morphine infusion",
+    "Remifentanil infusion",
+    "Lidocaine infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#4775ac",
+   "kind": "mcq",
+   "stem": "Which block is part of multimodal analgesia for colorectal surgery?",
+   "options": [
+    "Femoral nerve block",
+    "Stellate ganglion block",
+    "TAP block",
+    "Sciatic nerve block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#5e0d3b",
+   "kind": "mcq",
+   "stem": "In steep head-down colorectal positioning, which shoulder precaution is advised?",
+   "options": [
+    "Leave shoulders bare",
+    "Pad the shoulders",
+    "Flex the neck fully",
+    "Tape the arms to the sides"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#7272b1",
+   "kind": "statement",
+   "stem": "Which monitoring is suggested for high-risk colorectal resection patients?",
+   "answer": "Central line or minimally invasive cardiac output monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#1537e2",
+   "kind": "statement",
+   "stem": "During laparoscopic colorectal surgery, what should happen if the operation makes no progress?",
+   "answer": "Do not let the surgeon stay in steep head-down for long",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#ac883e",
+   "kind": "mcq",
+   "stem": "Which eye finding is common after prolonged steep head-down laparoscopic colorectal surgery?",
+   "options": [
+    "Corneal ulceration",
+    "Conjunctival oedema",
+    "Optic neuritis",
+    "Retinal detachment"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#eb1571",
+   "kind": "mcq",
+   "stem": "After laparoscopic colorectal surgery, which opioids are used in PCA?",
+   "options": [
+    "Codeine or tramadol",
+    "Pethidine or buprenorphine",
+    "Morphine or fentanyl",
+    "Oxycodone or methadone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#bc3d99",
+   "kind": "mcq",
+   "stem": "What anaesthetic technique is used for open colorectal resection?",
+   "options": [
+    "Spinal anaesthesia alone",
+    "General anaesthesia",
+    "Local infiltration only",
+    "Sedation with regional block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#2f1408",
+   "kind": "statement",
+   "stem": "During open colorectal resection, what may the surgeon allow for the patient's arms?",
+   "answer": "Arms out",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#625050",
+   "kind": "mcq",
+   "stem": "After open colorectal resection, how long should paracetamol be prescribed?",
+   "options": [
+    "1 day",
+    "3 days",
+    "5 days",
+    "7 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#f9d407",
+   "kind": "mcq",
+   "stem": "Which local anaesthetic is used in the thoracic epidural for open colorectal surgery?",
+   "options": [
+    "Bupivacaine 0.25%",
+    "Ropivacaine 0.12%",
+    "Lidocaine 2%",
+    "Levobupivacaine 0.5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#f9d407",
+   "kind": "mcq",
+   "stem": "What is the PCEA lockout interval for a thoracic epidural in open colorectal surgery?",
+   "options": [
+    "5-10min",
+    "15-20min",
+    "30-45min",
+    "45-60min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#f9d407",
+   "kind": "statement",
+   "stem": "For a thoracic epidural after open colorectal surgery, who should be involved?",
+   "answer": "Refer to acute pain service",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#4840c3",
+   "kind": "mcq",
+   "stem": "What is the fentanyl concentration in the PCA after open colorectal resection?",
+   "options": [
+    "2mcg/ml",
+    "20mcg/ml",
+    "50mcg/ml",
+    "100mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#4840c3",
+   "kind": "mcq",
+   "stem": "What lockout interval is set for the fentanyl PCA after open colorectal resection?",
+   "options": [
+    "10min",
+    "5min",
+    "20min",
+    "30min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#a4563e",
+   "kind": "mcq",
+   "stem": "Which local anaesthetic is in the PainBuster continuous wound infusion after open colorectal surgery?",
+   "options": [
+    "Bupivacaine 2mg/ml",
+    "Ropivacaine 0.2mg/ml",
+    "Ropivacaine 2mg/ml",
+    "Lidocaine 20mg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#1353bb",
+   "kind": "mcq",
+   "stem": "How is ERAS for major colorectal surgery best described?",
+   "options": [
+    "A single new anaesthetic drug",
+    "A preoperative sedation protocol",
+    "A bundle of care",
+    "A surgical stapling technique"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#954471",
+   "kind": "mcq",
+   "stem": "Which premedication is advised in ERAS for major colorectal surgery?",
+   "options": [
+    "Oral midazolam",
+    "Intramuscular diazepam",
+    "No sedative premedication",
+    "Oral lorazepam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#c7d7e9",
+   "kind": "mcq",
+   "stem": "Which PONV prophylaxis is advised in ERAS for major colorectal surgery?",
+   "options": [
+    "Single antiemetic only",
+    "No antiemetic prophylaxis",
+    "Dual antiemetics",
+    "Routine nasogastric decompression"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#c7d7e9",
+   "kind": "statement",
+   "stem": "What technique is considered for high PONV risk in ERAS colorectal anaesthesia?",
+   "answer": "TIVA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#ab16b7",
+   "kind": "mcq",
+   "stem": "By how much does a carbohydrate drink 2hr before colorectal surgery reduce postoperative problems?",
+   "options": [
+    "24%",
+    "32%",
+    "44%",
+    "54%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#ab16b7",
+   "kind": "statement",
+   "stem": "Which postoperative problems does a carbohydrate drink before colorectal surgery reduce?",
+   "answer": "Nausea and vomiting, pain, diarrhoea, dizziness, wound problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#61e2e9",
+   "kind": "mcq",
+   "stem": "When should antibiotics be given in ERAS colorectal surgery?",
+   "options": [
+    "Within 30min before incision",
+    "Within 30min after incision",
+    "Within 120min before incision",
+    "Immediately after closure"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#9a05f7",
+   "kind": "mcq",
+   "stem": "By how much does each extra litre of fluid raise complications in colorectal surgery?",
+   "options": [
+    "12%",
+    "24%",
+    "32%",
+    "42%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#9a05f7",
+   "kind": "mcq",
+   "stem": "How much does each extra litre of fluid add to length of stay in colorectal surgery?",
+   "options": [
+    "12hrs",
+    "24hrs",
+    "48hrs",
+    "72hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#68257a",
+   "kind": "mcq",
+   "stem": "What fluid restriction rate is advised in colorectal ERAS?",
+   "options": [
+    "2-3ml/kg/hr",
+    "4-6ml/kg/hr",
+    "5-7ml/kg/hr",
+    "10-15ml/kg/hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#68257a",
+   "kind": "statement",
+   "stem": "Which fluid should be avoided when restricting fluids in colorectal ERAS?",
+   "answer": "Normal saline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#280ac1",
+   "kind": "mcq",
+   "stem": "Which patients should get acute pain service follow-up after colorectal surgery?",
+   "options": [
+    "Only patients on oral opioids",
+    "Only patients in intensive care",
+    "All patients with IV PCA or regional analgesia",
+    "Patients with no postoperative analgesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#4fa2a6",
+   "kind": "statement",
+   "stem": "What is step 1 of acute pain service follow-up after colorectal surgery?",
+   "answer": "Review pain and analgesic use",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#4c0a05",
+   "kind": "mcq",
+   "stem": "When does the acute pain service aim to stop IV PCA after colorectal surgery?",
+   "options": [
+    "About 2-4h",
+    "About 24-48h",
+    "About 72-96h",
+    "About 5-7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#46fd88",
+   "kind": "mcq",
+   "stem": "How long is an epidural usually kept after colorectal surgery?",
+   "options": [
+    "12-24h",
+    "48-72h",
+    "5-7 days",
+    "96-120h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#cb1988",
+   "kind": "mcq",
+   "stem": "What is the maximum duration of oral etoricoxib added at acute pain follow-up?",
+   "options": [
+    "2 days",
+    "5 days",
+    "7 days",
+    "14 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#cb1988",
+   "kind": "mcq",
+   "stem": "What dose of oral etoricoxib (Arcoxia) is added at acute pain follow-up if surgeons agree?",
+   "options": [
+    "1-1.5mg/kg daily",
+    "10-15mg daily",
+    "0.1-0.15mg/kg daily",
+    "50-60mg daily"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/colorectal-resection#e502f4",
+   "kind": "statement",
+   "stem": "What are the goals of acute pain service follow-up after colorectal surgery?",
+   "answer": "Avoid side effects, early mobilisation and bowel function, intact anastomosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

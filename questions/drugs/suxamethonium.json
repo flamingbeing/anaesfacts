@@ -1,0 +1,1055 @@
+{
+ "topic": "drugs/suxamethonium",
+ "questions": [
+  {
+   "fact_id": "drugs/suxamethonium#1a7dbb",
+   "kind": "mcq",
+   "stem": "How is suxamethonium solution presented, by strength and volume?",
+   "options": [
+    "50mg in 2ml",
+    "100mg in 10ml",
+    "100mg in 2ml",
+    "200mg in 2ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#fa4740",
+   "kind": "mcq",
+   "stem": "At what temperature should suxamethonium be stored?",
+   "options": [
+    "22°C",
+    "37°C",
+    "4°C",
+    "-20°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#9e37d1",
+   "kind": "statement",
+   "stem": "What is the chemical structure of suxamethonium?",
+   "answer": "Two acetylcholine molecules joined through their acetyl groups.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#69e92a",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker, once used in the UK, is now research-only?",
+   "options": [
+    "Atracurium",
+    "Rocuronium",
+    "Vecuronium",
+    "Decamethonium (C10)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#e8c469",
+   "kind": "statement",
+   "stem": "Which route is used for suxamethonium intubation, and which alternative route is possible?",
+   "answer": "IV for intubation; IM is possible, e.g. for laryngospasm without IV access.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#ad9434",
+   "kind": "statement",
+   "stem": "Why must suxamethonium not be given by infusion?",
+   "answer": "Phase 2 block is unpredictable.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#d68166",
+   "kind": "mcq",
+   "stem": "What is the ED95 dose of suxamethonium?",
+   "options": [
+    "0.1mg/kg",
+    "0.5mg/kg",
+    "0.8mg/kg",
+    "0.3mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c33836",
+   "kind": "mcq",
+   "stem": "What is the adult IV intubating dose of suxamethonium?",
+   "options": [
+    "0.3-0.5mg/kg",
+    "1-1.5mg/kg",
+    "2-3mg/kg",
+    "4-5mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#465f96",
+   "kind": "mcq",
+   "stem": "How fast is the onset of suxamethonium after IV injection?",
+   "options": [
+    "15sec",
+    "60sec",
+    "30sec",
+    "2min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#8c6688",
+   "kind": "mcq",
+   "stem": "How long does a suxamethonium block usually last?",
+   "options": [
+    "1-2min",
+    "5-10min",
+    "20-30min",
+    "45-60min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#8c6688",
+   "kind": "statement",
+   "stem": "How soon does recovery start after a suxamethonium dose?",
+   "answer": "Within 3 min.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#8c6688",
+   "kind": "mcq",
+   "stem": "Within how many minutes is recovery from suxamethonium complete?",
+   "options": [
+    "8–9 min",
+    "12–15 min",
+    "20–25 min",
+    "30–40 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#89170b",
+   "kind": "statement",
+   "stem": "What duration range do some teaching sources quote for suxamethonium?",
+   "answer": "3-5 mins.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#7de923",
+   "kind": "mcq",
+   "stem": "What IV suxamethonium dose typically breaks laryngospasm?",
+   "options": [
+    "0.05mg/kg",
+    "0.5mg/kg",
+    "2.5mg/kg",
+    "10mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#7de923",
+   "kind": "statement",
+   "stem": "What IV dose range of suxamethonium breaks laryngospasm?",
+   "answer": "0.25 to 1 mg/kg.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#1522d6",
+   "kind": "statement",
+   "stem": "In adult bronchoscopy, what suxamethonium dose has been reported to break laryngospasm while keeping spontaneous breathing?",
+   "answer": "0.1 mg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#fbe2c0",
+   "kind": "mcq",
+   "stem": "What IM suxamethonium dose is used for laryngospasm?",
+   "options": [
+    "0.3mg/kg",
+    "1-1.5mg/kg",
+    "4mg/kg",
+    "10mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#e8c215",
+   "kind": "mcq",
+   "stem": "In children, what IM suxamethonium dose is given?",
+   "options": [
+    "0.3mg/kg",
+    "1mg/kg",
+    "4mg/kg",
+    "10mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#04cacc",
+   "kind": "mcq",
+   "stem": "How long does laryngospasm take to break after suxamethonium?",
+   "options": [
+    "10–15 s",
+    "45 s–1 min",
+    "5–6 min",
+    "8–10 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#5cee77",
+   "kind": "mcq",
+   "stem": "What IV suxamethonium dose is used for infants?",
+   "options": [
+    "0.3mg/kg",
+    "2mg/kg",
+    "5mg/kg",
+    "6mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#5cee77",
+   "kind": "mcq",
+   "stem": "What IV suxamethonium dose is used for neonates?",
+   "options": [
+    "1mg/kg",
+    "0.5mg/kg",
+    "3mg/kg",
+    "5mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#5cee77",
+   "kind": "statement",
+   "stem": "Roughly how long does IV suxamethonium last in infants and neonates?",
+   "answer": "6–8 min, about the same as or a little shorter than the adult 1 mg/kg dose.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#f06a3c",
+   "kind": "statement",
+   "stem": "What type of action does suxamethonium have at the neuromuscular junction?",
+   "answer": "Non-competitive agonist at nicotinic acetylcholine receptors.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#cbc562",
+   "kind": "statement",
+   "stem": "Why can't the end plate repolarise after suxamethonium?",
+   "answer": "It is not hydrolysed by true acetylcholinesterase, and plasma cholinesterase is absent at the junction, so it stays bound.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#4571ff",
+   "kind": "statement",
+   "stem": "What causes the phase I block with suxamethonium?",
+   "answer": "A zone of inexcitable membrane with raised potassium permeability blocks muscle action potentials.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#a4ef2c",
+   "kind": "statement",
+   "stem": "Which tetanic responses are absent during a suxamethonium block?",
+   "answer": "Fade and post-tetanic potentiation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#67764b",
+   "kind": "statement",
+   "stem": "How does the effect of suxamethonium end?",
+   "answer": "The drug diffuses away from the junction while plasma cholinesterase lowers the plasma level.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#a90ed5",
+   "kind": "mcq",
+   "stem": "Which drug makes a suxamethonium block deeper and longer?",
+   "options": [
+    "Sugammadex",
+    "Atropine",
+    "Glycopyrronium",
+    "Neostigmine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#044b95",
+   "kind": "mcq",
+   "stem": "What total suxamethonium dose, from repeated doses or infusion, can cause phase II block?",
+   "options": [
+    "More than 1mg/kg",
+    "More than 2mg/kg",
+    "More than 4mg/kg",
+    "More than 10mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#044b95",
+   "kind": "statement",
+   "stem": "Which patients can develop phase II block after a single suxamethonium dose?",
+   "answer": "Those with atypical plasma cholinesterase.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#364f6e",
+   "kind": "mcq",
+   "stem": "Which agents speed the onset of suxamethonium?",
+   "options": [
+    "Anticholinesterases",
+    "Volatile anaesthetics",
+    "Opioid analgesics",
+    "Calcium channel blockers"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#bf04fd",
+   "kind": "statement",
+   "stem": "How does a phase II suxamethonium block look on tetanic testing?",
+   "answer": "Like a non-depolarising block, with fade, tetanic fade and post-tetanic potentiation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c5e8cd",
+   "kind": "statement",
+   "stem": "Should anticholinesterases be used to reverse suxamethonium block, and what is preferred?",
+   "answer": "They can antagonise it unpredictably; better to allow spontaneous recovery.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c150f5",
+   "kind": "statement",
+   "stem": "How do fasciculations affect safe apnoea time during suxamethonium?",
+   "answer": "They raise oxygen consumption and can shorten it.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#ea360e",
+   "kind": "statement",
+   "stem": "What muscle symptom can follow suxamethonium fasciculations?",
+   "answer": "Myalgia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#16a41d",
+   "kind": "mcq",
+   "stem": "In a normal response, by how much does potassium rise after suxamethonium?",
+   "options": [
+    "0.1 mmol/L",
+    "1.5 mmol/L",
+    "2.0 mmol/L",
+    "0.5 mmol/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c0d144",
+   "kind": "mcq",
+   "stem": "When after injury do burns over 10% or crush injury carry high suxamethonium risk?",
+   "options": [
+    "0–6 hours",
+    "24–72 hours",
+    "1–2 weeks",
+    "2–3 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c0d144",
+   "kind": "statement",
+   "stem": "For how long after burns or crush injury does suxamethonium risk last?",
+   "answer": "Up to 18 months.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#f3b192",
+   "kind": "statement",
+   "stem": "Which denervation or upper motor neurone lesions raise suxamethonium hyperkalaemia risk from 24–72 hours?",
+   "answer": "Denervation and upper motor neurone lesions, such as stroke or spinal cord injury with paraplegia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#89cfe1",
+   "kind": "mcq",
+   "stem": "How early does immobilisation begin to upregulate suxamethonium's effect?",
+   "options": [
+    "1–2 hours",
+    "3–4 days",
+    "2–3 weeks",
+    "6–8 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c81dd1",
+   "kind": "mcq",
+   "stem": "By how much does suxamethonium raise intraocular pressure?",
+   "options": [
+    "1–2 mmHg",
+    "20–25 mmHg",
+    "5–10 mmHg",
+    "40–50 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#089c3f",
+   "kind": "mcq",
+   "stem": "When does suxamethonium's peak effect occur after IV injection?",
+   "options": [
+    "Within 30sec",
+    "15–20 min",
+    "1–2 min",
+    "5–10 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#33b404",
+   "kind": "mcq",
+   "stem": "Suxamethonium raises intragastric pressure. What happens to lower oesophageal sphincter pressure?",
+   "options": [
+    "It falls, allowing gastric contents to reflux",
+    "It is unchanged, so reflux is unaffected",
+    "A matching rise in sphincter pressure",
+    "It rises only after the block wears off"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#6a2845",
+   "kind": "mcq",
+   "stem": "Which statement about suxamethonium and intracranial pressure is correct?",
+   "options": [
+    "It causes a marked rise in intracranial pressure",
+    "It causes a rise only in children",
+    "It causes a small rise that lasts minutes",
+    "It causes no rise in intracranial pressure"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#dbf40d",
+   "kind": "statement",
+   "stem": "Suxamethonium is a recognised trigger for which life-threatening condition?",
+   "answer": "Malignant hyperthermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#75e2ac",
+   "kind": "mcq",
+   "stem": "What defines suxamethonium apnoea?",
+   "options": [
+    "Bronchospasm after the first dose",
+    "Immediate apnoea from high plasma cholinesterase",
+    "A block shortened by low cholinesterase activity",
+    "Prolonged block with low plasma cholinesterase activity"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#dca60d",
+   "kind": "mcq",
+   "stem": "Roughly what share of neuromuscular blocker hypersensitivity reactions involves suxamethonium?",
+   "options": [
+    "About 5%",
+    "About 25%",
+    "About 50%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#dca60d",
+   "kind": "mcq",
+   "stem": "How often does suxamethonium cause a hypersensitivity reaction?",
+   "options": [
+    "About 1 in 400 administrations",
+    "About 1 in 4000 administrations",
+    "About 1 in 40,000 administrations",
+    "About 1 in 400,000 administrations"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#bad23e",
+   "kind": "mcq",
+   "stem": "What is the classic immune mechanism of suxamethonium anaphylaxis?",
+   "options": [
+    "Type 2 cytotoxic antibody-mediated",
+    "Type 1 (IgE) anaphylaxis",
+    "Type 4 delayed T-cell reaction",
+    "Direct cholinesterase inhibition"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#d5ef77",
+   "kind": "mcq",
+   "stem": "Which electrolyte disturbance is a contraindication to suxamethonium?",
+   "options": [
+    "Hypokalaemia",
+    "Hyponatraemia",
+    "Hypercalcaemia",
+    "Hyperkalaemia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#44090b",
+   "kind": "mcq",
+   "stem": "Suxamethonium is contraindicated in burns over what percentage?",
+   "options": [
+    "5%",
+    "20%",
+    "30%",
+    "10%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#44090b",
+   "kind": "statement",
+   "stem": "Why is crush injury a contraindication to suxamethonium?",
+   "answer": "CK already high",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#053c7d",
+   "kind": "blank",
+   "stem": "Suxamethonium is contraindicated in patients with ____ susceptibility.",
+   "answer": "Malignant hyperthermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#29ccf5",
+   "kind": "blank",
+   "stem": "Suxamethonium is contraindicated after known plasma cholinesterase deficiency or previous ____.",
+   "answer": "suxamethonium apnoea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#70caf8",
+   "kind": "blank",
+   "stem": "Suxamethonium is contraindicated in patients with a known ____.",
+   "answer": "allergy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#1fa97a",
+   "kind": "mcq",
+   "stem": "Which eye injury is a contraindication to suxamethonium?",
+   "options": [
+    "Closed globe injury",
+    "Corneal abrasion",
+    "Open globe injury",
+    "Subconjunctival haemorrhage"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#f6a36a",
+   "kind": "mcq",
+   "stem": "For which indication is suxamethonium mainly used, given its fastest onset and shortest duration?",
+   "options": [
+    "Long-term ventilation of ICU patients",
+    "Maintenance of relaxation during surgery",
+    "Intubation, especially RSI",
+    "Procedural sedation for endoscopy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c63279",
+   "kind": "mcq",
+   "stem": "Which enzyme hydrolyses suxamethonium?",
+   "options": [
+    "Acetylcholinesterase",
+    "Plasma cholinesterase",
+    "Carbonic anhydrase",
+    "Alkaline phosphatase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c63279",
+   "kind": "blank",
+   "stem": "The plasma cholinesterase that breaks down suxamethonium is made in the ____.",
+   "answer": "liver",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#3a20c2",
+   "kind": "mcq",
+   "stem": "Given its rapid hydrolysis, what share of an IV suxamethonium dose reaches the neuromuscular junction?",
+   "options": [
+    "5%",
+    "20%",
+    "50%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#e1ff8f",
+   "kind": "mcq",
+   "stem": "What proportion of suxamethonium is excreted unchanged in urine?",
+   "options": [
+    "About 50%",
+    "Around 25%",
+    "Less than 10%",
+    "Over 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#78ab94",
+   "kind": "mcq",
+   "stem": "What is the normal dibucaine number for plasma cholinesterase?",
+   "options": [
+    "20",
+    "50",
+    "80",
+    "95"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#fb02b0",
+   "kind": "mcq",
+   "stem": "Which plasma cholinesterase variant is the commonest abnormal one?",
+   "options": [
+    "Silent (Es)",
+    "Acquired deficiency",
+    "Atypical (Ea)",
+    "Normal (Eu)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#fb02b0",
+   "kind": "blank",
+   "stem": "Atypical (Ea) plasma cholinesterase has a dibucaine number of about ____.",
+   "answer": "20",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#be3703",
+   "kind": "mcq",
+   "stem": "Which plasma cholinesterase variant has no working enzyme and a dibucaine number of 0?",
+   "options": [
+    "Atypical (Ea)",
+    "Normal (Eu)",
+    "Silent (Es)",
+    "Acquired deficiency"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#524830",
+   "kind": "statement",
+   "stem": "How does acquired plasma cholinesterase deficiency arise?",
+   "answer": "Less enzyme is made",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#cab4f5",
+   "kind": "mcq",
+   "stem": "By about how much does plasma cholinesterase activity fall in pregnancy and postpartum?",
+   "options": [
+    "About 5%",
+    "About 10%",
+    "About 25%",
+    "About 75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#cab4f5",
+   "kind": "statement",
+   "stem": "Why does plasma cholinesterase activity fall in pregnancy?",
+   "answer": "Haemodilution and hormones",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#c0c1fd",
+   "kind": "statement",
+   "stem": "How can drugs reduce plasma cholinesterase activity, prolonging suxamethonium block?",
+   "answer": "Direct inhibition or competing substrates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#b240ef",
+   "kind": "mcq",
+   "stem": "Plasma cholinesterase is encoded by a single gene on which chromosome?",
+   "options": [
+    "Chromosome 1",
+    "Chromosome 9",
+    "Chromosome 3",
+    "Chromosome 17"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#3032ce",
+   "kind": "mcq",
+   "stem": "What structure does the normal plasma cholinesterase enzyme (gene E1u) have?",
+   "options": [
+    "A monomeric protein with a single subunit",
+    "A dimeric lipoprotein of two subunits",
+    "A tetrameric glycoprotein of four identical subunits",
+    "A single-chain enzyme with two subunits"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#7ccb12",
+   "kind": "mcq",
+   "stem": "What kind of genetic change produces plasma cholinesterase variants?",
+   "options": [
+    "Single amino acid substitutions",
+    "Promoter methylation changes",
+    "Chromosomal translocations",
+    "Repeat expansions"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#7ccb12",
+   "kind": "mcq",
+   "stem": "How many genotypes can four plasma cholinesterase alleles make?",
+   "options": [
+    "6",
+    "8",
+    "10",
+    "16"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#98dcc0",
+   "kind": "mcq",
+   "stem": "What percentage of people are homozygous normal (Eu) for plasma cholinesterase?",
+   "options": [
+    "About 80%",
+    "About 90%",
+    "96%",
+    "99.9%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#086f6b",
+   "kind": "mcq",
+   "stem": "How long does suxamethonium block typically last in Eu:Ea heterozygotes?",
+   "options": [
+    "About 10 minutes",
+    "About 30 minutes",
+    "About 45 minutes",
+    "About 90 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#952b3b",
+   "kind": "mcq",
+   "stem": "How long does suxamethonium block typically last in Ea:Ea homozygotes?",
+   "options": [
+    "About 10 minutes",
+    "About 30 minutes",
+    "About 2 hours",
+    "About 6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#bf30e9",
+   "kind": "statement",
+   "stem": "Which plasma cholinesterase genotypes give the longest suxamethonium blocks?",
+   "answer": "Homozygous silent, homozygous atypical, heterozygous silent/atypical",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#225f33",
+   "kind": "mcq",
+   "stem": "On train-of-four during a phase I suxamethonium block, how do the twitches look?",
+   "options": [
+    "Strong and fading",
+    "Absent in every twitch",
+    "Strong and equal",
+    "Weak but equal, with no fade"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#225f33",
+   "kind": "mcq",
+   "stem": "In which phase of a suxamethonium block does train-of-four fade, as often seen in prolonged apnoea?",
+   "options": [
+    "Phase I",
+    "Phase 0",
+    "Phase II",
+    "Phase III"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#dd350b",
+   "kind": "mcq",
+   "stem": "How should a prolonged suxamethonium block from cholinesterase deficiency be managed?",
+   "options": [
+    "Give neostigmine to reverse it",
+    "Keep sedated and ventilated until it wears off",
+    "Give sugammadex to reverse it",
+    "Extubate immediately while paralysed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#379500",
+   "kind": "mcq",
+   "stem": "Why is fresh frozen plasma not now recommended for prolonged suxamethonium block, although it supplies cholinesterase?",
+   "options": [
+    "It is too slow to reverse the block",
+    "It worsens the block further",
+    "It contains no cholinesterase at all",
+    "Because of transfusion risks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#3247f6",
+   "kind": "statement",
+   "stem": "How widely available is purified butyrylcholinesterase (Cholase) as a treatment for suxamethonium block?",
+   "answer": "Rare and costly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#5f744c",
+   "kind": "blank",
+   "stem": "After suxamethonium apnoea, the patient should be given an ____.",
+   "answer": "alert card",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#5f744c",
+   "kind": "statement",
+   "stem": "After suxamethonium apnoea, what should be done for the patient's relatives?",
+   "answer": "Family screening",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#29e4fb",
+   "kind": "mcq",
+   "stem": "What is the typical normal range for plasma cholinesterase activity, depending on the lab?",
+   "options": [
+    "500-1,200 U/L",
+    "5,000–12,000 U/L",
+    "50,000-120,000 U/L",
+    "1-20 U/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#682aad",
+   "kind": "statement",
+   "stem": "What does the dibucaine number measure for plasma cholinesterase?",
+   "answer": "Percentage inhibition by dibucaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#0bbca7",
+   "kind": "mcq",
+   "stem": "By what percentage is normal plasma cholinesterase inhibited by dibucaine?",
+   "options": [
+    "About 20%",
+    "About 50%",
+    "About 80%",
+    "About 95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#26f853",
+   "kind": "mcq",
+   "stem": "On dibucaine testing, what percentage inhibition do Eu:Eu homozygotes show?",
+   "options": [
+    "About 20%",
+    "About 50%",
+    "83-88%",
+    "Above 95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#ad06f9",
+   "kind": "mcq",
+   "stem": "Which test detects the Ef variant of plasma cholinesterase?",
+   "options": [
+    "Dibucaine number",
+    "Plasma cholinesterase activity",
+    "Fluoride number",
+    "Molecular genetic testing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/suxamethonium#58ce1d",
+   "kind": "mcq",
+   "stem": "Which test is the gold standard for identifying plasma cholinesterase variants?",
+   "options": [
+    "Dibucaine number",
+    "Fluoride number",
+    "Molecular genetic testing",
+    "Plasma cholinesterase activity"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "topic": "drugs/first-generation-antihistamines",
+ "questions": [
+  {
+   "fact_id": "drugs/first-generation-antihistamines#b88ea2",
+   "kind": "mcq",
+   "stem": "What do first-generation antihistamines, as a class, do?",
+   "options": [
+    "Avoid the central nervous system",
+    "Are poorly absorbed orally",
+    "Selectively block H2 receptors",
+    "Cross the blood-brain barrier"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#c80616",
+   "kind": "mcq",
+   "stem": "What is the usual effect of first-generation antihistamines on the patient?",
+   "options": [
+    "Insomnia",
+    "Hypertension",
+    "Sedation",
+    "Tachycardia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#3e5f5c",
+   "kind": "mcq",
+   "stem": "Oral chlorpheniramine for itch: what dose and frequency?",
+   "options": [
+    "5 mg 6 hourly",
+    "5 mg 12 hourly",
+    "10 mg 6 hourly",
+    "10 mg 12 hourly"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#4f7774",
+   "kind": "mcq",
+   "stem": "What is the IV dose of diphenhydramine for itch?",
+   "options": [
+    "5–10 mg or 0.1 mg/kg",
+    "100 mg as fast push",
+    "25–50 mg or 1 mg/kg, slow bolus",
+    "250 mg slow infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#4f7774",
+   "kind": "mcq",
+   "stem": "What is the maximum IV rate for diphenhydramine?",
+   "options": [
+    "10 mg/min",
+    "25 mg/min",
+    "50 mg/min",
+    "100 mg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#9be202",
+   "kind": "mcq",
+   "stem": "What is the IM dose of diphenhydramine for itch?",
+   "options": [
+    "25 mg",
+    "50 mg",
+    "75 mg",
+    "100 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#d8aad1",
+   "kind": "mcq",
+   "stem": "What is the maximum daily dose of diphenhydramine for itch?",
+   "options": [
+    "200 mg/day",
+    "400 mg/day",
+    "800 mg/day",
+    "1 g/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#3445cd",
+   "kind": "mcq",
+   "stem": "What is the starting oral dose of hydroxyzine for sleep?",
+   "options": [
+    "10 mg at night",
+    "25 mg at night",
+    "50 mg at night",
+    "100 mg at night"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#3445cd",
+   "kind": "mcq",
+   "stem": "Hydroxyzine for sleep can be increased up to what oral dose?",
+   "options": [
+    "50 mg twice daily",
+    "100 mg twice daily",
+    "100 mg four times daily",
+    "200 mg four times daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#995201",
+   "kind": "mcq",
+   "stem": "What is the paediatric oral hydroxyzine dose for sleep?",
+   "options": [
+    "2 mg/kg as a single night dose",
+    "10 mg/kg/day in divided doses",
+    "0.2 mg/kg/day in divided doses",
+    "2 mg/kg/day in divided doses"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#225f3e",
+   "kind": "mcq",
+   "stem": "What is the IM dose of promethazine for nausea and vomiting?",
+   "options": [
+    "25 mg every 24 hours",
+    "5 mg 6 to 12 hourly",
+    "25 mg 6 to 12 hourly",
+    "50 mg 6 to 12 hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#593038",
+   "kind": "mcq",
+   "stem": "Why can cyclizine injection be painful?",
+   "options": [
+    "Alkaline pH 9.0",
+    "Lactic acid, pH 3.2",
+    "High potassium content",
+    "Very high osmolality"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#8731db",
+   "kind": "mcq",
+   "stem": "Besides H1 blockade, what may add much to the antiemetic effect of first-generation antihistamines?",
+   "options": [
+    "Beta-adrenergic blockade",
+    "Anticholinergic action",
+    "Potassium channel opening",
+    "Serotonin reuptake inhibition"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#dd1756",
+   "kind": "mcq",
+   "stem": "What oral bioavailability is quoted for first-generation antihistamines used for nausea and vomiting?",
+   "options": [
+    "About 25%",
+    "About 50%",
+    "About 75%",
+    "About 100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#2990fc",
+   "kind": "mcq",
+   "stem": "What is the IV dose of dimenhydrinate for PONV?",
+   "options": [
+    "0.1 mg/kg, up to 5 mg",
+    "0.5 mg/kg, up to 25 mg",
+    "0.5 mg/kg, up to 100 mg",
+    "5 mg/kg, up to 25 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#a56b26",
+   "kind": "mcq",
+   "stem": "Orphenadrine is an analogue of which antihistamine?",
+   "options": [
+    "Chlorpheniramine",
+    "Promethazine",
+    "Diphenhydramine",
+    "Cyclizine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/first-generation-antihistamines#d19971",
+   "kind": "mcq",
+   "stem": "Triprolidine is combined with which decongestant for allergies?",
+   "options": [
+    "Caffeine",
+    "Paracetamol",
+    "Codeine",
+    "Pseudoephedrine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

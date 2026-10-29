@@ -1,0 +1,2399 @@
+{
+ "topic": "procedures/paediatric-oncology-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c86675",
+   "kind": "mcq",
+   "stem": "What is the approximate risk of a child developing cancer before age 15?",
+   "options": [
+    "1:100",
+    "1:200",
+    "1:500",
+    "1:1000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b13903",
+   "kind": "mcq",
+   "stem": "What share of childhood cancers are leukaemias (ALL and AML)?",
+   "options": [
+    "5%",
+    "15%",
+    "45%",
+    "30%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#9432fe",
+   "kind": "mcq",
+   "stem": "About what percentage of childhood cancers are Wilms tumours?",
+   "options": [
+    "3%",
+    "6%",
+    "9%",
+    "12%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#d6da38",
+   "kind": "statement",
+   "stem": "In children, what do embryonal tumours (about 15% of cancers) arise from?",
+   "answer": "Tissue normally only present in the embryo",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#43ef69",
+   "kind": "mcq",
+   "stem": "Which procedure is commonly done under anaesthesia for children with cancer?",
+   "options": [
+    "Lumbar puncture",
+    "Cardiac valve replacement",
+    "Cochlear implantation",
+    "Appendicectomy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#5c2c64",
+   "kind": "statement",
+   "stem": "After surgery in paediatric oncology, what do anaesthetists contribute to pain care?",
+   "answer": "Acute, chronic and palliative pain management",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#3a5cbd",
+   "kind": "mcq",
+   "stem": "Which statement about chemotherapy agents in children is correct?",
+   "options": [
+    "Only cardiotoxic agents cause adverse effects",
+    "Adverse effects are rare with modern agents",
+    "Only platinum agents cause adverse effects",
+    "All chemotherapy agents have adverse effects"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#7af0ad",
+   "kind": "statement",
+   "stem": "What is the commonest dose-limiting effect of chemotherapy in children?",
+   "answer": "Myelosuppression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#e3b486",
+   "kind": "statement",
+   "stem": "What can cause myelosuppression in a child with cancer even before treatment starts?",
+   "answer": "The cancer itself",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#18270c",
+   "kind": "statement",
+   "stem": "What may a child with chemotherapy-induced anaemia need?",
+   "answer": "Packed cell transfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#f22048",
+   "kind": "mcq",
+   "stem": "Which transfusion may a child with chemotherapy-induced thrombocytopenia need?",
+   "options": [
+    "Packed red cells",
+    "Platelets",
+    "Fresh frozen plasma",
+    "Cryoprecipitate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#ba4ae6",
+   "kind": "mcq",
+   "stem": "Which precaution is needed for procedures in a neutropenic child on chemotherapy?",
+   "options": [
+    "Routine clean technique",
+    "Rectal drug administration",
+    "Strict asepsis",
+    "Intramuscular injection"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#374fdd",
+   "kind": "statement",
+   "stem": "Which common, often treatment-limiting chemotherapy toxicities affect the gut?",
+   "answer": "Nausea, vomiting, diarrhoea, mucositis, enterocolitis, stomatitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#af7296",
+   "kind": "statement",
+   "stem": "What nutritional state can chemotherapy gut toxicity lead to in children?",
+   "answer": "Malnutrition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#d75a27",
+   "kind": "statement",
+   "stem": "Which chemotherapy-related problem raises the risk of aspiration in children?",
+   "answer": "Delayed gastric emptying",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#9bd292",
+   "kind": "statement",
+   "stem": "What four changes make up oral mucositis in children on chemotherapy?",
+   "answer": "Redness, oedema, atrophy, ulceration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#eba338",
+   "kind": "mcq",
+   "stem": "About what share of children on chemotherapy develop oral mucositis?",
+   "options": [
+    "10%",
+    "40%",
+    "25%",
+    "60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c80d72",
+   "kind": "mcq",
+   "stem": "To prevent bleeding in oral mucositis, which platelet count should be kept above?",
+   "options": [
+    "5000/mm3",
+    "10000/mm3",
+    "20000/mm3",
+    "100000/mm3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8f71a6",
+   "kind": "mcq",
+   "stem": "Which chemotherapy agent is in the cardiotoxic group in children?",
+   "options": [
+    "Doxorubicin",
+    "Cisplatin",
+    "Vincristine",
+    "Bleomycin"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#acabf9",
+   "kind": "mcq",
+   "stem": "Which chemotherapy agent can cause non-cardiogenic pulmonary oedema in children?",
+   "options": [
+    "Cyclophosphamide",
+    "Bleomycin",
+    "Cisplatin",
+    "Vincristine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#159597",
+   "kind": "statement",
+   "stem": "Which late lung effect of chemotherapy is commonest in children?",
+   "answer": "Pulmonary fibrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#67921f",
+   "kind": "mcq",
+   "stem": "What proportion of bleomycin recipients develop toxicity?",
+   "options": [
+    "Up to 1%",
+    "Up to 5%",
+    "Up to 10%",
+    "Up to 25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#4d5fb8",
+   "kind": "statement",
+   "stem": "Why should intraoperative FiO2 be kept low in a child who has had lung-toxic chemotherapy?",
+   "answer": "Lung injury is oxidant mediated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#9afa42",
+   "kind": "mcq",
+   "stem": "Which chemotherapy agents most often cause acute renal failure in children?",
+   "options": [
+    "Doxorubicin and vincristine",
+    "Bleomycin and fluorouracil",
+    "Cisplatin, carboplatin and ifosfamide",
+    "Dexamethasone and prednisolone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#007e2d",
+   "kind": "mcq",
+   "stem": "What is the pattern of cisplatin nephrotoxicity in children?",
+   "options": [
+    "Unrelated to the total dose given",
+    "Seen only with a single high dose",
+    "Seen only with carboplatin",
+    "Dose dependent and cumulative"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#631e87",
+   "kind": "mcq",
+   "stem": "What share of children on high-dose methotrexate get severe renal impairment?",
+   "options": [
+    "2%",
+    "0.5%",
+    "10%",
+    "15%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#94d7c9",
+   "kind": "mcq",
+   "stem": "Which of these can also contribute to renal impairment in children on chemotherapy?",
+   "options": [
+    "Ondansetron",
+    "Dexamethasone",
+    "Amphotericin B",
+    "Paracetamol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#dcaed0",
+   "kind": "mcq",
+   "stem": "Which chemotherapy drugs cause more neurotoxicity in children?",
+   "options": [
+    "Anthracyclines",
+    "Corticosteroids",
+    "Platinum agents",
+    "Bleomycin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#986639",
+   "kind": "mcq",
+   "stem": "Which chemotherapy agent is linked to serious neurotoxicity in children?",
+   "options": [
+    "Bleomycin",
+    "Doxorubicin",
+    "Fluorouracil",
+    "Ifosfamide"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#e1b708",
+   "kind": "statement",
+   "stem": "What does cell lysis from chemotherapy release into the blood?",
+   "answer": "Potassium, phosphate and uric acid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#bf05bd",
+   "kind": "statement",
+   "stem": "Where do uric acid and calcium phosphate precipitate when chemotherapy causes cell lysis?",
+   "answer": "Renal tubules",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#176dbd",
+   "kind": "statement",
+   "stem": "What does falling calcium cause after chemotherapy-induced cell lysis?",
+   "answer": "Tetany",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a954c9",
+   "kind": "mcq",
+   "stem": "What is the main danger of hyperkalaemia after chemotherapy cell lysis?",
+   "options": [
+    "Dysrhythmias",
+    "Tetany",
+    "Polyuria",
+    "Hypoglycaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#f244da",
+   "kind": "mcq",
+   "stem": "Which drug treats the uric acid rise after chemotherapy cell lysis?",
+   "options": [
+    "Ondansetron",
+    "Metoclopramide",
+    "Allopurinol",
+    "Dexamethasone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a2e7b9",
+   "kind": "mcq",
+   "stem": "In children, how many weeks of daily radiotherapy is not unusual?",
+   "options": [
+    "1 week",
+    "3 weeks",
+    "9 weeks",
+    "6 weeks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#216ec0",
+   "kind": "statement",
+   "stem": "Which three radiotherapy stages may need anaesthesia in children?",
+   "answer": "Planning, simulation and treatment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#69dedf",
+   "kind": "mcq",
+   "stem": "How long is each radiotherapy field exposure in children?",
+   "options": [
+    "5-10 sec",
+    "30-90 sec",
+    "5-10 min",
+    "30-90 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#3b93dc",
+   "kind": "statement",
+   "stem": "What does imaging during radiotherapy simulation build for a child?",
+   "answer": "A 3D model to find the best approach with least harm to nearby tissue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#05b323",
+   "kind": "mcq",
+   "stem": "Which group of children having radiotherapy usually needs general anaesthesia?",
+   "options": [
+    "Children over 10 years",
+    "Children over five with good preparation",
+    "Children under 5-6 years",
+    "Teenagers over 14"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#bed055",
+   "kind": "statement",
+   "stem": "Why book radiotherapy anaesthesia as the first case of the morning?",
+   "answer": "To limit fasting and disruption",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#230885",
+   "kind": "mcq",
+   "stem": "Once a routine is set, where may a child for radiotherapy come from?",
+   "options": [
+    "From the oncology ward",
+    "From the intensive care unit",
+    "From a remote hospital",
+    "From home"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#605b7a",
+   "kind": "statement",
+   "stem": "What kind of site is radiotherapy often delivered at, away from the main hospital?",
+   "answer": "A remote site with limited facilities",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#1f00d8",
+   "kind": "statement",
+   "stem": "How is a child monitored during radiotherapy when alone in the treatment room?",
+   "answer": "By camera",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c40551",
+   "kind": "blank",
+   "stem": "Children having head or cervical spine radiotherapy fields are fitted with a ____ mould.",
+   "answer": "face",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#1d71df",
+   "kind": "mcq",
+   "stem": "Which needle usually accesses the central port of a child having radiotherapy?",
+   "options": [
+    "Gripper needle",
+    "Butterfly needle",
+    "Spinal needle",
+    "Tuohy needle"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a5fcba",
+   "kind": "statement",
+   "stem": "How is anaesthesia usually induced for radiotherapy in children?",
+   "answer": "IV induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#45d7a4",
+   "kind": "mcq",
+   "stem": "Which airway is almost always used for anaesthesia for paediatric radiotherapy?",
+   "options": [
+    "Endotracheal tube",
+    "Laryngeal mask airway",
+    "Oropharyngeal airway",
+    "Tracheostomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#9d0a17",
+   "kind": "statement",
+   "stem": "Why is analgesia usually not needed for paediatric radiotherapy?",
+   "answer": "Radiotherapy is painless",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#92ab69",
+   "kind": "statement",
+   "stem": "What does a child usually do once recovered from radiotherapy anaesthesia?",
+   "answer": "Eats, and often goes straight home",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#588383",
+   "kind": "statement",
+   "stem": "During which two chemotherapy phases are lumbar punctures performed?",
+   "answer": "Induction and consolidation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#d27e91",
+   "kind": "mcq",
+   "stem": "Which drug is used for conscious sedation during lumbar puncture in children?",
+   "options": [
+    "Rocuronium",
+    "Midazolam",
+    "Neostigmine",
+    "Naloxone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#efa894",
+   "kind": "mcq",
+   "stem": "At what platelet count may a transfusion be needed before lumbar puncture?",
+   "options": [
+    "<5000/mm3",
+    "<10000/mm3",
+    "<50000/mm3",
+    "<100000/mm3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#389119",
+   "kind": "mcq",
+   "stem": "What is the IV ondansetron dose for a child given intrathecal chemotherapy?",
+   "options": [
+    "10 mcg/kg (max 4 mg)",
+    "100 mcg/kg (max 4 mg)",
+    "100 mcg/kg (max 40 mg)",
+    "1 mg/kg (max 4 mg)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a69d4d",
+   "kind": "statement",
+   "stem": "What kind of child is a portacath or Hickman line usually placed for?",
+   "answer": "Severe chronic illness needing repeated IV drugs, fluids or support",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#999e04",
+   "kind": "statement",
+   "stem": "Why do children with haemophilia often get a portacath?",
+   "answer": "Daily home factor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#298a81",
+   "kind": "mcq",
+   "stem": "What does the cuff on a Hickman line do?",
+   "options": [
+    "Measures central venous pressure",
+    "Secures the line and resists infection",
+    "Anchors the port under the skin",
+    "Filters infusions"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#79cec7",
+   "kind": "mcq",
+   "stem": "Which advantage is noted for a subcutaneous portacath?",
+   "options": [
+    "Faster insertion",
+    "Needle-free access",
+    "Lower infection rate",
+    "Larger lumen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#e1df06",
+   "kind": "mcq",
+   "stem": "Which vein is the usual site for a portacath or Hickman line in children?",
+   "options": [
+    "Femoral",
+    "Internal jugular",
+    "Saphenous",
+    "Popliteal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#700efa",
+   "kind": "statement",
+   "stem": "What imaging guidance is used when a portacath or Hickman line is placed in theatre?",
+   "answer": "Fluoroscopic guidance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0d5674",
+   "kind": "mcq",
+   "stem": "For open insertion, how many incisions are usually used for a line in children?",
+   "options": [
+    "One incision",
+    "Two incisions",
+    "Three incisions",
+    "Four incisions"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0ead73",
+   "kind": "mcq",
+   "stem": "What is the pneumothorax risk with ultrasound-guided percutaneous line insertion?",
+   "options": [
+    "0.1-0.2%",
+    "1-2%",
+    "3-4%",
+    "10-15%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#1fe346",
+   "kind": "mcq",
+   "stem": "What catheter infection rate is quoted for paediatric portacath or Hickman lines?",
+   "options": [
+    "2%",
+    "8%",
+    "25%",
+    "40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#aa10df",
+   "kind": "mcq",
+   "stem": "Where should the tip of a central line sit relative to the carina?",
+   "options": [
+    "One vertebral body below the carina",
+    "Two vertebral bodies below the carina",
+    "Four vertebral bodies below the carina",
+    "At the carina itself"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#71ea98",
+   "kind": "mcq",
+   "stem": "Which bupivacaine concentrations are used for wound infiltration in these children?",
+   "options": [
+    "0.1% or 0.2%",
+    "0.25% or 0.5%",
+    "1% or 2%",
+    "5% or 10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8f2a6e",
+   "kind": "mcq",
+   "stem": "What morphine dose is often needed after portacath insertion?",
+   "options": [
+    "50-75 mcg/kg",
+    "100-150 mcg/kg",
+    "300-400 mcg/kg",
+    "1-2 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8f2a6e",
+   "kind": "mcq",
+   "stem": "What fentanyl dose is often needed after portacath insertion?",
+   "options": [
+    "0.2-0.4 mcg/kg",
+    "2-4 mcg/kg",
+    "20-40 mcg/kg",
+    "10-12 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#20f986",
+   "kind": "mcq",
+   "stem": "What is the oral paracetamol dose after portacath or Hickman insertion?",
+   "options": [
+    "10 mg/kg oral 4-hourly",
+    "15 mg/kg oral 4-hourly",
+    "150 mg/kg oral 4-hourly",
+    "15 mg/kg oral 8-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#56b51d",
+   "kind": "statement",
+   "stem": "In paediatric bone marrow harvest, which conditions do the harvested stem cells treat?",
+   "answer": "Haematological cancers, solid tumours and Fanconi syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#ec3738",
+   "kind": "mcq",
+   "stem": "When is harvested bone marrow reinfused in a paediatric transplant?",
+   "options": [
+    "Only after radiotherapy alone",
+    "After high-dose chemotherapy",
+    "Before any chemotherapy starts",
+    "Instead of any chemotherapy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#458459",
+   "kind": "mcq",
+   "stem": "How long does a paediatric bone marrow harvest usually take?",
+   "options": [
+    "60-90 minutes",
+    "10-20 minutes",
+    "2-3 hours",
+    "30-40 minutes"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#458459",
+   "kind": "mcq",
+   "stem": "In which position is a child placed for a bone marrow harvest?",
+   "options": [
+    "Supine",
+    "Prone",
+    "Lateral decubitus",
+    "Lithotomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#9c3383",
+   "kind": "mcq",
+   "stem": "Why is transfusion delayed until a large bone marrow harvest is complete?",
+   "options": [
+    "To prevent fluid overload",
+    "To avoid transfusion reactions",
+    "To avoid contaminating the marrow",
+    "To allow platelet recovery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#9c3383",
+   "kind": "statement",
+   "stem": "A large marrow harvest of up to 10% can cause which two problems?",
+   "answer": "Hypovolaemia and anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b24777",
+   "kind": "mcq",
+   "stem": "What IV morphine dose is given for many marrow punctures in a child?",
+   "options": [
+    "100-150 mcg/kg",
+    "10-15 mcg/kg",
+    "1-1.5 mg/kg",
+    "300-400 mcg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b24777",
+   "kind": "mcq",
+   "stem": "What IV ondansetron dose is given for many marrow punctures in a child?",
+   "options": [
+    "1 mg/kg",
+    "10 mcg/kg",
+    "100 mcg/kg",
+    "4 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c8566e",
+   "kind": "mcq",
+   "stem": "What is the paracetamol dose after a paediatric bone marrow harvest?",
+   "options": [
+    "15 mg/kg 6-hourly",
+    "15 mg/kg 4-hourly",
+    "1 g 6-hourly",
+    "5 mg/kg 8-hourly"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c8566e",
+   "kind": "mcq",
+   "stem": "What oral morphine dose is used after a paediatric bone marrow harvest?",
+   "options": [
+    "20-30 mcg/kg 4-hourly",
+    "200-300 mcg/kg 4-hourly",
+    "2-3 mg/kg 12-hourly",
+    "50-60 mcg/kg 12-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#373fe0",
+   "kind": "mcq",
+   "stem": "What share of childhood leukaemias is acute lymphoblastic leukaemia (ALL)?",
+   "options": [
+    "15%",
+    "80%",
+    "55%",
+    "5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#373fe0",
+   "kind": "mcq",
+   "stem": "At what age does acute lymphoblastic leukaemia peak in children?",
+   "options": [
+    "8-10 years",
+    "6-12 months",
+    "14-16 years",
+    "2-3 years"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#373fe0",
+   "kind": "mcq",
+   "stem": "How does acute lymphoblastic leukaemia compare between boys and girls?",
+   "options": [
+    "30% more common in boys",
+    "Equally common",
+    "Twice as common in girls",
+    "Three times as common in girls"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8a8ae4",
+   "kind": "mcq",
+   "stem": "What share of paediatric leukaemias is acute myeloid leukaemia (AML)?",
+   "options": [
+    "80%",
+    "25%",
+    "15%",
+    "55%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8a8ae4",
+   "kind": "mcq",
+   "stem": "What share of paediatric leukaemias is chronic myeloid leukaemia?",
+   "options": [
+    "Around 15%",
+    "Around 25%",
+    "Under 4%",
+    "Over 50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#ca0079",
+   "kind": "statement",
+   "stem": "What are the typical presenting features of childhood leukaemia?",
+   "answer": "Lethargy, fever, malaise, marrow failure and bone pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#ca0079",
+   "kind": "statement",
+   "stem": "Which three blood count abnormalities occur in childhood leukaemia?",
+   "answer": "Anaemia, neutropenia and thrombocytopenia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#623875",
+   "kind": "mcq",
+   "stem": "How long does induction of remission usually take in childhood leukaemia?",
+   "options": [
+    "About 4 days",
+    "About 4 months",
+    "About 12 months",
+    "About 4 weeks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#623875",
+   "kind": "statement",
+   "stem": "What is the name for the high tumour cell death during induction of childhood leukaemia?",
+   "answer": "Tumour lysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#95cf55",
+   "kind": "mcq",
+   "stem": "What is the approximate 5-year survival in childhood ALL?",
+   "options": [
+    "About 40%",
+    "About 55%",
+    "About 80%",
+    "About 20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#95cf55",
+   "kind": "mcq",
+   "stem": "What 5-year survival does acute non-lymphocytic leukaemia reach with bone marrow transplant?",
+   "options": [
+    "About 25%",
+    "About 90%",
+    "About 67%",
+    "About 40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#9fe7bd",
+   "kind": "mcq",
+   "stem": "Where does lymphoma rank among childhood cancers by frequency?",
+   "options": [
+    "Second commonest",
+    "Third commonest",
+    "Fifth commonest",
+    "Seventh commonest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b560af",
+   "kind": "mcq",
+   "stem": "What share of paediatric lymphoma is non-Hodgkin lymphoma?",
+   "options": [
+    "5%",
+    "30%",
+    "60%",
+    "20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b560af",
+   "kind": "mcq",
+   "stem": "How does non-Hodgkin lymphoma incidence compare between boys and girls?",
+   "options": [
+    "Equally common",
+    "Twice as common in girls",
+    "Twice as common in boys",
+    "Half as common in boys"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#cc8733",
+   "kind": "mcq",
+   "stem": "What share of paediatric non-Hodgkin lymphoma is B-cell?",
+   "options": [
+    "30%",
+    "20%",
+    "80%",
+    "50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#cc8733",
+   "kind": "statement",
+   "stem": "What share of paediatric non-Hodgkin lymphoma is T-cell lymphoblastic, which resembles ALL?",
+   "answer": "30%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#700402",
+   "kind": "mcq",
+   "stem": "How is paediatric non-Hodgkin lymphoma treated?",
+   "options": [
+    "Like Hodgkin lymphoma",
+    "Like neuroblastoma",
+    "Like acute lymphoblastic leukaemia",
+    "Like acute myeloid leukaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#700402",
+   "kind": "mcq",
+   "stem": "What remission rate does paediatric non-Hodgkin lymphoma achieve?",
+   "options": [
+    "40%",
+    "90%",
+    "65%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0045a7",
+   "kind": "mcq",
+   "stem": "What share of childhood cancer is Hodgkin lymphoma?",
+   "options": [
+    "15%",
+    "1%",
+    "40%",
+    "5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c780dd",
+   "kind": "mcq",
+   "stem": "At what age range does Hodgkin lymphoma incidence peak?",
+   "options": [
+    "2-3 years",
+    "3-14 years",
+    "40-50 years",
+    "15-30 years"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c780dd",
+   "kind": "statement",
+   "stem": "Which lymph nodes are typically firm in paediatric Hodgkin lymphoma?",
+   "answer": "Cervical or supraclavicular",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#e61c94",
+   "kind": "mcq",
+   "stem": "In paediatric Hodgkin lymphoma staging, what does stage 3 mean?",
+   "options": [
+    "Disease in a single region",
+    "Two regions on one side of the diaphragm",
+    "Involvement on both sides of the diaphragm",
+    "Disseminated disease"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#e61c94",
+   "kind": "statement",
+   "stem": "In Hodgkin lymphoma staging, what do the B symptoms include?",
+   "answer": "Night sweats, fever, weight loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#15ca29",
+   "kind": "mcq",
+   "stem": "What is the 5-year survival for lymphoma of grade 1A?",
+   "options": [
+    "65%",
+    "50-60%",
+    "90-95%",
+    "30-40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#01117e",
+   "kind": "mcq",
+   "stem": "What percentage of childhood solid tumours are CNS tumours?",
+   "options": [
+    "6-8%",
+    "50%",
+    "20%",
+    "80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#1f7c78",
+   "kind": "statement",
+   "stem": "Which two CNS tumour types make up about 40% of paediatric CNS tumours?",
+   "answer": "Astrocytomas and medulloblastomas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#1f7c78",
+   "kind": "statement",
+   "stem": "Apart from astrocytomas and medulloblastomas, which CNS tumours make up most of the rest?",
+   "answer": "Ependymomas and gliomas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#f7f89a",
+   "kind": "statement",
+   "stem": "What features are seen with raised ICP from an infratentorial CNS tumour in a child?",
+   "answer": "Headache, nausea and vomiting, nystagmus, ataxia, cranial nerve palsies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#f7f89a",
+   "kind": "mcq",
+   "stem": "Which feature is typical of an infratentorial CNS tumour in a child?",
+   "options": [
+    "Hemiparesis",
+    "Seizures",
+    "Ataxia",
+    "Haematuria"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#547918",
+   "kind": "statement",
+   "stem": "What features are typical of a supratentorial CNS tumour in a child?",
+   "answer": "Seizures, hemiparesis and raised ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8b8b1c",
+   "kind": "statement",
+   "stem": "What treatments are used for paediatric CNS tumours?",
+   "answer": "Surgery, chemotherapy, radiotherapy, sometimes molecular or immunotherapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#e906a2",
+   "kind": "mcq",
+   "stem": "Which tumour is the commonest malignant abdominal tumour in children?",
+   "options": [
+    "Hepatoblastoma",
+    "Phaeochromocytoma",
+    "Wilms tumour (nephroblastoma)",
+    "Rhabdomyosarcoma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#eb9177",
+   "kind": "mcq",
+   "stem": "What is the incidence of Wilms tumour in children?",
+   "options": [
+    "8:100000",
+    "0.08:100000",
+    "0.8:100000",
+    "80:100000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#eb9177",
+   "kind": "mcq",
+   "stem": "What share of paediatric solid tumours are Wilms tumours?",
+   "options": [
+    "1-2%",
+    "20%",
+    "6-8%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#80a7e1",
+   "kind": "mcq",
+   "stem": "What is the mean age at presentation of Wilms tumour?",
+   "options": [
+    "1.5 years",
+    "3.5 years",
+    "5.5 years",
+    "8 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#80a7e1",
+   "kind": "mcq",
+   "stem": "By what age do 90% of Wilms tumours present?",
+   "options": [
+    "Before 3 years",
+    "Before 12 years",
+    "Before 8 years",
+    "Before 18 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#32c2ed",
+   "kind": "mcq",
+   "stem": "What share of Wilms tumours are sporadic?",
+   "options": [
+    "50%",
+    "1.5%",
+    "10%",
+    "90%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#32c2ed",
+   "kind": "mcq",
+   "stem": "Which syndrome is associated with Wilms tumour?",
+   "options": [
+    "Cystic fibrosis",
+    "Beckwith-Wiedemann syndrome",
+    "Marfan syndrome",
+    "Duchenne muscular dystrophy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#aebb42",
+   "kind": "mcq",
+   "stem": "What is the usual presentation of Wilms tumour?",
+   "options": [
+    "Acute scrotal pain",
+    "Jaundice with pruritus",
+    "Painless abdominal or flank mass",
+    "Painful testicular swelling"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#aebb42",
+   "kind": "mcq",
+   "stem": "What share of Wilms tumour patients present with haematuria?",
+   "options": [
+    "5%",
+    "15%",
+    "30%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#d7dc94",
+   "kind": "mcq",
+   "stem": "What share of Wilms tumour patients have hypertension?",
+   "options": [
+    "5%",
+    "30%",
+    "50%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#d7dc94",
+   "kind": "statement",
+   "stem": "Why does Wilms tumour cause hypertension?",
+   "answer": "Renin from trapped or compressed renal cortex, driving angiotensin II",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#d7e59d",
+   "kind": "mcq",
+   "stem": "Which imaging is used to look for lung metastases in Wilms tumour?",
+   "options": [
+    "Echocardiography",
+    "Abdominal ultrasound alone",
+    "CT or MRI of abdomen and chest",
+    "Bone scan"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#d7e59d",
+   "kind": "statement",
+   "stem": "What vascular complications should imaging look for in Wilms tumour?",
+   "answer": "IVC or atrial thrombus, and vascular extension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#de6a79",
+   "kind": "mcq",
+   "stem": "Which chemotherapy is used for stage I or II Wilms tumour with favourable histology?",
+   "options": [
+    "Cisplatin and etoposide",
+    "Methotrexate and cytarabine",
+    "Vincristine and actinomycin D",
+    "Rituximab and prednisolone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#de6a79",
+   "kind": "mcq",
+   "stem": "How many weeks of chemotherapy are given for stage I or II favourable-histology Wilms tumour?",
+   "options": [
+    "6 weeks",
+    "24 weeks",
+    "52 weeks",
+    "18 weeks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a1e98c",
+   "kind": "mcq",
+   "stem": "Which drug in the regimen for stage III Wilms tumour is cardiotoxic?",
+   "options": [
+    "Vincristine",
+    "Doxorubicin",
+    "Actinomycin D",
+    "Etoposide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a1e98c",
+   "kind": "mcq",
+   "stem": "How many weeks of chemotherapy are given for stage III Wilms tumour?",
+   "options": [
+    "12 weeks",
+    "18 weeks",
+    "24 weeks",
+    "6-8 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#9aba6f",
+   "kind": "statement",
+   "stem": "Which four drugs are given for 24 weeks, with radiotherapy, for stage II to IV worst-histology Wilms tumour?",
+   "answer": "Vincristine, doxorubicin, cyclophosphamide and etoposide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#7e440a",
+   "kind": "mcq",
+   "stem": "What is the cure rate for stage I Wilms tumour?",
+   "options": [
+    "About 50%",
+    "Under 20%",
+    "Over 85%",
+    "About 30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#aa47e0",
+   "kind": "mcq",
+   "stem": "What share of Wilms tumours are bilateral?",
+   "options": [
+    "15%",
+    "50%",
+    "1.5%",
+    "5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#aa47e0",
+   "kind": "statement",
+   "stem": "How is bilateral Wilms tumour treated, in order?",
+   "answer": "6-8 weeks of chemotherapy, then function-sparing surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0934c9",
+   "kind": "mcq",
+   "stem": "What share of Wilms tumour patients have acquired von Willebrand disease?",
+   "options": [
+    "Up to 1%",
+    "Up to 25%",
+    "Up to 50%",
+    "Up to 10%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0934c9",
+   "kind": "statement",
+   "stem": "In Wilms tumour with acquired von Willebrand disease, which blood products are given, and on whose advice?",
+   "answer": "Cryoprecipitate and/or FFP, on haematology advice",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b1d9ae",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion rate is used in Wilms tumour surgery with volatile anaesthesia?",
+   "options": [
+    "1-2.5 mcg/kg/min",
+    "0.01-0.025 mcg/kg/min",
+    "10-25 mcg/kg/min",
+    "0.1-0.25 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b1d9ae",
+   "kind": "statement",
+   "stem": "What does remifentanil do in Wilms tumour anaesthesia?",
+   "answer": "Reduces volatile needs and steadies the circulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#edf38d",
+   "kind": "mcq",
+   "stem": "Without remifentanil, what morphine dose is given before the end of Wilms tumour surgery?",
+   "options": [
+    "10-15 mcg/kg",
+    "1-1.5 mg/kg",
+    "100-150 mcg/kg",
+    "300-400 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#3c4afc",
+   "kind": "mcq",
+   "stem": "How long is epidural or IV morphine analgesia usually given after Wilms tumour surgery?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "48 hours",
+    "7 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#ce8bd1",
+   "kind": "mcq",
+   "stem": "Neuroblastoma is a malignancy of which cells?",
+   "options": [
+    "Renal tubular epithelium",
+    "Hepatocytes",
+    "Primitive neural crest cells",
+    "Lymphoid precursor cells"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#257bd9",
+   "kind": "mcq",
+   "stem": "What is the commonest malignancy in children under 1 year?",
+   "options": [
+    "Hepatoblastoma",
+    "Retinoblastoma",
+    "Neuroblastoma",
+    "Wilms tumour (nephroblastoma)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a726dc",
+   "kind": "mcq",
+   "stem": "What share of childhood cancers is neuroblastoma?",
+   "options": [
+    "2%",
+    "7%",
+    "30%",
+    "45%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a726dc",
+   "kind": "mcq",
+   "stem": "What share of childhood cancer deaths is due to neuroblastoma?",
+   "options": [
+    "3%",
+    "30%",
+    "50%",
+    "15%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c688d8",
+   "kind": "mcq",
+   "stem": "What proportion of neuroblastomas are abdominal?",
+   "options": [
+    "About 20%",
+    "About 5%",
+    "Over 70%",
+    "About 50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c688d8",
+   "kind": "mcq",
+   "stem": "Of abdominal neuroblastomas, what share arise from the adrenal medulla?",
+   "options": [
+    "One-quarter",
+    "One-tenth",
+    "Two-thirds",
+    "Nine-tenths"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#649562",
+   "kind": "mcq",
+   "stem": "By what age are half of neuroblastomas diagnosed?",
+   "options": [
+    "Over 6 years",
+    "Over 10 years",
+    "Under 6 months",
+    "Under 2 years"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#649562",
+   "kind": "mcq",
+   "stem": "By what age are 75% of neuroblastomas diagnosed?",
+   "options": [
+    "Over 8 years",
+    "Under 6 months",
+    "Over 12 years",
+    "Under 4 years"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#f53f46",
+   "kind": "mcq",
+   "stem": "What share of neuroblastomas are familial?",
+   "options": [
+    "5 to 10%",
+    "1 to 2%",
+    "20 to 30%",
+    "50 to 60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#379c3f",
+   "kind": "mcq",
+   "stem": "In neuroblastoma, what share of abdominal masses show calcification and necrosis on CT?",
+   "options": [
+    "15%",
+    "50%",
+    "85%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#3065d5",
+   "kind": "mcq",
+   "stem": "What causes respiratory distress in neuroblastoma?",
+   "options": [
+    "Pleural effusion from liver mass",
+    "Diaphragmatic hernia",
+    "Posterior mediastinal mass compressing or deviating the trachea",
+    "Bronchial foreign body"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0e1f9e",
+   "kind": "mcq",
+   "stem": "What proportion of neuroblastomas have metastases at diagnosis?",
+   "options": [
+    "Under 5%",
+    "About 10%",
+    "Over 50%",
+    "About 25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0e1f9e",
+   "kind": "statement",
+   "stem": "Does neuroblastoma tend to compress or invade nearby structures?",
+   "answer": "Invade nearby structures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0b5ea2",
+   "kind": "mcq",
+   "stem": "Which urine test detects catecholamine production in neuroblastoma?",
+   "options": [
+    "Urine culture",
+    "24-hour urinary VMA and HVA",
+    "Urine dipstick",
+    "Urine calcium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0b5ea2",
+   "kind": "mcq",
+   "stem": "In what share of neuroblastomas are catecholamines produced?",
+   "options": [
+    "15%",
+    "30%",
+    "50%",
+    "85%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#4c3126",
+   "kind": "mcq",
+   "stem": "What cure rate applies to fully resected localised neuroblastoma?",
+   "options": [
+    "Under 10%",
+    "About 50%",
+    "Over 80-90%",
+    "Under 30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#4c3126",
+   "kind": "statement",
+   "stem": "How does cure for metastatic neuroblastoma compare with localised disease in a child over 1 year old?",
+   "answer": "Much lower",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b38a46",
+   "kind": "mcq",
+   "stem": "For abdominal neuroblastoma surgery, which analgesia is used unless contraindicated?",
+   "options": [
+    "Caudal block alone",
+    "Oral codeine only",
+    "Thoracic epidural",
+    "Intravenous ketamine only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8a9d8e",
+   "kind": "mcq",
+   "stem": "Which regular analgesic is given after neuroblastoma surgery?",
+   "options": [
+    "Pethidine",
+    "Paracetamol",
+    "Ketamine",
+    "Naloxone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#f191c9",
+   "kind": "mcq",
+   "stem": "Paediatric phaeochromocytoma arises from which tissue?",
+   "options": [
+    "Renal cortex",
+    "Chromaffin tissue of the adrenal medulla",
+    "Pancreatic islets",
+    "Thyroid follicles"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#02f4fb",
+   "kind": "mcq",
+   "stem": "Which catecholamines do functional phaeochromocytomas secrete?",
+   "options": [
+    "Insulin and glucagon",
+    "Noradrenaline, adrenaline and dopamine",
+    "Thyroxine and calcitonin",
+    "Cortisol and aldosterone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#354720",
+   "kind": "mcq",
+   "stem": "What is the annual incidence of phaeochromocytoma?",
+   "options": [
+    "20-80 per million",
+    "2-8 per million per year",
+    "0.2-0.8 per million per year",
+    "200-800 per million per year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#354720",
+   "kind": "mcq",
+   "stem": "What share of phaeochromocytomas occur in children?",
+   "options": [
+    "50-60%",
+    "5-10%",
+    "25-30%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#86951d",
+   "kind": "mcq",
+   "stem": "What is the male to female ratio in paediatric phaeochromocytoma?",
+   "options": [
+    "1:2",
+    "1:1",
+    "4:1",
+    "2:1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#486804",
+   "kind": "statement",
+   "stem": "What symptoms reflect sympathetic overactivity in paediatric phaeochromocytoma?",
+   "answer": "Nausea, vomiting, fatigue, abdominal pain, sweating, headache, palpitations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#486804",
+   "kind": "mcq",
+   "stem": "Which complication can a hypertensive crisis from paediatric phaeochromocytoma cause?",
+   "options": [
+    "Pneumothorax",
+    "Cerebral haemorrhage",
+    "Acute pancreatitis",
+    "Hepatic failure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#5daa53",
+   "kind": "statement",
+   "stem": "What limitation applies to 24-hour urine VMA and HVA testing in phaeochromocytoma?",
+   "answer": "False negatives occur (strict protocols needed)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b21f16",
+   "kind": "mcq",
+   "stem": "Which scan has 99% accuracy in locating paediatric phaeochromocytoma?",
+   "options": [
+    "Ultrasound",
+    "Plain X-ray",
+    "Bone scan",
+    "MRI"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#148240",
+   "kind": "mcq",
+   "stem": "What is the sensitivity of mIBG scanning for paediatric phaeochromocytoma?",
+   "options": [
+    "50%",
+    "80%",
+    "30%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#fb15e1",
+   "kind": "mcq",
+   "stem": "Compared with open surgery, what does laparoscopic excision of phaeochromocytoma offer?",
+   "options": [
+    "Greater stimulation and slower recovery",
+    "Less stimulation and quicker recovery",
+    "No need for alpha blockade",
+    "Higher risk of intraoperative bleeding"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#a7d5d1",
+   "kind": "statement",
+   "stem": "What should be assessed before surgery for paediatric phaeochromocytoma?",
+   "answer": "End-organ damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#bdd6f0",
+   "kind": "mcq",
+   "stem": "Which receptors does phenoxybenzamine block?",
+   "options": [
+    "Beta1 receptors",
+    "Alpha1 receptors, with some alpha2 blockade",
+    "Muscarinic receptors",
+    "Dopamine D2 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#bdd6f0",
+   "kind": "statement",
+   "stem": "How does phenoxybenzamine bind its receptor?",
+   "answer": "Non-competitively, by alkylation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#f8f08d",
+   "kind": "mcq",
+   "stem": "What is the starting oral phenoxybenzamine dose in children?",
+   "options": [
+    "5-10 mg/kg/day",
+    "0.025-0.1 mg/kg/day",
+    "10-20 mg/day",
+    "0.25-1.0 mg/kg/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#f8f08d",
+   "kind": "statement",
+   "stem": "How long can phenoxybenzamine titration take in children before blood pressure is controlled?",
+   "answer": "Weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b75448",
+   "kind": "mcq",
+   "stem": "What haematocrit change suggests adequate phenoxybenzamine blockade?",
+   "options": [
+    "Rises about 5%",
+    "Falls about 25%",
+    "Falls about 5%",
+    "No change"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#6a06d9",
+   "kind": "mcq",
+   "stem": "Preoperative alpha blockade cut phaeochromocytoma mortality from what to what?",
+   "options": [
+    "3% to 50%",
+    "50% to 3%",
+    "10% to 1%",
+    "50% to 25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#5aa8bb",
+   "kind": "statement",
+   "stem": "What is the main anaesthetic aim in paediatric phaeochromocytoma surgery?",
+   "answer": "Minimise adrenergic responses and catecholamine release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#88a4c2",
+   "kind": "mcq",
+   "stem": "What oral midazolam premedication dose is used for paediatric phaeochromocytoma?",
+   "options": [
+    "5 mg/kg, maximum 100 mg",
+    "0.05 mg/kg, maximum 2 mg",
+    "0.1 mg/kg, maximum 5 mg",
+    "0.5 mg/kg, maximum 20 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c7b00b",
+   "kind": "mcq",
+   "stem": "How is anaesthesia induced in older children with phaeochromocytoma?",
+   "options": [
+    "Inhalational induction",
+    "IV induction",
+    "Rectal induction",
+    "Intramuscular induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#16466b",
+   "kind": "mcq",
+   "stem": "What remifentanil bolus blunts the laryngoscopy pressor response in paediatric phaeochromocytoma?",
+   "options": [
+    "0.01-0.1 mcg/kg",
+    "10-20 mcg/kg",
+    "1-2 mg/kg",
+    "0.1-1 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#16466b",
+   "kind": "mcq",
+   "stem": "What fentanyl bolus blunts the laryngoscopy pressor response in paediatric phaeochromocytoma?",
+   "options": [
+    "0.01-0.1 mcg/kg",
+    "1-2 mcg/kg",
+    "10-20 mcg/kg",
+    "5-10 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#16466b",
+   "kind": "statement",
+   "stem": "How is the larynx prepared before intubation in paediatric phaeochromocytoma anaesthesia?",
+   "answer": "Spray with lidocaine 1%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#fa9965",
+   "kind": "mcq",
+   "stem": "How many large-bore cannulae are used in paediatric phaeochromocytoma anaesthesia?",
+   "options": [
+    "One",
+    "Three",
+    "Two",
+    "Four"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#4001b5",
+   "kind": "mcq",
+   "stem": "In paediatric phaeochromocytoma surgery, what remifentanil infusion rate is suggested for stability?",
+   "options": [
+    "0.5-1 mcg/kg/min",
+    "0.1-0.25 mcg/kg/min",
+    "0.01-0.05 mcg/kg/min",
+    "1-2 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#aa6eab",
+   "kind": "statement",
+   "stem": "In paediatric phaeochromocytoma surgery, which monitoring is added to standard monitoring?",
+   "answer": "Arterial line, central line, urine output, temperature",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#bfeea5",
+   "kind": "statement",
+   "stem": "In open paediatric phaeochromocytoma surgery, what does a thoracic epidural not prevent?",
+   "answer": "Catecholamine release on handling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#b2b6e3",
+   "kind": "blank",
+   "stem": "In laparoscopic paediatric phaeochromocytoma surgery, if not on remifentanil, give the opioid bolus at the ____.",
+   "answer": "start",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#830829",
+   "kind": "mcq",
+   "stem": "In paediatric phaeochromocytoma surgery, BP can fall steeply once which vessel is tied?",
+   "options": [
+    "The renal artery",
+    "The adrenal vein",
+    "The splenic artery",
+    "The hepatic artery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8965cf",
+   "kind": "mcq",
+   "stem": "What infusion range of sodium nitroprusside is used in paediatric phaeochromocytoma surgery?",
+   "options": [
+    "0.05-0.4 mcg/kg/minute",
+    "5-40 mcg/kg/minute",
+    "0.5-4 mcg/kg/minute",
+    "10-20 mcg/kg/minute"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#8965cf",
+   "kind": "mcq",
+   "stem": "At an infusion rate above what level is cyanide toxicity a risk with sodium nitroprusside?",
+   "options": [
+    "10 mcg/kg/minute",
+    "2 mcg/kg/minute",
+    "4 mcg/kg/minute",
+    "20 mcg/kg/minute"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#5d8a0c",
+   "kind": "mcq",
+   "stem": "What class of drug is phentolamine in paediatric phaeochromocytoma surgery?",
+   "options": [
+    "Long-acting alpha agonist",
+    "Short-acting beta blocker",
+    "Short-acting alpha antagonist",
+    "Direct arterial dilator"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#587715",
+   "kind": "mcq",
+   "stem": "What infusion range of esmolol is used in paediatric phaeochromocytoma surgery?",
+   "options": [
+    "2.5-20 mcg/kg/min",
+    "25-200 mcg/kg/min",
+    "250-2000 mcg/kg/min",
+    "0.5-2 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#63749f",
+   "kind": "mcq",
+   "stem": "What is the maximum magnesium sulphate dose in paediatric phaeochromocytoma surgery?",
+   "options": [
+    "5 mg/kg",
+    "50 mg/kg",
+    "100 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#ebafac",
+   "kind": "mcq",
+   "stem": "What noradrenaline infusion range is used in paediatric phaeochromocytoma surgery?",
+   "options": [
+    "0.2-1 mcg/kg/min",
+    "2-10 mcg/kg/min",
+    "0.002-0.01 mcg/kg/min",
+    "0.02-0.1 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#86e7a2",
+   "kind": "mcq",
+   "stem": "Before the adrenal vein is tied, how often should glucose be checked in paediatric phaeochromocytoma surgery?",
+   "options": [
+    "Every 15 minutes",
+    "Hourly",
+    "Every four hours",
+    "Only at induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#334e71",
+   "kind": "statement",
+   "stem": "After paediatric phaeochromocytoma surgery, which level of care is advised initially?",
+   "answer": "High dependency unit (HDU)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#0e9bd4",
+   "kind": "statement",
+   "stem": "In a child after phaeochromocytoma surgery, what are two causes of hypotension?",
+   "answer": "Bleeding or residual alpha blockade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#197299",
+   "kind": "mcq",
+   "stem": "If needed, what dextrose concentration treats transient hypoglycaemia after paediatric phaeochromocytoma surgery?",
+   "options": [
+    "5%",
+    "10%",
+    "20%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#58eec9",
+   "kind": "mcq",
+   "stem": "After open paediatric phaeochromocytoma surgery, for how long is epidural or IV morphine given?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "48 hours",
+    "1 week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#e7ed7d",
+   "kind": "statement",
+   "stem": "Which regular analgesic is advised after paediatric phaeochromocytoma surgery?",
+   "answer": "Paracetamol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#7d78d2",
+   "kind": "statement",
+   "stem": "How long can hypertension persist after paediatric phaeochromocytoma surgery?",
+   "answer": "Several weeks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-oncology-surgery#c1bf42",
+   "kind": "statement",
+   "stem": "What advantage does laparoscopic paediatric phaeochromocytoma surgery offer after surgery?",
+   "answer": "Faster return to feeding and discharge",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

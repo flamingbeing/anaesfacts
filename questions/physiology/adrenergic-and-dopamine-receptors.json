@@ -1,0 +1,555 @@
+{
+ "topic": "physiology/adrenergic-and-dopamine-receptors",
+ "questions": [
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#00c8e6",
+   "kind": "statement",
+   "stem": "In 1913, what two opposing vascular effects was adrenaline first shown to have?",
+   "answer": "Vasoconstriction in some vascular beds and vasodilatation in others",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#b46366",
+   "kind": "mcq",
+   "stem": "In 1948, catecholamines were proposed to act on which two receptor types?",
+   "options": [
+    "Alpha and gamma",
+    "Beta and delta",
+    "Alpha and beta",
+    "Mu and kappa"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#55ed03",
+   "kind": "statement",
+   "stem": "What did selective antagonists confirm in adrenergic receptor research?",
+   "answer": "The alpha and beta receptor split",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#8b9c0c",
+   "kind": "mcq",
+   "stem": "What receptor class are all adrenoceptors?",
+   "options": [
+    "Ligand-gated ion channels",
+    "G protein-coupled receptors",
+    "Tyrosine kinase receptors",
+    "Nuclear hormone receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#58da42",
+   "kind": "statement",
+   "stem": "How does each adrenoceptor class couple to its effector?",
+   "answer": "To a different G protein and effector",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#f97580",
+   "kind": "mcq",
+   "stem": "Which G protein does the alpha-1 adrenoceptor couple to?",
+   "options": [
+    "Gi",
+    "Gs",
+    "Gq",
+    "Gt"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#859872",
+   "kind": "mcq",
+   "stem": "What does the Gi protein of alpha-2 receptors do to adenylyl cyclase?",
+   "options": [
+    "Activates it",
+    "Inhibits it",
+    "Phosphorylates it",
+    "Degrades it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#f27102",
+   "kind": "mcq",
+   "stem": "Which phosphodiesterase breaks down cAMP in heart and smooth muscle?",
+   "options": [
+    "Type 4 (PDE4)",
+    "Type 5 (PDE5)",
+    "Type 1 (PDE1)",
+    "Type 3 (PDE3)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#7139fd",
+   "kind": "statement",
+   "stem": "Why do PDE3 inhibitors make cAMP-driven effects stronger and longer?",
+   "answer": "They stop cAMP breakdown",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#64765f",
+   "kind": "mcq",
+   "stem": "What do PDE3 inhibitors do to platelet aggregation?",
+   "options": [
+    "Increase platelet aggregation",
+    "Reduce platelet aggregation",
+    "Have no effect on platelets",
+    "Prolong platelet lifespan"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#ead8c8",
+   "kind": "statement",
+   "stem": "Activated alpha-1 receptors raise intracellular Ca2+ via which second messenger?",
+   "answer": "IP3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#c4f2c1",
+   "kind": "blank",
+   "stem": "Alpha-1 receptors have at least four subtypes: α1A, α1B, α1C and ____.",
+   "answer": "α1D",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#6c3fbd",
+   "kind": "statement",
+   "stem": "Compared with beta-2, which receptor is more numerous in vascular smooth muscle?",
+   "answer": "Alpha-1 receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#ca5ead",
+   "kind": "mcq",
+   "stem": "Which drug is the alpha-1 receptor antagonist?",
+   "options": [
+    "Atenolol",
+    "Phenylephrine",
+    "Dobutamine",
+    "Prazosin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#f90cf9",
+   "kind": "statement",
+   "stem": "What do alpha-2 receptors do to potassium and calcium channels?",
+   "answer": "Open K+ channels and close Ca2+ channels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#560b45",
+   "kind": "statement",
+   "stem": "In which body system are alpha-2 adrenoceptors widespread?",
+   "answer": "The nervous system, including the CNS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#5c08fa",
+   "kind": "mcq",
+   "stem": "Which alpha-2 subtype mediates sedation, analgesia and sympatholysis?",
+   "options": [
+    "α2B",
+    "α2C",
+    "α1A",
+    "α2A"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#a4ea52",
+   "kind": "mcq",
+   "stem": "Which alpha-2 receptor subtype causes vasoconstriction?",
+   "options": [
+    "α2A",
+    "α2C",
+    "β1",
+    "α2B"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#5c7895",
+   "kind": "statement",
+   "stem": "What is the main action of the alpha-2C receptor subtype?",
+   "answer": "CNS actions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#4b33f4",
+   "kind": "blank",
+   "stem": "Alpha-2A sedation in the locus coeruleus: anaesthetic MAC appears to ____.",
+   "answer": "fall",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#c99273",
+   "kind": "mcq",
+   "stem": "Where do alpha-2A receptors mainly produce analgesia?",
+   "options": [
+    "Cerebral cortex",
+    "Spinal dorsal horn",
+    "Sinoatrial node",
+    "Renal tubules"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#c99273",
+   "kind": "statement",
+   "stem": "What does alpha-2A activation in the spinal dorsal horn increase the release of?",
+   "answer": "Endogenous opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#b12a5e",
+   "kind": "blank",
+   "stem": "Low-dose alpha-2 agonists cause central sympatholysis, giving vasodilation and ____.",
+   "answer": "bradycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#3dab01",
+   "kind": "mcq",
+   "stem": "Noradrenaline limits its own release by acting on which receptors?",
+   "options": [
+    "Postjunctional alpha-1 receptors",
+    "Presynaptic alpha-2 receptors",
+    "Presynaptic beta-2 receptors",
+    "Postjunctional beta-1 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#20f1b3",
+   "kind": "blank",
+   "stem": "High doses of alpha-2 agonists cause hypertension via peripheral ____ on resistance vessels.",
+   "answer": "vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#c269bd",
+   "kind": "mcq",
+   "stem": "How does a slow infusion over 10 minutes change the hypertension seen after an IV alpha-2 bolus?",
+   "options": [
+    "Increases it",
+    "Has no effect on it",
+    "Reduces it",
+    "Prolongs it"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#f40170",
+   "kind": "mcq",
+   "stem": "Which drug is the alpha-2 receptor agonist?",
+   "options": [
+    "Yohimbine",
+    "Prazosin",
+    "Atenolol",
+    "Clonidine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#869e3e",
+   "kind": "mcq",
+   "stem": "Which G protein do all beta receptors couple to?",
+   "options": [
+    "Gq",
+    "Gi",
+    "Gs",
+    "Gt"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#153e1d",
+   "kind": "mcq",
+   "stem": "Beta-1 receptors are found mainly in which tissue?",
+   "options": [
+    "Heart",
+    "Uterine smooth muscle",
+    "Bronchial smooth muscle",
+    "Adipose tissue"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#779942",
+   "kind": "mcq",
+   "stem": "Which drug is the beta-1 receptor agonist?",
+   "options": [
+    "Dobutamine",
+    "Prazosin",
+    "Clonidine",
+    "Atenolol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#fc4c99",
+   "kind": "statement",
+   "stem": "Which second messenger rises when beta-2 receptors are stimulated?",
+   "answer": "cAMP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#e4b5f1",
+   "kind": "statement",
+   "stem": "On which tissues are beta-2 receptors found?",
+   "answer": "Vascular and non-vascular smooth muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#50659a",
+   "kind": "mcq",
+   "stem": "What is the major airway effect of beta-2 receptor stimulation?",
+   "options": [
+    "Bronchoconstriction",
+    "Mucus hypersecretion",
+    "Bronchodilatation",
+    "Bronchial oedema"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#fcd426",
+   "kind": "statement",
+   "stem": "What safety concern is raised for long-acting beta-2 agonists in some groups?",
+   "answer": "Mortality concerns",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#da072a",
+   "kind": "mcq",
+   "stem": "Why are beta-2 agonists used as tocolytics?",
+   "options": [
+    "Uterine contraction",
+    "Uterine relaxation",
+    "Uterine hypertrophy",
+    "Uterine ischaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#aa4b01",
+   "kind": "statement",
+   "stem": "Beta-2 stimulation relaxes the bladder; what opposing effect does this outweigh?",
+   "answer": "Alpha-1 contraction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#1efa6a",
+   "kind": "mcq",
+   "stem": "How does beta-2 stimulation's rise in cardiac output compare with beta-1's?",
+   "options": [
+    "Smaller",
+    "Larger",
+    "Equal",
+    "Absent"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#abeee8",
+   "kind": "statement",
+   "stem": "Where does the beta-2 agonist binding site lie?",
+   "answer": "In the hydrophobic core within the lipid bilayer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#8e1905",
+   "kind": "mcq",
+   "stem": "Which drug is the beta-2 antagonist that is not used clinically?",
+   "options": [
+    "Salbutamol",
+    "Prazosin",
+    "Butoxamine",
+    "Dobutamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#060456",
+   "kind": "mcq",
+   "stem": "Beta-3 receptors are found mainly in which tissue?",
+   "options": [
+    "Skeletal muscle",
+    "Adipose tissue",
+    "Bronchial smooth muscle",
+    "Platelets"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#c35e5a",
+   "kind": "statement",
+   "stem": "What does beta-3 stimulation drive in brown fat?",
+   "answer": "Non-shivering thermogenesis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#c35e5a",
+   "kind": "mcq",
+   "stem": "Beta-3 receptors promote which process in fat cells?",
+   "options": [
+    "Lipogenesis",
+    "Lipolysis",
+    "Glycogenolysis",
+    "Gluconeogenesis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#2e6151",
+   "kind": "statement",
+   "stem": "Are dopamine D1 receptors pre- or postsynaptic?",
+   "answer": "Postsynaptic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#d1f18c",
+   "kind": "mcq",
+   "stem": "Which G protein do dopamine D2 receptors couple to?",
+   "options": [
+    "Gs",
+    "Gq",
+    "Gi",
+    "Gt"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#8f2645",
+   "kind": "statement",
+   "stem": "In the nervous system, where are dopamine D2 receptors located relative to the synapse?",
+   "answer": "Presynaptic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#b53c8d",
+   "kind": "statement",
+   "stem": "What do beta receptor numbers change quickly with?",
+   "answer": "The noradrenaline level in the synapse or plasma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#e36998",
+   "kind": "blank",
+   "stem": "Beta receptor numbers rise within ____ minutes of denervation or beta blockade.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#e62415",
+   "kind": "statement",
+   "stem": "What is the term for rapid loss of response despite ongoing agonist exposure?",
+   "answer": "Desensitisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#9ffbc7",
+   "kind": "mcq",
+   "stem": "In chronic heart failure, what happens to ventricular beta-1 receptor density?",
+   "options": [
+    "Rises",
+    "Unchanged",
+    "Falls",
+    "Doubles"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "physiology/adrenergic-and-dopamine-receptors#3b2e3a",
+   "kind": "mcq",
+   "stem": "In heart failure, what share of isoprenaline's inotropic response comes via beta-2?",
+   "options": [
+    "30%",
+    "20%",
+    "60%",
+    "80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

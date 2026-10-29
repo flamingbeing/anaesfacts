@@ -1,0 +1,1687 @@
+{
+ "topic": "procedures/cardiac-surgery-with-cardiopulmonary-bypass",
+ "questions": [
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#4a1c47",
+   "kind": "statement",
+   "stem": "In cardiac surgery with cardiopulmonary bypass, which two organs need protection on bypass?",
+   "answer": "Heart and brain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#828cad",
+   "kind": "mcq",
+   "stem": "Which preoperative condition makes insulin likely during bypass in cardiac surgery with CPB?",
+   "options": [
+    "Chronic kidney disease",
+    "Neurological disease",
+    "Diabetes",
+    "Oesophageal problems"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#8e5966",
+   "kind": "mcq",
+   "stem": "Which preoperative finding may mean near-infrared spectroscopy (NIRS) is needed in cardiac surgery with CPB?",
+   "options": [
+    "Neurological disease",
+    "Diabetes",
+    "Chronic kidney disease",
+    "Oesophageal problems"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#5cb953",
+   "kind": "blank",
+   "stem": "In cardiac surgery with CPB, oesophageal problems may contraindicate ____.",
+   "answer": "TEE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#993a95",
+   "kind": "statement",
+   "stem": "What blood preparation is arranged before cardiac surgery with CPB?",
+   "answer": "Group and crossmatch, with blood ready in the fridge",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#54f517",
+   "kind": "mcq",
+   "stem": "In cardiac surgery risk stratification, how many groups do risk factors fall into?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#91ce5a",
+   "kind": "mcq",
+   "stem": "Which risk score is the European System for Cardiac Operative Risk Evaluation?",
+   "options": [
+    "STS score",
+    "APACHE II",
+    "EuroSCORE II",
+    "Wells score"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#91ce5a",
+   "kind": "mcq",
+   "stem": "Which cardiac risk score is from the Society of Thoracic Surgeons?",
+   "options": [
+    "EuroSCORE II",
+    "APACHE II",
+    "Wells score",
+    "STS score"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#57acb6",
+   "kind": "blank",
+   "stem": "For cardiac surgery with CPB, the large-bore IV cannula is ____ and sits on the right.",
+   "answer": "16G",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#b32a78",
+   "kind": "statement",
+   "stem": "In cardiac surgery with CPB, where is the arterial line placed and when?",
+   "answer": "Left side, before induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#2ba08e",
+   "kind": "statement",
+   "stem": "In cardiac surgery with CPB, which central line site is specified, and when is it placed?",
+   "answer": "Right internal jugular, before or after induction depending on disease severity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#75a696",
+   "kind": "statement",
+   "stem": "In cardiac surgery with CPB, why is a PA catheter pulled back before bypass?",
+   "answer": "To avoid pulmonary artery rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#073edd",
+   "kind": "mcq",
+   "stem": "Which ECG lead set is used for monitoring in cardiac surgery with CPB?",
+   "options": [
+    "3-lead ECG",
+    "2-lead ECG",
+    "7-lead ECG",
+    "5-lead ECG"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#eaa697",
+   "kind": "mcq",
+   "stem": "Where are the two temperature probes placed in cardiac surgery with CPB?",
+   "options": [
+    "Axillary and groin",
+    "Oral and forehead",
+    "Nasal and rectal",
+    "Ear and skin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#231950",
+   "kind": "statement",
+   "stem": "In cardiac surgery with CPB, what is an orogastric tube used for?",
+   "answer": "Aspirating, and helping TEE probe passage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#1450f3",
+   "kind": "statement",
+   "stem": "Which additional brain monitor should be considered in cardiac surgery with CPB?",
+   "answer": "Cerebral oximetry",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#318596",
+   "kind": "statement",
+   "stem": "In cardiac surgery with CPB, when is TEE monitoring started?",
+   "answer": "After induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#5f61d7",
+   "kind": "mcq",
+   "stem": "For which surgery should defibrillator pads be placed in cardiac surgery with CPB?",
+   "options": [
+    "Standard sternotomy CABG",
+    "Minimally invasive, MIDCAB or redo surgery",
+    "Valve surgery on bypass only",
+    "Aortic root surgery only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#8e2aa7",
+   "kind": "statement",
+   "stem": "Which emergency drug is specifically named for cardiac surgery with CPB?",
+   "answer": "Calcium chloride",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#6cdaeb",
+   "kind": "mcq",
+   "stem": "In cardiac surgery with CPB, what is given to diabetic patients during bypass?",
+   "options": [
+    "Oral metformin",
+    "Insulin infusion",
+    "Dextrose bolus only",
+    "Subcutaneous glargine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#be9847",
+   "kind": "mcq",
+   "stem": "What is the default airway for cardiac surgery with CPB unless early extubation is planned?",
+   "options": [
+    "Armoured tracheal tube",
+    "Laryngeal mask airway",
+    "Double-lumen tube",
+    "High-low pressure cuff ETT"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#391351",
+   "kind": "mcq",
+   "stem": "Which airway options are used for minimally invasive cardiac surgery?",
+   "options": [
+    "Laryngeal mask airway",
+    "Double-lumen tube or bronchial blocker",
+    "Nasopharyngeal airway",
+    "Tracheostomy tube"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#47a04e",
+   "kind": "statement",
+   "stem": "In cardiac surgery induction, which technique is tailored to the lesion, such as ischaemic or valve disease?",
+   "answer": "Cardiostable technique",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d73482",
+   "kind": "blank",
+   "stem": "In cardiac surgery induction, ____ should be drawn up and ready.",
+   "answer": "Vasopressors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#5378e9",
+   "kind": "statement",
+   "stem": "For sternotomy positioning in cardiac surgery, what is rolled under the upper back, and why?",
+   "answer": "A roll, to lift the chest and extend the neck",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#7207c9",
+   "kind": "mcq",
+   "stem": "For minimally invasive cardiac surgery, how far is the left chest tilted up?",
+   "options": [
+    "5-10 degrees",
+    "40-50 degrees",
+    "20-30 degrees",
+    "60-70 degrees"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#24e3dc",
+   "kind": "statement",
+   "stem": "In cardiac surgery, what should you suspect for hypotension when the chest is open, and when it is closed?",
+   "answer": "Surgical handling of the heart when open; tamponade when closed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#9ce0b2",
+   "kind": "statement",
+   "stem": "Why should IV fluid be avoided early in cardiac surgery with bypass?",
+   "answer": "The bypass circuit will add a large volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#3af78d",
+   "kind": "mcq",
+   "stem": "On bypass in cardiac surgery, what heart rate is targeted for stenotic valves?",
+   "options": [
+    "40-50 bpm",
+    "60-80 bpm",
+    "100-120 bpm",
+    "80-100 bpm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#3af78d",
+   "kind": "mcq",
+   "stem": "On bypass in cardiac surgery, what heart rate is targeted for regurgitant valves?",
+   "options": [
+    "60-80 bpm",
+    "80-100 bpm",
+    "40-50 bpm",
+    "120-140 bpm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#b4faaa",
+   "kind": "statement",
+   "stem": "During aortic cannulation in cardiac surgery, what systolic pressure target helps avoid dissection?",
+   "answer": "SBP <100",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d879a8",
+   "kind": "mcq",
+   "stem": "What MAP is targeted on cold bypass in cardiac surgery, with the cross-clamp on?",
+   "options": [
+    "60-80mmHg",
+    "50-70mmHg",
+    "30-40mmHg",
+    "90-100mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d879a8",
+   "kind": "mcq",
+   "stem": "What MAP is targeted on warm bypass in cardiac surgery, with the cross-clamp off?",
+   "options": [
+    "50-70mmHg",
+    "80-90mmHg",
+    "60-80mmHg",
+    "30-40mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#98fce7",
+   "kind": "statement",
+   "stem": "What can intraoperative transoesophageal echo detect in cardiac surgery? Give the main findings.",
+   "answer": "Air, ASD, VSD, AS, AR, MR, MS, volume status, aortic plaque, ischaemia, ventricular and valve function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#3ffd89",
+   "kind": "mcq",
+   "stem": "After inadequate myocardial flow, how soon does a regional wall motion abnormality appear on transoesophageal echo?",
+   "options": [
+    "Within 5 to 10 minutes",
+    "Within 1 to 2 minutes",
+    "Within 5 to 10 seconds",
+    "Within 1 to 2 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#02864b",
+   "kind": "statement",
+   "stem": "Why must a transoesophageal echo probe always be used with a bite block and plenty of lubricant?",
+   "answer": "It is fragile and costly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#02864b",
+   "kind": "mcq",
+   "stem": "Roughly what does a transoesophageal echo probe cost?",
+   "options": [
+    "$6,500",
+    "$650,000",
+    "$65,000",
+    "$2,500"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#693c81",
+   "kind": "mcq",
+   "stem": "A transoesophageal echo probe can overheat. What should be done with the image when the probe is not in use?",
+   "options": [
+    "Turn screen brightness to maximum",
+    "Increase the probe gain",
+    "Freeze the image",
+    "Withdraw the probe from the oesophagus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#02d949",
+   "kind": "mcq",
+   "stem": "In cardiac surgery with bypass, what dose of tranexamic acid is given before bypass?",
+   "options": [
+    "500mg",
+    "2g",
+    "1g",
+    "100mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#02d949",
+   "kind": "statement",
+   "stem": "What is tranexamic acid given for in cardiac surgery with bypass?",
+   "answer": "An antifibrinolytic to reduce bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#1d9938",
+   "kind": "statement",
+   "stem": "What platelet defect does cardiopulmonary bypass cause?",
+   "answer": "Low count and poor function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d1e7e3",
+   "kind": "mcq",
+   "stem": "In cardiac surgery on bypass, what potassium level is aimed for?",
+   "options": [
+    "K >2-2.5",
+    "K >4-4.5",
+    "K >3-3.5",
+    "K >5-5.5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#9491bf",
+   "kind": "mcq",
+   "stem": "Which electrolyte often needs supplementing when coming off cardiopulmonary bypass?",
+   "options": [
+    "Sodium",
+    "Chloride",
+    "Calcium",
+    "Bicarbonate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#5459bb",
+   "kind": "statement",
+   "stem": "What glucose problem is common on cardiopulmonary bypass, and how is it handled?",
+   "answer": "Glucose is often high; monitor and consider an insulin infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#5294e3",
+   "kind": "statement",
+   "stem": "Why is ventilation stopped during sternotomy, with the lungs down?",
+   "answer": "To avoid tearing the pleura or pericardium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#9b3c85",
+   "kind": "mcq",
+   "stem": "Through which line should heparin be given before going on bypass?",
+   "options": [
+    "Peripheral cannula",
+    "ACT sampling line",
+    "Central line",
+    "Arterial line only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#a823a2",
+   "kind": "mcq",
+   "stem": "What heparin dose is given before cardiac bypass, per kg of body weight?",
+   "options": [
+    "200-250 U/kg",
+    "500-600 U/kg",
+    "300-400 U/kg",
+    "50-100 U/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d1c7fe",
+   "kind": "mcq",
+   "stem": "How long after the heparin dose should the ACT be checked?",
+   "options": [
+    "1 min",
+    "10 min",
+    "3 min",
+    "20 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#10ce13",
+   "kind": "statement",
+   "stem": "What ACT must be reached before going on cardiopulmonary bypass?",
+   "answer": "Over 400 seconds",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#4924dd",
+   "kind": "mcq",
+   "stem": "If the ACT is under 400 seconds before bypass, how much heparin is given per step?",
+   "options": [
+    "50U/kg",
+    "100U/kg",
+    "500U/kg",
+    "1000U/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#7d930c",
+   "kind": "mcq",
+   "stem": "In cardiac surgery, needing more than 500 IU of heparin suggests what?",
+   "options": [
+    "Heparin overdose",
+    "Heparin resistance",
+    "Warfarin interaction",
+    "Antithrombin excess"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#7d930c",
+   "kind": "statement",
+   "stem": "What two treatments are given for suspected heparin resistance before bypass?",
+   "answer": "FFP or antithrombin III concentrate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#7fe8f6",
+   "kind": "statement",
+   "stem": "From which port should every ACT sample be drawn in cardiac surgery?",
+   "answer": "A port not exposed to heparin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#c9fb48",
+   "kind": "mcq",
+   "stem": "During cardiac bypass, where is arterial return to the patient usually given?",
+   "options": [
+    "Right atrium",
+    "Pulmonary artery",
+    "Ascending aorta",
+    "Left ventricle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#3fa3d4",
+   "kind": "mcq",
+   "stem": "Where is venous cannulation for cardiac bypass usually placed?",
+   "options": [
+    "Right atrium",
+    "Ascending aorta",
+    "Left atrium",
+    "Pulmonary artery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#b10180",
+   "kind": "statement",
+   "stem": "What ACT value is considered safe for cannulation before bypass?",
+   "answer": "Over 300 sec",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#18a094",
+   "kind": "statement",
+   "stem": "Why keep SBP under 100 and avoid tachycardia during aortic cannulation?",
+   "answer": "To lower wall stress and avoid intimal tear and dissection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#843f32",
+   "kind": "mcq",
+   "stem": "Many centres aim for what mean arterial pressure during cardiac bypass?",
+   "options": [
+    "40–50 mmHg",
+    "60–70 mmHg",
+    "80–90 mmHg",
+    "100–110 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#2a6e77",
+   "kind": "mcq",
+   "stem": "In cardiac surgery, how far is the PA catheter pulled back during the Swan step?",
+   "options": [
+    "1 cm",
+    "10 cm",
+    "5 cm",
+    "15 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#2a6e77",
+   "kind": "statement",
+   "stem": "In cardiac surgery, why pull back the PA catheter when starting bypass?",
+   "answer": "To avoid occlusion or rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#67a9f2",
+   "kind": "statement",
+   "stem": "Which monitor alarms are silenced when starting cardiopulmonary bypass?",
+   "answer": "ECG, BP and CO2 alarms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#dbc4cb",
+   "kind": "statement",
+   "stem": "Why top up muscle relaxant when starting bypass in a cooled patient?",
+   "answer": "To stop shivering",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#dbc4cb",
+   "kind": "statement",
+   "stem": "What harms can shivering cause in a cooled patient on bypass?",
+   "answer": "Raised oxygen use, muscle breakdown, myoglobinuria and renal failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#0beea3",
+   "kind": "mcq",
+   "stem": "In cardiopulmonary bypass, what pump flow is called full flow?",
+   "options": [
+    "1.0-1.5L/min/m2",
+    "3.5-4.0L/min/m2",
+    "2.2-2.8L/min/m2",
+    "4.5-5.0L/min/m2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#284cf4",
+   "kind": "mcq",
+   "stem": "During cardiopulmonary bypass, who runs the pump flow?",
+   "options": [
+    "Anaesthetist",
+    "Scrub nurse",
+    "Perfusionist",
+    "Surgeon"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#ea86e3",
+   "kind": "mcq",
+   "stem": "What MAP range should be maintained on bypass in cardiac surgery?",
+   "options": [
+    "30-40mmHg",
+    "50-80mmHg",
+    "90-110mmHg",
+    "110-120mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#7201ae",
+   "kind": "statement",
+   "stem": "On cardiopulmonary bypass, which drug is given as needed for glucose control?",
+   "answer": "Insulin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#de84a1",
+   "kind": "mcq",
+   "stem": "Which drug is used for rewarming on cardiopulmonary bypass?",
+   "options": [
+    "Adrenaline",
+    "GTN",
+    "Milrinone",
+    "Noradrenaline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#5ead02",
+   "kind": "statement",
+   "stem": "In deep hypothermic circulatory arrest, what cooling aid and monitor are used?",
+   "answer": "Ice packs and NIRS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#bc9495",
+   "kind": "statement",
+   "stem": "What two things should be done before coming off cardiopulmonary bypass?",
+   "answer": "Draw up the off-bypass drugs and check the pacing box",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#bfefa2",
+   "kind": "mcq",
+   "stem": "What should be ensured at the start of rewarming on cardiac bypass?",
+   "options": [
+    "Lighter anaesthesia",
+    "Adequate anaesthesia",
+    "Reversal of heparin",
+    "Cooling of the patient"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#3e2b1e",
+   "kind": "statement",
+   "stem": "During rewarming on bypass, what extra drug should be considered?",
+   "answer": "Extra muscle relaxant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#ec456e",
+   "kind": "mcq",
+   "stem": "Which drug class should be considered during rewarming on cardiac bypass?",
+   "options": [
+    "Anticholinergic",
+    "Beta-blocker",
+    "Benzodiazepine",
+    "Calcium channel blocker"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#fc1409",
+   "kind": "statement",
+   "stem": "When preparing to separate from bypass, what should be ordered and started?",
+   "answer": "Order platelets and start adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#abfb37",
+   "kind": "mcq",
+   "stem": "What energy is used for internal cardioversion of ventricular arrhythmias after cross-clamp removal?",
+   "options": [
+    "200–360 J",
+    "1–5 J",
+    "50–100 J",
+    "10–20 J"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#abfb37",
+   "kind": "statement",
+   "stem": "What arrhythmia is common after cross-clamp removal in cardiac surgery?",
+   "answer": "Ventricular arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#6e5711",
+   "kind": "statement",
+   "stem": "When is de-airing needed during cardiac surgery on bypass?",
+   "answer": "When a main chamber is opened, especially on the left side",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#9edafa",
+   "kind": "mcq",
+   "stem": "On transoesophageal echo, how does air in the ventricle appear?",
+   "options": [
+    "A single large dark cavity",
+    "A thickened valve leaflet",
+    "A snowstorm of small bubbles",
+    "A fixed dilated chamber"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#997c43",
+   "kind": "mcq",
+   "stem": "For de-airing, at what flow is CO2 insufflated into the pericardium?",
+   "options": [
+    "Half a litre per minute",
+    "Ten litres per minute",
+    "Two litres per minute",
+    "Twenty litres per minute"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#997c43",
+   "kind": "statement",
+   "stem": "Why is CO2 used rather than air to de-air the pericardium?",
+   "answer": "It is more soluble than air",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#3cc51d",
+   "kind": "statement",
+   "stem": "During de-airing, coronary air shows as ST elevation in which territories?",
+   "answer": "Right coronary territory or vein grafts on the aorta",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#67baca",
+   "kind": "statement",
+   "stem": "Why is epicardial pacing commonly placed in cardiac bypass surgery?",
+   "answer": "For reliable rate and AV synchrony",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#214ce7",
+   "kind": "statement",
+   "stem": "What are the risks of epicardial pacing wires in cardiac surgery?",
+   "answer": "Myocardial injury, bleeding and tamponade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#253061",
+   "kind": "mcq",
+   "stem": "Which of these is an indication for epicardial pacing in cardiac surgery?",
+   "options": [
+    "Young age",
+    "Valve surgery",
+    "Normal LV function",
+    "No arrhythmia history"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#429754",
+   "kind": "mcq",
+   "stem": "Which pacing mode is set for epicardial pacing at separation from bypass?",
+   "options": [
+    "AAI",
+    "VOO",
+    "DDD",
+    "VVI"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#429754",
+   "kind": "mcq",
+   "stem": "What output is set for atrial and ventricular pacing at separation from bypass?",
+   "options": [
+    "1 mA",
+    "20 mA",
+    "10 mA",
+    "50 mA"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#b07bd4",
+   "kind": "mcq",
+   "stem": "How far above the intrinsic heart rate should epicardial pacing be set?",
+   "options": [
+    "At least 5 beats per minute above",
+    "Equal to the intrinsic rate",
+    "At least 10 beats per minute above",
+    "Below the intrinsic rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d81aae",
+   "kind": "mcq",
+   "stem": "Which core temperature range counts as normothermia when separating from bypass?",
+   "options": [
+    "30-32",
+    "34-35",
+    "36-37",
+    "38-39"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#6145dd",
+   "kind": "statement",
+   "stem": "Why is magnesium given after bypass when separating from cardiopulmonary bypass?",
+   "answer": "It reduces atrial and ventricular arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#6145dd",
+   "kind": "statement",
+   "stem": "When should calcium be avoided at separation from cardiopulmonary bypass, and why?",
+   "answer": "In early reperfusion, as it can worsen reperfusion injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#74e949",
+   "kind": "statement",
+   "stem": "What do the letters of the separation-from-bypass mnemonic WAAARRRRMM stand for?",
+   "answer": "Warm, Anaesthesia, Adjuvant drugs, Air, Rhythm and Rate, Resistance, Respiration, Metabolism, Monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#0858af",
+   "kind": "mcq",
+   "stem": "At separation from bypass, what example adrenaline dose range is used to start inotropes?",
+   "options": [
+    "0.2–0.5 mcg/kg/min",
+    "0.02–0.05 mcg/kg/min",
+    "2–5 mcg/kg/min",
+    "0.002–0.005 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#7d9172",
+   "kind": "mcq",
+   "stem": "After what cross-clamp time is myocardial stunning likely?",
+   "options": [
+    "10–15 min",
+    "20–30 min",
+    "45–60 min",
+    "90–120 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#cd432a",
+   "kind": "mcq",
+   "stem": "In what steps is pump flow reduced when weaning off cardiopulmonary bypass?",
+   "options": [
+    "10% steps",
+    "Single step to off",
+    "25% steps",
+    "50% steps"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#070121",
+   "kind": "mcq",
+   "stem": "What size preload bolus is given via the aortic cannula when separating from bypass?",
+   "options": [
+    "5–10 ml",
+    "250–500 ml",
+    "50-100ml",
+    "1–2 litres"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#72c874",
+   "kind": "statement",
+   "stem": "Which cannulae are removed first once separation from bypass is stable?",
+   "answer": "Cardioplegia and venous cannulae",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#ecbda1",
+   "kind": "statement",
+   "stem": "In cardiac bypass surgery, why does the aortic cannula stay in until protamine is under way?",
+   "answer": "So the perfusionist can keep transfusing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#f2e2d3",
+   "kind": "statement",
+   "stem": "In cardiac bypass surgery, when must protamine never be given?",
+   "answer": "While still on bypass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#211843",
+   "kind": "mcq",
+   "stem": "When should protamine be started after cardiac bypass surgery?",
+   "options": [
+    "Before going onto bypass",
+    "Immediately after heparin is given",
+    "Once off bypass and stable",
+    "Only after the chest is closed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#33ad8b",
+   "kind": "mcq",
+   "stem": "Protamine for heparin reversal after cardiac bypass: how many mg per 100 units of heparin?",
+   "options": [
+    "0.5 mg",
+    "1 mg",
+    "2 mg",
+    "10 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#33ad8b",
+   "kind": "mcq",
+   "stem": "Protamine 10 mg per ml and heparin 1000 units per ml: how many ml of protamine per ml of heparin?",
+   "options": [
+    "0.5 ml",
+    "2 ml",
+    "10 ml",
+    "1 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#4718ad",
+   "kind": "blank",
+   "stem": "As an alternative protamine dose in cardiac bypass, give ____ of the original heparin dose, as excess protamine is anticoagulant.",
+   "answer": "80%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#985ad5",
+   "kind": "mcq",
+   "stem": "After protamine in cardiac bypass surgery, which ACT value shows adequate heparin reversal?",
+   "options": [
+    "Over 400 seconds",
+    "Over 250 seconds",
+    "Under 150 seconds",
+    "Over 180 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#255c6d",
+   "kind": "statement",
+   "stem": "Which type of protamine reaction causes pulmonary vasoconstriction, and what should be watched for it?",
+   "answer": "Type III; watch CVP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#0f783d",
+   "kind": "mcq",
+   "stem": "In cardiac bypass surgery, how long after the full protamine dose is the ACT repeated?",
+   "options": [
+    "1 minute",
+    "5 minutes",
+    "15 minutes",
+    "30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#f279b2",
+   "kind": "mcq",
+   "stem": "If ACT is still raised after protamine in cardiac bypass surgery, how much further protamine is given?",
+   "options": [
+    "10 mg",
+    "25 mg",
+    "100 mg",
+    "50 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#621f42",
+   "kind": "statement",
+   "stem": "Why might a patient need more protamine after the pump blood is returned following bypass?",
+   "answer": "Pump blood given afterwards contains heparin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#6689e5",
+   "kind": "statement",
+   "stem": "In cardiac bypass surgery, when is it appropriate to remove the aortic cannula?",
+   "answer": "Once protamine is running with no reaction and the patient is stable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#e6c393",
+   "kind": "mcq",
+   "stem": "Before removing the aortic cannula after bypass, when should the surgeons be told a return to bypass may be needed?",
+   "options": [
+    "As soon as the cannula is out",
+    "Only after the chest is closed",
+    "If the patient is tachycardic",
+    "If blood pressure is hard to hold despite inotropes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#28a30d",
+   "kind": "mcq",
+   "stem": "When the aortic cannula is removed after bypass, what systolic BP target lowers aortic wall stress?",
+   "options": [
+    "70-80 mm Hg",
+    "90-100 mm Hg",
+    "120-130 mm Hg",
+    "140-150 mm Hg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#2b4b22",
+   "kind": "statement",
+   "stem": "In cardiac surgery on bypass, when is the patient considered off bypass?",
+   "answer": "Once both venous and arterial lines are out",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#62ab8a",
+   "kind": "statement",
+   "stem": "When a patient fails to separate from cardiac bypass, what should be optimised?",
+   "answer": "Cardiac output and SVR, including volume and vasopressors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#a85cd7",
+   "kind": "mcq",
+   "stem": "Which mechanical support is an option when a patient fails to separate from cardiac bypass?",
+   "options": [
+    "Cell salvage machine",
+    "Pulmonary artery catheter",
+    "Intra-aortic balloon pump",
+    "Intermittent pneumatic compression"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#18c453",
+   "kind": "statement",
+   "stem": "In cardiac bypass surgery, what situations call for returning the patient to bypass?",
+   "answer": "Severe hypotension, bleeding, low output or other problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#3d7c0b",
+   "kind": "mcq",
+   "stem": "If protamine has already been given, what heparin dose re-heparinises the patient before returning to bypass?",
+   "options": [
+    "100 U/kg",
+    "200 U/kg",
+    "800 U/kg",
+    "400 U/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#f5138e",
+   "kind": "mcq",
+   "stem": "When returning to bypass after protamine, how much extra heparin may be needed?",
+   "options": [
+    "500–1,000 U",
+    "50,000–100,000 U",
+    "5,000–10,000 U",
+    "20,000–30,000 U"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#4a1026",
+   "kind": "statement",
+   "stem": "Which surgical steps follow coming off cardiac bypass?",
+   "answer": "Haemostasis, drains, sternal wires, closure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#83d8c5",
+   "kind": "mcq",
+   "stem": "After bypass in routine CABG, how many units of platelets are reasonable if antiplatelets were not stopped?",
+   "options": [
+    "4 units",
+    "1 unit",
+    "10 units",
+    "6 units"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#e90e60",
+   "kind": "mcq",
+   "stem": "After cardiac bypass, which electrolytes should be kept corrected?",
+   "options": [
+    "Potassium and calcium",
+    "Sodium and chloride",
+    "Phosphate and glucose",
+    "Haemoglobin and platelets"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#89013e",
+   "kind": "mcq",
+   "stem": "Before sternal closure after cardiac bypass, by how much is arterial pressure raised above the closed-chest goal?",
+   "options": [
+    "10 to 15 mm Hg",
+    "2 to 5 mm Hg",
+    "30 to 40 mm Hg",
+    "50 to 60 mm Hg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#e943eb",
+   "kind": "mcq",
+   "stem": "In cardiac bypass surgery, when is the TEE probe removed?",
+   "options": [
+    "Immediately after bypass is stopped",
+    "Before the chest is closed",
+    "Once the patient is in ICU",
+    "Just before transfer"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#093433",
+   "kind": "statement",
+   "stem": "What should be true before transferring a patient to the cardiac ICU after bypass?",
+   "answer": "Intubated, stable cardiorespiratory state, adequate haemostasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#bfd122",
+   "kind": "statement",
+   "stem": "What should the handover to cardiac ICU include about bypass timings?",
+   "answer": "Bypass, cross-clamp and circulatory arrest times",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#765b54",
+   "kind": "statement",
+   "stem": "In cardiac bypass surgery, what three myocardial problems should be anticipated?",
+   "answer": "Ischaemia, stunning, hibernation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#469dee",
+   "kind": "mcq",
+   "stem": "What defines cardiogenic shock after cardiac surgery?",
+   "options": [
+    "Low systemic vascular resistance with high output",
+    "Hypotension with low preload",
+    "Fever with raised cardiac output",
+    "Systemic hypoperfusion despite adequate preload"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#9a84ad",
+   "kind": "mcq",
+   "stem": "After cardiac surgery, which cardiac index indicates low output?",
+   "options": [
+    "Above 2.0 L/min/m²",
+    "Below 2.0 L/min/m²",
+    "Above 3.5 L/min/m²",
+    "Above 4.5 L/min/m²"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#3acb30",
+   "kind": "mcq",
+   "stem": "In post-bypass shock, which systolic threshold defines hypotension?",
+   "options": [
+    "SBP above 90 mmHg",
+    "SBP below 90 mmHg",
+    "Diastolic pressure below 50 mmHg",
+    "SBP above 140 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#279a0f",
+   "kind": "mcq",
+   "stem": "After cardiac bypass, which wedge pressure suggests cardiogenic rather than hypovolaemic shock?",
+   "options": [
+    "Below 8 mmHg",
+    "Below 12 mmHg",
+    "Above 18 mmHg",
+    "Below 5 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#78fe14",
+   "kind": "mcq",
+   "stem": "After cardiac bypass, what urine output suggests end-organ hypoperfusion?",
+   "options": [
+    "Above 0.5 mL/kg/h",
+    "Above 1.0 mL/kg/h",
+    "Below 0.5 mL/kg/h",
+    "Above 2.0 mL/kg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#252e1f",
+   "kind": "mcq",
+   "stem": "In rhythm management after cardiac bypass, what heart rate range does epicardial pacing target?",
+   "options": [
+    "40–60 bpm",
+    "120–140 bpm",
+    "80–100 bpm",
+    "150–160 bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#63128e",
+   "kind": "mcq",
+   "stem": "What haemodynamic pattern defines distributive shock after cardiac bypass?",
+   "options": [
+    "High SVR with low cardiac output",
+    "Low SVR with low cardiac output",
+    "Low SVR with normal or high cardiac output",
+    "High SVR with normal cardiac output"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d07ae0",
+   "kind": "mcq",
+   "stem": "After cardiac bypass, at what mean arterial pressure despite fluid is the patient hypotensive?",
+   "options": [
+    "Above 65 mmHg",
+    "Above 80 mmHg",
+    "Above 50 mmHg",
+    "Below 65 mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#e99ea3",
+   "kind": "mcq",
+   "stem": "After cardiac bypass, which systemic vascular resistance value points to distributive shock?",
+   "options": [
+    "SVR above 800",
+    "SVR above 1200",
+    "SVR above 1600",
+    "SVR below 800"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#81d9a4",
+   "kind": "mcq",
+   "stem": "After cardiac bypass, what is the reported incidence of vasoplegia?",
+   "options": [
+    "1% to 5%",
+    "50% to 75%",
+    "10% to 15%",
+    "5% to 44%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#629151",
+   "kind": "statement",
+   "stem": "What two triggers release cytokines that cause direct vasodilation after cardiac bypass?",
+   "answer": "Surgical trauma and bypass circuit contact",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#33d88a",
+   "kind": "mcq",
+   "stem": "What dose of methylene blue is used for refractory vasoplegia after cardiac bypass?",
+   "options": [
+    "0.1–0.2 mg/kg",
+    "10–20 mg/kg",
+    "1–2 mg/kg",
+    "5–10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#33d88a",
+   "kind": "statement",
+   "stem": "How does methylene blue act in vasoplegia after cardiac bypass?",
+   "answer": "Blocks guanylate cyclase in the NO pathway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#5cfaa7",
+   "kind": "statement",
+   "stem": "How does hydroxocobalamin act in vasoplegia after cardiac bypass?",
+   "answer": "Scavenges nitric oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#25b9c8",
+   "kind": "mcq",
+   "stem": "Which receptor does angiotensin II use to cause vasoconstriction in vasoplegia after bypass?",
+   "options": [
+    "Beta-2 receptors",
+    "Muscarinic M2 receptors",
+    "AT1 receptors",
+    "Dopamine D1 receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#0b5356",
+   "kind": "statement",
+   "stem": "What causes the systemic inflammatory response during cardiac bypass?",
+   "answer": "Blood contact with non-endothelial surfaces",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#c19a92",
+   "kind": "statement",
+   "stem": "During aortic handling on cardiac bypass, which emboli can cause ischaemic stroke?",
+   "answer": "Macroemboli of calcium, air or atheroma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#c19a92",
+   "kind": "mcq",
+   "stem": "During cardiac bypass, at what mean arterial pressure is the stroke risk raised?",
+   "options": [
+    "Above 65 mmHg",
+    "Above 80 mmHg",
+    "Above 50 mmHg",
+    "Below 50 mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#143b3e",
+   "kind": "statement",
+   "stem": "Which two surgical actions can injure the brachial plexus during cardiac surgery?",
+   "answer": "Sternal retraction and first rib rotation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#45a81a",
+   "kind": "statement",
+   "stem": "What is the nickname for the lung injury caused by cardiopulmonary bypass?",
+   "answer": "Pump lung",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d8d5c9",
+   "kind": "statement",
+   "stem": "Why do serum potassium and magnesium fall during rewarming on cardiac bypass?",
+   "answer": "They move back into cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#797e45",
+   "kind": "mcq",
+   "stem": "When crashing onto cardiac bypass, what full heparin dose is given via a central line?",
+   "options": [
+    "100–150 units/kg",
+    "300–400 units/kg",
+    "500–600 units/kg",
+    "50–100 units/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#9fe201",
+   "kind": "statement",
+   "stem": "In an extreme crash onto bypass, the surgeon may go on before the ACT result. What must be ensured?",
+   "answer": "The heparin dose is actually in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#15293a",
+   "kind": "statement",
+   "stem": "What are the main risks of redo sternotomy in cardiac surgery?",
+   "answer": "RV laceration with massive bleeding, arrhythmia or VF, injury to old grafts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#f2b9b1",
+   "kind": "mcq",
+   "stem": "Which preoperative imaging is used before redo sternotomy in cardiac surgery?",
+   "options": [
+    "Abdominal ultrasound",
+    "CT thorax",
+    "Carotid Doppler",
+    "Lung function tests"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#d58366",
+   "kind": "statement",
+   "stem": "After redo sternotomy in cardiac surgery, what two problems should be anticipated?",
+   "answer": "More bleeding and poor LV function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/cardiac-surgery-with-cardiopulmonary-bypass#5b4f85",
+   "kind": "statement",
+   "stem": "In minimally invasive valve surgery, what incision is used and is the patient still on bypass?",
+   "answer": "Smaller incision, possibly thoracotomy; yes, still on bypass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

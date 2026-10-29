@@ -1,0 +1,1453 @@
+{
+ "topic": "procedures/paediatric-emergency-orthopaedic-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#c7953f",
+   "kind": "statement",
+   "stem": "How are many non-elective paediatric emergency orthopaedic cases managed?",
+   "answer": "Many wait for the next daytime list; some need out-of-hours surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#d088c0",
+   "kind": "statement",
+   "stem": "Which children in paediatric emergency orthopaedic surgery are usually not healthy?",
+   "answer": "Those with pathological fractures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#db75a5",
+   "kind": "statement",
+   "stem": "What is the main safety issue in paediatric emergency orthopaedic anaesthesia?",
+   "answer": "Regurgitation and aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#5e3e9c",
+   "kind": "mcq",
+   "stem": "How do children usually present for paediatric emergency orthopaedic surgery?",
+   "options": [
+    "Calm and cooperative",
+    "Hypotensive",
+    "Distressed",
+    "Indifferent to surroundings"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#a934e0",
+   "kind": "statement",
+   "stem": "Name three common paediatric emergency orthopaedic fractures.",
+   "answer": "Forearm, supracondylar humerus and distal tibia fractures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#1e1e1f",
+   "kind": "statement",
+   "stem": "How much workload do femoral fractures and septic arthritis make up in paediatric emergency orthopaedics?",
+   "answer": "Small but significant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#64c6c6",
+   "kind": "mcq",
+   "stem": "Which condition classically causes pathological fractures in children?",
+   "options": [
+    "Sickle cell disease",
+    "Haemophilia",
+    "Osteogenesis imperfecta",
+    "Cystic fibrosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#64c6c6",
+   "kind": "statement",
+   "stem": "Apart from osteogenesis imperfecta, name three causes of paediatric pathological fractures.",
+   "answer": "Fibrous dysplasia, Ollier's disease, severe cerebral palsy, metabolic bone disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#fcfff0",
+   "kind": "mcq",
+   "stem": "Which is the commonest non-elective paediatric orthopaedic case?",
+   "options": [
+    "Septic arthritis",
+    "Forearm fractures",
+    "Femoral fractures",
+    "Pathological fractures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#17eee0",
+   "kind": "mcq",
+   "stem": "What percentage of children's fractures involve the upper limb?",
+   "options": [
+    "50%",
+    "30%",
+    "90%",
+    "70%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#17eee0",
+   "kind": "mcq",
+   "stem": "What percentage of children's fractures involve the forearm and hand?",
+   "options": [
+    "30%",
+    "70%",
+    "50%",
+    "20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#20a341",
+   "kind": "statement",
+   "stem": "What age group and mechanism are typical for paediatric forearm fractures?",
+   "answer": "Mostly children over 5 years, falls in play or sport",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#486548",
+   "kind": "mcq",
+   "stem": "What fracture type is typical in younger children with forearm fractures?",
+   "options": [
+    "Complete fracture",
+    "Comminuted fracture",
+    "Open fracture",
+    "Greenstick fracture"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#494043",
+   "kind": "statement",
+   "stem": "Why are most paediatric forearm fractures treated with a cast, or MUA and cast?",
+   "answer": "They heal fast with remodelling and little overgrowth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#747dd1",
+   "kind": "statement",
+   "stem": "Which surgical treatments are used for paediatric forearm fractures that need an operation?",
+   "answer": "Percutaneous Kirschner wires for some; open reduction and plating for a few",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#db3dc9",
+   "kind": "statement",
+   "stem": "How is paediatric forearm fracture surgery often scheduled?",
+   "answer": "Deferred until fasted, then done on the next trauma list as elective",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#56e191",
+   "kind": "statement",
+   "stem": "Which features mean a fasted child with a forearm fracture still has a full stomach?",
+   "answer": "Pale, frightened, in pain, or given opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#f4db22",
+   "kind": "statement",
+   "stem": "Must every paediatric forearm fracture wait until the child is fasted?",
+   "answer": "No; some need urgent surgery whatever the fasting status",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#8d0f98",
+   "kind": "statement",
+   "stem": "Whom should you discuss fracture type and planned surgery with for a paediatric forearm fracture, and why?",
+   "answer": "The orthopaedic team, because it affects technique",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#ce1aed",
+   "kind": "statement",
+   "stem": "Which recent drug exposure should be noted before anaesthesia for a paediatric forearm fracture?",
+   "answer": "Recent analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#418881",
+   "kind": "statement",
+   "stem": "Why is regional anaesthesia instead of general anaesthesia usually not considered for paediatric forearm fractures?",
+   "answer": "Children tolerate it poorly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#369ac3",
+   "kind": "mcq",
+   "stem": "How is a fasted child with a forearm fracture usually induced?",
+   "options": [
+    "Rapid sequence induction",
+    "Awake fibreoptic intubation",
+    "IV or gas induction",
+    "Regional block only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#02e610",
+   "kind": "mcq",
+   "stem": "Which induction suits a child with a forearm fracture at regurgitation risk?",
+   "options": [
+    "Gas induction",
+    "Awake fibreoptic intubation",
+    "Regional block only",
+    "Rapid sequence induction"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#21b494",
+   "kind": "statement",
+   "stem": "How can laryngospasm during fracture manipulation in a child be prevented?",
+   "answer": "Deepen anaesthesia or give a short-acting opioid bolus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#21b494",
+   "kind": "mcq",
+   "stem": "What IV fentanyl bolus helps prevent laryngospasm during fracture manipulation in children?",
+   "options": [
+    "10-20 mcg/kg",
+    "100-150 mcg/kg",
+    "0.5-1 mcg/kg",
+    "1-2 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#f6feb3",
+   "kind": "statement",
+   "stem": "Why is a tourniquet used for open reduction and internal fixation of a forearm fracture in a child?",
+   "answer": "Minimal blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#8db8c3",
+   "kind": "mcq",
+   "stem": "Which drug class is needed for forearm fracture operations, even simple MUA?",
+   "options": [
+    "Antiemetic",
+    "Opioid",
+    "Antibiotic",
+    "Antihistamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#92e070",
+   "kind": "mcq",
+   "stem": "What IV morphine dose is used for paediatric forearm fracture operations?",
+   "options": [
+    "10-20 mcg/kg",
+    "100-150 mcg/kg",
+    "1-2 mcg/kg",
+    "300-400 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#92e070",
+   "kind": "mcq",
+   "stem": "What IV fentanyl dose is used for paediatric forearm fracture operations?",
+   "options": [
+    "2-4 mcg/kg",
+    "0.2-0.4 mcg/kg",
+    "20-40 mcg/kg",
+    "200-400 mcg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#4fd444",
+   "kind": "statement",
+   "stem": "Why is a brachial plexus block usually avoided for paediatric forearm fractures?",
+   "answer": "Numbness and motor block confuse postoperative neurological checks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#d4c03b",
+   "kind": "statement",
+   "stem": "Who can infiltrate local anaesthetic at the incision for ORIF of a paediatric forearm fracture?",
+   "answer": "The surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#87128b",
+   "kind": "mcq",
+   "stem": "What is the oral paracetamol dose after forearm fracture surgery in children?",
+   "options": [
+    "15 mg/kg oral 6-hourly",
+    "10 mg/kg oral 6-hourly",
+    "15 mg/kg oral 4-hourly",
+    "30 mg/kg oral 4-hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#87128b",
+   "kind": "mcq",
+   "stem": "What is the oral ibuprofen dose after forearm fracture surgery in children?",
+   "options": [
+    "15 mg/kg oral 4-hourly",
+    "10 mg/kg oral 4-hourly",
+    "20 mg/kg oral 6-hourly",
+    "10 mg/kg oral 6-hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#87128b",
+   "kind": "mcq",
+   "stem": "What is the oral morphine dose after forearm fracture surgery in children?",
+   "options": [
+    "20-30 mcg/kg oral 4-hourly",
+    "200-300 mcg/kg oral 6-hourly",
+    "2-3 mcg/kg oral 4-hourly",
+    "200-300 mcg/kg oral 4-hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#84f46f",
+   "kind": "statement",
+   "stem": "When is a child usually discharged the same day after manipulation under anaesthesia of a forearm fracture?",
+   "answer": "When day surgery criteria are met",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#c05706",
+   "kind": "statement",
+   "stem": "When might a child stay overnight after forearm fracture surgery?",
+   "answer": "After long anaesthetics or complex out-of-hours surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#9b91ef",
+   "kind": "mcq",
+   "stem": "What share of paediatric elbow fractures are supracondylar fractures?",
+   "options": [
+    "About 25%",
+    "About 50%",
+    "About 90%",
+    "About 75%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#dcf011",
+   "kind": "mcq",
+   "stem": "What is the usual mechanism of supracondylar fractures in children?",
+   "options": [
+    "Direct crush injury",
+    "Rotational twist",
+    "Hyperextension",
+    "Axial loading"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#dcf011",
+   "kind": "mcq",
+   "stem": "What percentage of supracondylar fractures are caused by hyperextension?",
+   "options": [
+    "5%",
+    "50%",
+    "75%",
+    "95%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#d96dce",
+   "kind": "statement",
+   "stem": "What does a supracondylar fracture in a child imply, and what should follow?",
+   "answer": "Significant force; look for other injuries",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#7292bd",
+   "kind": "statement",
+   "stem": "What are the management options for paediatric supracondylar fractures?",
+   "answer": "Closed reduction and cast, closed reduction and K-wires (CRPP), or commonly ORIF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#acc39c",
+   "kind": "mcq",
+   "stem": "What type of nerve lesion is most common after supracondylar fracture in children?",
+   "options": [
+    "Nerve transection",
+    "Neuroma formation",
+    "Neuropraxia",
+    "Complete nerve avulsion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#acc39c",
+   "kind": "mcq",
+   "stem": "Over what period do most fracture-related nerve lesions recover?",
+   "options": [
+    "2-4 weeks",
+    "6-18 months",
+    "3-5 years",
+    "1-2 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#7ca31f",
+   "kind": "statement",
+   "stem": "Why should a supracondylar fracture in a child be reduced urgently?",
+   "answer": "Because of nerve and vessel risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#891be8",
+   "kind": "statement",
+   "stem": "How should a very painful supracondylar fracture ideally be treated in the emergency department?",
+   "answer": "IV cannula and IV morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#cde8c6",
+   "kind": "statement",
+   "stem": "In a child with a supracondylar fracture from significant force, how should the stomach be regarded?",
+   "answer": "As a regurgitation risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#cde8c6",
+   "kind": "statement",
+   "stem": "What else should be done in a child with a supracondylar fracture from significant force?",
+   "answer": "Exclude other injuries",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#014b77",
+   "kind": "mcq",
+   "stem": "Who should apply cricoid pressure during RSI for a supracondylar fracture?",
+   "options": [
+    "The surgeon",
+    "The anaesthetist's own hand",
+    "A junior ward nurse",
+    "A trained assistant"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#576028",
+   "kind": "mcq",
+   "stem": "How long does supracondylar fracture surgery in children usually take?",
+   "options": [
+    "3-4 hrs",
+    "15-30 mins",
+    "1-1.5 hrs",
+    "5-6 hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#c3c5ce",
+   "kind": "mcq",
+   "stem": "Which position is usually used for supracondylar fracture surgery in children?",
+   "options": [
+    "Lateral decubitus always",
+    "Prone",
+    "Sitting upright",
+    "Supine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#24c753",
+   "kind": "blank",
+   "stem": "In supracondylar fracture surgery, the IV morphine dose is ____ mcg/kg.",
+   "answer": "100-150",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#24c753",
+   "kind": "mcq",
+   "stem": "What IV fentanyl dose is used for supracondylar fracture analgesia?",
+   "options": [
+    "10-20 mcg/kg IV",
+    "0.5-1 mcg/kg IV",
+    "2-4 mcg/kg IV",
+    "50 mcg/kg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#6f25aa",
+   "kind": "mcq",
+   "stem": "What IV paracetamol dose is used for supracondylar fracture analgesia?",
+   "options": [
+    "5 mg/kg IV",
+    "30 mg/kg IV",
+    "60 mg/kg IV",
+    "15 mg/kg IV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#6f25aa",
+   "kind": "statement",
+   "stem": "In supracondylar fracture analgesia, why is an NSAID added to paracetamol?",
+   "answer": "Opioid sparing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#870e36",
+   "kind": "statement",
+   "stem": "Why are upper limb blocks usually avoided in supracondylar fracture surgery?",
+   "answer": "They delay reduction and confuse distal neurological assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#dce074",
+   "kind": "mcq",
+   "stem": "How much blood loss is usual in supracondylar fracture surgery?",
+   "options": [
+    "Usually minor",
+    "Usually major",
+    "Usually massive",
+    "Usually transfusion-level"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#f2d40f",
+   "kind": "statement",
+   "stem": "What does the surgeon usually infiltrate into the wound in supracondylar fracture surgery?",
+   "answer": "Local anaesthetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#cbefe9",
+   "kind": "mcq",
+   "stem": "Who dresses the wound after supracondylar fracture surgery?",
+   "options": [
+    "The scrub nurse",
+    "The anaesthetist",
+    "The surgeon",
+    "The recovery nurse"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#c2a9fb",
+   "kind": "mcq",
+   "stem": "If a child with a supracondylar fracture is positioned laterally, which side goes up?",
+   "options": [
+    "Fracture side down",
+    "Fracture side up",
+    "Positioned face down",
+    "Arm abducted overhead"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#0397fa",
+   "kind": "mcq",
+   "stem": "How should maintenance fluids be given after supracondylar fracture surgery until the child is drinking?",
+   "options": [
+    "Nasogastric tube",
+    "Rectal",
+    "IV",
+    "Subcutaneous"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#b753ee",
+   "kind": "statement",
+   "stem": "After supracondylar fracture surgery, why is the arm elevated in a sling?",
+   "answer": "To reduce swelling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#b753ee",
+   "kind": "statement",
+   "stem": "After supracondylar fracture surgery, what should be monitored in a child not discharged the same day?",
+   "answer": "Distal nerve and circulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#ccdefc",
+   "kind": "mcq",
+   "stem": "What share of paediatric fractures are femoral shaft fractures in the developed world?",
+   "options": [
+    "0.16%",
+    "16%",
+    "6.1%",
+    "1.6%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#ccdefc",
+   "kind": "mcq",
+   "stem": "What is the male to female ratio in paediatric femoral shaft fractures?",
+   "options": [
+    "1:1",
+    "2.3:1",
+    "4:1",
+    "1:2.3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#a5e18a",
+   "kind": "statement",
+   "stem": "Which two age groups have peaks in paediatric femoral shaft fractures?",
+   "answer": "4-7 years and teenagers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#f5762b",
+   "kind": "statement",
+   "stem": "In paediatric femoral shaft fracture, what mechanism is needed in older children?",
+   "answer": "High-velocity trauma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#73b483",
+   "kind": "mcq",
+   "stem": "How is femoral shaft fracture usually treated in children under 4 years?",
+   "options": [
+    "Plate fixation",
+    "External fixator only",
+    "Intramedullary nailing",
+    "Traction or hip spica"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#9e5095",
+   "kind": "statement",
+   "stem": "Why is severe pain in femoral shaft fracture treated on arrival?",
+   "answer": "To allow traction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#717467",
+   "kind": "blank",
+   "stem": "In femoral shaft fracture, morphine 200 mcg/kg IV first, then ____ mcg IV boluses until comfortable.",
+   "answer": "50",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#717467",
+   "kind": "mcq",
+   "stem": "How often are morphine boluses repeated in femoral shaft fracture until comfortable?",
+   "options": [
+    "Every 30 minutes",
+    "Every 2 hours",
+    "Every 5-10 min",
+    "Every 4 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#802a63",
+   "kind": "mcq",
+   "stem": "For how long is ongoing analgesia given after femoral shaft fracture?",
+   "options": [
+    "1-2 days",
+    "21-28 days",
+    "3-4 days",
+    "7-14 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#802a63",
+   "kind": "mcq",
+   "stem": "What oral ibuprofen dose is given 6-hourly for femoral shaft fracture analgesia?",
+   "options": [
+    "5 mg/kg",
+    "20 mg/kg",
+    "40 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#02e4ae",
+   "kind": "statement",
+   "stem": "For femoral shaft fracture, which procedures may need anaesthesia?",
+   "answer": "Splint fitting, traction adjustment, or manipulation with or without ORIF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#ff4794",
+   "kind": "statement",
+   "stem": "In an urgent femoral shaft fracture case, what should be assessed before anaesthesia?",
+   "answer": "Other injuries, volume status, fasting, and analgesia given",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#b0874d",
+   "kind": "mcq",
+   "stem": "A femoral shaft traction adjustment is planned a day or two later: how is the child treated?",
+   "options": [
+    "As an urgent full stomach",
+    "Urgent RSI with intubation",
+    "Emergency with no fasting",
+    "Elective, fasted"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#2ba1d7",
+   "kind": "mcq",
+   "stem": "How should a fasted child be induced in an urgent femoral shaft fracture case?",
+   "options": [
+    "Spontaneous ventilation with LMA",
+    "Inhalational induction with mask",
+    "RSI and intubation",
+    "Sedation with no airway control"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#3d4cad",
+   "kind": "mcq",
+   "stem": "What maintenance anaesthetic is used for femoral shaft fracture surgery?",
+   "options": [
+    "Volatile in pure oxygen only",
+    "Nitrous oxide alone with no oxygen",
+    "Volatile in oxygen with air or nitrous oxide",
+    "Intravenous opioid infusion alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#829e5b",
+   "kind": "mcq",
+   "stem": "What morphine bolus is used to titrate in recovery after femoral shaft fracture?",
+   "options": [
+    "5 mcg/kg IV",
+    "200 mcg/kg IV",
+    "500 mcg/kg IV",
+    "50 mcg/kg IV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#4e7aca",
+   "kind": "mcq",
+   "stem": "Which block is usually done for femoral shaft fracture when central blocks are hard to position?",
+   "options": [
+    "Caudal block",
+    "Epidural block",
+    "Brachial plexus block",
+    "Fascia iliaca block"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#9b85a2",
+   "kind": "mcq",
+   "stem": "Which airway device may suit a planned femoral shaft fracture case?",
+   "options": [
+    "Double-lumen tube",
+    "Tracheostomy",
+    "Laryngeal mask airway",
+    "Oropharyngeal airway only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#5a4fc0",
+   "kind": "mcq",
+   "stem": "How does pain change once a femoral shaft fracture is splinted or fixed?",
+   "options": [
+    "Rises sharply",
+    "Stays unchanged",
+    "Falls only after 24 hours",
+    "Falls markedly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#b94229",
+   "kind": "mcq",
+   "stem": "For how long is IV morphine infusion or PCA used after femoral shaft fracture surgery?",
+   "options": [
+    "4 hours",
+    "72 hours",
+    "7 days",
+    "24 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#b94229",
+   "kind": "statement",
+   "stem": "After femoral shaft fracture surgery, what comes after 24 hours of IV morphine or PCA?",
+   "answer": "Paracetamol, NSAID and oral opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#b34367",
+   "kind": "statement",
+   "stem": "What term describes the infection in septic arthritis?",
+   "answer": "Pyogenic joint infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#6a44eb",
+   "kind": "mcq",
+   "stem": "What is the annual incidence of septic arthritis in children?",
+   "options": [
+    "1-2/10000 children per year",
+    "50-100/10000 children per year",
+    "5-10/10000 children per year",
+    "0.5-1/10000 children per year"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#18f99d",
+   "kind": "mcq",
+   "stem": "What proportion of children with septic arthritis are under 2 years?",
+   "options": [
+    "Under a tenth",
+    "About a quarter",
+    "Almost none",
+    "Over half"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#e75b81",
+   "kind": "statement",
+   "stem": "Which joints are commonly affected by septic arthritis in children?",
+   "answer": "Hip, knee, shoulder, elbow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#e75b81",
+   "kind": "mcq",
+   "stem": "How often does septic arthritis in children involve a single joint?",
+   "options": [
+    "Under 10%",
+    "About half",
+    "Exactly 20%",
+    "Over 90%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#e151d7",
+   "kind": "statement",
+   "stem": "How does septic arthritis usually reach the joint in children?",
+   "answer": "Haematogenous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#599023",
+   "kind": "mcq",
+   "stem": "Which joint is most often affected by septic arthritis in neonates and infants?",
+   "options": [
+    "Knee",
+    "Elbow",
+    "Shoulder",
+    "Hip"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#599023",
+   "kind": "mcq",
+   "stem": "Which joint is most often affected by septic arthritis in older children?",
+   "options": [
+    "Hip",
+    "Knee",
+    "Elbow",
+    "Shoulder"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#26c221",
+   "kind": "statement",
+   "stem": "What kind of illness may septic arthritis follow in children?",
+   "answer": "A febrile illness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#a8373b",
+   "kind": "statement",
+   "stem": "How can the presentation of septic arthritis in children be described?",
+   "answer": "Subtle and non-specific",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#4f63e8",
+   "kind": "mcq",
+   "stem": "Which of these is a differential diagnosis to septic arthritis in children?",
+   "options": [
+    "Croup",
+    "Acute appendicitis",
+    "Otitis media",
+    "Perthes' disease"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#6e8d55",
+   "kind": "mcq",
+   "stem": "How might anaesthetic involvement begin for a septic infant with septic arthritis?",
+   "options": [
+    "Airway assessment",
+    "With venous access",
+    "Postoperative pain review",
+    "Chest X-ray request"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#b687ff",
+   "kind": "statement",
+   "stem": "Which three organisms commonly cause septic arthritis in children?",
+   "answer": "Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#133ab8",
+   "kind": "statement",
+   "stem": "What is the treatment for septic arthritis in children?",
+   "answer": "Urgent drainage of pus and aggressive antibiotics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#d2a4b8",
+   "kind": "statement",
+   "stem": "Why do some children with septic arthritis get anaesthetised as soon as possible regardless of fasting?",
+   "answer": "To protect the joint",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#6557d3",
+   "kind": "statement",
+   "stem": "What do septic infants with septic arthritis often already have, relevant to fasting?",
+   "answer": "Poor intake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#31c6f6",
+   "kind": "statement",
+   "stem": "How do infants with septic arthritis commonly present?",
+   "answer": "Febrile, tachycardic and dehydrated, often with respiratory symptoms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#31c6f6",
+   "kind": "mcq",
+   "stem": "How may older children with septic arthritis look?",
+   "options": [
+    "Comatose",
+    "Profoundly hypotensive",
+    "Systemically well",
+    "Cyanosed at rest"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#269304",
+   "kind": "statement",
+   "stem": "What is IV access often already in place for in septic arthritis?",
+   "answer": "Antibiotics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#46245b",
+   "kind": "mcq",
+   "stem": "Why should recent paracetamol or NSAID be noted before septic arthritis surgery?",
+   "options": [
+    "They must be given before induction",
+    "They reverse opioid effects",
+    "They change the choice of induction",
+    "They cannot be repeated intraoperatively"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#6e98a3",
+   "kind": "statement",
+   "stem": "What induction options does septic arthritis surgery in children allow?",
+   "answer": "IV or gas induction, as appropriate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#86854c",
+   "kind": "mcq",
+   "stem": "Which airway suits a well older child having septic arthritis surgery?",
+   "options": [
+    "Laryngeal mask airway",
+    "Double-lumen tube",
+    "Tracheostomy",
+    "Face mask only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#698fde",
+   "kind": "mcq",
+   "stem": "How is a toxic or unwell child with septic arthritis ventilated?",
+   "options": [
+    "LMA with spontaneous ventilation",
+    "Face mask with spontaneous ventilation",
+    "Nasal cannula sedation only",
+    "Intubation and IPPV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#546020",
+   "kind": "statement",
+   "stem": "Despite a short septic arthritis procedure, why should temperature be monitored closely?",
+   "answer": "Large irrigation volumes soak drapes; infants cool quickly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#fba004",
+   "kind": "mcq",
+   "stem": "What fluid covers fasting deficit and maintenance in septic arthritis surgery?",
+   "options": [
+    "Colloid",
+    "Packed red cells",
+    "Albumin 20%",
+    "Crystalloid"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#fba004",
+   "kind": "mcq",
+   "stem": "How much blood loss is expected in septic arthritis surgery?",
+   "options": [
+    "Minimal",
+    "Massive",
+    "Moderate needing transfusion",
+    "Unpredictable"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#ba6f5a",
+   "kind": "mcq",
+   "stem": "By how much should maintenance fluid increase per degree of fever in septic arthritis?",
+   "options": [
+    "20% per °C",
+    "10% per °C",
+    "5% per °C",
+    "1% per °C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#ba6f5a",
+   "kind": "statement",
+   "stem": "In septic arthritis, why does fever increase maintenance fluid needs?",
+   "answer": "Fever increases insensible losses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#15ea1d",
+   "kind": "mcq",
+   "stem": "What intraoperative IV opioid dose is used in septic arthritis surgery?",
+   "options": [
+    "Morphine 100-150 mcg/kg IV",
+    "Fentanyl 10-20 mcg/kg IV",
+    "Fentanyl 1-2 mcg/kg IV",
+    "Fentanyl 5 mcg/kg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#54f7a1",
+   "kind": "statement",
+   "stem": "What route is used for maintenance fluid until the child drinks after septic arthritis surgery?",
+   "answer": "Intravenous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#a33170",
+   "kind": "mcq",
+   "stem": "What oral morphine dose is added if needed for septic arthritis analgesia?",
+   "options": [
+    "200-300 mcg/kg 4-hourly",
+    "50-100 mcg/kg 4-hourly",
+    "1-2 mg/kg 4-hourly",
+    "200-300 mcg/kg 12-hourly"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#a33170",
+   "kind": "mcq",
+   "stem": "How often is oral ibuprofen 10 mg/kg given for septic arthritis analgesia?",
+   "options": [
+    "8-hourly",
+    "4-hourly",
+    "6-hourly",
+    "12-hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#61e206",
+   "kind": "statement",
+   "stem": "What should be left in place for IV antibiotics after septic arthritis surgery?",
+   "answer": "Secure venous access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#2079fd",
+   "kind": "statement",
+   "stem": "Nerve and tendon repairs in children classically follow what kind of injury?",
+   "answer": "Hand injuries from broken glass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#15f385",
+   "kind": "mcq",
+   "stem": "When is induction usually timed for a child having nerve or tendon repair?",
+   "options": [
+    "Immediately on arrival",
+    "After 24 hours of fasting",
+    "When technically fasted",
+    "Once a full stomach is assumed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#39e8bf",
+   "kind": "mcq",
+   "stem": "If opioids are given in the emergency department before nerve repair, how is the child treated?",
+   "options": [
+    "As a regurgitation risk",
+    "As a low aspiration risk",
+    "As a routine fasted case",
+    "With no change to plan"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#e57de2",
+   "kind": "mcq",
+   "stem": "Which induction suits nerve or tendon repair if regurgitation is a concern?",
+   "options": [
+    "Rapid sequence induction",
+    "Spontaneous ventilation with LMA",
+    "Sedation with no airway protection",
+    "Inhalational induction with mask"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#314d82",
+   "kind": "mcq",
+   "stem": "Which ventilation may suit long nerve or tendon repairs in young children?",
+   "options": [
+    "Nasal CPAP",
+    "Oxygen by face mask",
+    "IPPV",
+    "Spontaneous breathing via LMA"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#2e826c",
+   "kind": "statement",
+   "stem": "What needs attention during long nerve or tendon repair surgery?",
+   "answer": "Pressure area care, temperature monitoring, maintenance fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#d86386",
+   "kind": "mcq",
+   "stem": "How much blood loss is usual in nerve and tendon repair?",
+   "options": [
+    "Massive",
+    "Moderate, needing transfusion",
+    "Minimal",
+    "Unpredictable"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#9cfa2d",
+   "kind": "mcq",
+   "stem": "What IV fentanyl dose is used for nerve or tendon repair analgesia?",
+   "options": [
+    "10-20 mcg/kg IV",
+    "2-4 mcg/kg IV",
+    "100-150 mcg/kg IV",
+    "1-2 mcg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#9cfa2d",
+   "kind": "mcq",
+   "stem": "Who infiltrates local anaesthetic in nerve or tendon repair?",
+   "options": [
+    "The recovery nurse",
+    "The surgeon",
+    "The anaesthetist",
+    "The radiographer"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#3f0183",
+   "kind": "statement",
+   "stem": "Why are nerve blocks relatively contraindicated in nerve and tendon repair?",
+   "answer": "They hinder postoperative neurological assessment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#f52f30",
+   "kind": "statement",
+   "stem": "What is the priority after nerve and tendon repair?",
+   "answer": "Recovery of function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#f52f30",
+   "kind": "statement",
+   "stem": "What postoperative checks are frequent after nerve and tendon repair?",
+   "answer": "Motor and neurological checks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#40e9cc",
+   "kind": "mcq",
+   "stem": "How common are traumatic amputations in children?",
+   "options": [
+    "Common",
+    "Very common in toddlers",
+    "Rare",
+    "The leading trauma pattern"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-emergency-orthopaedic-surgery#761a4b",
+   "kind": "statement",
+   "stem": "What is a regional block used for after replantation surgery in children?",
+   "answer": "Stopping the child thrashing postoperatively",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
