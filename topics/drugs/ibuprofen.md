@@ -57,3 +57,9 @@ Propionic acid NSAID with fewer side effects than most of its class; low doses c
   - A: 6 months
 - Q: Dose below which ibuprofen may not work for chronic inflammation?
   - A: 1.2 g/d
+
+<!-- related:start (generated) -->
+## Related
+- [Diclofenac](diclofenac.md)
+- [Parecoxib and valdecoxib](parecoxib.md)
+<!-- related:end -->

@@ -67,3 +67,9 @@ Hydrobromide salt of hyoscine: a lipid-soluble antimuscarinic with mainly centra
   - A: 10% to 50%
 - Q: Features of central anticholinergic syndrome?
   - A: Excitement, ataxia, hallucinations, behaviour change, drowsiness
+
+<!-- related:start (generated) -->
+## Related
+- [Glycopyrrolate](glycopyrrolate.md)
+- [Atropine](atropine.md)
+<!-- related:end -->

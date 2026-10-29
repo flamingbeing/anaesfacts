@@ -60,3 +60,9 @@ Class Ia antiarrhythmic used second line for supraventricular and ventricular ta
   - A: QT prolongation and torsades, myocardial depression, anticholinergic effects
 - Q: Oral bioavailability and half-life?
   - A: 75%; about 5 hours
+
+<!-- related:start (generated) -->
+## Related
+- [Flecainide](flecainide.md)
+- [Amiodarone](amiodarone.md)
+<!-- related:end -->

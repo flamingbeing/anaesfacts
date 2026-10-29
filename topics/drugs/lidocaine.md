@@ -121,3 +121,13 @@ Achiral amide local anaesthetic (lignocaine, Xylocaine) that is also a class Ib 
   - A: No bolus within 4 hours before or after
 - Q: What limits lidocaine clearance?
   - A: Hepatic blood flow (high extraction ratio)
+
+<!-- related:start (generated) -->
+## Related
+- [Bupivacaine](bupivacaine.md)
+- [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Mexiletine](mexiletine.md)
+- [Local anaesthetic side effects](local-anaesthetic-side-effects.md)
+- [Local Anaesthetics](local-anaesthetics.md)
+- [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
+<!-- related:end -->

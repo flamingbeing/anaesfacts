@@ -46,3 +46,12 @@ Long-acting amide local anaesthetic (Marcaine); racemic, with marked cardiotoxic
 
 - Most highly protein-bound of the amide local anaesthetics
 - Hepatic metabolism by dealkylation to pipecolic acid and pipecolylxylidine
+
+<!-- related:start (generated) -->
+## Related
+- [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Levobupivacaine](levobupivacaine.md)
+- [Lidocaine](lidocaine.md)
+- [Local Anaesthetics](local-anaesthetics.md)
+- [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
+<!-- related:end -->

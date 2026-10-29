@@ -25,7 +25,9 @@ tags: [inotrope]
 - **draft**: proposed by an app or a session, not yet checked. Apps must not show drafts as fact.
 
 `index.json` lists every entry (path, title, area, status, verified date, tags, aliases, related). Topics may end with a
-`## Flashcards` section (`- Q: …` with a nested `- A: …`) for revision apps. Rebuild it with `node tools/build-index.mjs`.
+`## Flashcards` section (`- Q: …` with a nested `- A: …`) for revision apps. [CONTENTS.md](CONTENTS.md) lists every topic
+by area, and each topic ends with a generated `## Related` footer (its `related` list plus topics that point to it,
+existing files only). Rebuild all three with `node tools/build-index.mjs`.
 
 ## Using it from an app
 

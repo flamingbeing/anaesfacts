@@ -63,3 +63,10 @@ Very potent synthetic catecholamine acting on β1 and β2 receptors, with no alp
   - A: Severe bradycardia from AV block or beta blockers
 - Q: Why can blood pressure fall despite higher cardiac output?
   - A: β2 vasodilation lowers SVR
+
+<!-- related:start (generated) -->
+## Related
+- [Adrenaline (Epinephrine)](adrenaline.md)
+- [Dobutamine](dobutamine.md)
+- [Atropine](atropine.md)
+<!-- related:end -->

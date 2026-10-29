@@ -152,3 +152,8 @@ Old, now seldom used antidepressants that block amine breakdown; the anaesthetic
   - A: Peripheral vasodilator such as nitroprusside; persisting arrhythmias with lidocaine or a beta-blocker
 - Q: At what daily dose does selegiline become non-selective?
   - A: 30 mg per day
+
+<!-- related:start (generated) -->
+## Related
+- [Ephedrine](ephedrine.md)
+<!-- related:end -->

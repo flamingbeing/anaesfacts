@@ -62,3 +62,11 @@ Vaughan Williams class 1 (subclass Ic) antiarrhythmic and amide local anaestheti
   - A: Class Ic: blocks fast Na+ influx, prolongs phase 0
 - Q: Why is flecainide avoided for ectopics after myocardial infarction?
   - A: Higher mortality when used to suppress ventricular ectopics after MI
+
+<!-- related:start (generated) -->
+## Related
+- [Amiodarone](amiodarone.md)
+- [Antiarrhythmics](antiarrhythmics.md)
+- [Disopyramide](disopyramide.md)
+- [Mexiletine](mexiletine.md)
+<!-- related:end -->

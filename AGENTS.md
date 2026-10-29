@@ -21,13 +21,13 @@ unless the owner asked for that content to be published (neutral pointers like "
   Adverse effects, Contraindications, Indications, Pharmacokinetics. Other topics take sections from their content.
 - After import, keep verified entries as they are; change them only when the owner asks. Labels you add for context go in
   square brackets, e.g. `[Infusion]`.
-- One topic per file, `topics/<area>/<kebab-case>.md`. Rebuild `index.json` (`node tools/build-index.mjs`) after
+- One topic per file, `topics/<area>/<kebab-case>.md`. Rebuild `index.json`, `CONTENTS.md` and the Related footers (`node tools/build-index.mjs`; never edit those by hand) after
   any change; the check fails if it is stale.
 
 ## Checks before merging
 
 ```
-node tools/check.mjs        # front matter, areas, index.json up to date
+node tools/check.mjs        # front matter, areas, index.json/CONTENTS.md/Related up to date
 ```
 
 ## Working with the owner

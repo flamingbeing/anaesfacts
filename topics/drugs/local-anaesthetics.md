@@ -134,3 +134,11 @@ Weak bases that block neuronal sodium channels; amides or esters, with potency, 
   - A: Their metabolite para-aminobenzoic acid (PABA)
 - Q: Suggested maximum adrenaline dose?
   - A: 4mcg/kg (0.2mg for a 50kg person)
+
+<!-- related:start (generated) -->
+## Related
+- [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
+- [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Lidocaine](lidocaine.md)
+- [Bupivacaine](bupivacaine.md)
+<!-- related:end -->

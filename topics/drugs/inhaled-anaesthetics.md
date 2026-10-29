@@ -202,3 +202,9 @@ Overview of nitrous oxide and the volatile halogenated ethers: actions, effects,
   - A: 1 in 2500–35 000; mortality 50–75%
 - Q: Above what MAC do volatiles raise ICP?
   - A: Above 1 MAC (halothane above 0.6 MAC)
+
+<!-- related:start (generated) -->
+## Related
+- [Nitrous oxide](nitrous-oxide.md)
+- [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
+<!-- related:end -->

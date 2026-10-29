@@ -129,3 +129,9 @@ Solutions of salts or sugars whose small molecules pass freely from plasma into 
 
 - SMART (NEJM 2018), ICU patients: fewer major adverse kidney events at 30 days with balanced fluids (14.3% vs 15.4%); NNT 94
 - SALT-ED (NEJM 2018), non-critically ill ED patients: fewer major adverse kidney events with balanced fluids (4.7% vs 5.6%); NNT 111; no difference in hospital-free days
+
+<!-- related:start (generated) -->
+## Related
+- [Fluid Responsiveness](../physiology/fluid-responsiveness.md)
+- [Fluid terminology and chemistry](../physiology/fluid-terminology-and-chemistry.md)
+<!-- related:end -->

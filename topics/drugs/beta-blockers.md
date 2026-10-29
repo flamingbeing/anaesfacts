@@ -114,3 +114,8 @@ Beta-adrenoceptor antagonists: slow the heart and reduce contractility; used for
 - Low lipid solubility (atenolol): poor gut absorption, little hepatic metabolism, excreted mostly unchanged in urine
 - High lipid solubility: well absorbed, extensive hepatic metabolism, shorter half-life (more frequent dosing), cross the blood-brain barrier (sedation, nightmares)
 - Protein binding varies
+
+<!-- related:start (generated) -->
+## Related
+- [Digoxin](digoxin.md)
+<!-- related:end -->

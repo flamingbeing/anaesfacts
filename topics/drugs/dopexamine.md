@@ -60,3 +60,10 @@ Synthetic dopamine analogue acting on β2 and D1 receptors; raises cardiac outpu
   - A: 50 mg in 5 ml (pH 2.5)
 - Q: Half-life?
   - A: 7 minutes
+
+<!-- related:start (generated) -->
+## Related
+- [Dopamine](dopamine.md)
+- [Dobutamine](dobutamine.md)
+- [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
+<!-- related:end -->

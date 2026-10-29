@@ -71,3 +71,8 @@ Non-dihydropyridine calcium channel blocker acting mainly on the SA and AV nodes
 - Hepatic metabolism to at least 12 inactive metabolites, excreted in urine; up to 20% excreted in bile
   - Demethylation gives norverapamil, which keeps significant antiarrhythmic activity
 - Elimination half-life 3–7 hours; longer at higher doses as liver enzymes saturate
+
+<!-- related:start (generated) -->
+## Related
+- [Digoxin](digoxin.md)
+<!-- related:end -->

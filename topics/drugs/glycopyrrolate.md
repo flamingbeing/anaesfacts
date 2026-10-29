@@ -55,3 +55,11 @@ Quaternary ammonium antimuscarinic: competitive antagonist at muscarinic acetylc
   - A: 0.6 mg in 3 ml (0.2 mg/ml)
 - Q: Oral bioavailability of glycopyrrolate?
   - A: Less than 5%
+
+<!-- related:start (generated) -->
+## Related
+- [Atropine](atropine.md)
+- [Neostigmine](neostigmine.md)
+- [Anticholinergics (antimuscarinics)](anticholinergics.md)
+- [Hyoscine Hydrobromide](hyoscine-hydrobromide.md)
+<!-- related:end -->

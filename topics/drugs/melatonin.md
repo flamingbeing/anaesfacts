@@ -39,3 +39,8 @@ Sleep-promoting hormone; Circadin is the prolonged-release form, used short term
   - A: Short-term monotherapy for primary insomnia with poor sleep quality
 - Q: Main side effect?
   - A: Drowsiness
+
+<!-- related:start (generated) -->
+## Related
+- [Benzodiazepines](benzodiazepines.md)
+<!-- related:end -->

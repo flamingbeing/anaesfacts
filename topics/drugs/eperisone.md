@@ -30,3 +30,8 @@ Oral antispasmodic, centrally acting muscle relaxant (brand Myonal).
   - A: Centrally acting antispasmodic muscle relaxant
 - Q: Where does eperisone act?
   - A: Alpha and gamma efferent neurons in the spinal cord and supraspinal structures, suppressing mono- and multisynaptic reflexes
+
+<!-- related:start (generated) -->
+## Related
+- [Baclofen](baclofen.md)
+<!-- related:end -->

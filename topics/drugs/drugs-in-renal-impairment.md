@@ -187,3 +187,8 @@ How renal impairment and dialysis change drug handling, which anaesthetic and an
   - A: By 25%
 - Q: Which opioids are safe without dose change in renal failure?
   - A: Fentanyl, sufentanil, alfentanil, remifentanil (also methadone, buprenorphine)
+
+<!-- related:start (generated) -->
+## Related
+- [Drugs in liver impairment](drugs-in-liver-impairment.md)
+<!-- related:end -->

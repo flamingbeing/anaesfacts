@@ -44,3 +44,10 @@ Non-selective COX inhibitor (acetic acid derivative): strong analgesic and antip
   - A: No; it is a non-selective COX inhibitor
 - Q: How long does ketorolac act?
   - A: Up to 6 hours
+
+<!-- related:start (generated) -->
+## Related
+- [NSAIDs and COX-2 inhibitors](nsaids.md)
+- [Parecoxib and valdecoxib](parecoxib.md)
+- [Diclofenac](diclofenac.md)
+<!-- related:end -->

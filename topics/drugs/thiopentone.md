@@ -90,3 +90,9 @@ Sodium thiopental: a thiobarbiturate IV induction agent with fast onset, cerebro
   - Low clearance; with infusion, metabolism may become zero order as hepatic enzymes saturate
   - Induces hepatic cytochrome P450 after a single dose
 - Only 0.5-2% excreted unchanged in urine
+
+<!-- related:start (generated) -->
+## Related
+- [Etomidate](etomidate.md)
+- [Ketamine](ketamine.md)
+<!-- related:end -->

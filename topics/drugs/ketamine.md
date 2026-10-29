@@ -170,3 +170,11 @@ NMDA receptor antagonist giving dissociative anaesthesia and strong analgesia, w
   - A: Poorly controlled cardiovascular disease, raised ICP or IOP, active psychosis, moderate to severe hepatic dysfunction, pregnancy
 - Q: Postoperative ketamine maintenance infusion range?
   - A: 0.05–0.3 mg/kg/h IV
+
+<!-- related:start (generated) -->
+## Related
+- [Etomidate](etomidate.md)
+- [Thiopentone](thiopentone.md)
+- [Midazolam](midazolam.md)
+- [Gabapentinoids](gabapentinoids.md)
+<!-- related:end -->

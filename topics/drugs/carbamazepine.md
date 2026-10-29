@@ -56,3 +56,8 @@ Anticonvulsant used for focal seizures, bipolar disorder and trigeminal neuralgi
   - The epoxide keeps about 30% of the anticonvulsant activity
 - Powerful hepatic enzyme inducer, including of its own metabolism (autoinduction)
 - Excreted almost entirely in urine as unconjugated metabolites
+
+<!-- related:start (generated) -->
+## Related
+- [Gabapentinoids](gabapentinoids.md)
+<!-- related:end -->

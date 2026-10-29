@@ -85,3 +85,9 @@ Imidazole induction agent with the least cardiovascular depression, at the cost 
   - A: Myoclonus 20%; injection pain up to 25%
 - Q: Formulation of the aqueous solution?
   - A: 0.2% at pH 4.1 in 35% v/v propylene glycol
+
+<!-- related:start (generated) -->
+## Related
+- [Ketamine](ketamine.md)
+- [Thiopentone](thiopentone.md)
+<!-- related:end -->

@@ -123,3 +123,10 @@ Endogenous vasodilator (formerly endothelium-derived relaxing factor, EDRF), giv
   - A: Rebound pulmonary hypertension, haemodynamic collapse and worse oxygenation
 - Q: Second messenger for NO-mediated smooth muscle relaxation?
   - A: cGMP via guanylyl cyclase
+
+<!-- related:start (generated) -->
+## Related
+- [Epoprostenol](epoprostenol.md)
+- [Nitrous oxide](nitrous-oxide.md)
+- [Endothelin receptor antagonists](endothelin-receptor-antagonists.md)
+<!-- related:end -->

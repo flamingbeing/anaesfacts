@@ -118,3 +118,8 @@ Overview of antiarrhythmic drugs: Vaughan-Williams classes, grouping by clinical
   - Acute MI: may raise oxygen demand and cause ischaemia (debated)
     - May be considered in ACS with severe heart failure or haemodynamic instability (AHA 2014)
   - Accessory pathway (e.g. WPW)
+
+<!-- related:start (generated) -->
+## Related
+- [Flecainide](flecainide.md)
+<!-- related:end -->

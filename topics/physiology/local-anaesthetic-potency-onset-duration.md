@@ -79,3 +79,11 @@ Lipid solubility sets potency, pKa sets onset, and protein binding sets duration
   - A: 4 to 8 hours versus 1 to 2 hours
 - Q: Usual order of differential block?
   - A: Sympathetic, then sensory, then motor
+
+<!-- related:start (generated) -->
+## Related
+- [Local Anaesthetics](../drugs/local-anaesthetics.md)
+- [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Lidocaine](../drugs/lidocaine.md)
+- [Bupivacaine](../drugs/bupivacaine.md)
+<!-- related:end -->

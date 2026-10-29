@@ -162,3 +162,12 @@ Core: prompt lipid emulsion while supporting the circulation (ACLS).
   - A: Smaller doses, <1mcg/kg (e.g. 10 to 100 mcg IV)
 - Q: Which antiarrhythmics to avoid, and which is first line?
   - A: Avoid lignocaine, beta blockers and calcium channel blockers; amiodarone first line
+
+<!-- related:start (generated) -->
+## Related
+- [Local Anaesthetics](../drugs/local-anaesthetics.md)
+- [Bupivacaine](../drugs/bupivacaine.md)
+- [Levobupivacaine](../drugs/levobupivacaine.md)
+- [Lidocaine](../drugs/lidocaine.md)
+- [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
+<!-- related:end -->

@@ -59,3 +59,11 @@ Parenteral COX-2 inhibitor; an inactive prodrug of valdecoxib (oral valdecoxib i
 - Valdecoxib: hepatic metabolism by CYP2C9, CYP3A4 and glucuronidation to many metabolites, one of which also inhibits COX-2
 - Valdecoxib elimination half-life 8 hours
 - Renal impairment does not change kinetics (hepatic elimination)
+
+<!-- related:start (generated) -->
+## Related
+- [Diclofenac](diclofenac.md)
+- [Ibuprofen](ibuprofen.md)
+- [Ketorolac](ketorolac.md)
+- [NSAIDs and COX-2 inhibitors](nsaids.md)
+<!-- related:end -->
