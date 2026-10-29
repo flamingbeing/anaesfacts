@@ -1,0 +1,79 @@
+{
+ "topic": "comorbidities/renal-transplant",
+ "questions": [
+  {
+   "fact_id": "comorbidities/renal-transplant#d2d871",
+   "kind": "statement",
+   "stem": "After renal transplant, why can a normal creatinine be misleading?",
+   "answer": "Renal function and creatinine clearance may still be reduced.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/renal-transplant#76be13",
+   "kind": "mcq",
+   "stem": "How many nephrons does a transplanted kidney have compared with a normal kidney?",
+   "options": [
+    "A quarter of the nephrons",
+    "Double the nephrons",
+    "Half the nephrons",
+    "The same number of nephrons"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/renal-transplant#726535",
+   "kind": "blank",
+   "stem": "After renal transplant, immunosuppression such as ____ reduces graft function further.",
+   "answer": "ciclosporin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/renal-transplant#ebfdf9",
+   "kind": "mcq",
+   "stem": "Which red cells should a renal transplant recipient be transfused with?",
+   "options": [
+    "Standard unfiltered red cells",
+    "Washed red cells only",
+    "Leukoreduced red cells, with or without irradiation",
+    "Fresh whole blood"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/renal-transplant#63fc87",
+   "kind": "mcq",
+   "stem": "Which analgesic class should be avoided after renal transplant?",
+   "options": [
+    "Paracetamol",
+    "NSAIDs",
+    "Opioids",
+    "Gabapentinoids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/renal-transplant#d8b6b0",
+   "kind": "statement",
+   "stem": "Where does a transplanted kidney lie in the abdomen, relevant to positioning?",
+   "answer": "Superficially in the abdomen.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/renal-transplant#66ebd9",
+   "kind": "statement",
+   "stem": "What should be avoided when positioning a renal transplant recipient, such as prone?",
+   "answer": "Pressure on the graft from positioning or supports.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

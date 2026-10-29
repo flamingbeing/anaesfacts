@@ -1,0 +1,553 @@
+{
+ "topic": "comorbidities/nonobstetric-surgery-in-pregnancy",
+ "questions": [
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#3af1c9",
+   "kind": "mcq",
+   "stem": "In non-obstetric surgery in pregnancy, how should the fetus be regarded?",
+   "options": [
+    "Not a clinical concern",
+    "A second patient",
+    "Only relevant after delivery",
+    "Managed solely by obstetricians"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#3ceb12",
+   "kind": "mcq",
+   "stem": "Which anaesthetic approach is preferred for non-obstetric surgery in pregnancy?",
+   "options": [
+    "General anaesthesia",
+    "Regional anaesthesia",
+    "Sedation alone",
+    "Local infiltration only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#0b21ab",
+   "kind": "blank",
+   "stem": "For non-obstetric surgery in pregnancy, ____ anaesthesia is the preferred technique.",
+   "answer": "Regional",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#275d65",
+   "kind": "statement",
+   "stem": "Which two specialist groups should be involved in multidisciplinary planning for non-obstetric surgery in pregnancy?",
+   "answer": "Obstetricians and neonatologists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#bea803",
+   "kind": "statement",
+   "stem": "Apart from 6 weeks postpartum, in which trimester is non-obstetric surgery in pregnancy timed?",
+   "answer": "2nd trimester",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#f40f87",
+   "kind": "mcq",
+   "stem": "Which of these is a common non-obstetric operation during pregnancy?",
+   "options": [
+    "Hip replacement",
+    "Appendicectomy",
+    "Cataract extraction",
+    "Knee arthroscopy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#f3eb7f",
+   "kind": "mcq",
+   "stem": "During non-obstetric surgery in pregnancy, what are the mother's main risks?",
+   "options": [
+    "Unique surgical complications only",
+    "No additional risk at all",
+    "Usual pregnancy issues",
+    "Risks confined to anaesthesia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#2cd2a7",
+   "kind": "mcq",
+   "stem": "What should be done with elective non-obstetric surgery during pregnancy?",
+   "options": [
+    "Perform it urgently on admission",
+    "Defer elective surgery",
+    "Convert it to day surgery",
+    "Bring it forward to the first trimester"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#4f85cf",
+   "kind": "mcq",
+   "stem": "How long after delivery should elective non-obstetric surgery be delayed?",
+   "options": [
+    "Immediately after delivery",
+    "3 days postpartum",
+    "6 weeks postpartum",
+    "12 months postpartum"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#4f85cf",
+   "kind": "mcq",
+   "stem": "After delivery, in how many weeks does physiology return to the non-pregnant state?",
+   "options": [
+    "8–12 weeks",
+    "2–6 weeks",
+    "1–2 days",
+    "6–12 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#d049f3",
+   "kind": "blank",
+   "stem": "Before non-obstetric surgery in pregnancy, ____ the patient on the risks.",
+   "answer": "Counsel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#a71e2d",
+   "kind": "statement",
+   "stem": "Why should obstetric and neonatal teams be involved in planning non-obstetric surgery in pregnancy?",
+   "answer": "Possible emergency delivery or fetal compromise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#61ab72",
+   "kind": "mcq",
+   "stem": "Which premedicant is recommended for non-obstetric surgery in pregnancy?",
+   "options": [
+    "Midazolam",
+    "Sodium bicarbonate",
+    "Sodium citrate",
+    "Diazepam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#89c08a",
+   "kind": "statement",
+   "stem": "In pregnancy, which airway problem should the anaesthetist expect?",
+   "answer": "A difficult airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#0f2f8d",
+   "kind": "statement",
+   "stem": "In pregnancy under general anaesthesia, which two options address aspiration risk?",
+   "answer": "RSI or awake intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#181ba4",
+   "kind": "mcq",
+   "stem": "In pregnancy, from what gestation do many anaesthetists routinely use RSI?",
+   "options": [
+    "Beyond 8 weeks",
+    "Beyond 24 weeks",
+    "Beyond 16 weeks",
+    "Beyond 36 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#309edf",
+   "kind": "mcq",
+   "stem": "From which trimester can aortocaval compression and supine hypotensive syndrome start?",
+   "options": [
+    "Second trimester",
+    "Immediately after delivery",
+    "Only in the third trimester",
+    "Only after 36 weeks"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#4365ec",
+   "kind": "mcq",
+   "stem": "From what gestation is left lateral tilt needed for anyone in pregnancy?",
+   "options": [
+    "Beyond 6-8 weeks",
+    "Beyond 18-20 weeks",
+    "Beyond 30-32 weeks",
+    "Beyond 40-42 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#14bf17",
+   "kind": "mcq",
+   "stem": "In pregnancy under anaesthesia, how should minute ventilation be adjusted?",
+   "options": [
+    "Reduce it to avoid hypocapnia",
+    "Keep it at the non-pregnant level",
+    "Set it to correct metabolic acidosis",
+    "Increase minute ventilation to match the normal respiratory alkalosis of pregnancy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#9ede35",
+   "kind": "mcq",
+   "stem": "To protect the fetus during non-obstetric surgery in pregnancy, what should be avoided?",
+   "options": [
+    "Hyperthermia",
+    "Hypoglycaemia",
+    "Hypoxia",
+    "Tachycardia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#4c7a45",
+   "kind": "mcq",
+   "stem": "In which trimester is the teratogenic risk of anaesthetic drugs highest?",
+   "options": [
+    "Third trimester",
+    "Postpartum period",
+    "First trimester",
+    "Second trimester"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#4c7a45",
+   "kind": "mcq",
+   "stem": "Is any current anaesthetic a proven human teratogen at clinical doses?",
+   "options": [
+    "Yes, volatile agents",
+    "No, none is proven",
+    "Yes, propofol at induction",
+    "Yes, opioids at clinical doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#4a683e",
+   "kind": "mcq",
+   "stem": "During surgery in pregnancy, how should the uterus be shielded when an image intensifier is in use?",
+   "options": [
+    "Cover the uterus with a cotton drape",
+    "Cover the uterus with a lead gown",
+    "Increase image intensifier use",
+    "Leave the uterus fully exposed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#1219e9",
+   "kind": "statement",
+   "stem": "During non-obstetric surgery in pregnancy, which fetal and uterine parameters should be monitored?",
+   "answer": "Fetal heart rate and uterine activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#d6fe7b",
+   "kind": "mcq",
+   "stem": "In pregnancy, during which trimesters should ketamine be avoided?",
+   "options": [
+    "Third trimester only",
+    "First and second trimesters",
+    "Only postpartum",
+    "Only the first trimester"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#41b612",
+   "kind": "mcq",
+   "stem": "Which anaesthetic class is good in pregnancy because it acts as a tocolytic?",
+   "options": [
+    "Volatile agents",
+    "Ketamine",
+    "Nitrous oxide",
+    "Opioids"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#e9c8e3",
+   "kind": "mcq",
+   "stem": "In which trimesters should nitrous oxide be avoided in pregnancy?",
+   "options": [
+    "Third trimester only",
+    "First and second trimesters",
+    "Postpartum period only",
+    "Never in pregnancy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#e9c8e3",
+   "kind": "statement",
+   "stem": "Why should nitrous oxide be avoided in the first and second trimesters?",
+   "answer": "Effect on DNA synthesis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#734094",
+   "kind": "mcq",
+   "stem": "How are muscle relaxants regarded for anaesthesia in pregnancy?",
+   "options": [
+    "Contraindicated",
+    "Safe",
+    "Teratogenic in all trimesters",
+    "Avoid after 20 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#3c8835",
+   "kind": "mcq",
+   "stem": "Which drug should be given with neostigmine for reversal in pregnancy?",
+   "options": [
+    "Atropine",
+    "Naloxone",
+    "Flumazenil",
+    "Ondansetron"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#90d68c",
+   "kind": "mcq",
+   "stem": "Which cardiac drug should be avoided in pregnancy because it can cause fetal goitre?",
+   "options": [
+    "Verapamil",
+    "Amiodarone",
+    "Adenosine",
+    "Lidocaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#1579f3",
+   "kind": "mcq",
+   "stem": "Which mechanical measure helps reduce DVT risk in pregnant surgical patients?",
+   "options": [
+    "Calf pumps",
+    "Prolonged bed rest",
+    "Fluid restriction",
+    "Delayed mobilisation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#84ec70",
+   "kind": "mcq",
+   "stem": "Under FDA pregnancy categories, which example is given for category A?",
+   "options": [
+    "Paracetamol",
+    "Multivitamins",
+    "Warfarin",
+    "Lidocaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#b91b8d",
+   "kind": "mcq",
+   "stem": "Which drug is given as an example of FDA pregnancy category B?",
+   "options": [
+    "Multivitamins",
+    "Methotrexate",
+    "Paracetamol",
+    "Warfarin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#b91b8d",
+   "kind": "mcq",
+   "stem": "Under FDA pregnancy categories, in which trimester are NSAIDs category B?",
+   "options": [
+    "First trimester",
+    "Second trimester",
+    "Third trimester",
+    "Postpartum period"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#825266",
+   "kind": "mcq",
+   "stem": "Under FDA pregnancy categories, which category covers NSAIDs in the third trimester?",
+   "options": [
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#597677",
+   "kind": "mcq",
+   "stem": "Under the ADEC system, which category fits a drug taken by a limited number of pregnant women without more malformations or fetal harm?",
+   "options": [
+    "B2",
+    "A",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#7ff4f1",
+   "kind": "mcq",
+   "stem": "Under the ADEC system, which category means animal studies show no increase in damage?",
+   "options": [
+    "B1",
+    "B3",
+    "C",
+    "X"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#c72859",
+   "kind": "mcq",
+   "stem": "Under the ADEC system, which category means animal studies are inadequate or lacking, with no evidence of damage?",
+   "options": [
+    "D",
+    "B2",
+    "X",
+    "A"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#1c3b1c",
+   "kind": "mcq",
+   "stem": "Under the ADEC system, which category means animal studies show damage but human significance is uncertain?",
+   "options": [
+    "B1",
+    "C",
+    "B3",
+    "A"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#7f711a",
+   "kind": "mcq",
+   "stem": "Under the ADEC system, which category means harmful fetal or neonatal effects without malformation, possibly reversible?",
+   "options": [
+    "X",
+    "A",
+    "D",
+    "C"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#0b5dfe",
+   "kind": "mcq",
+   "stem": "Under the ADEC system, which category means drugs that cause or may cause more fetal malformations or irreversible damage?",
+   "options": [
+    "C",
+    "B3",
+    "D",
+    "X"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/nonobstetric-surgery-in-pregnancy#b497d4",
+   "kind": "mcq",
+   "stem": "Under the ADEC system, which category says do not use in pregnancy or possible pregnancy?",
+   "options": [
+    "X",
+    "D",
+    "C",
+    "B1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

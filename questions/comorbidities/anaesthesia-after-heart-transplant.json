@@ -1,0 +1,79 @@
+{
+ "topic": "comorbidities/anaesthesia-after-heart-transplant",
+ "questions": [
+  {
+   "fact_id": "comorbidities/anaesthesia-after-heart-transplant#533d23",
+   "kind": "mcq",
+   "stem": "What is the typical resting heart rate after heart transplant?",
+   "options": [
+    "60-70",
+    "70-80",
+    "90-100",
+    "120-130"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-heart-transplant#061081",
+   "kind": "statement",
+   "stem": "What rhythm risk does a denervated transplanted heart carry?",
+   "answer": "Greater risk of arrhythmia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-heart-transplant#718869",
+   "kind": "mcq",
+   "stem": "Which drug type raises heart rate in a heart transplant patient?",
+   "options": [
+    "Anticholinergics such as atropine",
+    "Direct-acting beta-agonists",
+    "Indirect sympathomimetics such as ephedrine",
+    "Calcium channel blockers"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-heart-transplant#f7f947",
+   "kind": "statement",
+   "stem": "What is missing when a transplanted heart becomes hypotensive or hypovolaemic?",
+   "answer": "Compensatory tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-heart-transplant#d5dff7",
+   "kind": "mcq",
+   "stem": "What does chronic graft rejection in a heart transplant usually cause?",
+   "options": [
+    "Diastolic dysfunction",
+    "Systolic failure only",
+    "Valve regurgitation",
+    "Pericardial effusion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-heart-transplant#8f7b27",
+   "kind": "statement",
+   "stem": "When is contractility impaired in a heart transplant with chronic rejection?",
+   "answer": "Only when rejection is active",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anaesthesia-after-heart-transplant#4ded40",
+   "kind": "statement",
+   "stem": "How should the graft be protected during anaesthesia in a heart transplant patient?",
+   "answer": "Keep coronary perfusion pressure high",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

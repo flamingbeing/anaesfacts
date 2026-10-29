@@ -1,0 +1,97 @@
+{
+ "topic": "comorbidities/panhypopituitarism",
+ "questions": [
+  {
+   "fact_id": "comorbidities/panhypopituitarism#b66fc6",
+   "kind": "statement",
+   "stem": "In panhypopituitarism, which specialist should a patient be referred to after adenoma resection?",
+   "answer": "An endocrinologist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/panhypopituitarism#9e55e1",
+   "kind": "mcq",
+   "stem": "Which hormone replacement treats ACTH deficiency and adrenal insufficiency in panhypopituitarism?",
+   "options": [
+    "Thyroxine",
+    "Testosterone",
+    "Hydrocortisone",
+    "DDAVP nasal spray"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/panhypopituitarism#64cc02",
+   "kind": "mcq",
+   "stem": "Which hormone replacement treats TSH deficiency and hypothyroidism in panhypopituitarism?",
+   "options": [
+    "Thyroxine",
+    "Hydrocortisone",
+    "Testosterone",
+    "DDAVP nasal spray"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/panhypopituitarism#b1aba3",
+   "kind": "mcq",
+   "stem": "Which hormone replacement treats male hypogonadism in panhypopituitarism?",
+   "options": [
+    "Oestradiol",
+    "Testosterone",
+    "Progesterone",
+    "Growth hormone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/panhypopituitarism#645d95",
+   "kind": "mcq",
+   "stem": "Which two hormones replace female hypogonadism in panhypopituitarism?",
+   "options": [
+    "Testosterone and oestradiol",
+    "Hydrocortisone and progesterone",
+    "Oestradiol and progesterone",
+    "Thyroxine and testosterone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/panhypopituitarism#9ae86f",
+   "kind": "mcq",
+   "stem": "How is growth hormone replacement given in panhypopituitarism?",
+   "options": [
+    "Oral tablet",
+    "Nasal spray",
+    "Intravenous infusion",
+    "By injection"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/panhypopituitarism#127887",
+   "kind": "mcq",
+   "stem": "Which replacement treats ADH deficiency and central diabetes insipidus in panhypopituitarism?",
+   "options": [
+    "DDAVP nasal spray",
+    "Hydrocortisone",
+    "Thyroxine",
+    "Testosterone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

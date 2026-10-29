@@ -1,0 +1,287 @@
+{
+ "topic": "comorbidities/carcinoid-syndrome",
+ "questions": [
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#e25383",
+   "kind": "statement",
+   "stem": "Before surgery for carcinoid syndrome, what three steps should be taken?",
+   "answer": "Start octreotide, correct dehydration, and get a TTE.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#125d22",
+   "kind": "statement",
+   "stem": "Before induction in carcinoid syndrome surgery, which three monitors or lines should be placed?",
+   "answer": "Arterial line, CVP and FloTrac.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#999220",
+   "kind": "statement",
+   "stem": "In carcinoid syndrome, what are the two main problems of a carcinoid crisis?",
+   "answer": "Hypotension and bronchospasm.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#1409b3",
+   "kind": "mcq",
+   "stem": "Which bronchodilator is preferred for bronchospasm in carcinoid syndrome?",
+   "options": [
+    "Salbutamol",
+    "Ipratropium",
+    "Adrenaline",
+    "Aminophylline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#759647",
+   "kind": "mcq",
+   "stem": "What octreotide bolus dose should be ready for carcinoid syndrome surgery?",
+   "options": [
+    "10mcg",
+    "100mcg",
+    "250mcg",
+    "1mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#af8bb4",
+   "kind": "statement",
+   "stem": "What anaesthetic issues does an asymptomatic carcinoid tumour carry?",
+   "answer": "No specific anaesthetic issues.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#d3e474",
+   "kind": "mcq",
+   "stem": "What percentage of carcinoid tumours arise in the gastrointestinal tract?",
+   "options": [
+    "30%",
+    "55%",
+    "15%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#c65088",
+   "kind": "mcq",
+   "stem": "What percentage of carcinoid tumours are bronchopulmonary?",
+   "options": [
+    "55%",
+    "15%",
+    "30%",
+    "5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#c65088",
+   "kind": "statement",
+   "stem": "Bronchopulmonary carcinoid can cause fibrosis of which side of the heart's valves?",
+   "answer": "Left-sided valves.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#f6c03f",
+   "kind": "statement",
+   "stem": "What does the carcinoid test abbreviation 5-HIAA stand for?",
+   "answer": "5-hydroxyindoleacetic acid.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#4cfae4",
+   "kind": "statement",
+   "stem": "What are the alternatives to the 24-hour urine test in carcinoid syndrome?",
+   "answer": "Plasma 5-HIAA and chromogranin A.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#d639b6",
+   "kind": "statement",
+   "stem": "What should be optimised in symptomatic carcinoid syndrome patients before surgery?",
+   "answer": "Bronchodilators, hydration and electrolytes.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#5ef856",
+   "kind": "mcq",
+   "stem": "Octreotide 100mcg SC three times daily: for how long before surgery in carcinoid syndrome?",
+   "options": [
+    "2 days",
+    "2 weeks",
+    "1 week",
+    "4 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#5ef856",
+   "kind": "statement",
+   "stem": "Why is octreotide given before carcinoid syndrome surgery?",
+   "answer": "To block mediator release.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#3eb037",
+   "kind": "mcq",
+   "stem": "In emergency carcinoid surgery, how long before surgery should IV octreotide start?",
+   "options": [
+    "At least 30 minutes",
+    "At least 6 hours",
+    "At least 2 hours",
+    "At least 1 day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#9f991c",
+   "kind": "mcq",
+   "stem": "What is the intraoperative octreotide infusion range in carcinoid syndrome surgery?",
+   "options": [
+    "10-50mcg/hr",
+    "50-500mcg/hr",
+    "500-1000mcg/hr",
+    "1-5mg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#a3bc81",
+   "kind": "mcq",
+   "stem": "In carcinoid syndrome surgery, when should the arterial line and CVP be placed?",
+   "options": [
+    "After induction",
+    "Before induction",
+    "After incision",
+    "After extubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#43bdbe",
+   "kind": "statement",
+   "stem": "Which two vasoactive drugs are preferred over noradrenaline and dobutamine in carcinoid syndrome?",
+   "answer": "Vasopressin and milrinone.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#120062",
+   "kind": "statement",
+   "stem": "During carcinoid syndrome surgery, which two states should be avoided?",
+   "answer": "Hypothermia and hypercarbia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#f43e40",
+   "kind": "statement",
+   "stem": "Which vasoconstrictor is used for hypotension in carcinoid surgery, alongside octreotide boluses?",
+   "answer": "Phenylephrine.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#fe625d",
+   "kind": "statement",
+   "stem": "What should be checked to monitor metabolic status in carcinoid syndrome surgery?",
+   "answer": "ABGs for electrolytes and glucose.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#9b6ecc",
+   "kind": "statement",
+   "stem": "Which regional anaesthetic technique should be considered in carcinoid syndrome surgery?",
+   "answer": "An epidural.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#dbf88e",
+   "kind": "statement",
+   "stem": "Why may emergence from anaesthesia be delayed in carcinoid syndrome?",
+   "answer": "Serotonin-induced sedation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#8d255e",
+   "kind": "mcq",
+   "stem": "After carcinoid surgery, what IV octreotide dose is used for crisis or hypotension?",
+   "options": [
+    "100-200mcg",
+    "10-20mcg",
+    "1-2mg",
+    "50-100mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#00e4fc",
+   "kind": "mcq",
+   "stem": "How long should an IV octreotide infusion continue after carcinoid surgery?",
+   "options": [
+    "24hrs",
+    "48hrs",
+    "72hrs",
+    "7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#87e64f",
+   "kind": "mcq",
+   "stem": "Over how many days should IV octreotide be weaned after carcinoid resection?",
+   "options": [
+    "2 days",
+    "48hrs",
+    "7 days",
+    "14 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/carcinoid-syndrome#fc3c70",
+   "kind": "statement",
+   "stem": "Which opioid is used for smooth induction to blunt the sympathetic response in carcinoid syndrome?",
+   "answer": "Remifentanil.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

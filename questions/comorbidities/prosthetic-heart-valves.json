@@ -1,0 +1,199 @@
+{
+ "topic": "comorbidities/prosthetic-heart-valves",
+ "questions": [
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#1094f3",
+   "kind": "statement",
+   "stem": "Which valve details should be documented before surgery in a prosthetic valve patient?",
+   "answer": "Type, position, date implanted, structural integrity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#152382",
+   "kind": "mcq",
+   "stem": "Which preoperative test should assess a prosthetic heart valve?",
+   "options": [
+    "Chest X-ray only",
+    "Echo (TTE or TOE)",
+    "CT coronary angiogram",
+    "Carotid duplex only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#8f008a",
+   "kind": "statement",
+   "stem": "Which rhythm and pulmonary features should be assessed in prosthetic valve patients preoperatively?",
+   "answer": "AF burden and rate control; degree of secondary pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#6366a1",
+   "kind": "mcq",
+   "stem": "Which property of mechanical heart valves drives anticoagulation planning?",
+   "options": [
+    "They are prone to endocarditis",
+    "They calcify early",
+    "They are highly thrombogenic",
+    "They cause hypotension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#3f0382",
+   "kind": "mcq",
+   "stem": "For a prosthetic valve patient, which ejection fraction marks high thrombotic risk?",
+   "options": [
+    "LVEF < 50%",
+    "LVEF < 25%",
+    "LVEF < 35%",
+    "LVEF < 60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#e3b936",
+   "kind": "mcq",
+   "stem": "When is bridging anticoagulation needed for a prosthetic valve before surgery?",
+   "options": [
+    "If high risk",
+    "For all valve patients",
+    "Never, if INR is below 3",
+    "Only after valve replacement"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#2a423c",
+   "kind": "mcq",
+   "stem": "How long before surgery is warfarin stopped in a patient with a mechanical valve?",
+   "options": [
+    "3 days before",
+    "5 days before",
+    "7 days before",
+    "10 days before"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#b7fa8e",
+   "kind": "mcq",
+   "stem": "When is therapeutic UFH or LMWH started in a prosthetic valve patient after warfarin?",
+   "options": [
+    "Once INR < 2.0",
+    "Once INR < 3.5",
+    "Once INR < 1.5",
+    "Once INR < 4.0"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#42d83a",
+   "kind": "mcq",
+   "stem": "How long before surgery is therapeutic LMWH stopped in a prosthetic valve patient?",
+   "options": [
+    "24 hours before surgery",
+    "12 hours before surgery",
+    "48 hours before surgery",
+    "6 hours before surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#42d83a",
+   "kind": "mcq",
+   "stem": "How long before surgery is IV UFH stopped in a prosthetic valve patient?",
+   "options": [
+    "1–2 hours before",
+    "12 hours before",
+    "4–6 hours before",
+    "24 hours before"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#f69fc2",
+   "kind": "mcq",
+   "stem": "What INR target is set before major surgery in a prosthetic valve patient?",
+   "options": [
+    "< 2.0",
+    "< 3.0",
+    "< 1.0",
+    "< 1.5"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#9c728a",
+   "kind": "statement",
+   "stem": "For neuraxial blocks in prosthetic valve patients on anticoagulants, which guidelines set the time windows?",
+   "answer": "ASRA/ESRA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#6fe783",
+   "kind": "blank",
+   "stem": "In prosthetic valve patients, a neuraxial block should wait ____ after therapeutic LMWH (ASRA/ESRA).",
+   "answer": "24 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#5f65c7",
+   "kind": "mcq",
+   "stem": "Which procedure in a high-risk prosthetic valve patient calls for endocarditis prophylaxis?",
+   "options": [
+    "Routine cataract surgery",
+    "Peripheral IV cannulation",
+    "Dental work with gingival manipulation",
+    "Skin closure with sutures"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#02967a",
+   "kind": "mcq",
+   "stem": "When should an arterial line be placed in a prosthetic valve patient?",
+   "options": [
+    "Before induction, with or without CVP",
+    "After induction, once stable",
+    "Only if hypotension occurs",
+    "Not needed for valve surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/prosthetic-heart-valves#f275a0",
+   "kind": "statement",
+   "stem": "What sets the haemodynamic goals for a prosthetic valve patient during anaesthesia?",
+   "answer": "Valve function and pathology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

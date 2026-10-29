@@ -1,0 +1,143 @@
+{
+ "topic": "comorbidities/adult-congenital-heart-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#1ba464",
+   "kind": "mcq",
+   "stem": "In adults with congenital heart disease, what is the main concern with small uncorrected VSDs or ASDs?",
+   "options": [
+    "Cardiac tamponade",
+    "Paradoxical emboli",
+    "Aortic dissection",
+    "Left ventricular failure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#a71e3b",
+   "kind": "mcq",
+   "stem": "Which syndrome follows a large uncorrected left-to-right shunt once pulmonary hypertension develops?",
+   "options": [
+    "Fontan circulation",
+    "Tetralogy of Fallot",
+    "Eisenmenger syndrome",
+    "Ebstein anomaly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#1d158d",
+   "kind": "statement",
+   "stem": "What does palliated mean for an adult congenital heart lesion?",
+   "answer": "Normal anatomy has not been restored",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#63ced3",
+   "kind": "mcq",
+   "stem": "Which operation palliates hypoplastic left heart syndrome in adult congenital heart disease?",
+   "options": [
+    "Ross procedure",
+    "Fontan procedure",
+    "Mustard procedure",
+    "Nuss procedure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#3da6ab",
+   "kind": "statement",
+   "stem": "Where should an adult with a palliated congenital heart lesion be transferred for care?",
+   "answer": "A specialist centre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#746687",
+   "kind": "mcq",
+   "stem": "Fontan circulation is a palliative procedure for which underlying physiology?",
+   "options": [
+    "Eisenmenger physiology",
+    "Functional univentricular physiology",
+    "Isolated small atrial septal defect",
+    "Severe aortic stenosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#acc231",
+   "kind": "mcq",
+   "stem": "Why does a Fontan patient bleed more with tonsillectomy or nasal intubation?",
+   "options": [
+    "Their platelet count is low",
+    "Their central venous pressure is high",
+    "Their haematocrit is high",
+    "Their heparin needs are low"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#7ca264",
+   "kind": "mcq",
+   "stem": "In a Fontan circulation, what should be avoided during anaesthesia?",
+   "options": [
+    "Anything that lowers pulmonary artery pressure",
+    "Anything that raises pulmonary artery pressure",
+    "Standard maintenance fluids",
+    "Routine oxygen therapy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#1350fc",
+   "kind": "statement",
+   "stem": "Which diagnosis should always be considered when managing adult congenital heart disease?",
+   "answer": "Eisenmenger syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#644a39",
+   "kind": "blank",
+   "stem": "In adult congenital heart disease, ____ prophylaxis is advised before dental procedures.",
+   "answer": "Antibiotic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#7292af",
+   "kind": "mcq",
+   "stem": "Which precaution applies to IV lines in a patient with a shunt?",
+   "options": [
+    "Routine heparin flushing",
+    "Fluid warming",
+    "Bubble precautions",
+    "Bacteriostatic saline only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/adult-congenital-heart-disease#535ff7",
+   "kind": "statement",
+   "stem": "How should Eisenmenger syndrome be managed?",
+   "answer": "As for pulmonary hypertension and right ventricular dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

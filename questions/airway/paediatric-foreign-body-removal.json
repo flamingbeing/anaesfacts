@@ -1,0 +1,495 @@
+{
+ "topic": "airway/paediatric-foreign-body-removal",
+ "questions": [
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#60a5ec",
+   "kind": "mcq",
+   "stem": "In children, inhaled foreign body is most common at which age?",
+   "options": [
+    "Under 3 months",
+    "1-3 years",
+    "5-7 years",
+    "10-12 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#977006",
+   "kind": "statement",
+   "stem": "What material are inhaled foreign bodies in children usually made of?",
+   "answer": "Organic material, such as peanuts.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#692ec4",
+   "kind": "statement",
+   "stem": "Why is inhaled peanut particularly harmful to a child's airway?",
+   "answer": "It causes airway hyperreactivity.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#c02093",
+   "kind": "statement",
+   "stem": "Where do swallowed coins usually lodge in children?",
+   "answer": "The upper oesophagus.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#d4656f",
+   "kind": "mcq",
+   "stem": "In children, where does an inhaled object larger than 20 mm usually lodge?",
+   "options": [
+    "Oropharynx",
+    "Larynx",
+    "Bronchi",
+    "Trachea"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#99912d",
+   "kind": "mcq",
+   "stem": "Where does an inhaled object of 8-15 mm, or an irregular one, usually lodge?",
+   "options": [
+    "Oropharynx",
+    "Larynx",
+    "Left bronchus",
+    "Trachea"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#2fd168",
+   "kind": "mcq",
+   "stem": "Where do small, smooth, linear inhaled objects usually lodge?",
+   "options": [
+    "Oropharynx",
+    "Larynx",
+    "Bronchi",
+    "Oesophagus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#551384",
+   "kind": "mcq",
+   "stem": "What share of inhaled foreign bodies in children lodge in the right main bronchus?",
+   "options": [
+    "5%",
+    "45%",
+    "50%",
+    "25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#551384",
+   "kind": "mcq",
+   "stem": "What share of inhaled foreign bodies in children lodge in the trachea?",
+   "options": [
+    "10%",
+    "5%",
+    "25%",
+    "15%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#e3c508",
+   "kind": "statement",
+   "stem": "What are the typical presenting features of an inhaled foreign body in a child?",
+   "answer": "Cough, choking, drooling, wheeze, dyspnoea or cyanosis.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#04a6d5",
+   "kind": "statement",
+   "stem": "How can an inhaled foreign body in a child present when it has gone unnoticed?",
+   "answer": "Fever and chest infection days later, or atypical respiratory symptoms months later.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#028300",
+   "kind": "statement",
+   "stem": "What examination signs suggest an inhaled foreign body in a child?",
+   "answer": "Airway obstruction, wheeze, reduced breath sounds.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#39db65",
+   "kind": "blank",
+   "stem": "In a child with an inhaled foreign body, a chest X-ray may be ____.",
+   "answer": "normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#c3d1db",
+   "kind": "statement",
+   "stem": "Besides the object itself, what other chest X-ray findings can an inhaled foreign body cause in a child?",
+   "answer": "Lobar or lung collapse, mediastinal shift, pneumothorax.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#bedbc1",
+   "kind": "statement",
+   "stem": "What might an end-expiratory chest film show in a child with an inhaled foreign body?",
+   "answer": "One-sided emphysema or hyperinflation on the affected side.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#fa3e16",
+   "kind": "statement",
+   "stem": "In a child with an inhaled foreign body, under what condition are examination and removal done?",
+   "answer": "Under general anaesthesia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#c45702",
+   "kind": "statement",
+   "stem": "What airway complication may develop after foreign body removal in children?",
+   "answer": "Mucosal oedema of the larynx, subglottis or trachea.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#a32a87",
+   "kind": "statement",
+   "stem": "Preoperatively, how does respiratory distress in a child with an inhaled foreign body typically vary?",
+   "answer": "It varies; many children are calm.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#8de005",
+   "kind": "statement",
+   "stem": "What determines the urgency of removing an inhaled foreign body in a child?",
+   "answer": "Symptoms and degree of distress.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#6865b6",
+   "kind": "mcq",
+   "stem": "Before removal of an inhaled foreign body, can a child usually be fasted?",
+   "options": [
+    "Yes, usually",
+    "No, never",
+    "Only if sedated",
+    "Only after intubation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#02d0c4",
+   "kind": "statement",
+   "stem": "When should inhaled foreign body removal proceed in a child who has not fasted?",
+   "answer": "Partial obstruction, hypoxia or marked distress, since delay is riskier than aspiration.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#803382",
+   "kind": "statement",
+   "stem": "When is laryngoscopy used to remove an inhaled foreign body?",
+   "answer": "When the object is in the oropharynx or near the laryngeal inlet.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#954471",
+   "kind": "mcq",
+   "stem": "What premedication is given before laryngoscopy for an inhaled foreign body in a child?",
+   "options": [
+    "Not given",
+    "Given routinely",
+    "Given as a full dose",
+    "Given only after induction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#9c1beb",
+   "kind": "statement",
+   "stem": "In laryngoscopy for an inhaled foreign body, what is the aim?",
+   "answer": "A patent airway with spontaneous breathing throughout.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#60418b",
+   "kind": "statement",
+   "stem": "For laryngoscopy in an inhaled foreign body case, which induction agent and oxygen mix is used?",
+   "answer": "Halothane or sevoflurane in 100% oxygen.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#2547d8",
+   "kind": "statement",
+   "stem": "When upper airway obstruction slows inhalational induction in a child, what helps?",
+   "answer": "Gentle CPAP.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#bd3e2e",
+   "kind": "mcq",
+   "stem": "Once a child is deep enough for laryngoscopy, what atropine dose is given?",
+   "options": [
+    "2 mcg/kg",
+    "5 mcg/kg",
+    "20 mcg/kg",
+    "50 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#bd3e2e",
+   "kind": "mcq",
+   "stem": "Once a child is deep enough for laryngoscopy, what glycopyrronium dose is given instead?",
+   "options": [
+    "5-10 mcg/kg",
+    "1-2 mcg/kg",
+    "20-30 mcg/kg",
+    "50-60 mcg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#4cf2df",
+   "kind": "statement",
+   "stem": "How should a child be positioned for bronchoscopy to bring the trachea forward?",
+   "answer": "Supine, with a roll under the scapulae.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#bb42b6",
+   "kind": "statement",
+   "stem": "Why spray the vocal cords with lidocaine before bronchoscopy in a child?",
+   "answer": "Dense laryngeal topicalisation prevents coughing and breath holding.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#bb42b6",
+   "kind": "mcq",
+   "stem": "What is the maximum lidocaine dose sprayed on the vocal cords before bronchoscopy in a child?",
+   "options": [
+    "0.5 mg/kg",
+    "1 mg/kg",
+    "4 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#5cb8da",
+   "kind": "statement",
+   "stem": "Which breathing circuit attaches to the side arm of a Storz bronchoscope?",
+   "answer": "A T-piece circuit.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#3bf49f",
+   "kind": "statement",
+   "stem": "What is the maintenance technique for bronchoscopy in children?",
+   "answer": "Volatile agent in 100% oxygen, with spontaneous ventilation preferred.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#11406a",
+   "kind": "statement",
+   "stem": "Why can inserting the telescope be a problem during bronchoscopy in infants?",
+   "answer": "It narrows the lumen and greatly increases work of breathing.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#79df89",
+   "kind": "mcq",
+   "stem": "After foreign body removal, how should the endotracheal tube size compare with the age-based size?",
+   "options": [
+    "0.5-1 mm smaller than age-based size",
+    "0.5-1 mm larger than age-based size",
+    "2-3 mm smaller than age-based size",
+    "Same as age-based size"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#79df89",
+   "kind": "statement",
+   "stem": "How should a child be extubated after bronchoscopy for foreign body removal?",
+   "answer": "Awake.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#cb77fe",
+   "kind": "mcq",
+   "stem": "What dexamethasone dose is often given IV to reduce airway oedema after bronchoscopy?",
+   "options": [
+    "0.025 mg/kg",
+    "0.25 mg/kg",
+    "1 mg/kg",
+    "2.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#853cf4",
+   "kind": "statement",
+   "stem": "After bronchoscopy, where should a child with significant airway oedema be kept?",
+   "answer": "Intubated and ventilated in ICU.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#040483",
+   "kind": "mcq",
+   "stem": "After oesophagoscopy or OGD for a foreign body, how is the child extubated?",
+   "options": [
+    "Asleep",
+    "Under deep anaesthesia",
+    "Awake",
+    "Not extubated"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#e10a6b",
+   "kind": "statement",
+   "stem": "What serious complication is a risk after rigid oesophagoscopy in children?",
+   "answer": "Oesophageal perforation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#29e0cc",
+   "kind": "mcq",
+   "stem": "After removal of an inhaled foreign body, where do most children go?",
+   "options": [
+    "General ward",
+    "ICU",
+    "Theatre recovery only",
+    "HDU always"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#58b778",
+   "kind": "mcq",
+   "stem": "Where is a child with stridor after foreign body removal observed?",
+   "options": [
+    "General ward",
+    "HDU",
+    "Theatre recovery",
+    "Home"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#2fa9da",
+   "kind": "mcq",
+   "stem": "What nebulised 1:1000 adrenaline dose is used for post-extraction stridor?",
+   "options": [
+    "40 mcg/kg",
+    "400 mcg/kg",
+    "4 mg/kg",
+    "40 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#2fa9da",
+   "kind": "mcq",
+   "stem": "How long does nebulised adrenaline relieve stridor from mucosal oedema after foreign body removal?",
+   "options": [
+    "30 minutes",
+    "2-3 hours",
+    "12 hours",
+    "24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#5f49ce",
+   "kind": "mcq",
+   "stem": "After bronchoscopy, at what interval can dexamethasone 100 mcg/kg IV be given for 24 hours?",
+   "options": [
+    "Every 6 hours",
+    "Every 2 hours",
+    "Every 12 hours",
+    "Once daily"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#0397fa",
+   "kind": "statement",
+   "stem": "After foreign body removal in a child, what fluid is given until the child is drinking?",
+   "answer": "IV maintenance fluids.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/paediatric-foreign-body-removal#0153a0",
+   "kind": "statement",
+   "stem": "When are antibiotics given after foreign body removal in a child?",
+   "answer": "If late presentation with infection.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

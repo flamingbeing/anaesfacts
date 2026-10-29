@@ -1,0 +1,75 @@
+{
+ "topic": "comorbidities/hyperlipidaemia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hyperlipidaemia#525d82",
+   "kind": "mcq",
+   "stem": "Should statins be stopped around surgery in a patient with hyperlipidaemia?",
+   "options": [
+    "Yes, stop a week before",
+    "Yes, stop on the morning of surgery",
+    "No, continue them",
+    "Only stop if liver tests are raised"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperlipidaemia#797df7",
+   "kind": "mcq",
+   "stem": "How should hyperlipidaemia be regarded in anaesthetic assessment?",
+   "options": [
+    "As a renal failure risk factor",
+    "As a contraindication to all surgery",
+    "As an ischaemic heart disease risk factor",
+    "As a cause of airway obstruction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperlipidaemia#0361b9",
+   "kind": "mcq",
+   "stem": "When should a patient already taking statins continue them?",
+   "options": [
+    "Only in the first 24 hours after surgery",
+    "Only if cholesterol is raised",
+    "Throughout the perioperative period",
+    "Only after discharge home"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperlipidaemia#fb8e48",
+   "kind": "mcq",
+   "stem": "What outcome is linked to abruptly stopping statins around surgery?",
+   "options": [
+    "Fewer infections",
+    "Shorter hospital stay",
+    "Lower blood pressure",
+    "More cardiovascular complications"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperlipidaemia#38afc2",
+   "kind": "mcq",
+   "stem": "What is the likely source of the benefit of statins around surgery?",
+   "options": [
+    "Direct lowering of blood pressure",
+    "Pleiotropic effects",
+    "Increased red cell mass",
+    "Enhanced renal clearance of drugs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

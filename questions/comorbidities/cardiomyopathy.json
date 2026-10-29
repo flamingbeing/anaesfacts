@@ -1,0 +1,631 @@
+{
+ "topic": "comorbidities/cardiomyopathy",
+ "questions": [
+  {
+   "fact_id": "comorbidities/cardiomyopathy#199ec4",
+   "kind": "statement",
+   "stem": "In hypertrophic cardiomyopathy (HOCM), what does primary left ventricular hypertrophy mean?",
+   "answer": "Hypertrophy with no other cause, such as aortic stenosis or hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#80f4bd",
+   "kind": "statement",
+   "stem": "In HOCM, how is the condition grouped by left ventricular outflow tract obstruction?",
+   "answer": "Obstructive at rest, labile, or non-obstructive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#78a71e",
+   "kind": "statement",
+   "stem": "In HOCM, what peak LVOT gradient defines obstruction at rest?",
+   "answer": "over 30 mm Hg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#4235e3",
+   "kind": "statement",
+   "stem": "In HOCM, what provocation unmasks a labile LVOT gradient?",
+   "answer": "Valsalva, inhaled amyl nitrite, treadmill exercise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#3d29d3",
+   "kind": "statement",
+   "stem": "In HOCM, what is the peak LVOT gradient in patients who are never obstructed, at rest or on provocation?",
+   "answer": "under 30 mm Hg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#1efa97",
+   "kind": "mcq",
+   "stem": "In HOCM, what LVOT gradient is the usual threshold for surgical or percutaneous intervention?",
+   "options": [
+    "over 20mmHg",
+    "over 80mmHg",
+    "over 50mmHg",
+    "over 100mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#81d29f",
+   "kind": "mcq",
+   "stem": "In hypertrophic cardiomyopathy, what is the usual mode of inheritance?",
+   "options": [
+    "X-linked recessive with full penetrance",
+    "Autosomal recessive with full penetrance",
+    "Autosomal dominant with variable penetrance",
+    "Mitochondrial inheritance with variable penetrance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#b22ea6",
+   "kind": "mcq",
+   "stem": "In HOCM, what share of patients have no genetic explanation?",
+   "options": [
+    "Up to 5%",
+    "Up to 15%",
+    "Up to 40%",
+    "Up to 75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#de9507",
+   "kind": "mcq",
+   "stem": "In HOCM, which part of the left ventricle is most often hypertrophied?",
+   "options": [
+    "Left ventricular apex",
+    "Right ventricular free wall",
+    "Interventricular septum",
+    "Left atrial wall"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#2ae316",
+   "kind": "statement",
+   "stem": "In HOCM, why does secondary mitral regurgitation occur?",
+   "answer": "SAM distorts the leaflets so they do not coapt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#d70c1c",
+   "kind": "statement",
+   "stem": "In HOCM, what causes diastolic dysfunction?",
+   "answer": "Fibre disarray stiffens the LV and slows relaxation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#6cc4c4",
+   "kind": "mcq",
+   "stem": "In HOCM, what does electrical remodelling lead to?",
+   "options": [
+    "Atrial fibrillation and stroke",
+    "Ventricular tachycardia and sudden cardiac death",
+    "Complete heart block alone",
+    "Bradycardia and syncope"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#0cc0b6",
+   "kind": "statement",
+   "stem": "In HOCM, which myocardial problem is linked with angina?",
+   "answer": "Myocardial ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#126c89",
+   "kind": "mcq",
+   "stem": "In HOCM, what autonomic mechanism causes syncope?",
+   "options": [
+    "Inappropriate firing of LV stretch receptors",
+    "Complete heart block from septal ablation",
+    "Sustained atrial fibrillation with low output",
+    "Hypoglycaemia from prolonged fasting"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#d533f4",
+   "kind": "statement",
+   "stem": "What are the main clinical features of HOCM?",
+   "answer": "Heart failure, ischaemia and angina, sudden cardiac death",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#6936e7",
+   "kind": "mcq",
+   "stem": "In HOCM, how does the ejection systolic murmur change on squatting?",
+   "options": [
+    "Louder",
+    "Softer",
+    "Unchanged",
+    "Absent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#6936e7",
+   "kind": "mcq",
+   "stem": "In HOCM, how does the ejection systolic murmur change on standing?",
+   "options": [
+    "Softer",
+    "Louder",
+    "Unchanged",
+    "Absent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#d5619c",
+   "kind": "statement",
+   "stem": "In HOCM, what are the narrow lateral or inferior Q waves from septal depolarisation called?",
+   "answer": "Dagger Q waves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#d5619c",
+   "kind": "mcq",
+   "stem": "In HOCM, which ECG pattern with LVH is called strain?",
+   "options": [
+    "T-wave inversion",
+    "ST elevation",
+    "Prolonged QT interval",
+    "Peaked T waves"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#92530b",
+   "kind": "statement",
+   "stem": "In hypertrophic cardiomyopathy, what does transthoracic echocardiography (TTE) confirm?",
+   "answer": "Septal thickness, SAM, LVOTO, MR, diastolic dysfunction, heart failure, RV function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#088d1f",
+   "kind": "statement",
+   "stem": "In HOCM, which walking test assesses exercise capacity?",
+   "answer": "6-minute walk test (6MWT)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#1c2990",
+   "kind": "statement",
+   "stem": "Which monitoring test detects ventricular arrhythmias in HOCM?",
+   "answer": "Holter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#d58b9c",
+   "kind": "statement",
+   "stem": "If medical therapy fails in HOCM, what septal reduction options exist?",
+   "answer": "Surgical myomectomy or percutaneous alcohol septal ablation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#f87804",
+   "kind": "mcq",
+   "stem": "To avoid worsening LVOT obstruction in HOCM, how should the ventricle be kept?",
+   "options": [
+    "Empty and fast",
+    "Full and slow",
+    "Full and fast",
+    "Empty and slow"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#8d81fb",
+   "kind": "statement",
+   "stem": "In HOCM, how should contractility be managed?",
+   "answer": "Limit contractility; avoid sympathetic stimulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#f6eddf",
+   "kind": "mcq",
+   "stem": "In HOCM, what heart rate range is aimed for to allow diastolic filling?",
+   "options": [
+    "40-50bpm",
+    "60-80bpm",
+    "90-110bpm",
+    "120-140bpm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#545293",
+   "kind": "mcq",
+   "stem": "In HOCM, what end-tidal CO2 should ventilation aim for?",
+   "options": [
+    "25-30 mmHg",
+    "35-40 mmHg",
+    "45-50 mmHg",
+    "55-60 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#92c168",
+   "kind": "mcq",
+   "stem": "Before induction in HOCM, what should be given to keep preload high-normal?",
+   "options": [
+    "IV fluid",
+    "Sublingual nitrate",
+    "Oral diuretic",
+    "Dobutamine infusion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#901410",
+   "kind": "statement",
+   "stem": "In HOCM, why must afterload be kept high-normal?",
+   "answer": "Falls in SVR worsen the gradient, cause tachycardia and reduce coronary perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#2420a3",
+   "kind": "mcq",
+   "stem": "In HOCM, why is keeping sinus rhythm important?",
+   "options": [
+    "Filling depends on atrial kick",
+    "Conduction block prevents tachycardia",
+    "Ventricular filling is entirely passive",
+    "Atrial contraction worsens outflow obstruction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#371bdd",
+   "kind": "statement",
+   "stem": "In HOCM, what should be avoided to protect the myocardium?",
+   "answer": "Ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#2ee202",
+   "kind": "mcq",
+   "stem": "In HOCM, what SpO2 target should FiO2 and PEEP be titrated to?",
+   "options": [
+    "about 85%",
+    "about 90%",
+    "over 95%",
+    "about 100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#8f5b17",
+   "kind": "statement",
+   "stem": "In HOCM, what should the preoperative history cover?",
+   "answer": "Heart failure (breathlessness, dizziness, orthopnoea, ankle oedema), angina, exercise capacity, palpitations, syncope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#9fd493",
+   "kind": "statement",
+   "stem": "In HOCM preoperative examination, what should be assessed?",
+   "answer": "ESM behaviour, crepitations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#3cc3c0",
+   "kind": "statement",
+   "stem": "What investigations does HOCM preoperative assessment include?",
+   "answer": "ECG, CXR, TTE, exercise capacity (6MWT)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#72ed75",
+   "kind": "mcq",
+   "stem": "In HOCM, which drugs should be continued before surgery?",
+   "options": [
+    "Beta-blockers and calcium channel blockers",
+    "ACE inhibitors and diuretics",
+    "Digoxin and amiodarone",
+    "Nitrates and anticoagulants"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#9f31cb",
+   "kind": "statement",
+   "stem": "In HOCM with an ICD, what should be done to the device before surgery?",
+   "answer": "Interrogate and suspend antitachycardia function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#7bac5e",
+   "kind": "statement",
+   "stem": "In HOCM, what should the multidisciplinary discussion with surgeon and cardiologist weigh?",
+   "answer": "Urgency versus optimisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#7bd0b3",
+   "kind": "statement",
+   "stem": "In HOCM, why are patients premedicated as needed?",
+   "answer": "To prevent anxiety-related tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#fd5430",
+   "kind": "mcq",
+   "stem": "In HOCM, why should spinal anaesthesia be avoided?",
+   "options": [
+    "Large falls in preload and SVR",
+    "Excess preload causing pulmonary oedema",
+    "Excessive bradycardia from a high block",
+    "Hypocapnia causing coronary spasm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#1d1b0c",
+   "kind": "mcq",
+   "stem": "In HOCM intraoperative management, what haemoglobin level should be maintained?",
+   "options": [
+    "Hb under 8",
+    "Hb over 8",
+    "Hb under 4",
+    "Hb under 12"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#1d4636",
+   "kind": "mcq",
+   "stem": "In HOCM, during emergence, extubation may be considered on which opioid?",
+   "options": [
+    "Morphine",
+    "Remifentanil",
+    "Pethidine",
+    "Sufentanil"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#1e9e04",
+   "kind": "statement",
+   "stem": "In HOCM postoperative care, what is multimodal analgesia used to prevent?",
+   "answer": "Pain-related tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#1e9e04",
+   "kind": "statement",
+   "stem": "In HOCM, what should not be included in local anaesthetic?",
+   "answer": "Adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#e0e682",
+   "kind": "statement",
+   "stem": "In HOCM postoperative care, why use an aggressive antiemetic strategy?",
+   "answer": "To prevent nausea-related tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#6cb804",
+   "kind": "statement",
+   "stem": "In HOCM, what should be done with the ICD after surgery?",
+   "answer": "Re-enable antitachycardia therapy and interrogate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#dab550",
+   "kind": "statement",
+   "stem": "Where should HOCM patients receive postoperative care?",
+   "answer": "High dependency care for cardiovascular monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#f1c762",
+   "kind": "mcq",
+   "stem": "Which of these is a recognised cause of dilated cardiomyopathy?",
+   "options": [
+    "Alcohol",
+    "Aortic stenosis",
+    "Mitral stenosis",
+    "Pulmonary embolism"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#f1c762",
+   "kind": "statement",
+   "stem": "Which dilated cardiomyopathy cause is linked to the period around childbirth?",
+   "answer": "Peripartum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#00a6e9",
+   "kind": "statement",
+   "stem": "In dilated cardiomyopathy, what is the core clinical picture?",
+   "answer": "Heart failure with an enlarged, poorly contracting heart",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#9ffeab",
+   "kind": "statement",
+   "stem": "In dilated cardiomyopathy, what valve problems does progressive dilatation cause?",
+   "answer": "Functional MR and TR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#a3bf1c",
+   "kind": "statement",
+   "stem": "In dilated cardiomyopathy, what should the history cover?",
+   "answer": "heart failure, palpitations (arrhythmias), stroke (embolic)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#259769",
+   "kind": "statement",
+   "stem": "In dilated cardiomyopathy, what should the examination include?",
+   "answer": "Heart failure signs, neurological examination, murmurs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#64d93b",
+   "kind": "mcq",
+   "stem": "In dilated cardiomyopathy, which drug is used for arrhythmias and also has positive inotropy?",
+   "options": [
+    "Digoxin",
+    "Carvedilol",
+    "Furosemide",
+    "Nitrates"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#64d93b",
+   "kind": "mcq",
+   "stem": "In dilated cardiomyopathy, which beta-blocker is used in treatment?",
+   "options": [
+    "Carvedilol",
+    "Warfarin",
+    "Furosemide",
+    "Amiodarone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#84167c",
+   "kind": "mcq",
+   "stem": "Where should dilated cardiomyopathy patients be cared for after surgery?",
+   "options": [
+    "HDU or ICU",
+    "Routine ward with standard observations",
+    "Day surgery recovery",
+    "Theatre recovery only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#cfbbfa",
+   "kind": "statement",
+   "stem": "In restrictive cardiomyopathy, which heart failure pattern is often dominant?",
+   "answer": "Right heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#a8d178",
+   "kind": "statement",
+   "stem": "In restrictive cardiomyopathy, what does amyloid infiltration cause?",
+   "answer": "A stiff ventricle and diastolic dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#a652a5",
+   "kind": "statement",
+   "stem": "In restrictive cardiomyopathy, what symptoms should the history cover?",
+   "answer": "Breathlessness and fatigue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#a652a5",
+   "kind": "statement",
+   "stem": "On examination in restrictive cardiomyopathy, which side of heart failure is especially seen?",
+   "answer": "right-sided",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cardiomyopathy#214592",
+   "kind": "statement",
+   "stem": "In restrictive cardiomyopathy, what does echocardiography show?",
+   "answer": "Diastolic dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

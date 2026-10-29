@@ -1,0 +1,151 @@
+{
+ "topic": "comorbidities/immunosuppression",
+ "questions": [
+  {
+   "fact_id": "comorbidities/immunosuppression#4a2a8e",
+   "kind": "statement",
+   "stem": "Which complication of immunosuppression is given as an example involving the kidney?",
+   "answer": "Renal impairment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#ebfdf9",
+   "kind": "mcq",
+   "stem": "Which red cells may an immunosuppressed patient need for transfusion?",
+   "options": [
+    "Non-leukoreduced, non-irradiated red cells",
+    "Leukoreduced, with or without irradiated",
+    "Non-leukoreduced red cells, irradiated only",
+    "Whole blood, unfiltered from donor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#c129e8",
+   "kind": "blank",
+   "stem": "Immunosuppressed patients may need ____, with or without irradiated, blood products.",
+   "answer": "leukodepleted",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#5885ae",
+   "kind": "statement",
+   "stem": "What long-term immune-related risk comes with immunosuppression?",
+   "answer": "Infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#86d2c3",
+   "kind": "mcq",
+   "stem": "Which EBV-associated malignancy is a long-term risk of immunosuppression?",
+   "options": [
+    "Renal cell carcinoma",
+    "Lymphoma",
+    "Colorectal carcinoma",
+    "Ovarian carcinoma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#eee875",
+   "kind": "mcq",
+   "stem": "Which long-term musculoskeletal problem is a risk of immunosuppression?",
+   "options": [
+    "Gout",
+    "Osteoporosis",
+    "Hypercalcaemia",
+    "Osteoarthritis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#5667e0",
+   "kind": "mcq",
+   "stem": "Which immunosuppressant is linked with long-term nephrotoxicity?",
+   "options": [
+    "Azathioprine",
+    "Mycophenolate",
+    "Ciclosporin",
+    "Prednisolone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#cfa1df",
+   "kind": "mcq",
+   "stem": "Which long-term heart problem is linked to steroid use in immunosuppressed patients?",
+   "options": [
+    "Atrial fibrillation",
+    "Ischaemic heart disease",
+    "Aortic stenosis",
+    "Pericardial effusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#8425ed",
+   "kind": "statement",
+   "stem": "Which immunosuppressant is linked with long-term hypertension?",
+   "answer": "Ciclosporin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#de3d0f",
+   "kind": "statement",
+   "stem": "Which pregnancy complication is more common in immunosuppressed women?",
+   "answer": "Pre-eclampsia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#1cb2b1",
+   "kind": "mcq",
+   "stem": "Which procedures need strict asepsis in immunosuppressed patients?",
+   "options": [
+    "Only surgical incisions",
+    "Only central venous lines",
+    "All invasive procedures, including IV cannulation",
+    "Only epidural placement"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#1cd36f",
+   "kind": "mcq",
+   "stem": "Which problem should be considered in a patient previously on steroids?",
+   "options": [
+    "Thyroid storm",
+    "HPA axis suppression",
+    "Phaeochromocytoma",
+    "Hepatic encephalopathy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/immunosuppression#2cd3e9",
+   "kind": "statement",
+   "stem": "In immunosuppressed patients, what should be checked for possible organ side effects such as nephrotoxicity?",
+   "answer": "Baseline function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "topic": "comorbidities/paediatric-infectious-diseases",
+ "questions": [
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#79bdda",
+   "kind": "statement",
+   "stem": "In paediatric infectious diseases, besides the child, whom does good management protect?",
+   "answer": "Staff and other patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#37f05e",
+   "kind": "statement",
+   "stem": "For a child with an infectious illness, what two decisions are needed about surgery?",
+   "answer": "Whether to delay surgery if possible, and how to manage the child if it cannot be delayed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#2871ec",
+   "kind": "mcq",
+   "stem": "In paediatric infectious diseases, how is the incubation period defined?",
+   "options": [
+    "Time during which the patient can infect others",
+    "Time from symptom onset to diagnosis",
+    "Time from contact with an infected person to onset of disease",
+    "Time from vaccination to full immunity"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#8f0353",
+   "kind": "statement",
+   "stem": "In paediatric infectious diseases, what is the infectious period?",
+   "answer": "Time during which the patient can infect others",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#aa89bb",
+   "kind": "statement",
+   "stem": "In paediatric infectious diseases, how can anaesthetic agents affect the child's immune response?",
+   "answer": "They may blunt the immune response, possibly raising the risk of severe complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#d7447a",
+   "kind": "statement",
+   "stem": "Why do unwell children with infection have higher oxygen and fluid needs?",
+   "answer": "Raised metabolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#38d2a3",
+   "kind": "mcq",
+   "stem": "Which infections can be complicated by secondary infection or pneumonia?",
+   "options": [
+    "Mumps, rubella and polio",
+    "Tetanus, diphtheria and mumps",
+    "Hepatitis B, rubella and polio",
+    "Measles, varicella and pertussis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#38d2a3",
+   "kind": "blank",
+   "stem": "After measles, varicella or pertussis, lung pathology may last ____.",
+   "answer": "months",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#dd3825",
+   "kind": "statement",
+   "stem": "In paediatric infectious diseases, which bacterial pneumonia with lung damage can complicate measles?",
+   "answer": "Staphylococcal pneumonia with bullous lung disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#e3f017",
+   "kind": "statement",
+   "stem": "Which serious heart complication can occur in severe forms of mumps and other infections?",
+   "answer": "Myocarditis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#a06787",
+   "kind": "statement",
+   "stem": "Which serious systemic complications can a severe childhood infection cause?",
+   "answer": "Septicaemia and multi-organ failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#dc3740",
+   "kind": "statement",
+   "stem": "In paediatric infectious diseases, who does immunisation protect?",
+   "answer": "The individual and the population",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#efa83c",
+   "kind": "mcq",
+   "stem": "In paediatric immunisation, how severe are post-vaccine symptoms usually?",
+   "options": [
+    "Mostly severe",
+    "Mostly mild",
+    "Usually life-threatening",
+    "Always absent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#efa83c",
+   "kind": "statement",
+   "stem": "Name typical mild local or behavioural symptoms after a childhood vaccine.",
+   "answer": "Local redness, swelling, irritability",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#c88da7",
+   "kind": "mcq",
+   "stem": "In paediatric immunisation, within what time do reactions to inactivated vaccines usually occur?",
+   "options": [
+    "Within 24 hours",
+    "Within 5 days",
+    "Within 2 weeks",
+    "Within 3 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#4c9a0d",
+   "kind": "statement",
+   "stem": "In paediatric immunisation, how far do anaesthesia and surgery suppress immunity?",
+   "answer": "Somewhat, in vitro",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#9d5066",
+   "kind": "statement",
+   "stem": "What problem can post-surgical fever cause in a child immunised shortly before surgery?",
+   "answer": "Diagnostic confusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#f2d368",
+   "kind": "statement",
+   "stem": "What is the state of research and practice on immunisation history and anaesthesia?",
+   "answer": "Little research and wide variation in practice",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#d7320a",
+   "kind": "mcq",
+   "stem": "In paediatric immunisation, how long after vaccination do some centres avoid elective anaesthesia?",
+   "options": [
+    "1-2 days",
+    "1-2 weeks",
+    "1-2 months",
+    "6-8 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/paediatric-infectious-diseases#2192b7",
+   "kind": "mcq",
+   "stem": "In paediatric immunisation, how long after anaesthesia should immunisation be delayed?",
+   "options": [
+    "Same day as anaesthesia",
+    "24 hours",
+    "1 week",
+    "3 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

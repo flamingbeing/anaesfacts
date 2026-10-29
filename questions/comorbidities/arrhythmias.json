@@ -1,0 +1,345 @@
+{
+ "topic": "comorbidities/arrhythmias",
+ "questions": [
+  {
+   "fact_id": "comorbidities/arrhythmias#9b2b7b",
+   "kind": "blank",
+   "stem": "In arrhythmias generally, ____ may need temporary pacing.",
+   "answer": "Bradycardias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#10fdc2",
+   "kind": "statement",
+   "stem": "In arrhythmias generally, which rhythms may need cardioversion or defibrillation?",
+   "answer": "VT and VF",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#158e2b",
+   "kind": "mcq",
+   "stem": "What QTc value defines long QT syndrome?",
+   "options": [
+    "QTc > 0.36 seconds",
+    "QTc > 0.50 seconds",
+    "QTc > 0.44 seconds",
+    "QTc > 0.30 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#2e53eb",
+   "kind": "statement",
+   "stem": "In arrhythmias, what is the main genetic cause?",
+   "answer": "Cardiac ion channel mutations (Na+, K+)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#9b44be",
+   "kind": "statement",
+   "stem": "In arrhythmias, name the four acquired causes.",
+   "answer": "Myocardial disease, electrolyte disturbance, drugs, head injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#bf290f",
+   "kind": "mcq",
+   "stem": "In arrhythmias, which of these is a myocardial disease cause?",
+   "options": [
+    "Pneumothorax",
+    "Pancreatitis",
+    "Cardiomyopathy",
+    "Asthma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#fe71b3",
+   "kind": "statement",
+   "stem": "In long QT syndrome, what prolongs myocyte repolarisation?",
+   "answer": "Faulty ion channels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#332724",
+   "kind": "blank",
+   "stem": "In long QT anaesthesia, avoid ____ drugs.",
+   "answer": "QT-prolonging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#d91f09",
+   "kind": "statement",
+   "stem": "In long QT anaesthesia, why should rises in sympathetic tone be avoided?",
+   "answer": "Anaesthetic and surgical stress can provoke torsades de pointes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#dc0b5a",
+   "kind": "mcq",
+   "stem": "In long QT anaesthesia, what should happen to long-term beta-blockade?",
+   "options": [
+    "Continue it where indicated",
+    "Stop it 48 hours before surgery",
+    "Switch to a calcium channel blocker",
+    "Double the dose on the day"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#576790",
+   "kind": "statement",
+   "stem": "In long QT preoperative assessment, which history points matter?",
+   "answer": "Syncope, exercise-induced syncope, cardiac arrest, family history",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#0a3391",
+   "kind": "mcq",
+   "stem": "In long QT, the preoperative clinical examination is often what?",
+   "options": [
+    "Abnormal with a murmur",
+    "Normal",
+    "Showing gross oedema",
+    "Showing wheezes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#7bdfe6",
+   "kind": "blank",
+   "stem": "In long QT, an ECG QT interval above ____ is abnormal.",
+   "answer": "440ms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#38edfe",
+   "kind": "mcq",
+   "stem": "What is the main treatment for congenital long QT syndrome?",
+   "options": [
+    "Calcium channel blockers",
+    "Beta-blockers",
+    "Potassium-sparing diuretics",
+    "Nitrate infusions"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#4c1841",
+   "kind": "mcq",
+   "stem": "In long QT, which premedicant is noted as safe?",
+   "options": [
+    "Droperidol",
+    "Haloperidol",
+    "Midazolam",
+    "Ondansetron"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#e4cfdd",
+   "kind": "statement",
+   "stem": "In long QT surgery, which three items should be ready in theatre?",
+   "answer": "Defibrillator with pads on, IV magnesium sulphate, arterial line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#fc7600",
+   "kind": "mcq",
+   "stem": "In long QT, what effect does hypothermia have on the QT interval?",
+   "options": [
+    "Shortens it",
+    "Prolongs it",
+    "No effect on it",
+    "Narrows the QRS"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#9cea4b",
+   "kind": "statement",
+   "stem": "In long QT, which drug properties should be avoided?",
+   "answer": "Further prolonging QTc, affecting cardiac ion channels, causing tachycardia, acting on the autonomic system",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#857d90",
+   "kind": "blank",
+   "stem": "Torsades de pointes is VT with ____ morphology.",
+   "answer": "twisting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#09a5ed",
+   "kind": "mcq",
+   "stem": "What is the treatment of torsades de pointes?",
+   "options": [
+    "Amiodarone infusion",
+    "Adenosine bolus",
+    "Sotalol infusion",
+    "MgSO4 bolus"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#b6a34c",
+   "kind": "mcq",
+   "stem": "In a stable patient, how is DC cardioversion for torsades best described?",
+   "options": [
+    "A first-line treatment",
+    "Routinely recommended",
+    "A last resort",
+    "Contraindicated outright"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#225d9a",
+   "kind": "mcq",
+   "stem": "Torsades de pointes can degenerate into which rhythm?",
+   "options": [
+    "Sinus bradycardia",
+    "Ventricular fibrillation",
+    "Atrial fibrillation",
+    "Supraventricular tachycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#f5ec6e",
+   "kind": "mcq",
+   "stem": "After long QT surgery, how long should ECG monitoring continue?",
+   "options": [
+    "24hrs",
+    "6hrs",
+    "12hrs",
+    "48hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#81ff66",
+   "kind": "mcq",
+   "stem": "Brugada syndrome is caused by an abnormality of which channel?",
+   "options": [
+    "Potassium channel",
+    "Calcium channel",
+    "Chloride channel",
+    "Sodium channel"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#d4fca9",
+   "kind": "statement",
+   "stem": "What ECG pattern is typical of Brugada syndrome?",
+   "answer": "ST elevation in V1 and V2 with partial RBBB pattern",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#6a809d",
+   "kind": "mcq",
+   "stem": "Brugada syndrome is common in which group?",
+   "options": [
+    "Elderly women",
+    "Asian men",
+    "Children under five",
+    "Young European women"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#a5aecd",
+   "kind": "blank",
+   "stem": "Brugada type 1 with syncope needs an ____.",
+   "answer": "ICD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#954fea",
+   "kind": "statement",
+   "stem": "Name the four triggers of Brugada syndrome events.",
+   "answer": "Vagal stimulation, fever, electrolyte disturbance, drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#e5d687",
+   "kind": "mcq",
+   "stem": "In Brugada syndrome, which drug should be avoided?",
+   "options": [
+    "Ondansetron",
+    "Dexamethasone",
+    "Paracetamol",
+    "Propofol infusion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#02774a",
+   "kind": "statement",
+   "stem": "How should anaesthetic drug choice be approached in Brugada syndrome?",
+   "answer": "Pragmatically, as evidence on anaesthetic drugs is unclear",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#52ada0",
+   "kind": "statement",
+   "stem": "In Brugada syndrome, what should be monitored closely during neck surgery?",
+   "answer": "ST elevation and vagal events",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/arrhythmias#f901be",
+   "kind": "blank",
+   "stem": "In Brugada syndrome, avoid ____ if possible.",
+   "answer": "pneumoperitoneum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "topic": "comorbidities/previous-stroke-and-tia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#10acd3",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, how long must a deficit from a cerebrovascular event last to count as a stroke (CVA)?",
+   "options": [
+    "Beyond 1hr",
+    "Beyond 24hrs",
+    "Beyond 7 days",
+    "Within 24hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#a11472",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, what defines a TIA?",
+   "options": [
+    "Persistent deficit with infarct on imaging",
+    "Focal deficit that resolves completely within 24 hours",
+    "Global confusion lasting several days",
+    "Haemorrhage causing a deficit beyond 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#979524",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, what annual stroke risk do these notes quote for the period afterwards?",
+   "options": [
+    "About 1% per year",
+    "About 5% per year",
+    "About 15% per year",
+    "About 50% per year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#7d011a",
+   "kind": "mcq",
+   "stem": "Which score is used to stratify all patients with previous stroke or TIA?",
+   "options": [
+    "CHA2DS2-VASc",
+    "Caprini score",
+    "ASA grade",
+    "ABCD2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#2f8ec8",
+   "kind": "mcq",
+   "stem": "Who should give input before surgery for previous stroke or TIA patients at high risk of recurrence?",
+   "options": [
+    "Cardiology input alone",
+    "Vascular surgery input alone",
+    "Neurology and multidisciplinary input",
+    "Psychiatry input alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#a0476f",
+   "kind": "statement",
+   "stem": "Before surgery in previous stroke or TIA, how should existing neurological deficits be handled?",
+   "answer": "Document them carefully",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#c5edd6",
+   "kind": "statement",
+   "stem": "In previous stroke or TIA, when is carotid duplex ultrasound advised before surgery?",
+   "answer": "If there is a bruit or significant peripheral vascular disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#303688",
+   "kind": "statement",
+   "stem": "Which posture-related cerebrovascular problem should be asked about before surgery in previous stroke or TIA?",
+   "answer": "Vertebrobasilar insufficiency brought on by posture or neck position",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#556bbc",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, what should happen to antiplatelet drugs around surgery?",
+   "options": [
+    "Stop them 7 days before surgery",
+    "Switch them to warfarin",
+    "Stop them on the day of surgery",
+    "Continue antiplatelets"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#71ab24",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, how close to baseline should blood pressure be kept during surgery?",
+   "options": [
+    "Within 20% of baseline",
+    "Within 50% of baseline",
+    "Within 40% of baseline",
+    "Within 5% of baseline"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#ae2f08",
+   "kind": "mcq",
+   "stem": "For neuroprotection in previous stroke or TIA surgery, which state should be avoided?",
+   "options": [
+    "Normothermia",
+    "Hyperthermia",
+    "Normocapnia",
+    "Normoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#973300",
+   "kind": "mcq",
+   "stem": "Why is BIS monitoring used during anaesthesia for previous stroke or TIA?",
+   "options": [
+    "To maximise burst suppression",
+    "To detect awareness only",
+    "To avoid burst suppression",
+    "To guide fluid therapy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#68a155",
+   "kind": "mcq",
+   "stem": "Which drug pair should be avoided in previous stroke or TIA because of delirium and cognitive dysfunction risk?",
+   "options": [
+    "Propofol and fentanyl",
+    "Sevoflurane and rocuronium",
+    "Remifentanil and propofol",
+    "Ketamine and midazolam"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#7db090",
+   "kind": "blank",
+   "stem": "In previous stroke or TIA, tranexamic acid is ____.",
+   "answer": "contraindicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#91664d",
+   "kind": "mcq",
+   "stem": "For surgery after previous stroke or TIA, which technique is preferred?",
+   "options": [
+    "General anaesthesia in all cases",
+    "Locoregional anaesthesia rather than general anaesthesia",
+    "Deep sedation without a regional block",
+    "Ketamine-based sedation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#232350",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, how should stroke-preventing drugs be handled around surgery?",
+   "options": [
+    "Stop them all 7 days before",
+    "Interrupt them as little as possible",
+    "Stop them all on the day of surgery",
+    "Replace them all with heparin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#8b486e",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, above what carotid stenosis is endarterectomy indicated regardless of symptoms?",
+   "options": [
+    "> 50%",
+    "> 60%",
+    "> 70%",
+    "> 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#8b486e",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, what carotid stenosis threshold applies when there are symptoms (TIA or stroke)?",
+   "options": [
+    "> 30%",
+    "> 50%",
+    "> 80%",
+    "> 90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#27af9d",
+   "kind": "statement",
+   "stem": "Why does surgical risk after a stroke or TIA fall as time passes?",
+   "answer": "Inflammation settles, haemorrhage risk drops and autoregulation recovers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#5b4331",
+   "kind": "mcq",
+   "stem": "What does the 2024 AHA/ASA advise for the delay before elective surgery after stroke?",
+   "options": [
+    "1 month",
+    "6 months",
+    "3 months",
+    "12 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#5892a0",
+   "kind": "mcq",
+   "stem": "What did the Medicare analysis (JAMA Surgery 2022) find about waiting 6 months or more after stroke?",
+   "options": [
+    "Substantially lowers stroke risk further",
+    "Adds little further risk reduction",
+    "Increases the risk of recurrent stroke",
+    "Doubles the stroke risk"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#503f51",
+   "kind": "mcq",
+   "stem": "According to the 2021 AHA/ASA, when does postoperative ischaemic stroke risk plateau after a stroke?",
+   "options": [
+    "1 month",
+    "6 months",
+    "9 months",
+    "18 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#07f72a",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, which surgery is acceptable within 1 month of the event?",
+   "options": [
+    "Only emergency or life-saving surgery",
+    "Elective joint replacement",
+    "Elective hernia repair",
+    "Any surgery under regional block"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#368dd5",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, what is the minimum delay for time-sensitive surgery such as cancer surgery?",
+   "options": [
+    "2 weeks",
+    "1 month",
+    "6 months",
+    "3 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/previous-stroke-and-tia#0ea56d",
+   "kind": "mcq",
+   "stem": "In previous stroke or TIA, what delay is preferred for purely elective surgery such as joint replacement?",
+   "options": [
+    "6–9 months",
+    "1–2 weeks",
+    "1–3 months",
+    "12–18 months"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,895 @@
+{
+ "topic": "airway/airway-topicalisation",
+ "questions": [
+  {
+   "fact_id": "airway/airway-topicalisation#e412ec",
+   "kind": "mcq",
+   "stem": "What is the maximum dose of topical lidocaine for adults in airway topicalisation?",
+   "options": [
+    "3 mg/kg",
+    "9 mg/kg",
+    "1.5 mg/kg",
+    "12 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#7db202",
+   "kind": "blank",
+   "stem": "In airway topicalisation, the maximum topical lidocaine dose for children is ____.",
+   "answer": "4.5 mg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#b00cbe",
+   "kind": "statement",
+   "stem": "In airway topicalisation, which agent is used to topicalise the nose?",
+   "answer": "Co-phenylcaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#423ee8",
+   "kind": "statement",
+   "stem": "In airway topicalisation, what is sprayed for the glossopharyngeal (IX) territory of the oropharynx?",
+   "answer": "The tonsillar pillars",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#6f8eb3",
+   "kind": "statement",
+   "stem": "In airway topicalisation, what is sprayed for the vagal (X) territory of the oropharynx?",
+   "answer": "The pharyngeal walls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#074306",
+   "kind": "statement",
+   "stem": "Which technique is used to topicalise the larynx above the cords, supplied by the superior laryngeal nerve?",
+   "answer": "Spray as you go (SAYGO)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#9fdbed",
+   "kind": "statement",
+   "stem": "Name two ways to topicalise the larynx below the cords, supplied by the recurrent laryngeal nerve.",
+   "answer": "SAYGO or transtracheal injection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#ae40f3",
+   "kind": "statement",
+   "stem": "In trismus, which two options are used when intra-oral local anaesthetic and blocks may be impossible?",
+   "answer": "Nebulised lidocaine or a transtracheal injection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#e84953",
+   "kind": "statement",
+   "stem": "Why must blood, secretions or vomit be cleared from the airway before topicalisation?",
+   "answer": "Otherwise the drug cannot reach the mucosa",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#19d293",
+   "kind": "statement",
+   "stem": "Which structures make up the upper airway in airway topicalisation?",
+   "answer": "Nasal and oral cavities, pharynx and larynx",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#2341d6",
+   "kind": "statement",
+   "stem": "Which three nerves supply sensation to the upper airway?",
+   "answer": "Trigeminal (V), glossopharyngeal (IX) and vagus (X)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#69fa70",
+   "kind": "mcq",
+   "stem": "In airway topicalisation, which nerve supplies the anterior part and septum of the nose?",
+   "options": [
+    "Lingual nerve",
+    "Superior laryngeal nerve",
+    "Glossopharyngeal nerve",
+    "Anterior ethmoidal nerve"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#4b56c7",
+   "kind": "statement",
+   "stem": "Which nerves supply the posterior part of the nose in airway topicalisation?",
+   "answer": "Greater and lesser palatine nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#d722e4",
+   "kind": "mcq",
+   "stem": "In airway topicalisation, which nerve supplies the anterior two-thirds of the tongue?",
+   "options": [
+    "Lingual nerve",
+    "Glossopharyngeal nerve",
+    "Superior laryngeal nerve",
+    "Greater palatine nerve"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#6d5235",
+   "kind": "mcq",
+   "stem": "How many milligrams of lidocaine does one spray of the 10% spray give?",
+   "options": [
+    "1 mg",
+    "10 mg",
+    "5 mg",
+    "20 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#2b53c6",
+   "kind": "blank",
+   "stem": "Each spray of the 5% spray within co-phenylcaine gives ____ of lidocaine.",
+   "answer": "5 mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#3efab5",
+   "kind": "mcq",
+   "stem": "What proportion of topical lidocaine is absorbed systemically from the upper airway?",
+   "options": [
+    "About 5%",
+    "About 10%",
+    "About 25%",
+    "About 50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#583346",
+   "kind": "statement",
+   "stem": "Why are topical lidocaine doses up to 9 mg/kg tolerated?",
+   "answer": "Limited systemic uptake from the upper airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#6fe873",
+   "kind": "statement",
+   "stem": "Why is a vasoconstrictor needed when topicalising the nose?",
+   "answer": "To reduce bleeding and shrink the mucosa, making room for the scope and tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#f74820",
+   "kind": "statement",
+   "stem": "Name the two vasoconstrictors used for nasal topicalisation, often combined with lidocaine.",
+   "answer": "Xylometazoline or phenylephrine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#74b73d",
+   "kind": "mcq",
+   "stem": "How much lidocaine does each squirt of co-phenylcaine give?",
+   "options": [
+    "2 mg",
+    "20 mg",
+    "5 mg",
+    "50 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#74b73d",
+   "kind": "blank",
+   "stem": "Each squirt of co-phenylcaine gives ____ of phenylephrine.",
+   "answer": "0.5 mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#37ae49",
+   "kind": "statement",
+   "stem": "In airway topicalisation, what must happen before instrumenting after applying the drug?",
+   "answer": "Wait for onset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#d33ecc",
+   "kind": "statement",
+   "stem": "Which local anaesthetic used in airway topicalisation is itself a vasoconstrictor?",
+   "answer": "Cocaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#e580b5",
+   "kind": "blank",
+   "stem": "The maximum recommended dose of topical cocaine is ____.",
+   "answer": "1.5 mg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#ed56da",
+   "kind": "statement",
+   "stem": "How does topical cocaine compare with lidocaine with phenylephrine for cardiovascular side effects?",
+   "answer": "More cardiovascular side effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#8a648b",
+   "kind": "statement",
+   "stem": "What is the total volume of Moffett's solution?",
+   "answer": "10 mL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#8a648b",
+   "kind": "mcq",
+   "stem": "How much adrenaline 1:1000 is in Moffett's solution?",
+   "options": [
+    "2 mL",
+    "5 mL",
+    "10 mL",
+    "1 mL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#184e54",
+   "kind": "blank",
+   "stem": "A nebuliser uses ____ of 4% lidocaine, driven by oxygen, in airway topicalisation.",
+   "answer": "5 mL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#184e54",
+   "kind": "blank",
+   "stem": "Oxygen-driven nebulised 4% lidocaine can run for up to ____.",
+   "answer": "30 minutes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#d8bbf6",
+   "kind": "statement",
+   "stem": "How far down the airway does nebulised lidocaine cover?",
+   "answer": "Down to the trachea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#3e668b",
+   "kind": "statement",
+   "stem": "When atomisers cannot be placed, nebulised lidocaine is good for which condition?",
+   "answer": "Trismus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#97f116",
+   "kind": "mcq",
+   "stem": "What position must the patient be in for a mask nebuliser to work?",
+   "options": [
+    "Lying flat",
+    "Sitting up",
+    "Head-down tilt",
+    "Prone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#70c116",
+   "kind": "statement",
+   "stem": "What can be soaked in local anaesthetic or lidocaine paste for direct contact topicalisation?",
+   "answer": "Ribbon gauze or cotton applicators",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#b8ca2c",
+   "kind": "statement",
+   "stem": "What does direct contact topicalisation with soaked applicators give?",
+   "answer": "Targeted numbing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#5a05fc",
+   "kind": "statement",
+   "stem": "Which two areas are sprayed straight from the local anaesthetic container?",
+   "answer": "Nasopharynx and oropharynx",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#703cf5",
+   "kind": "statement",
+   "stem": "When spraying from a container, what type of nozzle should be used?",
+   "answer": "A long nozzle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#e3ceb7",
+   "kind": "statement",
+   "stem": "How should the mucosa and cords be sprayed during topicalisation?",
+   "answer": "Directly under vision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#37012b",
+   "kind": "mcq",
+   "stem": "In airway topicalisation, which epidural catheter size is passed down the scope's working channel?",
+   "options": [
+    "14-gauge",
+    "18-gauge",
+    "16-gauge",
+    "20-gauge"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#37012b",
+   "kind": "statement",
+   "stem": "How far is the epidural catheter advanced down the scope's working channel?",
+   "answer": "Until its tip is just visible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#7476a8",
+   "kind": "mcq",
+   "stem": "In the oxygen-driven cannula set-up for airway topicalisation, what gauge cannula is used?",
+   "options": [
+    "16-gauge",
+    "18-gauge",
+    "20-gauge",
+    "24-gauge"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#7476a8",
+   "kind": "mcq",
+   "stem": "What oxygen flow rate is used with the oxygen-driven cannula set-up?",
+   "options": [
+    "0.5–1 L/min",
+    "2–4 L/min",
+    "6–8 L/min",
+    "10–15 L/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#e8ed15",
+   "kind": "blank",
+   "stem": "Local anaesthetic is given slowly from a ____ syringe on the cannula's top port.",
+   "answer": "5-mL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#a2a373",
+   "kind": "statement",
+   "stem": "In the cannula technique, the jet spray can be aimed at which mucosa?",
+   "answer": "Nasal and oral mucosa",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#c68a75",
+   "kind": "statement",
+   "stem": "Why must the tubing and cannula join be kept tight?",
+   "answer": "So no local anaesthetic leaks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#075768",
+   "kind": "statement",
+   "stem": "A commercial atomiser fitted to a syringe gives a mist like which technique?",
+   "answer": "McKenzie technique",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#415660",
+   "kind": "statement",
+   "stem": "What risk comes from blunted cough and swallow reflexes after topicalisation?",
+   "answer": "Aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#cfcc9c",
+   "kind": "statement",
+   "stem": "What transient problem can pharyngeal topicalisation cause at the glottis, from loss of reflex airway control?",
+   "answer": "Transient obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#c7febc",
+   "kind": "statement",
+   "stem": "What is the main benefit of landmark nerve blocks over topical anaesthesia alone?",
+   "answer": "Better airway anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#786fbe",
+   "kind": "statement",
+   "stem": "Why are landmark nerve blocks time consuming?",
+   "answer": "Several nerves must be blocked",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#a8661a",
+   "kind": "statement",
+   "stem": "Which landmark blocks anaesthetise the oropharynx and larynx?",
+   "answer": "Glossopharyngeal, superior laryngeal and translaryngeal blocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#53bca8",
+   "kind": "statement",
+   "stem": "How are the nasal nerves usually anaesthetised for awake nasal intubation?",
+   "answer": "Topically (inhalation, spray or soaked applicators)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#625b3d",
+   "kind": "statement",
+   "stem": "In airway topicalisation, which nerve is the sensory limb of the gag reflex?",
+   "answer": "Glossopharyngeal nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#b6ac36",
+   "kind": "statement",
+   "stem": "In the glossopharyngeal block, where is the easiest site to block?",
+   "answer": "Where it crosses the palatoglossal arch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#25fee1",
+   "kind": "statement",
+   "stem": "Besides injection, how can the glossopharyngeal nerve be anaesthetised?",
+   "answer": "Spray, soaked gauze or pledgets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#138c02",
+   "kind": "mcq",
+   "stem": "For the intraoral glossopharyngeal block, what volume of 2% lidocaine is injected submucosally?",
+   "options": [
+    "1 mL",
+    "2 mL",
+    "5 mL",
+    "10 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#138c02",
+   "kind": "blank",
+   "stem": "For the intraoral glossopharyngeal block, use a ____ needle.",
+   "answer": "22- or 25-gauge",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#226704",
+   "kind": "mcq",
+   "stem": "For the intraoral glossopharyngeal block, how far lateral to the tongue edge is the injection site?",
+   "options": [
+    "0.5 cm",
+    "1 cm",
+    "2 cm",
+    "5 cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#54a26d",
+   "kind": "mcq",
+   "stem": "In the peristyloid approach, how deep does the needle usually go to contact the styloid?",
+   "options": [
+    "0.5–1 cm",
+    "1–2 cm",
+    "3–4 cm",
+    "5–6 cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#54a26d",
+   "kind": "statement",
+   "stem": "In the peristyloid approach, how is the needle oriented to contact the styloid?",
+   "answer": "Perpendicular to the skin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#3cd314",
+   "kind": "mcq",
+   "stem": "In the peristyloid approach, what volume of 2% lidocaine is injected after walking off the styloid?",
+   "options": [
+    "2–3 mL",
+    "5–7 mL",
+    "10–12 mL",
+    "1–2 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#3cd314",
+   "kind": "statement",
+   "stem": "In the peristyloid approach, which way is the needle redirected after contacting the styloid?",
+   "answer": "Posteriorly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#598e8e",
+   "kind": "mcq",
+   "stem": "In airway topicalisation, how far below the greater cornu does the internal branch pierce the thyrohyoid membrane?",
+   "options": [
+    "1–2 mm",
+    "2–4 mm",
+    "1–2 cm",
+    "5–7 mm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#17f3bb",
+   "kind": "mcq",
+   "stem": "For the external approach, which needle gauge is used to reach the greater cornu?",
+   "options": [
+    "18-gauge",
+    "21-gauge",
+    "25-gauge",
+    "30-gauge"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#17f3bb",
+   "kind": "statement",
+   "stem": "In the external approach, which way is the hyoid pushed?",
+   "answer": "Towards the block side",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#c68f16",
+   "kind": "statement",
+   "stem": "In the external approach, injecting at the greater cornu blocks which two branches?",
+   "answer": "Internal and external branches",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#e9e6ec",
+   "kind": "statement",
+   "stem": "In the external approach, if the thyrohyoid membrane is pierced, what volumes are given?",
+   "answer": "2 mL there, then 2 mL while withdrawing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#2b39ed",
+   "kind": "mcq",
+   "stem": "In the internal approach to the superior laryngeal block, how long should the block be left?",
+   "options": [
+    "1-2 minutes",
+    "5-10 minutes",
+    "20-30 minutes",
+    "30-45 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#ac176b",
+   "kind": "mcq",
+   "stem": "Where does the recurrent laryngeal nerve run in the neck?",
+   "options": [
+    "carotid sheath",
+    "piriform recess",
+    "tracheo-oesophageal groove",
+    "thyrohyoid membrane"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#ac176b",
+   "kind": "statement",
+   "stem": "Which intrinsic laryngeal muscle is not supplied by the recurrent laryngeal nerve?",
+   "answer": "Cricothyroid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#cc5563",
+   "kind": "statement",
+   "stem": "Why should the recurrent laryngeal nerve never be blocked directly?",
+   "answer": "Motor and sensory fibres run together, so bilateral cord palsy and obstruction can follow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#7ac02e",
+   "kind": "mcq",
+   "stem": "For the transtracheal block, which needle gauges are used?",
+   "options": [
+    "18 or 16 gauge",
+    "22 or 20 gauge",
+    "25 or 27 gauge",
+    "14 or 12 gauge"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#e86e0f",
+   "kind": "mcq",
+   "stem": "In the transtracheal block, what volume of 4% lidocaine is injected rapidly?",
+   "options": [
+    "2 mL",
+    "5 mL",
+    "10 mL",
+    "20 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#e86e0f",
+   "kind": "statement",
+   "stem": "After a transtracheal injection, what spreads the drug through the airway?",
+   "answer": "The cough",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#bf6e12",
+   "kind": "statement",
+   "stem": "In the posterior nose, between which turbinates does the ganglion lie?",
+   "answer": "Upper and middle turbinates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#a964c5",
+   "kind": "blank",
+   "stem": "In landmark airway topicalisation, local anaesthetic can be given by a soaked cotton-tipped applicator or an ____ spray.",
+   "answer": "atomiser",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#ed4fbd",
+   "kind": "mcq",
+   "stem": "What is the onset of landmark nerve blocks used for airway topicalisation?",
+   "options": [
+    "Immediate, within 30 seconds",
+    "Slow, over several minutes",
+    "Within one to two minutes",
+    "Slow, over several hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#6b61da",
+   "kind": "statement",
+   "stem": "In ultrasound-guided airway topicalisation, what does ultrasound locate for a translaryngeal block?",
+   "answer": "The cricothyroid membrane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#b61b2d",
+   "kind": "statement",
+   "stem": "Which structures are visible on ultrasound during airway topicalisation nerve blocks?",
+   "answer": "Hyoid bone, thyroid cartilage, thyrohyoid membrane, superior laryngeal artery, superior laryngeal nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#2f6901",
+   "kind": "mcq",
+   "stem": "When is ultrasound guidance most useful for airway topicalisation nerve blocks?",
+   "options": [
+    "When landmarks are easy to feel, as in slim patients",
+    "When the procedure is very short",
+    "When landmarks are hard to feel, e.g. obesity",
+    "When the block is needed without any local anaesthetic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#064dd8",
+   "kind": "blank",
+   "stem": "In ultrasound-guided airway topicalisation, the superior laryngeal nerve lies ____ to the thyrohyoid membrane.",
+   "answer": "superficial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#cc20a0",
+   "kind": "statement",
+   "stem": "Which branch of the superior laryngeal nerve runs with the superior laryngeal artery just below the greater cornu?",
+   "answer": "Internal branch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#28a2cf",
+   "kind": "blank",
+   "stem": "To find the greater cornu by ultrasound, start with the midline ____, a bright curved line, then slide laterally.",
+   "answer": "hyoid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#9af472",
+   "kind": "mcq",
+   "stem": "How much local anaesthetic is injected for an in-plane ultrasound superior laryngeal nerve block after negative aspiration?",
+   "options": [
+    "5–10 mL",
+    "1–2 mL",
+    "10–20 mL",
+    "0.1–0.2 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#44247f",
+   "kind": "mcq",
+   "stem": "What success rate is reported for ultrasound-guided superior laryngeal nerve block?",
+   "options": [
+    "About 50%",
+    "About 60%",
+    "Over 90%",
+    "About 30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#a5312b",
+   "kind": "statement",
+   "stem": "Which probe orientation finds the space over the thyroid cartilage and hyoid in ultrasound-guided airway topicalisation?",
+   "answer": "Parasagittal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#9775fe",
+   "kind": "blank",
+   "stem": "In ultrasound-guided airway topicalisation, as the needle passes through the thyrohyoid membrane you feel a ____.",
+   "answer": "pop",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#12e310",
+   "kind": "mcq",
+   "stem": "On a longitudinal midline airway ultrasound, moving cranially from the tracheal rings, which cartilage is seen next?",
+   "options": [
+    "Thyroid cartilage",
+    "Cricoid cartilage",
+    "Hyoid bone",
+    "Epiglottis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#d35690",
+   "kind": "mcq",
+   "stem": "In airway topicalisation, where does the cricothyroid membrane lie?",
+   "options": [
+    "Between the hyoid bone and thyroid cartilage",
+    "Between the first and second tracheal rings",
+    "Between the lower border of thyroid cartilage and upper border of cricoid",
+    "Between the cricoid and the tracheal rings"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#3965c8",
+   "kind": "statement",
+   "stem": "In ultrasound-guided airway topicalisation, what is done after the cricothyroid membrane is centred on screen?",
+   "answer": "Mark the skin, then do the block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/airway-topicalisation#fa0e83",
+   "kind": "statement",
+   "stem": "In real-time ultrasound-guided airway topicalisation, where should the needle enter?",
+   "answer": "Just cranial to the cricoid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

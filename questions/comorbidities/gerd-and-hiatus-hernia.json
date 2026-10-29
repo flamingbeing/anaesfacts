@@ -1,0 +1,221 @@
+{
+ "topic": "comorbidities/gerd-and-hiatus-hernia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#828eb6",
+   "kind": "statement",
+   "stem": "In GERD and hiatus hernia, what is the main anaesthetic concern?",
+   "answer": "Aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#de7571",
+   "kind": "statement",
+   "stem": "In GERD, how do oesophagitis and stricture add to anaesthetic risk?",
+   "answer": "They can dilate the oesophagus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#bb6ef6",
+   "kind": "mcq",
+   "stem": "What aspirate volume is thought needed for aspiration pneumonitis?",
+   "options": [
+    "At least 0.1 ml/kg",
+    "At least 4 ml/kg",
+    "At least 0.4 ml/kg",
+    "At least 1 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#bb6ef6",
+   "kind": "mcq",
+   "stem": "In a 70 kg adult, what aspirate volume is thought needed for aspiration pneumonitis?",
+   "options": [
+    "About 3 ml",
+    "About 60 ml",
+    "About 30 ml",
+    "About 100 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#82d438",
+   "kind": "mcq",
+   "stem": "What gastric pH is thought needed for aspiration pneumonitis?",
+   "options": [
+    "pH below 4.5",
+    "pH below 7.0",
+    "pH below 2.5",
+    "pH below 1.0"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#752195",
+   "kind": "statement",
+   "stem": "Besides aspiration, what other complications of GERD matter anaesthetically?",
+   "answer": "Extra-oesophageal and respiratory complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#5f00ad",
+   "kind": "statement",
+   "stem": "In GERD, how is it decided whether reflux medication is given before surgery?",
+   "answer": "It depends on the operation and anaesthetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#d9569c",
+   "kind": "mcq",
+   "stem": "What do H2 antagonists do before surgery in GERD?",
+   "options": [
+    "Reduce acid secretion and raise gastric pH",
+    "Increase acid secretion and lower gastric pH",
+    "Increase lower oesophageal sphincter tone",
+    "Speed up gastric emptying"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#d23eb2",
+   "kind": "mcq",
+   "stem": "How soon after a cimetidine dose does its effect start?",
+   "options": [
+    "Within 5 minutes",
+    "1-1.5 hours",
+    "6-8 hours",
+    "24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#d23eb2",
+   "kind": "mcq",
+   "stem": "How long does a cimetidine dose last?",
+   "options": [
+    "About 30 minutes",
+    "About 3 hours",
+    "About 12 hours",
+    "About 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#33b8f7",
+   "kind": "mcq",
+   "stem": "How much more potent is ranitidine than cimetidine?",
+   "options": [
+    "2-3 times",
+    "4-6 times",
+    "10-12 times",
+    "Half as potent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#33b8f7",
+   "kind": "statement",
+   "stem": "How does ranitidine compare with cimetidine for side effects?",
+   "answer": "Fewer side effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#dd8f8d",
+   "kind": "mcq",
+   "stem": "What is an example preoperative ranitidine regimen in GERD?",
+   "options": [
+    "150 mg at 2 pm and 8 pm",
+    "50 mg at 10 pm only",
+    "300 mg at 6 am only",
+    "150 mg at 10 pm and 6 am"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#66987f",
+   "kind": "mcq",
+   "stem": "When are proton pump inhibitors usually given before GERD surgery?",
+   "options": [
+    "Only on the morning of surgery",
+    "One week before surgery",
+    "Only during induction",
+    "The night before and the morning of surgery"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#ddb9d5",
+   "kind": "mcq",
+   "stem": "Which oral non-particulate antacid raises gastric pH before GERD surgery?",
+   "options": [
+    "Magnesium trisilicate",
+    "Sodium citrate",
+    "Aluminium hydroxide gel",
+    "Calcium carbonate tablets"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#7ddbcd",
+   "kind": "mcq",
+   "stem": "In GERD, which induction technique is usual?",
+   "options": [
+    "Slow inhalational induction with spontaneous breathing",
+    "Rapid sequence induction with prompt tracheal intubation",
+    "Awake fibreoptic intubation",
+    "Sedation with supraglottic airway only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#c69a79",
+   "kind": "mcq",
+   "stem": "What does suxamethonium do to lower oesophageal sphincter and intragastric pressures?",
+   "options": [
+    "Raises only lower oesophageal sphincter pressure",
+    "Lowers both lower oesophageal sphincter and intragastric pressure",
+    "Raises both lower oesophageal sphincter and intragastric pressure",
+    "Has no effect on either pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/gerd-and-hiatus-hernia#ef2710",
+   "kind": "statement",
+   "stem": "In GERD, when is tracheal intubation essential?",
+   "answer": "When aspiration is a risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

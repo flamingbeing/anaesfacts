@@ -1,0 +1,149 @@
+{
+ "topic": "comorbidities/aortic-regurgitation",
+ "questions": [
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#447992",
+   "kind": "statement",
+   "stem": "Which guideline is used to grade the severity of aortic regurgitation?",
+   "answer": "2020 AHA valve guideline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#fe26a0",
+   "kind": "mcq",
+   "stem": "Symptomatic severe aortic regurgitation meets valve intervention criteria. What is advised before elective non-cardiac surgery?",
+   "options": [
+    "Proceed with surgery and reassess afterwards",
+    "Treat with diuretics and proceed with surgery",
+    "Valve intervention before the elective surgery",
+    "Defer any valve decision until after surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#a0575c",
+   "kind": "mcq",
+   "stem": "In symptomatic aortic regurgitation, at what functional capacity is valve replacement needed before elective surgery?",
+   "options": [
+    "Above 4 METS",
+    "Above 6 METS",
+    "Below 4 METS",
+    "Above 10 METS"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#2c1341",
+   "kind": "mcq",
+   "stem": "In aortic regurgitation, why should premedication be considered?",
+   "options": [
+    "To prevent bradycardia at induction",
+    "To raise systemic vascular resistance",
+    "To deepen anaesthesia before induction",
+    "To avoid sympathetic rises in SVR"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#fd12bc",
+   "kind": "blank",
+   "stem": "In aortic regurgitation, intraoperative monitoring uses a ____ ECG with standard ASA monitoring (NIBP, SpO2).",
+   "answer": "5-lead",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#b7d673",
+   "kind": "mcq",
+   "stem": "How are neuraxial blocks tolerated in aortic regurgitation?",
+   "options": [
+    "Well tolerated",
+    "Poorly tolerated",
+    "Absolutely contraindicated",
+    "Not tolerated under sedation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#5191c8",
+   "kind": "mcq",
+   "stem": "What heart rate range is the intraoperative target in aortic regurgitation?",
+   "options": [
+    "80-90 bpm",
+    "60-70 bpm",
+    "100-110 bpm",
+    "40-50 bpm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#5191c8",
+   "kind": "mcq",
+   "stem": "How is persistent bradycardia treated intraoperatively in aortic regurgitation?",
+   "options": [
+    "Beta-blocker or calcium channel blocker",
+    "Vasodilator infusion or diuretic",
+    "Phenylephrine infusion or fluid bolus",
+    "Beta-agonist or anticholinergic"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#c7df08",
+   "kind": "statement",
+   "stem": "In aortic regurgitation, why is starting cardiopulmonary bypass a critical step?",
+   "answer": "Bradycardia or VF lets the LV fill rapidly through the leaking valve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#433392",
+   "kind": "mcq",
+   "stem": "In aortic regurgitation on cardiopulmonary bypass, myocardial protection is what compared with usual?",
+   "options": [
+    "Easier than usual",
+    "Unchanged from usual",
+    "Not needed on bypass",
+    "Harder than usual"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#e6adc1",
+   "kind": "mcq",
+   "stem": "Why are inotropes often needed after aortic valve replacement for aortic regurgitation?",
+   "options": [
+    "LV work rises as the low-impedance run-off is lost",
+    "LV work falls as the pressure gradient disappears",
+    "The heart rate drops below the target range",
+    "Pulmonary vascular resistance rises after surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/aortic-regurgitation#34fd2b",
+   "kind": "statement",
+   "stem": "In aortic regurgitation with an aortic suture line, why treat hypertension quickly?",
+   "answer": "To avoid bleeding and dissection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

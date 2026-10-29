@@ -1,0 +1,249 @@
+{
+ "topic": "comorbidities/hyperthyroidism",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hyperthyroidism#dc4ec6",
+   "kind": "statement",
+   "stem": "Preoperative preparation of a hyperthyroid patient should aim for what state?",
+   "answer": "Clinical and biochemical euthyroidism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#72447d",
+   "kind": "mcq",
+   "stem": "Which acute complication must anaesthetists watch for in a hyperthyroid patient?",
+   "options": [
+    "Myxoedema coma",
+    "Thyroid storm",
+    "Adrenal crisis",
+    "Hypoglycaemic coma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#4a2995",
+   "kind": "mcq",
+   "stem": "In overt thyrotoxicosis, what is the TSH level?",
+   "options": [
+    "Greater than 0.5 mIU/L",
+    "Between 0.4 and 4 mIU/L",
+    "Less than 0.01 mIU/L",
+    "Greater than 10 mIU/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#4a2995",
+   "kind": "statement",
+   "stem": "In overt thyrotoxicosis, which two thyroid hormones are raised?",
+   "answer": "Free T4 and free T3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#01ba5a",
+   "kind": "mcq",
+   "stem": "In T3 thyrotoxicosis, what is the free T4 level?",
+   "options": [
+    "Raised",
+    "Suppressed",
+    "Low",
+    "Normal"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#b3d58c",
+   "kind": "mcq",
+   "stem": "In subclinical hyperthyroidism, what are the free T3 and free T4 levels?",
+   "options": [
+    "Both raised",
+    "Both normal",
+    "Both suppressed",
+    "Both low"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#b4b404",
+   "kind": "statement",
+   "stem": "What term describes the organ effects of long-standing hyperthyroidism?",
+   "answer": "End-organ effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#8b3b10",
+   "kind": "mcq",
+   "stem": "In hyperthyroidism, how do VO2 and VCO2 change?",
+   "options": [
+    "Both decrease",
+    "Both remain unchanged",
+    "Both increase",
+    "Both fall sharply"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#8c8e94",
+   "kind": "mcq",
+   "stem": "How long may antithyroid drugs take to establish euthyroidism before surgery in hyperthyroidism?",
+   "options": [
+    "1-2 days",
+    "12-24 h",
+    "3-8 weeks",
+    "6-10 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#5d2201",
+   "kind": "mcq",
+   "stem": "How soon does beta-blockade with propranolol become effective in hyperthyroidism?",
+   "options": [
+    "3-4 weeks",
+    "12-24 h",
+    "6-10 weeks",
+    "1-2 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#2862eb",
+   "kind": "mcq",
+   "stem": "How long does carbimazole take to work in hyperthyroidism?",
+   "options": [
+    "3-4 weeks",
+    "12-24 h",
+    "6-10 weeks",
+    "1-2 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#2862eb",
+   "kind": "mcq",
+   "stem": "Which antithyroid drug acts faster than carbimazole in hyperthyroidism?",
+   "options": [
+    "Iodine",
+    "Propranolol",
+    "PTU",
+    "Levothyroxine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#845d59",
+   "kind": "mcq",
+   "stem": "How long does iodine take to show a clinical effect in hyperthyroidism?",
+   "options": [
+    "3-4 weeks",
+    "6-10 weeks",
+    "12-24 h",
+    "1-2 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#32eabb",
+   "kind": "statement",
+   "stem": "In a hyperthyroid patient with a goitre, what should be examined in the upper airway?",
+   "answer": "Tracheal compression or deviation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#5cf467",
+   "kind": "statement",
+   "stem": "In hyperthyroidism, what other type of disease should be looked for preoperatively?",
+   "answer": "Autoimmune disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#16859f",
+   "kind": "statement",
+   "stem": "Which three blood tests assess thyroid status in hyperthyroidism before surgery?",
+   "answer": "TSH, free T4 and free T3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#a1b383",
+   "kind": "mcq",
+   "stem": "In hyperthyroidism, what should happen to beta-blockers around surgery?",
+   "options": [
+    "Stop them two days before surgery",
+    "Start them only after surgery",
+    "Continue them perioperatively",
+    "Replace them with calcium channel blockers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#6634c0",
+   "kind": "mcq",
+   "stem": "In hyperthyroidism, which variable must be monitored during and after surgery because of hyperthermia risk?",
+   "options": [
+    "Blood glucose",
+    "Urine output",
+    "Temperature",
+    "Central venous pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#1f0c3d",
+   "kind": "mcq",
+   "stem": "For a hyperthyroid patient with proptosis, which intraoperative step is critical?",
+   "options": [
+    "Routine arterial line placement",
+    "Nasogastric tube insertion",
+    "Eye protection with drops, lubricant or pads",
+    "Early bladder catheterisation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyperthyroidism#a8cb8c",
+   "kind": "mcq",
+   "stem": "How should thyroid storm be classed in a hyperthyroid patient?",
+   "options": [
+    "A routine outpatient problem",
+    "A medical emergency",
+    "A minor self-limiting complication",
+    "A benign stable condition"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,241 @@
+{
+ "topic": "airway/inhalational-induction",
+ "questions": [
+  {
+   "fact_id": "airway/inhalational-induction#4c1b04",
+   "kind": "statement",
+   "stem": "In paediatric anaesthesia, why is inhalational induction a common choice?",
+   "answer": "It is painless and needle-free.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#0cbcb6",
+   "kind": "statement",
+   "stem": "What key benefit does inhalational induction offer in a difficult airway?",
+   "answer": "It keeps spontaneous ventilation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#a02c3d",
+   "kind": "statement",
+   "stem": "What advantage of inhalational induction relates to the depth of anaesthesia?",
+   "answer": "Depth can be changed gradually, with cardiovascular stability.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#9efcc1",
+   "kind": "statement",
+   "stem": "Which bronchial effect do volatile agents and propofol share?",
+   "answer": "Potent bronchodilation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#9b7347",
+   "kind": "statement",
+   "stem": "Why may children find inhalational induction distressing?",
+   "answer": "They may fear the mask; the unfamiliar smell causes anxiety.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#72d148",
+   "kind": "statement",
+   "stem": "Compared with IV induction, what is a disadvantage of inhalational induction?",
+   "answer": "Slower and possibly less smooth induction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#65ce5f",
+   "kind": "statement",
+   "stem": "Compared with propofol, which airway problems are more likely with inhalational induction?",
+   "answer": "More laryngospasm, bronchospasm, severe coughing and desaturation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#3b472e",
+   "kind": "statement",
+   "stem": "In which patients should inhalational induction not be used?",
+   "answer": "Rapid sequence induction or full stomach.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#7d0c29",
+   "kind": "statement",
+   "stem": "What is the main airway risk of inhalational induction in obstructive sleep apnoea?",
+   "answer": "Airway obstruction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#ab290e",
+   "kind": "mcq",
+   "stem": "Why is sevoflurane the usual agent for inhalational induction?",
+   "options": [
+    "Strongly pungent with high blood:gas solubility",
+    "Not pungent, low blood:gas solubility, smooth induction",
+    "Irritant with slow, rough induction",
+    "Rapid onset but high blood:gas solubility"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#be5e4a",
+   "kind": "statement",
+   "stem": "In tidal volume inhalational induction, how is the agent delivered?",
+   "answer": "Normal breathing through a face mask.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#48c652",
+   "kind": "statement",
+   "stem": "In vital capacity inhalational induction, what does the patient do first?",
+   "answer": "Exhale to residual volume.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#450882",
+   "kind": "mcq",
+   "stem": "In inhalational induction, what high delivered sevoflurane concentration is used?",
+   "options": [
+    "2%",
+    "4%",
+    "8%",
+    "12%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#2de951",
+   "kind": "statement",
+   "stem": "What effect does adding nitrous oxide have on inhalational induction?",
+   "answer": "It speeds induction (second-gas effect).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#9e1be3",
+   "kind": "statement",
+   "stem": "For which airway procedures is inhalational induction suitable?",
+   "answer": "LMA insertion or intubation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#4f3841",
+   "kind": "mcq",
+   "stem": "Intubating on sevoflurane alone needs what depth of anaesthesia?",
+   "options": [
+    "MAC 0.5",
+    "MAC 1.0",
+    "MAC 2.0",
+    "MAC 3.0"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#4f3841",
+   "kind": "statement",
+   "stem": "Why is hypotension more likely when intubating on sevoflurane alone?",
+   "answer": "Deep anaesthesia is needed, typically MAC 2.0.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#2ebbbd",
+   "kind": "statement",
+   "stem": "What is co-induction in inhalational or IV induction?",
+   "answer": "Combining drugs for a greater effect than each alone.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#09f726",
+   "kind": "statement",
+   "stem": "When is co-induction useful?",
+   "answer": "When haemodynamically unstable or when spontaneous ventilation is wanted.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#fc5015",
+   "kind": "mcq",
+   "stem": "What is an example co-induction regimen using sevoflurane and propofol?",
+   "options": [
+    "Sevoflurane 8%, then propofol 2mg/kg",
+    "Sevoflurane 2%, then propofol 0.25mg/kg",
+    "Propofol 2mg/kg alone, then sevoflurane 8%",
+    "Sevoflurane 4%, then propofol 0.75 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#cf3a87",
+   "kind": "statement",
+   "stem": "Historically, what role did inhalational induction have in difficult airway management?",
+   "answer": "The technique of choice.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#c95473",
+   "kind": "statement",
+   "stem": "In a difficult airway, what oxygenation advantage does inhalational induction offer?",
+   "answer": "Spontaneous ventilation, and so oxygenation, is more likely kept.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#901da2",
+   "kind": "statement",
+   "stem": "In a difficult airway, what makes inhalational induction slow to reach depth?",
+   "answer": "Longer stage 2 and laryngospasm; obstruction makes it slower still.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#dd4f7e",
+   "kind": "mcq",
+   "stem": "In NAP4, in how many of 16 inhalational inductions was the airway compromised?",
+   "options": [
+    "6",
+    "9",
+    "12",
+    "14"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/inhalational-induction#dd4f7e",
+   "kind": "mcq",
+   "stem": "In NAP4, in how many of 16 inhalational inductions was spontaneous ventilation lost?",
+   "options": [
+    "7",
+    "9",
+    "11",
+    "13"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "topic": "comorbidities/heart-failure",
+ "questions": [
+  {
+   "fact_id": "comorbidities/heart-failure#3e9e1a",
+   "kind": "statement",
+   "stem": "How should heart failure severity be graded before surgery?",
+   "answer": "NYHA class and NT-proBNP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#a06c4c",
+   "kind": "mcq",
+   "stem": "How do neuraxial techniques help patients with heart failure?",
+   "options": [
+    "By increasing systemic vascular resistance",
+    "By raising preload sharply",
+    "By reducing afterload",
+    "By slowing heart rate below 40"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#dc67ad",
+   "kind": "mcq",
+   "stem": "What fluid approach is advised for heart failure patients during surgery?",
+   "options": [
+    "Large routine fluid boluses regardless of output",
+    "Fluid restriction with no monitoring",
+    "Careful, goal-directed fluids with cardiac output monitoring",
+    "Maximal fluid loading before induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#d08bc1",
+   "kind": "mcq",
+   "stem": "How should induction be performed in heart failure?",
+   "options": [
+    "Rapid bolus with full dose",
+    "Slow and titrated",
+    "Single large dose all at once",
+    "Maximal dose for fast onset"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#e226fd",
+   "kind": "statement",
+   "stem": "In heart failure, which balance should be optimised to protect the myocardium?",
+   "answer": "Myocardial oxygen supply and demand",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#96185b",
+   "kind": "mcq",
+   "stem": "How long before surgery should SGLT2 inhibitors be withheld in heart failure?",
+   "options": [
+    "24hrs",
+    "7 days",
+    "72hrs",
+    "12hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#2aa21e",
+   "kind": "mcq",
+   "stem": "What do the terms 'wet' and 'cold' describe in heart failure patients?",
+   "options": [
+    "Euvolaemic and well perfused",
+    "Congested and poorly perfused",
+    "Hypothermic and dehydrated",
+    "Oedematous and hyperthermic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#cf979e",
+   "kind": "mcq",
+   "stem": "What is advised for elective non-cardiac surgery in new or decompensated heart failure?",
+   "options": [
+    "Advised without delay",
+    "Advised after one week",
+    "Advised once NT-proBNP is normal",
+    "Not advised"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#aab047",
+   "kind": "mcq",
+   "stem": "How long should elective surgery be delayed after new or decompensated heart failure?",
+   "options": [
+    "1-3 weeks",
+    "6-12 months",
+    "2-5 days",
+    "1-3 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#157be8",
+   "kind": "statement",
+   "stem": "In the Killip classification for heart failure, what chest finding defines class II?",
+   "answer": "Crackles or wheeze in less than the lower half of lung fields, or S3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#03ebe8",
+   "kind": "mcq",
+   "stem": "In heart failure, what does ESC 2022 advise NT-proBNP is useful for?",
+   "options": [
+    "Diagnosing valve disease only",
+    "Measuring drug levels",
+    "Prognosis as well as screening",
+    "Monitoring renal clearance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#5ea25f",
+   "kind": "statement",
+   "stem": "What volume status should be aimed for in heart failure before surgery?",
+   "answer": "Euvolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#9625d9",
+   "kind": "mcq",
+   "stem": "What intraoperative ECG monitoring is recommended in heart failure?",
+   "options": [
+    "3-lead ECG without ST analysis",
+    "12-lead ECG only at induction",
+    "5-lead ECG with ST analysis",
+    "Pulse oximetry alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#b25cc8",
+   "kind": "mcq",
+   "stem": "What fluid complication should be avoided during heart failure surgery?",
+   "options": [
+    "Dehydration",
+    "Hypernatraemia",
+    "Fluid overload",
+    "Hypokalaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#ae5eee",
+   "kind": "mcq",
+   "stem": "How does good pain control help a heart failure patient during surgery?",
+   "options": [
+    "Increases sympathetic tone",
+    "Raises afterload deliberately",
+    "Prevents sympathetic surges",
+    "Causes bradycardia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#a1c9df",
+   "kind": "mcq",
+   "stem": "What extubation strategy is suggested for heart failure patients?",
+   "options": [
+    "Always extubate fully awake without support",
+    "Reintubate routinely after extubation",
+    "Avoid all supplemental oxygen",
+    "Consider extubating onto NIV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#384dd5",
+   "kind": "mcq",
+   "stem": "What postoperative monitoring is advised for heart failure patients?",
+   "options": [
+    "Routine fluid restriction without charting",
+    "Only weekly urine output checks",
+    "Strict fluid input and output monitoring",
+    "No fluid charting after recovery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/heart-failure#ef2bce",
+   "kind": "mcq",
+   "stem": "Why should pain be treated well after heart failure surgery?",
+   "options": [
+    "Pain lowers heart failure risk",
+    "Pain only affects wound healing",
+    "Pain prevents fluid retention",
+    "Pain can worsen heart failure haemodynamically"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "topic": "comorbidities/recent-urti",
+ "questions": [
+  {
+   "fact_id": "comorbidities/recent-urti#63a751",
+   "kind": "statement",
+   "stem": "Which viruses commonly cause upper respiratory tract infection in children?",
+   "answer": "Rhinovirus, adenovirus, parainfluenza, RSV in infants and influenza.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#d9c4fb",
+   "kind": "mcq",
+   "stem": "In a child's anaesthetic assessment, how recent does a URTI need to be to count as recent?",
+   "options": [
+    "Within 1 week",
+    "Within 6 months",
+    "Within 24 hours",
+    "Within 2 weeks (up to 4 weeks)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#b95b87",
+   "kind": "mcq",
+   "stem": "After a child's URTI, for how long does airway risk stay raised?",
+   "options": [
+    "1-2 days afterwards",
+    "Only during the acute infection",
+    "2-6 weeks afterwards",
+    "2-6 months afterwards"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#30d986",
+   "kind": "statement",
+   "stem": "Why are nasopharyngeal swabs rarely used to confirm a child's URTI before anaesthesia?",
+   "answer": "They are rarely needed, costly and impractical.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#b492da",
+   "kind": "statement",
+   "stem": "If a child's examination suggests lower respiratory tract involvement, which investigations should be considered?",
+   "answer": "Chest X-ray and full blood count (FBC).",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#b2246c",
+   "kind": "statement",
+   "stem": "What causes airway hyper-reactivity after a viral URTI?",
+   "answer": "Chemical mediators and neural reflexes.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#1b4d3c",
+   "kind": "statement",
+   "stem": "Which inflammatory mediators released at sites of viral damage cause bronchoconstriction after a URTI?",
+   "answer": "Bradykinin, prostaglandins, histamine and interleukins.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#3bb4a7",
+   "kind": "statement",
+   "stem": "How might viral neuraminidase cause bronchoconstriction after a child's URTI?",
+   "answer": "It may inhibit M2 muscarinic receptors, so more acetylcholine is released.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#0e6595",
+   "kind": "statement",
+   "stem": "Which features point to allergic rhinitis rather than a recent URTI in a child?",
+   "answer": "Chronic, may be seasonal, child well, clear history from parents.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#932e93",
+   "kind": "mcq",
+   "stem": "In a systemically well child, how much does a recent URTI raise airway and respiratory complications?",
+   "options": [
+    "About 2-fold",
+    "About 20-fold",
+    "5-7 times",
+    "No real increase"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#85833f",
+   "kind": "mcq",
+   "stem": "How much does an endotracheal tube raise airway complication risk after a child's URTI?",
+   "options": [
+    "About 2-fold",
+    "About 10-fold",
+    "About 50-fold",
+    "No change"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#33ecf2",
+   "kind": "mcq",
+   "stem": "How does lower respiratory tract infection change airway risk in a child with a recent URTI?",
+   "options": [
+    "Risk is unchanged",
+    "Risk is higher still",
+    "Risk falls to baseline",
+    "Risk is halved"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#a1f943",
+   "kind": "statement",
+   "stem": "What cardiac problems can viraemia cause in a child with a recent URTI under anaesthesia?",
+   "answer": "Carditis and arrhythmias.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#9019a1",
+   "kind": "statement",
+   "stem": "Why might cancelling a child's surgery for a cold alone be a mistake?",
+   "answer": "Delay may cause complications of the underlying surgical problem.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#4a3295",
+   "kind": "mcq",
+   "stem": "Roughly how many colds a year can a preschool child have?",
+   "options": [
+    "Up to two",
+    "Up to eight",
+    "Up to three",
+    "Up to twenty"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#20e417",
+   "kind": "statement",
+   "stem": "How should the decision to proceed with a child's surgery after a URTI be made?",
+   "answer": "Shared decision with the surgeon and fully informed parents, documented.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#1e7799",
+   "kind": "blank",
+   "stem": "In a child with a URTI, a systemic feature favouring cancellation is fever above ____.",
+   "answer": "38°C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#236cde",
+   "kind": "mcq",
+   "stem": "After a URTI, which age group carries the higher anaesthetic airway risk?",
+   "options": [
+    "Over 5 years",
+    "Aged 8 to 10 years",
+    "Under 1 year",
+    "Aged 12 to 14 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#290d7a",
+   "kind": "statement",
+   "stem": "Compared with an LMA, which airway choice carries more risk after a child's URTI?",
+   "answer": "Tracheal intubation, especially under 5 years.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#d10a86",
+   "kind": "mcq",
+   "stem": "How many URTI episodes a year make a symptom-free gap hard to find before surgery?",
+   "options": [
+    "1-2 episodes per year",
+    "6-8 episodes per year",
+    "10-12 episodes per year",
+    "One episode every five years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#ff64bc",
+   "kind": "mcq",
+   "stem": "How long after the first day of URTI symptoms should a child's elective surgery be postponed?",
+   "options": [
+    "More than 48 hours",
+    "More than 1 week",
+    "More than 4 weeks",
+    "Within 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#16ddfa",
+   "kind": "mcq",
+   "stem": "After the last day of a child's URTI symptoms, how long should elective surgery be postponed?",
+   "options": [
+    "Same day as symptoms end",
+    "Within 48 hours",
+    "More than 1 day",
+    "More than 2 weeks"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#33fbbf",
+   "kind": "mcq",
+   "stem": "Which bronchodilator may be considered before surgery in a child with a recent URTI?",
+   "options": [
+    "Ketamine",
+    "Salbutamol",
+    "Neostigmine",
+    "Ondansetron"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#a12d96",
+   "kind": "mcq",
+   "stem": "Why might atropine be considered before surgery in a child with a recent URTI?",
+   "options": [
+    "To increase airway secretions",
+    "To sedate the child",
+    "To reduce vagal reflex bronchoconstriction",
+    "To reverse neuromuscular block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#a2d985",
+   "kind": "statement",
+   "stem": "When should a child with a recent URTI be extubated?",
+   "answer": "Deep or fully awake, never in stage 2.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#b376e7",
+   "kind": "statement",
+   "stem": "What is the main postoperative aim after a child's URTI?",
+   "answer": "Respiratory risk reduction and reducing airway irritability.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/recent-urti#c374bf",
+   "kind": "statement",
+   "stem": "How should an adult with a chronic cough be managed?",
+   "answer": "Look for a cause and consider respiratory referral.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

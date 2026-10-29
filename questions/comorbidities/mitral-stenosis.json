@@ -1,0 +1,277 @@
+{
+ "topic": "comorbidities/mitral-stenosis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/mitral-stenosis#ac4bd2",
+   "kind": "mcq",
+   "stem": "In mitral stenosis, which valve area defines severe disease?",
+   "options": [
+    "Greater than 1.5 cm²",
+    "Greater than 2.5 cm²",
+    "Less than 1.5 cm²",
+    "Less than 0.5 cm²"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#721222",
+   "kind": "mcq",
+   "stem": "Which cardiac rhythm is ideal in mitral stenosis?",
+   "options": [
+    "Atrial fibrillation",
+    "Sinus rhythm",
+    "Junctional rhythm",
+    "Ventricular paced rhythm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#390f8c",
+   "kind": "statement",
+   "stem": "In mitral stenosis, which two complications should be watched for?",
+   "answer": "Pulmonary hypertension and RV failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#d12e7b",
+   "kind": "mcq",
+   "stem": "Before 2014, what pressure half-time defined severe mitral stenosis?",
+   "options": [
+    "220ms",
+    "100ms",
+    "180ms",
+    "300ms"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#fb644b",
+   "kind": "statement",
+   "stem": "Why is pressure half-time used to grade mitral stenosis instead of the pressure gradient?",
+   "answer": "The gradient depends heavily on heart rate, while equalisation rate stays fairly constant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#c0f5ac",
+   "kind": "statement",
+   "stem": "Mitral stenosis is often well tolerated. Which subtle signs should be looked for preoperatively?",
+   "answer": "Dyspnoea, fatigue, recurrent chest infections",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#a6d93a",
+   "kind": "mcq",
+   "stem": "In mitral stenosis, which signs suggest the right ventricle is failing?",
+   "options": [
+    "Bounding pulse and wide pulse pressure",
+    "Stridor and hoarse voice",
+    "Raised JVP and peripheral oedema",
+    "Cyanosis and finger clubbing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#69efb7",
+   "kind": "mcq",
+   "stem": "In asymptomatic mitral stenosis, at what systolic PA pressure is non-cardiac surgery considered safe?",
+   "options": [
+    "More than 50 mm Hg",
+    "More than 70 mm Hg",
+    "More than 90 mm Hg",
+    "Less than 50 mm Hg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#4093c6",
+   "kind": "blank",
+   "stem": "In mitral stenosis, premedication should be given with ____.",
+   "answer": "caution",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#860dbb",
+   "kind": "statement",
+   "stem": "Why is atrial fibrillation common in mitral stenosis?",
+   "answer": "A dilated left atrium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#073edd",
+   "kind": "blank",
+   "stem": "In mitral stenosis, intraoperative monitoring uses a ____ ECG.",
+   "answer": "5-lead",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#b914eb",
+   "kind": "statement",
+   "stem": "Which monitoring guides fluid management intraoperatively in mitral stenosis?",
+   "answer": "CVP or PA catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#2113b1",
+   "kind": "statement",
+   "stem": "In mitral stenosis, which anaesthetic technique should be used where possible?",
+   "answer": "Local or peripheral nerve block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#4c6064",
+   "kind": "statement",
+   "stem": "In significant mitral stenosis, which anaesthetic technique is relatively contraindicated?",
+   "answer": "Spinal anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#72aaf6",
+   "kind": "blank",
+   "stem": "In mitral stenosis, a slowly titrated ____ has been used successfully.",
+   "answer": "epidural",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#120300",
+   "kind": "mcq",
+   "stem": "In mitral stenosis, which heart rate is preferred intraoperatively?",
+   "options": [
+    "Low-normal heart rate",
+    "High heart rate to keep output up",
+    "Fast heart rate above 110",
+    "Very slow heart rate below 40"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#ecb104",
+   "kind": "statement",
+   "stem": "Why should falls in systemic vascular resistance be avoided in mitral stenosis?",
+   "answer": "Cardiac output is fixed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#37e61e",
+   "kind": "blank",
+   "stem": "In mitral stenosis, intraoperative fluid management should maintain ____.",
+   "answer": "preload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#256dd1",
+   "kind": "mcq",
+   "stem": "In mitral stenosis, what share of ventricular filling comes from the atrial kick?",
+   "options": [
+    "10%",
+    "25%",
+    "40%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#965104",
+   "kind": "statement",
+   "stem": "Because of left atrial stasis in mitral stenosis, what should be checked for on echo?",
+   "answer": "Atrial thrombus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#d46106",
+   "kind": "statement",
+   "stem": "In mitral stenosis surgery, what should be avoided before cross-clamp?",
+   "answer": "Handling the heart",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#fc04fc",
+   "kind": "mcq",
+   "stem": "After bypass in mitral stenosis surgery, which drug class is often needed for RV failure?",
+   "options": [
+    "Beta-blockers",
+    "Inotropes",
+    "Loop diuretics",
+    "Calcium channel blockers"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#c9b7cf",
+   "kind": "statement",
+   "stem": "In mitral stenosis, which device may be considered for afterload reduction and better systemic perfusion?",
+   "answer": "IABP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#25e979",
+   "kind": "statement",
+   "stem": "After surgery in mitral stenosis, where are patients usually cared for unless the surgery is very minor?",
+   "answer": "High-dependency unit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#577e2c",
+   "kind": "statement",
+   "stem": "What should recovery staff be told to avoid in mitral stenosis?",
+   "answer": "Fluid boluses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#4c629a",
+   "kind": "statement",
+   "stem": "After surgery in mitral stenosis, what should any hypotension trigger?",
+   "answer": "Anaesthetic review and prompt treatment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#407eba",
+   "kind": "statement",
+   "stem": "Which AHA year's severity tables are cited for mitral stenosis?",
+   "answer": "AHA 2020",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/mitral-stenosis#c8ebd2",
+   "kind": "statement",
+   "stem": "Which AHA year's algorithm is cited for preoperative assessment in mitral stenosis?",
+   "answer": "AHA 2024",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

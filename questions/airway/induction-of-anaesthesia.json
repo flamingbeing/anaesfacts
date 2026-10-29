@@ -1,0 +1,463 @@
+{
+ "topic": "airway/induction-of-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "airway/induction-of-anaesthesia#61952a",
+   "kind": "mcq",
+   "stem": "What does induction of general anaesthesia mean?",
+   "options": [
+    "Waking the patient after surgery",
+    "Starting a general anaesthetic",
+    "Reversing neuromuscular blockade",
+    "Giving local anaesthetic at incision"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#da1153",
+   "kind": "mcq",
+   "stem": "Induction of general anaesthesia takes a patient from consciousness to what state?",
+   "options": [
+    "Light sedation only",
+    "A surgical plane of anaesthesia",
+    "Full recovery from anaesthesia",
+    "Local anaesthesia without sedation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#291e12",
+   "kind": "statement",
+   "stem": "In a difficult airway, what is the alternative to a standard induction?",
+   "answer": "Awake intubation with airway topicalisation and/or sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#02b8a0",
+   "kind": "blank",
+   "stem": "Induction of anaesthesia aims to blunt ____, including laryngospasm.",
+   "answer": "airway reflexes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#52dfdd",
+   "kind": "mcq",
+   "stem": "Induction aims to blunt which response to airway instrumentation?",
+   "options": [
+    "Gastric acid secretion",
+    "Renal blood flow",
+    "The haemodynamic response",
+    "Bowel peristalsis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#6f02a1",
+   "kind": "statement",
+   "stem": "During induction, which two patient responses is the anaesthetist trying to avoid?",
+   "answer": "Coughing and bucking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#05a6ef",
+   "kind": "statement",
+   "stem": "Induction aims for what level of relaxation?",
+   "answer": "Enough for laryngoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#29d5a5",
+   "kind": "mcq",
+   "stem": "Which induction goal concerns the patient's own experience?",
+   "options": [
+    "Faster theatre turnover",
+    "Lower cardiac output",
+    "Patient comfort",
+    "Shorter recovery time"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#d2497a",
+   "kind": "mcq",
+   "stem": "Routine induction for intubation with neuromuscular blockade uses which version of the anaesthetic triad?",
+   "options": [
+    "Sedation, amnesia, hypotension",
+    "Analgesia, hypothermia, paralysis",
+    "Hypnosis, analgesia, paralysis",
+    "Hypnosis, hypotension, paralysis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#9e422f",
+   "kind": "mcq",
+   "stem": "For routine induction with neuromuscular blockade, which IV agent is most commonly used?",
+   "options": [
+    "Thiopentone",
+    "Ketamine",
+    "Etomidate",
+    "Propofol"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#630978",
+   "kind": "mcq",
+   "stem": "For routine induction, which opioid is most commonly used?",
+   "options": [
+    "Morphine",
+    "Pethidine",
+    "Fentanyl",
+    "Tramadol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#6855a6",
+   "kind": "statement",
+   "stem": "Which drugs can be given as co-induction or pretreatment before induction?",
+   "answer": "Fentanyl, lidocaine, midazolam",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#31d369",
+   "kind": "mcq",
+   "stem": "Which opioid used at induction can cause chest wall rigidity and bradycardia?",
+   "options": [
+    "Morphine",
+    "Remifentanil",
+    "Pethidine",
+    "Tramadol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#49f7f4",
+   "kind": "mcq",
+   "stem": "Which reversal agent and dose immediately reverses rocuronium?",
+   "options": [
+    "Neostigmine 2.5mg",
+    "Sugammadex 2mg/kg",
+    "Sugammadex 16mg/kg",
+    "Flumazenil 0.2mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#71a311",
+   "kind": "mcq",
+   "stem": "How long does suxamethonium paralysis take to wear off?",
+   "options": [
+    "About 30 minutes",
+    "About 10 minutes",
+    "About 1 hour",
+    "About 3 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#678f88",
+   "kind": "blank",
+   "stem": "After suxamethonium, breathing returns in 8–10 minutes but takes much longer with low plasma ____.",
+   "answer": "cholinesterase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#ca32c1",
+   "kind": "mcq",
+   "stem": "What is the traditional IV lidocaine pretreatment dose before induction?",
+   "options": [
+    "0.5mg/kg IV",
+    "1.5mg/kg IV",
+    "3mg/kg IV",
+    "10mg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#9c852f",
+   "kind": "mcq",
+   "stem": "In traditional pretreatment, what is the IV defasciculating dose of rocuronium?",
+   "options": [
+    "0.5 mg/kg IV",
+    "0.1 mg/kg IV",
+    "1 mg/kg IV",
+    "0.05 mg/kg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#926d04",
+   "kind": "mcq",
+   "stem": "What is the traditional IV atropine pretreatment dose before induction?",
+   "options": [
+    "10 mcg/kg IV",
+    "50 mcg/kg IV",
+    "20 mcg/kg IV",
+    "1 mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#9213bb",
+   "kind": "mcq",
+   "stem": "In routine induction sequenced by onset time, which drug is given first unless RSI is needed?",
+   "options": [
+    "Propofol",
+    "Fentanyl",
+    "Rocuronium",
+    "Lidocaine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#8a1178",
+   "kind": "mcq",
+   "stem": "In routine induction sequenced by onset time, which IV agent follows the first opioid step?",
+   "options": [
+    "Suxamethonium",
+    "Propofol",
+    "Alfentanil",
+    "Atracurium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#a55cf6",
+   "kind": "mcq",
+   "stem": "In routine induction sequenced by onset time, what is done after the propofol step?",
+   "options": [
+    "Give sugammadex to reverse",
+    "Attempt mask ventilation",
+    "Insert the laryngeal mask",
+    "Give the opioid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#13e96f",
+   "kind": "mcq",
+   "stem": "In routine induction, how long does rocuronium take to work after it is given?",
+   "options": [
+    "2-3mins",
+    "1min",
+    "5mins",
+    "10mins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#13e96f",
+   "kind": "mcq",
+   "stem": "In routine induction, how long does atracurium take to work after it is given?",
+   "options": [
+    "1min",
+    "5mins",
+    "2-3mins",
+    "10mins"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#76d7e9",
+   "kind": "mcq",
+   "stem": "In traditional teaching for induction, when is the neuromuscular blocker held back?",
+   "options": [
+    "Until mask ventilation is proven",
+    "Before the propofol is given",
+    "Only after the tracheal tube is placed",
+    "Before any opioid is given"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#6a1fb7",
+   "kind": "statement",
+   "stem": "In practice, how often is the patient woken after failed mask ventilation at induction?",
+   "answer": "Rarely",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#490946",
+   "kind": "mcq",
+   "stem": "Compared with withholding it, what does giving neuromuscular blockade before mask ventilation do?",
+   "options": [
+    "Makes mask ventilation harder",
+    "Has no effect on mask ventilation",
+    "Makes mask ventilation easier",
+    "Only changes the time to waking"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#d09220",
+   "kind": "mcq",
+   "stem": "In unexpected airway difficulty after rocuronium, what sugammadex dose gives reversal within minutes?",
+   "options": [
+    "4mg/kg",
+    "8mg/kg",
+    "16mg/kg",
+    "1mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#0833d5",
+   "kind": "blank",
+   "stem": "In unexpected airway difficulty, even after paralysis is reversed, effects of the induction agent such as ____ persist.",
+   "answer": "propofol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#5753de",
+   "kind": "statement",
+   "stem": "In unexpected airway difficulty after induction, why should you not wait for spontaneous breathing to return?",
+   "answer": "Restoring airway tone and breathing soon after induction is very difficult; front-of-neck access is more reliable.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#a95d0b",
+   "kind": "statement",
+   "stem": "Compared with laryngoscopy, why does induction for LMA insertion need less opioid and induction agent?",
+   "answer": "LMA insertion is less stimulating than laryngoscopy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#c3259b",
+   "kind": "blank",
+   "stem": "Induction for LMA insertion needs no ____.",
+   "answer": "muscle relaxant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#88c1a1",
+   "kind": "statement",
+   "stem": "In induction for LMA insertion, what breathing pattern can be the aim from the start?",
+   "answer": "Spontaneous ventilation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#f97bfc",
+   "kind": "statement",
+   "stem": "In specific induction situations, what should happen before induction, balanced against surgical urgency?",
+   "answer": "Resuscitate and prepare before induction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#1de982",
+   "kind": "statement",
+   "stem": "In specific induction situations, what alternative to IV induction may be more stable?",
+   "answer": "Induction by inhalation down the tube.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#d50f68",
+   "kind": "statement",
+   "stem": "If a patient is already on propofol sedation before induction, what should you do?",
+   "answer": "Increase the propofol infusion.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#c39550",
+   "kind": "mcq",
+   "stem": "In specific induction situations, what higher propofol induction dose is used?",
+   "options": [
+    "0.5mg/kg",
+    "1mg/kg",
+    "5mg/kg",
+    "0.1mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#253932",
+   "kind": "statement",
+   "stem": "In specific induction situations, what should be drawn up in advance?",
+   "answer": "A flush.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#264842",
+   "kind": "mcq",
+   "stem": "Which induction agent was the traditional gold standard, before propofol was shown to be safe?",
+   "options": [
+    "Etomidate",
+    "Thiopentone",
+    "Ketamine",
+    "Midazolam"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/induction-of-anaesthesia#294608",
+   "kind": "statement",
+   "stem": "In induction of anaesthesia for a baby still in utero, when should opioids be avoided?",
+   "answer": "Until the baby is delivered.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

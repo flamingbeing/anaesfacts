@@ -1,0 +1,651 @@
+{
+ "topic": "comorbidities/asthma",
+ "questions": [
+  {
+   "fact_id": "comorbidities/asthma#251ff1",
+   "kind": "statement",
+   "stem": "In asthma before elective surgery, which history should prompt a higher-risk assessment of control?",
+   "answer": "Previous ICU admissions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#683de2",
+   "kind": "blank",
+   "stem": "In asthma pre-anaesthetic review, ask about triggers and ____ tolerance.",
+   "answer": "NSAID",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#eedd5c",
+   "kind": "mcq",
+   "stem": "In asthma with a recent upper respiratory infection, what should be considered about elective surgery?",
+   "options": [
+    "Proceed without any change to plan",
+    "Give steroids and proceed the same day",
+    "Low threshold to postpone surgery",
+    "Cancel only if fever is present"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#e6b590",
+   "kind": "blank",
+   "stem": "In asthma, inhalers should be on call to ____, with salbutamol on standby.",
+   "answer": "theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#3e6ef4",
+   "kind": "statement",
+   "stem": "In asthma anaesthesia, when should the airway be instrumented?",
+   "answer": "Only when deep",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#8ea483",
+   "kind": "mcq",
+   "stem": "In asthma, which airway device should be used if possible?",
+   "options": [
+    "Oropharyngeal airway",
+    "LMA",
+    "Double-lumen tube",
+    "Nasopharyngeal airway"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#23bffd",
+   "kind": "blank",
+   "stem": "In asthma, ____ is the best induction agent in this setting.",
+   "answer": "Ketamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#781cfa",
+   "kind": "statement",
+   "stem": "In asthma ventilation, which phase of the breath should be prolonged?",
+   "answer": "Expiratory time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#5c0cb8",
+   "kind": "blank",
+   "stem": "In asthma, avoid NSAIDs, atracurium, morphine and ____.",
+   "answer": "desflurane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#5c0cb8",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker should be avoided in asthma?",
+   "options": [
+    "Rocuronium",
+    "Atracurium",
+    "Vecuronium",
+    "Suxamethonium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#133125",
+   "kind": "blank",
+   "stem": "In asthma, beware the ____ chest.",
+   "answer": "silent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#6a5d8d",
+   "kind": "mcq",
+   "stem": "In asthma with bronchospasm, which capnograph waveform should be looked for?",
+   "options": [
+    "Square-wave trace",
+    "Shark-fin trace",
+    "Flat trace with no waveform",
+    "Double-hump trace"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#e13c41",
+   "kind": "mcq",
+   "stem": "In asthma bronchospasm, which drug is first line, given via a spacer?",
+   "options": [
+    "Ipratropium",
+    "Aminophylline",
+    "Salbutamol",
+    "Hydrocortisone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#8e54dc",
+   "kind": "blank",
+   "stem": "In asthma bronchospasm, consider intravenous ____.",
+   "answer": "magnesium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#79f991",
+   "kind": "blank",
+   "stem": "In asthma bronchospasm, consider intravenous ____ as well as magnesium.",
+   "answer": "ketamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ba0b22",
+   "kind": "blank",
+   "stem": "In asthma bronchospasm, the notes list IV ____.",
+   "answer": "adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ecfed7",
+   "kind": "mcq",
+   "stem": "In asthma bronchospasm, which of these is a further treatment option?",
+   "options": [
+    "Morphine",
+    "Aminophylline",
+    "Desflurane",
+    "Atracurium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#71a196",
+   "kind": "statement",
+   "stem": "Before elective surgery, what two aspects of asthma should be assessed?",
+   "answer": "Severity and control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#7f8299",
+   "kind": "blank",
+   "stem": "In asthma, salbutamol and a ____ should be on standby.",
+   "answer": "spacer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#8305be",
+   "kind": "statement",
+   "stem": "In asthma, what should be ensured before airway instrumentation?",
+   "answer": "Adequate depth of anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#f5024e",
+   "kind": "statement",
+   "stem": "Besides NSAIDs and desflurane, which drug group should be avoided in asthma?",
+   "answer": "Histamine-releasing drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#4240d7",
+   "kind": "mcq",
+   "stem": "In asthma ventilation, which expiratory setting is recommended?",
+   "options": [
+    "Short expiratory time",
+    "Equal inspiratory and expiratory times",
+    "Long expiratory time",
+    "Inspiratory time longer than expiratory"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#d9d469",
+   "kind": "blank",
+   "stem": "In asthma, aim for a smooth ____ with deep suctioning.",
+   "answer": "emergence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#0acbb1",
+   "kind": "statement",
+   "stem": "What should an anaesthetist have ready for an asthmatic patient in case of bronchospasm?",
+   "answer": "A bronchospasm plan",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#726350",
+   "kind": "statement",
+   "stem": "In asthma, what causes chronic reversible airway obstruction?",
+   "answer": "Inflammation and hyper-responsiveness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#a68235",
+   "kind": "mcq",
+   "stem": "Which features are typical of asthma episodes?",
+   "options": [
+    "Alveolar fibrosis, clubbing and crackles",
+    "Pleural effusion, fever and pleuritic pain",
+    "Airway oedema, bronchoconstriction, cough and wheeze",
+    "Bradycardia, hypotension and flushing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#0ad5ba",
+   "kind": "statement",
+   "stem": "In asthma, which symptom may be the only one, typically at night?",
+   "answer": "Nocturnal cough",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#b05c5d",
+   "kind": "statement",
+   "stem": "What does asthma treatment aim to reduce?",
+   "answer": "Airway inflammation and irritability",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#34390d",
+   "kind": "mcq",
+   "stem": "In asthma during routine surgery, bronchospasm or laryngospasm occurs in about what percentage?",
+   "options": [
+    "About 0.2%",
+    "About 20%",
+    "About 2%",
+    "About 50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#723836",
+   "kind": "statement",
+   "stem": "In asthma preoperative assessment, besides severity, what should be judged about current treatment?",
+   "answer": "How well it works and whether more is needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ce9963",
+   "kind": "statement",
+   "stem": "Before elective surgery, what should be done with asthma therapy?",
+   "answer": "Optimise therapy so asthma is well controlled",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#86b1c2",
+   "kind": "mcq",
+   "stem": "In asthma, what should wheeze and peak flow look like before elective surgery?",
+   "options": [
+    "Wheeze present but PEFR above 80%",
+    "No wheeze and PEFR above 50% of predicted",
+    "No wheeze and PEFR above 60% of predicted",
+    "No wheeze and PEFR above 80% of predicted or personal best"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#c5fc95",
+   "kind": "blank",
+   "stem": "Asthma preoperative assessment looks at severity and ____.",
+   "answer": "control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#b4512b",
+   "kind": "statement",
+   "stem": "Before surgery, which asthma treatment should the patient be most adherent to?",
+   "answer": "Controller therapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ddaa87",
+   "kind": "statement",
+   "stem": "Why may asthma patients on oral steroids need steroid replacement around surgery?",
+   "answer": "To prevent adrenal crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ac97e3",
+   "kind": "blank",
+   "stem": "Asthma triggers include URTI, cold, exercise and ____.",
+   "answer": "pollen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#29b3b3",
+   "kind": "mcq",
+   "stem": "In asthma, which drug tolerance should be checked before surgery?",
+   "options": [
+    "Penicillin tolerance",
+    "Iodine tolerance",
+    "NSAID tolerance",
+    "Caffeine tolerance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#3e1612",
+   "kind": "blank",
+   "stem": "In asthma, a recent URTI means a low threshold to ____ elective surgery.",
+   "answer": "postpone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#be6c39",
+   "kind": "statement",
+   "stem": "In asthma, which blood test often tracks airway inflammation?",
+   "answer": "Blood eosinophils",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#be6c39",
+   "kind": "statement",
+   "stem": "In asthma, what does airway hyperreactivity indirectly reflect?",
+   "answer": "Disease activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#1327cc",
+   "kind": "statement",
+   "stem": "Before major asthma surgery, which lung function test may be useful, and when?",
+   "answer": "Spirometry before and after bronchodilator",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#54cde7",
+   "kind": "mcq",
+   "stem": "In asthma, which spirometry values signal raised risk of respiratory complications?",
+   "options": [
+    "FEV1 or FVC above 80% predicted, or FEV1:FVC above 75% predicted",
+    "FEV1 below 50% predicted, or FEV1:FVC below 40% predicted",
+    "FEV1 or FVC below 90% predicted, or FEV1:FVC below 80% predicted",
+    "FEV1 or FVC below 70% predicted, or FEV1:FVC below 65% predicted"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#e9bc98",
+   "kind": "statement",
+   "stem": "In asthma, when is an arterial blood gas needed?",
+   "answer": "Only if ventilation or oxygenation is in doubt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#561a09",
+   "kind": "statement",
+   "stem": "In asthma, until when should anti-inflammatory and bronchodilator therapy continue?",
+   "answer": "Up to induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ad518e",
+   "kind": "statement",
+   "stem": "Before surgery, a short oral steroid course may help which asthma patients?",
+   "answer": "Selected patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#3c9ec9",
+   "kind": "mcq",
+   "stem": "In asthma, which steroid history needs stress-dose cover?",
+   "options": [
+    "Inhaled steroids alone, any dose",
+    "Low-dose inhaled steroids for years",
+    "Systemic steroids over 2 years ago",
+    "High-dose systemic steroids in the past 6 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#3c9ec9",
+   "kind": "blank",
+   "stem": "After high-dose systemic steroids in the past 6 months, give stress-dose hydrocortisone or ____.",
+   "answer": "methylprednisolone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#b02368",
+   "kind": "mcq",
+   "stem": "In asthma, how often do inhaled steroids alone suppress the HPA axis?",
+   "options": [
+    "Very often",
+    "In most patients",
+    "Very rarely",
+    "Only after surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#cf89d3",
+   "kind": "statement",
+   "stem": "In asthma, what do most well-controlled asthmatics need for the anaesthetic technique?",
+   "answer": "No change to the usual technique",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#37fe9e",
+   "kind": "statement",
+   "stem": "In asthma, for which patients do technique changes matter most?",
+   "answer": "Severe asthma or a symptomatic child needing urgent surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#42665a",
+   "kind": "blank",
+   "stem": "In asthma, give an inhaled or nebulised beta agonist ____ minutes before surgery.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#b1a8c2",
+   "kind": "statement",
+   "stem": "In asthma, what two things should be adequate before airway instrumentation?",
+   "answer": "Depth and analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#8f15d7",
+   "kind": "statement",
+   "stem": "In asthma, what should be kept adequate during maintenance of anaesthesia?",
+   "answer": "Anaesthesia and analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ac4bcf",
+   "kind": "statement",
+   "stem": "In asthma, what should be done with inspired gases, especially in exercise-induced asthma?",
+   "answer": "Humidify and warm them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ac4bcf",
+   "kind": "statement",
+   "stem": "In exercise-induced asthma, why are inspired gases warmed?",
+   "answer": "Heat loss from the mucosa",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#385cfe",
+   "kind": "blank",
+   "stem": "In asthma, give hydrocortisone ____ at induction.",
+   "answer": "100mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#8003b0",
+   "kind": "statement",
+   "stem": "On the ventilator in asthma, what should be allowed?",
+   "answer": "Enough expiratory time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ee332a",
+   "kind": "mcq",
+   "stem": "In asthma during anaesthesia, which three problems should be suspected?",
+   "options": [
+    "Hypoglycaemia, fever and hypothermia",
+    "Bronchospasm, anaphylaxis and laryngospasm",
+    "Hypertension, tachycardia and arrhythmia",
+    "Pneumothorax, pulmonary oedema and pleural effusion"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#a2dbde",
+   "kind": "statement",
+   "stem": "In asthma, what should be ensured before extubation?",
+   "answer": "Good analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#813ac6",
+   "kind": "statement",
+   "stem": "In severe asthma, what type of drug should be chosen to limit postoperative respiratory depression?",
+   "answer": "Short-acting drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#0b9e41",
+   "kind": "statement",
+   "stem": "When ventilating an asthmatic in bronchospasm, what must be given to prevent air trapping?",
+   "answer": "Enough time to exhale",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#77986f",
+   "kind": "mcq",
+   "stem": "In asthma bronchospasm, what prolonged I:E ratio is used on the ventilator?",
+   "options": [
+    "1:1 to 1:2",
+    "1:8 to 1:10",
+    "1:3 - 1:5",
+    "2:1 to 3:1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#51613a",
+   "kind": "blank",
+   "stem": "Postoperatively in asthma, monitor for bronchospasm, sputum ____, atelectasis, infection and respiratory failure.",
+   "answer": "retention",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ba81e9",
+   "kind": "statement",
+   "stem": "Where should a patient with severe asthma be managed after surgery?",
+   "answer": "ICU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#bb7ff9",
+   "kind": "statement",
+   "stem": "Postoperatively in asthma, which regional technique is used if indicated?",
+   "answer": "Epidural analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#ddb8c7",
+   "kind": "mcq",
+   "stem": "In asthma after surgery, how often should the steroid dose be reviewed?",
+   "options": [
+    "Weekly",
+    "Only at discharge",
+    "Monthly",
+    "Daily"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#b5520a",
+   "kind": "statement",
+   "stem": "Regarding children with asthma, how common is it and what is the trend?",
+   "answer": "Common and probably increasing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/asthma#2b9117",
+   "kind": "statement",
+   "stem": "Children with asthma are often atopic, with allergies including which material used in theatre?",
+   "answer": "Latex",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

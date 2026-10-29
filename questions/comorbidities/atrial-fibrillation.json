@@ -1,0 +1,401 @@
+{
+ "topic": "comorbidities/atrial-fibrillation",
+ "questions": [
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#dca1f5",
+   "kind": "statement",
+   "stem": "In perioperative atrial fibrillation, which underlying causes may need treating?",
+   "answer": "Electrolytes, sepsis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#9a9d9a",
+   "kind": "mcq",
+   "stem": "Atrial fibrillation is critical (unstable) at what heart rate, or with symptoms?",
+   "options": [
+    "Above 130",
+    "Above 90",
+    "Above 150",
+    "Above 110"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#123f0a",
+   "kind": "statement",
+   "stem": "Which complications can atrial fibrillation cause in the perioperative period?",
+   "answer": "Myocardial ischaemia, more cardiac events, embolism, stroke",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#e091d2",
+   "kind": "blank",
+   "stem": "Drug management of perioperative atrial fibrillation includes rate control, ____ (consider bridging) and electrolytes.",
+   "answer": "anticoagulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#7b4569",
+   "kind": "mcq",
+   "stem": "When can elective surgery proceed in atrial fibrillation?",
+   "options": [
+    "Heart rate below 130, asymptomatic, no heart failure",
+    "Heart rate above 110 with new symptoms",
+    "Any heart rate once anticoagulated",
+    "Heart rate below 110, asymptomatic, no heart failure"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#ce173d",
+   "kind": "mcq",
+   "stem": "In atrial fibrillation, what should happen to rate control around surgery?",
+   "options": [
+    "Stop it the morning of surgery",
+    "Pause it until full recovery",
+    "Continue it perioperatively",
+    "Switch to digoxin only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#5b2647",
+   "kind": "mcq",
+   "stem": "Which score is used to assess thrombotic risk in atrial fibrillation before surgery?",
+   "options": [
+    "HAS-BLED",
+    "CURB-65",
+    "CHA2DS2-VASc",
+    "Wells score"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#5fc1ca",
+   "kind": "mcq",
+   "stem": "What potassium range should be kept in perioperative atrial fibrillation?",
+   "options": [
+    "3-3.5",
+    "5.5-6",
+    "4-5",
+    "6-7"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#f940e4",
+   "kind": "statement",
+   "stem": "Why consider an arterial line during surgery in atrial fibrillation?",
+   "answer": "Non-invasive BP may be inaccurate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#09b325",
+   "kind": "mcq",
+   "stem": "What style of induction suits a patient with atrial fibrillation?",
+   "options": [
+    "Rapid bolus induction",
+    "Single large bolus induction",
+    "Slow, titrated induction",
+    "Maximal dose induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#7dc596",
+   "kind": "mcq",
+   "stem": "Which drug helps keep heart rate below 110 in atrial fibrillation during surgery?",
+   "options": [
+    "Atropine",
+    "Remifentanil",
+    "Ephedrine",
+    "Glycopyrrolate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#cf3bcf",
+   "kind": "statement",
+   "stem": "Which three haemodynamic factors should be maintained during surgery in atrial fibrillation?",
+   "answer": "Preload, afterload and coronary perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#6d0fc3",
+   "kind": "blank",
+   "stem": "During surgery in atrial fibrillation, check ____ regularly and replace electrolytes.",
+   "answer": "ABG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#21a2b2",
+   "kind": "mcq",
+   "stem": "When should anticoagulation be started or restarted after surgery in atrial fibrillation?",
+   "options": [
+    "Only after the AF has resolved",
+    "Never after non-cardiac surgery",
+    "Only once the patient has bled",
+    "If high-risk AF by CHA2DS2-VASc"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#42ab09",
+   "kind": "mcq",
+   "stem": "What is the maximum reported incidence of new atrial fibrillation after cardiac surgery?",
+   "options": [
+    "Up to 8%",
+    "Up to 60%",
+    "Up to 45%",
+    "Up to 80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#42ab09",
+   "kind": "mcq",
+   "stem": "What is the maximum reported incidence of new atrial fibrillation after non-cardiac thoracic surgery?",
+   "options": [
+    "Up to 75%",
+    "Up to 8%",
+    "Up to 60%",
+    "Up to 30%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#42ab09",
+   "kind": "mcq",
+   "stem": "What is the maximum reported incidence of new atrial fibrillation after other major surgery?",
+   "options": [
+    "Up to 45%",
+    "Up to 8%",
+    "Up to 60%",
+    "Up to 30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#70fc09",
+   "kind": "mcq",
+   "stem": "When does new postoperative atrial fibrillation usually appear?",
+   "options": [
+    "Only after the first 2 postoperative weeks",
+    "Only after discharge from hospital",
+    "Only during the first postoperative hour",
+    "Within the first 5 postoperative days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#ef6f18",
+   "kind": "statement",
+   "stem": "What outcomes is new postoperative atrial fibrillation linked to?",
+   "answer": "Longer stays, higher mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#35ce16",
+   "kind": "mcq",
+   "stem": "How long does most new postoperative atrial fibrillation last?",
+   "options": [
+    "Most persist for many years",
+    "Most never resolve",
+    "Most resolve within a few months",
+    "Most need lifelong ablation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#6bc5ce",
+   "kind": "statement",
+   "stem": "Which features of the postoperative state are linked to new atrial fibrillation?",
+   "answer": "High adrenergic tone, magnesium depletion, oxidative stress",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#ab97c8",
+   "kind": "mcq",
+   "stem": "Which cardiovascular condition, such as Wolff-Parkinson-White, can cause new postoperative atrial fibrillation?",
+   "options": [
+    "Asthma",
+    "Pre-excitation",
+    "Hypothyroidism",
+    "Gallstone disease"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#4a1d76",
+   "kind": "mcq",
+   "stem": "How long is the Holter ECG used when investigating new postoperative atrial fibrillation?",
+   "options": [
+    "24 hr",
+    "7 days",
+    "48 hr",
+    "72 hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#26df45",
+   "kind": "blank",
+   "stem": "Electrolyte causes of new postoperative atrial fibrillation include low or high K+, low Mg 2+, and low ____.",
+   "answer": "Ca2+",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#0b4d40",
+   "kind": "blank",
+   "stem": "Metabolic causes of new postoperative atrial fibrillation include acidosis, alcohol excess, ____ and diabetes.",
+   "answer": "thyrotoxicosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#77733f",
+   "kind": "mcq",
+   "stem": "What should be done if new postoperative atrial fibrillation is haemodynamically unstable?",
+   "options": [
+    "Oral digoxin and observation",
+    "Wait 24 hours for spontaneous resolution",
+    "DC cardioversion",
+    "Start intravenous heparin only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#6d1c19",
+   "kind": "statement",
+   "stem": "Which symptoms should be assessed in new postoperative atrial fibrillation?",
+   "answer": "Chest tightness, breathlessness, syncope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#0d8df4",
+   "kind": "mcq",
+   "stem": "Which test is done alongside a 12 lead ECG in new postoperative atrial fibrillation?",
+   "options": [
+    "Serum lipid profile",
+    "Urine drug screen",
+    "Cardiac enzymes",
+    "Bone density scan"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#c9d6ea",
+   "kind": "mcq",
+   "stem": "When is central venous access needed in new postoperative atrial fibrillation?",
+   "options": [
+    "For routine blood sampling only",
+    "To place a chest drain",
+    "For vasopressors or inotropes",
+    "To give oral amiodarone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#5cb3a6",
+   "kind": "mcq",
+   "stem": "In stable new postoperative atrial fibrillation, which calcium channel blocker is an example for rate control?",
+   "options": [
+    "Frusemide",
+    "Atropine",
+    "Noradrenaline",
+    "Verapamil"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#bc61c4",
+   "kind": "mcq",
+   "stem": "Where should patients with new postoperative atrial fibrillation be managed after surgery?",
+   "options": [
+    "General ward with routine observations",
+    "HDU or ICU",
+    "Discharge home the same day",
+    "Theatre recovery bay only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#6a21c8",
+   "kind": "mcq",
+   "stem": "In RCTs, what odds ratio did magnesium achieve for reducing post-surgical atrial fibrillation?",
+   "options": [
+    "0.25",
+    "1.55",
+    "0.55",
+    "5.5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/atrial-fibrillation#4c2ea5",
+   "kind": "mcq",
+   "stem": "Which antioxidant is effective prophylaxis for atrial fibrillation after cardiac surgery?",
+   "options": [
+    "Heparin",
+    "N-acetylcysteine",
+    "Dexamethasone",
+    "Sodium bicarbonate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

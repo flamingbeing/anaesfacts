@@ -1,0 +1,127 @@
+{
+ "topic": "comorbidities/sepsis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/sepsis#d570b2",
+   "kind": "statement",
+   "stem": "What antibiotic route is part of the sepsis bundle, given with cultures?",
+   "answer": "IV antibiotics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#d570b2",
+   "kind": "mcq",
+   "stem": "In the sepsis bundle, which treatment comes before vasopressors?",
+   "options": [
+    "Antiemetics",
+    "Dialysis",
+    "Fluids",
+    "Anticoagulation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#d570b2",
+   "kind": "mcq",
+   "stem": "Which blood test is part of the sepsis bundle?",
+   "options": [
+    "Troponin",
+    "Ammonia",
+    "Lactate",
+    "Serum sodium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#949584",
+   "kind": "mcq",
+   "stem": "How should antibiotics be managed during anaesthesia in sepsis?",
+   "options": [
+    "Stop them at induction",
+    "Continue them",
+    "Give only after surgery",
+    "Switch to oral only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#57abe2",
+   "kind": "mcq",
+   "stem": "Which ventilation strategy is advised intraoperatively in septic patients?",
+   "options": [
+    "High tidal volume ventilation",
+    "Hyperventilation to a low PaCO2",
+    "Apnoeic oxygenation only",
+    "Lung protective ventilation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#87ecae",
+   "kind": "mcq",
+   "stem": "How often should urine output be checked intraoperatively in sepsis?",
+   "options": [
+    "Every four hours",
+    "Daily",
+    "Hourly",
+    "Only on arrival to ICU"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#87ecae",
+   "kind": "statement",
+   "stem": "What renal treatment might a septic patient need after surgery?",
+   "answer": "Dialysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#19ff5b",
+   "kind": "mcq",
+   "stem": "When is ROTEM indicated for a septic patient with DIVC?",
+   "options": [
+    "Routinely before every surgery",
+    "Only if clinically bleeding",
+    "Only when platelets are low",
+    "Never during sepsis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#19ff5b",
+   "kind": "statement",
+   "stem": "In sepsis, how does DIVC affect the clotting tendency?",
+   "answer": "Prothrombotic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sepsis#5b4c1a",
+   "kind": "mcq",
+   "stem": "What postoperative setting should follow surgery for a septic patient?",
+   "options": [
+    "Day surgery discharge",
+    "Critical care monitoring or ICU",
+    "General practitioner review only",
+    "Routine ward bed without monitoring"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

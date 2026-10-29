@@ -1,0 +1,195 @@
+{
+ "topic": "airway/dental-injury",
+ "questions": [
+  {
+   "fact_id": "airway/dental-injury#7dec38",
+   "kind": "statement",
+   "stem": "In a patient with loose teeth, which two airway devices should be avoided?",
+   "answer": "Oropharyngeal airway (OPA) and laryngeal mask airway (LMA)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#e0e3d0",
+   "kind": "mcq",
+   "stem": "What is the medicolegal significance of dental injury under general anaesthesia?",
+   "options": [
+    "It is rarely reported to medicolegal bodies",
+    "It is the most common cause of complaints and claims against anaesthetists",
+    "It is mainly a problem of regional anaesthesia",
+    "It causes most cases of postoperative nausea"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#982417",
+   "kind": "mcq",
+   "stem": "What is the estimated incidence of dental injury under general anaesthesia?",
+   "options": [
+    "1% to 5% of GAs",
+    "0.02% to 0.1% of GAs",
+    "0.5% to 1% of GAs",
+    "10% to 20% of GAs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#a40244",
+   "kind": "mcq",
+   "stem": "In dental injury risk, which age group has mixed dentition?",
+   "options": [
+    "Infants under 12 months",
+    "Adults over 30 years old",
+    "Children aged 5-12 years old",
+    "Children aged 13-18 years old"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#6eb24b",
+   "kind": "statement",
+   "stem": "What decides whether an avulsed permanent tooth survives?",
+   "answer": "Prompt care",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#c8da83",
+   "kind": "mcq",
+   "stem": "What is the treatment of choice for an avulsed permanent tooth?",
+   "options": [
+    "Replant within 30 minutes",
+    "Dry storage and a clinic visit later",
+    "Replant within 5 minutes, pressing it into the socket",
+    "Discard it and arrange a dental implant"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#49f3cf",
+   "kind": "mcq",
+   "stem": "If an avulsed permanent tooth cannot be replanted within 5 minutes, how should it be kept?",
+   "options": [
+    "Dry, wrapped in gauze",
+    "Dry, in a sealed container",
+    "In a storage medium such as saline or cold fresh milk, never dry",
+    "In tap water at room temperature"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#5c2f1e",
+   "kind": "statement",
+   "stem": "What should be done with fragments from a crown fracture or broken prosthesis?",
+   "answer": "Keep them in a storage medium and give them to the patient for urgent dental review",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#ed50db",
+   "kind": "statement",
+   "stem": "How is bleeding from the socket of an avulsed tooth controlled?",
+   "answer": "Gauze over the socket",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#ef66b0",
+   "kind": "statement",
+   "stem": "After a dental injury under general anaesthesia, which specialist review is needed immediately?",
+   "answer": "Dental consult",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#6cbdd3",
+   "kind": "mcq",
+   "stem": "What is the treatment of an avulsed primary (milk) tooth?",
+   "options": [
+    "Replant it immediately",
+    "Store it in saline and replant it later",
+    "Refer for an urgent implant",
+    "No treatment needed"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#12049a",
+   "kind": "mcq",
+   "stem": "Why should an avulsed primary (milk) tooth not be replanted?",
+   "options": [
+    "It will not survive if replanted",
+    "It can cause bleeding into the airway",
+    "It can damage the permanent tooth erupting beneath",
+    "It always causes pulp necrosis in the child"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#47ccf1",
+   "kind": "statement",
+   "stem": "What should a patient with loose teeth be counselled about before anaesthesia?",
+   "answer": "Dislodgement and aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#a400bf",
+   "kind": "statement",
+   "stem": "How can mobile teeth be secured during anaesthesia to stop them falling into the airway?",
+   "answer": "Suture or bridging, if indicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#d99b8b",
+   "kind": "mcq",
+   "stem": "Which airway adjunct should be avoided in a patient with loose teeth because it can dislodge them?",
+   "options": [
+    "Video laryngoscope blade",
+    "Oropharyngeal airway",
+    "Gum elastic bougie",
+    "Intubating stylet"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#ae0a23",
+   "kind": "mcq",
+   "stem": "Compared with direct laryngoscopy, what does video laryngoscopy offer a patient with loose teeth?",
+   "options": [
+    "Greater force needed to lift the jaw",
+    "Uses the upper teeth more as a fulcrum",
+    "Less forceful lifting and less upper-teeth fulcrum",
+    "Eliminates any risk of dislodging a tooth"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/dental-injury#608c8f",
+   "kind": "statement",
+   "stem": "For a patient with loose teeth, when should the teeth be confirmed intact and documented?",
+   "answer": "After intubation and after extubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

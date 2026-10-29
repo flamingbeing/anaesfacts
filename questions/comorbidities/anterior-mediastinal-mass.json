@@ -1,0 +1,679 @@
+{
+ "topic": "comorbidities/anterior-mediastinal-mass",
+ "questions": [
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#a7c54e",
+   "kind": "statement",
+   "stem": "What are the four Ts that cause an anterior mediastinal mass?",
+   "answer": "Thyroid, thymoma, teratoma, \"terrible\" lymphoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#ffafba",
+   "kind": "statement",
+   "stem": "Which structures can an anterior mediastinal mass compress, and what else can it cause?",
+   "answer": "Airway, great vessels (SVC obstruction), heart; also pleural effusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#fe5971",
+   "kind": "statement",
+   "stem": "Which three risk categories classify anterior mediastinal mass patients for anaesthesia?",
+   "answer": "Safe, uncertain, unsafe",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#75471e",
+   "kind": "statement",
+   "stem": "What two items should be on standby for anterior mediastinal mass anaesthesia?",
+   "answer": "Rigid bronchoscope and ECMO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#6bcc75",
+   "kind": "statement",
+   "stem": "In thoracic anatomy, where is the mediastinum located?",
+   "answer": "The space between the two pleural cavities, from thoracic inlet to diaphragm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#e69abd",
+   "kind": "mcq",
+   "stem": "In the mediastinum, which plane divides it into superior and inferior parts?",
+   "options": [
+    "Transpyloric plane, a horizontal line at L1",
+    "Costal margin line at the tenth rib",
+    "Thoracic plane, horizontal line from the sternal angle (T4)",
+    "Sagittal line through the midclavicular point"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#8f3fe9",
+   "kind": "statement",
+   "stem": "In the mediastinum, what does the superior compartment contain?",
+   "answer": "Thymus, aortic arch, SVC, areolar tissue, lymph nodes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#8e4aaf",
+   "kind": "statement",
+   "stem": "Besides the 4Ts, which other mediastinal structures can give rise to a mass?",
+   "answer": "Trachea and bronchi, heart and pericardium, great vessels, oesophagus, spine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#ee604b",
+   "kind": "statement",
+   "stem": "How is a diagnostic biopsy of an anterior mediastinal mass usually taken?",
+   "answer": "By mediastinoscopy or VATS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#116159",
+   "kind": "statement",
+   "stem": "How is therapeutic resection of an anterior mediastinal mass performed?",
+   "answer": "By median sternotomy or thoracotomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#4452b0",
+   "kind": "statement",
+   "stem": "Which unrelated emergency operations can occur in a patient with an anterior mediastinal mass?",
+   "answer": "Ascending aortic aneurysm, caesarean section",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#a380f7",
+   "kind": "statement",
+   "stem": "When do anterior mediastinal mass effects often worsen?",
+   "answer": "When supine, after induction or after paralysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#666916",
+   "kind": "mcq",
+   "stem": "What is compression of the trachea and bronchi by an anterior mediastinal mass called?",
+   "options": [
+    "Intrinsic obstruction",
+    "Extrinsic obstruction",
+    "Bronchospasm",
+    "Laryngeal oedema"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#d24672",
+   "kind": "mcq",
+   "stem": "Which vascular complication can an anterior mediastinal mass cause?",
+   "options": [
+    "Aortic dissection",
+    "SVC obstruction",
+    "Pulmonary embolism",
+    "Coronary ischaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#2a6067",
+   "kind": "statement",
+   "stem": "What cardiovascular events can an anterior mediastinal mass cause, and when?",
+   "answer": "Hypotension or arrest after lying flat, induction or paralysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#288291",
+   "kind": "statement",
+   "stem": "What airway problem can vagus nerve compression by an anterior mediastinal mass cause?",
+   "answer": "Difficult intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#c9bc30",
+   "kind": "blank",
+   "stem": "Besides the airway, an anterior mediastinal mass can cause ____ compression.",
+   "answer": "Oesophageal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#675b12",
+   "kind": "statement",
+   "stem": "What can pericardial invasion by an anterior mediastinal mass cause?",
+   "answer": "Effusion or tamponade, lower CO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#7c871f",
+   "kind": "mcq",
+   "stem": "What does pleural invasion by an anterior mediastinal mass typically cause?",
+   "options": [
+    "Pneumothorax",
+    "Haemothorax",
+    "Pleural effusion",
+    "Empyema"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#2ce4c8",
+   "kind": "statement",
+   "stem": "How do general anaesthesia and paralysis affect an anterior mediastinal mass?",
+   "answer": "Worsen compression of airway and vessels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#4e2070",
+   "kind": "statement",
+   "stem": "What does IPPV do to an anterior mediastinal mass?",
+   "answer": "Raises intrathoracic pressure and worsens compression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#4d4886",
+   "kind": "statement",
+   "stem": "What tools stratify the risk of airway or cardiovascular collapse under GA in anterior mediastinal mass?",
+   "answer": "Postural symptoms, Pemberton's sign, imaging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#271f64",
+   "kind": "statement",
+   "stem": "What should be avoided in anterior mediastinal mass to keep spontaneous ventilation?",
+   "answer": "Neuromuscular blockade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#8d1d68",
+   "kind": "statement",
+   "stem": "How should the effect of exercise and posture be graded in anterior mediastinal mass?",
+   "answer": "By tolerance of lying flat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#492274",
+   "kind": "statement",
+   "stem": "What determines the rescue position in anterior mediastinal mass?",
+   "answer": "Where the mass sits relative to the compressed structure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#cfd730",
+   "kind": "statement",
+   "stem": "What does a PA and lateral chest X-ray show in anterior mediastinal mass?",
+   "answer": "Site of mass, pericardial effusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#4af48b",
+   "kind": "mcq",
+   "stem": "Which investigation is the key test for anterior mediastinal mass?",
+   "options": [
+    "Plain chest X-ray",
+    "Head CT scan",
+    "Abdominal ultrasound",
+    "CT trachea and thorax"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#59b3c2",
+   "kind": "mcq",
+   "stem": "How long does the CT scan for anterior mediastinal mass take?",
+   "options": [
+    "< 2 min",
+    "< 20s",
+    "About 45 minutes",
+    "Over 10 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#59b3c2",
+   "kind": "blank",
+   "stem": "For anterior mediastinal mass CT, the head and chest can be raised ____ degrees without spoiling the scan.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#83cc47",
+   "kind": "mcq",
+   "stem": "Which test is used for vascular compression symptoms or suspected effusion in anterior mediastinal mass?",
+   "options": [
+    "Oesophagoscopy",
+    "Lung function tests",
+    "Transthoracic echocardiography",
+    "Tensilon test"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#a7af15",
+   "kind": "statement",
+   "stem": "Which lung function test is especially useful in anterior mediastinal mass, and in what positions?",
+   "answer": "Flow-volume loops, upright and supine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#dd987e",
+   "kind": "statement",
+   "stem": "Which tests help assess myasthenia as an underlying disease in anterior mediastinal mass?",
+   "answer": "Tensilon test or acetylcholine receptor antibodies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#9b764d",
+   "kind": "statement",
+   "stem": "Which presentation features predict perioperative respiratory complications in anterior mediastinal mass?",
+   "answer": "Cardiorespiratory symptoms or signs at presentation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#4af09e",
+   "kind": "mcq",
+   "stem": "What CT tracheal diameter predicts higher perioperative respiratory risk in anterior mediastinal mass?",
+   "options": [
+    "Tracheal diameter above 50%",
+    "Tracheal diameter below 50%",
+    "Tracheal diameter above 90%",
+    "Tracheal diameter below 10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#229ee9",
+   "kind": "blank",
+   "stem": "In anterior mediastinal mass, a lung function PEFR below ____ predicts perioperative respiratory complications.",
+   "answer": "40%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#229ee9",
+   "kind": "statement",
+   "stem": "Which lung function pattern predicts perioperative respiratory complications in anterior mediastinal mass?",
+   "answer": "Mixed obstructive and restrictive pattern",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#96b3fe",
+   "kind": "statement",
+   "stem": "Which specialists should be involved in optimising anterior mediastinal mass patients before surgery?",
+   "answer": "Thoracic and ENT surgeons, medical and radiation oncology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#3c0e05",
+   "kind": "mcq",
+   "stem": "For a high-risk anterior mediastinal mass with a chemosensitive tumour, what should be considered first?",
+   "options": [
+    "Immediate surgical resection",
+    "Thyroidectomy",
+    "Chemotherapy",
+    "Lung transplantation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#3c0e05",
+   "kind": "statement",
+   "stem": "What is a drawback of giving chemotherapy or radiotherapy before surgery in anterior mediastinal mass?",
+   "answer": "May blur the histology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#c0ede2",
+   "kind": "mcq",
+   "stem": "In anterior mediastinal mass with suspected tracheal obstruction, what premedication should be avoided?",
+   "options": [
+    "Antisialagogues",
+    "Anxiolytics",
+    "Antibiotic prophylaxis",
+    "Antiemetics"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#dbc40a",
+   "kind": "mcq",
+   "stem": "Which risk category applies to CT tracheal or bronchial diameter > 50% of normal in anterior mediastinal mass?",
+   "options": [
+    "Uncertain",
+    "Unsafe",
+    "Safe",
+    "Normal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#1e9e10",
+   "kind": "mcq",
+   "stem": "Which risk category applies to an asymptomatic adult with CT tracheal diameter < 50% of normal?",
+   "options": [
+    "Safe",
+    "Unsafe",
+    "Uncertain",
+    "Normal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#edef7f",
+   "kind": "mcq",
+   "stem": "Which risk category applies to a symptomatic child with CT tracheal diameter > 50% of normal?",
+   "options": [
+    "Uncertain",
+    "Safe",
+    "Unsafe",
+    "Normal"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#ba1eeb",
+   "kind": "mcq",
+   "stem": "Which risk category applies to a child with CT tracheal diameter < 50% of normal?",
+   "options": [
+    "Safe",
+    "Uncertain",
+    "Normal",
+    "Unsafe"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#02967a",
+   "kind": "mcq",
+   "stem": "Which invasive line is placed before induction in anterior mediastinal mass?",
+   "options": [
+    "Urinary catheter",
+    "Epidural catheter",
+    "Arterial line",
+    "Intraosseous needle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#3f3a02",
+   "kind": "mcq",
+   "stem": "Where should IV access go in anterior mediastinal mass with SVC obstruction?",
+   "options": [
+    "In the right arm",
+    "In the neck",
+    "In the legs",
+    "In the forearm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#c3ac36",
+   "kind": "statement",
+   "stem": "For anterior mediastinal mass, what induction position may some patients need?",
+   "answer": "Semi-upright or fully sitting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#51abb1",
+   "kind": "statement",
+   "stem": "What is the first airway option for anterior mediastinal mass?",
+   "answer": "Awake fibreoptic intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#ba7cd4",
+   "kind": "statement",
+   "stem": "What is the second airway option for anterior mediastinal mass?",
+   "answer": "Asleep and cardiostable, keeping spontaneous breathing until the airway is secure or the case is done",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#8e08b5",
+   "kind": "statement",
+   "stem": "In anterior mediastinal mass, what does ketamine do to FRC during spontaneous breathing?",
+   "answer": "Unchanged",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#8e08b5",
+   "kind": "statement",
+   "stem": "In anterior mediastinal mass under ketamine, what does better rib cage tone prevent?",
+   "answer": "The diaphragm moving cephalad, which may prevent mass-related obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#f8e236",
+   "kind": "statement",
+   "stem": "For PA or cardiac compression in anterior mediastinal mass, how should induction be done?",
+   "answer": "Induce as for airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#96a3bb",
+   "kind": "statement",
+   "stem": "Who should be present with the rigid bronchoscope at induction in anterior mediastinal mass?",
+   "answer": "An experienced bronchoscopist",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#083e9f",
+   "kind": "statement",
+   "stem": "Why are the patient draped and surgeons scrubbed before induction in anterior mediastinal mass?",
+   "answer": "For immediate sternotomy and lifting the mass off",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#195a60",
+   "kind": "statement",
+   "stem": "Before induction, what elective support should be considered for anterior mediastinal mass?",
+   "answer": "Elective femoro-femoral bypass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#72cd39",
+   "kind": "mcq",
+   "stem": "For anterior mediastinal mass, how long does cannulation and establishing bypass flow take, even with a primed pump?",
+   "options": [
+    "Under 30 seconds",
+    "Within 1 minute",
+    "At least 5-10min",
+    "About 30 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#408b7d",
+   "kind": "statement",
+   "stem": "In anterior mediastinal mass emergencies, what step restores spontaneous breathing?",
+   "answer": "Wake the patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#66e9bf",
+   "kind": "statement",
+   "stem": "After waking an anterior mediastinal mass patient in an emergency, where is the patient moved?",
+   "answer": "To the planned rescue position",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#b905b1",
+   "kind": "statement",
+   "stem": "Which emergency surgical step is taken for anterior mediastinal mass compressing the great vessels?",
+   "answer": "Immediate sternotomy and lifting the mass off the great vessels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#a38b36",
+   "kind": "statement",
+   "stem": "What emergency airway step is taken to ventilate an anterior mediastinal mass patient?",
+   "answer": "Emergency rigid bronchoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#a38b36",
+   "kind": "statement",
+   "stem": "In anterior mediastinal mass, what can be placed under vision after ventilating through a rigid bronchoscope?",
+   "answer": "A single- or double-lumen tube",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#6e22ec",
+   "kind": "statement",
+   "stem": "During anterior mediastinal mass surgery, what should be watched for, for example during surgical handling?",
+   "answer": "Airway or cardiovascular compression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#bca05e",
+   "kind": "mcq",
+   "stem": "Which complication should be watched for in anterior mediastinal mass, especially with SVC obstruction?",
+   "options": [
+    "Hypothermia",
+    "Bleeding",
+    "Hyperkalaemia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#7338d2",
+   "kind": "statement",
+   "stem": "How should a patient with anterior mediastinal mass be extubated?",
+   "answer": "Awake, fully reversed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#7338d2",
+   "kind": "statement",
+   "stem": "What device should be considered at extubation in anterior mediastinal mass?",
+   "answer": "An airway exchange catheter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#a8fcc7",
+   "kind": "mcq",
+   "stem": "After anterior mediastinal mass surgery, what is the minimum level of postoperative care?",
+   "options": [
+    "General ward",
+    "Day-case recovery",
+    "High dependency",
+    "Ward with observation only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#14cadc",
+   "kind": "statement",
+   "stem": "Why do children with anterior mediastinal mass present with obstruction earlier?",
+   "answer": "A small fall in tracheal diameter causes a large fall in area and rise in resistance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#140b15",
+   "kind": "statement",
+   "stem": "For VATS excision of a thymoma in a safe anterior mediastinal mass patient, what position is used?",
+   "answer": "Supine, body tilted to one side, arms by the side",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#140b15",
+   "kind": "statement",
+   "stem": "In thymoma VATS excision, which side is the machine brought in from?",
+   "answer": "The opposite side",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anterior-mediastinal-mass#0f9cb7",
+   "kind": "statement",
+   "stem": "Why are back supports needed for VATS excision in anterior mediastinal mass?",
+   "answer": "Patients tend to roll backwards more than in routine lung surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

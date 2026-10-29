@@ -1,0 +1,771 @@
+{
+ "topic": "comorbidities/cancer-and-chemotherapy",
+ "questions": [
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#2efff7",
+   "kind": "statement",
+   "stem": "In the cancer 4 Ms for anaesthesia, which structures can the 'Mass' threaten?",
+   "answer": "Airway, SVC, stomach",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#10003e",
+   "kind": "mcq",
+   "stem": "Which metastatic site in the cancer 4 Ms raises intracranial pressure?",
+   "options": [
+    "Liver",
+    "Brain",
+    "Pancreas",
+    "Spleen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#10003e",
+   "kind": "mcq",
+   "stem": "Lung metastases in the cancer 4 Ms can cause which complication?",
+   "options": [
+    "Pneumothorax",
+    "Lung abscess",
+    "Carotid dissection",
+    "Effusion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#6a841b",
+   "kind": "mcq",
+   "stem": "Which metabolic complication of cancer raises serum calcium?",
+   "options": [
+    "Hypocalcaemia",
+    "Hypokalaemia",
+    "Hypercalcaemia",
+    "Hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#e90b16",
+   "kind": "blank",
+   "stem": "The 'Medications' part of the cancer 4 Ms covers chemotherapy toxicity and ____.",
+   "answer": "steroids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#5ef777",
+   "kind": "statement",
+   "stem": "Preoperative assessment of a cancer patient should cover which two things?",
+   "answer": "The effects of the disease itself and the harms of its treatment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#52b3b9",
+   "kind": "statement",
+   "stem": "Besides cancer itself, what must not be overlooked when assessing a patient before surgery?",
+   "answer": "Other comorbidities",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#e99cb8",
+   "kind": "blank",
+   "stem": "Before surgery in cancer patients, correct malnutrition, electrolyte problems, anaemia and ____ as needed.",
+   "answer": "coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#10e017",
+   "kind": "mcq",
+   "stem": "A cancer patient has a DNR order before surgery. What is reasonable perioperatively?",
+   "options": [
+    "Ignore it and proceed with full resuscitation",
+    "Keep it unchanged without any discussion",
+    "Modify or suspend it after goals of care discussion",
+    "Convert it to an ICU admission order"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#c3400f",
+   "kind": "mcq",
+   "stem": "Which tumour sites can compromise the airway during anaesthesia in cancer patients?",
+   "options": [
+    "Pelvic and renal tumours",
+    "Hepatic and splenic tumours",
+    "Limb and bone tumours",
+    "Head, neck and anterior mediastinal tumours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#c3400f",
+   "kind": "statement",
+   "stem": "Can previous radiotherapy cause airway problems that are always obvious on examination?",
+   "answer": "No, they may not be obvious on examination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#5dfa60",
+   "kind": "mcq",
+   "stem": "Which anaesthetic techniques have some evidence for lowering cancer recurrence?",
+   "options": [
+    "Regional anaesthesia and TIVA",
+    "Opioids and volatile agents",
+    "High-dose oxygen and steroids",
+    "Nitrous oxide and benzodiazepines"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#b0be63",
+   "kind": "statement",
+   "stem": "Name a paraneoplastic syndrome that can alter responses to muscle relaxants.",
+   "answer": "Myasthenia gravis or Eaton-Lambert syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#7f778a",
+   "kind": "mcq",
+   "stem": "Why should dexamethasone be avoided as an antiemetic in cancer patients?",
+   "options": [
+    "It prolongs neuromuscular blockade",
+    "It may be cytotoxic and can trigger tumour lysis",
+    "It causes marked bradycardia",
+    "It worsens airway oedema"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#b2b16b",
+   "kind": "blank",
+   "stem": "Difficult IV access in cancer patients can result from veins damaged by chemotherapy or ____.",
+   "answer": "lymphoedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#a21e7b",
+   "kind": "mcq",
+   "stem": "Many cancer patients already take opioids for cancer pain. What does this mean postoperatively?",
+   "options": [
+    "Avoid all opioids entirely",
+    "Use standard doses only",
+    "Give only non-opioid analgesia",
+    "Adjust doses for tolerance"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#1ee4a9",
+   "kind": "mcq",
+   "stem": "What minimum proportion of cancer patients is affected by venous thromboembolism?",
+   "options": [
+    "Less than 1%",
+    "About 2%",
+    "At least 15%",
+    "Under 5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#41d6f5",
+   "kind": "mcq",
+   "stem": "Which haematological toxicity is seen with most chemotherapy agents?",
+   "options": [
+    "Myelosuppression with pancytopenia",
+    "Splenic enlargement",
+    "Haemolytic anaemia",
+    "Polycythaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#f69e55",
+   "kind": "mcq",
+   "stem": "Why can chemotherapy-induced oral mucositis be a problem at tracheal intubation?",
+   "options": [
+    "It delays gastric emptying",
+    "It may bleed with intubation",
+    "It causes prolonged apnoea",
+    "It lowers oxygen saturation at once"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#da1a63",
+   "kind": "blank",
+   "stem": "Chemotherapy can leave veins ____ for cannulation.",
+   "answer": "Friable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#9870ce",
+   "kind": "mcq",
+   "stem": "What is chemotherapy given after surgical resection called?",
+   "options": [
+    "Neoadjuvant",
+    "Adjuvant",
+    "Palliative",
+    "Diagnostic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#5da22c",
+   "kind": "mcq",
+   "stem": "How often are chemotherapy cycles usually given?",
+   "options": [
+    "Every 2-3 days",
+    "Every 2-3 weeks",
+    "Every 2-3 months",
+    "Once only, at surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#5da22c",
+   "kind": "mcq",
+   "stem": "For how long do chemotherapy courses usually run?",
+   "options": [
+    "1-2 weeks",
+    "3-6 days",
+    "3-6 months",
+    "10-12 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#6d33ad",
+   "kind": "blank",
+   "stem": "Pre-op bloods for a patient on chemotherapy include FBC, U&E and ____.",
+   "answer": "LFT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#db57d7",
+   "kind": "mcq",
+   "stem": "Which lung toxicity is characteristic of bleomycin chemotherapy?",
+   "options": [
+    "Pulmonary embolism",
+    "Pulmonary fibrosis",
+    "Bronchospasm",
+    "Pneumothorax"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#3885b9",
+   "kind": "mcq",
+   "stem": "Which chemotherapy class, including doxorubicin, is cardiotoxic?",
+   "options": [
+    "Vinca alkaloids",
+    "Taxanes",
+    "Anthracyclines",
+    "Antimetabolites"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#0eebe5",
+   "kind": "mcq",
+   "stem": "Which organ is the main target of cisplatin toxicity?",
+   "options": [
+    "Liver",
+    "Lung",
+    "Kidney",
+    "Bowel"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#3706e3",
+   "kind": "mcq",
+   "stem": "Vincristine chemotherapy most characteristically causes which nerve problem?",
+   "options": [
+    "Optic neuritis",
+    "Hearing loss",
+    "Seizures",
+    "Peripheral neuropathy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#c29a9a",
+   "kind": "mcq",
+   "stem": "Steroid therapy in cancer patients causes which problem relevant to anaesthesia?",
+   "options": [
+    "Thyroid storm",
+    "Acute kidney injury",
+    "Adrenal suppression",
+    "Bone marrow failure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#afbe42",
+   "kind": "mcq",
+   "stem": "Which anaesthetic gas should be avoided with methotrexate?",
+   "options": [
+    "Nitrous oxide",
+    "Sevoflurane",
+    "Isoflurane",
+    "Xenon"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#fb071c",
+   "kind": "mcq",
+   "stem": "Which mechanism fits anthracyclines such as doxorubicin?",
+   "options": [
+    "Block DNA unwinding during replication",
+    "Stop microtubule formation",
+    "Switch off intracellular signalling",
+    "Intercalate into and cleave double-stranded DNA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#296382",
+   "kind": "mcq",
+   "stem": "How does chemotherapy-induced cardiomyopathy relate to drug dose?",
+   "options": [
+    "Independent of total dose",
+    "Cumulative and dose dependent",
+    "Only seen with single large doses",
+    "Reversed by stopping one cycle"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#85f1ef",
+   "kind": "mcq",
+   "stem": "Which mechanism is typical of alkylating chemotherapy drugs such as cyclophosphamide?",
+   "options": [
+    "Block DNA unwinding during replication",
+    "Lock formed microtubules",
+    "Alkylate DNA and disrupt mitosis",
+    "Switch off intracellular signalling"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#366353",
+   "kind": "mcq",
+   "stem": "Which chemotherapy drug belongs to the platinum class?",
+   "options": [
+    "Doxorubicin",
+    "Carboplatin",
+    "Vincristine",
+    "Methotrexate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#462f57",
+   "kind": "mcq",
+   "stem": "Which cyclophosphamide metabolite causes haemorrhagic cystitis?",
+   "options": [
+    "Chloroacetaldehyde",
+    "Acetaldehyde",
+    "Formaldehyde",
+    "Acrolein"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#2546be",
+   "kind": "mcq",
+   "stem": "Ifosfamide chemotherapy can cause which renal syndrome?",
+   "options": [
+    "Nephrotic syndrome",
+    "Alport syndrome",
+    "Fanconi syndrome",
+    "Bartter syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#2546be",
+   "kind": "mcq",
+   "stem": "Which ifosfamide metabolite is nephrotoxic?",
+   "options": [
+    "Glutaraldehyde",
+    "Chloroacetaldehyde",
+    "Acetaldehyde",
+    "Formaldehyde"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#513af8",
+   "kind": "mcq",
+   "stem": "Trastuzumab (Herceptin) is used to treat which cancer?",
+   "options": [
+    "Prostate cancer",
+    "Breast cancer",
+    "Renal cell cancer",
+    "Colorectal cancer"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#513af8",
+   "kind": "mcq",
+   "stem": "Trastuzumab (Herceptin) can cause which cardiac problem?",
+   "options": [
+    "Pericardial effusion",
+    "Cardiomyopathy",
+    "Long QT syndrome",
+    "Aortic dissection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#905d95",
+   "kind": "mcq",
+   "stem": "Besides rheumatoid arthritis, rituximab treats which blood cancer?",
+   "options": [
+    "Multiple myeloma",
+    "Acute myeloid leukaemia",
+    "Non-Hodgkin lymphoma",
+    "Ovarian cancer"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#905d95",
+   "kind": "mcq",
+   "stem": "Rituximab commonly causes which reaction, resembling influenza?",
+   "options": [
+    "Flu-like effects",
+    "Severe bradycardia",
+    "Urinary retention",
+    "Hyperkalaemic arrest"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#a917e9",
+   "kind": "mcq",
+   "stem": "Which mechanism fits antimetabolite chemotherapy such as methotrexate?",
+   "options": [
+    "Alkylate DNA and disrupt mitosis",
+    "Stop microtubule formation",
+    "Switch off intracellular signalling",
+    "Corrupt DNA synthesis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#d7fac0",
+   "kind": "mcq",
+   "stem": "What causes acute kidney injury with high-dose methotrexate?",
+   "options": [
+    "Glomerular immune complex deposition",
+    "Renal artery thrombosis",
+    "Crystals precipitating in the distal tubule",
+    "Direct proximal tubule necrosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#7a9709",
+   "kind": "mcq",
+   "stem": "Nitrous oxide adds to methotrexate toxicity by inhibiting which enzyme?",
+   "options": [
+    "Thymidylate synthase",
+    "Methionine synthase",
+    "Dihydrofolate reductase",
+    "Acetylcholinesterase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#059045",
+   "kind": "mcq",
+   "stem": "Bleomycin pneumonitis is classed as which type of reaction?",
+   "options": [
+    "Infective",
+    "Hypersensitivity",
+    "Embolic",
+    "Neoplastic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#e79054",
+   "kind": "mcq",
+   "stem": "Bleomycin-related interstitial pulmonary oedema is probably caused by what?",
+   "options": [
+    "Excess lung surfactant",
+    "Bronchial mucus plugging",
+    "Impaired lung lymphatic drainage",
+    "Pulmonary embolism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#2be04c",
+   "kind": "mcq",
+   "stem": "After bleomycin, what inspired oxygen limit is advised?",
+   "options": [
+    "FiO2 above 50%",
+    "FiO2 less than 30%",
+    "FiO2 above 60%",
+    "FiO2 exactly 100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#badecf",
+   "kind": "mcq",
+   "stem": "Which factor raises the risk of bleomycin lung toxicity?",
+   "options": [
+    "Younger age",
+    "Oral route of administration",
+    "Renal impairment",
+    "Low cumulative dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#37f437",
+   "kind": "mcq",
+   "stem": "How should bleomycin-induced pneumonitis be treated?",
+   "options": [
+    "High-dose antibiotics",
+    "Diuretic infusion",
+    "Antihistamine alone",
+    "High-dose steroids"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#4350e2",
+   "kind": "mcq",
+   "stem": "Which mechanism is typical of topoisomerase inhibitor chemotherapy?",
+   "options": [
+    "Stop microtubule formation",
+    "Lock formed microtubules",
+    "Block DNA unwinding during replication",
+    "Alkylate DNA and disrupt mitosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#c54f04",
+   "kind": "mcq",
+   "stem": "How do newer targeted cancer drugs act inside cells?",
+   "options": [
+    "Block DNA unwinding during replication",
+    "Switch off intracellular signalling",
+    "Lock formed microtubules",
+    "Corrupt DNA synthesis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#e1277f",
+   "kind": "mcq",
+   "stem": "Which is a typical toxicity of newer targeted cancer drugs?",
+   "options": [
+    "Pulmonary fibrosis",
+    "Fanconi syndrome",
+    "Hypertension",
+    "Haemorrhagic cystitis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#dde1ac",
+   "kind": "mcq",
+   "stem": "How does vincristine act on the cell's microtubules?",
+   "options": [
+    "Lock formed microtubules so mitosis cannot proceed",
+    "Stop microtubule formation, arresting cell growth",
+    "Alkylate DNA and disrupt mitosis",
+    "Switch off intracellular signalling"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#3f2aa4",
+   "kind": "mcq",
+   "stem": "Besides peripheral neuropathy, what bowel effect does vincristine commonly cause?",
+   "options": [
+    "Hypoglycaemia",
+    "Constipation",
+    "Oral thrush",
+    "Hyperthermia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#a7b4f4",
+   "kind": "mcq",
+   "stem": "Vincristine-induced neuropathy can affect which nerve types?",
+   "options": [
+    "Sensory nerves only",
+    "Motor nerves only",
+    "Sensory, motor and autonomic nerves",
+    "Cranial nerves only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#60d093",
+   "kind": "mcq",
+   "stem": "How do taxane chemotherapy drugs act on microtubules?",
+   "options": [
+    "Corrupt DNA synthesis",
+    "Stop microtubule formation, arresting cell growth",
+    "Lock formed microtubules so mitosis cannot proceed",
+    "Block DNA unwinding during replication"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#0a09d1",
+   "kind": "mcq",
+   "stem": "Tamoxifen and LHRH analogues act by what general mechanism?",
+   "options": [
+    "Alkylate DNA and disrupt mitosis",
+    "Change the hormonal environment",
+    "Corrupt DNA synthesis",
+    "Lock formed microtubules so mitosis cannot proceed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#c3d349",
+   "kind": "mcq",
+   "stem": "Tamoxifen is used to treat which cancer?",
+   "options": [
+    "Prostate cancer",
+    "Breast cancer",
+    "Colorectal cancer",
+    "Thyroid cancer"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/cancer-and-chemotherapy#8974f9",
+   "kind": "mcq",
+   "stem": "LHRH analogues are used to treat which cancer?",
+   "options": [
+    "Renal cell cancer",
+    "Colorectal cancer",
+    "Lung cancer",
+    "Prostate cancer"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "topic": "comorbidities/altered-mental-status-dementia-delirium",
+ "questions": [
+  {
+   "fact_id": "comorbidities/altered-mental-status-dementia-delirium#cd83d7",
+   "kind": "mcq",
+   "stem": "How should induction and emergence be approached in an uncooperative confused adult?",
+   "options": [
+    "Manage as a standard adult",
+    "Manage as for a child",
+    "Use regional anaesthesia only",
+    "Sedate with no airway plan"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/altered-mental-status-dementia-delirium#add653",
+   "kind": "mcq",
+   "stem": "Which key anaesthetic risk applies to a confused or demented adult?",
+   "options": [
+    "Malignant hyperthermia",
+    "Hyperkalaemia",
+    "Postoperative cognitive dysfunction",
+    "Pulmonary embolism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/altered-mental-status-dementia-delirium#fb4693",
+   "kind": "statement",
+   "stem": "Why does a confused patient need a substitute consent process before surgery?",
+   "answer": "They may lack capacity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/altered-mental-status-dementia-delirium#957e41",
+   "kind": "statement",
+   "stem": "What should anaesthesia aim to avoid in a patient with dementia?",
+   "answer": "Worsening the dementia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/altered-mental-status-dementia-delirium#58a04a",
+   "kind": "mcq",
+   "stem": "What concern follows surgery in a patient with a borderline GCS?",
+   "options": [
+    "Always safe to extubate in theatre",
+    "May not be safe to extubate",
+    "Needs an immediate tracheostomy",
+    "Requires a longer acting neuromuscular block"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

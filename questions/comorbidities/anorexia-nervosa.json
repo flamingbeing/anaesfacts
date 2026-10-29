@@ -1,0 +1,379 @@
+{
+ "topic": "comorbidities/anorexia-nervosa",
+ "questions": [
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#369e11",
+   "kind": "statement",
+   "stem": "What is the core behaviour that defines anorexia nervosa?",
+   "answer": "Strict, psychologically driven food restriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#9fb442",
+   "kind": "mcq",
+   "stem": "What defines anorexia nervosa by weight?",
+   "options": [
+    "BMI <18.5, or 10% below expected weight",
+    "BMI <17.5, or 15% below expected weight",
+    "BMI <15, or 30% below expected weight",
+    "BMI <20, or 5% below expected weight"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#73a013",
+   "kind": "mcq",
+   "stem": "What is the prevalence of anorexia nervosa?",
+   "options": [
+    "0.03-0.1%",
+    "3-5%",
+    "0.3-1%",
+    "5-10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#73a013",
+   "kind": "mcq",
+   "stem": "What proportion of anorexia nervosa patients are male?",
+   "options": [
+    "2%",
+    "10%",
+    "25%",
+    "40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#805632",
+   "kind": "statement",
+   "stem": "Which psychiatric conditions each occur in about 60% of anorexia nervosa patients?",
+   "answer": "Depression, anxiety and OCD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#becc7d",
+   "kind": "mcq",
+   "stem": "Why is the heart rate slow in anorexia nervosa?",
+   "options": [
+    "Raised sympathetic drive from stress",
+    "Thyroid hormone excess",
+    "Excess catecholamine release",
+    "Adaptive fall in basal metabolic rate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#b491f7",
+   "kind": "statement",
+   "stem": "What heart rhythm problem is more common in anorexia nervosa?",
+   "answer": "Arrhythmias",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#a6182a",
+   "kind": "mcq",
+   "stem": "How often do strict dieters with anorexia nervosa have ECG changes?",
+   "options": [
+    ">80%",
+    "<20%",
+    "30%",
+    "50%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#8ef16b",
+   "kind": "statement",
+   "stem": "Why must IV fluids be given carefully in anorexia nervosa?",
+   "answer": "Starvation impairs the myocardium, risking heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#33b8e9",
+   "kind": "mcq",
+   "stem": "Which valve problem is more common in anorexia nervosa?",
+   "options": [
+    "Aortic stenosis",
+    "Tricuspid regurgitation",
+    "Mitral valve prolapse",
+    "Pulmonary stenosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#8f3d49",
+   "kind": "mcq",
+   "stem": "What effect does metabolic alkalosis from vomiting have on breathing in anorexia nervosa?",
+   "options": [
+    "Can speed breathing",
+    "Can slow breathing",
+    "No effect on breathing",
+    "Increases lung compliance"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#cbd514",
+   "kind": "mcq",
+   "stem": "What lung mechanics change does starvation cause in anorexia nervosa?",
+   "options": [
+    "High lung compliance",
+    "Lung compliance unchanged",
+    "Low lung compliance",
+    "Airway obstruction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#092a23",
+   "kind": "statement",
+   "stem": "Which kidney abnormalities are common in anorexia nervosa?",
+   "answer": "Proteinuria and reduced GFR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#9f1e96",
+   "kind": "statement",
+   "stem": "What can dehydration in anorexia nervosa lead to in the kidneys?",
+   "answer": "Renal stones",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#f04c3e",
+   "kind": "statement",
+   "stem": "What electrolyte pattern does vomiting cause in anorexia nervosa?",
+   "answer": "Low Na, K, Cl and Mg; metabolic alkalosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#555c96",
+   "kind": "statement",
+   "stem": "What causes low calcium levels in anorexia nervosa?",
+   "answer": "Poor intake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#676130",
+   "kind": "mcq",
+   "stem": "Which electrolytes fall in refeeding syndrome in anorexia nervosa?",
+   "options": [
+    "Ca, Na and Cl",
+    "PO4, K and Mg",
+    "Na and Cl only",
+    "Ca and Mg only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#b724be",
+   "kind": "statement",
+   "stem": "What electrolyte problems does diuretic abuse cause in anorexia nervosa?",
+   "answer": "Severe hypokalaemia and hypomagnesaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#7b58b5",
+   "kind": "statement",
+   "stem": "Which blood protein is very commonly low in anorexia nervosa?",
+   "answer": "Albumin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#05b880",
+   "kind": "statement",
+   "stem": "What happens to gastric emptying in anorexia nervosa, and when does it recover?",
+   "answer": "Slow; recovers with adequate nutrition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#2a21d0",
+   "kind": "statement",
+   "stem": "Why may amylase be raised in anorexia nervosa?",
+   "answer": "Pancreatic hypersecretion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#696331",
+   "kind": "mcq",
+   "stem": "What is the commonest sign of hypophosphataemia in anorexia nervosa?",
+   "options": [
+    "Polyuria",
+    "Muscle weakness",
+    "Ataxia",
+    "Tetany"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#6a93cb",
+   "kind": "mcq",
+   "stem": "What is the purpose of lanugo hair in anorexia nervosa?",
+   "options": [
+    "Sun protection",
+    "Heat conservation",
+    "Sweat absorption",
+    "Friction reduction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#c39050",
+   "kind": "mcq",
+   "stem": "Below what BMI do periods usually stop in anorexia nervosa?",
+   "options": [
+    "BMI 12",
+    "BMI 18.5",
+    "BMI 15",
+    "BMI 20"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#32fea1",
+   "kind": "mcq",
+   "stem": "Which stress hormones are raised in anorexia nervosa?",
+   "options": [
+    "T3 and T4",
+    "FSH and LH",
+    "Insulin and glucose",
+    "Cortisol and GH"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#d806e2",
+   "kind": "mcq",
+   "stem": "What thyroid hormone pattern is seen in anorexia nervosa?",
+   "options": [
+    "High T3 and T4",
+    "Normal T3 and T4",
+    "Low T3 and T4",
+    "Raised T3 only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#e9316b",
+   "kind": "statement",
+   "stem": "What brain changes occur in anorexia nervosa?",
+   "answer": "Reduced cognition; grey and white matter changes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#c65a6f",
+   "kind": "statement",
+   "stem": "What nerve-related problems are common in anorexia nervosa?",
+   "answer": "Mild neuropathies and general weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#aa1926",
+   "kind": "mcq",
+   "stem": "What can electrolyte disturbance in anorexia nervosa cause?",
+   "options": [
+    "Hyperthermia",
+    "Gout attacks",
+    "Seizures",
+    "Hyperglycaemic coma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#fd9e27",
+   "kind": "statement",
+   "stem": "What temperature problem is common in anorexia nervosa, and why?",
+   "answer": "Hypothermia, commonly <36.3C, from low metabolic rate and little insulating fat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#12cd26",
+   "kind": "mcq",
+   "stem": "Which illicit drug might a patient with anorexia nervosa use for weight loss?",
+   "options": [
+    "Cannabis",
+    "Amphetamines",
+    "Opioids",
+    "Benzodiazepines"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#03ac05",
+   "kind": "statement",
+   "stem": "What should the preoperative history in anorexia nervosa cover?",
+   "answer": "Laxatives, drugs and alcohol; collateral history helps",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#6969c6",
+   "kind": "mcq",
+   "stem": "Why consider RSI and a gastric tube in anorexia nervosa?",
+   "options": [
+    "Rapid gastric emptying",
+    "Slow gastric emptying",
+    "Low lung compliance",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/anorexia-nervosa#d41bf0",
+   "kind": "statement",
+   "stem": "What structures are vulnerable when positioning anorexia nervosa patients?",
+   "answer": "Nerves, skin and bone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

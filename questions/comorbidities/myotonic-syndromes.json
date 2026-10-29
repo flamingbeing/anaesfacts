@@ -1,0 +1,339 @@
+{
+ "topic": "comorbidities/myotonic-syndromes",
+ "questions": [
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#573cfa",
+   "kind": "statement",
+   "stem": "In myotonic syndromes, what fails to happen after a voluntary contraction?",
+   "answer": "The muscle fails to relax after voluntary contraction or stimulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#49ad8c",
+   "kind": "statement",
+   "stem": "In myotonia, what is the classic symptom after a handshake?",
+   "answer": "Trouble letting go",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#17204f",
+   "kind": "mcq",
+   "stem": "Which of these triggers myotonia?",
+   "options": [
+    "Warm fluids",
+    "Oral paracetamol",
+    "Cold",
+    "Deep breathing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#c14ca7",
+   "kind": "mcq",
+   "stem": "Which condition is one of the three myotonic diseases?",
+   "options": [
+    "Central core disease",
+    "Myotonia congenita",
+    "Nemaline myopathy",
+    "Mitochondrial myopathy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#af051b",
+   "kind": "mcq",
+   "stem": "What is the approximate prevalence of myotonic dystrophy?",
+   "options": [
+    "1:1000000",
+    "1:5000",
+    "5:50000",
+    "3-5:100000"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#af051b",
+   "kind": "blank",
+   "stem": "Myotonic dystrophy usually presents in the second or ____ decade.",
+   "answer": "third",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#ad81cf",
+   "kind": "blank",
+   "stem": "Myotonic dystrophy is autosomal dominant with variable ____.",
+   "answer": "penetrance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#ad81cf",
+   "kind": "mcq",
+   "stem": "Which chromosome carries the defect in myotonic dystrophy?",
+   "options": [
+    "Chromosome 3",
+    "Chromosome 9",
+    "Chromosome 19",
+    "Chromosome 22"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#1d5c36",
+   "kind": "statement",
+   "stem": "Besides myotonia, what does myotonic dystrophy usually show?",
+   "answer": "A typical pattern of wasting and weakness, which is progressive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#c6dfa2",
+   "kind": "mcq",
+   "stem": "Which drug raises the depolarisation threshold in myotonic dystrophy?",
+   "options": [
+    "Ketamine",
+    "Propranolol",
+    "Carbamazepine",
+    "Atropine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#8ce677",
+   "kind": "blank",
+   "stem": "Death in myotonic dystrophy usually occurs in the fifth or ____ decade.",
+   "answer": "sixth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#1e9f10",
+   "kind": "mcq",
+   "stem": "What is the prevalence of myotonia congenita (Thomsen disease)?",
+   "options": [
+    "1:1000000",
+    "1:5000",
+    "5:50000",
+    "2:50000"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#24f255",
+   "kind": "statement",
+   "stem": "How does stiffness in childhood myotonia congenita behave?",
+   "answer": "Worse after rest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#10edfd",
+   "kind": "statement",
+   "stem": "What gives the muscles a muscular look in myotonia congenita?",
+   "answer": "Constant contraction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#ecb624",
+   "kind": "mcq",
+   "stem": "What life expectancy does myotonia congenita usually carry?",
+   "options": [
+    "Shortened to the fifth decade",
+    "Shortened to the third decade",
+    "Shortened to the seventh decade",
+    "Normal life expectancy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#d1ecb9",
+   "kind": "mcq",
+   "stem": "Which antimyotonic drug may be used in myotonia congenita?",
+   "options": [
+    "Salbutamol",
+    "Quinine",
+    "Dantrolene",
+    "Furosemide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#b743b8",
+   "kind": "mcq",
+   "stem": "How is Schwartz-Jampel syndrome inherited?",
+   "options": [
+    "Autosomal dominant",
+    "X-linked recessive",
+    "Autosomal recessive",
+    "Mitochondrial"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#c2c516",
+   "kind": "statement",
+   "stem": "What muscle change occurs in Schwartz-Jampel syndrome alongside hypertrophy?",
+   "answer": "Persistent contraction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#09a45a",
+   "kind": "mcq",
+   "stem": "How does Schwartz-Jampel syndrome affect malignant hyperthermia risk?",
+   "options": [
+    "Lower risk than normal",
+    "Higher risk; avoid trigger agents",
+    "No change from normal",
+    "Protective against trigger agents"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#8000b6",
+   "kind": "mcq",
+   "stem": "Which myotonic condition is brought on by cold?",
+   "options": [
+    "Myotonia congenita",
+    "Paramyotonia",
+    "Schwartz-Jampel syndrome",
+    "Myotonic dystrophy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#331e64",
+   "kind": "statement",
+   "stem": "What should preoperative assessment define in myotonic syndromes?",
+   "answer": "The extent and distribution of weakness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#d74d03",
+   "kind": "mcq",
+   "stem": "Which drug class can trigger myotonia during anaesthesia?",
+   "options": [
+    "Benzodiazepines",
+    "Opioids",
+    "Antiemetics",
+    "Anticholinesterases"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#3aece6",
+   "kind": "mcq",
+   "stem": "Which effect makes suxamethonium a poor choice in myotonia?",
+   "options": [
+    "Hypothermia",
+    "Lowered potassium",
+    "Masseter spasm",
+    "Bronchospasm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#b677a7",
+   "kind": "mcq",
+   "stem": "Which class of muscle relaxant is safe to use in myotonia?",
+   "options": [
+    "Suxamethonium",
+    "Non-depolarising relaxants",
+    "Depolarising agents",
+    "Potassium-containing agents"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#9ea846",
+   "kind": "statement",
+   "stem": "What is the limitation of regional techniques in myotonia?",
+   "answer": "Muscle relaxation may not follow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#1ffdf2",
+   "kind": "mcq",
+   "stem": "Which anaesthetic agents are widely used in myotonia without problems?",
+   "options": [
+    "Suxamethonium",
+    "Dantrolene infusion",
+    "Volatile agents",
+    "Anticholinesterases"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#1ffdf2",
+   "kind": "statement",
+   "stem": "What should be monitored during anaesthesia in myotonia, given a possible malignant hyperthermia link?",
+   "answer": "Temperature",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#5f16b6",
+   "kind": "mcq",
+   "stem": "Which postoperative measure reduces pneumonia in myotonia?",
+   "options": [
+    "Routine nasogastric feeding",
+    "Chest physiotherapy",
+    "Fluid restriction",
+    "Strict bed rest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/myotonic-syndromes#a8922d",
+   "kind": "mcq",
+   "stem": "After which surgery should a myotonia patient go to high dependency?",
+   "options": [
+    "Only for day-case procedures",
+    "All but the most minor procedures",
+    "Never; ward care is adequate",
+    "Only for emergency procedures"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

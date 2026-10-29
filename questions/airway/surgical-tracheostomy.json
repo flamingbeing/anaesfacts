@@ -1,0 +1,379 @@
+{
+ "topic": "airway/surgical-tracheostomy",
+ "questions": [
+  {
+   "fact_id": "airway/surgical-tracheostomy#bb259a",
+   "kind": "statement",
+   "stem": "In surgical tracheostomy, which airway problem is an indication when a nasal or oral tracheal tube cannot bypass it?",
+   "answer": "Acute upper airway obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#4407dc",
+   "kind": "mcq",
+   "stem": "Which indication for surgical tracheostomy applies to a patient who needs ongoing ventilation?",
+   "options": [
+    "Single-lung ventilation during thoracic surgery",
+    "Short-term sedation for imaging",
+    "Long-term positive pressure ventilation",
+    "Routine prophylaxis against aspiration"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#268360",
+   "kind": "statement",
+   "stem": "In which patients does surgical tracheostomy provide airway maintenance and lung protection?",
+   "answer": "Impaired pharyngeal or laryngeal reflexes, or major head and neck surgery (e.g. laryngectomy)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#6fe678",
+   "kind": "statement",
+   "stem": "Which indication for surgical tracheostomy is about secretion control?",
+   "answer": "Long-term control of heavy bronchial secretions, especially with reduced consciousness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#cb9d78",
+   "kind": "statement",
+   "stem": "Why is surgical tracheostomy used when weaning a patient from ventilation?",
+   "answer": "Less sedation needed, and less anatomical dead space",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#6decc8",
+   "kind": "statement",
+   "stem": "How does surgical tracheostomy improve ventilatory mechanics?",
+   "answer": "Less dead space and airway resistance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#35c303",
+   "kind": "statement",
+   "stem": "Apart from ventilation, which two care tasks are easier with a surgical tracheostomy?",
+   "answer": "Suctioning and oral hygiene",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#e41da2",
+   "kind": "mcq",
+   "stem": "How does surgical tracheostomy change sedation needs compared with a tracheal tube?",
+   "options": [
+    "More sedation needed",
+    "Less sedation needed",
+    "Same sedation needed",
+    "No sedation needed at all"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#755fdf",
+   "kind": "mcq",
+   "stem": "Which benefit of surgical tracheostomy concerns getting patients moving?",
+   "options": [
+    "Delayed mobilisation",
+    "Longer bed rest needed",
+    "Earlier mobilisation",
+    "Need for early reintubation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#f2be9d",
+   "kind": "mcq",
+   "stem": "Compared with a tracheal tube, how does surgical tracheostomy affect the patient?",
+   "options": [
+    "Less comfortable",
+    "Much more painful",
+    "More comfortable",
+    "Causes constant coughing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#bf245a",
+   "kind": "statement",
+   "stem": "Which device lets a patient with a surgical tracheostomy speak?",
+   "answer": "Speaking valve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#f55cd3",
+   "kind": "mcq",
+   "stem": "What is the mortality rate of surgical tracheostomy?",
+   "options": [
+    "Above 5%",
+    "Around 10%",
+    "Below 1%",
+    "Around 20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#f55cd3",
+   "kind": "mcq",
+   "stem": "What overall complication rate is quoted for surgical tracheostomy?",
+   "options": [
+    "Around 5%",
+    "Above 60%",
+    "Up to 40%",
+    "Around 15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#f55cd3",
+   "kind": "statement",
+   "stem": "In which patients is the complication rate of surgical tracheostomy higher?",
+   "answer": "ICU and emergency patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#d1b1e4",
+   "kind": "mcq",
+   "stem": "Which serious hazard is a concern with oxygen during surgical tracheostomy in an intubated patient?",
+   "options": [
+    "Hypothermia",
+    "Airway fire",
+    "Hyperkalaemia",
+    "Pulmonary oedema"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#7505f9",
+   "kind": "statement",
+   "stem": "Which two ventilator settings are checked for fitness before surgical tracheostomy in an intubated patient?",
+   "answer": "Acceptable FiO2 and PEEP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#27ff19",
+   "kind": "statement",
+   "stem": "Before induction in a non-intubated patient for surgical tracheostomy, what must be ready?",
+   "answer": "All equipment, including a cricothyroidotomy kit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#cb0d5f",
+   "kind": "statement",
+   "stem": "How is an intubated patient positioned for surgical tracheostomy?",
+   "answer": "Supine, shoulder roll or head dropped, head ring, head up, neck extended",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#4a1710",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is used for an intubated patient undergoing surgical tracheostomy?",
+   "options": [
+    "Local anaesthesia with sedation alone",
+    "GA with ETT and IPPV",
+    "Spinal anaesthesia with a tracheal tube",
+    "Awake fibreoptic intubation with spontaneous breathing"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#9ae7ad",
+   "kind": "statement",
+   "stem": "How should drapes be placed during surgical tracheostomy?",
+   "answer": "So the airway stays accessible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#3c69c5",
+   "kind": "mcq",
+   "stem": "What FiO2 is ideal during surgical tracheostomy in an intubated patient?",
+   "options": [
+    "Above 0.5",
+    "Exactly 1.0",
+    "Below 0.3",
+    "About 0.6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#2b41be",
+   "kind": "mcq",
+   "stem": "What main hazard goes with preoxygenating at FiO2 1.0 before surgical tracheostomy?",
+   "options": [
+    "Hypothermia from cold gases",
+    "High airway fire risk",
+    "Reduced cuff pressure",
+    "Bradycardia on laryngoscopy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#22cd95",
+   "kind": "statement",
+   "stem": "What happens when the surgeon is ready during surgical tracheostomy in an intubated patient?",
+   "answer": "Deflate the cuff and withdraw the ETT slowly until the cuff sits just below the cords",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#b2b105",
+   "kind": "statement",
+   "stem": "Besides withdrawing the ETT, what alternative is described for surgical tracheostomy?",
+   "answer": "Advance the ETT before the trachea is opened, then withdraw it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#7a4f79",
+   "kind": "statement",
+   "stem": "How is the tracheostomy connected to the breathing circuit?",
+   "answer": "Via a sterile catheter mount",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#7a6ad8",
+   "kind": "mcq",
+   "stem": "What is the normal cuff pressure range for a leak check after surgical tracheostomy insertion?",
+   "options": [
+    "10–15 cmH2O",
+    "20–30 cmH2O",
+    "40–50 cmH2O",
+    "60–70 cmH2O"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#7a6ad8",
+   "kind": "statement",
+   "stem": "What does needing more cuff pressure to stop a leak after tracheostomy suggest?",
+   "answer": "A malpositioned or herniated cuff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#f2835e",
+   "kind": "statement",
+   "stem": "Why is FiO2 reduced again during surgical tracheostomy?",
+   "answer": "So the surgeon can achieve haemostasis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#e1c8fe",
+   "kind": "statement",
+   "stem": "If there is a problem with tube position during surgical tracheostomy in an intubated patient, what is done?",
+   "answer": "Remove the tracheostomy tube and advance the ETT down the trachea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#0c009d",
+   "kind": "statement",
+   "stem": "What does the surgeon do once tracheostomy position is confirmed?",
+   "answer": "Secures haemostasis and sutures the tube in place",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#c63564",
+   "kind": "statement",
+   "stem": "Which drugs can be used for persistent coughing after surgical tracheostomy?",
+   "answer": "Morphine, benzodiazepines or low-dose propofol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#ea2c3e",
+   "kind": "mcq",
+   "stem": "In intubated surgical tracheostomy care, what should the inspired gases be?",
+   "options": [
+    "Dry medical gases",
+    "Humidified gases",
+    "Cold dry gases",
+    "Gases with nitrous oxide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#0b6492",
+   "kind": "statement",
+   "stem": "For severe airway obstruction, what is the alternative to tracheostomy under local anaesthesia?",
+   "answer": "Awake fibreoptic intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#435cb3",
+   "kind": "statement",
+   "stem": "For a patient with a previous tracheostomy, which preoperative investigations check for complications?",
+   "answer": "Preoperative CT or bronchoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#724507",
+   "kind": "mcq",
+   "stem": "In a patient with a previous tracheostomy, what can stop the ETT passing even with a Grade 1 view?",
+   "options": [
+    "Large tongue and jaw",
+    "Vocal cord paralysis",
+    "Subglottic or tracheal stenosis",
+    "Mandibular fracture"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#1f9c04",
+   "kind": "statement",
+   "stem": "What can old stoma tracts create in a patient with a previous tracheostomy?",
+   "answer": "Blind pockets causing ETT malposition or surgical emphysema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "airway/surgical-tracheostomy#5428b8",
+   "kind": "statement",
+   "stem": "What may bleed at the old stoma in a patient with a previous tracheostomy?",
+   "answer": "Granulation tissue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

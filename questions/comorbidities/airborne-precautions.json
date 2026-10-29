@@ -1,0 +1,175 @@
+{
+ "topic": "comorbidities/airborne-precautions",
+ "questions": [
+  {
+   "fact_id": "comorbidities/airborne-precautions#0bd58f",
+   "kind": "statement",
+   "stem": "When should elective surgery be delayed for a patient at risk of airborne infection?",
+   "answer": "Until the patient is no longer infectious or airborne infection is excluded",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#8ce3dd",
+   "kind": "mcq",
+   "stem": "For a patient on airborne precautions, which anaesthetic is preferred if possible?",
+   "options": [
+    "General anaesthesia with a tracheal tube",
+    "Rapid sequence general anaesthesia",
+    "Regional anaesthesia",
+    "Deep sedation with a supraglottic airway"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#53baf0",
+   "kind": "mcq",
+   "stem": "Which of these counts as an aerosol-generating procedure in anaesthesia?",
+   "options": [
+    "Peripheral cannula insertion",
+    "Arterial line insertion",
+    "Bronchoscopy",
+    "Epidural catheter insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#e819ab",
+   "kind": "statement",
+   "stem": "What should be done first when planning anaesthesia for airborne precautions?",
+   "answer": "Discuss the plan with the team",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#6447df",
+   "kind": "mcq",
+   "stem": "What theatre setup is needed for a patient on airborne precautions?",
+   "options": [
+    "Standard theatre with open doors",
+    "Positive pressure theatre with no anteroom",
+    "Negative pressure theatre with anteroom",
+    "Ward side room with a fan"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#e17d79",
+   "kind": "mcq",
+   "stem": "How should non-disposable equipment be handled on airborne precautions?",
+   "options": [
+    "Discard it after the case",
+    "Protect it",
+    "Share it with other theatres unprotected",
+    "Autoclave it mid-case"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#ec003c",
+   "kind": "statement",
+   "stem": "What must happen to theatre, equipment and staff after an airborne-precautions case?",
+   "answer": "Decontaminate them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#42000d",
+   "kind": "mcq",
+   "stem": "Which mask is part of PPE for airborne precautions?",
+   "options": [
+    "Surgical mask",
+    "Cloth mask",
+    "N95 mask",
+    "Face shield only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#2e6030",
+   "kind": "statement",
+   "stem": "When should high-level PPE be avoided on airborne precautions?",
+   "answer": "When not needed, outside airway management or other AGPs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#70057e",
+   "kind": "statement",
+   "stem": "What should be done before intubating a patient on airborne precautions?",
+   "answer": "Have a plan and prepare all equipment beforehand",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#f8fb36",
+   "kind": "mcq",
+   "stem": "What protection should staff have during intubation on airborne precautions?",
+   "options": [
+    "Surgical mask and gloves only",
+    "Standard droplet precautions",
+    "Full PAPR precautions",
+    "Eye protection only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#32850c",
+   "kind": "statement",
+   "stem": "Who should be kept out of the room during intubation on airborne precautions?",
+   "answer": "Non-essential staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#4bd360",
+   "kind": "mcq",
+   "stem": "Which surgical activities can aerosolise body fluids on airborne precautions?",
+   "options": [
+    "Urinary catheter insertion",
+    "Electrocautery and open or laparoscopic surgery",
+    "Peripheral venous cannulation",
+    "Wound dressing change"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#06fa31",
+   "kind": "statement",
+   "stem": "Has transmission been documented from procedures not involving the respiratory tract?",
+   "answer": "No, it has not been documented",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#0503a0",
+   "kind": "statement",
+   "stem": "Name three CPR actions that can aerosolise the virus.",
+   "answer": "Chest compressions, positive pressure ventilation and intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/airborne-precautions#9d0337",
+   "kind": "statement",
+   "stem": "How should the number of resuscitators be kept during CPR on airborne precautions?",
+   "answer": "To a minimum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

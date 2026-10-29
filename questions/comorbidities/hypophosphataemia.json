@@ -1,0 +1,75 @@
+{
+ "topic": "comorbidities/hypophosphataemia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hypophosphataemia#2746dc",
+   "kind": "mcq",
+   "stem": "What serum phosphate level defines hypophosphataemia?",
+   "options": [
+    "Below 1.5 mg/dL (0.48 mmol/L)",
+    "Below 2.0 mg/dL (0.65 mmol/L)",
+    "Below 2.4 mg/dL (0.85 mmol/L)",
+    "Below 3.0 mg/dL (0.97 mmol/L)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypophosphataemia#fdbc51",
+   "kind": "mcq",
+   "stem": "Which is a non-specific clinical feature of hypophosphataemia?",
+   "options": [
+    "Hyperkalaemia",
+    "Defective clotting",
+    "Polyuria",
+    "Bradycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypophosphataemia#1650bc",
+   "kind": "mcq",
+   "stem": "What daily oral phosphate dose is used in hypophosphataemia?",
+   "options": [
+    "0.5-1 g/day",
+    "5-8 g/day",
+    "10-12 g/day",
+    "2-4 g/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypophosphataemia#1650bc",
+   "kind": "mcq",
+   "stem": "Which starting oral phosphate dose helps limit diarrhoea in hypophosphataemia?",
+   "options": [
+    "0.5 g/day",
+    "1 g/day",
+    "4 g/day",
+    "6 g/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypophosphataemia#335529",
+   "kind": "mcq",
+   "stem": "When is IV phosphate used in hypophosphataemia?",
+   "options": [
+    "Only if severely symptomatic or oral therapy not tolerated",
+    "Routinely with every oral dose",
+    "Only for mild asymptomatic low levels",
+    "First-line for all patients"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

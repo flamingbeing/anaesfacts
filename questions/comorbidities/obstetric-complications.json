@@ -1,0 +1,457 @@
+{
+ "topic": "comorbidities/obstetric-complications",
+ "questions": [
+  {
+   "fact_id": "comorbidities/obstetric-complications#cb5a98",
+   "kind": "blank",
+   "stem": "In fetal distress, an abnormal CTG is 99% accurate but not ____.",
+   "answer": "specific",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#6a5999",
+   "kind": "mcq",
+   "stem": "Which fetal scalp blood pH value suggests fetal distress?",
+   "options": [
+    "Above 7.2",
+    "Above 7.4",
+    "Above 6.8",
+    "Below 7.2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#eddaed",
+   "kind": "statement",
+   "stem": "Placental abruption is a recognised cause of which intrapartum problem?",
+   "answer": "Fetal distress",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#eb1936",
+   "kind": "statement",
+   "stem": "In fetal distress during labour, when may the resuscitation measures be needed?",
+   "answer": "Before an emergency caesarean section",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#095df2",
+   "kind": "mcq",
+   "stem": "In the SPOILT mnemonic for fetal distress, what does S stand for?",
+   "options": [
+    "Syntocinon increased",
+    "Syntocinon off",
+    "Ergometrine given IV",
+    "Magnesium sulphate bolus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#10d449",
+   "kind": "mcq",
+   "stem": "In the SPOILT mnemonic for fetal distress, what does P stand for?",
+   "options": [
+    "Phenylephrine or other vasopressors",
+    "Paracetamol given IV",
+    "Pethidine given IM",
+    "Prostaglandin given IV"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#86a23b",
+   "kind": "mcq",
+   "stem": "In the SPOILT mnemonic for fetal distress, what does O stand for?",
+   "options": [
+    "Oxytocin bolus",
+    "Oral fluids",
+    "Oxygen",
+    "Ondansetron IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#b6cd1b",
+   "kind": "mcq",
+   "stem": "In the SPOILT mnemonic for fetal distress, what does I stand for?",
+   "options": [
+    "Insulin infusion",
+    "Inhaled steroid",
+    "IV fluids",
+    "Intrathecal morphine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#38fc07",
+   "kind": "mcq",
+   "stem": "In the SPOILT mnemonic for fetal distress, what does L stand for?",
+   "options": [
+    "Right lateral position",
+    "Prone position",
+    "Head-down tilt",
+    "Left lateral position"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#71fa84",
+   "kind": "mcq",
+   "stem": "In the SPOILT mnemonic for fetal distress, what does T stand for?",
+   "options": [
+    "Terbutaline and other tocolysis",
+    "Tranexamic acid given IV",
+    "Tramadol given IV",
+    "Thiopentone induction"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#78fafe",
+   "kind": "statement",
+   "stem": "If fetal distress persists in labour, what may be needed?",
+   "answer": "Emergency LSCS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#78fafe",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is needed for a crash (category 1) caesarean section?",
+   "options": [
+    "General anaesthesia",
+    "Spinal anaesthesia",
+    "Epidural top-up",
+    "Combined spinal-epidural"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#6ea0de",
+   "kind": "statement",
+   "stem": "In managing fetal distress, what must be documented?",
+   "answer": "Times",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#924bf5",
+   "kind": "statement",
+   "stem": "Before starting an LSCS for fetal distress, what should be checked?",
+   "answer": "The fetal heart rate in theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#a7c587",
+   "kind": "mcq",
+   "stem": "How should oxygen be given to a woman with fetal distress?",
+   "options": [
+    "By face mask, to avoid hypoxia",
+    "Only after the baby is delivered",
+    "Withheld to avoid maternal hyperoxia",
+    "Via nasal cannula at 1 L/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#cedae6",
+   "kind": "statement",
+   "stem": "In fetal distress, why keep maternal mean arterial pressure adequate?",
+   "answer": "To maintain placental perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#a63fb8",
+   "kind": "statement",
+   "stem": "At an emergency caesarean for fetal distress, who should stand by?",
+   "answer": "The neonatal team for resuscitation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#69b85d",
+   "kind": "statement",
+   "stem": "What bleeding complication should be expected after tocolysis?",
+   "answer": "PPH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#0f9ef7",
+   "kind": "mcq",
+   "stem": "What is the dose and route of terbutaline for acute tocolysis?",
+   "options": [
+    "250mcg SC/IV, given slowly",
+    "1mg IV bolus, given rapidly",
+    "50mcg SC, given slowly",
+    "2.5mg SC/IV, given slowly"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#6491f7",
+   "kind": "mcq",
+   "stem": "What IV bolus dose of GTN is used for acute tocolysis?",
+   "options": [
+    "250-500mcg",
+    "50-200mcg",
+    "1-2mg",
+    "5-10mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#ad64d5",
+   "kind": "mcq",
+   "stem": "How is sublingual GTN given for acute tocolysis?",
+   "options": [
+    "1 puff SL",
+    "2 puffs SL",
+    "4 puffs SL",
+    "2 puffs inhaled"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#ab80be",
+   "kind": "statement",
+   "stem": "In preterm babies, what does low plasma protein affect?",
+   "answer": "Drug binding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#ab80be",
+   "kind": "mcq",
+   "stem": "Which feature of preterm babies affects drug entry to the brain?",
+   "options": [
+    "Immature blood-brain barrier",
+    "Hepatic glycogen stores",
+    "Thyroid hormone levels",
+    "Gastric emptying speed"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#8dc8aa",
+   "kind": "mcq",
+   "stem": "In preterm labour, how well is the fetal response to maternal anaesthesia known?",
+   "options": [
+    "Well established",
+    "Unclear",
+    "Identical to term infants",
+    "Predicted by drug dose"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#b2eb87",
+   "kind": "statement",
+   "stem": "How are the physiological changes of pregnancy affected in twin pregnancy?",
+   "answer": "They are exaggerated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#77cd07",
+   "kind": "statement",
+   "stem": "Which three complications are more common in twin pregnancy?",
+   "answer": "Supine hypotension, pre-eclampsia and gestational diabetes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#c8e81d",
+   "kind": "statement",
+   "stem": "How should a twin pregnancy be optimised?",
+   "answer": "With a multidisciplinary team",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#41b4fd",
+   "kind": "statement",
+   "stem": "Why does regional anaesthesia fail more often in twin pregnancy?",
+   "answer": "It is technically harder with the larger uterus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#63d5de",
+   "kind": "statement",
+   "stem": "In twin pregnancy, what risks does general anaesthesia carry?",
+   "answer": "Difficult airway and aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#f9b805",
+   "kind": "statement",
+   "stem": "Why must a regional block be long-lasting in twin pregnancy surgery?",
+   "answer": "Surgery can be prolonged and complicated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#4f3a6c",
+   "kind": "statement",
+   "stem": "Why is PPH risk higher in twin pregnancy?",
+   "answer": "Larger uterine incision and uterine atony",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#4f3a6c",
+   "kind": "statement",
+   "stem": "What should be arranged for a twin caesarean because of bleeding risk?",
+   "answer": "Valid group and crossmatch, with blood products available",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#793dd0",
+   "kind": "mcq",
+   "stem": "How many incubators are needed for a twin delivery, especially if premature?",
+   "options": [
+    "1 incubator",
+    "2 incubators",
+    "3 incubators",
+    "4 incubators"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#793dd0",
+   "kind": "mcq",
+   "stem": "How many neonatal resuscitation teams are needed for a twin delivery?",
+   "options": [
+    "2 neonatal resuscitation teams",
+    "1 neonatal resuscitation team",
+    "3 neonatal resuscitation teams",
+    "4 neonatal resuscitation teams"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#b9c924",
+   "kind": "mcq",
+   "stem": "In what share of cases does pregnancy enlarge uterine fibroids?",
+   "options": [
+    "5–10%",
+    "20–30%",
+    "40–50%",
+    "60–70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#261c4b",
+   "kind": "mcq",
+   "stem": "How do uterine fibroids usually present during pregnancy?",
+   "options": [
+    "Usually asymptomatic",
+    "Usually heavy bleeding",
+    "Usually preterm labour",
+    "Usually placental abruption"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#0f1c19",
+   "kind": "statement",
+   "stem": "What are the commonest complications of uterine fibroids in pregnancy?",
+   "answer": "Degeneration and torsion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#05b900",
+   "kind": "statement",
+   "stem": "What causes perioperative complications of uterine fibroids in pregnancy?",
+   "answer": "Mechanical effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#05b900",
+   "kind": "statement",
+   "stem": "How common are perioperative complications from uterine fibroids in pregnancy?",
+   "answer": "Generally uncommon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#89b579",
+   "kind": "statement",
+   "stem": "What does VBAC stand for?",
+   "answer": "Vaginal birth after caesarean",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#8a5fef",
+   "kind": "statement",
+   "stem": "Which two complications are linked to a trial of VBAC?",
+   "answer": "Uterine rupture, placenta accreta spectrum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#8dd85f",
+   "kind": "statement",
+   "stem": "In a VBAC trial, why can epidural analgesia be risky?",
+   "answer": "It may mask pain from uterine rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/obstetric-complications#b8fed0",
+   "kind": "statement",
+   "stem": "During a VBAC trial, what should prompt suspicion of uterine rupture?",
+   "answer": "Needing frequent epidural top-ups",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

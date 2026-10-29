@@ -1,0 +1,275 @@
+{
+ "topic": "comorbidities/breastfeeding",
+ "questions": [
+  {
+   "fact_id": "comorbidities/breastfeeding#dc1a46",
+   "kind": "mcq",
+   "stem": "After anaesthesia, must a breastfeeding mother pump and discard milk for 24 hours?",
+   "options": [
+    "Yes, for 24 hours",
+    "Yes, for 12 hours",
+    "No, sleep and keep is advised",
+    "Only after opioids"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#7d717c",
+   "kind": "statement",
+   "stem": "Which analgesics are considered safe for a breastfeeding mother after surgery?",
+   "answer": "Simple analgesics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#325ed2",
+   "kind": "mcq",
+   "stem": "Do anaesthetic and analgesic drugs pass into breast milk?",
+   "options": [
+    "No, none reach breast milk",
+    "Yes, in large amounts",
+    "Yes, in tiny, clinically insignificant amounts",
+    "Only the opioids do"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#7ae5c4",
+   "kind": "statement",
+   "stem": "How is the relative infant dose (RID) calculated for a breastfed infant?",
+   "answer": "Infant dose via milk (mg/kg/day) divided by maternal dose (mg/kg/day)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#fb4550",
+   "kind": "mcq",
+   "stem": "Which relative infant dose is considered safe for a breastfed infant?",
+   "options": [
+    "Above 25%",
+    "Above 50%",
+    "Below 10%",
+    "Above 10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#076a90",
+   "kind": "mcq",
+   "stem": "Morphine has a relative infant dose of about what percentage, despite an excellent safety record?",
+   "options": [
+    "3%",
+    "15%",
+    "9%",
+    "25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#113fbc",
+   "kind": "statement",
+   "stem": "Why is an opioid-sparing technique preferred for a breastfeeding mother?",
+   "answer": "Opioids and their metabolites pass into milk a little more",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#ec80b5",
+   "kind": "mcq",
+   "stem": "Which breast condition is a risk of stopping breastfeeding after surgery?",
+   "options": [
+    "Gallstones",
+    "Mastitis",
+    "Pleural effusion",
+    "Otitis media"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#5d58ef",
+   "kind": "mcq",
+   "stem": "Which infant risk is linked to stopping breastfeeding after surgery?",
+   "options": [
+    "Infant hypothermia",
+    "Infant hypoglycaemia",
+    "Infant dehydration",
+    "Infant jaundice"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#d747a5",
+   "kind": "mcq",
+   "stem": "What does stopping breastfeeding after surgery expose the infant to?",
+   "options": [
+    "Donor milk only",
+    "Formula",
+    "Vitamin K injection",
+    "Solid food"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#ea841f",
+   "kind": "statement",
+   "stem": "Which infants need caution with opioids while their mother breastfeeds?",
+   "answer": "Infants at high risk of apnoea, e.g. premature",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#f54d4c",
+   "kind": "statement",
+   "stem": "Which infant condition means NSAIDs should be avoided in a breastfeeding mother?",
+   "answer": "Duct-dependent cardiac lesion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#3684b0",
+   "kind": "statement",
+   "stem": "Why should breastfeeding patients not avoid analgesia after surgery?",
+   "answer": "Pain hinders breastfeeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#2eed57",
+   "kind": "statement",
+   "stem": "Which state should be avoided to support breastfeeding after surgery?",
+   "answer": "Dehydration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#2d6499",
+   "kind": "mcq",
+   "stem": "Where possible, which type of surgery suits a breastfeeding patient?",
+   "options": [
+    "Prolonged inpatient stay",
+    "Multi-day admission",
+    "Day surgery",
+    "Admission before fasting"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#0908d7",
+   "kind": "mcq",
+   "stem": "In preoperative assessment, which patients should be asked about breastfeeding?",
+   "options": [
+    "Only pregnant patients",
+    "Every patient with a child under 2 years",
+    "Only patients with a child under 6 months",
+    "Only patients with a child over 5 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#2947c3",
+   "kind": "statement",
+   "stem": "Which infant risk should be assessed before surgery in a breastfeeding mother?",
+   "answer": "Apnoea risk, e.g. prematurity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#4b854d",
+   "kind": "mcq",
+   "stem": "Where on the operating list should a breastfeeding mother be placed, to shorten separation from her baby?",
+   "options": [
+    "Last on the list",
+    "Middle of the list",
+    "Cancelled until after weaning",
+    "First on the list"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#8c0153",
+   "kind": "statement",
+   "stem": "Why should fasting be kept short for a breastfeeding patient?",
+   "answer": "Dehydration reduces milk supply",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#c62450",
+   "kind": "statement",
+   "stem": "Which analgesic approach is preferred for a breastfeeding patient during surgery?",
+   "answer": "Multimodal, opioid-sparing and locoregional analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#f0f9d2",
+   "kind": "mcq",
+   "stem": "Above what daily oxycodone dose is more drowsiness seen in the baby of a breastfeeding mother?",
+   "options": [
+    "Below 10 mg/day",
+    "Exactly 30 mg/day",
+    "Above 30 mg/day",
+    "Below 30 mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#f2b51e",
+   "kind": "mcq",
+   "stem": "After sugammadex, for how long should a woman on hormonal contraception use barrier methods?",
+   "options": [
+    "No barrier needed",
+    "1 day",
+    "3 days",
+    "7 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#8e779a",
+   "kind": "mcq",
+   "stem": "When should a mother resume breastfeeding after anaesthesia?",
+   "options": [
+    "Only after 24 hours",
+    "Only after discharge home",
+    "As soon as alert and physically able",
+    "Only after drugs are cleared from milk"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/breastfeeding#622218",
+   "kind": "statement",
+   "stem": "What postoperative strategy is advised for nausea and vomiting in breastfeeding patients?",
+   "answer": "Effective antiemetic strategy, including prophylaxis if needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
