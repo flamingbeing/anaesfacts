@@ -98,4 +98,5 @@ Volatile anaesthetic with low blood:gas solubility, pleasant smell and moderate 
 - [Paediatric inhalational agents](paediatric-inhalational-agents.md)
 - [Xenon](xenon.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
+- [Paediatric Induction of Anaesthesia](../procedures/paediatric-induction-of-anaesthesia.md)
 <!-- related:end -->

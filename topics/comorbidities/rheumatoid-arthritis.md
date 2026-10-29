@@ -92,4 +92,6 @@ Multisystem inflammatory arthritis: the key risks are an unstable cervical spine
 <!-- related:start (generated) -->
 ## Related
 - [Ankylosing Spondylitis](ankylosing-spondylitis.md)
+- [Juvenile Chronic Arthritis](juvenile-chronic-arthritis.md)
+- [Orthopaedic Surgery](../procedures/orthopaedic-surgery.md)
 <!-- related:end -->

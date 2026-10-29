@@ -118,6 +118,7 @@ Large-volume injection under the fascia iliaca that spreads to the femoral and l
 - [Lateral Femoral Cutaneous Nerve Block](lateral-femoral-cutaneous-nerve-block.md)
 - [Hip Surgery](../procedures/hip-surgery.md)
 - [Hip Fracture](../procedures/hip-fracture.md)
+- [Paediatric emergency orthopaedic surgery](../procedures/paediatric-emergency-orthopaedic-surgery.md)
 - [PENG Block](peng-block.md)
 - [Regional Blocks Quick Reference](regional-blocks-quick-reference.md)
 <!-- related:end -->

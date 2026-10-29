@@ -139,5 +139,6 @@ Marrow or adipose fat enters the veins after trauma, blocking the lung vessels a
 ## Related
 - [Bone Cement Implantation Syndrome](bone-cement-implantation-syndrome.md)
 - [Hip Fracture](../procedures/hip-fracture.md)
+- [Orthopaedic Surgery](../procedures/orthopaedic-surgery.md)
 - [Limb Fractures](../procedures/limb-fractures.md)
 <!-- related:end -->

@@ -93,4 +93,5 @@ Inherited type I collagen disorder with fragile bones: handle, position and mana
 - [Cervical Spine Surgery](../procedures/cervical-spine-surgery.md)
 - [Suxamethonium](../drugs/suxamethonium.md)
 - [Neuromuscular diseases](neuromuscular-diseases.md)
+- [Paediatric emergency orthopaedic surgery](../procedures/paediatric-emergency-orthopaedic-surgery.md)
 <!-- related:end -->

@@ -99,6 +99,7 @@ Remote-site neuroanaesthesia for diagnostic and endovascular brain procedures: t
 <!-- related:start (generated) -->
 ## Related
 - [Carotid Endarterectomy](carotid-endarterectomy.md)
+- [Remote Site Anaesthesia](remote-site-anaesthesia.md)
 - [Effect of Anaesthetic Agents on ICP, CBF and CMR](../physiology/anaesthetic-agents-icp-cbf-cmr.md)
 - [Intracranial Aneurysm Clipping and Coiling](intracranial-aneurysm-surgery.md)
 - [Anaesthesia for MRI](mri-anaesthesia.md)

@@ -64,4 +64,5 @@ Hiatal hernia, reflux and achalasia surgery carries a high aspiration risk: RSI,
 ## Related
 - [Oesophagectomy](oesophagectomy.md)
 - [Oesophageal Perforation and Repair](oesophageal-perforation-repair.md)
+- [Thoracic Anaesthesia Overview](thoracic-anaesthesia.md)
 <!-- related:end -->

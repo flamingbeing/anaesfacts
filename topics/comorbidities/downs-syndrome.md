@@ -106,6 +106,7 @@ Commonest chromosomal abnormality; key issues are behaviour, airway and C-spine,
 <!-- related:start (generated) -->
 ## Related
 - [Obstructive Sleep Apnoea](obstructive-sleep-apnoea.md)
+- [Paediatric Cardiac Surgery and Congenital Heart Disease](../procedures/paediatric-cardiac-surgery.md)
 - [Hypothyroidism](hypothyroidism.md)
 - [The Syndromic Child](syndromic-child.md)
 <!-- related:end -->

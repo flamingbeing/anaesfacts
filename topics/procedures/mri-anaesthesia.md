@@ -194,5 +194,6 @@ Remote, noisy, magnetic environment with poor patient access: MR-compatible kit,
 
 <!-- related:start (generated) -->
 ## Related
+- [Remote Site Anaesthesia](remote-site-anaesthesia.md)
 - [Interventional Neuroradiology](neuroradiology.md)
 <!-- related:end -->

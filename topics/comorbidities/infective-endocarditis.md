@@ -131,5 +131,9 @@ Infection of the endocardium and valves; prophylaxis only for high-risk patients
 <!-- related:start (generated) -->
 ## Related
 - [Adults with Congenital Heart Disease](adult-congenital-heart-disease.md)
+- [Dental Surgery and Tooth Extraction](../procedures/dental-surgery.md)
+- [Paediatric Heart Murmurs](paediatric-heart-murmurs.md)
 - [Prosthetic Heart Valves](prosthetic-heart-valves.md)
+- [Paediatric Cardiac Surgery and Congenital Heart Disease](../procedures/paediatric-cardiac-surgery.md)
+- [Paediatric Dental Surgery](../procedures/paediatric-dental-surgery.md)
 <!-- related:end -->

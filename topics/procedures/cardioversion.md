@@ -170,4 +170,5 @@ R-wave synchronised shock to restore sinus rhythm; usually brief sedation or sho
 <!-- related:start (generated) -->
 ## Related
 - [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
+- [Remote Site Anaesthesia](remote-site-anaesthesia.md)
 <!-- related:end -->

@@ -84,3 +84,8 @@ En-bloc removal of lung, part of the same-side diaphragm, parietal pleura and pe
   - A: Less bronchial stump pressure and less ventilator-induced injury or pneumonia in the remaining lung
 - Q: What is the risk of liberal fluids in EPP?
   - A: Coagulopathy, postoperative acute lung injury and higher mortality
+
+<!-- related:start (generated) -->
+## Related
+- [Thoracic Anaesthesia Overview](thoracic-anaesthesia.md)
+<!-- related:end -->

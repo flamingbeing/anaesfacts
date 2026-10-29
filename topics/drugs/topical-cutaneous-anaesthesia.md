@@ -98,5 +98,6 @@ Skin numbing before venous cannulation and venepuncture: EMLA cream, Ametop (tet
 ## Related
 - [Prilocaine](prilocaine.md)
 - [Amethocaine (tetracaine)](amethocaine.md)
+- [Local Anaesthetics Overview](local-anaesthetics-overview.md)
 - [Local Infiltration and Field Block](../regional/local-infiltration-and-field-block.md)
 <!-- related:end -->

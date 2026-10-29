@@ -172,3 +172,8 @@ Peripheral, external jugular, central (internal jugular, femoral) and intraosseo
   - A: Anterior proximal tibia, 2 cm below the tibial tuberosity
 - Q: How soon should an IO line be replaced?
   - A: Within 24 hours if possible
+
+<!-- related:start (generated) -->
+## Related
+- [Paediatric Anaesthesia Overview](paediatric-anaesthesia.md)
+<!-- related:end -->

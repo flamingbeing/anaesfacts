@@ -62,5 +62,6 @@ Non-invasive fragmentation of renal and ureteric stones by focused acoustic shoc
 
 <!-- related:start (generated) -->
 ## Related
+- [Remote Site Anaesthesia](remote-site-anaesthesia.md)
 - [Remifentanil](../drugs/remifentanil.md)
 <!-- related:end -->

@@ -130,6 +130,7 @@ Achiral amide local anaesthetic (lignocaine, Xylocaine) that is also a class Ib 
 - [Mexiletine](mexiletine.md)
 - [Airway Topicalisation and Airway Blocks for Awake Intubation](../airway/airway-topicalisation.md)
 - [Local anaesthetic side effects](local-anaesthetic-side-effects.md)
+- [Local Anaesthetics Overview](local-anaesthetics-overview.md)
 - [Local Anaesthetics](local-anaesthetics.md)
 - [Local anaesthetics in children](paediatric-local-anaesthetics.md)
 - [Procainamide](procainamide.md)

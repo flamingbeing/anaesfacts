@@ -127,4 +127,5 @@ Microsurgery on the ear needing a bloodless field, a still patient, an intact gr
 <!-- related:start (generated) -->
 ## Related
 - [Laser surgery](laser-surgery.md)
+- [Paediatric ENT Surgery](paediatric-ent-surgery.md)
 <!-- related:end -->

@@ -74,4 +74,5 @@ Motor-sparing fascial plane block between the psoas tendon and pubic ramus for h
 - [Hip Surgery](../procedures/hip-surgery.md)
 - [Lumbar Plexus (Psoas) Block](lumbar-plexus-block.md)
 - [Lower Limb Blocks](lower-limb-blocks.md)
+- [Orthopaedic Surgery Choice of Regional Technique](orthopaedic-regional-techniques.md)
 <!-- related:end -->

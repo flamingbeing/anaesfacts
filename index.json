@@ -111,6 +111,32 @@
   ]
  },
  {
+  "path": "topics/airway/paediatric-foreign-body-removal.md",
+  "title": "Paediatric Foreign Body Removal",
+  "area": "airway",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "airway",
+   "bronchoscopy",
+   "foreign body"
+  ],
+  "aliases": [
+   "inhaled foreign body",
+   "ingested foreign body",
+   "FB",
+   "rigid bronchoscopy",
+   "aspirated foreign body"
+  ],
+  "related": [
+   "airway/paediatric-acute-airway-obstruction",
+   "procedures/airway-laryngotracheal-surgery",
+   "procedures/rigid-bronchoscopy",
+   "airway/laryngospasm"
+  ]
+ },
+ {
   "path": "topics/comorbidities/acromegaly.md",
   "title": "Acromegaly",
   "area": "comorbidities",
@@ -546,6 +572,30 @@
   ]
  },
  {
+  "path": "topics/comorbidities/arthrogryposis-multiplex-congenita.md",
+  "title": "Arthrogryposis Multiplex Congenita",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neuromuscular",
+   "difficult-airway",
+   "congenital"
+  ],
+  "aliases": [
+   "AMC",
+   "arthrogryposis",
+   "amyoplasia congenita"
+  ],
+  "related": [
+   "comorbidities/cerebral-palsy",
+   "comorbidities/malignant-hyperthermia",
+   "comorbidities/myotonic-dystrophy",
+   "procedures/paediatric-orthopaedic-surgery"
+  ]
+ },
+ {
   "path": "topics/comorbidities/asthma.md",
   "title": "Asthma",
   "area": "comorbidities",
@@ -781,6 +831,30 @@
    "drugs/phenylephrine",
    "drugs/esmolol",
    "equipment/cardiac-implantable-electronic-devices"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/cerebral-palsy.md",
+  "title": "Cerebral Palsy",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neuromuscular",
+   "aspiration",
+   "scoliosis"
+  ],
+  "aliases": [
+   "CP",
+   "spastic quadriplegia"
+  ],
+  "related": [
+   "comorbidities/arthrogryposis-multiplex-congenita",
+   "procedures/paediatric-orthopaedic-surgery",
+   "procedures/paediatric-spine-surgery",
+   "drugs/baclofen",
+   "drugs/suxamethonium"
   ]
  },
  {
@@ -1109,6 +1183,54 @@
   ]
  },
  {
+  "path": "topics/comorbidities/ehlers-danlos-syndrome-paediatric.md",
+  "title": "Ehlers-Danlos syndrome in children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "connective-tissue",
+   "bleeding",
+   "airway"
+  ],
+  "aliases": [
+   "EDS",
+   "Ehlers Danlos",
+   "vascular EDS",
+   "hypermobile EDS"
+  ],
+  "related": [
+   "comorbidities/marfan-syndrome",
+   "comorbidities/atlantoaxial-instability",
+   "physiology/collagen-disorders"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/epidermolysis-bullosa.md",
+  "title": "Epidermolysis Bullosa",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "skin",
+   "airway",
+   "genetic"
+  ],
+  "aliases": [
+   "EB",
+   "dystrophic epidermolysis bullosa",
+   "epidermolysis bullosa simplex"
+  ],
+  "related": [
+   "airway/difficult-airway-paediatric",
+   "comorbidities/porphyria",
+   "regional/brachial-plexus-block",
+   "procedures/plastic-surgery"
+  ]
+ },
+ {
   "path": "topics/comorbidities/epilepsy.md",
   "title": "Epilepsy and Vagus Nerve Stimulators",
   "area": "comorbidities",
@@ -1159,6 +1281,34 @@
    "physiology/aspiration",
    "drugs/sodium-citrate",
    "drugs/proton-pump-inhibitors",
+   "drugs/suxamethonium"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/glycogen-storage-diseases.md",
+  "title": "Glycogen Storage Diseases",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "metabolic",
+   "myopathy",
+   "hypoglycaemia"
+  ],
+  "aliases": [
+   "glycogenoses",
+   "GSD",
+   "von Gierke disease",
+   "Pompe disease",
+   "Forbes disease",
+   "Andersen disease",
+   "McArdle disease"
+  ],
+  "related": [
+   "comorbidities/mitochondrial-disease",
+   "comorbidities/muscular-dystrophy",
+   "procedures/tourniquets",
    "drugs/suxamethonium"
   ]
  },
@@ -1606,6 +1756,31 @@
    "equipment/cell-salvage",
    "drugs/tranexamic-acid",
    "drugs/erythropoietin"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/juvenile-chronic-arthritis.md",
+  "title": "Juvenile Chronic Arthritis",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "rheumatology",
+   "airway",
+   "cervical-spine"
+  ],
+  "aliases": [
+   "JCA",
+   "juvenile idiopathic arthritis",
+   "JIA",
+   "Still disease"
+  ],
+  "related": [
+   "comorbidities/rheumatoid-arthritis",
+   "comorbidities/ankylosing-spondylitis",
+   "airway/awake-fibreoptic-intubation",
+   "airway/difficult-airway-paediatric"
   ]
  },
  {
@@ -2203,6 +2378,106 @@
    "procedures/cervical-spine-surgery",
    "drugs/suxamethonium",
    "comorbidities/neuromuscular-diseases"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/paediatric-diabetes-mellitus.md",
+  "title": "Diabetes Mellitus in Children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "diabetes",
+   "endocrine",
+   "insulin"
+  ],
+  "aliases": [
+   "paediatric diabetes",
+   "type 1 diabetes",
+   "IDDM",
+   "T1DM",
+   "MODY"
+  ],
+  "related": [
+   "comorbidities/diabetes-mellitus",
+   "comorbidities/diabetic-ketoacidosis",
+   "drugs/insulin",
+   "other/hypoglycaemia"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/paediatric-haemophilia-and-von-willebrand-disease.md",
+  "title": "Haemophilia and von Willebrand Disease in Children",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "haematology",
+   "bleeding disorder",
+   "coagulation"
+  ],
+  "aliases": [
+   "haemophilia A",
+   "haemophilia B",
+   "Christmas disease",
+   "vWD",
+   "von Willebrand's disease",
+   "factor VIII deficiency",
+   "factor IX deficiency"
+  ],
+  "related": [
+   "drugs/desmopressin",
+   "drugs/tranexamic-acid",
+   "drugs/recombinant-factor-viia",
+   "drugs/cryoprecipitate",
+   "comorbidities/coagulopathy"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/paediatric-heart-murmurs.md",
+  "title": "Paediatric Heart Murmurs",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "cardiac",
+   "preoperative-assessment"
+  ],
+  "aliases": [
+   "innocent murmur",
+   "Still's murmur",
+   "flow murmur",
+   "new murmur in a child"
+  ],
+  "related": [
+   "comorbidities/congenital-heart-disease",
+   "comorbidities/infective-endocarditis",
+   "procedures/paediatric-preoperative-assessment"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/paediatric-infectious-diseases.md",
+  "title": "Paediatric infectious diseases and immunisation",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "infection",
+   "immunisation"
+  ],
+  "aliases": [
+   "infectious disease in children",
+   "immunisation and anaesthesia",
+   "vaccination and surgery"
+  ],
+  "related": [
+   "comorbidities/paediatric-upper-respiratory-tract-infection",
+   "procedures/paediatric-day-case-surgery",
+   "physiology/immune-effects-of-anaesthesia"
   ]
  },
  {
@@ -4315,6 +4590,30 @@
    "drugs/chloroprocaine",
    "drugs/prilocaine",
    "drugs/methylene-blue"
+  ]
+ },
+ {
+  "path": "topics/drugs/local-anaesthetics-overview.md",
+  "title": "Local Anaesthetics Overview",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local anaesthetic",
+   "classification"
+  ],
+  "aliases": [
+   "LA",
+   "local anaesthetic agents",
+   "amides",
+   "esters"
+  ],
+  "related": [
+   "drugs/lidocaine",
+   "drugs/bupivacaine",
+   "drugs/ropivacaine",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "drugs/emla-cream"
   ]
  },
  {
@@ -7758,6 +8057,33 @@
   ]
  },
  {
+  "path": "topics/procedures/dental-surgery.md",
+  "title": "Dental Surgery and Tooth Extraction",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "dental",
+   "shared-airway",
+   "day-surgery",
+   "ponv"
+  ],
+  "aliases": [
+   "dental extraction",
+   "dental rehabilitation",
+   "oral rehabilitation",
+   "wisdom tooth extraction",
+   "dental GA"
+  ],
+  "related": [
+   "procedures/oral-maxillofacial-surgery",
+   "procedures/paediatric-dental-surgery",
+   "airway/nasal-intubation",
+   "procedures/day-surgery",
+   "comorbidities/infective-endocarditis"
+  ]
+ },
+ {
   "path": "topics/procedures/diagnostic-radiology.md",
   "title": "Anaesthesia for Diagnostic Radiology",
   "area": "procedures",
@@ -9378,6 +9704,42 @@
   ]
  },
  {
+  "path": "topics/procedures/neonatal-surgery.md",
+  "title": "Neonatal surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neonates",
+   "general-surgery",
+   "full-stomach"
+  ],
+  "aliases": [
+   "pyloric stenosis",
+   "pyloromyotomy",
+   "NEC",
+   "necrotising enterocolitis",
+   "gastroschisis",
+   "exomphalos",
+   "omphalocele",
+   "imperforate anus",
+   "anorectal malformation",
+   "PSARP",
+   "Hirschsprung disease",
+   "CDH",
+   "congenital diaphragmatic hernia",
+   "myelomeningocele"
+  ],
+  "related": [
+   "physiology/neonatal-physiology",
+   "comorbidities/prematurity",
+   "procedures/tracheo-oesophageal-fistula",
+   "comorbidities/vacterl-association",
+   "regional/caudal-block"
+  ]
+ },
+ {
   "path": "topics/procedures/nephrectomy.md",
   "title": "Nephrectomy",
   "area": "procedures",
@@ -9693,6 +10055,36 @@
   ]
  },
  {
+  "path": "topics/procedures/oral-maxillofacial-surgery.md",
+  "title": "Oral and Maxillofacial Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "shared-airway",
+   "nasal-intubation",
+   "difficult-airway",
+   "maxillofacial"
+  ],
+  "aliases": [
+   "OMS",
+   "maxillofacial surgery",
+   "orthognathic surgery",
+   "Le Fort",
+   "BSSO",
+   "facial fractures",
+   "Ludwig angina",
+   "intraoral abscess"
+  ],
+  "related": [
+   "procedures/dental-surgery",
+   "procedures/head-and-neck-cancer-surgery",
+   "airway/nasal-intubation",
+   "airway/awake-fibreoptic-intubation",
+   "airway/trauma-airway"
+  ]
+ },
+ {
   "path": "topics/procedures/organ-procurement.md",
   "title": "Organ Procurement for Transplantation",
   "area": "procedures",
@@ -9716,6 +10108,676 @@
    "procedures/brain-death-and-organ-donor-management",
    "procedures/liver-transplantation",
    "procedures/renal-transplantation"
+  ]
+ },
+ {
+  "path": "topics/procedures/orthopaedic-surgery.md",
+  "title": "Orthopaedic Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "orthopaedics",
+   "regional",
+   "positioning"
+  ],
+  "aliases": [
+   "ortho surgery",
+   "orthopaedic anaesthesia"
+  ],
+  "related": [
+   "procedures/tourniquets",
+   "crises/bone-cement-implantation-syndrome",
+   "crises/fat-embolism-syndrome",
+   "comorbidities/rheumatoid-arthritis",
+   "procedures/cell-salvage"
+  ]
+ },
+ {
+  "path": "topics/procedures/pacemaker-icd-implantation.md",
+  "title": "Pacemaker and ICD Implantation",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "pacemaker",
+   "icd",
+   "sedation",
+   "remote location"
+  ],
+  "aliases": [
+   "PPM insertion",
+   "ICD insertion",
+   "AICD",
+   "CRT insertion",
+   "device implantation"
+  ],
+  "related": [
+   "equipment/cardiac-implantable-electronic-devices",
+   "procedures/cardiac-anaesthesia",
+   "procedures/remote-location-anaesthesia",
+   "procedures/procedural-sedation"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-airway-surgery.md",
+  "title": "Paediatric Airway Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "airway",
+   "bronchoscopy",
+   "spontaneous-ventilation"
+  ],
+  "aliases": [
+   "MLB",
+   "microlaryngobronchoscopy",
+   "microlaryngeal surgery",
+   "paediatric bronchoscopy",
+   "rigid bronchoscopy",
+   "choanal atresia"
+  ],
+  "related": [
+   "procedures/laryngotracheal-surgery",
+   "procedures/paediatric-inhaled-foreign-body",
+   "airway/paediatric-acute-airway-obstruction",
+   "procedures/rigid-bronchoscopy",
+   "procedures/paediatric-ent-surgery"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-anaesthesia-for-imaging.md",
+  "title": "Paediatric Anaesthesia for Imaging",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "radiology",
+   "mri",
+   "ct",
+   "remote-site"
+  ],
+  "aliases": [
+   "paediatric MRI anaesthesia",
+   "paediatric CT anaesthesia",
+   "radiology anaesthesia",
+   "remote site anaesthesia"
+  ],
+  "related": [
+   "procedures/anaesthesia-in-mri",
+   "procedures/remote-site-anaesthesia",
+   "crises/contrast-reactions",
+   "procedures/paediatric-surgery",
+   "crises/anaphylaxis"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-anaesthesia.md",
+  "title": "Paediatric Anaesthesia Overview",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "theatre-preparation",
+   "transfusion"
+  ],
+  "aliases": [
+   "paeds anaesthesia",
+   "paediatric GA",
+   "children anaesthesia"
+  ],
+  "related": [
+   "procedures/neonatal-anaesthesia",
+   "procedures/paediatric-preoperative-assessment",
+   "procedures/paediatric-inhalational-induction",
+   "other/emergence-delirium",
+   "drugs/emla-cream"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-cardiac-surgery.md",
+  "title": "Paediatric Cardiac Surgery and Congenital Heart Disease",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "cardiac",
+   "congenital heart disease",
+   "cardiopulmonary bypass",
+   "shunts"
+  ],
+  "aliases": [
+   "CHD",
+   "congenital heart disease",
+   "paeds cardiac",
+   "ASD",
+   "VSD",
+   "PDA",
+   "AVSD",
+   "TOF",
+   "tetralogy of Fallot",
+   "TGA",
+   "single ventricle",
+   "Fontan",
+   "Glenn",
+   "BT shunt",
+   "PA banding"
+  ],
+  "related": [
+   "comorbidities/adult-congenital-heart-disease",
+   "comorbidities/tetralogy-of-fallot",
+   "comorbidities/infective-endocarditis",
+   "procedures/cardiopulmonary-bypass",
+   "procedures/deep-hypothermic-circulatory-arrest"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-day-case-surgery.md",
+  "title": "Paediatric day case surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "day-case",
+   "analgesia",
+   "ponv"
+  ],
+  "aliases": [
+   "day surgery in children",
+   "ambulatory paediatric surgery",
+   "paediatric day surgery"
+  ],
+  "related": [
+   "procedures/day-surgery",
+   "procedures/paediatric-tonsillectomy-and-adenoidectomy",
+   "regional/caudal-block",
+   "comorbidities/ex-premature-infant",
+   "other/ponv"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-dental-surgery.md",
+  "title": "Paediatric Dental Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "dental",
+   "shared-airway",
+   "nasal-intubation"
+  ],
+  "aliases": [
+   "dental extraction GA",
+   "dental rehabilitation",
+   "dental GA children",
+   "dental abscess"
+  ],
+  "related": [
+   "airway/nasal-intubation",
+   "procedures/dental-surgery",
+   "comorbidities/infective-endocarditis",
+   "drugs/midazolam",
+   "airway/throat-pack"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-emergency-orthopaedic-surgery.md",
+  "title": "Paediatric emergency orthopaedic surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "orthopaedics",
+   "trauma",
+   "full-stomach"
+  ],
+  "aliases": [
+   "paediatric orthopaedic trauma",
+   "EOT",
+   "supracondylar fracture",
+   "forearm fracture MUA",
+   "septic arthritis",
+   "femoral shaft fracture"
+  ],
+  "related": [
+   "procedures/paediatric-plastic-surgery",
+   "regional/femoral-nerve-block",
+   "regional/fascia-iliaca-block",
+   "airway/rapid-sequence-induction",
+   "comorbidities/osteogenesis-imperfecta"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-ent-surgery.md",
+  "title": "Paediatric ENT Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "ent",
+   "shared-airway",
+   "day-surgery"
+  ],
+  "aliases": [
+   "paediatric ENT",
+   "paeds ENT",
+   "myringotomy",
+   "grommets"
+  ],
+  "related": [
+   "procedures/paediatric-tonsillectomy",
+   "procedures/paediatric-myringotomy-and-grommets",
+   "procedures/middle-ear-surgery",
+   "airway/paediatric-airway"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-induction-of-anaesthesia.md",
+  "title": "Paediatric Induction of Anaesthesia",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "induction",
+   "sevoflurane",
+   "inhalational"
+  ],
+  "aliases": [
+   "paeds induction",
+   "gas induction",
+   "inhalational induction children",
+   "IV induction children"
+  ],
+  "related": [
+   "procedures/inhalational-induction",
+   "procedures/induction-of-anaesthesia",
+   "drugs/sevoflurane",
+   "drugs/propofol",
+   "procedures/paediatric-tiva"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-maxillofacial-surgery.md",
+  "title": "Paediatric Maxillofacial Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "maxillofacial",
+   "airway",
+   "trauma"
+  ],
+  "aliases": [
+   "paediatric OMS",
+   "paediatric oral and maxillofacial surgery",
+   "paediatric craniofacial surgery",
+   "paediatric facial trauma"
+  ],
+  "related": [
+   "procedures/maxillofacial-surgery",
+   "airway/difficult-airway-paediatric",
+   "comorbidities/treacher-collins-syndrome",
+   "procedures/paediatric-surgery"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-myringotomy-and-grommets.md",
+  "title": "Paediatric myringotomy and grommets",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "ent",
+   "day-case"
+  ],
+  "aliases": [
+   "myringotomy",
+   "grommets",
+   "tympanostomy tubes",
+   "M&T",
+   "ventilation tubes"
+  ],
+  "related": [
+   "procedures/paediatric-tonsillectomy-and-adenoidectomy",
+   "procedures/paediatric-day-case-surgery",
+   "comorbidities/down-syndrome",
+   "crises/laryngospasm"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-neurosurgery-emergencies.md",
+  "title": "Paediatric Emergency Neurosurgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neurosurgery",
+   "emergency",
+   "head-injury"
+  ],
+  "aliases": [
+   "paediatric VP shunt revision",
+   "blocked VP shunt",
+   "paediatric head injury",
+   "paediatric extradural haematoma",
+   "paeds neurosurgery EOT"
+  ],
+  "related": [
+   "procedures/paediatric-neurosurgery",
+   "procedures/hydrocephalus-surgery",
+   "procedures/traumatic-brain-injury-surgery",
+   "physiology/intracranial-pressure"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-neurosurgery.md",
+  "title": "Paediatric Neurosurgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neurosurgery",
+   "intracranial pressure",
+   "hydrocephalus"
+  ],
+  "aliases": [
+   "paeds neurosurgery",
+   "VP shunt",
+   "ventriculoperitoneal shunt",
+   "endoscopic third ventriculostomy",
+   "ETV",
+   "intrathecal baclofen pump",
+   "paediatric craniotomy",
+   "AVM embolisation"
+  ],
+  "related": [
+   "procedures/neuroanaesthesia",
+   "physiology/paediatric-neurophysiology",
+   "procedures/craniotomy",
+   "crises/venous-air-embolism",
+   "drugs/baclofen"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-oncology-surgery.md",
+  "title": "Paediatric Oncology Anaesthesia",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "oncology",
+   "chemotherapy",
+   "remote-site"
+  ],
+  "aliases": [
+   "childhood cancer anaesthesia",
+   "paeds oncology",
+   "Wilms tumour",
+   "nephroblastoma",
+   "neuroblastoma",
+   "paediatric phaeochromocytoma",
+   "portacath insertion",
+   "Hickman line"
+  ],
+  "related": [
+   "comorbidities/anterior-mediastinal-mass",
+   "comorbidities/phaeochromocytoma",
+   "other/tumour-lysis-syndrome",
+   "procedures/radiotherapy-anaesthesia",
+   "drugs/bleomycin"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-ophthalmic-surgery.md",
+  "title": "Paediatric Ophthalmic Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "ophthalmology",
+   "intraocular-pressure",
+   "ponv"
+  ],
+  "aliases": [
+   "paeds eye surgery",
+   "strabismus surgery",
+   "squint surgery",
+   "congenital glaucoma",
+   "paediatric cataract",
+   "retinoblastoma",
+   "intra-arterial chemotherapy",
+   "EUA eyes"
+  ],
+  "related": [
+   "physiology/oculocardiac-reflex",
+   "physiology/intraocular-pressure",
+   "other/postoperative-nausea-and-vomiting",
+   "procedures/eye-surgery",
+   "drugs/ketamine"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-orthopaedic-surgery.md",
+  "title": "Paediatric Orthopaedic Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "orthopaedics",
+   "regional",
+   "tourniquet"
+  ],
+  "aliases": [
+   "paeds ortho",
+   "DDH",
+   "developmental dysplasia of the hip",
+   "clubfoot",
+   "talipes",
+   "hip spica",
+   "femoral osteotomy",
+   "pelvic osteotomy",
+   "Ilizarov",
+   "syndactyly"
+  ],
+  "related": [
+   "comorbidities/cerebral-palsy",
+   "comorbidities/arthrogryposis-multiplex-congenita",
+   "procedures/paediatric-spine-surgery",
+   "regional/caudal-epidural",
+   "equipment/tourniquets"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-plastic-surgery.md",
+  "title": "Paediatric plastic surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "plastics",
+   "cleft",
+   "craniofacial",
+   "free-flap"
+  ],
+  "aliases": [
+   "cleft lip and palate",
+   "cleft repair",
+   "otoplasty",
+   "bat ears",
+   "craniosynostosis",
+   "craniofacial surgery",
+   "free flap in children",
+   "paediatric lacerations"
+  ],
+  "related": [
+   "procedures/paediatric-emergency-orthopaedic-surgery",
+   "regional/infraorbital-nerve-block",
+   "regional/great-auricular-nerve-block",
+   "comorbidities/pierre-robin-sequence",
+   "procedures/free-flap-surgery"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-spine-surgery.md",
+  "title": "Paediatric Spine Surgery and Scoliosis",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "spine",
+   "scoliosis",
+   "neuromonitoring",
+   "blood-conservation"
+  ],
+  "aliases": [
+   "paediatric scoliosis surgery",
+   "spinal fusion",
+   "myelomeningocele repair",
+   "tethered cord",
+   "spina bifida",
+   "neuromonitoring",
+   "SSEP",
+   "MEP",
+   "wake-up test"
+  ],
+  "related": [
+   "procedures/scoliosis-surgery",
+   "equipment/intraoperative-neuromonitoring",
+   "comorbidities/cerebral-palsy",
+   "comorbidities/duchenne-muscular-dystrophy",
+   "procedures/paediatric-orthopaedic-surgery"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-surgery.md",
+  "title": "Paediatric General and Urological Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "general-surgery",
+   "urology",
+   "day-surgery",
+   "regional"
+  ],
+  "aliases": [
+   "paediatric general surgery",
+   "paediatric urology",
+   "circumcision",
+   "inguinal hernia repair",
+   "orchidopexy",
+   "hypospadias repair",
+   "intussusception",
+   "appendicectomy",
+   "fundoplication",
+   "paediatric laparoscopy"
+  ],
+  "related": [
+   "regional/caudal-epidural-block",
+   "regional/penile-nerve-block",
+   "regional/ilioinguinal-iliohypogastric-block",
+   "regional/paediatric-spinal-anaesthesia",
+   "procedures/neonatal-surgery"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-thoracic-surgery.md",
+  "title": "Paediatric Thoracic Surgery and One Lung Ventilation",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "thoracic",
+   "one lung ventilation",
+   "lung isolation"
+  ],
+  "aliases": [
+   "paeds OLV",
+   "paediatric lung isolation",
+   "paediatric thoracotomy",
+   "paediatric thoracoscopy",
+   "VATS children"
+  ],
+  "related": [
+   "procedures/one-lung-ventilation",
+   "equipment/double-lumen-tube",
+   "equipment/bronchial-blocker",
+   "equipment/fibreoptic-bronchoscope",
+   "procedures/thoracic-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-tonsillectomy-and-adenoidectomy.md",
+  "title": "Paediatric tonsillectomy and adenoidectomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "ent",
+   "shared-airway",
+   "osa",
+   "haemorrhage"
+  ],
+  "aliases": [
+   "tonsillectomy",
+   "adenotonsillectomy",
+   "T&A",
+   "adenoidectomy",
+   "bleeding tonsil",
+   "post-tonsillectomy haemorrhage"
+  ],
+  "related": [
+   "comorbidities/obstructive-sleep-apnoea",
+   "procedures/paediatric-day-case-surgery",
+   "procedures/paediatric-myringotomy-and-grommets",
+   "other/ponv",
+   "airway/rapid-sequence-induction"
+  ]
+ },
+ {
+  "path": "topics/procedures/paediatric-tracheostomy.md",
+  "title": "Paediatric tracheostomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "airway",
+   "ent",
+   "shared-airway"
+  ],
+  "aliases": [
+   "tracheostomy in children",
+   "paediatric trach"
+  ],
+  "related": [
+   "airway/paediatric-difficult-airway",
+   "airway/tracheostomy-emergencies",
+   "comorbidities/pierre-robin-sequence",
+   "procedures/paediatric-tonsillectomy-and-adenoidectomy"
   ]
  },
  {
@@ -10183,6 +11245,31 @@
   ]
  },
  {
+  "path": "topics/procedures/remote-site-anaesthesia.md",
+  "title": "Remote Site Anaesthesia",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "remote-site",
+   "nora",
+   "safety"
+  ],
+  "aliases": [
+   "NORA",
+   "non-operating room anaesthesia",
+   "out of theatre anaesthesia",
+   "remote location anaesthesia"
+  ],
+  "related": [
+   "procedures/interventional-radiology",
+   "procedures/mri-anaesthesia",
+   "procedures/gi-endoscopy",
+   "procedures/electroconvulsive-therapy",
+   "procedures/cardiac-catheter-lab"
+  ]
+ },
+ {
   "path": "topics/procedures/renal-transplantation.md",
   "title": "Renal Transplantation (Recipient)",
   "area": "procedures",
@@ -10233,6 +11320,30 @@
    "regional/peripheral-nerve-blocks",
    "procedures/sedation",
    "airway/airway-management"
+  ]
+ },
+ {
+  "path": "topics/procedures/thoracic-anaesthesia.md",
+  "title": "Thoracic Anaesthesia Overview",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "thoracic",
+   "one-lung-ventilation",
+   "lung-isolation"
+  ],
+  "aliases": [
+   "thoracic surgery anaesthesia",
+   "lung surgery anaesthesia",
+   "VATS anaesthesia"
+  ],
+  "related": [
+   "procedures/one-lung-ventilation",
+   "equipment/double-lumen-tube",
+   "equipment/bronchial-blocker",
+   "procedures/vats",
+   "regional/thoracic-epidural"
   ]
  },
  {
@@ -10321,6 +11432,33 @@
    "regional/spinal-anaesthesia",
    "drugs/tranexamic-acid",
    "equipment/tourniquet"
+  ]
+ },
+ {
+  "path": "topics/procedures/tourniquets.md",
+  "title": "Tourniquets",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "orthopaedics",
+   "ischaemia-reperfusion",
+   "tourniquet",
+   "regional"
+  ],
+  "aliases": [
+   "arterial tourniquet",
+   "pneumatic tourniquet",
+   "limb tourniquet",
+   "Esmarch bandage",
+   "tourniquet pain"
+  ],
+  "related": [
+   "procedures/orthopaedic-surgery",
+   "comorbidities/sickle-cell-disease",
+   "regional/brachial-plexus-block",
+   "crises/compartment-syndrome",
+   "procedures/hypotensive-anaesthesia"
   ]
  },
  {
@@ -11348,6 +12486,30 @@
    "regional/femoral-nerve-block",
    "procedures/turbt",
    "regional/tap-block"
+  ]
+ },
+ {
+  "path": "topics/regional/orthopaedic-regional-techniques.md",
+  "title": "Orthopaedic Surgery Choice of Regional Technique",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "orthopaedics",
+   "regional",
+   "nerve-blocks"
+  ],
+  "aliases": [
+   "ortho regional anaesthesia",
+   "ortho RA",
+   "orthopaedic blocks"
+  ],
+  "related": [
+   "regional/axillary-brachial-plexus-block",
+   "regional/supraclavicular-brachial-plexus-block",
+   "regional/interscalene-block",
+   "regional/popliteal-sciatic-block",
+   "regional/peng-block"
   ]
  },
  {

@@ -109,4 +109,5 @@ Inherited muscle diseases; key issues are malignant hyperthermia risk (central c
 <!-- related:start (generated) -->
 ## Related
 - [Muscular Dystrophies in Children](muscular-dystrophies.md)
+- [Glycogen Storage Diseases](glycogen-storage-diseases.md)
 <!-- related:end -->

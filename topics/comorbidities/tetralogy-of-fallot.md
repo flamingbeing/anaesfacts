@@ -132,5 +132,6 @@ Commonest cyanotic congenital heart disease; anaesthesia centres on preventing a
 
 <!-- related:start (generated) -->
 ## Related
+- [Paediatric Cardiac Surgery and Congenital Heart Disease](../procedures/paediatric-cardiac-surgery.md)
 - [Phenylephrine](../drugs/phenylephrine.md)
 <!-- related:end -->

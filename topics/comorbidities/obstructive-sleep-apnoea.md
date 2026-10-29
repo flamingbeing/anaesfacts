@@ -222,4 +222,5 @@ Screen with STOP-BANG and check AHI and bicarbonate; expect a difficult airway, 
 - [Adolescents and Teenagers](../other/adolescents.md)
 - [Day Surgery Anaesthesia](../procedures/day-surgery.md)
 - [Drug-Induced Sleep Endoscopy (DISE)](../procedures/drug-induced-sleep-endoscopy.md)
+- [Paediatric tonsillectomy and adenoidectomy](../procedures/paediatric-tonsillectomy-and-adenoidectomy.md)
 <!-- related:end -->

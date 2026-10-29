@@ -216,4 +216,5 @@ Pacemakers, ICDs and CRT: know the device, dependence and EMI risk, then reprogr
 ## Related
 - [Arrhythmias and Long QT Syndrome](arrhythmias.md)
 - [Cardiomyopathy (HOCM, DCM, Restrictive)](cardiomyopathy.md)
+- [Pacemaker and ICD Implantation](../procedures/pacemaker-icd-implantation.md)
 <!-- related:end -->
