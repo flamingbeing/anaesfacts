@@ -178,6 +178,7 @@ General steps for any peripheral nerve block, by landmark or ultrasound, plus tr
 - [Peripheral nerve block catheters](peripheral-nerve-block-catheters.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Failed Regional Anaesthesia](failed-regional-anaesthesia.md)
+- [Sedation and Regional Anaesthesia in High-Risk Patients](../procedures/sedation-and-regional-anaesthesia-in-high-risk-patients.md)
 - [Nerve stimulation in peripheral nerve blocks](nerve-stimulation-in-peripheral-nerve-blocks.md)
 - [Wrist Block](wrist-block.md)
 <!-- related:end -->

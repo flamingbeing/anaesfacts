@@ -74,4 +74,5 @@ Key issues: valve function sets the haemodynamic goals, and anticoagulation (bri
 - [Aortic Stenosis](aortic-stenosis.md)
 - [Mitral Stenosis](mitral-stenosis.md)
 - [Marfan and Ehlers-Danlos Syndromes](marfan-and-ehlers-danlos-syndromes.md)
+- [Venous Thromboembolism and Prophylaxis](venous-thromboembolism.md)
 <!-- related:end -->

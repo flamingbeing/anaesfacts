@@ -111,6 +111,7 @@ Brachial plexus block at the trunks and divisions over the first rib, beside the
 - [Infraclavicular Block](infraclavicular-block.md)
 - [Axillary Brachial Plexus Block](axillary-block.md)
 - [Intercostobrachial Nerve Block](intercostobrachial-nerve-block.md)
+- [Arteriovenous Fistula and Graft Creation](../procedures/arteriovenous-fistula-creation.md)
 - [Brachial Plexus Blocks Introduction](brachial-plexus-blocks-introduction.md)
 - [Forearm and Elbow Level Blocks](forearm-blocks.md)
 <!-- related:end -->

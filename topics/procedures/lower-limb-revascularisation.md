@@ -56,4 +56,5 @@ Surgery for limb-threatening ischaemia in vasculopaths, often urgent and often o
 <!-- related:start (generated) -->
 ## Related
 - [Major lower limb amputation](lower-limb-amputation.md)
+- [Upper Limb Vascular Surgery and Revascularisation](upper-limb-revascularisation.md)
 <!-- related:end -->

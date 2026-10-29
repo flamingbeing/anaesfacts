@@ -53,4 +53,6 @@ Infusion recipes for regional catheters, PCA pump settings for intermittent bolu
 ## Related
 - [Ropivacaine](../drugs/ropivacaine.md)
 - [Erector Spinae Plane Block](../regional/erector-spinae-plane-block.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
+- [Spinal Anaesthesia](../regional/spinal-anaesthesia.md)
 <!-- related:end -->

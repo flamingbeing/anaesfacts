@@ -101,4 +101,5 @@ Loss of adrenal cortex function; give steroid cover throughout the perioperative
 - [Cushing's Syndrome](cushings-syndrome.md)
 - [Conn's Syndrome](conns-syndrome.md)
 - [Panhypopituitarism](panhypopituitarism.md)
+- [Perioperative Steroids and Stress Dosing](perioperative-steroids.md)
 <!-- related:end -->

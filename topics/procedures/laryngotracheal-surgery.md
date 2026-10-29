@@ -119,6 +119,7 @@ Anaesthesia for surgery on the larynx and trachea (polyps, cancer, masses, forei
 <!-- related:start (generated) -->
 ## Related
 - [Microlaryngeal Surgery, Microlaryngoscopy and Panendoscopy](microlaryngeal-surgery.md)
+- [Rigid Bronchoscopy](rigid-bronchoscopy.md)
 - [Laser surgery](laser-surgery.md)
 - [Paediatric Airway Surgery](paediatric-airway-surgery.md)
 <!-- related:end -->

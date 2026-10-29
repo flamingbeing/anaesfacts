@@ -253,6 +253,7 @@ Stratify risk, keep supply above demand (slow HR, BP near baseline, Hb, normothe
 - [Heart Failure](heart-failure.md)
 - [Hyperlipidaemia](hyperlipidaemia.md)
 - [Hypertension](hypertension.md)
+- [Smoking](smoking.md)
 - [Vascular Patients](vascular-patients.md)
 - [Coronary Artery Bypass Grafting (CABG)](../procedures/cabg.md)
 <!-- related:end -->

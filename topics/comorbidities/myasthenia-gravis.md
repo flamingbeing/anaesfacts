@@ -317,6 +317,7 @@ MG patients are resistant to suxamethonium and very sensitive to non-depolarisin
 - [Sugammadex](../drugs/sugammadex.md)
 - [Pyridostigmine](../drugs/pyridostigmine.md)
 - [Rocuronium](../drugs/rocuronium.md)
+- [Perioperative Steroids and Stress Dosing](perioperative-steroids.md)
 - [Anterior Mediastinal Mass](anterior-mediastinal-mass.md)
 - [Guillain-Barré Syndrome](guillain-barre-syndrome.md)
 - [Neuromuscular diseases](neuromuscular-diseases.md)

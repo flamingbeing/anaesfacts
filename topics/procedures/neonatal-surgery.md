@@ -306,6 +306,8 @@ Common neonatal operations: pyloric stenosis is a medical emergency first; NEC a
 <!-- related:start (generated) -->
 ## Related
 - [Prematurity and Ex-Premature Infants](../comorbidities/prematurity.md)
+- [Tracheo-oesophageal Fistula and Oesophageal Atresia](tracheo-oesophageal-fistula.md)
+- [VACTERL Association](../comorbidities/vacterl-association.md)
 - [Neonatal anaesthesia](../comorbidities/neonatal-anaesthesia.md)
 - [Paediatric General and Urological Surgery](paediatric-surgery.md)
 <!-- related:end -->

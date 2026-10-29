@@ -55,3 +55,8 @@ Minimally invasive repair of pectus excavatum using a curved bar placed behind t
   - A: Lung isolation for bilateral VATS, arterial line and large bore IV in case of mediastinal injury.
 - Q: By how much is the Nuss bar rotated once in place?
   - A: 180°, so its curve faces forwards and pushes the sternum out.
+
+<!-- related:start (generated) -->
+## Related
+- [Video-Assisted Thoracoscopic Surgery (VATS)](vats.md)
+<!-- related:end -->

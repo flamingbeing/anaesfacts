@@ -94,5 +94,6 @@ Video-assisted thoracic surgery under deep sedation or LMA anaesthesia with spon
 
 <!-- related:start (generated) -->
 ## Related
+- [Video-Assisted Thoracoscopic Surgery (VATS)](vats.md)
 - [Lung Resection Surgery](lung-resection-surgery.md)
 <!-- related:end -->

@@ -81,4 +81,5 @@ Isolation theatre with everything prepared, full PPE, and fewer aerosols: avoid 
 <!-- related:start (generated) -->
 ## Related
 - [COVID-19](covid-19.md)
+- [Tuberculosis](tuberculosis.md)
 <!-- related:end -->

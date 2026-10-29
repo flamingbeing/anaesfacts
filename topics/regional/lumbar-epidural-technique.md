@@ -194,6 +194,8 @@ Step-by-step lumbar epidural insertion: preparation, midline and paramedian appr
 <!-- related:start (generated) -->
 ## Related
 - [Epidural Anaesthesia](epidural-anaesthesia.md)
+- [Spinal Anaesthesia Technique](spinal-anaesthesia-technique.md)
 - [Labour Analgesia](labour-analgesia.md)
 - [Lumbar Spinal Stenosis](../comorbidities/lumbar-spinal-stenosis.md)
+- [Epidural and Paravertebral Technique](epidural-and-paravertebral-technique.md)
 <!-- related:end -->

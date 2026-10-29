@@ -302,6 +302,7 @@ Chronic obstructive lung disease: optimise first, avoid bronchospasm and air tra
 <!-- related:start (generated) -->
 ## Related
 - [Asthma](asthma.md)
+- [Smoking](smoking.md)
 - [Interscalene Block](../regional/interscalene-block.md)
 - [Restrictive Lung Disease](restrictive-lung-disease.md)
 - [Theophylline and Aminophylline](../drugs/theophylline-and-aminophylline.md)

@@ -99,10 +99,13 @@ Key themes: the underlying disease, lung function testing, one-lung ventilation 
 
 <!-- related:start (generated) -->
 ## Related
+- [Video-Assisted Thoracoscopic Surgery (VATS)](vats.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 - [Bullectomy and Emphysema Surgery](bullectomy.md)
 - [Decortication of Empyema](decortication-of-empyema.md)
 - [Endoscopic Thoracic Sympathectomy](endoscopic-thoracic-sympathectomy.md)
 - [Extrapleural Pneumonectomy](extrapleural-pneumonectomy.md)
 - [Oesophageal Surgery and POEM](oesophageal-surgery.md)
 - [Paediatric Thoracic Surgery and One Lung Ventilation](paediatric-thoracic-surgery.md)
+- [Tracheo-oesophageal Fistula and Oesophageal Atresia](tracheo-oesophageal-fistula.md)
 <!-- related:end -->

@@ -95,4 +95,5 @@ Fixed pericardial space limits filling: keep the patient fast, full and tight, a
 - [Anterior Mediastinal Mass](anterior-mediastinal-mass.md)
 - [Ketamine](../drugs/ketamine.md)
 - [Pericardial Disease](pericardial-disease.md)
+- [Catheter Ablation Procedures (AF and VT Ablation)](../procedures/catheter-ablation.md)
 <!-- related:end -->

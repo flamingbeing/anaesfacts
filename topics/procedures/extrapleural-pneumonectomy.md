@@ -88,4 +88,5 @@ En-bloc removal of lung, part of the same-side diaphragm, parietal pleura and pe
 <!-- related:start (generated) -->
 ## Related
 - [Thoracic Anaesthesia Overview](thoracic-anaesthesia.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 <!-- related:end -->

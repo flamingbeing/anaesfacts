@@ -61,6 +61,7 @@ Haemodynamic goal "fast, full, forward": keep heart rate high-normal, preload no
 
 <!-- related:start (generated) -->
 ## Related
+- [Valvular Heart Disease and Murmurs](valvular-heart-disease.md)
 - [Mitral Regurgitation and Mitral Valve Prolapse](mitral-regurgitation.md)
 - [Aortic Stenosis](aortic-stenosis.md)
 - [Adult Cardiac Surgery with Cardiopulmonary Bypass](../procedures/cardiac-surgery-with-cardiopulmonary-bypass.md)

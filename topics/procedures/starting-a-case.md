@@ -115,5 +115,6 @@ Step-by-step sequence from the morning machine check to knife-to-skin, for any t
 <!-- related:start (generated) -->
 ## Related
 - [General Anaesthesia](general-anaesthesia.md)
+- [Spinal Anaesthesia](../regional/spinal-anaesthesia.md)
 - [Peripheral Nerve Blocks Overview](../regional/peripheral-nerve-blocks.md)
 <!-- related:end -->

@@ -105,11 +105,15 @@ Proceed with AF if rate is under 110, asymptomatic and no heart failure; continu
 
 <!-- related:start (generated) -->
 ## Related
+- [Venous Thromboembolism and Prophylaxis](venous-thromboembolism.md)
 - [Amiodarone](../drugs/amiodarone.md)
 - [Mitral Stenosis](mitral-stenosis.md)
+- [Tricuspid Regurgitation](tricuspid-regurgitation.md)
+- [Wolff-Parkinson-White Syndrome](wolff-parkinson-white-syndrome.md)
 - [Digoxin](../drugs/digoxin.md)
 - [Flecainide](../drugs/flecainide.md)
 - [Magnesium sulfate and hypomagnesaemia](../drugs/magnesium-sulfate.md)
 - [Procainamide](../drugs/procainamide.md)
 - [Direct Current Cardioversion](../procedures/cardioversion.md)
+- [Upper Limb Vascular Surgery and Revascularisation](../procedures/upper-limb-revascularisation.md)
 <!-- related:end -->

@@ -130,6 +130,7 @@ Fusion or fixation of an unstable neck: airway risk to the cord, cord perfusion,
 
 <!-- related:start (generated) -->
 ## Related
+- [Spinal Cord Injury](../comorbidities/spinal-cord-injury.md)
 - [Osteogenesis Imperfecta](../comorbidities/osteogenesis-imperfecta.md)
 - [Lumbar Spine Surgery](lumbar-spine-surgery.md)
 <!-- related:end -->

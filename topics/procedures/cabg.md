@@ -222,4 +222,5 @@ Unrevascularised ischaemic heart disease plus the general cardiac issues (TOE, b
 ## Related
 - [Off-Pump and Minimally Invasive CABG](off-pump-cabg.md)
 - [Ischaemic Heart Disease](../comorbidities/ischaemic-heart-disease.md)
+- [Cardiac Anaesthesia](cardiac-anaesthesia.md)
 <!-- related:end -->

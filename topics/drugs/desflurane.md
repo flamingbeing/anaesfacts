@@ -84,4 +84,5 @@ Fluorinated ethyl methyl ether volatile with the fastest onset and offset, given
 - [Green Anaesthesia and Sustainability](../other/green-anaesthesia.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
 - [Minimum alveolar concentration (MAC)](../physiology/minimum-alveolar-concentration.md)
+- [Volatile-Based Anaesthesia](../procedures/volatile-anaesthesia.md)
 <!-- related:end -->

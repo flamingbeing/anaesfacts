@@ -100,5 +100,6 @@ Damage to cord or roots after central neuraxial block (CNB) comes from trauma, n
 <!-- related:start (generated) -->
 ## Related
 - [Nerve injury and residual block after peripheral nerve blocks](nerve-injury-after-peripheral-nerve-blocks.md)
+- [Spinal Anaesthesia](spinal-anaesthesia.md)
 - [Epidural Anaesthesia](epidural-anaesthesia.md)
 <!-- related:end -->

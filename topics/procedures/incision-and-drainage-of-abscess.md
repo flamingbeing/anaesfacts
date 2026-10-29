@@ -82,4 +82,5 @@ Short procedure with bursts of intense pain: keep the patient deep and well load
 ## Related
 - [Alfentanil](../drugs/alfentanil.md)
 - [Morphine](../drugs/morphine.md)
+- [Sepsis](../comorbidities/sepsis.md)
 <!-- related:end -->

@@ -104,6 +104,8 @@ Widely variable cases; key issues are urgency, associated trauma, blood loss wit
 <!-- related:start (generated) -->
 ## Related
 - [Hip Fracture](hip-fracture.md)
+- [Shoulder and Humerus Surgery](shoulder-and-humerus-surgery.md)
 - [Fat Embolism Syndrome](../crises/fat-embolism-syndrome.md)
 - [Foot and Ankle Surgery](foot-and-ankle-surgery.md)
+- [Wound Debridement](wound-debridement.md)
 <!-- related:end -->

@@ -150,5 +150,6 @@ Active or recent URTI raises the risk of airway complications, especially in chi
 <!-- related:start (generated) -->
 ## Related
 - [Asthma](asthma.md)
+- [Smoking](smoking.md)
 - [Preschool and Young Children](../other/preschool-children.md)
 <!-- related:end -->

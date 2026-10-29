@@ -67,4 +67,5 @@ Alpha-2 agonist for sedation and analgesia; less alpha-2 selective than dexmedet
 - [Analgesic adjuncts](analgesic-adjuncts.md)
 - [Parotidectomy](../procedures/parotidectomy.md)
 - [Caudal Epidural Block](../regional/caudal-epidural-block.md)
+- [Intrathecal Local Anaesthetics, Opioids and Adjuncts](../regional/intrathecal-drugs.md)
 <!-- related:end -->

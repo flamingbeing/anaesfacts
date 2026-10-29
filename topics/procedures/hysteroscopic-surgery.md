@@ -67,6 +67,7 @@ Short day-case gynaecological procedure; the main hazard is absorption of disten
 
 <!-- related:start (generated) -->
 ## Related
+- [Transurethral Resection of the Prostate (TURP)](turp.md)
 - [Hyponatraemia and Hypertonic Saline](../comorbidities/hyponatraemia.md)
 - [Laparoscopic Surgery](laparoscopic-surgery.md)
 <!-- related:end -->

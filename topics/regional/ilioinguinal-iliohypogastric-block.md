@@ -77,6 +77,8 @@ Block of the two L1 nerves between internal oblique and transversus abdominis ne
 - [Paediatric Anaesthesia Overview](../procedures/paediatric-anaesthesia.md)
 - [Hernia Repair](../procedures/hernia-repair.md)
 - [Paediatric General and Urological Surgery](../procedures/paediatric-surgery.md)
+- [Testicular Surgery](../procedures/testicular-surgery.md)
+- [Varicose Vein Surgery](../procedures/varicose-vein-surgery.md)
 - [Peripheral nerve blocks in children](paeds-peripheral-nerve-blocks.md)
 - [TAP and quadratus lumborum blocks](tap-and-quadratus-lumborum-blocks.md)
 <!-- related:end -->

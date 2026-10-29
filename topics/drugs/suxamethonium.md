@@ -196,6 +196,7 @@ The only depolarising neuromuscular blocker in clinical use: fastest onset and s
 - [Myasthenia Gravis in Children](../comorbidities/paediatric-myasthenia-gravis.md)
 - [Renal Failure in Children](../comorbidities/paediatric-renal-failure.md)
 - [Previous Stroke and TIA](../comorbidities/previous-stroke-and-tia.md)
+- [Spinal Cord Injury](../comorbidities/spinal-cord-injury.md)
 - [Neuromuscular blockers](neuromuscular-blockers.md)
 - [Non-depolarising neuromuscular blockers](non-depolarising-neuromuscular-blockers.md)
 - [Paediatric neuromuscular blockers and reversal](paediatric-neuromuscular-blockers.md)

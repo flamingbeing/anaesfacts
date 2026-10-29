@@ -104,6 +104,8 @@ Long, high-risk operation: RSI, one-lung ventilation, lung protection and carefu
 ## Related
 - [Oesophageal Surgery and POEM](oesophageal-surgery.md)
 - [Intraoperative fluid management](intraoperative-fluid-management.md)
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 - [Cancer and chemotherapy](../comorbidities/cancer-and-chemotherapy.md)
+- [Chest Trauma Surgery](chest-trauma-surgery.md)
 - [Oesophageal Perforation and Repair](oesophageal-perforation-repair.md)
 <!-- related:end -->

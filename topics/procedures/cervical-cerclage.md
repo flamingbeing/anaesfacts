@@ -48,4 +48,5 @@ Suture placed around the cervix to prevent miscarriage, usually in the 2nd trime
 <!-- related:start (generated) -->
 ## Related
 - [Obstetric Anaesthesia](obstetric-anaesthesia.md)
+- [Spinal Anaesthesia](../regional/spinal-anaesthesia.md)
 <!-- related:end -->

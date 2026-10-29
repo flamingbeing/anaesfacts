@@ -96,6 +96,7 @@ Blocking the nerves to a body region for surgical anaesthesia or analgesia; avoi
 
 <!-- related:start (generated) -->
 ## Related
+- [Spinal Anaesthesia](spinal-anaesthesia.md)
 - [Epidural Anaesthesia](epidural-anaesthesia.md)
 - [Neuraxial and Regional Blocks with Anticoagulants](neuraxial-anticoagulation.md)
 - [Local Anaesthetics](../drugs/local-anaesthetics.md)

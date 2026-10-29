@@ -76,4 +76,5 @@ Bladder excision with urinary diversion (ileal conduit or bladder reconstruction
 <!-- related:start (generated) -->
 ## Related
 - [Epidural Anaesthesia](../regional/epidural-anaesthesia.md)
+- [Urological Surgery](urology-surgery.md)
 <!-- related:end -->

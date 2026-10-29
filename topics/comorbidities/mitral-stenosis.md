@@ -102,6 +102,7 @@ Fixed-output valve lesion: keep the heart slow and in sinus rhythm, keep preload
 
 <!-- related:start (generated) -->
 ## Related
+- [Valvular Heart Disease and Murmurs](valvular-heart-disease.md)
 - [Pulmonary Hypertension and Right Ventricular Dysfunction](pulmonary-hypertension.md)
 - [Atrial fibrillation](atrial-fibrillation.md)
 - [Aortic Stenosis](aortic-stenosis.md)

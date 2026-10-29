@@ -65,4 +65,5 @@ Amide local anaesthetic with the lowest neurological and cardiac toxicity of the
 - [Local anaesthetic side effects](local-anaesthetic-side-effects.md)
 - [Topical Cutaneous Anaesthesia](topical-cutaneous-anaesthesia.md)
 - [Bier Block (Intravenous Regional Anaesthesia)](../regional/bier-block.md)
+- [Intrathecal Local Anaesthetics, Opioids and Adjuncts](../regional/intrathecal-drugs.md)
 <!-- related:end -->

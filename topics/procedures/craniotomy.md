@@ -202,6 +202,7 @@ Neuroanaesthesia for craniotomy: control BP and ICP, protect the brain, give a s
 <!-- related:start (generated) -->
 ## Related
 - [Awake Craniotomy and Deep Brain Stimulation](awake-craniotomy.md)
+- [Traumatic Brain Injury Surgery](traumatic-brain-injury-surgery.md)
 - [Effect of Anaesthetic Agents on ICP, CBF and CMR](../physiology/anaesthetic-agents-icp-cbf-cmr.md)
 - [Endovascular Thrombectomy for Ischaemic Stroke](endovascular-thrombectomy-for-stroke.md)
 - [Intracranial Aneurysm Clipping and Coiling](intracranial-aneurysm-surgery.md)

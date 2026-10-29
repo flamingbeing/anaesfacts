@@ -109,6 +109,7 @@ Block of the terminal branches of the brachial plexus around the axillary artery
 - [Supraclavicular Block](supraclavicular-block.md)
 - [Interscalene Block](interscalene-block.md)
 - [Lateral and Medial Antebrachial Cutaneous Nerve Block](lateral-and-medial-antebrachial-cutaneous-nerve-block.md)
+- [Arteriovenous Fistula and Graft Creation](../procedures/arteriovenous-fistula-creation.md)
 - [Brachial Plexus Blocks Introduction](brachial-plexus-blocks-introduction.md)
 - [Forearm and Elbow Level Blocks](forearm-blocks.md)
 <!-- related:end -->

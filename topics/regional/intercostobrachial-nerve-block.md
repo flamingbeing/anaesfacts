@@ -45,6 +45,7 @@ Subcutaneous block along the axillary crease that supplements a brachial plexus 
 ## Related
 - [Interscalene Block](interscalene-block.md)
 - [Supraclavicular Block](supraclavicular-block.md)
+- [Arteriovenous Fistula and Graft Creation](../procedures/arteriovenous-fistula-creation.md)
 - [Axillary Brachial Plexus Block](axillary-block.md)
 - [Infraclavicular Block](infraclavicular-block.md)
 - [Lateral and Medial Antebrachial Cutaneous Nerve Block](lateral-and-medial-antebrachial-cutaneous-nerve-block.md)

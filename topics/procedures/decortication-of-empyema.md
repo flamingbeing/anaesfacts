@@ -73,5 +73,7 @@ Removal of pus and thick organised fibrinous pleura: septic patient, one-lung ve
 
 <!-- related:start (generated) -->
 ## Related
+- [Video-Assisted Thoracoscopic Surgery (VATS)](vats.md)
 - [Thoracic Anaesthesia Overview](thoracic-anaesthesia.md)
+- [Sepsis](../comorbidities/sepsis.md)
 <!-- related:end -->

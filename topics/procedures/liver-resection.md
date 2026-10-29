@@ -179,6 +179,7 @@ Hepatectomy for tumour: the anaesthetic centres on low-CVP technique to limit bl
 
 <!-- related:start (generated) -->
 ## Related
+- [Thoracic Epidural Anaesthesia and Analgesia](../regional/thoracic-epidural.md)
 - [Chronic Liver Disease and Cirrhosis](../comorbidities/chronic-liver-disease.md)
 - [Hepatobiliary Surgery](hepatobiliary-surgery.md)
 <!-- related:end -->

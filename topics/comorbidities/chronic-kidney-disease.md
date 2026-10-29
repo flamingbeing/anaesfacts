@@ -213,4 +213,6 @@ Check fluid status, potassium, dialysis timing and drug handling; protect remain
 - [Pancreas Transplantation](../procedures/pancreas-transplantation.md)
 - [Parathyroid Surgery](../procedures/parathyroid-surgery.md)
 - [Renal Transplantation (Recipient)](../procedures/renal-transplantation.md)
+- [Tenckhoff Catheter Insertion and Removal](../procedures/tenckhoff-catheter.md)
+- [Urological Surgery](../procedures/urology-surgery.md)
 <!-- related:end -->

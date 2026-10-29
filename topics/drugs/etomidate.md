@@ -91,6 +91,7 @@ Imidazole induction agent with the least cardiovascular depression, at the cost 
 - [Propofol](propofol.md)
 - [Ketamine](ketamine.md)
 - [Thiopentone](thiopentone.md)
+- [Perioperative Steroids and Stress Dosing](../comorbidities/perioperative-steroids.md)
 - [Induction agents](induction-agents.md)
 - [Mechanisms of general anaesthetic action](../physiology/mechanisms-of-general-anaesthetic-action.md)
 <!-- related:end -->

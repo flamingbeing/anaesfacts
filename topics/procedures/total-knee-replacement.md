@@ -102,4 +102,5 @@ Usually spinal with local infiltration; cefazolin, two doses of TXA and an intra
 <!-- related:start (generated) -->
 ## Related
 - [Total Hip Replacement](total-hip-replacement.md)
+- [Spinal Anaesthesia](../regional/spinal-anaesthesia.md)
 <!-- related:end -->

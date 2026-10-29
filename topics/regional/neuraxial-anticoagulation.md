@@ -112,6 +112,8 @@ Timing of antiplatelets and anticoagulants around spinals, epidurals, catheters 
 - [Coagulopathy](../comorbidities/coagulopathy.md)
 - [Interventional Pain Management](../procedures/interventional-pain-management.md)
 - [Prosthetic Heart Valves](../comorbidities/prosthetic-heart-valves.md)
+- [Thrombocytopaenia](../comorbidities/thrombocytopaenia.md)
 - [Peripheral Arterial Bypass Graft](../procedures/peripheral-arterial-bypass-graft.md)
 - [Regional Anaesthesia](regional-anaesthesia.md)
+- [Spinal Anaesthesia](spinal-anaesthesia.md)
 <!-- related:end -->

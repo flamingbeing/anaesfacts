@@ -50,3 +50,9 @@ Endoscopic removal of a renal stone through a nephrostomy tract, usually for lar
   - A: Large volumes of irrigation fluid
 - Q: What infective complication follows infected stones?
   - A: Septic shower and Gram negative bacteraemia
+
+<!-- related:start (generated) -->
+## Related
+- [Transurethral Resection of the Prostate (TURP)](turp.md)
+- [Ureteroscopy, Laser Lithotripsy, DJ Stent and RIRS](ureteroscopy.md)
+<!-- related:end -->

@@ -185,4 +185,5 @@ CO2 pneumoperitoneum plus steep positioning changes cardiovascular, respiratory 
 - [Hysterectomy](hysterectomy.md)
 - [Hysteroscopic Surgery](hysteroscopic-surgery.md)
 - [Laparoscopic Gynaecological Surgery](laparoscopic-gynaecological-surgery.md)
+- [Robotic Surgery](robotic-surgery.md)
 <!-- related:end -->
