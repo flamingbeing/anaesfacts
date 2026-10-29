@@ -58,4 +58,5 @@ Anaesthetic aim: avoid triggering a relapse and avoid neurological complications
 - [Neuromuscular diseases](neuromuscular-diseases.md)
 - [Suxamethonium](../drugs/suxamethonium.md)
 - [Spinal Anaesthesia](../regional/spinal-anaesthesia.md)
+- [Baclofen](../drugs/baclofen.md)
 <!-- related:end -->

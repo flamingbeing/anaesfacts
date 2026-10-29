@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Valium]
+related: [drugs/benzodiazepines, drugs/midazolam, drugs/flumazenil, drugs/remimazolam]
 sources: []
 tags: [benzodiazepine, sedation, anticonvulsant]
 ---
@@ -34,3 +36,21 @@ Long-acting benzodiazepine (Valium) with active metabolites; slower in onset tha
   - Liver failure and cimetidine prolong its action by slowing metabolism
 - Lowest clearance of the common benzodiazepines; half-life greatly prolonged by infusion
 - Elimination half-life 20-40hrs
+
+## Flashcards
+- Q: What is the IV sedation dose of diazepam?
+  - A: 0.05-0.1 mg/kg, up to 0.25 mg/kg
+- Q: What are the active metabolites of diazepam?
+  - A: Desmethyldiazepam, oxazepam and temazepam
+- Q: What is the elimination half-life of diazepam?
+  - A: 20-40hrs
+- Q: How long does the anticonvulsant effect of IV diazepam last?
+  - A: 20-30mins
+
+<!-- related:start (generated) -->
+## Related
+- [Benzodiazepines](benzodiazepines.md)
+- [Midazolam](midazolam.md)
+- [Flumazenil](flumazenil.md)
+- [Remimazolam](remimazolam.md)
+<!-- related:end -->

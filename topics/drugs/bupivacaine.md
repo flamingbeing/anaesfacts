@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Marcaine, heavy bupivacaine, hyperbaric bupivacaine]
+related: [drugs/levobupivacaine, drugs/ropivacaine, drugs/lidocaine, crises/local-anaesthetic-systemic-toxicity, drugs/local-anaesthetics]
 sources: []
 tags: [local-anaesthetic, amide, cardiotoxicity]
 ---
@@ -47,15 +49,27 @@ Long-acting amide local anaesthetic (Marcaine); racemic, with marked cardiotoxic
 - Most highly protein-bound of the amide local anaesthetics
 - Hepatic metabolism by dealkylation to pipecolic acid and pipecolylxylidine
 
+## Flashcards
+- Q: What is the toxic dose of bupivacaine?
+  - A: 2 mg/kg (20 ml of 0.5% for a 50 kg patient)
+- Q: What does heavy bupivacaine 0.5% contain?
+  - A: Glucose 80 mg/ml; specific gravity 1.026
+- Q: What is the CC/CNS ratio of bupivacaine versus lidocaine?
+  - A: 3 for bupivacaine, 7 for lidocaine
+- Q: Which bupivacaine enantiomer is most cardiotoxic?
+  - A: The dextro-enantiomer
+- Q: What is the duration of bupivacaine?
+  - A: 3-8 hrs
+
 <!-- related:start (generated) -->
 ## Related
-- [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Levobupivacaine](levobupivacaine.md)
-- [Lidocaine](lidocaine.md)
-- [Local Anaesthetics Overview](local-anaesthetics-overview.md)
-- [Local Anaesthetics](local-anaesthetics.md)
-- [Local anaesthetics in children](paediatric-local-anaesthetics.md)
 - [Ropivacaine](ropivacaine.md)
+- [Lidocaine](lidocaine.md)
+- [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Local Anaesthetics](local-anaesthetics.md)
+- [Local Anaesthetics Overview](local-anaesthetics-overview.md)
+- [Local anaesthetics in children](paediatric-local-anaesthetics.md)
 - [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
 - [Intrathecal Local Anaesthetics, Opioids and Adjuncts](../regional/intrathecal-drugs.md)
 - [Paediatric Epidural Blockade](../regional/paediatric-epidural.md)

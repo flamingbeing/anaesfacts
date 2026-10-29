@@ -62,4 +62,5 @@ Takes gases from the supply, sets their mix and flow, adds volatile agent and de
 <!-- related:start (generated) -->
 ## Related
 - [Circle System and Low Flow Anaesthesia](circle-system.md)
+- [Medical Air](../drugs/medical-air.md)
 <!-- related:end -->

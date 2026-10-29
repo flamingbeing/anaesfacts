@@ -59,4 +59,5 @@ Underactive parathyroid glands, causing low calcium; correct calcium before thea
 <!-- related:start (generated) -->
 ## Related
 - [Hyperparathyroidism](hyperparathyroidism.md)
+- [Hypocalcaemia and Calcium Replacement](../drugs/hypocalcaemia-and-calcium-replacement.md)
 <!-- related:end -->

@@ -49,4 +49,5 @@ Inert, low-density gas; as heliox it improves flow through obstructed upper airw
 <!-- related:start (generated) -->
 ## Related
 - [Oxygen](oxygen.md)
+- [Medical Air](medical-air.md)
 <!-- related:end -->

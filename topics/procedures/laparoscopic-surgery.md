@@ -177,6 +177,7 @@ CO2 pneumoperitoneum plus steep positioning changes cardiovascular, respiratory 
 <!-- related:start (generated) -->
 ## Related
 - [Bariatric Surgery](bariatric-surgery.md)
+- [Carbon dioxide](../drugs/carbon-dioxide.md)
 - [Abdominal Surgery and Laparotomy](abdominal-surgery-and-laparotomy.md)
 - [Cholecystectomy](cholecystectomy.md)
 - [Colorectal Resection](colorectal-resection.md)

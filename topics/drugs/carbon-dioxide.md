@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [CO2]
+related: [procedures/laparoscopic-surgery, physiology/anaesthetic-agents-icp-cbf-cmr, drugs/oxygen, drugs/medical-air]
 sources: []
 tags: [medical-gas, laparoscopy, physiology]
 ---
@@ -38,3 +40,21 @@ Colourless medical gas, pungent at high concentration; used mainly for laparosco
 - Insufflation gas for laparoscopy
 - Occasionally to stimulate breathing after general anaesthesia
 - Cryotherapy
+
+## Flashcards
+- Q: What colour are carbon dioxide cylinders?
+  - A: Grey
+- Q: What are the critical temperature and pressure of CO2?
+  - A: 31°C and 73.8 bar
+- Q: Above what PaCO2 can respiratory depression and narcosis occur?
+  - A: 10 kPa
+- Q: What is the main clinical use of CO2?
+  - A: Insufflation gas for laparoscopy
+
+<!-- related:start (generated) -->
+## Related
+- [Laparoscopic Surgery](../procedures/laparoscopic-surgery.md)
+- [Effect of Anaesthetic Agents on ICP, CBF and CMR](../physiology/anaesthetic-agents-icp-cbf-cmr.md)
+- [Oxygen](oxygen.md)
+- [Medical Air](medical-air.md)
+<!-- related:end -->

@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [antiarrhythmic drugs, Vaughan-Williams classification]
+related: [drugs/amiodarone, drugs/flecainide, drugs/sotalol, drugs/digoxin, comorbidities/arrhythmias]
 sources: []
 tags: [antiarrhythmic, vaughan-williams, cardiovascular, arrhythmia]
 ---
@@ -119,8 +121,28 @@ Overview of antiarrhythmic drugs: Vaughan-Williams classes, grouping by clinical
     - May be considered in ACS with severe heart failure or haemodynamic instability (AHA 2014)
   - Accessory pathway (e.g. WPW)
 
+## Flashcards
+- Q: Vaughan-Williams classes I to IV?
+  - A: Sodium channel blockers, beta-blockers, potassium channel blockers, calcium channel blockers
+- Q: Strength of sodium channel block across class I subclasses?
+  - A: IC > IA > IB
+- Q: Effect of class IA, IB and IC drugs on ERP?
+  - A: IA increases, IB decreases, IC no change
+- Q: Key side effect of procainamide?
+  - A: Drug-induced lupus
+- Q: Warning signs of digoxin toxicity?
+  - A: Yellow vision, loss of appetite, nausea
+
 <!-- related:start (generated) -->
 ## Related
+- [Amiodarone](amiodarone.md)
 - [Flecainide](flecainide.md)
+- [Sotalol](sotalol.md)
+- [Digoxin](digoxin.md)
+- [Arrhythmias and Long QT Syndrome](../comorbidities/arrhythmias.md)
+- [Adenosine](adenosine.md)
+- [Beta Blockers](beta-blockers.md)
+- [Calcium Channel Blockers](calcium-channel-blockers.md)
 - [Procainamide](procainamide.md)
+- [Verapamil](verapamil.md)
 <!-- related:end -->

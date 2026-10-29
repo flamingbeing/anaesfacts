@@ -102,6 +102,7 @@ Short, minor eye operation, usually under topical or regional anaesthesia with l
 
 <!-- related:start (generated) -->
 ## Related
+- [Amethocaine (tetracaine)](../drugs/amethocaine.md)
 - [Anterior Segment Eye Surgery](anterior-segment-eye-surgery.md)
 - [Glaucoma Surgery](glaucoma-surgery.md)
 - [Miscellaneous Eye Procedures](misc-eye-procedures.md)

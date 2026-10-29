@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Anexate]
+related: [drugs/benzodiazepines, drugs/midazolam, drugs/diazepam, drugs/naloxone]
 sources: []
 tags: [benzodiazepine, antagonist, reversal, antidote]
 ---
@@ -49,3 +51,25 @@ Imidazobenzodiazepine that competitively antagonises benzodiazepines; short-acti
 - 50% protein bound
 - Extensive hepatic metabolism to inactive compounds, excreted in urine
 - Half-life about 1 hour, shorter than many benzodiazepines
+
+## Flashcards
+- Q: What is the incremental dose of flumazenil?
+  - A: 0.01 mg/kg every 60 sec, up to four further doses
+- Q: What is the maximum total dose of flumazenil?
+  - A: 0.05 mg/kg or 1 mg, whichever is lower
+- Q: How long should a patient be observed after flumazenil?
+  - A: At least 2 hours (re-sedation risk)
+- Q: What is the half-life of flumazenil?
+  - A: About 1 hour
+- Q: In whom are seizures after flumazenil more likely?
+  - A: Epilepsy or mixed drug overdose
+
+<!-- related:start (generated) -->
+## Related
+- [Benzodiazepines](benzodiazepines.md)
+- [Midazolam](midazolam.md)
+- [Diazepam](diazepam.md)
+- [Naloxone](naloxone.md)
+- [Atipamezole](atipamezole.md)
+- [Remimazolam](remimazolam.md)
+<!-- related:end -->

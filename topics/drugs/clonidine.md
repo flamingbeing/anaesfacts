@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Catapres, alpha-2 agonist]
+related: [drugs/dexmedetomidine, drugs/analgesic-adjuncts, physiology/adrenergic-and-dopamine-receptors, comorbidities/opioid-dependence]
 sources: []
 tags: [alpha-2-agonist, sedation, analgesia, premedication]
 ---
@@ -60,11 +62,26 @@ Alpha-2 agonist for sedation and analgesia; less alpha-2 selective than dexmedet
 - Elimination half-life 9 to 18 hours
 - About 50% metabolised in the liver to inactive metabolites; the rest excreted unchanged in urine
 
+## Flashcards
+- Q: What is the alpha-2:alpha-1 ratio of clonidine?
+  - A: 200:1
+- Q: What is the IV or oral dose of clonidine?
+  - A: 1 mcg/kg every 6-8 hours
+- Q: Why does clonidine cause more hypertension than dexmedetomidine?
+  - A: Lower alpha-2 selectivity: more transient hypertension after a bolus and more rebound on stopping
+- Q: What is the oral bioavailability of clonidine?
+  - A: Nearly 100%
+- Q: How long does a clonidine patch take to reach therapeutic levels?
+  - A: 48 hours
+
 <!-- related:start (generated) -->
 ## Related
-- [ADHD and behavioural issues](../comorbidities/adhd-and-behavioural-issues.md)
-- [Opioid-Dependent Patients](../comorbidities/opioid-dependence.md)
+- [Dexmedetomidine](dexmedetomidine.md)
 - [Analgesic adjuncts](analgesic-adjuncts.md)
+- [Adrenergic and dopamine receptors](../physiology/adrenergic-and-dopamine-receptors.md)
+- [Opioid-Dependent Patients](../comorbidities/opioid-dependence.md)
+- [ADHD and behavioural issues](../comorbidities/adhd-and-behavioural-issues.md)
+- [Atipamezole](atipamezole.md)
 - [Parotidectomy](../procedures/parotidectomy.md)
 - [Caudal Epidural Block](../regional/caudal-epidural-block.md)
 - [Intrathecal Local Anaesthetics, Opioids and Adjuncts](../regional/intrathecal-drugs.md)

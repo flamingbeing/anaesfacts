@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: []
+related: [drugs/anticholinergics, drugs/glycopyrrolate, drugs/hyoscine-hydrobromide, drugs/neostigmine, crises/cholinergic-crisis]
 sources: []
 tags: [anticholinergic, antimuscarinic, bradycardia, antisialagogue]
 ---
@@ -65,9 +67,25 @@ Competitive muscarinic acetylcholine receptor antagonist that blocks parasympath
 - 50% protein bound
 - Extensively metabolised by liver esterases; excreted in urine, very little unchanged
 
+## Flashcards
+- Q: Adult and paediatric atropine dose?
+  - A: 0.3-0.9 mg; 15-20 mcg/kg
+- Q: Atropine presentation?
+  - A: 0.6 mg in 1 ml
+- Q: Onset and duration of IV atropine?
+  - A: Onset 30-45 sec; duration 30 min
+- Q: Why can small IV doses of atropine cause bradycardia?
+  - A: Possibly a central vagal effect or partial agonism at cardiac muscarinic receptors
+- Q: Atropine vs hyoscine as an antisialagogue?
+  - A: Atropine is weaker
+
 <!-- related:start (generated) -->
 ## Related
+- [Anticholinergics (antimuscarinics)](anticholinergics.md)
 - [Glycopyrrolate](glycopyrrolate.md)
 - [Hyoscine Hydrobromide](hyoscine-hydrobromide.md)
+- [Neostigmine](neostigmine.md)
+- [Cholinergic Crisis](../crises/cholinergic-crisis.md)
 - [Isoprenaline](isoprenaline.md)
+- [Parasympathetic Drugs](parasympathetic-drugs.md)
 <!-- related:end -->

@@ -51,5 +51,6 @@ Most anaesthetics lower brain activity; IV agents keep flow and metabolism coupl
 - [Propofol](../drugs/propofol.md)
 - [Ketamine](../drugs/ketamine.md)
 - [Isoflurane](../drugs/isoflurane.md)
+- [Carbon dioxide](../drugs/carbon-dioxide.md)
 - [Interventional Neuroradiology](../procedures/neuroradiology.md)
 <!-- related:end -->

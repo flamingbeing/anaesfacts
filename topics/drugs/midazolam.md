@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Dormicum, Hypnovel, Versed]
+related: [drugs/benzodiazepines, drugs/remimazolam, drugs/diazepam, drugs/flumazenil, drugs/alfentanil]
 sources: []
 tags: [benzodiazepine, sedation, premedication, amnesia]
 ---
@@ -91,11 +93,27 @@ Water-soluble, short-acting benzodiazepine for premedication, co-induction and s
 - Clearance 6–10 ml/kg/min, higher than diazepam and lorazepam, so it wears off faster after infusion
 - Shares hepatic P450 3A3/4 with alfentanil: given together, both may last longer
 
+## Flashcards
+- Q: IV midazolam dose for premedication?
+  - A: 0.02–0.04 mg/kg (e.g. 1–2 mg)
+- Q: Oral midazolam dose for anxiolysis in children?
+  - A: 0.5 mg/kg (up to 20 mg)
+- Q: Intranasal midazolam dose in children?
+  - A: 0.2–0.3 mg/kg, maximum 10 mg per dose
+- Q: Why is IV midazolam painless on injection?
+  - A: At pH 3.5 the diazepine ring is open, so it is ionised and water-soluble
+- Q: Active metabolite of midazolam?
+  - A: 1-α hydroxymidazolam
+
 <!-- related:start (generated) -->
 ## Related
+- [Benzodiazepines](benzodiazepines.md)
+- [Remimazolam](remimazolam.md)
+- [Diazepam](diazepam.md)
+- [Flumazenil](flumazenil.md)
+- [Alfentanil](alfentanil.md)
 - [HIV and AIDS](../comorbidities/hiv-aids.md)
 - [Intellectual Disability and Autism](../comorbidities/intellectual-disability-and-autism.md)
-- [Alfentanil](alfentanil.md)
 - [Induction agents](induction-agents.md)
 - [Ketamine](ketamine.md)
 - [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)

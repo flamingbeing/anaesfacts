@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Byfavo]
+related: [drugs/midazolam, drugs/benzodiazepines, drugs/remifentanil, drugs/flumazenil, procedures/total-intravenous-anaesthesia]
 sources: []
 tags: [benzodiazepine, intravenous-anaesthetic, sedation, tiva]
 ---
@@ -45,3 +47,25 @@ Ultrashort-acting benzodiazepine, the rapid-offset equivalent of midazolam.
 - No accumulation: context-sensitive half-time stays under 10 min (unlike propofol and midazolam)
 - Kinetic profile resembles remifentanil
   - But volume of distribution is about twice and clearance about half that of remifentanil, so elimination is slower
+
+## Flashcards
+- Q: Remimazolam induction bolus dose?
+  - A: 0.1–0.3 mg/kg
+- Q: Remimazolam maintenance infusion rate?
+  - A: 0.75–3 mg/kg/hr
+- Q: How is remimazolam metabolised?
+  - A: Ester hydrolysis by tissue esterases; no active metabolites
+- Q: Context-sensitive half-time of remimazolam?
+  - A: Stays under 10 min
+- Q: Can remimazolam be reversed?
+  - A: Yes, by flumazenil; rebound sedation unlikely
+
+<!-- related:start (generated) -->
+## Related
+- [Midazolam](midazolam.md)
+- [Benzodiazepines](benzodiazepines.md)
+- [Remifentanil](remifentanil.md)
+- [Flumazenil](flumazenil.md)
+- [Total intravenous anaesthesia (TIVA) and propofol TCI models](../procedures/total-intravenous-anaesthesia.md)
+- [Diazepam](diazepam.md)
+<!-- related:end -->

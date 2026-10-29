@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Isoptin, Securon]
+related: [drugs/calcium-channel-blockers, drugs/antiarrhythmics, drugs/adenosine, drugs/digoxin, comorbidities/arrhythmias]
 sources: []
 tags: [calcium-channel-blocker, antiarrhythmic, svt, non-dihydropyridine]
 ---
@@ -72,7 +74,23 @@ Non-dihydropyridine calcium channel blocker acting mainly on the SA and AV nodes
   - Demethylation gives norverapamil, which keeps significant antiarrhythmic activity
 - Elimination half-life 3–7 hours; longer at higher doses as liver enzymes saturate
 
+## Flashcards
+- Q: IV verapamil dose for SVT?
+  - A: 0.1 mg/kg over 2 mins; may repeat after 15 mins
+- Q: Key contraindication to verapamil?
+  - A: AF complicating WPW syndrome
+- Q: Oral bioavailability of verapamil and why?
+  - A: About 20–25%, due to high first-pass metabolism
+- Q: Active metabolite of verapamil?
+  - A: Norverapamil
+- Q: Dangerous combination with verapamil?
+  - A: Other AV-slowing drugs (digoxin, beta-blockers): severe bradycardia and AV block
+
 <!-- related:start (generated) -->
 ## Related
+- [Calcium Channel Blockers](calcium-channel-blockers.md)
+- [Antiarrhythmics](antiarrhythmics.md)
+- [Adenosine](adenosine.md)
 - [Digoxin](digoxin.md)
+- [Arrhythmias and Long QT Syndrome](../comorbidities/arrhythmias.md)
 <!-- related:end -->

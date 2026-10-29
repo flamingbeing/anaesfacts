@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Adenocor, Adenocard]
+related: [drugs/antiarrhythmics, drugs/verapamil, comorbidities/arrhythmias, drugs/theophylline-and-aminophylline]
 sources: []
 tags: [antiarrhythmic, svt, purine]
 ---
@@ -65,8 +67,24 @@ Endogenous purine nucleoside that briefly blocks the AV node; used to terminate 
   - Some deamination happens in plasma, but more slowly than inside cells
 - Naturally occurring in all cells: adenine (purine base) plus D-ribose (pentose sugar)
 
+## Flashcards
+- Q: Adult adenosine dosing for SVT?
+  - A: 6 mg then 12 mg then 12 mg rapid IV bolus with a 10 ml saline flush
+- Q: Paediatric adenosine dose?
+  - A: 0.1-0.2 mg/kg
+- Q: Half-life of adenosine?
+  - A: Under 10 seconds
+- Q: Which drugs enhance and which antagonise adenosine?
+  - A: Enhanced by dipyridamole; antagonised by methylxanthines and caffeine
+- Q: Contraindications to adenosine?
+  - A: Second- or third-degree AV block and sick sinus syndrome
+
 <!-- related:start (generated) -->
 ## Related
+- [Antiarrhythmics](antiarrhythmics.md)
+- [Verapamil](verapamil.md)
+- [Arrhythmias and Long QT Syndrome](../comorbidities/arrhythmias.md)
+- [Theophylline and Aminophylline](theophylline-and-aminophylline.md)
 - [Wolff-Parkinson-White Syndrome](../comorbidities/wolff-parkinson-white-syndrome.md)
 - [Intracranial Aneurysm Clipping and Coiling](../procedures/intracranial-aneurysm-surgery.md)
 <!-- related:end -->

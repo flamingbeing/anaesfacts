@@ -76,5 +76,7 @@ Schizophrenia, depression and anxiety: consent, anxiety, and perioperative handl
 ## Related
 - [Monoamine oxidase inhibitors](../drugs/monoamine-oxidase-inhibitors.md)
 - [Tricyclic Antidepressants](../drugs/tricyclic-antidepressants.md)
+- [Antidepressants](../drugs/antidepressants.md)
+- [Antipsychotics](../drugs/antipsychotics.md)
 - [Electroconvulsive Therapy](../procedures/electroconvulsive-therapy.md)
 <!-- related:end -->

@@ -119,6 +119,7 @@ Ultra-short-acting synthetic pure mu agonist (a phenylpiperidine related to fent
 - [Morphine](morphine.md)
 - [Opioids](opioids.md)
 - [Paediatric opioids](paediatric-opioids.md)
+- [Remimazolam](remimazolam.md)
 - [General Anaesthesia](../physiology/general-anaesthesia.md)
 - [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
 - [Endoscopic Sinus Surgery](../procedures/endoscopic-sinus-surgery.md)

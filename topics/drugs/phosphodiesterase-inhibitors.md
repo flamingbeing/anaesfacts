@@ -66,4 +66,5 @@ Drugs that stop phosphodiesterases breaking down cAMP and cGMP; effects depend o
 - [Enoximone](enoximone.md)
 - [Sildenafil](sildenafil.md)
 - [Tadalafil](tadalafil.md)
+- [Adrenergic and dopamine receptors](../physiology/adrenergic-and-dopamine-receptors.md)
 <!-- related:end -->

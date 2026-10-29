@@ -81,4 +81,5 @@ Bedside assessment of volume status: recognising fluid overload and dehydration.
 ## Related
 - [Fluid Responsiveness](fluid-responsiveness.md)
 - [Intraoperative fluid management](../procedures/intraoperative-fluid-management.md)
+- [Body fluid compartments](body-fluid-compartments.md)
 <!-- related:end -->

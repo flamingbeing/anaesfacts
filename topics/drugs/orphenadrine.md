@@ -39,5 +39,7 @@ Oral muscle relaxant with anticholinergic side effects, often combined with para
 ## Related
 - [Paracetamol](paracetamol.md)
 - [NSAIDs and COX-2 inhibitors](nsaids.md)
+- [Baclofen](baclofen.md)
 - [Eperisone](eperisone.md)
+- [First-generation H1 antihistamines](first-generation-antihistamines.md)
 <!-- related:end -->

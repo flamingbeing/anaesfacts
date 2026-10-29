@@ -170,4 +170,5 @@ Anaesthetising children for CT and MRI: a remote site with unfamiliar staff and 
 ## Related
 - [Remote Site Anaesthesia](remote-site-anaesthesia.md)
 - [Paediatric General and Urological Surgery](paediatric-surgery.md)
+- [Chloral hydrate](../drugs/chloral-hydrate.md)
 <!-- related:end -->

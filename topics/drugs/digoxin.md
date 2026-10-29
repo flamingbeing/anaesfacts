@@ -190,5 +190,6 @@ Cardiac glycoside from the woolly foxglove (Digitalis lanata): slows AV conducti
 - [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
 - [Heart Failure](../comorbidities/heart-failure.md)
 - [Hypokalaemia and potassium replacement](../comorbidities/hypokalaemia.md)
+- [Antiarrhythmics](antiarrhythmics.md)
 - [Quinidine](quinidine.md)
 <!-- related:end -->

@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [neuroleptics, haloperidol, quetiapine, olanzapine, risperidone, clozapine]
+related: [comorbidities/psychiatric-patients, drugs/antidepressants, drugs/anticholinergics, comorbidities/parkinsons-disease]
 sources: []
 tags: [antipsychotic, neuroleptic, dopamine-antagonist, psychiatry]
 ---
@@ -133,3 +135,24 @@ Class overview: dopamine (and serotonin) antagonists for psychosis and agitation
 - Sexual dysfunction: most with haloperidol, risperidone, sulpiride, chlorpromazine (priapism); least with aripiprazole, quetiapine
 - EPSE: most with first generation drugs (e.g. haloperidol, trifluoperazine) and risperidone; least with quetiapine, olanzapine, aripiprazole
 - QTc prolongation: most with quetiapine, ziprasidone; least with aripiprazole, haloperidol
+
+## Flashcards
+- Q: Features of neuroleptic malignant syndrome?
+  - A: Hyperthermia, rigidity, autonomic instability and altered consciousness over 24-72 hrs
+- Q: Starting IV haloperidol dose for agitation?
+  - A: 1 mg then 0.5 mg boluses
+- Q: Which antipsychotic causes the most weight gain?
+  - A: Olanzapine
+- Q: Which antipsychotics carry most QTc prolongation risk?
+  - A: Quetiapine and ziprasidone
+- Q: Effect of alpha blockade by antipsychotics during spinal anaesthesia?
+  - A: Exaggerated hypotension
+
+<!-- related:start (generated) -->
+## Related
+- [Psychiatric Patients](../comorbidities/psychiatric-patients.md)
+- [Antidepressants](antidepressants.md)
+- [Anticholinergics (antimuscarinics)](anticholinergics.md)
+- [Parkinson's Disease](../comorbidities/parkinsons-disease.md)
+- [First-generation H1 antihistamines](first-generation-antihistamines.md)
+<!-- related:end -->

@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [parasympathomimetics, parasympatholytics, cholinergic drugs]
+related: [physiology/acetylcholine-and-cholinergic-receptors, drugs/anticholinergics, drugs/acetylcholinesterase-inhibitors, drugs/sympathetic-drugs, drugs/atropine]
 sources: []
 tags: [autonomic, muscarinic, anticholinesterase, anticholinergic]
 ---
@@ -47,3 +49,22 @@ Drugs acting on the parasympathetic system, mainly at muscarinic receptors: para
 - Pirenzepine: unusual in being relatively selective for M1 receptors
   - Reduces gastric acid secretion and gut smooth muscle activity
   - Used for peptic ulcer disease, though not widely
+
+## Flashcards
+- Q: Most used direct muscarinic agonist and its main use?
+  - A: Pilocarpine; topical for glaucoma
+- Q: Which anticholinesterase is used to diagnose myasthenia gravis?
+  - A: Edrophonium (Tensilon), duration about 10 minutes
+- Q: Which muscarinic antagonist has dominant central effects and why?
+  - A: Hyoscine; it is very lipid soluble
+- Q: Which muscarinic antagonist is relatively M1 selective?
+  - A: Pirenzepine
+
+<!-- related:start (generated) -->
+## Related
+- [Acetylcholine and cholinergic receptors](../physiology/acetylcholine-and-cholinergic-receptors.md)
+- [Anticholinergics (antimuscarinics)](anticholinergics.md)
+- [Acetylcholinesterase Inhibitors](acetylcholinesterase-inhibitors.md)
+- [Sympathetic Drugs](sympathetic-drugs.md)
+- [Atropine](atropine.md)
+<!-- related:end -->

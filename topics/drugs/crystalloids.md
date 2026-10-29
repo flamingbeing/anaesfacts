@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Hartmann's, Ringer's lactate, normal saline, 0.9% saline, Plasma-Lyte, Sterofundin, 5% dextrose, balanced crystalloids]
+related: [drugs/colloids, drugs/types-of-fluid-replacement, physiology/fluid-terminology-and-chemistry, procedures/intraoperative-fluid-management]
 sources: []
 tags: [fluids, crystalloid, balanced-solutions, acid-base]
 ---
@@ -130,10 +132,25 @@ Solutions of salts or sugars whose small molecules pass freely from plasma into 
 - SMART (NEJM 2018), ICU patients: fewer major adverse kidney events at 30 days with balanced fluids (14.3% vs 15.4%); NNT 94
 - SALT-ED (NEJM 2018), non-critically ill ED patients: fewer major adverse kidney events with balanced fluids (4.7% vs 5.6%); NNT 111; no difference in hospital-free days
 
+## Flashcards
+- Q: What are the Na and Cl of 0.9% saline?
+  - A: 154 and 154
+- Q: What is the SID of 0.9% saline and of plasma?
+  - A: Saline zero; plasma 40 mEq/L
+- Q: Why is Hartmann's contraindicated as a diluent for packed red cells?
+  - A: Its calcium binds citrate anticoagulant and can cause clotting
+- Q: When is Hartmann's contraindicated?
+  - A: Neurosurgery (slightly hypotonic) and liver failure (lactic acidosis)
+- Q: How much 5% dextrose stays intravascular?
+  - A: Only 1/12
+
 <!-- related:start (generated) -->
 ## Related
-- [Paediatric fluids and electrolytes](paediatric-fluids-and-electrolytes.md)
+- [Colloids](colloids.md)
 - [Types of Fluid Replacement](types-of-fluid-replacement.md)
-- [Fluid Responsiveness](../physiology/fluid-responsiveness.md)
 - [Fluid terminology and chemistry](../physiology/fluid-terminology-and-chemistry.md)
+- [Intraoperative fluid management](../procedures/intraoperative-fluid-management.md)
+- [Paediatric fluids and electrolytes](paediatric-fluids-and-electrolytes.md)
+- [Body fluid compartments](../physiology/body-fluid-compartments.md)
+- [Fluid Responsiveness](../physiology/fluid-responsiveness.md)
 <!-- related:end -->

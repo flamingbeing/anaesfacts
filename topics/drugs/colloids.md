@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [HES, hydroxyethyl starch, Voluven, Gelofusin, HAS, human albumin solution, albumin, dextran, gelatin]
+related: [drugs/crystalloids, drugs/types-of-fluid-replacement, physiology/body-fluid-compartments, procedures/intraoperative-fluid-management]
 sources: []
 tags: [fluids, colloid, albumin, volume-expansion]
 ---
@@ -192,7 +194,22 @@ IV fluids with large solute molecules that stay mainly in plasma and hold water 
 | Dextran 70 | 140 | 6 | | |
 | Hetastarch | 100 | 24 | 1 in 1724 | Itch, coagulopathy, renal impairment |
 
+## Flashcards
+- Q: What proportion of plasma COP comes from albumin?
+  - A: About 80%
+- Q: How much does 25% albumin expand plasma volume?
+  - A: 3 to 4 times the infused volume (COP 70 mm Hg)
+- Q: In which patients may 5% albumin be unsafe for resuscitation?
+  - A: Traumatic head injury
+- Q: Which colloid has the highest rate of anaphylactoid reaction?
+  - A: Gelatins
+- Q: What daily dextran dose limits coagulopathy?
+  - A: 20 mL/kg or less
+
 <!-- related:start (generated) -->
 ## Related
+- [Crystalloids](crystalloids.md)
 - [Types of Fluid Replacement](types-of-fluid-replacement.md)
+- [Body fluid compartments](../physiology/body-fluid-compartments.md)
+- [Intraoperative fluid management](../procedures/intraoperative-fluid-management.md)
 <!-- related:end -->

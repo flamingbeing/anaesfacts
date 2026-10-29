@@ -4,6 +4,8 @@ area: physiology
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [adrenoceptors, alpha receptors, beta receptors, dopamine receptors]
+related: [physiology/acetylcholine-and-cholinergic-receptors, drugs/sympathetic-drugs, drugs/beta-blockers, drugs/phosphodiesterase-inhibitors, drugs/dexmedetomidine]
 sources: []
 tags: [autonomic, adrenoceptor, dopamine, camp, g-protein]
 ---
@@ -152,3 +154,26 @@ G protein-coupled α, β and dopamine receptors: their signalling (cAMP, IP3), e
   - Corticosteroids may reduce it
   - So responses to sympathetic agonists vary with disease and circumstances
   - The structural likeness of thyroid hormone and tyrosine suggests false transmitters may play a part
+
+## Flashcards
+- Q: G protein coupling of alpha-1, alpha-2 and beta receptors?
+  - A: Alpha-1 Gq; alpha-2 Gi; beta Gs
+- Q: Which alpha-2 subtype mediates sedation, analgesia and sympatholysis?
+  - A: α2A
+- Q: Why can an IV alpha-2 agonist bolus cause hypertension?
+  - A: α2B on resistance vessels causes vasoconstriction; a slow infusion reduces this
+- Q: Which phosphodiesterase breaks down cAMP in heart and smooth muscle?
+  - A: Type 3 (PDE3)
+- Q: What happens to cardiac beta receptors in chronic heart failure?
+  - A: β1 density falls while β2 is unchanged
+
+<!-- related:start (generated) -->
+## Related
+- [Acetylcholine and cholinergic receptors](acetylcholine-and-cholinergic-receptors.md)
+- [Sympathetic Drugs](../drugs/sympathetic-drugs.md)
+- [Beta Blockers](../drugs/beta-blockers.md)
+- [Phosphodiesterase inhibitors](../drugs/phosphodiesterase-inhibitors.md)
+- [Dexmedetomidine](../drugs/dexmedetomidine.md)
+- [Adrenaline (Epinephrine)](../drugs/adrenaline.md)
+- [Clonidine](../drugs/clonidine.md)
+<!-- related:end -->

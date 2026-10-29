@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [hypocalcemia, calcium gluconate, calcium chloride, low calcium]
+related: [comorbidities/hypoparathyroidism, procedures/parathyroid-surgery, comorbidities/hyperparathyroidism, procedures/intraoperative-bleeding-and-blood-management]
 sources: []
 tags: [electrolytes, calcium, hypocalcaemia, calcium-gluconate, calcium-chloride]
 ---
@@ -75,7 +77,23 @@ Low corrected calcium causes neuromuscular irritability and QT prolongation; tre
   - With or without calcitriol 0.25-0.5 mcg OM (regimens vary)
   - If PTH recovery is not expected: long-term calcitriol and calcium
 
+## Flashcards
+- Q: What corrected calcium defines hypocalcaemia?
+  - A: Below 8.5 mg/dL (2.2 mmol/L)
+- Q: What calcium level is severe hypocalcaemia?
+  - A: Below 1.9 mmol/L
+- Q: How is 10% calcium gluconate given?
+  - A: 10 ml IV over 10 min (slow bolus)
+- Q: How much elemental calcium is in 10% calcium chloride versus gluconate?
+  - A: 27.2 mg/mL versus 8.9 mg/mL (3 times)
+- Q: Name two signs of hypocalcaemic tetany.
+  - A: Chvostek's sign and Trousseau's sign
+
 <!-- related:start (generated) -->
 ## Related
+- [Hypoparathyroidism](../comorbidities/hypoparathyroidism.md)
+- [Parathyroid Surgery](../procedures/parathyroid-surgery.md)
+- [Hyperparathyroidism](../comorbidities/hyperparathyroidism.md)
+- [Intraoperative bleeding and patient blood management](../procedures/intraoperative-bleeding-and-blood-management.md)
 - [Surgery for Complications of Pancreatitis](../procedures/pancreatitis-surgery.md)
 <!-- related:end -->

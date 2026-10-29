@@ -4,6 +4,8 @@ area: physiology
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [ACh, nicotinic receptors, muscarinic receptors, nAChR, mAChR]
+related: [physiology/adrenergic-and-dopamine-receptors, drugs/parasympathetic-drugs, drugs/acetylcholinesterase-inhibitors, drugs/anticholinergics, drugs/neuromuscular-blockers]
 sources: []
 tags: [autonomic, acetylcholine, muscarinic, nicotinic, cholinesterase]
 ---
@@ -106,3 +108,24 @@ Acetylcholine (ACh) is the transmitter at the neuromuscular junction, autonomic 
 ## Drugs
 - Muscarinic receptors are the main target of drugs acting directly on the parasympathetic system (e.g. atropine)
 - Agonists and antagonists generally show little subtype selectivity
+
+## Flashcards
+- Q: Enzyme that synthesises acetylcholine?
+  - A: Choline acetyltransferase, from choline and acetyl-CoA
+- Q: Two binding sites of acetylcholinesterase?
+  - A: Anionic site (quaternary ammonium) and esteratic site (ester group)
+- Q: Which enzyme metabolises suxamethonium and ester local anaesthetics?
+  - A: Butyrylcholinesterase (plasma cholinesterase)
+- Q: Which muscarinic receptor mediates cardiac slowing and its G protein?
+  - A: M2, Gi
+- Q: Nicotinic receptor type?
+  - A: Ligand-gated (ionotropic) non-selective cation channel
+
+<!-- related:start (generated) -->
+## Related
+- [Adrenergic and dopamine receptors](adrenergic-and-dopamine-receptors.md)
+- [Parasympathetic Drugs](../drugs/parasympathetic-drugs.md)
+- [Acetylcholinesterase Inhibitors](../drugs/acetylcholinesterase-inhibitors.md)
+- [Anticholinergics (antimuscarinics)](../drugs/anticholinergics.md)
+- [Neuromuscular blockers](../drugs/neuromuscular-blockers.md)
+<!-- related:end -->

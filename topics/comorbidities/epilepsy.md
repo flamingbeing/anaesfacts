@@ -206,4 +206,5 @@ Keep antiepileptics going, choose drugs that do not lower the seizure threshold,
 <!-- related:start (generated) -->
 ## Related
 - [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
+- [Carbamazepine](../drugs/carbamazepine.md)
 <!-- related:end -->

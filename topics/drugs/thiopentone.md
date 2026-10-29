@@ -4,7 +4,9 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
-sources: []
+aliases: [thiopental, sodium thiopental, Pentothal]
+related: [drugs/barbiturates, drugs/induction-agents, drugs/propofol, drugs/etomidate, procedures/electroconvulsive-therapy]
+sources: [Barash 6th ed, Miller]
 tags: [induction-agent, barbiturate, intravenous-anaesthetic]
 ---
 
@@ -91,11 +93,25 @@ Sodium thiopental: a thiobarbiturate IV induction agent with fast onset, cerebro
   - Induces hepatic cytochrome P450 after a single dose
 - Only 0.5-2% excreted unchanged in urine
 
+## Flashcards
+- Q: Thiopentone induction dose?
+  - A: 3–5 mg/kg (range 3–7 mg/kg IV)
+- Q: Standard thiopentone solution strength and pH?
+  - A: 2.5% (25 mg/ml), pH 10.5
+- Q: Absolute contraindication to thiopentone?
+  - A: Inducible porphyrias
+- Q: Why does rapid waking follow a single thiopentone bolus?
+  - A: Redistribution, not metabolism
+- Q: Why must thiopentone not be reconstituted in Hartmann's?
+  - A: Its lactate buffer lowers pH, so thiopentone precipitates
+
 <!-- related:start (generated) -->
 ## Related
-- [Etomidate](etomidate.md)
+- [Barbiturates](barbiturates.md)
 - [Induction agents](induction-agents.md)
+- [Propofol](propofol.md)
+- [Etomidate](etomidate.md)
+- [Electroconvulsive Therapy](../procedures/electroconvulsive-therapy.md)
 - [Ketamine](ketamine.md)
 - [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
-- [Propofol](propofol.md)
 <!-- related:end -->

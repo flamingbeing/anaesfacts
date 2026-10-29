@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [sympathomimetics, sympatholytics, adrenergic drugs, vasopressors]
+related: [physiology/adrenergic-and-dopamine-receptors, drugs/parasympathetic-drugs, drugs/vasopressors-in-critical-care, drugs/beta-blockers, drugs/noradrenaline]
 sources: []
 tags: [autonomic, sympathomimetic, sympatholytic, vasopressor]
 ---
@@ -91,3 +93,24 @@ Sympathomimetics and sympatholytics: drugs that raise or block sympathetic effec
 
 - Block the post-synaptic action of acetylcholine at autonomic ganglia
 - Trimetaphan is the only one still in clinical use
+
+## Flashcards
+- Q: What makes a sympathomimetic a catecholamine?
+  - A: Hydroxyl groups at C3 and C4 of the benzene ring
+- Q: Which synthetic agents are catecholamines?
+  - A: Isoprenaline, dobutamine and dopexamine
+- Q: Clonidine alpha-2:alpha-1 selectivity?
+  - A: 200:1 (partial alpha-2 agonist)
+- Q: Which alpha antagonist is long-acting and irreversible?
+  - A: Phenoxybenzamine
+- Q: Only ganglion blocker still in clinical use?
+  - A: Trimetaphan
+
+<!-- related:start (generated) -->
+## Related
+- [Adrenergic and dopamine receptors](../physiology/adrenergic-and-dopamine-receptors.md)
+- [Parasympathetic Drugs](parasympathetic-drugs.md)
+- [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
+- [Beta Blockers](beta-blockers.md)
+- [Noradrenaline](noradrenaline.md)
+<!-- related:end -->

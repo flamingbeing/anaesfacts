@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [H1 antagonists, chlorpheniramine, diphenhydramine, promethazine, Phenergan, cyclizine, hydroxyzine, Atarax, cinnarizine, dimenhydrinate]
+related: [drugs/orphenadrine, drugs/anticholinergics, drugs/hyoscine-hydrobromide, drugs/antipsychotics]
 sources: []
 tags: [antihistamine, h1, antiemetic, sedation]
 ---
@@ -58,3 +60,23 @@ Sedating H1 antagonists that cross the blood-brain barrier; used for itch, sleep
 
 - Orphenadrine: analogue of diphenhydramine, used as a muscle relaxant (Anarex)
 - Triprolidine: combined with pseudoephedrine for allergies
+
+## Flashcards
+- Q: What is the IV dose of diphenhydramine?
+  - A: 25–50 mg or 1 mg/kg, slow bolus no faster than 25 mg/min
+- Q: Why can cyclizine injection be painful?
+  - A: It contains lactic acid, pH 3.2
+- Q: What is the IM dose of promethazine?
+  - A: 25 mg 6 to 12 hourly
+- Q: What is the PONV dose of dimenhydrinate?
+  - A: IV 0.5 mg/kg, up to 25 mg
+- Q: What is the oral dose of chlorpheniramine?
+  - A: 5 mg 6 hourly
+
+<!-- related:start (generated) -->
+## Related
+- [Orphenadrine](orphenadrine.md)
+- [Anticholinergics (antimuscarinics)](anticholinergics.md)
+- [Hyoscine Hydrobromide](hyoscine-hydrobromide.md)
+- [Antipsychotics](antipsychotics.md)
+<!-- related:end -->

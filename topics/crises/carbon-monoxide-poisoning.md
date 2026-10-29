@@ -4,6 +4,8 @@ area: crises
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [CO poisoning, carboxyhaemoglobin, COHb]
+related: [drugs/oxygen, comorbidities/burns, crises/cholinergic-crisis, drugs/sodium-bicarbonate]
 sources: []
 tags: [poisoning, carboxyhaemoglobin, smoke-inhalation, burns]
 ---
@@ -72,7 +74,22 @@ CO binds haemoglobin far more avidly than oxygen and blocks mitochondrial respir
 - High-flow oxygen
 - Hyperbaric oxygen
 
+## Flashcards
+- Q: Why does SpO2 read near 100% in CO poisoning?
+  - A: Standard oximetry reads COHb as oxyhaemoglobin
+- Q: Affinity of CO for haemoglobin compared with oxygen?
+  - A: 240 times
+- Q: CO half-life on room air vs high-flow oxygen vs hyperbaric oxygen?
+  - A: About 250-320 min vs about 90 min vs about 30 min
+- Q: How is raised COHb confirmed?
+  - A: Co-oximetry on a blood gas (venous is accurate if haemodynamically stable)
+- Q: Baseline COHb in smokers?
+  - A: 10 to 15 percent (up to 3 percent in nonsmokers)
+
 <!-- related:start (generated) -->
 ## Related
+- [Oxygen](../drugs/oxygen.md)
 - [Burns](../comorbidities/burns.md)
+- [Cholinergic Crisis](cholinergic-crisis.md)
+- [Sodium bicarbonate](../drugs/sodium-bicarbonate.md)
 <!-- related:end -->

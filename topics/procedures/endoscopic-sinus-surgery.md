@@ -71,4 +71,5 @@ Shared airway with blood and secretions; aim for a bloodless field and a smooth 
 ## Related
 - [Pituitary and Transsphenoidal Surgery](pituitary-surgery.md)
 - [Remifentanil](../drugs/remifentanil.md)
+- [Cocaine](../drugs/cocaine.md)
 <!-- related:end -->

@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [beta-adrenoceptor antagonists, BB, esmolol, metoprolol, propranolol, labetalol]
+related: [drugs/sotalol, drugs/antiarrhythmics, drugs/calcium-channel-blockers, comorbidities/hypertension, physiology/adrenergic-and-dopamine-receptors]
 sources: []
 tags: [beta-blocker, antihypertensive, antiarrhythmic, class-ii]
 ---
@@ -115,8 +117,25 @@ Beta-adrenoceptor antagonists: slow the heart and reduce contractility; used for
 - High lipid solubility: well absorbed, extensive hepatic metabolism, shorter half-life (more frequent dosing), cross the blood-brain barrier (sedation, nightmares)
 - Protein binding varies
 
+## Flashcards
+- Q: Which common beta-blockers are most beta-1 selective?
+  - A: Bisoprolol and nebivolol
+- Q: Which beta-blockers add alpha-1 antagonism?
+  - A: Carvedilol and labetalol (3rd generation; vasodilating)
+- Q: Which beta-blockers need renal dose adjustment?
+  - A: Hydrophilic ones: atenolol, sotalol, nadolol
+- Q: Contraindications to beta-blockers?
+  - A: Asthma, heart block and low ejection fraction
+- Q: Why avoid non-selective beta-blockers with hypoglycaemic drugs?
+  - A: They mask hypoglycaemia symptoms and blunt the glucose response
+
 <!-- related:start (generated) -->
 ## Related
+- [Sotalol](sotalol.md)
+- [Antiarrhythmics](antiarrhythmics.md)
+- [Calcium Channel Blockers](calcium-channel-blockers.md)
 - [Hypertension](../comorbidities/hypertension.md)
+- [Adrenergic and dopamine receptors](../physiology/adrenergic-and-dopamine-receptors.md)
 - [Digoxin](digoxin.md)
+- [Sympathetic Drugs](sympathetic-drugs.md)
 <!-- related:end -->

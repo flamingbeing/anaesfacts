@@ -89,5 +89,6 @@ Keep antiparkinson drugs going, avoid dopamine antagonists, and expect aspiratio
 ## Related
 - [Altered mental status, dementia and delirium](altered-mental-status-dementia-delirium.md)
 - [Glycopyrrolate](../drugs/glycopyrrolate.md)
+- [Antipsychotics](../drugs/antipsychotics.md)
 - [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
 <!-- related:end -->

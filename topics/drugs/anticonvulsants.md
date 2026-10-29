@@ -74,4 +74,5 @@ Diverse drugs for epilepsy, psychiatric illness and neuropathic pain; overview p
 ## Related
 - [Carbamazepine](carbamazepine.md)
 - [Gabapentinoids](gabapentinoids.md)
+- [Barbiturates](barbiturates.md)
 <!-- related:end -->

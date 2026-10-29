@@ -313,4 +313,5 @@ Drugs acting at opioid receptors (mainly mu) to give analgesia and sedation; res
 - [Naloxone](naloxone.md)
 - [Tramadol](tramadol.md)
 - [Opioid-Dependent Patients](../comorbidities/opioid-dependence.md)
+- [Intraoperative analgesia and nociception monitoring](../procedures/intraoperative-analgesia.md)
 <!-- related:end -->

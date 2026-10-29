@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [Sotacor, Betapace]
+related: [drugs/beta-blockers, drugs/antiarrhythmics, drugs/amiodarone, comorbidities/arrhythmias, comorbidities/atrial-fibrillation]
 sources: []
 tags: [beta-blocker, antiarrhythmic, class-iii]
 ---
@@ -51,3 +53,22 @@ Non-selective β-blocker without intrinsic sympathomimetic activity, which also 
 - Not protein bound; not metabolised
 - About 90% excreted unchanged in urine, the rest in bile
 - Clearance falls markedly in renal impairment
+
+## Flashcards
+- Q: Oral and IV sotalol doses?
+  - A: Oral 80–160 mg twice daily; IV 50–100 mg over 20 minutes
+- Q: Most serious adverse effect of sotalol?
+  - A: Torsades de pointes
+- Q: What raises the torsades risk with sotalol?
+  - A: High doses, long QT and electrolyte disturbance
+- Q: How is sotalol eliminated?
+  - A: About 90% unchanged in urine; clearance falls markedly in renal impairment
+
+<!-- related:start (generated) -->
+## Related
+- [Beta Blockers](beta-blockers.md)
+- [Antiarrhythmics](antiarrhythmics.md)
+- [Amiodarone](amiodarone.md)
+- [Arrhythmias and Long QT Syndrome](../comorbidities/arrhythmias.md)
+- [Atrial fibrillation](../comorbidities/atrial-fibrillation.md)
+<!-- related:end -->

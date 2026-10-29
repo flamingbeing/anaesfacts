@@ -4,6 +4,8 @@ area: drugs
 status: verified
 verified_on: 2026-10-29
 origin: owner-notes
+aliases: [epinephrine, Epi]
+related: [drugs/noradrenaline, drugs/dobutamine, drugs/isoprenaline, drugs/vasopressors-in-critical-care, physiology/adrenergic-and-dopamine-receptors]
 sources: []
 tags: [catecholamine, vasopressor, inotrope, anaphylaxis, cardiac-arrest]
 ---
@@ -122,13 +124,27 @@ Endogenous catecholamine from the adrenal gland acting on α and β receptors: �
 - Products: inactive 3-methoxy-4-hydroxymandelic acid (vanillylmandelic acid, VMA) and metadrenaline, conjugated with glucuronide or sulfate, excreted in urine
 - Half-life about 2 minutes
 
+## Flashcards
+- Q: Adrenaline dose in adult cardiac arrest?
+  - A: 1 mg IV/IO (10 ml of 1:10,000) every 3-5 min
+- Q: Paediatric cardiac arrest adrenaline dose?
+  - A: 10 mcg/kg (0.1 ml/kg of 1:10,000)
+- Q: Adrenaline IV bolus for anaphylaxis in theatre?
+  - A: 100-300 mcg IV repeated as needed then infusion 0.05-0.1 mcg/kg/min
+- Q: Nebulised adrenaline for upper airway obstruction?
+  - A: 0.5 ml of 1:1000 diluted to 4 ml
+- Q: Low-dose vs high-dose adrenaline predominant receptor effect?
+  - A: Low dose beta effects; high dose alpha-1 effects
+
 <!-- related:start (generated) -->
 ## Related
+- [Noradrenaline](noradrenaline.md)
+- [Dobutamine](dobutamine.md)
+- [Isoprenaline](isoprenaline.md)
+- [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
+- [Adrenergic and dopamine receptors](../physiology/adrenergic-and-dopamine-receptors.md)
 - [Dopamine](dopamine.md)
 - [Ephedrine](ephedrine.md)
-- [Isoprenaline](isoprenaline.md)
-- [Noradrenaline](noradrenaline.md)
-- [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
 - [Pulmonary Embolectomy](../procedures/pulmonary-embolectomy.md)
 - [Rebound Pain and Perineural Adjuncts](../regional/rebound-pain-perineural-adjuncts.md)
 <!-- related:end -->

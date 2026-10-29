@@ -115,4 +115,5 @@ Labile BP with right-shifted autoregulation: keep BP near baseline and blunt swi
 - [Heart Failure](heart-failure.md)
 - [Hyperlipidaemia](hyperlipidaemia.md)
 - [Vascular Patients](vascular-patients.md)
+- [Calcium Channel Blockers](../drugs/calcium-channel-blockers.md)
 <!-- related:end -->
