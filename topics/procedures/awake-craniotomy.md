@@ -332,6 +332,7 @@ Awake surgery allows brain mapping and electrode testing; the anaesthetist balan
 - [Scalp Block](../regional/scalp-block.md)
 - [Dexmedetomidine](../drugs/dexmedetomidine.md)
 - [Remifentanil](../drugs/remifentanil.md)
+- [Parkinson's Disease](../comorbidities/parkinsons-disease.md)
 - [Craniotomy](craniotomy.md)
 - [Epilepsy and Vagus Nerve Stimulators](../comorbidities/epilepsy.md)
 - [Brain tumour surgery and stereotactic biopsy](brain-tumour-surgery.md)

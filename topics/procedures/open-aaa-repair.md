@@ -231,4 +231,5 @@ Highest-risk vascular surgery: manage cross-clamp and unclamp haemodynamics, blo
 - [Aortic Dissection and Thoracic Aortic Aneurysm Repair](aortic-dissection-and-thoracic-aortic-aneurysm.md)
 - [Carotid Endarterectomy](carotid-endarterectomy.md)
 - [Endovascular Aortic Aneurysm Repair (EVAR and TEVAR)](evar-tevar.md)
+- [Peripheral Arterial Bypass Graft](peripheral-arterial-bypass-graft.md)
 <!-- related:end -->

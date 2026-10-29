@@ -115,3 +115,8 @@ Clarify exactly what the patient accepts, document it, conserve blood maximally 
   - A: Yes, in the child's best interests despite family refusal.
 - Q: What must the refusal documentation specify?
   - A: What the patient will accept, not just what they refuse.
+
+<!-- related:start (generated) -->
+## Related
+- [Patient Social Profiling](../other/patient-social-profiling.md)
+<!-- related:end -->

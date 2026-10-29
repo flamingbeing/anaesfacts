@@ -58,4 +58,5 @@ Healthy altruistic donor: protect the kidneys and keep discomfort and pain to a 
 <!-- related:start (generated) -->
 ## Related
 - [Nephrectomy](nephrectomy.md)
+- [Renal Transplantation (Recipient)](renal-transplantation.md)
 <!-- related:end -->

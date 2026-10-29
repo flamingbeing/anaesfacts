@@ -129,5 +129,6 @@ Posterior pituitary nonapeptide hormone: antidiuretic via V2 receptors, vasocons
 ## Related
 - [Terlipressin](terlipressin.md)
 - [Noradrenaline](noradrenaline.md)
+- [Pulmonary Hypertension and Right Ventricular Dysfunction](../comorbidities/pulmonary-hypertension.md)
 - [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
 <!-- related:end -->

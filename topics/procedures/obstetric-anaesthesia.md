@@ -44,8 +44,10 @@ Two patients: anaesthesia must protect both the mother and the fetus.
 ## Related
 - [Caesarean Section](caesarean-section.md)
 - [Labour Analgesia](../regional/labour-analgesia.md)
+- [Nonobstetric Surgery in Pregnancy](../comorbidities/nonobstetric-surgery-in-pregnancy.md)
 - [Breastfeeding Women](../comorbidities/breastfeeding.md)
 - [Comorbid Diseases in Pregnancy](../comorbidities/comorbidities-in-pregnancy.md)
+- [Pre-eclampsia, Eclampsia and HELLP](../comorbidities/pre-eclampsia.md)
 - [Cervical Cerclage](cervical-cerclage.md)
 - [Ectopic Pregnancy Surgery](ectopic-pregnancy-surgery.md)
 - [Evacuation of Uterus (ERPOC)](evacuation-of-uterus.md)

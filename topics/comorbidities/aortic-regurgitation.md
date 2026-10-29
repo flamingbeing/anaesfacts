@@ -65,5 +65,6 @@ Haemodynamic goal "fast, full, forward": keep heart rate high-normal, preload no
 - [Aortic Stenosis](aortic-stenosis.md)
 - [Adult Cardiac Surgery with Cardiopulmonary Bypass](../procedures/cardiac-surgery-with-cardiopulmonary-bypass.md)
 - [Ankylosing Spondylitis](ankylosing-spondylitis.md)
+- [Marfan Syndrome](marfan-syndrome.md)
 - [Aortic Valve Replacement](../procedures/aortic-valve-replacement.md)
 <!-- related:end -->

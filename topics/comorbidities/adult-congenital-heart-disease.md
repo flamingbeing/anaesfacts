@@ -50,5 +50,7 @@ Risk depends on whether the lesion is uncorrected, corrected or palliated; watch
 
 <!-- related:start (generated) -->
 ## Related
+- [Pulmonary Hypertension and Right Ventricular Dysfunction](pulmonary-hypertension.md)
 - [Infective Endocarditis](infective-endocarditis.md)
+- [Percutaneous ASD and PFO Closure](../procedures/percutaneous-asd-pfo-closure.md)
 <!-- related:end -->

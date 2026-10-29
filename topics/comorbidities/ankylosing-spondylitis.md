@@ -67,5 +67,7 @@ Inflammatory arthropathy of the sacroiliac joints and spine leading to fusion: e
 
 <!-- related:start (generated) -->
 ## Related
+- [Rheumatoid Arthritis](rheumatoid-arthritis.md)
 - [Aortic Regurgitation](aortic-regurgitation.md)
+- [Restrictive Lung Disease](restrictive-lung-disease.md)
 <!-- related:end -->

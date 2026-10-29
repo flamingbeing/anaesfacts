@@ -125,5 +125,6 @@ Ultra-short-acting synthetic pure mu agonist (a phenylpiperidine related to fent
 - [Extracorporeal Shock Wave Lithotripsy](../procedures/extracorporeal-shock-wave-lithotripsy.md)
 - [Free Flap Surgery](../procedures/free-flap-surgery.md)
 - [GI Endoscopy](../procedures/gi-endoscopy.md)
+- [Parotidectomy](../procedures/parotidectomy.md)
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](../procedures/total-intravenous-anaesthesia.md)
 <!-- related:end -->

@@ -124,4 +124,5 @@ Hypodynamic circulation, hypoventilation, drug sensitivity, hypothermia and hypo
 ## Related
 - [Hyperthyroidism](hyperthyroidism.md)
 - [Down's Syndrome](downs-syndrome.md)
+- [Panhypopituitarism](panhypopituitarism.md)
 <!-- related:end -->

@@ -207,6 +207,8 @@ Neuroanaesthesia for craniotomy: control BP and ICP, protect the brain, give a s
 - [Intracranial Aneurysm Clipping and Coiling](intracranial-aneurysm-surgery.md)
 - [Miscellaneous Neurosurgical Procedures](misc-neurosurgical-procedures.md)
 - [Neuroanaesthesia Summary](neuroanaesthesia.md)
+- [Pituitary and Transsphenoidal Surgery](pituitary-surgery.md)
+- [Posterior Fossa Surgery](posterior-fossa-surgery.md)
 - [VP Shunt and Hydrocephalus Surgery](vp-shunt.md)
 - [Nerve Blocks of the Head and Neck](../regional/head-and-neck-blocks.md)
 <!-- related:end -->

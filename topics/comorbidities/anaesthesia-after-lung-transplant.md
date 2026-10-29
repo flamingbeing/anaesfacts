@@ -54,4 +54,5 @@ Denervated, lymphatic-poor lungs with a fragile bronchial anastomosis in an immu
 <!-- related:start (generated) -->
 ## Related
 - [Anaesthesia after Heart Transplant](anaesthesia-after-heart-transplant.md)
+- [Pulmonary Hypertension and Right Ventricular Dysfunction](pulmonary-hypertension.md)
 <!-- related:end -->

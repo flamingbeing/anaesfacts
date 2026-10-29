@@ -228,4 +228,5 @@ Mixed group of inherited and acquired disorders of nerve, junction or muscle: av
 - [Guillain-Barré Syndrome](guillain-barre-syndrome.md)
 - [Multiple sclerosis](multiple-sclerosis.md)
 - [Suxamethonium](../drugs/suxamethonium.md)
+- [Osteogenesis Imperfecta](osteogenesis-imperfecta.md)
 <!-- related:end -->

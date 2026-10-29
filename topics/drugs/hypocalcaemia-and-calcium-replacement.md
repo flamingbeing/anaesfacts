@@ -74,3 +74,8 @@ Low corrected calcium causes neuromuscular irritability and QT prolongation; tre
   - Increase dietary calcium by 1000 mg/day, e.g. calcium carbonate 1.25 g BD
   - With or without calcitriol 0.25-0.5 mcg OM (regimens vary)
   - If PTH recovery is not expected: long-term calcitriol and calcium
+
+<!-- related:start (generated) -->
+## Related
+- [Surgery for Complications of Pancreatitis](../procedures/pancreatitis-surgery.md)
+<!-- related:end -->

@@ -217,3 +217,8 @@ Neonates are high risk: difficult airway, rate-dependent cardiac output, postope
   - A: Neostigmine 50 mcg/kg with atropine 20 mcg/kg or glycopyrronium 10 mcg/kg.
 - Q: What theatre temperature is used for neonates?
   - A: 26-28°C.
+
+<!-- related:start (generated) -->
+## Related
+- [Prematurity and Ex-Premature Infants](prematurity.md)
+<!-- related:end -->

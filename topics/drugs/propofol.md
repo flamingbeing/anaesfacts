@@ -150,6 +150,7 @@ The most commonly used IV induction agent: a phenol (2,6-diisopropylphenol) acti
 - [Patient Movement During Anaesthesia](../other/patient-movement-under-anaesthesia.md)
 - [Effect of Anaesthetic Agents on ICP, CBF and CMR](../physiology/anaesthetic-agents-icp-cbf-cmr.md)
 - [General Anaesthesia](../physiology/general-anaesthesia.md)
+- [Ideal Anaesthetic Agent](../physiology/ideal-anaesthetic-agent.md)
 - [Mechanisms of general anaesthetic action](../physiology/mechanisms-of-general-anaesthetic-action.md)
 - [Drug-Induced Sleep Endoscopy (DISE)](../procedures/drug-induced-sleep-endoscopy.md)
 - [Electroconvulsive Therapy](../procedures/electroconvulsive-therapy.md)

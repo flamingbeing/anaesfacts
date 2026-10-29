@@ -320,5 +320,6 @@ MG patients are resistant to suxamethonium and very sensitive to non-depolarisin
 - [Anterior Mediastinal Mass](anterior-mediastinal-mass.md)
 - [Guillain-Barré Syndrome](guillain-barre-syndrome.md)
 - [Neuromuscular diseases](neuromuscular-diseases.md)
+- [Myasthenia Gravis in Children](paediatric-myasthenia-gravis.md)
 - [Miscellaneous Eye Procedures](../procedures/misc-eye-procedures.md)
 <!-- related:end -->

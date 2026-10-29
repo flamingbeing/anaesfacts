@@ -206,7 +206,11 @@ Check fluid status, potassium, dialysis timing and drug handling; protect remain
 - [Fentanyl](../drugs/fentanyl.md)
 - [Anaemia](anaemia.md)
 - [Hyperparathyroidism](hyperparathyroidism.md)
+- [Renal Failure in Children](paediatric-renal-failure.md)
 - [Perioperative acute kidney injury and renal protection](perioperative-acute-kidney-injury.md)
 - [Anaesthesia After Renal Transplant](renal-transplant.md)
 - [Drugs in renal impairment](../drugs/drugs-in-renal-impairment.md)
+- [Pancreas Transplantation](../procedures/pancreas-transplantation.md)
+- [Parathyroid Surgery](../procedures/parathyroid-surgery.md)
+- [Renal Transplantation (Recipient)](../procedures/renal-transplantation.md)
 <!-- related:end -->

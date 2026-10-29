@@ -119,3 +119,8 @@ Glaucomatous optic nerves are fragile: avoid rises in IOP, avoid orbital pressur
   - A: Pressure on an already damaged optic nerve risks wipe-out
 - Q: Which glaucoma procedure does not require stopping anticoagulants?
   - A: Cyclodestructive procedures
+
+<!-- related:start (generated) -->
+## Related
+- [Cataract Surgery (Phacoemulsification)](cataract-surgery.md)
+<!-- related:end -->

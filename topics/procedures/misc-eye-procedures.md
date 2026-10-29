@@ -52,5 +52,6 @@ Anaesthetic notes for short eye and eyelid operations, most of which can be done
 
 <!-- related:start (generated) -->
 ## Related
+- [Cataract Surgery (Phacoemulsification)](cataract-surgery.md)
 - [Myasthenia Gravis and Lambert-Eaton Syndrome](../comorbidities/myasthenia-gravis.md)
 <!-- related:end -->

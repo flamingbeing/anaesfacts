@@ -226,6 +226,7 @@ Brief anaesthesia at a remote site for an induced seizure: fast on and off, mini
 
 <!-- related:start (generated) -->
 ## Related
+- [Psychiatric Patients](../comorbidities/psychiatric-patients.md)
 - [Propofol](../drugs/propofol.md)
 - [Suxamethonium](../drugs/suxamethonium.md)
 <!-- related:end -->

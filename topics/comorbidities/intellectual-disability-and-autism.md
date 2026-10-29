@@ -107,4 +107,5 @@ Manage like any anxious child (premedication, parent present, gas induction) but
 ## Related
 - [Midazolam](../drugs/midazolam.md)
 - [Ketamine](../drugs/ketamine.md)
+- [Mucopolysaccharidoses](mucopolysaccharidoses.md)
 <!-- related:end -->

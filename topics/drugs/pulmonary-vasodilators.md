@@ -69,5 +69,7 @@ Overview of drug classes that lower pulmonary artery pressure, and why few work 
 - [Epoprostenol](epoprostenol.md)
 - [Sildenafil](sildenafil.md)
 - [Endothelin receptor antagonists](endothelin-receptor-antagonists.md)
+- [Pulmonary Hypertension and Right Ventricular Dysfunction](../comorbidities/pulmonary-hypertension.md)
 - [Tadalafil](tadalafil.md)
+- [Pulmonary Embolectomy](../procedures/pulmonary-embolectomy.md)
 <!-- related:end -->

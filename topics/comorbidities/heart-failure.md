@@ -97,6 +97,7 @@ Assess compensation, keep euvolaemic, reduce afterload, induce slowly and suppor
 - [Arrhythmias and Long QT Syndrome](arrhythmias.md)
 - [Cardiomyopathy (HOCM, DCM, Restrictive)](cardiomyopathy.md)
 - [Hypertension](hypertension.md)
+- [Pericardial Disease](pericardial-disease.md)
 - [Digoxin](../drugs/digoxin.md)
 - [Levosimendan](../drugs/levosimendan.md)
 - [Abdominal Aortic Aneurysm and Open Repair](../procedures/open-aaa-repair.md)
