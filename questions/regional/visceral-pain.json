@@ -1,0 +1,277 @@
+{
+ "topic": "regional/visceral-pain",
+ "questions": [
+  {
+   "fact_id": "regional/visceral-pain#1526cc",
+   "kind": "statement",
+   "stem": "What do most visceral pain presentations involve?",
+   "answer": "Chronic pelvic and abdominal pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#f401f6",
+   "kind": "mcq",
+   "stem": "How many million US adults does each visceral pain condition affect?",
+   "options": [
+    "1 million",
+    "5 million",
+    "10 million",
+    "50 million"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#612a17",
+   "kind": "mcq",
+   "stem": "What happens to visceral afferents after injury, inflammation and stress?",
+   "options": [
+    "They become numb to stimuli",
+    "They become sensitised",
+    "They are permanently destroyed",
+    "They stop transmitting pain signals"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#ba0002",
+   "kind": "statement",
+   "stem": "Why is visceral pain poorly localised?",
+   "answer": "Complex innervation and viscerosomatic convergence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#8594cf",
+   "kind": "statement",
+   "stem": "Which abdominal symptom is associated with visceral pain?",
+   "answer": "Abdominal distension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#c05736",
+   "kind": "statement",
+   "stem": "Which dysfunctions often coexist with visceral pain?",
+   "answer": "Sexual, urinary and bowel autonomic dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#1d4c0b",
+   "kind": "statement",
+   "stem": "What tends to make visceral pain worse?",
+   "answer": "Stress",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#98d4ba",
+   "kind": "statement",
+   "stem": "What must be excluded when evaluating visceral pain?",
+   "answer": "Treatable pathology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#d36818",
+   "kind": "statement",
+   "stem": "When evaluating visceral pain, what other source should be looked for?",
+   "answer": "Somatic contributions from the abdominal wall or pelvic floor",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#73ca2e",
+   "kind": "statement",
+   "stem": "What history should be taken when evaluating visceral pain?",
+   "answer": "Past psychological trauma and current distress",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#8b58c7",
+   "kind": "statement",
+   "stem": "Which visceral pain treatment component involves the abdominal wall or pelvic floor?",
+   "answer": "Somatic component",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#a32e22",
+   "kind": "statement",
+   "stem": "Which treatment is described as critical in visceral pain?",
+   "answer": "Psychological therapy (CBT, stress reduction)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#d9ffb9",
+   "kind": "mcq",
+   "stem": "At what spinal level is the coeliac plexus block performed?",
+   "options": [
+    "T11–T12",
+    "L1",
+    "L5–S1",
+    "S2–S4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#1c2ff5",
+   "kind": "mcq",
+   "stem": "At what spinal level is the splanchnic nerve block performed?",
+   "options": [
+    "L1",
+    "T11–T12",
+    "L5–S1",
+    "S2–S4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#9768a9",
+   "kind": "mcq",
+   "stem": "At what spinal level is the superior hypogastric plexus block performed?",
+   "options": [
+    "T11–T12",
+    "L1",
+    "S2–S4",
+    "L5–S1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#ed5f80",
+   "kind": "mcq",
+   "stem": "At what spinal level is the inferior hypogastric plexus block performed?",
+   "options": [
+    "L5–S1",
+    "T11–T12",
+    "S2–S4",
+    "L1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#d79ad9",
+   "kind": "mcq",
+   "stem": "Which concentration of phenol is used for neurolytic ablation in visceral pain?",
+   "options": [
+    "1-2% phenol",
+    "6-10% phenol",
+    "20-30% phenol",
+    "0.5% phenol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#d79ad9",
+   "kind": "mcq",
+   "stem": "Which concentration of ethyl alcohol is used for neurolytic ablation in visceral pain?",
+   "options": [
+    "5-10% ethyl alcohol",
+    "50-100% ethyl alcohol",
+    "10-20% ethyl alcohol",
+    "1-5% ethyl alcohol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#26e55c",
+   "kind": "mcq",
+   "stem": "How long does neurolytic pain relief usually last in visceral pain?",
+   "options": [
+    "1 to 2 weeks",
+    "3 to 6 months",
+    "1 to 2 years",
+    "Permanently"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#f23b1e",
+   "kind": "statement",
+   "stem": "Which part of the gut does the coeliac plexus supply?",
+   "answer": "From the gastro-oesophageal junction to the splenic flexure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#7980c8",
+   "kind": "mcq",
+   "stem": "At what vertebral level does the coeliac plexus lie anterior to the coeliac artery?",
+   "options": [
+    "T8",
+    "T10",
+    "T12",
+    "L3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#a059b8",
+   "kind": "mcq",
+   "stem": "Sympathetic input to the coeliac plexus arrives via splanchnic nerves from which levels?",
+   "options": [
+    "T1-4",
+    "T5-12",
+    "L1-3",
+    "S2-4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#2cb475",
+   "kind": "statement",
+   "stem": "Which two side effects can follow coeliac plexus block?",
+   "answer": "Postural hypotension and diarrhoea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#2cb475",
+   "kind": "mcq",
+   "stem": "Why does coeliac plexus block cause diarrhoea and postural hypotension?",
+   "options": [
+    "Excess sympathetic activity",
+    "Unopposed parasympathetic activity",
+    "Direct local anaesthetic toxicity",
+    "Opioid receptor activation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/visceral-pain#b50b82",
+   "kind": "statement",
+   "stem": "Which complications can follow coeliac plexus block?",
+   "answer": "Pneumothorax, retroperitoneal bleeding, kidney or bowel injury, epidural spread",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

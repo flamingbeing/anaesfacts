@@ -1,0 +1,355 @@
+{
+ "topic": "regional/spinal-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "regional/spinal-anaesthesia#6c04ae",
+   "kind": "mcq",
+   "stem": "In spinal anaesthesia, where is the local anaesthetic injected?",
+   "options": [
+    "Into the epidural space outside the dura",
+    "Into the subcutaneous tissue over the lumbar spine",
+    "Into the cerebrospinal fluid in the spinal canal",
+    "Around a spinal nerve root in the foramen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#dc24ed",
+   "kind": "statement",
+   "stem": "How does local anaesthetic in spinal anaesthesia produce its effect?",
+   "answer": "Disrupts nerve conduction in the spinal nerve roots and spinal cord",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#3c6dff",
+   "kind": "blank",
+   "stem": "Spinal anaesthesia is mainly used for surgery ____ the umbilicus.",
+   "answer": "below",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#ba8b1a",
+   "kind": "mcq",
+   "stem": "Which sensory level does spinal anaesthesia need for gynaecology procedures such as D&C and hysteroscopy?",
+   "options": [
+    "T10",
+    "T4",
+    "T12",
+    "L2"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#82cc2d",
+   "kind": "mcq",
+   "stem": "What sensory level does spinal anaesthesia need for urology surgery?",
+   "options": [
+    "T4",
+    "T12",
+    "T10",
+    "L2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#550e06",
+   "kind": "mcq",
+   "stem": "What sensory level does spinal anaesthesia need for procedures involving the ureters?",
+   "options": [
+    "T2",
+    "T8",
+    "T4",
+    "L1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#b210c7",
+   "kind": "statement",
+   "stem": "Which lower limb orthopaedic procedure is a recognised use of spinal anaesthesia?",
+   "answer": "Hip fracture surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#8e0fbd",
+   "kind": "statement",
+   "stem": "Compared with general anaesthesia, what is the analgesia difference 6h after spinal anaesthesia?",
+   "answer": "No difference after 6h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#0b8ba9",
+   "kind": "statement",
+   "stem": "Which airway-related risks of general anaesthesia does spinal anaesthesia avoid?",
+   "answer": "Airway instrumentation and its risks, including aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#9ef508",
+   "kind": "statement",
+   "stem": "Compared with general anaesthesia, which postoperative complication does spinal anaesthesia reduce?",
+   "answer": "Respiratory complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#c9e7ca",
+   "kind": "blank",
+   "stem": "Spinal anaesthesia usually gives no ____ benefit over general anaesthesia, except in hip fracture.",
+   "answer": "mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#b08b6a",
+   "kind": "statement",
+   "stem": "What fetal advantage does spinal anaesthesia offer for caesarean section?",
+   "answer": "Minimal drug transfer to the fetus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#ceb23f",
+   "kind": "statement",
+   "stem": "What may spinal anaesthesia failure require?",
+   "answer": "Conversion to GA",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#9e905c",
+   "kind": "statement",
+   "stem": "What is the key limitation on the duration of a single spinal anaesthetic?",
+   "answer": "Fixed and limited; cannot be extended",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#a50852",
+   "kind": "statement",
+   "stem": "Spinal anaesthesia needs lateral or sitting positioning. Which surgical setup can rule this out?",
+   "answer": "Traction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#f6b545",
+   "kind": "statement",
+   "stem": "When under spinal anaesthesia, why might a patient move during surgery?",
+   "answer": "If oversedated or confused",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#5d2e0e",
+   "kind": "statement",
+   "stem": "Which two haemodynamic changes from rapid sympathectomy cause sudden hypotension in spinal anaesthesia?",
+   "answer": "Fall in SVR and fall in preload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#436e56",
+   "kind": "statement",
+   "stem": "What does PDPH stand for as a complication of spinal anaesthesia?",
+   "answer": "Post-dural puncture headache",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#5c5124",
+   "kind": "statement",
+   "stem": "Spinal anaesthesia blocks which two broad groups of nerve fibres?",
+   "answer": "Sympathetic and somatic (sensory and motor) fibres",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#0d18e4",
+   "kind": "mcq",
+   "stem": "How quickly does spinal anaesthesia usually take effect?",
+   "options": [
+    "Within 60 s",
+    "After 10 minutes",
+    "After 30 minutes",
+    "After 2 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#47db2e",
+   "kind": "mcq",
+   "stem": "How far does the sympathetic block of spinal anaesthesia extend beyond the motor block?",
+   "options": [
+    "1 dermatome",
+    "8-10 dermatomes",
+    "2-6 dermatomes",
+    "Not beyond the motor block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#76ac97",
+   "kind": "mcq",
+   "stem": "How far does the pain and touch block of spinal anaesthesia extend beyond the motor block?",
+   "options": [
+    "2-3 dermatomes",
+    "1 dermatome",
+    "4-5 dermatomes",
+    "8-10 dermatomes"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#498ec6",
+   "kind": "statement",
+   "stem": "Does spinal anaesthesia cause cognitive effects, and if so, when?",
+   "answer": "No, unless hypotension reduces cerebral blood flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#efe701",
+   "kind": "mcq",
+   "stem": "The cardiovascular effect of spinal anaesthesia resembles blockade of which receptors?",
+   "options": [
+    "Combined alpha-1 and beta blockade",
+    "Beta-1 stimulation alone",
+    "Muscarinic receptor blockade",
+    "Alpha-2 receptor agonism"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#54fdc8",
+   "kind": "mcq",
+   "stem": "Spinal anaesthesia blocks peripheral sympathetic fibres at which spinal segments?",
+   "options": [
+    "C3 to C5",
+    "S2 to S4",
+    "L3 to S1",
+    "T1 to L2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#1873a2",
+   "kind": "mcq",
+   "stem": "Which levels carry the cardiac accelerator sympathetic fibres blocked by a high spinal?",
+   "options": [
+    "T5-T8",
+    "T9-T12",
+    "T1-T4",
+    "L1-L3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#c4041b",
+   "kind": "statement",
+   "stem": "Which reflex can make heart rate fall, rather than rise, after spinal anaesthesia?",
+   "answer": "Bezold-Jarisch reflex",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#d89539",
+   "kind": "statement",
+   "stem": "What is the usual respiratory effect of spinal anaesthesia?",
+   "answer": "Usually little effect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#a69310",
+   "kind": "statement",
+   "stem": "How do hepatic and renal blood flow change as mean arterial pressure falls during spinal anaesthesia?",
+   "answer": "They fall with MAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#322e56",
+   "kind": "blank",
+   "stem": "Spinal anaesthesia can block sacral parasympathetic outflow to the bladder, causing urinary ____.",
+   "answer": "retention",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#167b9b",
+   "kind": "mcq",
+   "stem": "In spinal anaesthesia from T6 to L1, what happens to gut peristalsis?",
+   "options": [
+    "Peristalsis stops completely",
+    "Peristalsis is unchanged",
+    "Peristalsis slows markedly",
+    "Peristalsis increases"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#70a48e",
+   "kind": "statement",
+   "stem": "What endocrine effect does spinal anaesthesia have?",
+   "answer": "Reduced stress response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#9ece94",
+   "kind": "mcq",
+   "stem": "At what platelet count is spinal anaesthesia definitely avoided?",
+   "options": [
+    "Below 50k",
+    "Above 150k",
+    "Above 100k",
+    "Above 70k"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/spinal-anaesthesia#7f9a9d",
+   "kind": "mcq",
+   "stem": "Under the SOAP 2021 consensus, at what platelet count should spinal anaesthesia proceed?",
+   "options": [
+    "Below 50k",
+    "Above 70k",
+    "Below 20k",
+    "Between 50k and 70k"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

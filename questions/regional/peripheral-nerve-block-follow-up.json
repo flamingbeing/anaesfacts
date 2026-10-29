@@ -1,0 +1,115 @@
+{
+ "topic": "regional/peripheral-nerve-block-follow-up",
+ "questions": [
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#947a54",
+   "kind": "statement",
+   "stem": "What should patients and carers be taught after a single-shot peripheral nerve block?",
+   "answer": "Protect the numb limb until the block wears off",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#990d26",
+   "kind": "mcq",
+   "stem": "After a single-shot peripheral nerve block, when should regular analgesia be advised?",
+   "options": [
+    "Before sensation returns",
+    "Only once the patient asks for it",
+    "After the first postoperative day",
+    "Only when the block has fully resolved"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#64375b",
+   "kind": "statement",
+   "stem": "What should be checked at follow-up after a single-shot peripheral nerve block?",
+   "answer": "That the block has fully resolved",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#2857c1",
+   "kind": "mcq",
+   "stem": "How long does a single-shot lidocaine peripheral nerve block usually last?",
+   "options": [
+    "90-180min",
+    "30-60min",
+    "4-6hrs",
+    "8-12hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#96c5de",
+   "kind": "mcq",
+   "stem": "How long does a single-shot bupivacaine or ropivacaine peripheral nerve block usually last?",
+   "options": [
+    "4-18hrs",
+    "90-180min",
+    "30-60min",
+    "24-36hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#7df32c",
+   "kind": "statement",
+   "stem": "What should be screened for after a single-shot peripheral nerve block?",
+   "answer": "Complications specific to regional anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#961337",
+   "kind": "mcq",
+   "stem": "What bupivacaine concentration is used for perineural infusions?",
+   "options": [
+    "0.1-0.2%",
+    "0.5-1%",
+    "0.01-0.02%",
+    "2-3%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#0fcb29",
+   "kind": "mcq",
+   "stem": "What ropivacaine concentration is used for perineural infusions?",
+   "options": [
+    "0.05%",
+    "0.1%",
+    "0.2%",
+    "1%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#696d10",
+   "kind": "statement",
+   "stem": "On a daily ward review of a perineural infusion, which sensation is tested with ice?",
+   "answer": "Loss of cold sensation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/peripheral-nerve-block-follow-up#cd15b9",
+   "kind": "statement",
+   "stem": "What does a top-up of a perineural catheter infusion involve?",
+   "answer": "Change the infusion bag",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

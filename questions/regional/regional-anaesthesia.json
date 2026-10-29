@@ -1,0 +1,199 @@
+{
+ "topic": "regional/regional-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "regional/regional-anaesthesia#d4c209",
+   "kind": "mcq",
+   "stem": "What defines regional anaesthesia?",
+   "options": [
+    "Local anaesthetic given IV to numb the whole body",
+    "Local anaesthetic placed around nerves supplying an area, so that part is numb",
+    "General anaesthetic given through a face mask",
+    "Sedation with an opioid infusion only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#3f49ba",
+   "kind": "statement",
+   "stem": "What is local anaesthesia in contrast to regional anaesthesia?",
+   "answer": "Local anaesthetic infiltrated directly around the operative site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#0fd87d",
+   "kind": "blank",
+   "stem": "Regional anaesthesia types include central neuraxial blockade, peripheral nerve blockade and ____ regional anaesthesia.",
+   "answer": "Intravenous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#763e64",
+   "kind": "statement",
+   "stem": "Besides local anaesthetics, which drugs are used intrathecally and epidurally in regional anaesthesia?",
+   "answer": "Opioids and adjuncts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#972e01",
+   "kind": "mcq",
+   "stem": "Which drugs are adjuncts used with local anaesthetics in regional anaesthesia?",
+   "options": [
+    "Ketamine, midazolam, propofol, fentanyl",
+    "Atropine, glycopyrrolate, neostigmine, sugammadex",
+    "Adrenaline, sodium bicarbonate, dexmedetomidine, dexamethasone",
+    "Ondansetron, metoclopramide, droperidol, aprepitant"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#5ae0fb",
+   "kind": "mcq",
+   "stem": "What stress response to surgery does regional anaesthesia reduce?",
+   "options": [
+    "Cortisol and catecholamines",
+    "Prolactin and oxytocin",
+    "Thyroxine and prolactin",
+    "Histamine and serotonin"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#618ec9",
+   "kind": "statement",
+   "stem": "Which two outcomes are controversially claimed to improve with regional anaesthesia over general anaesthesia?",
+   "answer": "Fewer surgical site infections and less cancer recurrence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#9a4d6c",
+   "kind": "mcq",
+   "stem": "Which procedure is a reason to use regional anaesthesia for awake neurological monitoring?",
+   "options": [
+    "Carotid endarterectomy",
+    "Hip arthroplasty",
+    "Laparoscopic cholecystectomy",
+    "Inguinal hernia repair"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#b19a0d",
+   "kind": "statement",
+   "stem": "What advantage does regional anaesthesia have in obstetrics?",
+   "answer": "Less effect on the fetus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#0c1992",
+   "kind": "mcq",
+   "stem": "Which is a contraindication to any regional anaesthesia?",
+   "options": [
+    "Mild preoperative anxiety",
+    "Previous appendicectomy",
+    "Patient refusal",
+    "Long expected operation duration"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#2da7a3",
+   "kind": "statement",
+   "stem": "What local problem at the needle site contraindicates regional anaesthesia?",
+   "answer": "Local infection at the puncture site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#f298c4",
+   "kind": "mcq",
+   "stem": "Which allergy is a contraindication to regional anaesthesia?",
+   "options": [
+    "Penicillin allergy",
+    "Local anaesthetic allergy",
+    "Latex allergy",
+    "Egg allergy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#0a0e14",
+   "kind": "statement",
+   "stem": "Coagulopathy is a contraindication, but less strictly so for which blocks?",
+   "answer": "Single-shot superficial peripheral nerve blocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#8a8639",
+   "kind": "statement",
+   "stem": "What are two contraindications to peripheral nerve blockade?",
+   "answer": "Pre-existing neuropathy, or need for neurological monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#affe05",
+   "kind": "mcq",
+   "stem": "Which condition is a contraindication specific to neuraxial blockade?",
+   "options": [
+    "Clavicle fracture",
+    "Aortic stenosis",
+    "Phrenic nerve palsy",
+    "Shoulder dislocation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#1e1f22",
+   "kind": "statement",
+   "stem": "Which block-specific risks apply to an interscalene block?",
+   "answer": "Phrenic nerve palsy and pneumothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#8c098e",
+   "kind": "statement",
+   "stem": "Which two drug classes must be checked for cessation before regional anaesthesia?",
+   "answer": "DAPT and anticoagulants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#3ffae3",
+   "kind": "statement",
+   "stem": "What must be covered when consenting a patient for regional anaesthesia?",
+   "answer": "Risks and complications, respecting patient autonomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia#6ebb26",
+   "kind": "statement",
+   "stem": "What must be planned in case the regional block fails during surgery?",
+   "answer": "Conversion to general anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

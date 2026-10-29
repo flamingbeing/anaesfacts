@@ -1,0 +1,685 @@
+{
+ "topic": "regional/interscalene-block",
+ "questions": [
+  {
+   "fact_id": "regional/interscalene-block#f3765a",
+   "kind": "mcq",
+   "stem": "Which area does an interscalene block cover besides the shoulder and upper arm?",
+   "options": [
+    "Medial two thirds of the clavicle",
+    "Whole lower forearm and hand",
+    "Lateral two thirds of the clavicle",
+    "Flank and lower chest wall"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#65f9e1",
+   "kind": "statement",
+   "stem": "In an interscalene block, what else can proximal superficial spread block?",
+   "answer": "Supraclavicular branches of the cervical plexus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#cb0443",
+   "kind": "mcq",
+   "stem": "Which trunk of the brachial plexus is usually spared by an interscalene block?",
+   "options": [
+    "Superior trunk",
+    "Middle trunk",
+    "Lateral cord",
+    "Inferior trunk"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#7e6f4b",
+   "kind": "mcq",
+   "stem": "For ulnar (C8-T1) territory with a low interscalene injection, what volume is used?",
+   "options": [
+    "5-10 ml",
+    "15-20 ml",
+    "25-30 ml",
+    "30-40 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#2c295b",
+   "kind": "mcq",
+   "stem": "Which surgery is an interscalene block indicated for?",
+   "options": [
+    "Shoulder and upper arm surgery",
+    "Hip arthroplasty",
+    "Knee arthroscopy",
+    "Ankle fracture fixation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#1e2fc4",
+   "kind": "statement",
+   "stem": "Which surgery is an interscalene block combined with a cervical plexus block for?",
+   "answer": "Clavicle surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#9edf07",
+   "kind": "blank",
+   "stem": "Interscalene block ultrasound uses a linear transducer at ____ MHz.",
+   "answer": "8–14",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#0744bd",
+   "kind": "mcq",
+   "stem": "For an interscalene block, which head position is used relative to the side being blocked?",
+   "options": [
+    "Head turned toward the side to be blocked",
+    "Head flexed fully over the chest",
+    "Head turned away from the side to be blocked",
+    "Head extended fully backwards"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#1a474f",
+   "kind": "statement",
+   "stem": "In an interscalene block, what does a slight head-up tilt achieve?",
+   "answer": "More comfort, better venous drainage and less prominent neck veins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#2e618b",
+   "kind": "statement",
+   "stem": "In an interscalene block, what does a pillow under the neck and contralateral shoulder achieve?",
+   "answer": "It lifts the site and gives more room posteriorly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#ff0141",
+   "kind": "statement",
+   "stem": "In an interscalene block, what manoeuvre drops the shoulder?",
+   "answer": "Reaching for the ipsilateral knee",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#ef5123",
+   "kind": "mcq",
+   "stem": "At which level is the linear probe placed transversely for an interscalene block?",
+   "options": [
+    "At the thyroid cartilage (C4)",
+    "At the sternal notch (T2)",
+    "At the angle of the jaw (C2)",
+    "At the cricoid (C6)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#3e4a7c",
+   "kind": "blank",
+   "stem": "For ultrasound interscalene block, the probe sits about ____ cm above the clavicle, over the external jugular vein.",
+   "answer": "3–4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#aa5aed",
+   "kind": "statement",
+   "stem": "In interscalene ultrasound, which structure do you find first before scanning laterally?",
+   "answer": "Carotid artery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#779002",
+   "kind": "statement",
+   "stem": "On interscalene ultrasound, where does the plexus lie relative to the carotid and internal jugular vein?",
+   "answer": "Lateral to them, between anterior and middle scalenes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#54599b",
+   "kind": "blank",
+   "stem": "On interscalene ultrasound the brachial plexus is typically ____ cm deep.",
+   "answer": "1–2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#a8621d",
+   "kind": "statement",
+   "stem": "What lies superficial to the plexus in the interscalene ultrasound view?",
+   "answer": "Sternocleidomastoid and the superficial cervical plexus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#43d68b",
+   "kind": "mcq",
+   "stem": "Which vessel should be avoided during an interscalene block?",
+   "options": [
+    "Facial artery",
+    "Radial artery",
+    "Axillary artery",
+    "Vertebral artery"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#3f21ca",
+   "kind": "mcq",
+   "stem": "At which vertebral level does the vertebral artery enter the transverse foramen, relevant to interscalene block?",
+   "options": [
+    "C4",
+    "C6",
+    "C7",
+    "T1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#688dbb",
+   "kind": "mcq",
+   "stem": "Which nerve runs on the anterior scalene, relevant to interscalene block?",
+   "options": [
+    "Phrenic nerve",
+    "Vagus nerve",
+    "Accessory nerve",
+    "Recurrent laryngeal nerve"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#81a871",
+   "kind": "statement",
+   "stem": "What is the name of the prominent anterior tubercle of the C6 transverse process?",
+   "answer": "Chassaignac tubercle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#2091e2",
+   "kind": "statement",
+   "stem": "In traceback interscalene ultrasound, which vessel do you find first at the base of the neck?",
+   "answer": "Subclavian artery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#8a7e91",
+   "kind": "statement",
+   "stem": "If the interscalene view is hard to obtain, where should ultrasound scanning start?",
+   "answer": "Supraclavicular fossa",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#a1c879",
+   "kind": "mcq",
+   "stem": "In interscalene block, from which direction is the needle usually advanced in-plane?",
+   "options": [
+    "Medial to lateral",
+    "Lateral to medial",
+    "Cranial to caudal",
+    "Caudal to cranial"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#1855ed",
+   "kind": "statement",
+   "stem": "What sensation is often felt as the needle passes through the prevertebral fascia in interscalene block?",
+   "answer": "A pop",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#24a04c",
+   "kind": "mcq",
+   "stem": "In interscalene block, where should the needle aim?",
+   "options": [
+    "Directly into the nerve roots",
+    "The space between anterior and middle scalenes, between roots",
+    "Within the posterior scalene muscle",
+    "Medial to the vertebral artery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#9dcb70",
+   "kind": "blank",
+   "stem": "A ____ mL volume usually gives a fast, reliable interscalene block.",
+   "answer": "7–15",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#e2c825",
+   "kind": "statement",
+   "stem": "In interscalene block, why should high injection resistance be avoided?",
+   "answer": "Intraneural injection can track proximally into the spinal canal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#4c6b05",
+   "kind": "statement",
+   "stem": "What opening pressure suggests the needle is touching the plexus in interscalene block?",
+   "answer": "> 15 psi",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#62c2e6",
+   "kind": "statement",
+   "stem": "Is a motor response required to confirm placement in an interscalene block?",
+   "answer": "No; it confirms placement but is not required",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#ef1c39",
+   "kind": "statement",
+   "stem": "In interscalene block, what should you do if a motor response is seen below 0.5 mA?",
+   "answer": "Withdraw slightly before injecting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#f66f44",
+   "kind": "statement",
+   "stem": "After what volume should spread be checked in an interscalene block?",
+   "answer": "5–7 mL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#f66f44",
+   "kind": "statement",
+   "stem": "After 10 mL in interscalene block, what is seen around the nerves lateral to the subclavian artery at the supraclavicular fossa?",
+   "answer": "The nerves are surrounded and look deeper",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#da6a7b",
+   "kind": "statement",
+   "stem": "In interscalene block, where should you inject when C6 and C7 split proximally?",
+   "answer": "Between C5 and C6, superficial to C5 or deep to C6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#5f3393",
+   "kind": "statement",
+   "stem": "If C5 runs partly through the anterior scalene, what should you do?",
+   "answer": "Follow it distally until it enters the groove",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#cdc95e",
+   "kind": "statement",
+   "stem": "In the interscalene landmark technique, from which point do you draw a line laterally?",
+   "answer": "The cricoid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#821d84",
+   "kind": "statement",
+   "stem": "In the interscalene landmark technique, what do you palpate?",
+   "answer": "The interscalene groove",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#021d3a",
+   "kind": "blank",
+   "stem": "In the interscalene landmark technique the needle is usually only ____ cm deep.",
+   "answer": "1–2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#51db0e",
+   "kind": "mcq",
+   "stem": "How does a superior trunk block compare with an interscalene block for phrenic nerve involvement?",
+   "options": [
+    "More distal, so further from the phrenic nerve",
+    "More proximal, so closer to the phrenic nerve",
+    "Equally close to the phrenic nerve",
+    "It always blocks the phrenic nerve"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#8153d6",
+   "kind": "blank",
+   "stem": "The suprascapular nerve supplies ____ of shoulder joint innervation and arises from the superior trunk.",
+   "answer": "70%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#7dba65",
+   "kind": "statement",
+   "stem": "During a superior trunk block, how do you locate the suprascapular nerve?",
+   "answer": "Slide the probe distally until it is seen leaving the superior trunk.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#10cdfb",
+   "kind": "statement",
+   "stem": "In a superior trunk block, how can you reach the superior trunk by following nerve roots?",
+   "answer": "Follow C5 and C6 caudally until they join, ideally above the suprascapular branch.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#02bb98",
+   "kind": "mcq",
+   "stem": "Which needle approach is used for a superior trunk block?",
+   "options": [
+    "In-plane, lateral to medial",
+    "Out-of-plane, medial to lateral",
+    "In-plane, medial to lateral",
+    "Out-of-plane, caudad to cranial"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#a9c965",
+   "kind": "mcq",
+   "stem": "What volume is given when the needle tip is posterior or inferior to the superior trunk?",
+   "options": [
+    "5 ml",
+    "10 ml",
+    "15 ml",
+    "20 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#1e8ad6",
+   "kind": "mcq",
+   "stem": "What volume is used when the tip is redirected anterior or superior, still lateral to the superior trunk?",
+   "options": [
+    "10 ml",
+    "15 ml",
+    "5 ml",
+    "20 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#a190b8",
+   "kind": "mcq",
+   "stem": "Which respiratory complication follows ipsilateral phrenic nerve block during interscalene block?",
+   "options": [
+    "Horner's syndrome",
+    "Bezold-Jarisch reflex bradycardia",
+    "Hemidiaphragmatic paralysis",
+    "Seizures from vertebral artery injection"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#db27e5",
+   "kind": "mcq",
+   "stem": "With traditional volumes of 20 ml or more, how often does interscalene block cause hemidiaphragmatic paresis?",
+   "options": [
+    "Rare, under 5% of patients",
+    "Occurs in about half of patients",
+    "Only with continuous infusions",
+    "Almost universal"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#42a36e",
+   "kind": "mcq",
+   "stem": "With lower dose and volume, what incidence of hemidiaphragmatic paresis is reported after interscalene block?",
+   "options": [
+    "Between 13 and 45%",
+    "Between 60 and 90%",
+    "Between 1 and 5%",
+    "Between 50 and 70%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#5c2e96",
+   "kind": "mcq",
+   "stem": "Which sympathetic block complication of interscalene block causes ptosis, anhidrosis and miosis?",
+   "options": [
+    "Recurrent laryngeal nerve palsy",
+    "Horner's syndrome",
+    "Persistent phrenic nerve palsy",
+    "Epidural spread of local anaesthetic"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#a7d1f3",
+   "kind": "statement",
+   "stem": "What can cause hoarseness after interscalene block?",
+   "answer": "Laryngeal hyperaemia or recurrent laryngeal nerve block.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#ebf7e5",
+   "kind": "statement",
+   "stem": "What can an interscalene injection into a cervical root's dural sleeve cause?",
+   "answer": "Epidural spread or total spinal.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#16eb5b",
+   "kind": "mcq",
+   "stem": "What complication follows accidental vertebral artery injection during interscalene block?",
+   "options": [
+    "Hoarseness",
+    "Pneumothorax",
+    "Seizures",
+    "Horner's syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#9207a0",
+   "kind": "statement",
+   "stem": "What is the risk of needle contact during interscalene block at the cervical level?",
+   "answer": "Direct needle injury to the cervical spinal cord.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#4f8024",
+   "kind": "statement",
+   "stem": "Why does sitting position in shoulder surgery risk the Bezold-Jarisch reflex?",
+   "answer": "It reduces venous return, leading to bradycardia, hypotension and even cardiac arrest.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#b38b75",
+   "kind": "statement",
+   "stem": "Where does the phrenic nerve lie relative to the interscalene groove at the cricoid level?",
+   "answer": "Just superficial to the groove, running over the anterior scalene.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#26d21b",
+   "kind": "statement",
+   "stem": "Why does phrenic block after interscalene block matter for patients with lung disease?",
+   "answer": "It can compromise breathing in pre-existing lung disease.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#54701d",
+   "kind": "statement",
+   "stem": "How can phrenic block after interscalene block be checked with M-mode ultrasound?",
+   "answer": "Low-frequency curvilinear probe under the rib cage in the anterior axillary line, watching hemidiaphragm movement.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#6caa38",
+   "kind": "mcq",
+   "stem": "Which lower interscalene volume may give shorter analgesia and lower success?",
+   "options": [
+    "5 mL",
+    "10 mL",
+    "20 mL",
+    "30 mL"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#7c15d5",
+   "kind": "statement",
+   "stem": "In continuous interscalene block, how is catheter position confirmed after advancing the catheter?",
+   "answer": "Inject via the catheter under ultrasound.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#066efb",
+   "kind": "mcq",
+   "stem": "In continuous interscalene block, which steps does ultrasound guide?",
+   "options": [
+    "The first two steps",
+    "The last two steps",
+    "All five steps",
+    "Only catheter advancement"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#9b09a2",
+   "kind": "statement",
+   "stem": "In continuous interscalene block, under which fascia does the needle usually lie?",
+   "answer": "Prevertebral fascia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#dc80d2",
+   "kind": "blank",
+   "stem": "In continuous interscalene block, after a motor response at 0.5 mA and 0.1 msec, give ____ to open the space.",
+   "answer": "4–5 mL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#d75201",
+   "kind": "mcq",
+   "stem": "How far is the catheter advanced into the interscalene space in continuous interscalene block?",
+   "options": [
+    "2–3 cm",
+    "5–6 cm",
+    "10–12 cm",
+    "0.5–1 cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#b4204c",
+   "kind": "mcq",
+   "stem": "What can be injected to check an unclear catheter tip in continuous interscalene block?",
+   "options": [
+    "10 mL of saline",
+    "1 mL of air",
+    "5 mL of lidocaine",
+    "20 mL of contrast"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#6810a9",
+   "kind": "statement",
+   "stem": "When should tunnelling of an interscalene catheter be considered?",
+   "answer": "Older or obese patients, loose neck skin, or longer planned infusions.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#cd760c",
+   "kind": "statement",
+   "stem": "Why can a stimulating catheter prompt needless manipulation in continuous interscalene block?",
+   "answer": "A motor response may be absent even when the catheter is well placed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/interscalene-block#36cca9",
+   "kind": "statement",
+   "stem": "Which catheter technique has been reintroduced as an option for continuous interscalene block?",
+   "answer": "Catheter-over-needle technique.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

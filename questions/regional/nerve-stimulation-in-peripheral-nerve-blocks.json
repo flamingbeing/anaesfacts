@@ -1,0 +1,353 @@
+{
+ "topic": "regional/nerve-stimulation-in-peripheral-nerve-blocks",
+ "questions": [
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#1be3b1",
+   "kind": "statement",
+   "stem": "In nerve stimulation, what does the external current do to the nerve membrane?",
+   "answer": "Brings it to threshold, so the nerve depolarises and fires an action potential",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#fcc740",
+   "kind": "mcq",
+   "stem": "In nerve stimulation, what determines how a nerve responds to an external current?",
+   "options": [
+    "Needle gauge",
+    "Fibre type",
+    "Local anaesthetic volume",
+    "Needle length"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#89161d",
+   "kind": "statement",
+   "stem": "Why does the pulse duration needed to stimulate a nerve vary?",
+   "answer": "It differs by fibre type, giving some selectivity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#097429",
+   "kind": "mcq",
+   "stem": "What pulse duration stimulates A-alpha motor fibres in a nerve block?",
+   "options": [
+    "0.2-0.3ms",
+    "0.5-1ms",
+    "2-3ms",
+    "0.05-0.1ms"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#0775fc",
+   "kind": "mcq",
+   "stem": "What pulse duration stimulates A-delta fibres, which carry pain and temperature?",
+   "options": [
+    "0.3-0.5ms",
+    "0.5-1ms",
+    "2-3ms",
+    "0.15ms"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#116fcb",
+   "kind": "statement",
+   "stem": "In a nerve stimulation block, what is the aim as the needle approaches the nerve?",
+   "answer": "Elicit a motor response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#b7470b",
+   "kind": "mcq",
+   "stem": "How does the current needed for a motor twitch change with needle-to-nerve distance?",
+   "options": [
+    "Falls as the needle moves further away",
+    "Rises as the needle moves further away",
+    "Stays the same at any distance",
+    "Fixed at 0.5mA regardless of distance"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#2d149d",
+   "kind": "mcq",
+   "stem": "How would you rate nerve stimulation for detecting intraneural needle placement?",
+   "options": [
+    "Low specificity, high sensitivity",
+    "High specificity, low sensitivity",
+    "High specificity, high sensitivity",
+    "Low specificity, low sensitivity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#71d2db",
+   "kind": "mcq",
+   "stem": "In nerve stimulation, what does a motor twitch at under 0.2 mA mean?",
+   "options": [
+    "Very likely intraneural; reposition the needle",
+    "Likely extraneural; keep advancing",
+    "Safe to inject now",
+    "Needle too far; advance it"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#8f528c",
+   "kind": "statement",
+   "stem": "Why is a lack of twitch at 0.5 mA not reassuring for excluding intraneural placement?",
+   "answer": "Poor sensitivity: a twitch under 0.5 mA can still be intraneural",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#781502",
+   "kind": "mcq",
+   "stem": "What is the usual pulse duration range for a nerve stimulator?",
+   "options": [
+    "1-5ms",
+    "0.05-1ms",
+    "5-10ms",
+    "10-20ms"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#414802",
+   "kind": "mcq",
+   "stem": "What stimulation frequency is used for nerve stimulation?",
+   "options": [
+    "10-20Hz",
+    "50-60Hz",
+    "1-3Hz",
+    "100Hz"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#414802",
+   "kind": "statement",
+   "stem": "Why should tetanic stimulation be avoided during nerve stimulation?",
+   "answer": "It is painful",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#fc5f69",
+   "kind": "mcq",
+   "stem": "What is the adjustable output amplitude range of a nerve stimulator?",
+   "options": [
+    "0-10mA",
+    "0-3mA",
+    "0-30mA",
+    "0-100mA"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#2617c2",
+   "kind": "mcq",
+   "stem": "What current should you start at when locating a nerve with a stimulator?",
+   "options": [
+    "0.2-0.3mA",
+    "1-1.5mA",
+    "5-10mA",
+    "0.05-0.1mA"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#b80bb9",
+   "kind": "mcq",
+   "stem": "What current range helps exclude intraneural needle placement?",
+   "options": [
+    "0.02-0.03mA",
+    "1-1.5mA",
+    "3-5mA",
+    "0.2-0.3mA"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#cac0e1",
+   "kind": "statement",
+   "stem": "What are the two leads of a nerve stimulator connected to?",
+   "answer": "One to an ECG skin electrode, one to the needle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#567892",
+   "kind": "blank",
+   "stem": "Polarity should be clearly marked and colour coded, with the ____ lead going to the needle.",
+   "answer": "negative",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#a13cf7",
+   "kind": "statement",
+   "stem": "Why does using the needle as the cathode reduce the current needed for a twitch?",
+   "answer": "It depolarises the nearby membrane and triggers an action potential",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#77b6b3",
+   "kind": "statement",
+   "stem": "When used with ultrasound, what is the main role of nerve stimulation?",
+   "answer": "Safety: detecting intraneural needle placement and intrafascicular injection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#0ba6bc",
+   "kind": "mcq",
+   "stem": "Which fixed current is used for nerve stimulation as a safety check alongside ultrasound?",
+   "options": [
+    "2 mA",
+    "0.5 mA",
+    "5 mA",
+    "10 mA"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#0ba6bc",
+   "kind": "statement",
+   "stem": "What should be confirmed before injecting when nerve stimulation is used as a safety check with ultrasound?",
+   "answer": "No twitch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#0cf511",
+   "kind": "mcq",
+   "stem": "After about how much injectate should the twitch fade clearly during nerve stimulation with ultrasound?",
+   "options": [
+    "about 20mL",
+    "about 2mL",
+    "about 10mL",
+    "about 50mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#6a55ce",
+   "kind": "mcq",
+   "stem": "In nerve stimulation, what does a twitch that persists after injection suggest?",
+   "options": [
+    "Adequate local spread",
+    "Intravascular placement",
+    "Intraneural placement",
+    "Subcutaneous placement"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#63c256",
+   "kind": "statement",
+   "stem": "Why can high currents mislead during nerve stimulation?",
+   "answer": "They can stimulate muscle directly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#2f28de",
+   "kind": "mcq",
+   "stem": "With ultrasound guidance, how much does nerve stimulation add as a localisation tool?",
+   "options": [
+    "Adds greatly to success",
+    "Adds little to success",
+    "Is essential for success",
+    "Doubles the success rate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#e3209d",
+   "kind": "mcq",
+   "stem": "What does nerve stimulation help prevent during a peripheral nerve block?",
+   "options": [
+    "Local anaesthetic toxicity",
+    "Intraneural needle tip placement",
+    "Tourniquet pain",
+    "Postoperative nausea"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#d8dc6b",
+   "kind": "mcq",
+   "stem": "What does nerve stimulation help with at around 1mA?",
+   "options": [
+    "Confirming fascial plane",
+    "Preventing intraneural placement",
+    "Identifying the nerve",
+    "Measuring nerve conduction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#8285fd",
+   "kind": "mcq",
+   "stem": "What does a direct muscle twitch at about 2mA confirm during a block?",
+   "options": [
+    "Intraneural placement",
+    "Intravascular placement",
+    "The right intermuscular fascial plane",
+    "Correct local anaesthetic dose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/nerve-stimulation-in-peripheral-nerve-blocks#c6b71b",
+   "kind": "statement",
+   "stem": "What is a limitation of using 0.5 mA nerve stimulation?",
+   "answer": "It does not prevent intraneural needling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
