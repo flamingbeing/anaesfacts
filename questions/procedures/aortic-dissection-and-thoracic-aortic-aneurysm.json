@@ -1,0 +1,893 @@
+{
+ "topic": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm",
+ "questions": [
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#e8ff1a",
+   "kind": "mcq",
+   "stem": "How is a thoracic aortic aneurysm defined by diameter?",
+   "options": [
+    ">25% increase in diameter",
+    ">10% increase in diameter",
+    ">50% increase in diameter",
+    ">100% increase in diameter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#26c0e4",
+   "kind": "mcq",
+   "stem": "What is the usual diameter of a thoracic aortic aneurysm?",
+   "options": [
+    "About 2cm",
+    "About 9cm",
+    "About 5cm",
+    "About 12cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#6ee524",
+   "kind": "mcq",
+   "stem": "What defines a true thoracic aortic aneurysm?",
+   "options": [
+    "Involves only the intima",
+    "Involves only the media",
+    "Involves all 3 layers of the wall",
+    "Involves only the adventitia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#324650",
+   "kind": "mcq",
+   "stem": "Marfan syndrome is caused by a mutation in which protein?",
+   "options": [
+    "Dystrophin",
+    "Collagen type I",
+    "Fibrillin-1",
+    "Keratin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#324650",
+   "kind": "mcq",
+   "stem": "In Marfan syndrome, which segment of the aorta is at high risk of dilatation?",
+   "options": [
+    "Femoral arteries",
+    "Common iliac arteries",
+    "Aortic root",
+    "Descending thoracic aorta below the diaphragm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#8e2a9d",
+   "kind": "mcq",
+   "stem": "Ascending aortic dissection is said to be how many times more common than abdominal aortic aneurysm (AAA)?",
+   "options": [
+    "2-3 times",
+    "10-20 times",
+    "1.5 times",
+    "5-6 times"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#80241e",
+   "kind": "mcq",
+   "stem": "What is the untreated mortality of acute aortic dissection over the first 48 hours?",
+   "options": [
+    "1-2%/hr",
+    "5-10%/hr",
+    "0.1-0.2%/hr",
+    "10-20%/hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#23a016",
+   "kind": "mcq",
+   "stem": "How long after symptom onset must aortic dissection be diagnosed to count as acute?",
+   "options": [
+    "Within 48 hours",
+    "Within 2 weeks",
+    "Within 6 weeks",
+    "Within 3 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#816cae",
+   "kind": "mcq",
+   "stem": "Aortic dissection diagnosed after what interval from onset counts as chronic?",
+   "options": [
+    "Within 2 days of onset",
+    "Within 12 hours of onset",
+    ">2 weeks since onset",
+    ">6 months since onset"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#0280a8",
+   "kind": "statement",
+   "stem": "Name the three syndromes related to aortic dissection.",
+   "answer": "Intramural haemorrhage, intramural haematoma, aortic ulcer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#46e150",
+   "kind": "mcq",
+   "stem": "In the DeBakey classification, which type involves the ascending, arch and descending aorta?",
+   "options": [
+    "Type II",
+    "Type IIIa",
+    "Type I",
+    "Type IIIb"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#46e150",
+   "kind": "mcq",
+   "stem": "In DeBakey type I dissection, how far from the aortic valve is the tear usually?",
+   "options": [
+    "<10cm",
+    ">20cm",
+    ">40cm",
+    "Beyond 60cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#cc1384",
+   "kind": "mcq",
+   "stem": "Which connective tissue disease is a risk factor for aortic dissection?",
+   "options": [
+    "Hashimoto thyroiditis",
+    "Marfan",
+    "Gilbert syndrome",
+    "Coeliac disease"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#7b1b50",
+   "kind": "mcq",
+   "stem": "What is the typical pain of type A aortic dissection?",
+   "options": [
+    "Gradual dull epigastric pain",
+    "Colicky loin pain radiating to groin",
+    "Sudden severe sharp chest pain",
+    "Mild exertional chest tightness"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#6a661e",
+   "kind": "mcq",
+   "stem": "In type B aortic dissection, which pain location is more common?",
+   "options": [
+    "Isolated jaw pain",
+    "Back and abdominal pain",
+    "Painless syncope",
+    "Calf claudication"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#7aa768",
+   "kind": "mcq",
+   "stem": "What percentage of aortic dissections show ischaemic changes on ECG?",
+   "options": [
+    "2%",
+    "20%",
+    "50%",
+    "80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#d40017",
+   "kind": "mcq",
+   "stem": "What is the purpose of anti-impulse therapy in acute aortic dissection?",
+   "options": [
+    "Increase cardiac output to the brain",
+    "Promote clot formation in the false lumen",
+    "Reduce pulsatile load on the wall",
+    "Raise distal perfusion pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#493735",
+   "kind": "mcq",
+   "stem": "In acute aortic dissection, what systolic BP target lowers absolute wall stress?",
+   "options": [
+    "130-140",
+    "90-100",
+    "110-120",
+    "140-160"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#3eff23",
+   "kind": "mcq",
+   "stem": "In acute aortic dissection, what heart rate target is used to reduce pulses hitting the tear?",
+   "options": [
+    "90–100 bpm",
+    "40–50 bpm",
+    "60–80 bpm",
+    "100–120 bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#c246d2",
+   "kind": "mcq",
+   "stem": "In bleeding aortic dissection, which protocol is used for blood replacement?",
+   "options": [
+    "Routine crystalloid infusion only",
+    "Immediate heparinisation",
+    "Massive transfusion protocol",
+    "Fresh frozen plasma alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#c246d2",
+   "kind": "mcq",
+   "stem": "Why is there little room for permissive hypotension when an aortic dissection bleeds?",
+   "options": [
+    "Coronary perfusion is always normal",
+    "The false lumen may already limit visceral flow",
+    "Heart rate is already above 120",
+    "Clotting factors are never low"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#9fe783",
+   "kind": "mcq",
+   "stem": "Which part of the aorta does a hemiarch replacement in type A dissection repair replace?",
+   "options": [
+    "Distal descending aorta",
+    "Aortic root only",
+    "Proximal arch",
+    "Abdominal aorta"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#9504e0",
+   "kind": "mcq",
+   "stem": "Which type A repair replaces the total arch and gives distal support?",
+   "options": [
+    "Hemiarch replacement",
+    "Simple ascending replacement",
+    "Frozen elephant trunk",
+    "Root replacement"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#580190",
+   "kind": "mcq",
+   "stem": "In frozen elephant trunk anaesthesia, what systolic BP target is set?",
+   "options": [
+    "<200",
+    "<90",
+    "<120",
+    ">140"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#580190",
+   "kind": "mcq",
+   "stem": "In frozen elephant trunk anaesthesia, what heart rate target is set?",
+   "options": [
+    "<100",
+    "<60",
+    ">80",
+    "<40"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#8f3907",
+   "kind": "mcq",
+   "stem": "What does previous cardiac surgery mean for blood loss in frozen elephant trunk anaesthesia?",
+   "options": [
+    "More blood loss",
+    "Less blood loss",
+    "No change in blood loss",
+    "Negligible blood loss"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#8f3907",
+   "kind": "mcq",
+   "stem": "In frozen elephant trunk surgery after previous cardiac surgery, what must be ready?",
+   "options": [
+    "Rescue pacing via oesophageal lead",
+    "Cerebral oximetry cannula",
+    "External defibrillator pads",
+    "Pulmonary artery catheter only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#a9ecce",
+   "kind": "statement",
+   "stem": "What should be documented before frozen elephant trunk surgery?",
+   "answer": "Baseline neurology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#340e7e",
+   "kind": "mcq",
+   "stem": "How many SpO2 probes are used in frozen elephant trunk anaesthesia?",
+   "options": [
+    "1 SpO2 probe",
+    "3 SpO2 probes",
+    "2 SpO2 probes",
+    "4 SpO2 probes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#4b0e85",
+   "kind": "mcq",
+   "stem": "How many arterial lines are used in frozen elephant trunk anaesthesia?",
+   "options": [
+    "1",
+    "5-6",
+    "2-3",
+    "8"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#4b0e85",
+   "kind": "mcq",
+   "stem": "In frozen elephant trunk anaesthesia, which connector lets two arterial lines share one transducer?",
+   "options": [
+    "Female-to-female Luer connector",
+    "Three-way tap only",
+    "Male-to-male Luer connector",
+    "Heparin lock adaptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#841f4c",
+   "kind": "mcq",
+   "stem": "How many pressure transducers are needed in frozen elephant trunk anaesthesia?",
+   "options": [
+    "2 transducers",
+    "3 transducers",
+    "5 transducers",
+    "10 transducers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#792961",
+   "kind": "mcq",
+   "stem": "Which large-bore dialysis-type catheter is used in frozen elephant trunk surgery?",
+   "options": [
+    "Swan-Ganz catheter",
+    "Hickman line",
+    "Mahurkar catheter",
+    "Cook central catheter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#0bd6eb",
+   "kind": "statement",
+   "stem": "Which two agents are available in theatre for bleeding in frozen elephant trunk surgery?",
+   "answer": "Fibrinogen and PCC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#9826df",
+   "kind": "mcq",
+   "stem": "In frozen elephant trunk surgery, which systolic pressure must be kept below to avoid rupture?",
+   "options": [
+    "SBP below 120",
+    "SBP below 100",
+    "SBP below 140",
+    "SBP below 160"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#9826df",
+   "kind": "statement",
+   "stem": "In frozen elephant trunk surgery, what may follow if systolic pressure is not kept below 120?",
+   "answer": "Rupture",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#216541",
+   "kind": "mcq",
+   "stem": "Which antifibrinolytic drug is used in frozen elephant trunk surgery?",
+   "options": [
+    "Protamine sulphate",
+    "Desmopressin",
+    "Vitamin K",
+    "Tranexamic acid"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#805704",
+   "kind": "statement",
+   "stem": "In frozen elephant trunk surgery, what must be decided about the aortic valve?",
+   "answer": "Whether a Bentall is needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#0918c8",
+   "kind": "statement",
+   "stem": "What must be confirmed about arterial cannulation in frozen elephant trunk surgery?",
+   "answer": "True rather than false lumen cannulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#9439c9",
+   "kind": "statement",
+   "stem": "In frozen elephant trunk surgery, what is assessed during coronary reimplantation?",
+   "answer": "LV function and regional wall motion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#716279",
+   "kind": "mcq",
+   "stem": "Frozen elephant trunk surgery uses cannulation of which arteries?",
+   "options": [
+    "Bilateral femoral arteries",
+    "Bilateral radial arteries",
+    "Bilateral axillary arteries",
+    "Bilateral iliac arteries"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#716279",
+   "kind": "statement",
+   "stem": "What partial heparin dose is given with axillary cannulation in frozen elephant trunk surgery?",
+   "answer": "5000IU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#cf73a9",
+   "kind": "mcq",
+   "stem": "At what temperature is circulatory arrest used in frozen elephant trunk surgery?",
+   "options": [
+    "25 degrees",
+    "15 degrees",
+    "32 degrees",
+    "37 degrees"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#656789",
+   "kind": "mcq",
+   "stem": "Why use steep head-down tilt in frozen elephant trunk surgery?",
+   "options": [
+    "To improve venous return to the heart",
+    "To let air out of the aortic graft",
+    "To expose the distal aortic arch",
+    "To reduce cerebral oedema"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#4cadcf",
+   "kind": "statement",
+   "stem": "In frozen elephant trunk surgery, how is bleeding control guided?",
+   "answer": "By TEG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#d2455a",
+   "kind": "mcq",
+   "stem": "Which blood pressure state should be aimed for in frozen elephant trunk surgery?",
+   "options": [
+    "Normotension",
+    "Hypotension",
+    "Hypertension",
+    "Hypovolaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#d2455a",
+   "kind": "statement",
+   "stem": "In frozen elephant trunk surgery, why must hypertension be avoided?",
+   "answer": "It stresses the grafts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#d999f4",
+   "kind": "statement",
+   "stem": "If dissection involves renal and mesenteric vessels, which two organs' perfusion must be watched?",
+   "answer": "Kidney and gut",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#198fbf",
+   "kind": "mcq",
+   "stem": "What does a left thoracotomy in open thoracic aneurysm repair require?",
+   "options": [
+    "Two-lung ventilation",
+    "High-frequency oscillation",
+    "One-lung ventilation",
+    "Pressure-support ventilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#e3c931",
+   "kind": "mcq",
+   "stem": "In open thoracic aneurysm repair, which imaging is the gold standard for anatomy and distal extent?",
+   "options": [
+    "Transthoracic echocardiography",
+    "Chest radiograph",
+    "CT venography",
+    "CT angiography"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#de5a54",
+   "kind": "statement",
+   "stem": "What is the typical patient profile for open thoracic aneurysm repair?",
+   "answer": "Elderly with many comorbidities",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#688876",
+   "kind": "statement",
+   "stem": "Which airway device gives one-lung ventilation for GA in open thoracic aneurysm repair?",
+   "answer": "DLT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#bb8a39",
+   "kind": "mcq",
+   "stem": "What heart rate is kept below for anti-impulse control in open thoracic aneurysm repair?",
+   "options": [
+    "HR below 40",
+    "HR below 80",
+    "HR below 60",
+    "HR below 100"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#bb8a39",
+   "kind": "mcq",
+   "stem": "What systolic pressure is kept below for anti-impulse control in open thoracic aneurysm repair?",
+   "options": [
+    "SBP below 140",
+    "SBP below 100",
+    "SBP below 160",
+    "SBP below 120"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#967bcc",
+   "kind": "mcq",
+   "stem": "How many arterial lines are used in open thoracic aneurysm repair?",
+   "options": [
+    "1 arterial line",
+    "2 arterial lines",
+    "3 arterial lines",
+    "4 arterial lines"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#fb5cf7",
+   "kind": "statement",
+   "stem": "Which two monitors are used in open thoracic aneurysm repair, with or without SSEP and MEP?",
+   "answer": "TEE and NIRS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#e346b1",
+   "kind": "mcq",
+   "stem": "Why is CSF drained during open thoracic aneurysm repair?",
+   "options": [
+    "To reduce cerebral venous pressure",
+    "To prevent post-dural puncture headache",
+    "To lower intracranial volume",
+    "To improve spinal cord perfusion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#aaa948",
+   "kind": "statement",
+   "stem": "What changes are expected with suprarenal or supracoeliac cross-clamping in thoracic aneurysm repair?",
+   "answer": "Haemodynamic and metabolic changes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#02c516",
+   "kind": "mcq",
+   "stem": "Which distal perfusion option pumps blood from the left atrium to the femoral vessels?",
+   "options": [
+    "Left heart bypass",
+    "Passive Gott shunt",
+    "Right heart bypass",
+    "Femoral-femoral bypass"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#02c516",
+   "kind": "statement",
+   "stem": "Which distal perfusion option is used if the aortic arch is involved?",
+   "answer": "Circulatory arrest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#8528b4",
+   "kind": "statement",
+   "stem": "Which spinal complication should be watched for after open thoracic aneurysm repair?",
+   "answer": "Spinal cord injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#8528b4",
+   "kind": "statement",
+   "stem": "Which venous complication should be watched for after open thoracic aneurysm repair?",
+   "answer": "Peripheral VTE",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#c1862d",
+   "kind": "mcq",
+   "stem": "In distal perfusion techniques, beyond what clamp time does permanent organ damage risk rise sharply?",
+   "options": [
+    "10 minutes",
+    "20 minutes",
+    "30 minutes",
+    "60 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#c1862d",
+   "kind": "statement",
+   "stem": "What organ-related drawbacks do distal perfusion techniques carry?",
+   "answer": "Severe renal, visceral and spinal ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#d59490",
+   "kind": "mcq",
+   "stem": "What share of baseline aortic flow must distal perfusion carry?",
+   "options": [
+    "30% of baseline aortic flow",
+    "40% of baseline aortic flow",
+    ">60% of baseline aortic flow",
+    "20% of baseline aortic flow"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#68709e",
+   "kind": "statement",
+   "stem": "What effect does distal perfusion have on the left ventricle?",
+   "answer": "Offloads the LV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#ef16cb",
+   "kind": "mcq",
+   "stem": "What ACT range is used for moderate heparinisation in distal perfusion?",
+   "options": [
+    "100–150s",
+    "150–200s",
+    "200–250s",
+    "250–300s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#cb6dbe",
+   "kind": "mcq",
+   "stem": "What flow rate is usually used for distal perfusion?",
+   "options": [
+    "0.5–1 L/min",
+    "2–3 L/min",
+    "5–6 L/min",
+    "8–10 L/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#cb6dbe",
+   "kind": "mcq",
+   "stem": "To what distal mean arterial pressure is distal perfusion flow titrated?",
+   "options": [
+    "40–50 mmHg",
+    "80–90 mmHg",
+    "60–70 mmHg",
+    "100–110 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#508e6d",
+   "kind": "mcq",
+   "stem": "What ACT is targeted for full heparinisation in distal perfusion?",
+   "options": [
+    "ACT 80–100s",
+    "ACT 120–140s",
+    "ACT >400s",
+    "ACT 250–300s"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#10af5b",
+   "kind": "mcq",
+   "stem": "What distal mean pressure range is given for distal perfusion techniques?",
+   "options": [
+    "40–50 mmHg",
+    "50–60 mmHg",
+    "70–80 mmHg",
+    "90–100 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/aortic-dissection-and-thoracic-aortic-aneurysm#5a429c",
+   "kind": "mcq",
+   "stem": "How long is the usual safe window in distal perfusion techniques?",
+   "options": [
+    "10–15 minutes",
+    "60–70 minutes",
+    "90–120 minutes",
+    "30–40 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

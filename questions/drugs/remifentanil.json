@@ -1,0 +1,811 @@
+{
+ "topic": "drugs/remifentanil",
+ "questions": [
+  {
+   "fact_id": "drugs/remifentanil#d80715",
+   "kind": "mcq",
+   "stem": "What vial strengths is remifentanil hydrochloride supplied in?",
+   "options": [
+    "10, 20 or 50 mg",
+    "1, 2 or 5 mg",
+    "0.5, 1 or 2 mg",
+    "2, 4 or 8 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#553b2e",
+   "kind": "blank",
+   "stem": "Remifentanil contains ____, so it is not licensed for spinal or epidural use.",
+   "answer": "glycine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#9ccb2c",
+   "kind": "statement",
+   "stem": "How is remifentanil usually administered?",
+   "answer": "IV, usually by continuous infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#83c873",
+   "kind": "mcq",
+   "stem": "How long is remifentanil stable after dilution in dextrose or saline?",
+   "options": [
+    "6 hours",
+    "24 hours",
+    "48 hours",
+    "72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#c22ad0",
+   "kind": "mcq",
+   "stem": "What concentration results from the common remifentanil mix of 1-2 of the 1 mg vials in 50 ml water?",
+   "options": [
+    "5-10 mcg/ml",
+    "20-40 mcg/ml",
+    "50-100 mcg/ml",
+    "100-200 mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#48e231",
+   "kind": "mcq",
+   "stem": "How does remifentanil's potency compare with fentanyl in some sources?",
+   "options": [
+    "Half as potent as fentanyl",
+    "Ten times as potent as fentanyl",
+    "Similar to fentanyl",
+    "Ten times weaker than fentanyl"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#789967",
+   "kind": "mcq",
+   "stem": "What is the remifentanil bolus dose range, per kg?",
+   "options": [
+    "0.01-0.1 mcg/kg",
+    "0.1-1 mcg/kg",
+    "1-5 mcg/kg",
+    "5-10 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#17b29f",
+   "kind": "mcq",
+   "stem": "What is the overall remifentanil infusion range, titrated to effect?",
+   "options": [
+    "0.005–0.2 mcg/kg/min",
+    "0.05–2 mcg/kg/min",
+    "0.5–20 mcg/kg/min",
+    "5–200 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#71c190",
+   "kind": "mcq",
+   "stem": "What is the manual induction infusion rate for remifentanil?",
+   "options": [
+    "0.05–0.1 mcg/kg/min",
+    "0.5 –1 mcg/kg/min",
+    "2–5 mcg/kg/min",
+    "5–10 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#9cde7d",
+   "kind": "mcq",
+   "stem": "Over what minimum time should the optional initial remifentanil induction bolus be given?",
+   "options": [
+    "At least 5 seconds",
+    "At least 30 seconds",
+    "At least 2 minutes",
+    "At least 10 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#9cde7d",
+   "kind": "mcq",
+   "stem": "What is the optional initial remifentanil induction bolus dose?",
+   "options": [
+    "0.2 mcg/kg",
+    "1 mcg/kg",
+    "5 mcg/kg",
+    "10 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#48563f",
+   "kind": "mcq",
+   "stem": "How often can further remifentanil 0.5-1 mcg/kg doses be given for light anaesthesia?",
+   "options": [
+    "Every 20-30 seconds",
+    "Every 2-5 min",
+    "Every 15-20 min",
+    "Every 30-60 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#48563f",
+   "kind": "mcq",
+   "stem": "What dose of further remifentanil is given for light anaesthesia or brief intense stimulation?",
+   "options": [
+    "0.05-0.1 mcg/kg",
+    "0.5-1 mcg/kg",
+    "5-10 mcg/kg",
+    "0.2-0.5 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#621bbb",
+   "kind": "statement",
+   "stem": "When is an initial remifentanil bolus not needed before intubation?",
+   "answer": "If intubation will be more than 8 to 10 minutes after starting the infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#1f4c98",
+   "kind": "mcq",
+   "stem": "What is the high-dose manual maintenance range for remifentanil?",
+   "options": [
+    "0.02-0.2 mcg/kg/min",
+    "0.2-2 mcg/kg/min",
+    "2-10 mcg/kg/min",
+    "0.005-0.02 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#d66b08",
+   "kind": "mcq",
+   "stem": "What is the low-dose remifentanil infusion range with spontaneous ventilation?",
+   "options": [
+    "0.2-2 mcg/kg/min",
+    "0.5-1 mcg/kg/min",
+    "0.02-0.2 mcg/kg/min",
+    "2-10 mcg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#6fc6aa",
+   "kind": "mcq",
+   "stem": "Remifentanil 0.02-0.2 mcg/kg/min is equivalent to what hourly rate?",
+   "options": [
+    "0.12-1.2 mcg/kg/hr",
+    "1.2-12 mcg/kg/hr",
+    "12-120 mcg/kg/hr",
+    "0.2-2 mcg/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#ecbc2a",
+   "kind": "mcq",
+   "stem": "For a 50 kg patient, the low-dose remifentanil range equals what hourly amount?",
+   "options": [
+    "6-60 mcg/hr",
+    "60-600 mcg/hr",
+    "600-6000 mcg/hr",
+    "30-300 mcg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#f0eca3",
+   "kind": "mcq",
+   "stem": "Which pharmacokinetic model is used for remifentanil target-controlled infusion?",
+   "options": [
+    "Marsh model (plasma)",
+    "Schnider model (plasma)",
+    "Minto model (effect-site)",
+    "Kataria model (plasma)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#8d1d93",
+   "kind": "mcq",
+   "stem": "What effect-site target range does BJA Education give for remifentanil TCI?",
+   "options": [
+    "0.1-0.5 ng/ml",
+    "3-8 ng/ml",
+    "15-25 ng/ml",
+    "30-40 ng/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#1b9765",
+   "kind": "mcq",
+   "stem": "What overall effect-site target range does ATOTW give for remifentanil TCI?",
+   "options": [
+    "0.5-1 ng/ml",
+    "3-10 ng/ml",
+    "15-20 ng/ml",
+    "20-30 ng/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#1b9765",
+   "kind": "mcq",
+   "stem": "What is ATOTW's low effect-site target range for remifentanil TCI?",
+   "options": [
+    "0.05-0.3 ng/ml",
+    "0.5-3 ng/ml",
+    "10-15 ng/ml",
+    "20-25 ng/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#1b9765",
+   "kind": "mcq",
+   "stem": "What is ATOTW's high effect-site target range for remifentanil TCI?",
+   "options": [
+    "1-2 ng/ml",
+    "6-12 ng/ml",
+    "15-20 ng/ml",
+    "0.5-3 ng/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#da54d7",
+   "kind": "mcq",
+   "stem": "What remifentanil TCI effect-site target is used for induction in older adults?",
+   "options": [
+    "0.5 ng/ml",
+    "2 ng/ml",
+    "5 ng/ml",
+    "8 ng/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#c116c8",
+   "kind": "mcq",
+   "stem": "During remifentanil TCI maintenance, what effect-site level should not be dropped below in an unparalysed patient?",
+   "options": [
+    "0.5 ng/ml",
+    "2 ng/ml",
+    "5 ng/ml",
+    "10 ng/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#c116c8",
+   "kind": "statement",
+   "stem": "Why avoid going below 2 ng/ml in an unparalysed patient on remifentanil?",
+   "answer": "To keep spontaneous breathing suppressed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#f5f860",
+   "kind": "mcq",
+   "stem": "At what remifentanil effect-site level can TCI continue at emergence to smooth extubation (BJA Education)?",
+   "options": [
+    "5-8 ng/ml",
+    "0.01-0.05 ng/ml",
+    "1–2 ng/ml",
+    "10-12 ng/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#1ae161",
+   "kind": "mcq",
+   "stem": "Minto's remifentanil ke0 was derived from which type of study?",
+   "options": [
+    "Plasma concentration sampling studies",
+    "EEG studies",
+    "Pain threshold studies",
+    "Animal tissue studies"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#24fd8a",
+   "kind": "mcq",
+   "stem": "What weight must a child exceed before Minto TCI is used for remifentanil?",
+   "options": [
+    "over 10 kg",
+    "over 30 kg",
+    "over 50 kg",
+    "over 20 kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#24fd8a",
+   "kind": "mcq",
+   "stem": "What age must a child exceed before Minto TCI is used for remifentanil?",
+   "options": [
+    "over 5 yr",
+    "over 8 yr",
+    "over 12 yr",
+    "over 16 yr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#474dbd",
+   "kind": "mcq",
+   "stem": "What is used for remifentanil in a child under 30 kg, since no TCI model is available?",
+   "options": [
+    "Minto TCI at 2 ng/ml",
+    "Manual infusion",
+    "Intermittent bolus only",
+    "Patient-controlled analgesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#e2ff8c",
+   "kind": "mcq",
+   "stem": "Per AAGBI, how sensitive to remifentanil are children under 8 years?",
+   "options": [
+    "More sensitive",
+    "Equally sensitive",
+    "Less sensitive",
+    "Unpredictably sensitive"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#ad61b0",
+   "kind": "mcq",
+   "stem": "What is the onset time of remifentanil?",
+   "options": [
+    "30 seconds",
+    "1 min",
+    "5 min",
+    "10 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#ad61b0",
+   "kind": "mcq",
+   "stem": "What is the peak effect time of remifentanil?",
+   "options": [
+    "5-10 min",
+    "1.5-2 min",
+    "10-15 min",
+    "20-30 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#ad61b0",
+   "kind": "mcq",
+   "stem": "How long should you allow to see the effect of a remifentanil dose change?",
+   "options": [
+    "About 30 seconds",
+    "At least 2-3 minutes",
+    "At least 10 minutes",
+    "At least 1 hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#48b12b",
+   "kind": "mcq",
+   "stem": "How long does remifentanil's opioid effect last after stopping the infusion?",
+   "options": [
+    "20-30 min",
+    "5-10 min",
+    "30-60 min",
+    "1-2 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#0a176d",
+   "kind": "mcq",
+   "stem": "What is remifentanil's context-sensitive half-time?",
+   "options": [
+    "About 1-2 min",
+    "About 3-4 min",
+    "About 10-12 min",
+    "About 30-40 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#54d0c7",
+   "kind": "mcq",
+   "stem": "After stopping remifentanil or reducing it to a low effect-site level, roughly when does spontaneous breathing resume?",
+   "options": [
+    "About 1-2 minutes",
+    "About 6-12 minutes",
+    "About 30-60 minutes",
+    "About 2-3 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#50b6de",
+   "kind": "mcq",
+   "stem": "Remifentanil is a pure agonist at which receptor?",
+   "options": [
+    "delta-opioid receptor",
+    "mu-opioid receptor",
+    "NMDA receptor",
+    "alpha-2 adrenoceptor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#4f50d6",
+   "kind": "mcq",
+   "stem": "Remifentanil is synergistic with which agents for loss of consciousness?",
+   "options": [
+    "Neostigmine and sugammadex",
+    "Volatiles and propofol",
+    "Atropine and glycopyrrolate",
+    "Naloxone and flumazenil"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#5df67e",
+   "kind": "mcq",
+   "stem": "According to AoA 2018, by up to what percentage can remifentanil cut the propofol dose?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#a0a213",
+   "kind": "statement",
+   "stem": "Why must postoperative analgesia be arranged before remifentanil-based surgery ends?",
+   "answer": "Its offset is so quick",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#ac087c",
+   "kind": "statement",
+   "stem": "Why does postoperative nausea and vomiting seem less common with remifentanil?",
+   "answer": "Its very short action",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#855748",
+   "kind": "statement",
+   "stem": "What does high-dose remifentanil typically cause?",
+   "answer": "Bradycardia and hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#855748",
+   "kind": "mcq",
+   "stem": "What reverses the bradycardia and hypotension from high-dose remifentanil?",
+   "options": [
+    "Sugammadex",
+    "Flumazenil",
+    "Glycopyrrolate",
+    "Neostigmine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#6b4f32",
+   "kind": "mcq",
+   "stem": "Per ATOTW, at what high-dose remifentanil effect-site level should prophylactic glycopyrrolate be considered?",
+   "options": [
+    "2 ng/ml",
+    "8 ng/ml",
+    "0.5 ng/ml",
+    "20 ng/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#0de857",
+   "kind": "mcq",
+   "stem": "Which adverse effect is linked with high-dose remifentanil, alongside tolerance?",
+   "options": [
+    "Malignant hyperthermia",
+    "Serotonin syndrome",
+    "Opioid-induced hyperalgesia",
+    "Cholinergic crisis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#0de857",
+   "kind": "mcq",
+   "stem": "Above what remifentanil effect-site target is opioid-induced hyperalgesia a concern?",
+   "options": [
+    "Below 2 ng/ml",
+    "Below 5 ng/ml",
+    "Above 5 ng/ml",
+    "Exactly 8 ng/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#0de857",
+   "kind": "mcq",
+   "stem": "Above what remifentanil infusion rate is opioid-induced hyperalgesia a concern?",
+   "options": [
+    "Below 0.02 mcg/kg/min",
+    "Above 0.2 mcg/kg/min",
+    "Below 0.2 mcg/kg/min",
+    "Exactly 2 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#6008c8",
+   "kind": "mcq",
+   "stem": "What probably causes dose-related postoperative shivering after remifentanil?",
+   "options": [
+    "Intraoperative hypothermia",
+    "Acute opioid tolerance and NMDA receptor stimulation",
+    "Histamine release from mast cells",
+    "Opioid-induced bradycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#13621f",
+   "kind": "statement",
+   "stem": "What does high-dose remifentanil give without prolonged respiratory depression afterwards?",
+   "answer": "Intense intraoperative analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#8ddc0a",
+   "kind": "statement",
+   "stem": "When is remifentanil's fast titration particularly useful?",
+   "answer": "When large swings in stimulation are expected",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#a73c74",
+   "kind": "blank",
+   "stem": "Remifentanil can be used to avoid ____ for intubation and maintenance.",
+   "answer": "neuromuscular blockers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#78ea94",
+   "kind": "statement",
+   "stem": "What procedures can remifentanil also facilitate?",
+   "answer": "Intubation or nerve blocks",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#58c6de",
+   "kind": "blank",
+   "stem": "Remifentanil is hydrolysed by non-specific plasma and tissue ____.",
+   "answer": "esterases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#58c6de",
+   "kind": "mcq",
+   "stem": "What is remifentanil's elimination half-life?",
+   "options": [
+    "30-60 minutes",
+    "3–10 minutes",
+    "1-2 hours",
+    "10-20 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#95548a",
+   "kind": "mcq",
+   "stem": "Unlike alfentanil and fentanyl, what determines remifentanil's offset?",
+   "options": [
+    "Renal clearance rather than metabolism",
+    "Hepatic blood flow alone",
+    "Metabolism rather than redistribution",
+    "Plasma protein binding"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#fad9e0",
+   "kind": "statement",
+   "stem": "Why does remifentanil's context-sensitive half-time barely change with infusion length?",
+   "answer": "Esterases are plentiful, so it does not accumulate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#cfefa2",
+   "kind": "mcq",
+   "stem": "Remifentanil is a poor substrate for which enzyme?",
+   "options": [
+    "Acetylcholinesterase",
+    "Plasma cholinesterase",
+    "Monoamine oxidase",
+    "Cytochrome P450 3A4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#cfefa2",
+   "kind": "statement",
+   "stem": "Is remifentanil affected by cholinesterase deficiency or anticholinesterases?",
+   "answer": "No, it is unaffected",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#f63a49",
+   "kind": "mcq",
+   "stem": "What is the main metabolite of remifentanil?",
+   "options": [
+    "A glucuronide conjugate",
+    "A carboxylic acid",
+    "An N-oxide",
+    "A sulphate ester"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#f63a49",
+   "kind": "mcq",
+   "stem": "How potent is remifentanil's main metabolite compared with remifentanil?",
+   "options": [
+    "Equal potency",
+    "Twice the potency",
+    "1/46th the potency",
+    "1/4600th the potency"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#f63a49",
+   "kind": "mcq",
+   "stem": "What is the main metabolite's half-life in healthy adults?",
+   "options": [
+    "10 minutes",
+    "30 minutes",
+    "2 hours",
+    "8 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remifentanil#2b18e7",
+   "kind": "statement",
+   "stem": "Does liver or renal impairment prolong remifentanil's effect?",
+   "answer": "No, its effect is not prolonged",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

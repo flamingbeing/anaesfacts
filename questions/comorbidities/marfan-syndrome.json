@@ -1,0 +1,143 @@
+{
+ "topic": "comorbidities/marfan-syndrome",
+ "questions": [
+  {
+   "fact_id": "comorbidities/marfan-syndrome#cd42e2",
+   "kind": "mcq",
+   "stem": "Which gene is mutated in Marfan syndrome?",
+   "options": [
+    "Dystrophin",
+    "Factor VIII",
+    "Fibrillin-1",
+    "Ryanodine receptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#50195a",
+   "kind": "mcq",
+   "stem": "What is the approximate incidence of Marfan syndrome?",
+   "options": [
+    "1:3000 live births",
+    "1:10000 live births",
+    "1:60000 live births",
+    "1:500 live births"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#d4f8a7",
+   "kind": "mcq",
+   "stem": "What proportion of Marfan syndrome cases arise from new mutations?",
+   "options": [
+    "About 5%",
+    "About 25%",
+    "About 50%",
+    "About 75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#d4f8a7",
+   "kind": "statement",
+   "stem": "How is Marfan syndrome inherited?",
+   "answer": "Autosomal dominant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#d78863",
+   "kind": "statement",
+   "stem": "Which three systems are mainly affected in Marfan syndrome?",
+   "answer": "Skeletal, ocular and cardiovascular",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#87adf3",
+   "kind": "statement",
+   "stem": "How is Marfan syndrome diagnosed?",
+   "answer": "Clinical features plus family history",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#fbc3c8",
+   "kind": "statement",
+   "stem": "Which chest wall deformity is typical of Marfan syndrome?",
+   "answer": "Pectus excavatum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#fbc3c8",
+   "kind": "mcq",
+   "stem": "Which spinal deformity occurs in about 10% of Marfan syndrome patients?",
+   "options": [
+    "Lordosis",
+    "Spondylolisthesis",
+    "Scoliosis",
+    "Spina bifida"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#30cf28",
+   "kind": "mcq",
+   "stem": "In Marfan syndrome, what is lens subluxation also called?",
+   "options": [
+    "Keratoconus",
+    "Ectopia lentis",
+    "Corneal dystrophy",
+    "Cataract"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#3dde53",
+   "kind": "mcq",
+   "stem": "In Marfan syndrome, at what aortic root size is composite valve-conduit replacement considered?",
+   "options": [
+    ">3.0-3.5 cm",
+    ">4.0-4.5 cm",
+    ">5.0-5.5 cm",
+    ">7.0-7.5 cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#630b28",
+   "kind": "statement",
+   "stem": "How should lax joints be handled when positioning a patient with Marfan syndrome?",
+   "answer": "Careful handling and padding to avoid dislocation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/marfan-syndrome#303279",
+   "kind": "mcq",
+   "stem": "In Marfan syndrome with pulmonary blebs, which ventilation goal lowers pneumothorax risk?",
+   "options": [
+    "Maximise positive end-expiratory pressure",
+    "Use high peak airway pressures",
+    "Use large tidal volumes",
+    "Keep peak airway pressures low"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

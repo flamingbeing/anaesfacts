@@ -1,0 +1,297 @@
+{
+ "topic": "drugs/codeine",
+ "questions": [
+  {
+   "fact_id": "drugs/codeine#b382e7",
+   "kind": "mcq",
+   "stem": "Which routes can codeine be given by?",
+   "options": [
+    "Oral or IV only",
+    "Oral, IV or rectal",
+    "Oral, IM or rectal",
+    "IM or IV only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#47a612",
+   "kind": "mcq",
+   "stem": "Why is codeine not given intravenously?",
+   "options": [
+    "It tends to cause hypertension, probably via adrenaline release",
+    "It tends to cause hypotension, probably via histamine release",
+    "It tends to cause bradycardia, probably via vagal stimulation",
+    "It tends to cause hypoglycaemia, probably via insulin release"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#be7360",
+   "kind": "mcq",
+   "stem": "What is the usual oral dosing range of codeine?",
+   "options": [
+    "5–10 mg three times daily",
+    "15–60 mg three times daily",
+    "30–60 mg twice daily",
+    "60–120 mg three times daily"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#be7360",
+   "kind": "mcq",
+   "stem": "What is the maximum oral codeine dose and dosing interval?",
+   "options": [
+    "60mg every 6 hours",
+    "30mg every 4 hours",
+    "60mg every 4 hours",
+    "120mg every 4 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#4959bd",
+   "kind": "mcq",
+   "stem": "What is the intramuscular dose of codeine?",
+   "options": [
+    "15 or 30mg",
+    "30 or 60mg",
+    "60 or 120mg",
+    "10 or 20mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#1f4b3c",
+   "kind": "blank",
+   "stem": "Codeine is a prodrug: about ____ of it is converted to morphine.",
+   "answer": "10%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#3bdb44",
+   "kind": "mcq",
+   "stem": "How does codeine's potency compare with morphine's?",
+   "options": [
+    "Equally potent",
+    "10 times less potent",
+    "5 times more potent",
+    "10 times more potent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#e6f42a",
+   "kind": "mcq",
+   "stem": "Below what age is codeine restricted in children?",
+   "options": [
+    "Under 5 years",
+    "Under 16 years",
+    "Under 12 years",
+    "Under 18 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#39a43d",
+   "kind": "blank",
+   "stem": "Giving codeine intravenously tends to cause ____, probably via histamine release.",
+   "answer": "hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#f75cec",
+   "kind": "mcq",
+   "stem": "What strength of pain is codeine indicated for?",
+   "options": [
+    "Severe pain only",
+    "Mild to moderate pain",
+    "Moderate to severe pain",
+    "Neuropathic pain only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#83f57a",
+   "kind": "statement",
+   "stem": "Which non-analgesic use of codeine suppresses cough?",
+   "answer": "Antitussive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#675b65",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of codeine?",
+   "options": [
+    "30%",
+    "50%",
+    "75%",
+    "95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#5c07a0",
+   "kind": "mcq",
+   "stem": "What percentage of codeine is excreted unchanged in urine?",
+   "options": [
+    "50–60%",
+    "5–15%",
+    "20–30%",
+    "80–90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#a9e4ca",
+   "kind": "mcq",
+   "stem": "What is the main clearance route for codeine?",
+   "options": [
+    "N-demethylation to norcodeine",
+    "O-demethylation to morphine",
+    "Glucuronidation to codeine-6-glucuronide",
+    "Excretion unchanged in urine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#22bf05",
+   "kind": "statement",
+   "stem": "Which metabolite does N-demethylation of codeine produce?",
+   "answer": "Norcodeine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#aa5bad",
+   "kind": "mcq",
+   "stem": "Which enzyme O-demethylates codeine to morphine?",
+   "options": [
+    "CYP3A4",
+    "CYP2D6",
+    "CYP2C9",
+    "CYP1A2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#d04eea",
+   "kind": "statement",
+   "stem": "Once codeine has been converted to morphine, which metabolites does morphine form?",
+   "answer": "Normorphine, morphine-3-glucuronide and morphine-6-glucuronide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#561e20",
+   "kind": "mcq",
+   "stem": "Which codeine metabolites are active?",
+   "options": [
+    "Codeine-6-glucuronide and norcodeine",
+    "Morphine and morphine-6-glucuronide",
+    "Norcodeine and morphine-3-glucuronide",
+    "Morphine-3-glucuronide and codeine-6-glucuronide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#e4441f",
+   "kind": "mcq",
+   "stem": "Which statement about the enzyme CYP2D6 is correct?",
+   "options": [
+    "Strongly inducible by rifampicin",
+    "Non-inducible and polymorphic",
+    "Monomorphic and rapidly inducible",
+    "Fully inducible by smoking"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#daa654",
+   "kind": "mcq",
+   "stem": "What percentage of the UK population are poor CYP2D6 metabolisers of codeine?",
+   "options": [
+    "1%",
+    "9%",
+    "20%",
+    "30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#daa654",
+   "kind": "mcq",
+   "stem": "What percentage of Hong Kong Chinese are poor CYP2D6 metabolisers of codeine?",
+   "options": [
+    "9%",
+    "15%",
+    "30%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#7062eb",
+   "kind": "mcq",
+   "stem": "How do codeine's glucuronide metabolites behave in renal failure?",
+   "options": [
+    "They are cleared faster",
+    "They accumulate",
+    "They are unaffected",
+    "They are converted to morphine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/codeine#5cb9d6",
+   "kind": "mcq",
+   "stem": "What is morphine-6-glucuronide's estimated potency relative to morphine?",
+   "options": [
+    "About equal potency",
+    "10–20 times more potent",
+    "45-360 times more potent",
+    "2–5 times less potent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

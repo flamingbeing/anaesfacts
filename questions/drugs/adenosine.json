@@ -1,0 +1,207 @@
+{
+ "topic": "drugs/adenosine",
+ "questions": [
+  {
+   "fact_id": "drugs/adenosine#c9a77e",
+   "kind": "mcq",
+   "stem": "Adenosine is supplied as a colourless solution in vials of which concentration?",
+   "options": [
+    "1 mg/ml",
+    "3 mg/ml",
+    "6 mg/ml",
+    "12 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#2c87a4",
+   "kind": "statement",
+   "stem": "How should adenosine be stored?",
+   "answer": "At room temperature",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#6025b1",
+   "kind": "statement",
+   "stem": "What flush follows a rapid IV adenosine bolus?",
+   "answer": "10 ml normal saline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#b528e1",
+   "kind": "mcq",
+   "stem": "What is the adult adenosine IV bolus dose range?",
+   "options": [
+    "6-12 mg",
+    "1-2 mg",
+    "20-30 mg",
+    "50-100 mg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#83b770",
+   "kind": "statement",
+   "stem": "What is the adenosine escalation sequence for SVT?",
+   "answer": "6 mg, then 12 mg, then 12 mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#5268c9",
+   "kind": "mcq",
+   "stem": "What is the paediatric adenosine dose?",
+   "options": [
+    "0.5-1 mg/kg",
+    "2-4 mg/kg",
+    "0.05-0.1 mg/kg",
+    "0.1-0.2 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#3f3674",
+   "kind": "mcq",
+   "stem": "Which adenosine receptor subtype acts on the SA and AV nodes?",
+   "options": [
+    "A2A",
+    "A3",
+    "A1",
+    "A2B"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#d9ff31",
+   "kind": "statement",
+   "stem": "What receptor family do adenosine receptors belong to?",
+   "answer": "Purinergic P1, G-protein coupled",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#7ffc5e",
+   "kind": "mcq",
+   "stem": "Which adenosine receptors stimulate adenylyl cyclase via Gs?",
+   "options": [
+    "A2A and A2B",
+    "A1 and A3",
+    "A1 only",
+    "A3 only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#ff2744",
+   "kind": "statement",
+   "stem": "What cardiac effects does adenosine have on heart rate and AV conduction?",
+   "answer": "Slower heart rate and suppressed AV conduction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#d3f488",
+   "kind": "statement",
+   "stem": "Adenosine causes vasodilation, especially in which vascular bed?",
+   "answer": "Coronary",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#da9ee5",
+   "kind": "blank",
+   "stem": "Adenosine can cause bronchospasm, so use with caution in patients with ____.",
+   "answer": "asthma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#a67ad4",
+   "kind": "statement",
+   "stem": "Why are adenosine's adverse effects short lived?",
+   "answer": "Its short half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#7ae35b",
+   "kind": "statement",
+   "stem": "How can adenosine trigger AF or flutter?",
+   "answer": "By shortening the atrial refractory period",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#8e3575",
+   "kind": "mcq",
+   "stem": "Adenosine is contraindicated in which AV block?",
+   "options": [
+    "First-degree AV block",
+    "Left bundle branch block",
+    "Right bundle branch block",
+    "Second- or third-degree AV block"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#507ef3",
+   "kind": "statement",
+   "stem": "Adenosine converts which SVT type to sinus rhythm?",
+   "answer": "Re-entrant SVT involving the AV node",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#2f2876",
+   "kind": "statement",
+   "stem": "Why does adenosine not convert AF or flutter to sinus rhythm?",
+   "answer": "Their circuits do not involve the AV node",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#ccf3ff",
+   "kind": "mcq",
+   "stem": "What is the half-life of adenosine?",
+   "options": [
+    "Under 10 seconds",
+    "Under 10 minutes",
+    "About 30 minutes",
+    "Several hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#090492",
+   "kind": "statement",
+   "stem": "Which enzyme converts adenosine to inosine?",
+   "answer": "Adenosine deaminase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/adenosine#53baa6",
+   "kind": "statement",
+   "stem": "What two components make up adenosine?",
+   "answer": "Adenine and D-ribose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

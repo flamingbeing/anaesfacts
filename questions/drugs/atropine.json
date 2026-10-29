@@ -1,0 +1,199 @@
+{
+ "topic": "drugs/atropine",
+ "questions": [
+  {
+   "fact_id": "drugs/atropine#a94876",
+   "kind": "mcq",
+   "stem": "Atropine is presented at what concentration per ml?",
+   "options": [
+    "0.3 mg/ml",
+    "0.6 mg/ml",
+    "1.2 mg/ml",
+    "6 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#810b9f",
+   "kind": "mcq",
+   "stem": "Which atropine isomer is pharmacologically active?",
+   "options": [
+    "d-atropine",
+    "Racemic atropine",
+    "Both isomers equally",
+    "l-atropine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#829e24",
+   "kind": "mcq",
+   "stem": "How is atropine given intravenously?",
+   "options": [
+    "Undiluted",
+    "Diluted in 10 ml saline",
+    "Infused over 30 min",
+    "Diluted in 50 ml glucose"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#709e8f",
+   "kind": "mcq",
+   "stem": "What is the usual atropine dose range in mg?",
+   "options": [
+    "0.01-0.05 mg",
+    "2-5 mg",
+    "0.3-0.9 mg",
+    "10-20 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#1c2bac",
+   "kind": "mcq",
+   "stem": "What is the paediatric atropine dose?",
+   "options": [
+    "1.5-2 mcg/kg",
+    "150-200 mcg/kg",
+    "0.15-0.2 mg/kg",
+    "15-20 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#1c2bac",
+   "kind": "mcq",
+   "stem": "The paediatric atropine dose is about how many times the glycopyrrolate dose per kg?",
+   "options": [
+    "Half",
+    "The same",
+    "Twice",
+    "Three times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#26017b",
+   "kind": "mcq",
+   "stem": "How does atropine act at muscarinic acetylcholine receptors?",
+   "options": [
+    "Full agonist",
+    "Allosteric modulator",
+    "Competitive antagonist",
+    "Enzyme inhibitor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#cb84a2",
+   "kind": "mcq",
+   "stem": "Atropine is used as which type of agent to reduce salivary secretions?",
+   "options": [
+    "Antisialagogue",
+    "Antiemetic",
+    "Anticholinesterase",
+    "Beta blocker"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#083b9a",
+   "kind": "statement",
+   "stem": "Atropine was once routine premedication. Why is it rarely needed now?",
+   "answer": "Modern techniques rarely need it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#e12875",
+   "kind": "statement",
+   "stem": "Atropine can block the muscarinic side effects of which drug class?",
+   "answer": "Anticholinesterases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#2050e9",
+   "kind": "statement",
+   "stem": "Why is atropine not used to treat postoperative nausea and vomiting?",
+   "answer": "Its cardiovascular effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#ea255a",
+   "kind": "mcq",
+   "stem": "What is the onset of intravenous atropine?",
+   "options": [
+    "5-10 min",
+    "2-3 min",
+    "10-15 min",
+    "30-45 sec"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#ea255a",
+   "kind": "mcq",
+   "stem": "What is the duration of intravenous atropine?",
+   "options": [
+    "30 min",
+    "5 min",
+    "2 hr",
+    "6 hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#0b4081",
+   "kind": "statement",
+   "stem": "How is atropine absorbed from the gut?",
+   "answer": "Rapid but unpredictable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#3b80cc",
+   "kind": "mcq",
+   "stem": "What percentage of atropine is protein bound?",
+   "options": [
+    "10%",
+    "25%",
+    "90%",
+    "50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atropine#a788ce",
+   "kind": "statement",
+   "stem": "How is atropine metabolised and excreted?",
+   "answer": "Extensive liver esterase metabolism; urine, very little unchanged",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

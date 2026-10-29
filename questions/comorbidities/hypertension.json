@@ -1,0 +1,361 @@
+{
+ "topic": "comorbidities/hypertension",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hypertension#a11ad3",
+   "kind": "mcq",
+   "stem": "In hypertension, which blood pressure should control be aimed below before surgery?",
+   "options": [
+    "Below 160/90",
+    "Below 140/80",
+    "Below 150/100",
+    "Below 160/100"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#c93261",
+   "kind": "statement",
+   "stem": "In hypertension, what altered process means higher mean arterial pressure targets are needed?",
+   "answer": "Autoregulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#f19918",
+   "kind": "mcq",
+   "stem": "In hypertension, where should a hypertensive emergency be referred?",
+   "options": [
+    "Cardiology clinic",
+    "Day-surgery unit",
+    "Renal dialysis unit",
+    "The emergency department"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#444938",
+   "kind": "statement",
+   "stem": "In hypertension, what does labile blood pressure cause more of during surgery?",
+   "answer": "Hypotension and hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#97b832",
+   "kind": "mcq",
+   "stem": "In hypertension, by roughly what percentage are mean arterial pressure targets higher because autoregulation shifts right?",
+   "options": [
+    "5%",
+    "10%",
+    "20%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#4ebae8",
+   "kind": "statement",
+   "stem": "In preoperative hypertension assessment, what two categories should the cause fall into?",
+   "answer": "Primary or secondary",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#9d8acc",
+   "kind": "statement",
+   "stem": "In preoperative hypertension assessment, which end-organ damage should be checked for?",
+   "answer": "MI, stroke, CKD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#49ccdd",
+   "kind": "statement",
+   "stem": "In preoperative hypertension assessment, what should be reviewed to judge the degree of control?",
+   "answer": "Home readings",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#0f9aad",
+   "kind": "mcq",
+   "stem": "In preoperative hypertension, systolic pressure above what value counts as severe?",
+   "options": [
+    "140 mmHg",
+    "160 mmHg",
+    "180 mmHg",
+    "200 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#0f9aad",
+   "kind": "mcq",
+   "stem": "In preoperative hypertension, diastolic pressure above what value counts as severe?",
+   "options": [
+    "90 mmHg",
+    "100 mmHg",
+    "120 mmHg",
+    "110 mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#4e85c8",
+   "kind": "mcq",
+   "stem": "In hypertension, should elective surgery be postponed for readings below 180/110?",
+   "options": [
+    "Postpone until below 140/90 is reached",
+    "Postpone for at least one week",
+    "Do not postpone; no extra postoperative risk",
+    "Postpone and start parenteral drugs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#0c74b9",
+   "kind": "statement",
+   "stem": "In preoperative hypertension, when BP is above 180/110 with end-organ damage, what must be excluded?",
+   "answer": "Hypertensive emergency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#0d9dd9",
+   "kind": "statement",
+   "stem": "In hypertension with poor control, what should be weighed before proceeding?",
+   "answer": "Urgency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#6b580f",
+   "kind": "statement",
+   "stem": "In preoperative hypertension assessment, which two positional blood pressures should be checked?",
+   "answer": "Lying and standing BP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#6b580f",
+   "kind": "mcq",
+   "stem": "In hypertension, if BP is orthostatic before surgery, what helps prevent severe hypotension at induction?",
+   "options": [
+    "Preoperative fluid",
+    "Extra antihypertensive dose",
+    "Premedication sedative",
+    "Intravenous diuretic"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#f7b5b8",
+   "kind": "statement",
+   "stem": "In hypertension, which blood test is especially important if the patient takes diuretics?",
+   "answer": "Renal panel",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#57136a",
+   "kind": "mcq",
+   "stem": "In hypertension on diuretics, which potassium range (mmol/L) counts as mild hypokalaemia?",
+   "options": [
+    "2-2.5",
+    "3-3.5",
+    "4-4.5",
+    "5-5.5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#57136a",
+   "kind": "statement",
+   "stem": "In hypertension, under what circumstances should mild hypokalaemia on diuretics be replaced?",
+   "answer": "Only if symptomatic or on digoxin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#4bd58a",
+   "kind": "statement",
+   "stem": "In hypertension, what does premedication do that helps control blood pressure?",
+   "answer": "Reduces anxiety",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#9116e8",
+   "kind": "statement",
+   "stem": "Before surgery in hypertension, what is the general approach to antihypertensive drugs?",
+   "answer": "Continue them",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#40d689",
+   "kind": "mcq",
+   "stem": "In hypertension, what does sudden beta-blocker withdrawal do to cardiac morbidity and mortality?",
+   "options": [
+    "Raises both",
+    "Lowers both",
+    "No effect on either",
+    "Raises only mortality"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#bf1640",
+   "kind": "mcq",
+   "stem": "Which drugs are withheld on the morning of surgery in hypertension?",
+   "options": [
+    "Beta-blockers",
+    "Calcium channel blockers",
+    "ACE inhibitors and ARBs",
+    "Statins"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#fb8915",
+   "kind": "mcq",
+   "stem": "In hypertension, how long before surgery can ACE inhibitors and ARBs be withheld as an alternative?",
+   "options": [
+    "12 hours",
+    "24 hours",
+    "48 hours",
+    "72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#a0e6c2",
+   "kind": "mcq",
+   "stem": "In hypertension, not restarting ARBs within how many hours is linked to higher 30-day mortality?",
+   "options": [
+    "24 hours",
+    "72 hours",
+    "96 hours",
+    "48 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#a0e6c2",
+   "kind": "statement",
+   "stem": "In hypertension, when should ARBs be restarted after surgery?",
+   "answer": "As soon as possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#0861d5",
+   "kind": "blank",
+   "stem": "In hypertension, ____ are withheld on the morning of surgery.",
+   "answer": "Diuretics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#e4deda",
+   "kind": "statement",
+   "stem": "In hypertension, what should decide whether an arterial line is used?",
+   "answer": "Extent of surgery and end-organ damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#17aa7b",
+   "kind": "statement",
+   "stem": "In hypertension, how is anaesthetic induction often described haemodynamically?",
+   "answer": "Unstable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#df1eb9",
+   "kind": "statement",
+   "stem": "In hypertension, if BP does not respond to deeper anaesthesia and other causes are excluded, what should be given?",
+   "answer": "Parenteral antihypertensives",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#6ec389",
+   "kind": "statement",
+   "stem": "In hypertension, which two intraoperative moments commonly make HR and BP rise?",
+   "answer": "Surgical incision and emergence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#cf0ad1",
+   "kind": "mcq",
+   "stem": "In hypertension, intraoperative arterial pressure should be kept within what percentage of preoperative levels?",
+   "options": [
+    "10%",
+    "20%",
+    "5%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#23c51e",
+   "kind": "mcq",
+   "stem": "In hypertension with preoperative BP above 180/120, what intraoperative BP range is aimed for?",
+   "options": [
+    "100-110/60-70",
+    "120-130/70-80",
+    "140-150/80-90",
+    "160-170/100-110"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#d20113",
+   "kind": "statement",
+   "stem": "In hypertension, postoperative high BP is common in which patients?",
+   "answer": "Poorly controlled patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hypertension#b9b200",
+   "kind": "statement",
+   "stem": "Postoperative hypertension: what should be done about its underlying triggers?",
+   "answer": "Correct contributing causes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

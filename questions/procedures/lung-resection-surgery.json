@@ -1,0 +1,999 @@
+{
+ "topic": "procedures/lung-resection-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/lung-resection-surgery#897b05",
+   "kind": "statement",
+   "stem": "In lung resection surgery, what is the usual underlying diagnosis?",
+   "answer": "Lung cancer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#6d838c",
+   "kind": "mcq",
+   "stem": "Which airway device is used for one-lung ventilation during lung resection surgery?",
+   "options": [
+    "Nasopharyngeal airway",
+    "DLT",
+    "Oropharyngeal airway",
+    "Tracheostomy tube"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#61b7d2",
+   "kind": "mcq",
+   "stem": "For intermediate-risk lung resection surgery, what is the perioperative risk of cardiac death or non-fatal cardiac events?",
+   "options": [
+    "1-5%",
+    "0.1-0.5%",
+    "10-15%",
+    "20-25%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#dc213e",
+   "kind": "mcq",
+   "stem": "In lung resection surgery, what is the quoted mortality after lobectomy?",
+   "options": [
+    "0.2-0.4%",
+    "2-4%",
+    "6-8%",
+    "12-15%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#dc213e",
+   "kind": "mcq",
+   "stem": "In lung resection surgery, what is the quoted mortality after pneumonectomy?",
+   "options": [
+    "6-8%",
+    "0.6-0.8%",
+    "2-4%",
+    "15-20%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#26a57a",
+   "kind": "mcq",
+   "stem": "What proportion of lung cancers is non-small cell lung cancer?",
+   "options": [
+    "50%",
+    "60%",
+    "80%",
+    "95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#26a57a",
+   "kind": "mcq",
+   "stem": "What is the approximate five-year survival for non-small cell lung cancer treated with surgery?",
+   "options": [
+    "60%",
+    "20%",
+    "80%",
+    "40%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#d76a6e",
+   "kind": "blank",
+   "stem": "Small cell lung cancer is usually ____ at presentation, so it is usually inoperable.",
+   "answer": "metastatic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#d76a6e",
+   "kind": "mcq",
+   "stem": "What proportion of lung cancers is small cell lung cancer?",
+   "options": [
+    "5%",
+    "40%",
+    "50%",
+    "20%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#aaba73",
+   "kind": "mcq",
+   "stem": "Apart from cancer, which lung condition can be an indication for lung resection?",
+   "options": [
+    "Asthma",
+    "Pleural plaques",
+    "Bronchiectasis",
+    "Pulmonary oedema"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#3273f3",
+   "kind": "statement",
+   "stem": "Apart from pneumothorax and sympathectomy patients, what are lung resection patients usually like?",
+   "answer": "Elderly and less fit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#7639a9",
+   "kind": "statement",
+   "stem": "Which three comorbidities are often significant in lung resection patients?",
+   "answer": "IHD, vascular disease, renal impairment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#cd688c",
+   "kind": "statement",
+   "stem": "Bronchial carcinoma can cause which three kinds of effect relevant to preoperative assessment?",
+   "answer": "local effects, paraneoplastic effects, cachexia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#a7c2fa",
+   "kind": "mcq",
+   "stem": "In preoperative assessment for lung resection, what is the main risk of empyema?",
+   "options": [
+    "Sepsis",
+    "Hypothermia",
+    "Anaphylaxis",
+    "Hypoglycaemia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#b6580f",
+   "kind": "mcq",
+   "stem": "Haemoptysis in a lung resection patient calls for which induction approach?",
+   "options": [
+    "Slow sequence induction",
+    "Inhalational induction",
+    "Deep sedation alone",
+    "RSI"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#024388",
+   "kind": "statement",
+   "stem": "What should be checked for airway obstruction and tracheal or carinal distortion before lung resection?",
+   "answer": "CT, CXR or bronchoscopy reports",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#028b73",
+   "kind": "statement",
+   "stem": "What three factors guide double-lumen tube size for lung resection?",
+   "answer": "Sex, height and CT tracheal diameter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#480097",
+   "kind": "statement",
+   "stem": "Besides haemoptysis, which respiratory symptoms should be asked about before lung resection?",
+   "answer": "Cough, sputum and recent change",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#9c986d",
+   "kind": "statement",
+   "stem": "Which symptom should be asked about to judge functional capacity before lung resection?",
+   "answer": "Breathlessness on exertion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#dbcefa",
+   "kind": "statement",
+   "stem": "Which current respiratory treatments should be recorded before lung resection?",
+   "answer": "Inhalers, home oxygen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#a49596",
+   "kind": "mcq",
+   "stem": "Which imaging is used to look for bullae or effusions before lung resection?",
+   "options": [
+    "CXR or CT",
+    "ECG or echo",
+    "MRI of the brain",
+    "Ultrasound of the abdomen"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#100849",
+   "kind": "statement",
+   "stem": "Beyond lung function tests, which test is used for borderline cases before lung resection?",
+   "answer": "CPET",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#2a1b24",
+   "kind": "mcq",
+   "stem": "Which heart function is especially checked in COPD before lung resection?",
+   "options": [
+    "RV function",
+    "LV ejection fraction",
+    "Mitral valve area",
+    "Aortic root size"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#b834ec",
+   "kind": "statement",
+   "stem": "What is the main perioperative concern in end-stage renal failure for lung resection?",
+   "answer": "Risk of fluid overload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#2fa0c5",
+   "kind": "statement",
+   "stem": "In the three-legged stool, which measures assess respiratory mechanics?",
+   "answer": "FEV1, ppoFEV1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#045efa",
+   "kind": "statement",
+   "stem": "In the three-legged stool, which measures assess lung parenchymal function?",
+   "answer": "DLCO, ppoDLCO",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#3cce71",
+   "kind": "statement",
+   "stem": "In the three-legged stool, which measures assess cardiopulmonary reserve?",
+   "answer": "Exercise tolerance, 6 minute walk test, CPET",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#f2cd2e",
+   "kind": "mcq",
+   "stem": "In lung resection PFTs, what defines a straightforward patient?",
+   "options": [
+    "Both >60% of predicted",
+    "Both >40% of predicted",
+    "Either 30-60% of predicted",
+    "Both <30% of predicted"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#d75c61",
+   "kind": "mcq",
+   "stem": "In lung resection PFTs, what defines a marginal patient?",
+   "options": [
+    "Both values below 30% of predicted",
+    "Either value 30-60% of predicted",
+    "Both values above 60% of predicted",
+    "Either value below 30% of predicted"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#d75c61",
+   "kind": "statement",
+   "stem": "What should be done for a marginal patient on lung resection PFTs?",
+   "answer": "Calculate ppo values",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#e28df6",
+   "kind": "mcq",
+   "stem": "What FEV1 on spirometry do lung resection patients aim for?",
+   "options": [
+    ">70% of predicted",
+    ">80% of predicted",
+    ">60% of predicted",
+    ">90% of predicted"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#59f376",
+   "kind": "mcq",
+   "stem": "What minimum FEV1 is accepted for pneumonectomy in lung resection?",
+   "options": [
+    ">40% (or 1.5L)",
+    ">60% (or >2L)",
+    ">30% (or 1L)",
+    ">80% (or 3L)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#7b1c67",
+   "kind": "mcq",
+   "stem": "What minimum FEV1 is accepted for lobectomy in lung resection?",
+   "options": [
+    ">60% (or >2L)",
+    ">30% (or 1L)",
+    ">40% (or 1.5L)",
+    ">50% (or 2L)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#3dd5dd",
+   "kind": "mcq",
+   "stem": "What minimum FEV1 is accepted for wedge resection in lung resection surgery?",
+   "options": [
+    ">40% (or 1.5L)",
+    ">30% (or 1L)",
+    ">60% (or >2L)",
+    ">20% (or 0.5L)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#710089",
+   "kind": "mcq",
+   "stem": "What DLCO level do lung resection patients aim for?",
+   "options": [
+    ">50% predicted",
+    ">60% predicted",
+    ">70% predicted",
+    ">80% predicted"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#93331b",
+   "kind": "statement",
+   "stem": "In lung resection, how is the predicted postoperative value estimated from lobes removed?",
+   "answer": "Preop value x (5 - lobes resected)/5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#96a1e6",
+   "kind": "statement",
+   "stem": "In lung resection, how is the predicted postoperative value estimated from segments removed?",
+   "answer": "Preop value x (19 - segments resected)/19",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#50a282",
+   "kind": "mcq",
+   "stem": "In lung resection calculations, how many segments does the right upper lobe have?",
+   "options": [
+    "2",
+    "4",
+    "3",
+    "5"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#50a282",
+   "kind": "mcq",
+   "stem": "In lung resection calculations, how many segments does the right lower lobe have?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#895293",
+   "kind": "statement",
+   "stem": "In lung resection, how is the predicted value calculated from the percentage of functional tissue removed?",
+   "answer": "Preop value x (1 - % functional tissue removed/100)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#c801ce",
+   "kind": "mcq",
+   "stem": "Which ppoFEV1 allows extubation in theatre after lung resection?",
+   "options": [
+    "<30% of predicted (about <600mls)",
+    ">20% of predicted (about >400mls)",
+    ">40% of predicted (about >800mls)",
+    ">80% of predicted (about >1600mls)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#50dfcd",
+   "kind": "statement",
+   "stem": "If ppoFEV1 is 30-40% after lung resection, what should decide extubation?",
+   "answer": "Exercise tolerance, DLCO, V/Q and comorbidities",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#ab934a",
+   "kind": "mcq",
+   "stem": "After lung resection, what does a ppoFEV1 below 30% call for?",
+   "options": [
+    "Immediate extubation in theatre",
+    "Staged weaning from mechanical ventilation",
+    "Early extubation in recovery",
+    "Routine extubation after surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#705645",
+   "kind": "mcq",
+   "stem": "In lung resection, what does a ppoDLCO below 30% of predicted indicate?",
+   "options": [
+    "Normoxic without supplemental O2",
+    "Hypoxic without supplemental O2",
+    "Safe for early extubation",
+    "Hypercapnic without supplemental O2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#ab6bbc",
+   "kind": "mcq",
+   "stem": "On CPET before lung resection, what anaerobic threshold is quoted?",
+   "options": [
+    ">8ml/kg/min",
+    ">11ml/kg/min",
+    ">13ml/kg/min",
+    ">20ml/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#d8356e",
+   "kind": "mcq",
+   "stem": "In cardiopulmonary reserve testing for lung resection, what breath-hold duration is noted?",
+   "options": [
+    "10 sec",
+    "30 sec",
+    "15 sec",
+    "60 sec"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#d2882a",
+   "kind": "mcq",
+   "stem": "On the 6 minute walk test, which distance matches VO2 max under 15ml/kg/min?",
+   "options": [
+    "<3000feet",
+    "<2000feet",
+    "<1000feet",
+    "<4000feet"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#43bfab",
+   "kind": "blank",
+   "stem": "On the 6MWT, desaturation is not high risk if the drop is <4% and SpO2 stays ____ after.",
+   "answer": ">90%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#186854",
+   "kind": "statement",
+   "stem": "On room-air ABG before lung resection, what do hypoxia or hypercarbia signify?",
+   "answer": "A poor sign",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#051d26",
+   "kind": "statement",
+   "stem": "What does a V/Q scan show to give more accurate ppo values?",
+   "answer": "Regional blood flow to each lung",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#b54338",
+   "kind": "mcq",
+   "stem": "In lung resection assessment, what is the normal left and right lung split?",
+   "options": [
+    "Right 55%, left 45%",
+    "Right 45%, left 55%",
+    "Right 50%, left 50%",
+    "Right 60%, left 40%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#7c49d9",
+   "kind": "mcq",
+   "stem": "In chronic hypoxia before lung resection, what does the FBC typically show?",
+   "options": [
+    "Anaemia",
+    "Leukopenia",
+    "Polycythaemia",
+    "Thrombocytopenia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#7c49d9",
+   "kind": "statement",
+   "stem": "What do the white cells on an FBC help check before lung resection?",
+   "answer": "Infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#b0b4cf",
+   "kind": "mcq",
+   "stem": "Which investigation helps size a double-lumen tube and shows gross pathology?",
+   "options": [
+    "CXR",
+    "V/Q scan",
+    "ECG",
+    "CPET"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#585417",
+   "kind": "mcq",
+   "stem": "Which investigation shows airway and extent of disease before lung resection?",
+   "options": [
+    "ECG",
+    "CT",
+    "ABG",
+    "Echocardiogram"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#a4075c",
+   "kind": "statement",
+   "stem": "For lung resection to be oncologically suitable, what distant finding must be absent?",
+   "answer": "Distant metastases (M1)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#a4075c",
+   "kind": "statement",
+   "stem": "Which three investigations check for extensive mediastinal N2/N3 disease before lung resection?",
+   "answer": "CT, PET, EBUS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#1594e9",
+   "kind": "statement",
+   "stem": "What surgical criteria make a tumour suitable for lung resection?",
+   "answer": "Technically resectable, without prohibitive invasion of great vessels or heart",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#c411ae",
+   "kind": "statement",
+   "stem": "What physiological suitability requirement applies to lung resection?",
+   "answer": "Fit for general anaesthesia and for lung resection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#c9b035",
+   "kind": "mcq",
+   "stem": "How long before lung resection should a patient stop smoking?",
+   "options": [
+    "1-2 weeks",
+    "6-8 weeks",
+    "24 hours",
+    "3-4 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#1b2f38",
+   "kind": "statement",
+   "stem": "Beyond MDT input, what should be closely communicated with the surgeon before lung resection?",
+   "answer": "Operation, position and likely complications",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#36128a",
+   "kind": "statement",
+   "stem": "What does ThRCRI stand for in lung resection risk assessment?",
+   "answer": "Thoracic Revised Cardiac Risk Index",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#7f78d0",
+   "kind": "mcq",
+   "stem": "In ThRCRI, how many points does creatinine above 176.8 μmol/L score?",
+   "options": [
+    "0.5 points",
+    "2 points",
+    "1 point",
+    "1.5 points"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#fbf590",
+   "kind": "mcq",
+   "stem": "In ThRCRI, how many points does cerebrovascular disease score?",
+   "options": [
+    "2 points",
+    "1 point",
+    "0.5 points",
+    "1.5 points"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#2bb8d7",
+   "kind": "mcq",
+   "stem": "In ThRCRI, how many points does cardiac ischaemia score?",
+   "options": [
+    "1 point",
+    "2 points",
+    "1.5 points",
+    "0.5 points"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#4f737d",
+   "kind": "mcq",
+   "stem": "In lung resection risk assessment, how many points does pneumonectomy score?",
+   "options": [
+    "0.5 points",
+    "1.5 points",
+    "1 point",
+    "2 points"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#83677d",
+   "kind": "mcq",
+   "stem": "In lung resection risk assessment, what is the MACE risk for a score of 0 points?",
+   "options": [
+    "2%",
+    "6%",
+    "11%",
+    "20%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#83677d",
+   "kind": "mcq",
+   "stem": "In lung resection risk assessment, what is the MACE risk for more than 2.5 points?",
+   "options": [
+    "6%",
+    "20%",
+    "11%",
+    "2%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#51dbe8",
+   "kind": "statement",
+   "stem": "In lung resection risk assessment, name the other risk factors besides the points score.",
+   "answer": "Cardiac function, AF, COPD, cor pulmonale, stroke, CKD, frailty",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#53cc84",
+   "kind": "mcq",
+   "stem": "For lung resection, how should arterial line monitoring be classed?",
+   "options": [
+    "Optional",
+    "Mandatory",
+    "Rarely used",
+    "Only in pneumonectomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#5e32dd",
+   "kind": "blank",
+   "stem": "In lung resection, large-bore IV access is ideally placed in the ____ arm.",
+   "answer": "non-dependent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#e2bf48",
+   "kind": "mcq",
+   "stem": "For lung resection in lateral decubitus, how are the elbows positioned?",
+   "options": [
+    "Extended beside the head",
+    "Flexed across the chest",
+    "Abducted to 90 degrees",
+    "Flexed, forearms parallel to the face"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#e2bf48",
+   "kind": "statement",
+   "stem": "For lung resection in lateral decubitus, how is the upper arm supported?",
+   "answer": "In a gutter support",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#de66fb",
+   "kind": "mcq",
+   "stem": "For lung resection, which side of double-lumen tube is standard?",
+   "options": [
+    "Right-sided DLT",
+    "Left-sided DLT",
+    "Single-lumen tube only",
+    "Bronchial blocker alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#3133fd",
+   "kind": "mcq",
+   "stem": "When is a right-sided double-lumen tube used for lung resection?",
+   "options": [
+    "Routine for all lung resections",
+    "Standard in children",
+    "Left main bronchus surgery or distortion",
+    "Whenever a bronchial blocker is used"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#b688db",
+   "kind": "statement",
+   "stem": "For lung resection, in which situations is a bronchial blocker preferred?",
+   "answer": "Difficult airway, previous contralateral lung surgery, children",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#8257ac",
+   "kind": "mcq",
+   "stem": "What tidal volume is used for lung-protective ventilation during OLV in lung resection?",
+   "options": [
+    "4 ml/kg ideal body weight",
+    "8 ml/kg ideal body weight",
+    "6 ml/kg ideal body weight",
+    "10 ml/kg ideal body weight"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#fcf0ff",
+   "kind": "mcq",
+   "stem": "What PEEP range is used for lung-protective ventilation during OLV in lung resection?",
+   "options": [
+    "0–3",
+    "5–10",
+    "10–15",
+    "3–5"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#59cdfc",
+   "kind": "mcq",
+   "stem": "In lung-protective ventilation for lung resection, what peak pressure limit is quoted?",
+   "options": [
+    "<20",
+    "<40",
+    ">45",
+    "<30"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#b4e976",
+   "kind": "statement",
+   "stem": "Why keep intraoperative fluids restrictive in lung resection?",
+   "answer": "Excess fluid raises post-pneumonectomy pulmonary oedema, a high-mortality complication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#4341e9",
+   "kind": "statement",
+   "stem": "Which three drugs make up the multimodal, opioid-sparing analgesia for lung resection?",
+   "answer": "Ketamine, paracetamol, magnesium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#00dc64",
+   "kind": "statement",
+   "stem": "In lung resection, to what airway pressure is the bronchial suture line inflated by hand during the saline leak test?",
+   "answer": "40cmH2O",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#4914cd",
+   "kind": "mcq",
+   "stem": "After lung resection, at what ppoFEV1 can the patient be extubated in theatre?",
+   "options": [
+    "<30%",
+    "20%",
+    "35%",
+    ">40%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#d75636",
+   "kind": "mcq",
+   "stem": "After lung resection, what ppoFEV1 needs planned ventilation in ICU?",
+   "options": [
+    ">40%",
+    "50%",
+    "<30%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#7ead58",
+   "kind": "statement",
+   "stem": "Why is good analgesia emphasised after lung resection?",
+   "answer": "To limit postoperative respiratory dysfunction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#6ef26e",
+   "kind": "statement",
+   "stem": "After lung resection, what are judicious fluids meant to prevent?",
+   "answer": "Pulmonary oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#efb8fb",
+   "kind": "statement",
+   "stem": "After lung resection, name the respiratory causes of tachypnoea in PACU.",
+   "answer": "Pneumothorax, lung collapse or atelectasis, COPD exacerbation, airway obstruction (bleeding, oedema), pulmonary oedema, aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#7d7f9f",
+   "kind": "statement",
+   "stem": "After lung resection, name the two cardiac causes of tachypnoea in PACU.",
+   "answer": "MI, anaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/lung-resection-surgery#b35378",
+   "kind": "statement",
+   "stem": "After lung resection, name the two non-respiratory, non-cardiac causes of tachypnoea in PACU.",
+   "answer": "Sepsis, pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

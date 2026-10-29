@@ -1,0 +1,1349 @@
+{
+ "topic": "procedures/paediatric-spine-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#bdae9d",
+   "kind": "statement",
+   "stem": "In paediatric spine surgery, which type of surgery is the commonest?",
+   "answer": "Bony spine surgery for idiopathic or secondary scoliosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#43a548",
+   "kind": "mcq",
+   "stem": "In paediatric spine surgery, spinal cord surgery is mostly done for which group?",
+   "options": [
+    "Neural tube defects and associations",
+    "Spinal cord tumours",
+    "Vascular malformations",
+    "Disc prolapse"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#f2fac4",
+   "kind": "mcq",
+   "stem": "In paediatric spine surgery, disc disease is rare but is seen in which age group?",
+   "options": [
+    "Neonates",
+    "Toddlers",
+    "Adolescents",
+    "Preschool children"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#bf7613",
+   "kind": "mcq",
+   "stem": "In paediatric spine surgery, an intrathecal baclofen pump is inserted for spasm in which condition?",
+   "options": [
+    "Spina bifida occulta",
+    "Cerebral palsy",
+    "Duchenne muscular dystrophy",
+    "Scoliosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#ecd649",
+   "kind": "mcq",
+   "stem": "In paediatric spine surgery, how is scoliosis defined?",
+   "options": [
+    "Fixed anterior curve without vertebral rotation",
+    "Flexible lateral curve that straightens on bending",
+    "Flexible lateral curve from a normal spine",
+    "Fixed structural lateral curve with vertebral rotation"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#1cd2a9",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, how is severity measured?",
+   "options": [
+    "Oxford score on an MRI",
+    "Cobb angle on a standing X-ray",
+    "Lung volume on spirometry",
+    "Vertebral count on a CT"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#f65a9e",
+   "kind": "blank",
+   "stem": "In paediatric spine surgery, scoliosis is either congenital or ____.",
+   "answer": "acquired",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d85373",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, failed formation of a vertebra is called what?",
+   "options": [
+    "Vertebral fracture",
+    "Hemivertebra",
+    "Spina bifida occulta",
+    "Tethered cord"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#a34de5",
+   "kind": "statement",
+   "stem": "In paediatric scoliosis, which other vertebral anomalies often occur alongside it?",
+   "answer": "Spina bifida and tethered cord",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#1def32",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, which wider syndrome is it often part of?",
+   "options": [
+    "Kawasaki disease",
+    "VACTERL",
+    "Hirschsprung disease",
+    "Coeliac disease"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#66303c",
+   "kind": "statement",
+   "stem": "In paediatric scoliosis, which organ systems may have associated anomalies?",
+   "answer": "Renal, cardiac, respiratory or neurological",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#6ee72b",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, what age defines early-onset (infantile) presentation?",
+   "options": [
+    "Over 15 years",
+    "Over 12 years",
+    "Under 5 years",
+    "Over 10 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d2648a",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, which onset group has the worst prognosis?",
+   "options": [
+    "Adolescent onset",
+    "Infantile onset (before 8 yr)",
+    "Adult onset",
+    "Onset after 12 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d2648a",
+   "kind": "statement",
+   "stem": "What does untreated infantile scoliosis likely lead to in middle age?",
+   "answer": "Cardiopulmonary failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d6abfe",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, in which sex are severe curves more common?",
+   "options": [
+    "Boys",
+    "Equal in both sexes",
+    "Girls",
+    "Only in neonates"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#5d9f7d",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, severe curves narrow the chest, causing what kind of defect?",
+   "options": [
+    "Obstructive defect",
+    "Restrictive defect",
+    "Shunt defect",
+    "Vascular defect"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#dfb1ef",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, below what Cobb angle is the curve rarely significant?",
+   "options": [
+    "Less than 45°",
+    "Less than 80°",
+    "Less than 65°",
+    "Less than 90°"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#dfb1ef",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, above what Cobb angle is severe respiratory compromise probably seen?",
+   "options": [
+    "Over 65°",
+    "Over 80°",
+    "Over 150°",
+    "Over 100°"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#fe30f3",
+   "kind": "statement",
+   "stem": "In paediatric scoliosis with neuromuscular disease, what further limits breathing?",
+   "answer": "Weak cough, bulbar palsy with recurrent aspiration, low ventilatory capacity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#62d39b",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, what part of the spine does the curve usually span?",
+   "options": [
+    "Only the cervical spine",
+    "Only the lumbar spine",
+    "Most of the thoracolumbar spine",
+    "Only the sacrum"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#69ed44",
+   "kind": "statement",
+   "stem": "In non-idiopathic scoliosis, which complications are more common than in idiopathic?",
+   "answer": "Bleeding and respiratory failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#b258c3",
+   "kind": "statement",
+   "stem": "Besides trauma with vertebral fracture, what other insult can cause scoliosis?",
+   "answer": "Irradiation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#fbf801",
+   "kind": "mcq",
+   "stem": "In neural tube defects, when does failed fusion of the neural groove occur?",
+   "options": [
+    "In the third trimester",
+    "In the first month of gestation",
+    "In the first year of life",
+    "In the second trimester"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#fbf801",
+   "kind": "mcq",
+   "stem": "What is the incidence of neural tube defects in live births?",
+   "options": [
+    "1 per 50 live births",
+    "1 per 1000 live births",
+    "1 per 10 live births",
+    "1 per 10000 live births"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#b14d70",
+   "kind": "mcq",
+   "stem": "In neural tube defects, what herniates through the defect in a meningocele?",
+   "options": [
+    "Neural tissue",
+    "Meninges",
+    "Vertebral body",
+    "Subcutaneous fat"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#fbaa75",
+   "kind": "mcq",
+   "stem": "In paediatric spina bifida, where is a myelomeningocele usually located?",
+   "options": [
+    "Sacral only",
+    "Lumbosacral",
+    "Cervical",
+    "Thoracic only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#3cdd9e",
+   "kind": "mcq",
+   "stem": "How common is spina bifida occulta in neural tube defects?",
+   "options": [
+    "50–60%",
+    "5–10%",
+    "0.5–1%",
+    "15–20%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#3cdd9e",
+   "kind": "mcq",
+   "stem": "In spina bifida occulta, at which spinal level is the skin defect usually?",
+   "options": [
+    "T10",
+    "L5",
+    "C7",
+    "S3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#c4bfa2",
+   "kind": "mcq",
+   "stem": "In neural tube defects, which form has an arch defect communicating with a meningocele or myelomeningocele?",
+   "options": [
+    "Spina bifida occulta",
+    "Tethered cord",
+    "Spina bifida aperta",
+    "Diastematomyelia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#9176dd",
+   "kind": "statement",
+   "stem": "In myelomeningocele, why is early closure of exposed neural tissue done?",
+   "answer": "It reduces infection and limits neural damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#aa79d0",
+   "kind": "mcq",
+   "stem": "When should myelomeningocele repair be done as a surgical emergency?",
+   "options": [
+    "Within the first week of life",
+    "Within the first 24 h of life",
+    "After the first 6 months",
+    "Before starting school"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#1b58fe",
+   "kind": "mcq",
+   "stem": "In myelomeningocele, which allergy carries a real risk?",
+   "options": [
+    "Latex allergy",
+    "Penicillin allergy",
+    "Egg allergy",
+    "Peanut allergy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#0c05ff",
+   "kind": "mcq",
+   "stem": "At what level does a thick filum terminale anchor the conus?",
+   "options": [
+    "At or above T10",
+    "At or above L2",
+    "At or above C7",
+    "At or below L2"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#9ed32c",
+   "kind": "statement",
+   "stem": "In neural tube defects, what causes neurological signs with flexion and extension?",
+   "answer": "Traction on the cord",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#f22e38",
+   "kind": "statement",
+   "stem": "In neural tube defects, what surgical step usually halts progression?",
+   "answer": "Cutting the filum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#ddf916",
+   "kind": "mcq",
+   "stem": "In neural tube defects, uncorrected meningoceles tether the cord via which roots?",
+   "options": [
+    "Cervical roots",
+    "Lumbar roots",
+    "Sacral roots",
+    "Thoracic roots"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d5d47a",
+   "kind": "mcq",
+   "stem": "In neural tube defects, what persists from the primitive neurenteric canal?",
+   "options": [
+    "Ectoderm",
+    "Mesoderm",
+    "Endoderm",
+    "Neural crest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#f1ea46",
+   "kind": "mcq",
+   "stem": "In neural tube defects, what splits the spinal cord in two?",
+   "options": [
+    "Dural sac",
+    "Filum terminale",
+    "Fibrocartilaginous or bony septum",
+    "Conus medullaris"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#0c48d9",
+   "kind": "blank",
+   "stem": "In neural tube defects (myelodysplasia), spinal lesions are mostly ____.",
+   "answer": "lumbar",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d106b5",
+   "kind": "blank",
+   "stem": "In neural tube defects (myelodysplasia), signs come from cord movement in ____ and extension.",
+   "answer": "flexion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#b44fac",
+   "kind": "statement",
+   "stem": "In neural tube defects (myelodysplasia), at what age is the condition usually found?",
+   "answer": "Preschool age",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#8c632f",
+   "kind": "statement",
+   "stem": "In symptomatic neural tube defects (myelodysplasia), what surgical steps are needed?",
+   "answer": "Excise the spur and free adhesions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#dbea49",
+   "kind": "statement",
+   "stem": "In neural tube defects (myelodysplasia), how does a fluid cavity in the cord relate to CSF pathways?",
+   "answer": "It communicates with CSF pathways, or is isolated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#542891",
+   "kind": "statement",
+   "stem": "What normally happens to the central canal of the spinal cord after birth?",
+   "answer": "It closes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#4de99a",
+   "kind": "statement",
+   "stem": "In spina bifida with Chiari malformation, which cord condition can become symptomatic?",
+   "answer": "Hydrosyringomyelia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#2e3f83",
+   "kind": "mcq",
+   "stem": "In Chiari malformation, through which opening is the cerebellar vermis displaced?",
+   "options": [
+    "Tentorial notch",
+    "Jugular foramen",
+    "Foramen magnum",
+    "Carotid canal"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#056ea3",
+   "kind": "blank",
+   "stem": "In myelomeningocele, hydrocephalus usually develops in the first ____.",
+   "answer": "month",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#056ea3",
+   "kind": "blank",
+   "stem": "Most children with myelomeningocele have Chiari ____.",
+   "answer": "II",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#2d37d9",
+   "kind": "statement",
+   "stem": "In myelomeningocele hydrocephalus, which two procedures may be needed?",
+   "answer": "VP shunt or ventriculostomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#2c0a80",
+   "kind": "mcq",
+   "stem": "In paediatric spinal surgery, roughly what fraction of childhood CNS tumours are spinal?",
+   "options": [
+    "A tenth",
+    "A fifth",
+    "A third",
+    "Half"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d2133f",
+   "kind": "statement",
+   "stem": "Spinal tumours in children are classed by location as which two types?",
+   "answer": "Intramedullary or extramedullary",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#8c07a5",
+   "kind": "mcq",
+   "stem": "What prognosis do benign extramedullary spinal tumours have in children?",
+   "options": [
+    "Poor prognosis",
+    "Uncertain prognosis",
+    "Good prognosis",
+    "Fatal prognosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#8c07a5",
+   "kind": "statement",
+   "stem": "In paediatric spinal tumours, how often can the tumour be fully removed?",
+   "answer": "Many are fully resectable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#a991e8",
+   "kind": "statement",
+   "stem": "In paediatric spinal trauma, which mechanisms cause indirect cord injury?",
+   "answer": "Hyperflexion, hyperextension, vertical compression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#de64a6",
+   "kind": "mcq",
+   "stem": "Which underlying condition is an example of a vertebral anomaly causing paediatric spinal injury?",
+   "options": [
+    "Turner syndrome",
+    "Cystic fibrosis",
+    "Coeliac disease",
+    "Down syndrome"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#de64a6",
+   "kind": "statement",
+   "stem": "In paediatric spinal trauma, which non-accidental mechanism can cause injury?",
+   "answer": "Abuse (shaken baby)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#695874",
+   "kind": "blank",
+   "stem": "In paediatric spinal trauma, surgery is done only after a full secondary survey and ____.",
+   "answer": "imaging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#4b3028",
+   "kind": "mcq",
+   "stem": "In paediatric spinal trauma, about what proportion have a normal spine X-ray?",
+   "options": [
+    "Almost none",
+    "About a third",
+    "About half",
+    "Nearly all"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#eb908c",
+   "kind": "statement",
+   "stem": "How is a paediatric spinal fracture dislocation initially managed?",
+   "answer": "Traction and immobilisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#eb908c",
+   "kind": "mcq",
+   "stem": "Which treatment is used for an unstable paediatric spinal fracture dislocation?",
+   "options": [
+    "Observation alone",
+    "Fusion",
+    "Steroid infusion alone",
+    "Discectomy alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#722fe9",
+   "kind": "mcq",
+   "stem": "When is laminectomy with cord exploration indicated in paediatric spinal trauma?",
+   "options": [
+    "Any spinal fracture on plain X-ray",
+    "Stable signs with normal imaging",
+    "Worsening signs with epidural or intraspinal bleeding on CT or MRI",
+    "Routine at initial presentation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#27ee0a",
+   "kind": "statement",
+   "stem": "In paediatric spinal cord injury, what should be maintained, and what avoided?",
+   "answer": "Spinal cord perfusion pressure; avoid compression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#989ba7",
+   "kind": "mcq",
+   "stem": "What is the approximate risk of spinal cord injury in spine surgery?",
+   "options": [
+    "3-6%",
+    "0.3-0.6%",
+    "0.03-0.06%",
+    "10-15%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#989ba7",
+   "kind": "statement",
+   "stem": "In spine surgery, which spinal cord pathway is most at risk of ischaemic injury?",
+   "answer": "Anterior spinal artery motor pathways",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#00c542",
+   "kind": "statement",
+   "stem": "What is the aim of spinal cord monitoring in paediatric spine surgery?",
+   "answer": "To reduce neurological injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#6e8068",
+   "kind": "statement",
+   "stem": "In a wake-up test during spinal surgery, how must anaesthesia be changed?",
+   "answer": "Lightened enough to test leg movement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#3a9268",
+   "kind": "statement",
+   "stem": "What is the main advantage of the wake-up test in spinal cord monitoring?",
+   "answer": "It tests anterior cord function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#c50a4c",
+   "kind": "statement",
+   "stem": "How many time points does a wake-up test give during spine surgery?",
+   "answer": "A single time point",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#c50a4c",
+   "kind": "statement",
+   "stem": "After a positive wake-up test in spine surgery, what must be done with the implants?",
+   "answer": "Remove all implants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#59c2cc",
+   "kind": "statement",
+   "stem": "What risks follow patient movement on emergence from spine surgery?",
+   "answer": "Accidental extubation, lost IV access, dislodged fixation, air embolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#396d0b",
+   "kind": "mcq",
+   "stem": "In SSEP monitoring, which peripheral nerve is usually stimulated?",
+   "options": [
+    "Facial nerve",
+    "Vagus nerve",
+    "Posterior tibial nerve",
+    "Phrenic nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#396d0b",
+   "kind": "statement",
+   "stem": "In SSEP spinal cord monitoring, where are spinal and cortical responses recorded?",
+   "answer": "Epidural electrodes (spinal); scalp (cortical)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#cf0ada",
+   "kind": "blank",
+   "stem": "In SSEP spinal cord monitoring, dorsal sensory pathways are tested but not the ____ motor tracts.",
+   "answer": "anterior",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#925e48",
+   "kind": "mcq",
+   "stem": "In SSEP monitoring, what fall in amplitude is usually significant?",
+   "options": [
+    "More than 10%",
+    "More than 25%",
+    "More than 50%",
+    "More than 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#7dfa95",
+   "kind": "statement",
+   "stem": "In spinal cord monitoring, what does neuromuscular block do to muscle artefact?",
+   "answer": "Reduces it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#0937f6",
+   "kind": "statement",
+   "stem": "What false-negative limitation applies to SSEP monitoring in spine surgery?",
+   "answer": "Cord injury can occur despite preserved SSEPs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#55f358",
+   "kind": "statement",
+   "stem": "For motor evoked potential monitoring, what stimulation sites can be used?",
+   "answer": "Motor cortex or cord through skin, exposed tissue, or roots",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d54d49",
+   "kind": "statement",
+   "stem": "In spinal motor monitoring, what two forms of recording are used?",
+   "answer": "CMAP and CNAP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#4b8faa",
+   "kind": "statement",
+   "stem": "In spinal cord monitoring, what do motor evoked potentials test?",
+   "answer": "Motor cortex and descending motor tracts (anterior cord)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#c6b020",
+   "kind": "mcq",
+   "stem": "Which recording type allows neuromuscular blockers during spinal motor monitoring?",
+   "options": [
+    "CMAP recording",
+    "Epidural SSEP recording",
+    "CNAP recording",
+    "Scalp EEG recording"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#a4705b",
+   "kind": "statement",
+   "stem": "Apart from the target nerve, what surgical events can produce CMAPs?",
+   "answer": "Root irritation or cord concussion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#fe3dc1",
+   "kind": "statement",
+   "stem": "In spina bifida surgery, which nerve's responses are especially useful for monitoring?",
+   "answer": "Pudendal nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#121c5a",
+   "kind": "mcq",
+   "stem": "Which anaesthetic agents depress SSEPs and MEPs dose-dependently?",
+   "options": [
+    "Ketamine and etomidate",
+    "Volatiles and propofol",
+    "Remifentanil alone",
+    "Paracetamol and ibuprofen"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#5a2da0",
+   "kind": "statement",
+   "stem": "Which anaesthetic agents may enhance evoked potential signals?",
+   "answer": "Ketamine and etomidate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d16f37",
+   "kind": "statement",
+   "stem": "During spinal cord monitoring, which anaesthetic gas strongly depresses SSEPs and MEPs unless epidural recording is used?",
+   "answer": "Nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#bed588",
+   "kind": "statement",
+   "stem": "In spinal cord monitoring, how do neuromuscular relaxants affect SSEPs?",
+   "answer": "They reduce noise and improve SSEPs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#bed588",
+   "kind": "mcq",
+   "stem": "In spinal cord monitoring, what does a profound neuromuscular block do?",
+   "options": [
+    "Abolishes epidural MEPs but not CMAPs",
+    "Abolishes CMAPs but not epidural MEPs",
+    "Abolishes both CMAPs and epidural MEPs",
+    "Has no effect on CMAPs or MEPs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#97a398",
+   "kind": "statement",
+   "stem": "During CMAP monitoring in spine surgery, why is a bite block used?",
+   "answer": "Prevents tube biting and tongue laceration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#63ef5f",
+   "kind": "mcq",
+   "stem": "In a typical MEP anaesthetic for spine surgery, what sevoflurane concentration is used?",
+   "options": [
+    "0.1-0.2 MAC",
+    "0.4-0.7 MAC",
+    "1.0-1.5 MAC",
+    "2.0-2.5 MAC"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#63ef5f",
+   "kind": "statement",
+   "stem": "In MEP monitoring, what can replace the volatile agent in the typical anaesthetic?",
+   "answer": "Propofol infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#af7b90",
+   "kind": "statement",
+   "stem": "Before paediatric spine surgery, what must be documented fully?",
+   "answer": "The neurological deficit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#5a2757",
+   "kind": "statement",
+   "stem": "In anaesthesia for paediatric spine surgery, which two systems need focus?",
+   "answer": "Respiratory and cardiovascular",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#c793db",
+   "kind": "statement",
+   "stem": "In paediatric spine surgery, what must be arranged because blood loss is expected?",
+   "answer": "Blood and blood products",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d0fecd",
+   "kind": "mcq",
+   "stem": "Which airway approach is usual for paediatric spine surgery?",
+   "options": [
+    "General anaesthesia with intubation and ventilation",
+    "Sedation with spontaneous ventilation",
+    "Regional anaesthesia alone",
+    "Local anaesthesia with sedation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#af0e37",
+   "kind": "statement",
+   "stem": "What should the anaesthetic plan facilitate in paediatric spine surgery?",
+   "answer": "Spinal cord monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#7ff669",
+   "kind": "mcq",
+   "stem": "In paediatric spine surgery, what is the usual patient position?",
+   "options": [
+    "Prone",
+    "Supine",
+    "Lateral decubitus",
+    "Lithotomy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#29e1fe",
+   "kind": "statement",
+   "stem": "In paediatric spine surgery, air embolism monitoring is used in which cases?",
+   "answer": "Some cases, especially scoliosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#156ad7",
+   "kind": "statement",
+   "stem": "In paediatric spine surgery, what prophylaxis is agreed with the surgeons?",
+   "answer": "Antibiotic prophylaxis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#5702b6",
+   "kind": "statement",
+   "stem": "After paediatric spine surgery, where should the child go when appropriate?",
+   "answer": "HDU or ICU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#787839",
+   "kind": "statement",
+   "stem": "In paediatric scoliosis surgery, which approach is the commonest?",
+   "answer": "Posterior",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#e071a6",
+   "kind": "statement",
+   "stem": "In paediatric scoliosis surgery, which two approaches make up the combined option?",
+   "answer": "Anterior and posterior",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#018b4c",
+   "kind": "statement",
+   "stem": "In combined anterior and posterior scoliosis surgery, when can the stages be done?",
+   "answer": "Staged over 1-2 weeks, or done together",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#b0e7f4",
+   "kind": "statement",
+   "stem": "When is anterior-only scoliosis surgery used?",
+   "answer": "Some congenital curves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#4c464d",
+   "kind": "statement",
+   "stem": "Name two of the major complications of paediatric scoliosis surgery.",
+   "answer": "Major neurological injury, blood loss, coagulopathy, venous air embolism, postoperative visual loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#2598f3",
+   "kind": "statement",
+   "stem": "In paediatric scoliosis surgery, what should be anticipated and minimised?",
+   "answer": "Blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#29893a",
+   "kind": "statement",
+   "stem": "Why is good analgesia important after paediatric scoliosis surgery?",
+   "answer": "For early mobilisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#2fb727",
+   "kind": "statement",
+   "stem": "In scoliosis surgery with often severe restrictive lung disease, what cardiorespiratory aspects should be assessed?",
+   "answer": "Exercise tolerance, cough, and frequency and severity of chest infections",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#74ef03",
+   "kind": "statement",
+   "stem": "In idiopathic scoliosis, surgery can be tolerated despite what level of restriction?",
+   "answer": "FVC < 32%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#4c9091",
+   "kind": "statement",
+   "stem": "In scoliosis surgery, which criteria prompt an echocardiogram?",
+   "answer": "Curve >100°, RVH on ECG, or signs of right heart failure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#baef3c",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis, what proportion have mitral valve prolapse?",
+   "options": [
+    "About 5%",
+    "About 25%",
+    "About 50%",
+    "About 75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#96d79d",
+   "kind": "statement",
+   "stem": "In Duchenne patients having scoliosis surgery, what cardiac finding is common by age 15?",
+   "answer": "Dilated cardiomyopathy with ejection fraction <45%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#96d79d",
+   "kind": "statement",
+   "stem": "Why does any fall in ejection fraction matter in Duchenne scoliosis surgery?",
+   "answer": "It may limit tolerance of rapid fluid shifts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#9580da",
+   "kind": "statement",
+   "stem": "Before scoliosis surgery, who should be told about invasive lines and the analgesia plan?",
+   "answer": "The child and family",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#ac0f43",
+   "kind": "mcq",
+   "stem": "For posterior spinal fusion, which tube is worth considering?",
+   "options": [
+    "Double-lumen endobronchial tube",
+    "Laryngeal mask airway",
+    "Tracheostomy tube",
+    "Armoured endotracheal tube"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#67302b",
+   "kind": "statement",
+   "stem": "What anaesthetic technique is used for evoked potential monitoring in scoliosis surgery?",
+   "answer": "TIVA with propofol and remifentanil",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#cca4bd",
+   "kind": "statement",
+   "stem": "Which temperature measures are used in scoliosis surgery?",
+   "answer": "Warming mattress, forced air, warmed fluids, core temperature monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#78b83b",
+   "kind": "statement",
+   "stem": "In prone positioning for paediatric spinal fusion, how far can the arms be abducted or flexed?",
+   "answer": "No more than 90° abduction or forward flexion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#68dd70",
+   "kind": "statement",
+   "stem": "In paediatric scoliosis surgery, why can blood loss exceed the circulating volume?",
+   "answer": "Large raw decorticated bone surface, rich venous plexus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#7ce632",
+   "kind": "statement",
+   "stem": "Which blood tests are used intraoperatively in paediatric scoliosis surgery?",
+   "answer": "Intraoperative blood gases and point-of-care Hb; consider point-of-care lactate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#b61ddc",
+   "kind": "mcq",
+   "stem": "In Australian practice, at what ferritin level is preoperative iron given to paediatric scoliosis patients even without anaemia?",
+   "options": [
+    "<250 mcg/L",
+    "<100 mcg/L",
+    "<500 mcg/L",
+    "<1000 mcg/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#b4f5e8",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis surgery, what technique gives colloid before surgery without removing any blood?",
+   "options": [
+    "Acute normovolaemic haemodilution",
+    "Intraoperative cell salvage",
+    "Hypervolaemic haemodilution",
+    "Preoperative iron infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#b4f5e8",
+   "kind": "mcq",
+   "stem": "Hypervolaemic haemodilution may work less well when blood losses exceed what share of blood volume in paediatric scoliosis surgery?",
+   "options": [
+    "20%",
+    ">40%",
+    "30%",
+    "60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#09a231",
+   "kind": "statement",
+   "stem": "What does good analgesia allow after paediatric scoliosis surgery?",
+   "answer": "Frequent physiotherapy and early mobilisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#a04f96",
+   "kind": "mcq",
+   "stem": "After paediatric scoliosis surgery, what is the typical IV morphine infusion rate?",
+   "options": [
+    "2-6 mcg/kg/hour",
+    "20-60 mcg/kg/hour",
+    "200-600 mcg/kg/hour",
+    "0.2-0.6 mcg/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#a04f96",
+   "kind": "statement",
+   "stem": "Which adjuncts are given with the typical morphine infusion after paediatric scoliosis surgery?",
+   "answer": "Regular paracetamol, NSAID and antiemetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#ea54ce",
+   "kind": "mcq",
+   "stem": "In paediatric scoliosis surgery, what morphine bolus is used for PCA if the child can use it?",
+   "options": [
+    "5 mcg/kg",
+    "50 mcg/kg",
+    "0.2 mg/kg",
+    "20 mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#d69957",
+   "kind": "mcq",
+   "stem": "What intrathecal morphine dose is optionally used in paediatric scoliosis surgery, with its maximum?",
+   "options": [
+    "1 mcg/kg (max 100 mcg)",
+    "10 mcg/kg (max 600 mcg)",
+    "5 mcg/kg (max 300 mcg)",
+    "20 mcg/kg (max 1 mg)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#07b689",
+   "kind": "mcq",
+   "stem": "What caudal morphine dose is used for scoliosis analgesia in children when other options are not possible?",
+   "options": [
+    "0.5 mg/kg (max 30 mg)",
+    "50 mcg/kg (max 3 mg)",
+    "20 mcg/kg (max 1 mg)",
+    "2 mcg/kg (max 50 mcg)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-spine-surgery#7cc16a",
+   "kind": "statement",
+   "stem": "What fluid monitoring and replacement is advised in paediatric scoliosis surgery?",
+   "answer": "Hourly urine output, volume assessment, replace ongoing losses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "topic": "drugs/etoricoxib",
+ "questions": [
+  {
+   "fact_id": "drugs/etoricoxib#65861e",
+   "kind": "mcq",
+   "stem": "What is the usual dose range of etoricoxib?",
+   "options": [
+    "5-10mg once daily",
+    "60-120mg once daily in the morning",
+    "60-120mg twice daily in the morning",
+    "120-240mg once daily in the morning"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#83df03",
+   "kind": "mcq",
+   "stem": "What is the maximum etoricoxib dose in mild hepatic impairment (Child-Pugh 5-6)?",
+   "options": [
+    "120mg once daily",
+    "30mg once daily",
+    "60mg once daily",
+    "60mg twice daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#3f64d4",
+   "kind": "mcq",
+   "stem": "What is the maximum etoricoxib dose in moderate hepatic impairment (Child-Pugh 7-9)?",
+   "options": [
+    "30mg once daily",
+    "60mg once daily",
+    "120mg every other day",
+    "60mg every other day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#4aa09b",
+   "kind": "mcq",
+   "stem": "What is the COX-1:COX-2 inhibition ratio of etoricoxib?",
+   "options": [
+    "344:1",
+    "1:34",
+    "1:344",
+    "1:3440"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#b32a19",
+   "kind": "mcq",
+   "stem": "How would you describe etoricoxib's side effect profile?",
+   "options": [
+    "Unknown and variable",
+    "Predictable",
+    "Identical to aspirin's",
+    "Absent at therapeutic doses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#bf8a7c",
+   "kind": "mcq",
+   "stem": "Compared with placebo, how is etoricoxib's gastric irritation?",
+   "options": [
+    "Clearly greater than placebo",
+    "Similar to placebo",
+    "Similar to COX-1 inhibitors",
+    "Greater than COX-1 inhibitors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#bf8a7c",
+   "kind": "mcq",
+   "stem": "After how long does etoricoxib's gastric advantage over COX-1 inhibitors start to lessen?",
+   "options": [
+    "1–2 months",
+    "9–12 months",
+    "2–3 years",
+    "3–4 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#02ae0d",
+   "kind": "mcq",
+   "stem": "Etoricoxib's risk of heart attack or stroke is probably similar to which drug?",
+   "options": [
+    "Paracetamol",
+    "Diclofenac",
+    "Morphine",
+    "Tramadol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#e74ce0",
+   "kind": "mcq",
+   "stem": "Etoricoxib gives effective analgesia compared with which drug class?",
+   "options": [
+    "Opioids",
+    "COX-1 inhibitors",
+    "Paracetamol",
+    "Gabapentinoids"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#50f5cf",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of etoricoxib?",
+   "options": [
+    "50%",
+    "30%",
+    ">95%",
+    "75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#982904",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of etoricoxib?",
+   "options": [
+    "0.5 l/kg",
+    "1.5 l/kg",
+    "15 l/kg",
+    "5 l/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#982904",
+   "kind": "mcq",
+   "stem": "What percentage of etoricoxib is protein bound?",
+   "options": [
+    "50%",
+    "90%",
+    "99%",
+    "20%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#3b3906",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of etoricoxib?",
+   "options": [
+    "2 hours",
+    "22 hours",
+    "12 hours",
+    "72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#aa82ac",
+   "kind": "mcq",
+   "stem": "Which enzyme mainly metabolises etoricoxib?",
+   "options": [
+    "CYP2D6",
+    "CYP3A4",
+    "CYP2C9",
+    "CYP1A2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#30cb39",
+   "kind": "statement",
+   "stem": "Which three cytochrome P450 enzymes is etoricoxib a weak inhibitor of?",
+   "answer": "CYP2D6, CYP3A and CYP2C9",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#6dd96a",
+   "kind": "mcq",
+   "stem": "How is etoricoxib's half-life affected by isolated renal failure?",
+   "options": [
+    "Increased",
+    "Halved",
+    "Unchanged",
+    "Shortened"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/etoricoxib#6dd96a",
+   "kind": "mcq",
+   "stem": "How is etoricoxib's half-life affected by hepatic failure?",
+   "options": [
+    "Shortened",
+    "Unchanged",
+    "Halved",
+    "Increased"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

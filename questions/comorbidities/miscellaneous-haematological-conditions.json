@@ -1,0 +1,159 @@
+{
+ "topic": "comorbidities/miscellaneous-haematological-conditions",
+ "questions": [
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#01490f",
+   "kind": "mcq",
+   "stem": "What haemoglobin level defines polycythaemia in males?",
+   "options": [
+    "Hb >120",
+    "Hb >130",
+    "Hb >175",
+    "Hb >225"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#01490f",
+   "kind": "statement",
+   "stem": "What haemoglobin level defines polycythaemia in females?",
+   "answer": "Hb >155",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#bff9af",
+   "kind": "statement",
+   "stem": "What is the primary form of polycythaemia called?",
+   "answer": "Polycythaemia vera (PV)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#a35789",
+   "kind": "mcq",
+   "stem": "Which symptom of polycythaemia vera causes itching?",
+   "options": [
+    "Jaundice",
+    "Pruritus",
+    "Haematuria",
+    "Dysphagia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#36fc07",
+   "kind": "mcq",
+   "stem": "Which examination finding is typical of polycythaemia vera?",
+   "options": [
+    "Clubbing",
+    "Splenomegaly",
+    "Parotid enlargement",
+    "Pitting oedema"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#9d71f7",
+   "kind": "mcq",
+   "stem": "What proportion of polycythaemia vera patients carry a JAK2 mutation?",
+   "options": [
+    "50-60%",
+    "90-95%",
+    "10-20%",
+    "5-10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#9d71f7",
+   "kind": "statement",
+   "stem": "Which gene mutation is found in most polycythaemia vera patients?",
+   "answer": "JAK2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#2fe57a",
+   "kind": "mcq",
+   "stem": "In polycythaemia vera on myelosuppressive drugs, what percentage develop myelofibrosis?",
+   "options": [
+    "1%",
+    "10%",
+    "25%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#2fe57a",
+   "kind": "statement",
+   "stem": "In polycythaemia vera on myelosuppressive drugs, what rare complication can occur?",
+   "answer": "Acute leukaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#0ab2a1",
+   "kind": "mcq",
+   "stem": "In essential thrombocythaemia, megakaryocyte proliferation comes with what platelet count?",
+   "options": [
+    "Below 150",
+    "Below 50",
+    "Below 20",
+    ">450"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#ef195e",
+   "kind": "statement",
+   "stem": "In essential thrombocythaemia, which two complications recur?",
+   "answer": "Bleeding and thrombosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#f06dc0",
+   "kind": "mcq",
+   "stem": "Which drug is used to treat essential thrombocythaemia?",
+   "options": [
+    "Anastrozole",
+    "Hydroxycarbamide",
+    "Tamoxifen",
+    "Rituximab"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#45d724",
+   "kind": "statement",
+   "stem": "Which chronic leukaemia belongs in the differential of a high platelet count?",
+   "answer": "Chronic granulocytic leukaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/miscellaneous-haematological-conditions#de4aba",
+   "kind": "statement",
+   "stem": "In porphyria, which drugs should be avoided?",
+   "answer": "Trigger drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

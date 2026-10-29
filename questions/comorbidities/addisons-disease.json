@@ -1,0 +1,453 @@
+{
+ "topic": "comorbidities/addisons-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/addisons-disease#61278d",
+   "kind": "mcq",
+   "stem": "Which adrenal cortex zone makes mineralocorticoids such as aldosterone?",
+   "options": [
+    "Zona fasciculata",
+    "Zona glomerulosa",
+    "Zona reticularis",
+    "Adrenal medulla"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#78ad9e",
+   "kind": "mcq",
+   "stem": "Which adrenal cortex zone makes glucocorticoids such as cortisol?",
+   "options": [
+    "Zona reticularis",
+    "Zona glomerulosa",
+    "Zona fasciculata",
+    "Adrenal medulla"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#84645c",
+   "kind": "blank",
+   "stem": "The zona reticularis of the adrenal cortex secretes ____, including DHEA and testosterone.",
+   "answer": "androgens",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#a3e2d7",
+   "kind": "statement",
+   "stem": "What defines primary adrenal insufficiency (Addison's disease)?",
+   "answer": "The cortex itself is destroyed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#ec2684",
+   "kind": "statement",
+   "stem": "What is the most common cause of primary Addison's disease, and roughly what share of cases?",
+   "answer": "Autoimmune (80%)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#334c97",
+   "kind": "mcq",
+   "stem": "In Addison's disease, what defines secondary adrenal insufficiency?",
+   "options": [
+    "Excess ACTH overstimulating the cortex",
+    "Too little ACTH to stimulate the cortex",
+    "Destruction of the adrenal cortex",
+    "Raised aldosterone output"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#4b2f38",
+   "kind": "statement",
+   "stem": "What causes acute adrenal crisis in a patient already known to have adrenal insufficiency?",
+   "answer": "Chronic insufficiency without enough steroid cover.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#647324",
+   "kind": "statement",
+   "stem": "What is pituitary apoplexy, as a cause of adrenal crisis?",
+   "answer": "Sudden neurological impairment, usually from bleeding or infarction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#87fa42",
+   "kind": "statement",
+   "stem": "Which symptom of chronic adrenal insufficiency is reported in 100% of patients?",
+   "answer": "Fatigue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#0d9b8f",
+   "kind": "blank",
+   "stem": "In chronic adrenal insufficiency, skin ____ occurs in about 90% of primary cases.",
+   "answer": "hyperpigmentation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#1cc59f",
+   "kind": "statement",
+   "stem": "Which symptoms, more marked in primary adrenal insufficiency, occur in about 90% of cases?",
+   "answer": "Postural symptoms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#8a944e",
+   "kind": "mcq",
+   "stem": "In chronic adrenal insufficiency, what proportion of patients have weight loss?",
+   "options": [
+    "About 20%",
+    "About 60%",
+    "About 90%",
+    "About 100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#ea09de",
+   "kind": "mcq",
+   "stem": "Which examination finding is typical of secondary adrenal insufficiency?",
+   "options": [
+    "Weight gain",
+    "Hypertension",
+    "Pallor",
+    "Bradycardia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#b4dda6",
+   "kind": "mcq",
+   "stem": "Which sodium result is seen in about 90% of Addison's disease investigations?",
+   "options": [
+    "High Na+",
+    "Normal Na+",
+    "Low Na+",
+    "Rising Na+"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#350615",
+   "kind": "mcq",
+   "stem": "Which electrolyte is raised in about 70% of Addison's disease cases?",
+   "options": [
+    "Sodium",
+    "Potassium",
+    "Magnesium",
+    "Chloride"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#f4ae84",
+   "kind": "mcq",
+   "stem": "Raised calcium in Addison's disease occurs in which type only?",
+   "options": [
+    "Primary",
+    "Secondary",
+    "Congenital",
+    "Tertiary"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#dd4157",
+   "kind": "mcq",
+   "stem": "What early morning cortisol cut-off suggests primary Addison's disease?",
+   "options": [
+    "<120nmol/L",
+    "<165nmol/L",
+    "<250nmol/L",
+    "<300nmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#dd4157",
+   "kind": "statement",
+   "stem": "What early morning cortisol cut-off suggests secondary adrenal insufficiency?",
+   "answer": "<100nmol/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#f6f4b6",
+   "kind": "mcq",
+   "stem": "What peak cortisol at 30 minutes after Synacthen indicates adrenal insufficiency?",
+   "options": [
+    "<300nmol/L",
+    "<500nmol/L",
+    "<750nmol/L",
+    "<1000nmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#f6f4b6",
+   "kind": "mcq",
+   "stem": "What dose of Synacthen is used in the short Synacthen test?",
+   "options": [
+    "25mcg",
+    "250mcg",
+    "500mcg",
+    "1000mcg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#9916cf",
+   "kind": "mcq",
+   "stem": "What is the usual oral hydrocortisone regimen in Addison's disease?",
+   "options": [
+    "10mg in the morning and 20mg at night",
+    "15mg in the morning and 15mg at night",
+    "20mg in the morning and 10mg at night",
+    "5mg in the morning and 5mg at night"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#454b9f",
+   "kind": "mcq",
+   "stem": "What is the usual oral fludrocortisone dose in primary Addison's disease?",
+   "options": [
+    "0.01mg",
+    "0.5mg",
+    "0.1mg",
+    "1mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#3d3d72",
+   "kind": "mcq",
+   "stem": "What is the intraoperative hydrocortisone infusion rate in Addison's disease?",
+   "options": [
+    "2.5mg/hr",
+    "5mg/hr",
+    "10mg/hr",
+    "20mg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#3d3d72",
+   "kind": "mcq",
+   "stem": "What IV hydrocortisone bolus is given at induction in Addison's disease?",
+   "options": [
+    "5mg",
+    "25mg",
+    "40mg",
+    "75mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#556ecd",
+   "kind": "statement",
+   "stem": "What intramuscular hydrocortisone alternative is given at induction in Addison's disease?",
+   "answer": "100mg IM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#f4c50c",
+   "kind": "mcq",
+   "stem": "How often should blood glucose be checked after surgery in Addison's disease?",
+   "options": [
+    "Every hour",
+    "Every 2 hours",
+    "Every 4 hours",
+    "Every 12 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#fa0be1",
+   "kind": "mcq",
+   "stem": "How often should urea and electrolytes be checked after surgery in Addison's disease?",
+   "options": [
+    "Weekly",
+    "Daily",
+    "Twice weekly",
+    "Monthly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#771ada",
+   "kind": "statement",
+   "stem": "Which specialty should be involved in the postoperative steroid plan for Addison's disease?",
+   "answer": "Endocrinology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#537017",
+   "kind": "mcq",
+   "stem": "How often should the induction steroid regimen be repeated after surgery until eating and drinking?",
+   "options": [
+    "Every 4 hours",
+    "Every 6 hours",
+    "Every 8 hours",
+    "Every 12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#71109b",
+   "kind": "mcq",
+   "stem": "For how long after major surgery should the usual oral steroid dose be doubled in Addison's disease?",
+   "options": [
+    "12hr",
+    "48hr",
+    "72hr",
+    "96hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#f6ec82",
+   "kind": "mcq",
+   "stem": "Hydrocortisone 20mg is equivalent to what dose of fludrocortisone?",
+   "options": [
+    "0.005mg",
+    "0.05mg",
+    "0.5mg",
+    "1mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#f801d0",
+   "kind": "mcq",
+   "stem": "Once hydrocortisone exceeds what daily dose, is extra fludrocortisone unnecessary?",
+   "options": [
+    "More than 20mg",
+    "More than 50mg",
+    "More than 100mg",
+    "More than 5mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#a065f7",
+   "kind": "statement",
+   "stem": "What are the classic features of acute Addisonian crisis?",
+   "answer": "Hypotension, low Na+, high K+, low glucose, abdominal pain.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#cae4c0",
+   "kind": "mcq",
+   "stem": "Acute Addisonian crisis can mimic which shock, with fever and vasodilation?",
+   "options": [
+    "Cardiogenic shock",
+    "Septic shock",
+    "Anaphylactic shock",
+    "Neurogenic shock"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#ed50a5",
+   "kind": "statement",
+   "stem": "How can adrenal crisis present in a patient with type 1 diabetes?",
+   "answer": "Worsening glucose control with recurrent hypoglycaemia.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#693b32",
+   "kind": "mcq",
+   "stem": "What is the initial IV hydrocortisone dose in acute Addisonian crisis?",
+   "options": [
+    "25mg",
+    "50mg",
+    "200mg",
+    "400mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#693b32",
+   "kind": "statement",
+   "stem": "Before giving hydrocortisone in acute Addisonian crisis, which blood tests should be taken?",
+   "answer": "Baseline cortisol and ACTH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/addisons-disease#e89d12",
+   "kind": "mcq",
+   "stem": "If cortisol samples cannot be taken first in adrenal crisis, which steroid can be given instead?",
+   "options": [
+    "Prednisolone 5mg IV",
+    "Methylprednisolone 40mg IV",
+    "Betamethasone 4mg IM",
+    "Dexamethasone 4mg IV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

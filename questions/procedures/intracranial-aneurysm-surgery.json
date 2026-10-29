@@ -1,0 +1,1529 @@
+{
+ "topic": "procedures/intracranial-aneurysm-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#fa1118",
+   "kind": "statement",
+   "stem": "In intracranial aneurysm surgery, which anaesthetic goal aims to prevent rupture or rebleeding?",
+   "answer": "Adequate depth and analgesia, BP control, fluid management",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#63fc10",
+   "kind": "mcq",
+   "stem": "Neuroprotection in intracranial aneurysm surgery aims to guard against which injury?",
+   "options": [
+    "Postoperative nausea",
+    "Pulmonary aspiration",
+    "Secondary brain injury",
+    "Peripheral nerve injury"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#dbfdbd",
+   "kind": "blank",
+   "stem": "In intracranial aneurysm surgery, one anaesthetic goal is to ____ neurological and systemic complications.",
+   "answer": "Manage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#5abcb6",
+   "kind": "mcq",
+   "stem": "Where are intracranial aneurysm patients usually managed before surgery?",
+   "options": [
+    "Theatre recovery room",
+    "Day surgery ward",
+    "High dependency or ICU",
+    "General surgical ward"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#d8fdce",
+   "kind": "mcq",
+   "stem": "Before intracranial aneurysm surgery, which imaging grades the subarachnoid haemorrhage?",
+   "options": [
+    "MRI spine",
+    "Chest X-ray",
+    "CT brain",
+    "Echocardiogram"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#d8fdce",
+   "kind": "mcq",
+   "stem": "Before intracranial aneurysm surgery, which imaging shows the aneurysm anatomy?",
+   "options": [
+    "Carotid Doppler",
+    "4-vessel angiogram",
+    "Transthoracic echo",
+    "CT chest"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#574ccc",
+   "kind": "statement",
+   "stem": "Before intracranial aneurysm surgery, what should be done with abnormal calcium, magnesium or phosphate?",
+   "answer": "Correct the abnormalities",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#574ccc",
+   "kind": "statement",
+   "stem": "Before intracranial aneurysm surgery, what should be done about abnormal PT or PTT?",
+   "answer": "Correct coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#c38e9b",
+   "kind": "statement",
+   "stem": "After subarachnoid haemorrhage, what range of neurological state can patients show before surgery?",
+   "answer": "From mild drowsiness to coma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#9c613f",
+   "kind": "statement",
+   "stem": "Which raised-pressure problems are common in SAH patients before aneurysm surgery?",
+   "answer": "Acute hydrocephalus and high ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#6c4059",
+   "kind": "statement",
+   "stem": "Which cardiac problems are seen in SAH patients before aneurysm surgery?",
+   "answer": "Ischaemia, arrhythmias, LV dysfunction, pulmonary oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#83ec1b",
+   "kind": "mcq",
+   "stem": "What should be done with antiepileptic drugs in SAH patients going to aneurysm surgery?",
+   "options": [
+    "Stop them 24 hours before",
+    "Continue them through surgery",
+    "Double the dose at induction",
+    "Stop them after induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#384bb2",
+   "kind": "mcq",
+   "stem": "What is the usual cause of hyponatraemia in SAH patients before aneurysm surgery?",
+   "options": [
+    "Diabetes insipidus",
+    "SIADH",
+    "Hypernatraemia",
+    "Hyperkalaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#70d218",
+   "kind": "mcq",
+   "stem": "What percentage of SAH patients develop symptomatic vasospasm?",
+   "options": [
+    "5 to 10%",
+    "20 to 30%",
+    "40 to 50%",
+    "60 to 70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#2de370",
+   "kind": "mcq",
+   "stem": "After SAH, when does vasospasm usually start?",
+   "options": [
+    "Day 1",
+    "after day 3",
+    "Day 14",
+    "Day 21"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#2de370",
+   "kind": "mcq",
+   "stem": "After SAH, on which days does vasospasm usually peak?",
+   "options": [
+    "Days 2 to 3",
+    "days 7 to 8",
+    "Days 14 to 15",
+    "Days 21 to 22"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#4a66f3",
+   "kind": "mcq",
+   "stem": "What is known about a transfusion threshold for anaemia in SAH patients?",
+   "options": [
+    "Threshold of 7 g/dl",
+    "Threshold of 10 g/dl",
+    "No defined transfusion threshold",
+    "Threshold of 12 g/dl"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#acb405",
+   "kind": "mcq",
+   "stem": "What minimum haemoglobin should SAH patients aim for before aneurysm surgery?",
+   "options": [
+    "3 g/dl",
+    "7 g/dl",
+    "8 g/dl",
+    "5 g/dl"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#acb405",
+   "kind": "mcq",
+   "stem": "Between which haemoglobin values do outcomes seem best after SAH?",
+   "options": [
+    "6 to 8 g/dl",
+    "8 to 11.5 g/dl",
+    "11.5 to 14 g/dl",
+    "4 to 6 g/dl"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#dbe0dc",
+   "kind": "mcq",
+   "stem": "What is the nimodipine dose after SAH?",
+   "options": [
+    "30 mg every 4 hours",
+    "60 mg every 8 hours",
+    "60 mg every 4 hours",
+    "120 mg every 2 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#dbe0dc",
+   "kind": "mcq",
+   "stem": "What should happen to nimodipine for SAH patients during aneurysm surgery?",
+   "options": [
+    "Stop it before induction",
+    "Continue it during surgery",
+    "Give only after surgery",
+    "Halve the dose at induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#7dacba",
+   "kind": "mcq",
+   "stem": "Which drug is used for anxiolysis before elective intracranial aneurysm surgery?",
+   "options": [
+    "fentanyl",
+    "midazolam",
+    "atropine",
+    "glycopyrrolate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#a228af",
+   "kind": "statement",
+   "stem": "What treatment options exist for intracranial aneurysms?",
+   "answer": "Clipping at craniotomy, endovascular treatment, or both",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#d313d9",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is used for all intracranial vascular procedures?",
+   "options": [
+    "Local anaesthesia only",
+    "Spinal anaesthesia",
+    "General anaesthesia",
+    "Sedation alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#4e43b7",
+   "kind": "statement",
+   "stem": "For aneurysm clipping, what anaesthetic aims include CSF drainage if an EVD is present?",
+   "answer": "Brain relaxation and ICP control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#5c07fb",
+   "kind": "mcq",
+   "stem": "Before an unruptured aneurysm is secured, what is the maximum systolic BP?",
+   "options": [
+    "160 mmHg",
+    "180 mmHg",
+    "140 mmHg",
+    "200 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#5c07fb",
+   "kind": "mcq",
+   "stem": "Before an unruptured aneurysm is secured, what is the minimum MAP?",
+   "options": [
+    "30 mmHg",
+    "40 mmHg",
+    "60 mmHg",
+    "50 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#d06e40",
+   "kind": "mcq",
+   "stem": "With an ICP monitor during aneurysm surgery, what CPP target applies?",
+   "options": [
+    "10 to 20 mmHg",
+    "30 to 40 mmHg",
+    "50 to 60 mmHg",
+    "20 to 30 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#eba2f8",
+   "kind": "mcq",
+   "stem": "When planning aneurysm clipping with the surgeon, what intraoperative event should be planned for?",
+   "options": [
+    "Postoperative pneumonia",
+    "Intraoperative rupture",
+    "Peripheral nerve palsy",
+    "Unexpected extubation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#71f4f5",
+   "kind": "statement",
+   "stem": "How does neurophysiological monitoring (EEG, evoked potentials) affect anaesthesia for aneurysm clipping?",
+   "answer": "Affects choice and timing of anaesthetic drugs and NMBAs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#e90028",
+   "kind": "mcq",
+   "stem": "Which airway is used for general anaesthesia in intracranial aneurysm clipping?",
+   "options": [
+    "Double-lumen tube",
+    "Laryngeal mask airway",
+    "Armoured ETT",
+    "Tracheostomy tube"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#4e0ed8",
+   "kind": "mcq",
+   "stem": "Where is postoperative neuro-observation done after intracranial aneurysm clipping?",
+   "options": [
+    "General ward bed",
+    "Recovery room only",
+    "Day surgery unit",
+    "High dependency or ICU"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#5e5283",
+   "kind": "mcq",
+   "stem": "How much blood loss is possible in intracranial aneurysm clipping?",
+   "options": [
+    "20-200 ml",
+    "2000-4000 ml",
+    "200-2000 ml",
+    "50-100 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#5e5283",
+   "kind": "mcq",
+   "stem": "For possible major blood loss in aneurysm clipping, how many units of packed cells should be crossmatched?",
+   "options": [
+    "1 unit",
+    "4 units",
+    "2 units",
+    "6 units"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#0f4445",
+   "kind": "mcq",
+   "stem": "When is the central venous line placed for intracranial aneurysm clipping?",
+   "options": [
+    "Before induction",
+    "Not routinely used",
+    "After extubation",
+    "After induction"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#2dde33",
+   "kind": "statement",
+   "stem": "Which drugs treat hypertension during intracranial aneurysm clipping?",
+   "answer": "Beta-blockers or SNP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#2dde33",
+   "kind": "mcq",
+   "stem": "Which drug class treats hypotension during intracranial aneurysm clipping?",
+   "options": [
+    "Beta-blockers",
+    "Diuretics",
+    "Vasopressors",
+    "Sodium nitroprusside"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#55192d",
+   "kind": "statement",
+   "stem": "Which temperature-related measures are used during intracranial aneurysm clipping?",
+   "answer": "Temperature probe, warmed fluids, forced-air warming",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#05f14e",
+   "kind": "statement",
+   "stem": "In intracranial aneurysm clipping, what should be ready in theatre if blood loss is expected?",
+   "answer": "Rapid infusers (Hotline, Level 1) and blood in theatre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#a670e0",
+   "kind": "blank",
+   "stem": "Clipping equipment and monitoring include a urinary catheter, ____ and thromboprophylaxis.",
+   "answer": "BIS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#d5099d",
+   "kind": "mcq",
+   "stem": "What should be done with neurocritical care monitors already in place before intracranial aneurysm clipping?",
+   "options": [
+    "Remove them before induction",
+    "Continue them",
+    "Replace them with theatre monitors",
+    "Turn them off at induction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#ba0351",
+   "kind": "statement",
+   "stem": "Which ventilation approach during intracranial aneurysm clipping optimises oxygenation and CO2 and avoids raised ICP?",
+   "answer": "Controlled ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#45f378",
+   "kind": "statement",
+   "stem": "During induction for intracranial aneurysm clipping, which two blood pressure extremes must the drugs avoid?",
+   "answer": "Hypertension (rupture risk) and hypotension (CPP)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#803a6d",
+   "kind": "mcq",
+   "stem": "Which head fixation is used for intracranial aneurysm clipping?",
+   "options": [
+    "Horseshoe foam headrest",
+    "Mayfield 3-pin head fixation",
+    "Radiolucent 2-pin ring",
+    "Cervical collar with sandbags"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#e0f102",
+   "kind": "mcq",
+   "stem": "During maintenance of intracranial aneurysm clipping, what is the minimum MAP goal?",
+   "options": [
+    "40 mmHg",
+    "45 mmHg",
+    "55 mmHg",
+    "60 mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#9aa6f6",
+   "kind": "statement",
+   "stem": "Which drug class should be ready during maintenance of intracranial aneurysm clipping?",
+   "answer": "Vasoactive drugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#1b6738",
+   "kind": "mcq",
+   "stem": "In intracranial aneurysm clipping, which infusion is favoured in the vasospasm window (days 3 to 8)?",
+   "options": [
+    "Sodium nitroprusside infusion",
+    "Esmolol infusion",
+    "Phenylephrine infusion",
+    "Glyceryl trinitrate infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#6ccbda",
+   "kind": "mcq",
+   "stem": "Which drug given IV at 1 mg/kg blunts the response to skull pinning in intracranial aneurysm clipping?",
+   "options": [
+    "Ketamine",
+    "Lidocaine",
+    "Atropine",
+    "Glycopyrrolate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#fc7591",
+   "kind": "statement",
+   "stem": "At what point in intracranial aneurysm clipping is brain relaxation needed?",
+   "answer": "Once the dura is open",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#dd6417",
+   "kind": "mcq",
+   "stem": "What head-up elevation is advised for intracranial aneurysm clipping?",
+   "options": [
+    "10 degrees",
+    "15 degrees",
+    "30 degrees",
+    "45 degrees"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#e3da64",
+   "kind": "mcq",
+   "stem": "Which core temperature range is aimed for during intracranial aneurysm clipping?",
+   "options": [
+    "33-34°C",
+    "36-37°C",
+    "38-39°C",
+    "32-33°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#cd0e57",
+   "kind": "statement",
+   "stem": "What did the IHAST trial find for mild hypothermia (33°C) after clipping in good-grade subarachnoid haemorrhage?",
+   "answer": "No better neurological outcome, and raised bacteraemia risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#71fd3f",
+   "kind": "mcq",
+   "stem": "What is the maximum duration of deep hypothermic circulatory arrest in intracranial aneurysm surgery?",
+   "options": [
+    "20 min",
+    "30 min",
+    "45 min",
+    "60 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#cc0f0f",
+   "kind": "mcq",
+   "stem": "During induced hypotension for intracranial aneurysm clipping, what systolic BP range is targeted?",
+   "options": [
+    "90-110 mmHg",
+    "100-120 mmHg",
+    "110-130 mmHg",
+    "60-80 mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#3b451a",
+   "kind": "mcq",
+   "stem": "Which drug is given as 5-10 mg IV boluses for induced hypotension in intracranial aneurysm clipping?",
+   "options": [
+    "Hydralazine",
+    "Labetalol",
+    "Ketamine",
+    "Glyceryl trinitrate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#f23640",
+   "kind": "mcq",
+   "stem": "During temporary clipping, how far above baseline is BP kept to support collateral flow?",
+   "options": [
+    "5-10%",
+    "10-20%",
+    "30-40%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#c04048",
+   "kind": "mcq",
+   "stem": "What systolic BP range is aimed for before clipping an intracranial aneurysm?",
+   "options": [
+    "60-80 mmHg",
+    "100-120 mmHg",
+    "160-200 mmHg",
+    "120-160 mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#9756a7",
+   "kind": "mcq",
+   "stem": "What systolic BP range is aimed for after clipping an intracranial aneurysm?",
+   "options": [
+    "100-120 mmHg",
+    "160-200 mmHg",
+    "60-80 mmHg",
+    "140-180 mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#005fed",
+   "kind": "mcq",
+   "stem": "In intracranial aneurysm clipping, what IV thiopentone dose is given before the temporary clip?",
+   "options": [
+    "100 mg",
+    "150 mg",
+    "250 mg",
+    "500 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#5c44e8",
+   "kind": "blank",
+   "stem": "After the bolus, thiopentone 3-5 mg/kg/h is titrated to ____ on BIS or EEG.",
+   "answer": "burst suppression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#fa072d",
+   "kind": "statement",
+   "stem": "In complex vascular cases with induced hypothermia (core 32°C), when should rewarming start?",
+   "answer": "Once flow restored",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#cb45e8",
+   "kind": "mcq",
+   "stem": "In intracranial aneurysm clipping, after how many minutes should a temporary clip be released?",
+   "options": [
+    "5 min",
+    "30 min",
+    "45 min",
+    "10 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#cb45e8",
+   "kind": "mcq",
+   "stem": "What is the maximum time a temporary clip may stay on in intracranial aneurysm clipping?",
+   "options": [
+    "5 min",
+    "30 min",
+    "40 min",
+    "20 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#8910c6",
+   "kind": "mcq",
+   "stem": "In intracranial aneurysm clipping, by what percentage may MAP be raised for ischaemic changes or long clip times?",
+   "options": [
+    "2 to 5%",
+    "10 to 20%",
+    "30 to 40%",
+    "50 to 60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#d077fd",
+   "kind": "statement",
+   "stem": "Which drug is used to induce temporary flow arrest in intracranial aneurysm surgery?",
+   "answer": "Adenosine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#a8460c",
+   "kind": "mcq",
+   "stem": "When escalating adenosine flow arrest in intracranial aneurysm surgery, what is the starting IV dose?",
+   "options": [
+    "0.4 to 0.6 mg/kg",
+    "3 to 6 mg",
+    "12 to 24 mg",
+    "6 to 12 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#a8460c",
+   "kind": "mcq",
+   "stem": "In escalating adenosine flow arrest, what is the size of each dose increase?",
+   "options": [
+    "3 mg",
+    "6 mg",
+    "12 mg",
+    "0.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#030b5d",
+   "kind": "mcq",
+   "stem": "If there is no time to escalate adenosine during rupture in intracranial aneurysm surgery, what IV dose is given?",
+   "options": [
+    "3 to 6 mg",
+    "0.1 to 0.2 mg/kg",
+    "0.4 to 0.6 mg/kg",
+    "1 to 2 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#030b5d",
+   "kind": "mcq",
+   "stem": "How long is asystole expected after rupture-dose adenosine in intracranial aneurysm surgery?",
+   "options": [
+    "2 to 3 seconds",
+    "5 to 10 seconds",
+    "20 to 40 seconds",
+    "10 to 15 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#92c5dc",
+   "kind": "mcq",
+   "stem": "After the permanent clip in intracranial aneurysm surgery, what systolic BP is aimed for?",
+   "options": [
+    "Above 160 mmHg",
+    "Above 180 mmHg",
+    "Below 140 mmHg",
+    "Exactly 100 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#c49bdb",
+   "kind": "mcq",
+   "stem": "Which dye is given as a rapid IV 25 mg dose to show brain perfusion after clipping?",
+   "options": [
+    "Fluorescein",
+    "Methylene blue",
+    "Indocyanine green",
+    "Isosulfan blue"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#436626",
+   "kind": "statement",
+   "stem": "What effect on pulse oximetry does indocyanine green have?",
+   "answer": "A brief false fall in SpO2, often to the low 90s",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#f19900",
+   "kind": "mcq",
+   "stem": "After intracranial aneurysm surgery, what does rapid emergence allow the team to do?",
+   "options": [
+    "Neurological examination",
+    "Earlier discharge from theatre",
+    "Faster bladder catheter removal",
+    "Earlier ICU discharge"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#2a8796",
+   "kind": "statement",
+   "stem": "After intracranial aneurysm clipping, what should the anaesthetist confirm with the surgeon?",
+   "answer": "That the aneurysm is fully secured",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#63ffb3",
+   "kind": "blank",
+   "stem": "After intracranial aneurysm surgery, ICU care covers serial neurological checks, continuous BP control, analgesia and treatment of ____.",
+   "answer": "PONV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#b443b8",
+   "kind": "mcq",
+   "stem": "Which aneurysms may be coiled or treated with newer endovascular devices?",
+   "options": [
+    "Only unruptured aneurysms",
+    "Ruptured and unruptured aneurysms",
+    "Only ruptured aneurysms",
+    "Only aneurysms with vasospasm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#4380fe",
+   "kind": "mcq",
+   "stem": "What did the ISAT trial find for coiling versus clipping in ruptured aneurysms?",
+   "options": [
+    "Worse survival at one and seven years",
+    "Better survival at one and seven years",
+    "No difference in survival at seven years",
+    "Higher survival only at one month"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#3d7225",
+   "kind": "mcq",
+   "stem": "Where is endovascular coiling of intracranial aneurysms often carried out?",
+   "options": [
+    "Main operating theatre",
+    "Interventional radiology",
+    "Intensive care unit",
+    "Recovery room"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#228fea",
+   "kind": "statement",
+   "stem": "Which two items does endovascular coiling share in principle with clipping?",
+   "answer": "Arterial line and BP control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#8972dd",
+   "kind": "mcq",
+   "stem": "What anticoagulant is needed for endovascular coiling of an intracranial aneurysm?",
+   "options": [
+    "Heparin",
+    "Warfarin",
+    "Rivaroxaban",
+    "Dabigatran"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#f45249",
+   "kind": "statement",
+   "stem": "Name the three specific crises that can occur during endovascular coiling.",
+   "answer": "Aneurysm rupture (can be fatal), distal thromboembolism, vasospasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#b947c0",
+   "kind": "statement",
+   "stem": "Which remote-site issue for endovascular coiling involves contrast?",
+   "answer": "Contrast allergy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#f9ec10",
+   "kind": "mcq",
+   "stem": "Compared with clipping, which is a benefit of endovascular coiling for intracranial aneurysms?",
+   "options": [
+    "More brain relaxation needed",
+    "Less hypotension",
+    "Less blood loss",
+    "More stimulation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#abb34a",
+   "kind": "mcq",
+   "stem": "What should be on standby for a patient on dual antiplatelets having aneurysm coiling?",
+   "options": [
+    "Platelets",
+    "Fresh frozen plasma",
+    "Cryoprecipitate",
+    "Vitamin K"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#053bab",
+   "kind": "mcq",
+   "stem": "What must be available for urgent transfer if rupture occurs during endovascular coiling?",
+   "options": [
+    "Cardiology team on call",
+    "Theatre and neurosurgeon",
+    "Ward bed only",
+    "Paediatric transfer team"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#f5bcf4",
+   "kind": "mcq",
+   "stem": "In endovascular coiling, why is general anaesthesia with paralysis preferred over sedation?",
+   "options": [
+    "Paralysis shortens procedure time",
+    "Sedation causes hypertension",
+    "Sedation delays emergence",
+    "Any movement could rupture or dissect a vessel"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#a8f3a8",
+   "kind": "mcq",
+   "stem": "In endovascular coiling of intracranial aneurysms, sedation may suit which procedure?",
+   "options": [
+    "Coil deployment",
+    "Heparin reversal",
+    "Diagnostic angiography",
+    "Emergency rupture repair"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#aab47a",
+   "kind": "statement",
+   "stem": "Which two clipping principles should guide blood pressure in endovascular coiling?",
+   "answer": "Avoid hypertension and maintain cerebral perfusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#e5a7f6",
+   "kind": "mcq",
+   "stem": "In endovascular coiling, how soon after heparin should ACT be rechecked?",
+   "options": [
+    "5 min",
+    "10 min",
+    "20 min",
+    "30 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#f4244d",
+   "kind": "mcq",
+   "stem": "In the coiling heparin example, what bolus is given IV after femoral access?",
+   "options": [
+    "1000 IU",
+    "2500 IU",
+    "5000 IU",
+    "10000 IU"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#f4244d",
+   "kind": "mcq",
+   "stem": "In the coiling heparin example, what ACT target is kept during the infusion?",
+   "options": [
+    "Equal to baseline",
+    "1.1 to 1.5 times baseline",
+    "2-3 times baseline",
+    "5 to 6 times baseline"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#794121",
+   "kind": "mcq",
+   "stem": "What oral aspirin dose is given during coiling when a coil sits in the parent vessel?",
+   "options": [
+    "75 mg",
+    "100 mg",
+    "300 mg",
+    "500 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#794121",
+   "kind": "statement",
+   "stem": "After coiling with a coil in the parent vessel, which anticoagulant is continued?",
+   "answer": "IV heparin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#4ff39a",
+   "kind": "mcq",
+   "stem": "Which IV drug at 100 mcg blunts the response before intubation for endovascular coiling?",
+   "options": [
+    "Ketamine",
+    "Fentanyl",
+    "Atropine",
+    "Neostigmine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#a92107",
+   "kind": "statement",
+   "stem": "During endovascular coiling, where is distal thromboembolism seen?",
+   "answer": "On angiography",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#525c63",
+   "kind": "mcq",
+   "stem": "In endovascular coiling complications, what is the abciximab IV bolus dose?",
+   "options": [
+    "0.125 mcg/kg/min",
+    "0.25 mg/kg",
+    "10 mcg/min",
+    "0.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#525c63",
+   "kind": "mcq",
+   "stem": "In endovascular coiling complications, what is the maximum abciximab infusion rate?",
+   "options": [
+    "1 mcg/min",
+    "5 mcg/min",
+    "10 mcg/min",
+    "25 mcg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#b03cf4",
+   "kind": "mcq",
+   "stem": "When is aneurysm rupture most likely during endovascular coiling?",
+   "options": [
+    "When the first coil is deployed",
+    "At sheath removal",
+    "At heparin reversal",
+    "At extubation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#c8b692",
+   "kind": "statement",
+   "stem": "Which complication of endovascular coiling involves arterial narrowing during the procedure?",
+   "answer": "Vasospasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#67fb6e",
+   "kind": "statement",
+   "stem": "In the radiology suite for coiling, what must be kept clear of the fluoroscopy arm?",
+   "answer": "Lines and tubes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#fded53",
+   "kind": "statement",
+   "stem": "Which monitor may interfere with imaging during endovascular coiling?",
+   "answer": "BIS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#21386e",
+   "kind": "statement",
+   "stem": "What radiation protection items should be checked before endovascular coiling?",
+   "answer": "Lead aprons and screens",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#c61244",
+   "kind": "mcq",
+   "stem": "When can an intraoperative aneurysm rupture happen?",
+   "options": [
+    "Only during skin incision",
+    "Any time from induction until the aneurysm is secured",
+    "Only after clip removal",
+    "Only during emergence"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#bfc05d",
+   "kind": "statement",
+   "stem": "What usually signals an intraoperative aneurysm rupture under anaesthesia?",
+   "answer": "A sudden unexplained rise in BP or ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#18096a",
+   "kind": "mcq",
+   "stem": "During coiling, which BP and HR pattern signals raised ICP?",
+   "options": [
+    "Falling BP, rising HR",
+    "Rising BP, falling HR",
+    "Falling BP, falling HR",
+    "Rising BP, rising HR"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#317cd3",
+   "kind": "statement",
+   "stem": "What is the emergency response to an aneurysm rupture during coiling?",
+   "answer": "Declare a crisis and call for help",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#0dd82d",
+   "kind": "statement",
+   "stem": "During a coiling rupture, the interventionist may control bleeding with what?",
+   "answer": "Glue or vessel repair",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#e7d4f8",
+   "kind": "mcq",
+   "stem": "What is used to reverse heparin during a coiling rupture?",
+   "options": [
+    "Protamine",
+    "Vitamin K",
+    "Tranexamic acid",
+    "Idarucizumab"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#e0983c",
+   "kind": "statement",
+   "stem": "If rupture happens during coiling under sedation, what should be done?",
+   "answer": "Induce GA and intubate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#e0d280",
+   "kind": "statement",
+   "stem": "In intracranial aneurysm surgery, what should be treated when an aneurysm ruptures during coiling?",
+   "answer": "BP and ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#761a9e",
+   "kind": "mcq",
+   "stem": "After an aneurysm ruptures during coiling, what mannitol dose in g/kg is given?",
+   "options": [
+    "0.25 to 1 g/kg",
+    "2 to 4 g/kg",
+    "5 to 10 g/kg",
+    "0.05 to 0.1 g/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#ed6f69",
+   "kind": "mcq",
+   "stem": "After an aneurysm ruptures during coiling, how many degrees should the head be raised for venous drainage?",
+   "options": [
+    "5 degrees",
+    "15 degrees",
+    "30 degrees",
+    "45 degrees"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#7a9acf",
+   "kind": "mcq",
+   "stem": "After an aneurysm ruptures during coiling, what IV dose range of thiopentone or propofol may be requested?",
+   "options": [
+    "20 to 60 mg",
+    "5 to 10 mg",
+    "100 to 200 mg",
+    "200 to 400 mg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#7a9acf",
+   "kind": "mcq",
+   "stem": "After aneurysm rupture during coiling with EEG in use, what endpoint is used to titrate thiopentone or propofol?",
+   "options": [
+    "Burst suppression",
+    "Alpha rhythm",
+    "Slow-wave sleep pattern",
+    "Normal EEG pattern"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#0f154e",
+   "kind": "mcq",
+   "stem": "Which two drugs are used for controlled hypotension after an aneurysm ruptures during coiling?",
+   "options": [
+    "Esmolol or adenosine",
+    "Digoxin or furosemide",
+    "Ketamine or fentanyl",
+    "Noradrenaline or vasopressin"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#88f7e9",
+   "kind": "statement",
+   "stem": "After an aneurysm ruptures during coiling, what should be considered?",
+   "answer": "Rapid transfer to theatre for clipping",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#b39824",
+   "kind": "statement",
+   "stem": "If an aneurysm ruptures during clipping, where can the surgeon place temporary clips?",
+   "answer": "Proximal and distal to the bleed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#be3309",
+   "kind": "mcq",
+   "stem": "What volume of 3% sodium chloride is given for aneurysm rupture during clipping, repeated as needed?",
+   "options": [
+    "50 ml",
+    "100 ml",
+    "250 ml",
+    "500 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#be3309",
+   "kind": "mcq",
+   "stem": "What volume of 23.4% sodium chloride is given for aneurysm rupture during clipping, repeated as needed?",
+   "options": [
+    "5 ml",
+    "30 ml",
+    "60 ml",
+    "250 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#b1e6be",
+   "kind": "mcq",
+   "stem": "What serum sodium target applies during clipping of a ruptured intracranial aneurysm?",
+   "options": [
+    "170 mmol/l or more",
+    "180 mmol/l or more",
+    "120 to 125 mmol/l",
+    "155 mmol/l or less"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#f79f05",
+   "kind": "statement",
+   "stem": "During clipping of a ruptured aneurysm with an external ventricular drain (EVD), what should be avoided?",
+   "answer": "Abrupt EVD opening",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#b7e251",
+   "kind": "statement",
+   "stem": "After an aneurysm ruptures during clipping, what should be created quickly?",
+   "answer": "A bloodless field",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#5698c1",
+   "kind": "mcq",
+   "stem": "What esmolol IV dose is given as needed for induced hypotension during aneurysm clipping?",
+   "options": [
+    "10 to 20 mg",
+    "100 to 200 mg",
+    "1 to 2 mg",
+    "40 to 50 mg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#5698c1",
+   "kind": "mcq",
+   "stem": "During esmolol-induced hypotension for aneurysm clipping, what mean arterial pressure is the target?",
+   "options": [
+    "50 to 60 mmHg",
+    "70 to 80 mmHg",
+    "30 to 40 mmHg",
+    "90 to 100 mmHg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#55785d",
+   "kind": "mcq",
+   "stem": "What adenosine dose is given with the surgeon for brief circulatory arrest during aneurysm clipping?",
+   "options": [
+    "0.4 to 0.6 mg/kg",
+    "4 to 6 mg/kg",
+    "0.04 to 0.06 mg/kg",
+    "1 to 2 mg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#859b92",
+   "kind": "statement",
+   "stem": "For neuroprotection during clipping of a ruptured aneurysm, what do thiopentone or propofol aim to lower?",
+   "answer": "Cerebral metabolic rate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#6fe52a",
+   "kind": "mcq",
+   "stem": "After clipping a ruptured aneurysm, what minimum haemoglobin level should be reached?",
+   "options": [
+    "at least 4 g/dl",
+    "at least 6 g/dl",
+    "at least 8 g/dl",
+    "at least 12 g/dl"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#4a119f",
+   "kind": "blank",
+   "stem": "Endovascular treatment of vasospasm after SAH is used with ____ for symptomatic vasospasm.",
+   "answer": "medical therapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/intracranial-aneurysm-surgery#73359a",
+   "kind": "statement",
+   "stem": "Which endovascular treatment of vasospasm after SAH is used for larger spastic arteries?",
+   "answer": "Angioplasty",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

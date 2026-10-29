@@ -1,0 +1,923 @@
+{
+ "topic": "procedures/evar-tevar",
+ "questions": [
+  {
+   "fact_id": "procedures/evar-tevar#4b6f46",
+   "kind": "statement",
+   "stem": "In elective EVAR, which patient group is a key anaesthetic consideration?",
+   "answer": "Vasculopathic patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#4818a5",
+   "kind": "mcq",
+   "stem": "In emergency EVAR, which aortic technique is used?",
+   "options": [
+    "Aortic cross-clamping",
+    "Aortic balloon occlusion",
+    "Aortic root cannulation",
+    "Aortic arch bypass"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#b8bbf6",
+   "kind": "mcq",
+   "stem": "Which artery should be cannulated for the arterial line in TEVAR?",
+   "options": [
+    "Left radial artery",
+    "Right radial artery",
+    "Left femoral artery",
+    "Right femoral artery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#b8bbf6",
+   "kind": "statement",
+   "stem": "During TEVAR graft deployment, which two organ systems need protection?",
+   "answer": "Spinal cord and stroke",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#588f6b",
+   "kind": "mcq",
+   "stem": "In elective EVAR, what position is the patient placed in?",
+   "options": [
+    "Prone",
+    "Lateral decubitus",
+    "Supine",
+    "Lithotomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#adf3d6",
+   "kind": "blank",
+   "stem": "EVAR access is either percutaneous or by femoral ____.",
+   "answer": "cut-down",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#f7db14",
+   "kind": "mcq",
+   "stem": "What priority category applies to EVAR for a ruptured AAA?",
+   "options": [
+    "P1",
+    "P2",
+    "P0",
+    "P3"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#dfe8b5",
+   "kind": "mcq",
+   "stem": "How long does a typical EVAR take?",
+   "options": [
+    "15-30min",
+    "1-3hrs",
+    "24-48hrs",
+    "48-72hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#089a26",
+   "kind": "statement",
+   "stem": "EVAR blood loss is usually small, but it can be what?",
+   "answer": "Massive",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#1a9061",
+   "kind": "mcq",
+   "stem": "What is the 30-day mortality with EVAR in patients fit for open repair?",
+   "options": [
+    "0.7%",
+    "1.7%",
+    "2.7%",
+    "5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#1a9061",
+   "kind": "mcq",
+   "stem": "What is the 30-day mortality with EVAR in patients unfit for open repair?",
+   "options": [
+    "3%",
+    "9%",
+    "15%",
+    "25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#5fa80e",
+   "kind": "mcq",
+   "stem": "What is the mortality of elective open AAA repair?",
+   "options": [
+    "0.5%",
+    "2%",
+    "5%",
+    "15%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#b8fc73",
+   "kind": "mcq",
+   "stem": "Which setting suits elective EVAR, allowing conversion to open repair if needed?",
+   "options": [
+    "Standard theatre with portable X-ray",
+    "Interventional suite without surgical backup",
+    "Hybrid theatre with angiography",
+    "Endoscopy suite with fluoroscopy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#7c5b79",
+   "kind": "statement",
+   "stem": "Which anaesthetic suits short, simple infrarenal elective EVAR cases?",
+   "answer": "Local or MAC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#85ac3b",
+   "kind": "mcq",
+   "stem": "What is the practical standard anaesthetic for elective EVAR?",
+   "options": [
+    "Spinal anaesthesia",
+    "General anaesthesia",
+    "Caudal block",
+    "Local infiltration alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#732431",
+   "kind": "statement",
+   "stem": "In elective EVAR, what does the arterial line allow you to measure?",
+   "answer": "Blood gases and ACT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#680bfc",
+   "kind": "statement",
+   "stem": "When is central venous access used in elective EVAR?",
+   "answer": "For complex or long cases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#e2d100",
+   "kind": "statement",
+   "stem": "Why is large-bore IV access needed for elective EVAR?",
+   "answer": "Major bleeding is possible if converted to open",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#e68a0c",
+   "kind": "mcq",
+   "stem": "What ECG monitoring is used during elective EVAR?",
+   "options": [
+    "3-lead",
+    "2-lead",
+    "5-lead",
+    "7-lead"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#e68a0c",
+   "kind": "mcq",
+   "stem": "How often is urine output checked during elective EVAR?",
+   "options": [
+    "Every 15 minutes",
+    "Hourly",
+    "Every 4 hours",
+    "Only at end of case"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#f0a0bb",
+   "kind": "mcq",
+   "stem": "When is neuromonitoring used during elective EVAR?",
+   "options": [
+    "For all patients routinely",
+    "Only after graft deployment",
+    "If high risk of spinal cord ischaemia",
+    "Never, as it is not needed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#61211e",
+   "kind": "mcq",
+   "stem": "What IV heparin dose is usually given after access vessel cannulation in EVAR?",
+   "options": [
+    "1000 IU",
+    "5000 IU",
+    "10000 IU",
+    "2500 IU"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#c1f8c6",
+   "kind": "mcq",
+   "stem": "What ACT range is kept during elective EVAR?",
+   "options": [
+    "150–200 s",
+    "200–250 s",
+    "250–300 s",
+    "300–350 s"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#c1f8c6",
+   "kind": "mcq",
+   "stem": "Relative to baseline, what ACT multiple is kept in elective EVAR?",
+   "options": [
+    "1–1.5 times baseline",
+    "2–2.5 times baseline",
+    "3–4 times baseline",
+    "5–6 times baseline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#3cfcd5",
+   "kind": "mcq",
+   "stem": "What MAP range is targeted for controlled hypotension in elective EVAR?",
+   "options": [
+    "30-40",
+    "50-60",
+    "70-80",
+    "90-100"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#55e916",
+   "kind": "statement",
+   "stem": "Why can blood loss from large-bore sheaths be hard to judge in EVAR?",
+   "answer": "It may go into the drapes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#9c64f0",
+   "kind": "mcq",
+   "stem": "What risk does renal protection in elective EVAR target?",
+   "options": [
+    "Hypokalaemia",
+    "Rhabdomyolysis",
+    "Tumour lysis syndrome",
+    "Contrast nephropathy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#22b5b4",
+   "kind": "mcq",
+   "stem": "What proportion of elective EVAR cases need conversion to open repair?",
+   "options": [
+    "<0.2%",
+    "<2%",
+    "<20%",
+    "<50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#ff4c72",
+   "kind": "statement",
+   "stem": "How is pain usually managed after elective EVAR?",
+   "answer": "Simple oral analgesia or titrated opioid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#382fac",
+   "kind": "statement",
+   "stem": "How is limb ischaemia monitored after elective EVAR?",
+   "answer": "Regular clinical and Doppler checks of the legs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#9c9755",
+   "kind": "statement",
+   "stem": "Why are IV fluids continued after elective EVAR?",
+   "answer": "To prevent AKI and contrast nephropathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#f071aa",
+   "kind": "statement",
+   "stem": "In elective EVAR, what drives coagulopathy?",
+   "answer": "Consumption and fibrinolysis from thrombus in the excluded sac",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#70fb08",
+   "kind": "statement",
+   "stem": "In ruptured AAA, how is EVAR increasingly used?",
+   "answer": "As first-line repair",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#557a1b",
+   "kind": "statement",
+   "stem": "For ruptured AAA, which resuscitation approach is used in emergency EVAR?",
+   "answer": "Restrictive resuscitation (hypotensive haemostasis)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#f0fbac",
+   "kind": "statement",
+   "stem": "In a stable patient with ruptured AAA, what does CT help decide?",
+   "answer": "Whether anatomy is suitable for EVAR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#56f112",
+   "kind": "mcq",
+   "stem": "What complication can retroperitoneal haematoma cause in emergency EVAR?",
+   "options": [
+    "Tension pneumothorax",
+    "Abdominal compartment syndrome",
+    "Pulmonary embolism",
+    "Heparin-induced thrombocytopenia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#0c9ea4",
+   "kind": "statement",
+   "stem": "Why is stroke risk higher in thoracic TEVAR?",
+   "answer": "Wires in an atheromatous arch",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#0c9ea4",
+   "kind": "mcq",
+   "stem": "In TEVAR, coverage of which vessel raises stroke risk if the graft migrates?",
+   "options": [
+    "Right common carotid",
+    "Left common carotid",
+    "Renal artery",
+    "Superior mesenteric artery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#34526e",
+   "kind": "statement",
+   "stem": "Which complication is higher in thoracic TEVAR?",
+   "answer": "Spinal cord injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#16beb7",
+   "kind": "mcq",
+   "stem": "Which anaesthetic is used for precise graft placement in thoracic TEVAR?",
+   "options": [
+    "Local anaesthesia with sedation",
+    "General anaesthesia",
+    "Epidural anaesthesia",
+    "Spinal anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#1d90cc",
+   "kind": "statement",
+   "stem": "Why do breath-hold and controlled hypotension matter more in thoracic TEVAR?",
+   "answer": "High flow, pulsatility and nearness to the carotids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#4e8e31",
+   "kind": "mcq",
+   "stem": "What pacing rate is usually used during thoracic TEVAR deployment?",
+   "options": [
+    "90bpm",
+    "120bpm",
+    "180bpm",
+    "220bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#a3ad6e",
+   "kind": "mcq",
+   "stem": "What MAP target is kept after TEVAR graft deployment?",
+   "options": [
+    "50-60",
+    "40-50",
+    ">80-90",
+    "100-110"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#a3ad6e",
+   "kind": "mcq",
+   "stem": "Which vasopressor is used to keep MAP after TEVAR graft deployment if needed?",
+   "options": [
+    "Esmolol",
+    "Glyceryl trinitrate",
+    "Labetalol",
+    "Noradrenaline"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#50b6c9",
+   "kind": "statement",
+   "stem": "When might a left subclavian bypass be done before TEVAR?",
+   "answer": "If subclavian coverage is planned",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#78ee72",
+   "kind": "statement",
+   "stem": "Which endoleak after TEVAR is common and may need urgent reintervention?",
+   "answer": "Type 1a endoleak",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#35559c",
+   "kind": "statement",
+   "stem": "Which graft types keep gut and renal flow in thoracoabdominal TEVAR?",
+   "answer": "Fenestrated (fTEVAR) or branched (bTEVAR) grafts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#d7cd92",
+   "kind": "statement",
+   "stem": "What makes thoracoabdominal TEVAR technically hard?",
+   "answer": "Aligning the grafts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#a5a8d6",
+   "kind": "statement",
+   "stem": "Which early complication of endovascular repair can need conversion to open surgery?",
+   "answer": "Failed deployment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#be5134",
+   "kind": "statement",
+   "stem": "Which late complication of endovascular repair is especially linked to AAA?",
+   "answer": "Acute kidney injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#7243c9",
+   "kind": "statement",
+   "stem": "Which complication of endovascular repair is especially seen in thoracic and thoracoabdominal repairs?",
+   "answer": "Spinal cord ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#f062a4",
+   "kind": "statement",
+   "stem": "What causes a type I endoleak?",
+   "answer": "Poor seal at graft ends",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#defcef",
+   "kind": "mcq",
+   "stem": "What causes a type II endoleak?",
+   "options": [
+    "Poor seal at graft ends",
+    "Graft fabric failure",
+    "Retrograde filling from a branch",
+    "Porous graft material"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#defcef",
+   "kind": "mcq",
+   "stem": "Which branch vessels usually cause a type II endoleak?",
+   "options": [
+    "Renal or hepatic arteries",
+    "Subclavian or carotid arteries",
+    "Lumbar or inferior mesenteric arteries",
+    "Iliac or femoral arteries"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#fc859a",
+   "kind": "statement",
+   "stem": "What causes a type III endoleak?",
+   "answer": "Graft fabric failure (mechanical)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#dc39d9",
+   "kind": "statement",
+   "stem": "Porous graft material causes which endoleak type?",
+   "answer": "Type IV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#a0d269",
+   "kind": "statement",
+   "stem": "How is a type V endoleak defined?",
+   "answer": "Sac growth from transmitted pulsation, without a visible leak",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#ff33ce",
+   "kind": "statement",
+   "stem": "Which endoleak types may need re-intervention?",
+   "answer": "Types 1,3,5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#e43bb1",
+   "kind": "statement",
+   "stem": "How is postimplantation syndrome after EVAR or TEVAR usually described?",
+   "answer": "Common and usually benign",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#cbfb95",
+   "kind": "statement",
+   "stem": "What is the underlying process of postimplantation syndrome?",
+   "answer": "Sterile inflammatory response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#c3b675",
+   "kind": "mcq",
+   "stem": "What is used to prevent postimplantation syndrome after EVAR?",
+   "options": [
+    "IV ondansetron",
+    "Oral paracetamol",
+    "IV furosemide",
+    "IV dexamethasone"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#c3b675",
+   "kind": "statement",
+   "stem": "When can NSAIDs be used to prevent postimplantation syndrome?",
+   "answer": "If renal function allows",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#d099bf",
+   "kind": "statement",
+   "stem": "How is postimplantation syndrome diagnosed?",
+   "answer": "Diagnosis of exclusion, after ruling out infection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#77e17b",
+   "kind": "mcq",
+   "stem": "How long does postimplantation syndrome usually take to settle?",
+   "options": [
+    "Within 2 days",
+    "Within 2 weeks",
+    "Within 2 months",
+    "Within 6 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#135b4a",
+   "kind": "statement",
+   "stem": "In TEVAR, when is the spinal cord at risk?",
+   "answer": "Once grafts are deployed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#23ba58",
+   "kind": "mcq",
+   "stem": "What part of the spinal cord does the artery of Adamkiewicz mainly supply?",
+   "options": [
+    "Posterior third of the cord",
+    "Anterior third of the cord",
+    "Cauda equina only",
+    "Lateral thirds of the cord"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#b87fe0",
+   "kind": "mcq",
+   "stem": "Between which vertebral levels does the artery of Adamkiewicz most often arise?",
+   "options": [
+    "T1 to T4",
+    "T9 to T12",
+    "L3 to L5",
+    "T5 to T8"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#b87fe0",
+   "kind": "blank",
+   "stem": "In TEVAR, the artery of Adamkiewicz can arise anywhere from T8 to ____.",
+   "answer": "L2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#936910",
+   "kind": "statement",
+   "stem": "In TEVAR, why do long grafts increase spinal cord ischaemia risk?",
+   "answer": "They cover more thoracic and lumbar collaterals",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#90f619",
+   "kind": "statement",
+   "stem": "What is the intrinsic arterial blood supply of the spinal cord?",
+   "answer": "Anterior median spinal artery and paired posterior spinal arteries",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#ac15dd",
+   "kind": "statement",
+   "stem": "In TEVAR, which procedural factor adds spinal cord risk with each intercostal pair covered?",
+   "answer": "Segmental artery sacrifice",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#d42155",
+   "kind": "mcq",
+   "stem": "In TEVAR, which aneurysm type carries the highest spinal cord ischaemia risk?",
+   "options": [
+    "Isolated infrarenal aortic aneurysm",
+    "Isolated descending thoracic aneurysm",
+    "Crawford II thoracoabdominal aneurysm",
+    "Common iliac artery aneurysm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#d42155",
+   "kind": "mcq",
+   "stem": "What spinal cord ischaemia risk is quoted for a Crawford II thoracoabdominal aneurysm?",
+   "options": [
+    "5-10%",
+    "2-5%",
+    "40-50%",
+    "15-20%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#c920e5",
+   "kind": "statement",
+   "stem": "Which procedural factors cause spinal cord ischaemia during aortic repair?",
+   "answer": "Cross-clamp time (open repair); emboli from graft or clamp",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#41bad4",
+   "kind": "statement",
+   "stem": "Why do emergency aortic cases carry more spinal cord ischaemia risk?",
+   "answer": "Instability and no time for protection such as a CSF drain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#756f47",
+   "kind": "mcq",
+   "stem": "What CSF pressure does a lumbar drain aim to keep during TEVAR?",
+   "options": [
+    "30-40mmHg",
+    "20-30mmHg",
+    "<10mmHg",
+    ">20mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#558964",
+   "kind": "mcq",
+   "stem": "After TEVAR graft deployment, what MAP target protects the spinal cord?",
+   "options": [
+    "MAP 50-60",
+    "MAP >80-90",
+    "MAP 60-65",
+    "MAP 70-75"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#558964",
+   "kind": "mcq",
+   "stem": "During induced hypertension after TEVAR, what spinal cord perfusion pressure is targeted?",
+   "options": [
+    "50mmHg",
+    "60mmHg",
+    "70mmHg",
+    "80mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#1eee34",
+   "kind": "mcq",
+   "stem": "Which tests are used for spinal cord monitoring during TEVAR?",
+   "options": [
+    "BIS and entropy",
+    "SSEP and MEP",
+    "Arterial and central venous pressure",
+    "ECG ST segments"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#1eee34",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique is preferred when monitoring the spinal cord during TEVAR?",
+   "options": [
+    "Sevoflurane",
+    "TIVA",
+    "Nitrous oxide alone",
+    "Desflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#b4b4f9",
+   "kind": "blank",
+   "stem": "In TEVAR for thoracic aortic aneurysm, an early neurological exam is done after ____.",
+   "answer": "extubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#854c4f",
+   "kind": "mcq",
+   "stem": "What is the maximum lumbar CSF drain rate in aortic repair?",
+   "options": [
+    "20mL/hr",
+    "50mL/hr",
+    "10mL/hr",
+    "100mL/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#fd1a6c",
+   "kind": "mcq",
+   "stem": "During TEVAR, how much CSF should be drained if SSEP signals fall?",
+   "options": [
+    "5ml",
+    "10ml",
+    "50ml",
+    "20ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/evar-tevar#94f036",
+   "kind": "mcq",
+   "stem": "After how long clamped should a lumbar CSF drain be removed in aortic repair?",
+   "options": [
+    "12 hrs",
+    "24 hrs",
+    "48 hrs",
+    "72 hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

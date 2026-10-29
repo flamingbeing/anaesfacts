@@ -1,0 +1,947 @@
+{
+ "topic": "procedures/phaeochromocytoma-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#c035bd",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma surgery, which blocker is started first preoperatively?",
+   "options": [
+    "Beta blockade with propranolol",
+    "Calcium channel blocker",
+    "Alpha blockade with phenoxybenzamine",
+    "Diuretic therapy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#9e6041",
+   "kind": "statement",
+   "stem": "What should be ready before induction in phaeochromocytoma surgery?",
+   "answer": "Arterial line, CVP, FloTrac, vasopressors and vasodilators ready",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#44e55d",
+   "kind": "statement",
+   "stem": "Which drugs are useful in phaeochromocytoma surgery?",
+   "answer": "Remifentanil, dexmedetomidine, magnesium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#bcb606",
+   "kind": "mcq",
+   "stem": "What phentolamine bolus is given for hypertensive surges during phaeochromocytoma surgery?",
+   "options": [
+    "5mg",
+    "0.5mg",
+    "1mg",
+    "10mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#2b59c8",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma surgery, what causes hypotension?",
+   "options": [
+    "Tumour handling",
+    "Insertion of the arterial line",
+    "Ligation of the adrenal vein",
+    "Surgical incision"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#77d91f",
+   "kind": "mcq",
+   "stem": "Management of phaeochromocytoma is said to be similar to which other condition?",
+   "options": [
+    "Addison disease",
+    "Cushing syndrome",
+    "Carcinoid syndrome and tumours",
+    "Conn syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#24f774",
+   "kind": "statement",
+   "stem": "What should be given for bilateral adrenalectomy in phaeochromocytoma surgery?",
+   "answer": "Steroids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#e0ba4f",
+   "kind": "blank",
+   "stem": "A phaeochromocytoma is a tumour of ____.",
+   "answer": "chromaffin cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#088312",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma, which catecholamine is secreted most commonly?",
+   "options": [
+    "Dopamine",
+    "Isoprenaline",
+    "Phenylephrine",
+    "Noradrenaline"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#7595a3",
+   "kind": "mcq",
+   "stem": "What percentage of phaeochromocytomas occur in the abdomen or pelvis?",
+   "options": [
+    "75%",
+    "85%",
+    "95%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#7595a3",
+   "kind": "mcq",
+   "stem": "What percentage of phaeochromocytomas are bilateral?",
+   "options": [
+    "5%",
+    "10%",
+    "20%",
+    "40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#f3b411",
+   "kind": "statement",
+   "stem": "Are most phaeochromocytomas benign or malignant?",
+   "answer": "Most are benign",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#f3b411",
+   "kind": "statement",
+   "stem": "How common are phaeochromocytomas in children compared with adults?",
+   "answer": "Less common",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#14c4b0",
+   "kind": "mcq",
+   "stem": "Phaeochromocytoma in MEN2 arises from a defect on which chromosome?",
+   "options": [
+    "Chromosome 5",
+    "Chromosome 10",
+    "Chromosome 17",
+    "Chromosome 22"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#8a42d2",
+   "kind": "statement",
+   "stem": "Besides MEN2, which two syndromes is phaeochromocytoma also seen in?",
+   "answer": "Neurofibromatosis and von Hippel-Lindau syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#bd1a1d",
+   "kind": "mcq",
+   "stem": "Which breakdown products of adrenaline and noradrenaline confirm phaeochromocytoma biochemically?",
+   "options": [
+    "Cortisol and ACTH",
+    "Serotonin and 5-HIAA",
+    "Insulin and C-peptide",
+    "Metanephrine and normetanephrine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#f7e11e",
+   "kind": "statement",
+   "stem": "Which 24-hour urine test is used to confirm phaeochromocytoma?",
+   "answer": "Fractionated metanephrines and catecholamines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#319803",
+   "kind": "mcq",
+   "stem": "What sensitivity is quoted for the biochemical testing of phaeochromocytoma?",
+   "options": [
+    "70 percent",
+    "80 percent",
+    "98 percent",
+    "60 percent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#6e02c5",
+   "kind": "statement",
+   "stem": "Why is 3-methoxytyramine measured in phaeochromocytoma urine testing?",
+   "answer": "Picks up dopamine-only secretion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#6e02c5",
+   "kind": "statement",
+   "stem": "Why is urinary creatinine measured alongside phaeochromocytoma urine tests?",
+   "answer": "Confirms an adequate collection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#3b220e",
+   "kind": "statement",
+   "stem": "In phaeochromocytoma diagnosis, what is imaging used for?",
+   "answer": "To locate the tumour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#39be95",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma, at what mass size should 123I-MIBG be considered?",
+   "options": [
+    "over 3cm",
+    "over 5cm",
+    "over 10cm",
+    "over 15cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#39be95",
+   "kind": "statement",
+   "stem": "Why consider 123I-MIBG when a phaeochromocytoma mass is large?",
+   "answer": "To look for metastases or multiple tumours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#59b178",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma, what percentage of cases are familial?",
+   "options": [
+    "5%",
+    "20%",
+    "40%",
+    "80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#0297c1",
+   "kind": "statement",
+   "stem": "Has any intraoperative technique been shown to be superior for phaeochromocytoma surgery?",
+   "answer": "No single technique has been shown to be better",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#403930",
+   "kind": "statement",
+   "stem": "What is the trade-off of laparoscopic phaeochromocytoma surgery compared with open surgery?",
+   "answer": "Faster recovery, but haemodynamic instability is no less",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#adf104",
+   "kind": "mcq",
+   "stem": "Which phaeochromocytoma cases usually need open rather than laparoscopic surgery?",
+   "options": [
+    "Small adrenal masses in children",
+    "Large or invasive adrenal masses and most paragangliomas",
+    "Small non-invasive adrenal masses",
+    "Bilateral tumours in the lateral position"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#04fc0e",
+   "kind": "mcq",
+   "stem": "In laparoscopic phaeochromocytoma surgery, which patient position is used for both transabdominal and retroperitoneal routes?",
+   "options": [
+    "Supine",
+    "Prone",
+    "Lateral position",
+    "Reverse Trendelenburg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#276161",
+   "kind": "mcq",
+   "stem": "Which symptom is typical of phaeochromocytoma?",
+   "options": [
+    "Bradycardia",
+    "Palpitations",
+    "Hypothermia",
+    "Polyuria"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#33926c",
+   "kind": "statement",
+   "stem": "Which two findings should examination for phaeochromocytoma look for?",
+   "answer": "Mass, hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#e19ad2",
+   "kind": "statement",
+   "stem": "Why is alpha blockade key in phaeochromocytoma preparation?",
+   "answer": "Reduces noradrenaline effects and intraoperative hypertensive crisis, and restores blood volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#f4895a",
+   "kind": "mcq",
+   "stem": "How long before surgery should alpha blockade start in phaeochromocytoma?",
+   "options": [
+    "At least 2–3 days before surgery",
+    "At least 1 hour before surgery",
+    "At least 7–14 days before surgery",
+    "At least 14–21 days before surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#f4895a",
+   "kind": "statement",
+   "stem": "In phaeochromocytoma, what calls for a longer alpha blockade period before surgery?",
+   "answer": "Cardiomyopathy or resistant hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#5e6dfe",
+   "kind": "mcq",
+   "stem": "Which alpha blocker used before phaeochromocytoma surgery is non-selective, non-competitive and long-acting?",
+   "options": [
+    "Prazosin",
+    "Phenoxybenzamine",
+    "Doxazosin",
+    "Labetalol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#20a74f",
+   "kind": "mcq",
+   "stem": "How long before phaeochromocytoma surgery should phenoxybenzamine be stopped, given its long half-life?",
+   "options": [
+    "1–2 h before surgery",
+    "6–8 h before surgery",
+    "24–48 h before surgery",
+    "72–96 h before surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#4fd2d1",
+   "kind": "statement",
+   "stem": "Why does phenoxybenzamine cause reflex tachycardia in phaeochromocytoma patients?",
+   "answer": "It blocks presynaptic alpha-2, removing noradrenaline negative feedback, so more noradrenaline acts via beta-1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#8251d9",
+   "kind": "statement",
+   "stem": "In phaeochromocytoma alpha blockade, which adverse effects come from central alpha-2 blockade?",
+   "answer": "Somnolence, headache, nasal congestion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#f13e8d",
+   "kind": "mcq",
+   "stem": "Doxazosin, a selective alpha-1 blocker, antagonises its receptor in what manner?",
+   "options": [
+    "Irreversible",
+    "Competitive",
+    "Partial agonism",
+    "Enzyme inhibition"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#14b6bf",
+   "kind": "statement",
+   "stem": "In phaeochromocytoma, how ideally is adequacy of alpha and sympathetic block checked?",
+   "answer": "Ambulatory BP monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#caf43e",
+   "kind": "statement",
+   "stem": "Under the Roizen criteria, what BP must be held, and for how long, before phaeochromocytoma surgery?",
+   "answer": "Below 160/90 for 2 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#aa6ffc",
+   "kind": "mcq",
+   "stem": "Under the Roizen criteria, what standing BP is acceptable despite mild orthostatic hypotension?",
+   "options": [
+    "Above 70/40 mmHg",
+    "Above 90/60 mmHg",
+    "Above 80/45 mmHg",
+    "Above 100/70 mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#186e54",
+   "kind": "mcq",
+   "stem": "Under the Roizen criteria, for how long must the ECG be free of ST-T changes and PVCs?",
+   "options": [
+    "1 week",
+    "2 weeks",
+    "6 weeks",
+    "3 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#78fd95",
+   "kind": "mcq",
+   "stem": "What is the current, tighter seated blood pressure target for alpha blockade in phaeochromocytoma?",
+   "options": [
+    "Below 160/90 mm Hg",
+    "Below 140/90 mm Hg",
+    "Below 130/80 mm Hg",
+    "Below 120/70 mm Hg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#d3bdda",
+   "kind": "statement",
+   "stem": "What causes tachyarrhythmias in phaeochromocytoma?",
+   "answer": "Adrenaline- or dopamine-secreting tumours, or following alpha blockade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#2db688",
+   "kind": "mcq",
+   "stem": "Which beta blocker class is preferred for heart rate control in phaeochromocytoma?",
+   "options": [
+    "Non-selective beta blockers",
+    "Selective beta-1 blockers",
+    "Beta-2 agonists",
+    "Alpha-2 agonists"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#379dbb",
+   "kind": "statement",
+   "stem": "In phaeochromocytoma, when should beta blockers be started relative to alpha blockade?",
+   "answer": "Only after complete alpha blockade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#0f8d33",
+   "kind": "statement",
+   "stem": "In phaeochromocytoma, what risk arises if beta blockade starts before alpha blockade is complete?",
+   "answer": "Unopposed alpha vasoconstriction, risking hypertensive crisis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#861f1c",
+   "kind": "statement",
+   "stem": "In phaeochromocytoma, what should circulating volume do once alpha blockade is adequate?",
+   "answer": "Recover on its own",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#d1ea2c",
+   "kind": "mcq",
+   "stem": "What does transthoracic echocardiography look for in phaeochromocytoma patients?",
+   "options": [
+    "Pulmonary embolism",
+    "Aortic dissection",
+    "Cardiomyopathy",
+    "Renal artery stenosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#d553d9",
+   "kind": "mcq",
+   "stem": "What proportion of phaeochromocytoma patients have left ventricular systolic dysfunction?",
+   "options": [
+    "About 2%",
+    "About 10%",
+    "About 25%",
+    "About 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#b5952c",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma, catecholamines drive lipolysis through which receptor?",
+   "options": [
+    "Alpha-2 receptors",
+    "Beta-1 receptors",
+    "Alpha-1 receptors",
+    "Beta-2 receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#b5952c",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma, catecholamines reduce insulin release through which receptor?",
+   "options": [
+    "Beta-1 receptors",
+    "Alpha-1 receptors",
+    "Alpha-2 receptors",
+    "Beta-2 receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#c560dd",
+   "kind": "statement",
+   "stem": "What should electrolyte checks pick up in phaeochromocytoma assessment?",
+   "answer": "Catecholamine-induced renal impairment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#92a646",
+   "kind": "mcq",
+   "stem": "In phaeochromocytoma, what does hypercalcaemia suggest?",
+   "options": [
+    "Pituitary adenoma",
+    "Associated parathyroid adenoma",
+    "Adrenal cortical carcinoma",
+    "Renal artery stenosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#09d243",
+   "kind": "mcq",
+   "stem": "Which pre-induction finding is a risk factor for intraoperative instability in phaeochromocytoma?",
+   "options": [
+    "Small tumour size",
+    "Low plasma noradrenaline",
+    "High plasma noradrenaline",
+    "Low MAP before induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#bda5b9",
+   "kind": "mcq",
+   "stem": "Which tumour feature is a risk factor for intraoperative haemodynamic instability in phaeochromocytoma?",
+   "options": [
+    "Small tumour",
+    "Large tumour",
+    "Low plasma noradrenaline",
+    "Normal blood pressure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#70e9c3",
+   "kind": "statement",
+   "stem": "Which postural change after starting alpha blockade is a risk factor for intraoperative instability?",
+   "answer": "Marked postural drop",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#75207c",
+   "kind": "mcq",
+   "stem": "What pre-induction MAP is a risk factor for intraoperative instability in phaeochromocytoma?",
+   "options": [
+    "MAP above 70 mm Hg",
+    "MAP above 90 mm Hg",
+    "MAP above 100 mm Hg",
+    "MAP below 60 mm Hg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#4c1fc2",
+   "kind": "statement",
+   "stem": "What should the anaesthetist do about haemodynamic instability in phaeochromocytoma surgery?",
+   "answer": "Expect and manage it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#d8c9a0",
+   "kind": "mcq",
+   "stem": "Which steroid is given with bilateral adrenalectomy for phaeochromocytoma?",
+   "options": [
+    "Dexamethasone",
+    "Hydrocortisone",
+    "Prednisolone",
+    "Fludrocortisone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#fd7369",
+   "kind": "mcq",
+   "stem": "Which critical period in phaeochromocytoma surgery carries risk of haemodynamic instability?",
+   "options": [
+    "Skin closure",
+    "Induction and intubation",
+    "Positioning for surgery",
+    "Emergence from anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#d29b4d",
+   "kind": "mcq",
+   "stem": "What happens to BP and blood glucose during venous ligation in phaeochromocytoma surgery?",
+   "options": [
+    "BP rises, glucose rises",
+    "BP falls, blood glucose falls",
+    "BP rises, blood glucose falls",
+    "BP falls, blood glucose rises"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#4e7124",
+   "kind": "statement",
+   "stem": "What can an epidural do during phaeochromocytoma surgery?",
+   "answer": "Blunt sympathetic stimulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#f65bf8",
+   "kind": "statement",
+   "stem": "Which two drugs are suggested for induction in phaeochromocytoma, where instability is likely?",
+   "answer": "Remifentanil and noradrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#d1a000",
+   "kind": "mcq",
+   "stem": "What dose of phentolamine is given as a bolus for hypertensive episodes in phaeochromocytoma?",
+   "options": [
+    "1mg boluses",
+    "5mg boluses",
+    "0.25mg boluses",
+    "10mg boluses"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#5ecbe8",
+   "kind": "mcq",
+   "stem": "What is the magnesium prophylaxis regimen around induction in phaeochromocytoma surgery?",
+   "options": [
+    "2-4g before induction, then 1-2g/hr infusion",
+    "1-2g before induction, then 2-4g/hr infusion",
+    "4-6g before induction, then 2-3g/hr infusion",
+    "0.5-1g before induction, then 0.5g/hr infusion"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#44a601",
+   "kind": "mcq",
+   "stem": "What magnesium dose treats a hypertensive surge in phaeochromocytoma surgery?",
+   "options": [
+    "1g bolus as needed",
+    "4g bolus as needed",
+    "2g bolus as needed",
+    "0.5g bolus as needed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#ec3e41",
+   "kind": "statement",
+   "stem": "In phaeochromocytoma surgery, how should remifentanil be used for hypertensive episodes?",
+   "answer": "Titrate it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#995f5c",
+   "kind": "mcq",
+   "stem": "Which agent suits hypertensive episodes in phaeochromocytoma when tachycardia is also present?",
+   "options": [
+    "Hydralazine",
+    "Labetalol",
+    "Furosemide",
+    "Noradrenaline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#a4b697",
+   "kind": "mcq",
+   "stem": "How quickly does BP fall after venous ligation in phaeochromocytoma tumour removal?",
+   "options": [
+    "Over several hours",
+    "Within a few seconds",
+    "Over several minutes",
+    "Immediately after ligation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#dbf526",
+   "kind": "statement",
+   "stem": "What should be given before venous ligation in phaeochromocytoma tumour removal?",
+   "answer": "A fluid preload",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#6af325",
+   "kind": "statement",
+   "stem": "When does low MAP after venous ligation usually resolve in phaeochromocytoma surgery?",
+   "answer": "Before the end of surgery, unless other problems",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#8bd4e8",
+   "kind": "statement",
+   "stem": "At the end of phaeochromocytoma surgery, what must be ensured if magnesium was given?",
+   "answer": "Full reversal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#dd2e6d",
+   "kind": "mcq",
+   "stem": "Where should patients go after phaeochromocytoma surgery?",
+   "options": [
+    "Recovery room only",
+    "General surgical ward",
+    "Day surgery unit",
+    "HDU or ICU"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#4e3047",
+   "kind": "mcq",
+   "stem": "After phaeochromocytoma surgery, for how long should an arterial line stay in for haemodynamic monitoring?",
+   "options": [
+    "At least 6hrs",
+    "At least 12hrs",
+    "At least 24hrs",
+    "At least 48hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#1e1300",
+   "kind": "statement",
+   "stem": "What is the main glucose-related risk after phaeochromocytoma tumour removal?",
+   "answer": "Severe hypoglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#d16af6",
+   "kind": "mcq",
+   "stem": "What hydrocortisone dose is given in theatre when both adrenals are removed for phaeochromocytoma?",
+   "options": [
+    "50mg",
+    "100mg",
+    "200mg",
+    "500mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#ee7266",
+   "kind": "mcq",
+   "stem": "Which is by far the commonest sign of unexpected phaeochromocytoma during surgery?",
+   "options": [
+    "Unexplained bradycardia",
+    "Unexplained hypotension",
+    "Severe unexpected hypertension",
+    "Unexplained hypothermia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#4bc2f0",
+   "kind": "statement",
+   "stem": "If an unexpected phaeochromocytoma is suspected during surgery, what should happen if possible?",
+   "answer": "Abandon surgery to allow blockade",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#64eb72",
+   "kind": "statement",
+   "stem": "If surgery cannot be abandoned for suspected phaeochromocytoma, how should it be managed?",
+   "answer": "On the same principles as elective cases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#d7a341",
+   "kind": "mcq",
+   "stem": "In unexpected phaeochromocytoma, low MAP can reflect acute heart failure from what?",
+   "options": [
+    "Profound vasodilation",
+    "Profound vasoconstriction",
+    "Acute bradycardia",
+    "Massive haemorrhage"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#e373cc",
+   "kind": "mcq",
+   "stem": "Which drugs are considered safe in pregnancy for phaeochromocytoma?",
+   "options": [
+    "Atropine and glycopyrrolate",
+    "Sodium nitroprusside and magnesium",
+    "Phenoxybenzamine and metoprolol",
+    "Phentolamine and remifentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#dea432",
+   "kind": "statement",
+   "stem": "How should phaeochromocytoma diagnosed before mid-trimester in pregnancy be managed?",
+   "answer": "Resect it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/phaeochromocytoma-surgery#14f1a2",
+   "kind": "statement",
+   "stem": "How is phaeochromocytoma diagnosed later in pregnancy managed for delivery?",
+   "answer": "Elective LSCS, with or without resection at the same time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,629 @@
+{
+ "topic": "comorbidities/perioperative-steroids",
+ "questions": [
+  {
+   "fact_id": "comorbidities/perioperative-steroids#26db26",
+   "kind": "mcq",
+   "stem": "For perioperative cover, what UK hydrocortisone stress dose applies to prednisolone over 5 mg/day or for over 4 weeks?",
+   "options": [
+    "25 mg",
+    "50 mg",
+    "100 mg",
+    "150 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#c0c4e8",
+   "kind": "mcq",
+   "stem": "In perioperative steroid cover, which dexamethasone dose matches prednisolone 5 mg?",
+   "options": [
+    "0.4 mg",
+    "1.6 mg",
+    "0.8 mg",
+    "2 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#c0c4e8",
+   "kind": "mcq",
+   "stem": "In perioperative steroid cover, which methylprednisolone dose matches prednisolone 5 mg?",
+   "options": [
+    "1 mg",
+    "4 mg",
+    "8 mg",
+    "16 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#c4af25",
+   "kind": "mcq",
+   "stem": "Which dexamethasone dose is given for postoperative nausea and vomiting prophylaxis?",
+   "options": [
+    "2 mg",
+    "4 mg",
+    "8 mg",
+    "16 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#238127",
+   "kind": "mcq",
+   "stem": "Dexamethasone 8 mg is said to equal about how much hydrocortisone as a long-acting glucocorticoid?",
+   "options": [
+    "20 mg",
+    "200 mg",
+    "50 mg",
+    "400 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#5ee032",
+   "kind": "mcq",
+   "stem": "After a single intubating dose of etomidate, for up to how long is cortisol synthesis lowered?",
+   "options": [
+    "6 hours",
+    "12 hours",
+    "48 hours",
+    "5 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#5ee032",
+   "kind": "statement",
+   "stem": "How does etomidate affect cortisol synthesis after a single intubating dose?",
+   "answer": "Blocks conversion of 11β-deoxycortisol to cortisol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#b0544a",
+   "kind": "mcq",
+   "stem": "For perioperative steroid cover, how far back should steroid use be checked at preoperative assessment?",
+   "options": [
+    "Last 4 weeks",
+    "Last 2 years",
+    "Last 12 months",
+    "Last 5 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#e04fb1",
+   "kind": "statement",
+   "stem": "At preoperative steroid review, what two categories of indication should be recorded?",
+   "answer": "Acute or chronic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#f34789",
+   "kind": "statement",
+   "stem": "At preoperative steroid review, what current steroid details should be recorded?",
+   "answer": "Steroid type and dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#e5dc4b",
+   "kind": "statement",
+   "stem": "At preoperative steroid review, what should be recorded about the length of steroid therapy?",
+   "answer": "Duration of therapy, current or past",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#7ee080",
+   "kind": "statement",
+   "stem": "In preoperative steroid history, what disease-related event should be asked about after steroids were stopped?",
+   "answer": "Disease flare",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#5aff95",
+   "kind": "statement",
+   "stem": "In preoperative steroid history, what complication of stopping steroids should be asked about?",
+   "answer": "Adrenal insufficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#c00345",
+   "kind": "mcq",
+   "stem": "In the physiology of cortisol secretion during surgery, what is the normal basal output per day?",
+   "options": [
+    "1 to 2 mg/day",
+    "8 to 10 mg/day",
+    "50 mg/day",
+    "200 to 500 mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#8610cd",
+   "kind": "mcq",
+   "stem": "What daily cortisol secretion is reached with minor surgery or illness?",
+   "options": [
+    "about 10 mg/day",
+    "about 50 mg/day",
+    "about 100 mg/day",
+    "about 200 mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#8610cd",
+   "kind": "statement",
+   "stem": "How soon after uncomplicated surgery does cortisol secretion return to baseline?",
+   "answer": "Within 24 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#8f40fd",
+   "kind": "mcq",
+   "stem": "In greater surgical stress, such as subtotal colectomy, what daily cortisol range is reached?",
+   "options": [
+    "10 to 20 mg/day",
+    "75 to 100 mg/day",
+    "200 to 500 mg/day",
+    "50 mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#281230",
+   "kind": "mcq",
+   "stem": "In severe stress such as major trauma, what daily cortisol range can be reached?",
+   "options": [
+    "20 to 50 mg/day",
+    "75 to 100 mg/day",
+    "200 to 500 mg/day",
+    "600 to 800 mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#c707e8",
+   "kind": "blank",
+   "stem": "After surgery, cortisol secretion above 200 mg/day in the first 24 hours is ____.",
+   "answer": "rare",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#62562a",
+   "kind": "mcq",
+   "stem": "How early after starting steroids can HPA axis suppression begin?",
+   "options": [
+    "As early as 1 week",
+    "Only after 2 years",
+    "Only after 1 year",
+    "Not before 6 months"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#3ebf71",
+   "kind": "mcq",
+   "stem": "What daily prednisone-equivalent dose usually causes HPA axis suppression?",
+   "options": [
+    "0.5-1 mg/day",
+    "1-2 mg/day",
+    "5-20 mg/day or more",
+    "2-3 mg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#3403af",
+   "kind": "mcq",
+   "stem": "If steroids were stopped within the last 3 months, how should perioperative cover be planned?",
+   "options": [
+    "Treat as if still on steroids",
+    "Assume the axis has fully recovered",
+    "Give no steroid cover at all",
+    "Check only a random cortisol"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#27ad49",
+   "kind": "mcq",
+   "stem": "After severe HPA axis suppression from steroids, how long can recovery take?",
+   "options": [
+    "Up to 1 week",
+    "Up to 2 weeks",
+    "Up to a year",
+    "Up to 3 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#8b18e4",
+   "kind": "statement",
+   "stem": "What two factors should guide the choice of perioperative steroid regimen?",
+   "answer": "Preoperative steroid dose and size of the surgical stimulus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#f9a6e8",
+   "kind": "statement",
+   "stem": "What should be done when the steroid history is uncertain in perioperative planning?",
+   "answer": "Test the HPA axis or give a short perioperative steroid course",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#134651",
+   "kind": "mcq",
+   "stem": "In assessing HPA axis suppression, what does the category 'not significant' correspond to?",
+   "options": [
+    "Indeterminate",
+    "Functionally suppressed",
+    "Likely suppressed",
+    "Not suppressed"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#739d61",
+   "kind": "mcq",
+   "stem": "For HPA axis assessment, any steroid dose is not significant if taken for under how long?",
+   "options": [
+    "6 weeks",
+    "3 months",
+    "3 weeks",
+    "1 year"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#a226bb",
+   "kind": "mcq",
+   "stem": "In HPA axis assessment, morning steroid doses under 5 mg/day prednisone equivalent are called what?",
+   "options": [
+    "Adrenal suppression",
+    "Physiological replacement",
+    "Stress dosing",
+    "Supraphysiological dosing"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#fb2df8",
+   "kind": "mcq",
+   "stem": "Prednisone given every other day, under what prednisone-equivalent dose, does not suppress the HPA axis?",
+   "options": [
+    "20 mg",
+    "30 mg",
+    "10 mg",
+    "40 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#ddecaa",
+   "kind": "mcq",
+   "stem": "If the HPA axis is judged suppressed, what should be assumed for perioperative planning?",
+   "options": [
+    "Normal adrenal reserve",
+    "Functional suppression",
+    "Normal cortisol response",
+    "Full axis recovery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#4d56c0",
+   "kind": "mcq",
+   "stem": "How is a prednisone equivalent of over 5-20 mg/day for more than 3 weeks classed for the HPA axis?",
+   "options": [
+    "Not significant",
+    "Physiological replacement",
+    "Stress dosing",
+    "Suppressed"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#624229",
+   "kind": "mcq",
+   "stem": "How consistent is HPA suppression with prednisone equivalent 5 to 20 mg for over 3 weeks?",
+   "options": [
+    "Consistently suppressed",
+    "Always fully suppressed",
+    "Varies widely",
+    "Never suppressed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#4e4608",
+   "kind": "statement",
+   "stem": "What can evening prednisone under 5 mg daily disturb in the HPA axis?",
+   "answer": "The diurnal rhythm and stress response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#150124",
+   "kind": "mcq",
+   "stem": "Which test is used first to screen for HPA axis suppression?",
+   "options": [
+    "Midnight cortisol",
+    "24-hour urinary cortisol",
+    "8am cortisol",
+    "Random plasma ACTH"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#54faa8",
+   "kind": "mcq",
+   "stem": "What 8am cortisol level suggests the HPA axis is likely suppressed?",
+   "options": [
+    "Over 18 mcg/dL (over 497 nmol/L)",
+    "Under 5 mcg/dL (under 138 nmol/L)",
+    "5 to 10 mcg/dL (138 to 276 nmol/L)",
+    "Over 10 mcg/dL (over 276 nmol/L)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#fc2e7c",
+   "kind": "statement",
+   "stem": "What 8am cortisol level makes HPA suppression unlikely?",
+   "answer": "Over 10 mcg/dL (over 276 nmol/L)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#621a2d",
+   "kind": "mcq",
+   "stem": "If the 8am cortisol is indeterminate, which test is used next to assess the HPA axis?",
+   "options": [
+    "Insulin tolerance test",
+    "Overnight dexamethasone test",
+    "Short Synacthen test",
+    "Water deprivation test"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#051c6c",
+   "kind": "mcq",
+   "stem": "What cosyntropin dose is given before cortisol is measured at 30 and 60 minutes?",
+   "options": [
+    "25 mcg",
+    "500 mcg",
+    "250 mcg",
+    "750 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#4e993e",
+   "kind": "statement",
+   "stem": "What peak cortisol after cosyntropin means the HPA axis is not suppressed?",
+   "answer": "Over 18 mcg/dL (over 497 nmol/L)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#5e0d06",
+   "kind": "mcq",
+   "stem": "For HPA axis assessment, what daily inhaled steroid dose is high enough to suppress the axis?",
+   "options": [
+    "100 mcg daily or more",
+    "200 mcg daily or more",
+    "1500 mcg daily or more",
+    "400 mcg daily or more"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#144162",
+   "kind": "mcq",
+   "stem": "For HPA axis assessment, what daily amount of high or super high potency topical steroid is high enough to suppress the axis?",
+   "options": [
+    "0.2 g/day or more",
+    "0.5 g/day or more",
+    "1 g/day or more",
+    "2 g/day or more"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#440707",
+   "kind": "mcq",
+   "stem": "In perioperative steroid supplementation, which category covers inguinal hernia repair?",
+   "options": [
+    "Moderate stress",
+    "Major stress",
+    "Minor surgery or local anaesthesia",
+    "Severe stress"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#9f5fd7",
+   "kind": "mcq",
+   "stem": "In perioperative steroid supplementation, which category covers joint replacement surgery?",
+   "options": [
+    "Minor surgery or local anaesthesia",
+    "Major stress",
+    "Moderate stress",
+    "Severe stress"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#33689b",
+   "kind": "mcq",
+   "stem": "For moderate surgical stress, what hydrocortisone dose and timing are given?",
+   "options": [
+    "Hydrocortisone 25 mg IV just before the procedure",
+    "Hydrocortisone 50 mg IV just before the procedure",
+    "Hydrocortisone 100 mg IV before induction",
+    "Hydrocortisone 25 mg IV every eight hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#bbe86e",
+   "kind": "mcq",
+   "stem": "In perioperative steroid supplementation, which category covers open heart surgery?",
+   "options": [
+    "Moderate stress",
+    "Minor surgery or local anaesthesia",
+    "Major stress",
+    "Severe stress"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#a8c306",
+   "kind": "mcq",
+   "stem": "For major surgical stress, what hydrocortisone dose is given before induction?",
+   "options": [
+    "Hydrocortisone 50 mg IV before induction",
+    "Hydrocortisone 100 mg IV before induction",
+    "Hydrocortisone 25 mg IV before induction",
+    "Hydrocortisone 100 mg IV every eight hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#a8c306",
+   "kind": "blank",
+   "stem": "For major surgical stress, after the pre-induction dose, hydrocortisone 50 mg is given every ____ hours for 24 hours.",
+   "answer": "eight",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#1d8511",
+   "kind": "blank",
+   "stem": "After stress-dose hydrocortisone, the dose is halved each day back to maintenance, usually over ____ days.",
+   "answer": "2-3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#26ff23",
+   "kind": "mcq",
+   "stem": "On a short Synacthen test, what peak cortisol traditionally defines adrenal insufficiency?",
+   "options": [
+    "Under 5 mcg/dL (138 nmol/L)",
+    "Under 18 mcg/dL (497 nmol/L)",
+    "Over 18 mcg/dL (497 nmol/L)",
+    "Under 10 mcg/dL (276 nmol/L)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#fe42a5",
+   "kind": "mcq",
+   "stem": "Under the 2020 UK guideline, what hydrocortisone dose is given for any surgery under anaesthesia, including oocyte retrieval?",
+   "options": [
+    "Hydrocortisone 25 mg",
+    "Hydrocortisone 50 mg",
+    "Hydrocortisone 100 mg",
+    "Hydrocortisone 200 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/perioperative-steroids#3338e8",
+   "kind": "mcq",
+   "stem": "Under the 2020 UK guideline, which prednisolone-equivalent dose given for 4 weeks or longer is adrenosuppressive?",
+   "options": [
+    "Prednisolone equivalent of 1 mg or more",
+    "Prednisolone equivalent of 2.5 mg or more",
+    "Prednisolone equivalent of 5 mg or more",
+    "Prednisolone equivalent of 1 mg or less"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

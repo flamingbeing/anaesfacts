@@ -1,0 +1,505 @@
+{
+ "topic": "procedures/posterior-fossa-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#50016f",
+   "kind": "statement",
+   "stem": "In posterior fossa surgery, which tumour often arises from the fourth ventricle?",
+   "answer": "Glioma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#e45446",
+   "kind": "statement",
+   "stem": "Which posterior fossa tumour arises from CN8 at the cerebellopontine angle and is usually benign?",
+   "answer": "Acoustic neuroma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#a78734",
+   "kind": "statement",
+   "stem": "What posterior fossa operation is used to treat Arnold-Chiari malformation?",
+   "answer": "Foramen magnum decompression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#19af4c",
+   "kind": "statement",
+   "stem": "In posterior fossa neurosurgery, which drug may be needed to control raised intracranial pressure?",
+   "answer": "Mannitol",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#19af4c",
+   "kind": "statement",
+   "stem": "Which blood preparation is advised for bleeding risk in posterior fossa surgery?",
+   "answer": "Group and crossmatch, with blood on standby",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#4b8dd2",
+   "kind": "statement",
+   "stem": "What haemodynamic problems can brainstem handling cause in posterior fossa surgery?",
+   "answer": "Bradycardia and cardiac arrest",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#4b8dd2",
+   "kind": "mcq",
+   "stem": "After brainstem handling in posterior fossa surgery, how often does cranial nerve palsy occur?",
+   "options": [
+    "1.9%",
+    "7.4%",
+    "4.8%",
+    "13.5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#cfade6",
+   "kind": "statement",
+   "stem": "What complication can cerebellar handling cause in posterior fossa surgery?",
+   "answer": "Cerebellar mutism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#adf06a",
+   "kind": "statement",
+   "stem": "Where does obstructive hydrocephalus after posterior fossa surgery usually occur?",
+   "answer": "At the 4th ventricle or cerebral aqueduct",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#2f60ae",
+   "kind": "statement",
+   "stem": "In posterior fossa surgery, what causes pneumocephalus to lead to delayed waking?",
+   "answer": "Trapped subarachnoid air expands after dural closure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#58fef3",
+   "kind": "mcq",
+   "stem": "What is the reported CSF leak rate after posterior fossa surgery?",
+   "options": [
+    "8%",
+    "13%",
+    "18%",
+    "24%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#584b05",
+   "kind": "mcq",
+   "stem": "What is the reported meningitis rate after posterior fossa surgery?",
+   "options": [
+    "2.6%",
+    "9.2%",
+    "4.8%",
+    "12.3%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#584b05",
+   "kind": "mcq",
+   "stem": "What is the reported wound infection rate after posterior fossa surgery?",
+   "options": [
+    "3%",
+    "5.6%",
+    "7%",
+    "11%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#df36c8",
+   "kind": "mcq",
+   "stem": "What is the reported death rate after posterior fossa surgery?",
+   "options": [
+    "0.6%",
+    "4.6%",
+    "6.2%",
+    "2.6%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#1a8264",
+   "kind": "statement",
+   "stem": "Which positioning gives good access to midline structures in posterior fossa surgery?",
+   "answer": "Prone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#8629e5",
+   "kind": "statement",
+   "stem": "Why is the sitting position now rarely used for posterior fossa surgery?",
+   "answer": "High risk of venous air embolism and pneumocephalus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#5ea7a8",
+   "kind": "statement",
+   "stem": "Why is the lateral position useful in posterior fossa surgery?",
+   "answer": "Gravity drains blood and CSF; good for one-sided procedures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#6d5b1d",
+   "kind": "statement",
+   "stem": "In selected posterior fossa patients, what does the park bench position avoid?",
+   "answer": "Prone positioning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#07fc2b",
+   "kind": "statement",
+   "stem": "For acoustic neuroma surgery done supine, how are the head and shoulder positioned?",
+   "answer": "Head turned away, sandbag under the same-side shoulder",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#0960d3",
+   "kind": "blank",
+   "stem": "In posterior fossa surgery, premedication should avoid ____.",
+   "answer": "sedatives",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#c97199",
+   "kind": "statement",
+   "stem": "What should posterior fossa surgery counselling cover about care after surgery?",
+   "answer": "Possible HD or ICU, and ventilation after surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#3ce974",
+   "kind": "statement",
+   "stem": "Which standard ASA monitors are used for posterior fossa surgery?",
+   "answer": "ECG, NIBP, SpO2, ETCO2 and end-tidal agent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#2dd3d8",
+   "kind": "statement",
+   "stem": "What thromboprophylaxis is used during posterior fossa surgery?",
+   "answer": "TED stockings and pneumatic compression devices",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#0a95de",
+   "kind": "statement",
+   "stem": "Which induction technique is used for posterior fossa surgery?",
+   "answer": "GA with IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#326944",
+   "kind": "mcq",
+   "stem": "What IV thiopentone dose is used for induction in posterior fossa surgery?",
+   "options": [
+    "1-2mg/kg",
+    "3-5mg/kg",
+    "0.5-1mg/kg",
+    "8-10mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#326944",
+   "kind": "mcq",
+   "stem": "What IV propofol dose is used for induction in posterior fossa surgery?",
+   "options": [
+    "0.5-1mg/kg",
+    "5-6mg/kg",
+    "10-20mg/kg",
+    "2-3mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#6d5526",
+   "kind": "mcq",
+   "stem": "Which lignocaine IV dose blunts the pressor response to intubation in posterior fossa surgery?",
+   "options": [
+    "0.5mg/kg",
+    "3mg/kg",
+    "1.5mg/kg",
+    "4mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#6d5526",
+   "kind": "mcq",
+   "stem": "Which labetalol IV dose blunts the pressor response to intubation in posterior fossa surgery?",
+   "options": [
+    "1-2mg IV",
+    "25-50mg IV",
+    "5-10mg IV",
+    "100-200mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#40d7a1",
+   "kind": "mcq",
+   "stem": "What propofol target concentration is used for TIVA with remifentanil in posterior fossa surgery?",
+   "options": [
+    "0.5-1 mcg/ml",
+    "8-10 mcg/ml",
+    "3-6 mcg/ml",
+    "1-2 mcg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#40d7a1",
+   "kind": "mcq",
+   "stem": "For posterior fossa maintenance, what concentration limit applies to sevoflurane or isoflurane?",
+   "options": [
+    "Above 1 MAC",
+    "Above 2 MAC",
+    "Exactly 1 MAC",
+    "Below 1 MAC"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#4b74ce",
+   "kind": "mcq",
+   "stem": "Why should nitrous oxide be avoided in posterior fossa surgery?",
+   "options": [
+    "It lowers cerebral blood flow",
+    "It reduces intracranial air",
+    "It enlarges venous air emboli",
+    "It lowers cerebral metabolic oxygen demand"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#e6094a",
+   "kind": "mcq",
+   "stem": "During posterior fossa neuromonitoring, which remifentanil rate avoids neuromuscular block?",
+   "options": [
+    "0.5-1 mcg/kg/min",
+    "1-2 mcg/kg/min",
+    "0.15-0.25 mcg/kg/min",
+    "0.02-0.05 mcg/kg/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#2d0f61",
+   "kind": "mcq",
+   "stem": "What fentanyl bolus dose is an alternative to remifentanil in posterior fossa surgery?",
+   "options": [
+    "100-150 mcg boluses",
+    "25-50 mcg boluses",
+    "1-2 mcg/kg boluses",
+    "5 mcg/kg boluses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#2d0f61",
+   "kind": "mcq",
+   "stem": "What alfentanil infusion rate is an alternative to remifentanil in posterior fossa surgery?",
+   "options": [
+    "10-15 mcg/kg/h",
+    "25-50 mcg/kg/h",
+    "0.5-1 mcg/kg/h",
+    "100-200 mcg/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#a7b700",
+   "kind": "statement",
+   "stem": "In posterior fossa surgery, what is injected at Mayfield pin sites to blunt the pressor response?",
+   "answer": "Local anaesthetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#a7b700",
+   "kind": "mcq",
+   "stem": "What propofol bolus dose blunts the pressor response to the Mayfield pin holder?",
+   "options": [
+    "5-6mg/kg",
+    "0.5-1mg/kg",
+    "10-20mg/kg",
+    "0.05-0.1mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#fc2488",
+   "kind": "mcq",
+   "stem": "In posterior fossa surgery with cerebral oedema, what daily fluid limit is advised?",
+   "options": [
+    "10ml/kg/day",
+    "60ml/kg/day",
+    "15ml/kg/day",
+    "30ml/kg/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#88471b",
+   "kind": "mcq",
+   "stem": "What PaCO2 range is aimed for with mild hypocapnia in posterior fossa tumour surgery?",
+   "options": [
+    "40-45mmHg",
+    "20-25mmHg",
+    "30-34mmHg",
+    "36-40mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#0a1499",
+   "kind": "mcq",
+   "stem": "What phenytoin loading dose is given for seizure prophylaxis in posterior fossa surgery?",
+   "options": [
+    "10mg/kg",
+    "3mg/kg",
+    "15mg/kg",
+    "25mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#0a1499",
+   "kind": "mcq",
+   "stem": "After the loading dose, how is phenytoin given for seizure prophylaxis in posterior fossa surgery?",
+   "options": [
+    "1mg/kg twice daily",
+    "8-10mg/kg once daily",
+    "3-4mg/kg once each morning",
+    "300mg twice daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#b6a376",
+   "kind": "statement",
+   "stem": "What should be avoided during extubation after posterior fossa surgery?",
+   "answer": "Coughing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#4a95f8",
+   "kind": "statement",
+   "stem": "Where should posterior fossa surgery patients usually be monitored afterwards?",
+   "answer": "HD or ICU",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#cb44e8",
+   "kind": "statement",
+   "stem": "Which preoperative state means a posterior fossa patient stays intubated on the way to ICU?",
+   "answer": "Poor preoperative GCS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#cb44e8",
+   "kind": "statement",
+   "stem": "Which intraoperative problems mean a posterior fossa patient stays intubated on the way to ICU?",
+   "answer": "Bleeding or nerve injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#5abc2f",
+   "kind": "mcq",
+   "stem": "What paracetamol dose is used on the ward for mild to moderate post-craniotomy pain?",
+   "options": [
+    "500mg",
+    "2g",
+    "4g",
+    "1g"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/posterior-fossa-surgery#5abc2f",
+   "kind": "mcq",
+   "stem": "What codeine phosphate dose is used on the ward for mild to moderate post-craniotomy pain?",
+   "options": [
+    "15-30mg",
+    "120-150mg",
+    "60-90mg",
+    "5mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

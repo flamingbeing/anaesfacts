@@ -1,0 +1,531 @@
+{
+ "topic": "comorbidities/sickle-cell-disease-children",
+ "questions": [
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#34e4d3",
+   "kind": "blank",
+   "stem": "Sickle cell disease is a haemoglobinopathy affecting ____ synthesis.",
+   "answer": "beta-chain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#a7a82a",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, which amino acid replaces glutamic acid at position 6 of the beta chain?",
+   "options": [
+    "Lysine",
+    "Valine",
+    "Alanine",
+    "Glycine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#a7a82a",
+   "kind": "mcq",
+   "stem": "On which chromosome is the sickle cell beta-chain mutation located?",
+   "options": [
+    "Chromosome 6",
+    "Chromosome 9",
+    "Chromosome 11",
+    "Chromosome 16"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#2e7dac",
+   "kind": "statement",
+   "stem": "What genotype and severity define sickle cell anaemia (HbSS)?",
+   "answer": "Homozygous, severe",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#9da1a2",
+   "kind": "mcq",
+   "stem": "Which genotype is sickle cell trait (HbAS)?",
+   "options": [
+    "Homozygous",
+    "Hemizygous",
+    "Heterozygous",
+    "Mosaic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#9da1a2",
+   "kind": "mcq",
+   "stem": "How severe is sickle cell trait (HbAS) usually?",
+   "options": [
+    "Severe",
+    "Mild",
+    "Moderate",
+    "Life-threatening"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#03c630",
+   "kind": "mcq",
+   "stem": "Where is sickle cell prevalence highest, with up to 40% of the population affected?",
+   "options": [
+    "Northern Europe and Scandinavia",
+    "Central Asia and Mongolia",
+    "Tropical Africa and Madagascar",
+    "Eastern Europe and Russia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#0885a8",
+   "kind": "mcq",
+   "stem": "In the UK black population, roughly what share have HbSS sickle cell anaemia?",
+   "options": [
+    "About 2.5%",
+    "About 10%",
+    "About 0.25%",
+    "About 25%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#0885a8",
+   "kind": "mcq",
+   "stem": "In the UK black population, what is the upper estimate for HbAS sickle cell trait?",
+   "options": [
+    "Up to 2%",
+    "Up to 10%",
+    "Up to 25%",
+    "Up to 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#be2d74",
+   "kind": "statement",
+   "stem": "In sickle cell disease, which conditions make deoxygenated HbS red cells sickle?",
+   "answer": "Hypoxia, acidosis, cold or cellular dehydration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#1c1b16",
+   "kind": "statement",
+   "stem": "In sickle cell disease, what do deoxygenated HbS molecules form that deforms the cell membrane?",
+   "answer": "Stacked crystals",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#09444c",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, what happens to blood viscosity?",
+   "options": [
+    "It falls",
+    "It stays unchanged",
+    "It rises",
+    "It halves"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#588fbb",
+   "kind": "statement",
+   "stem": "In sickle cell disease, how does microvascular thrombosis perpetuate sickling?",
+   "answer": "It worsens local hypoxia, causing further sickling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#d92413",
+   "kind": "mcq",
+   "stem": "How long do irreversibly sickled cells survive in sickle cell disease?",
+   "options": [
+    "About 7 days",
+    "About 60 days",
+    "About 45 days",
+    "About 20 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#05664f",
+   "kind": "mcq",
+   "stem": "From what age does sickle cell disease typically present?",
+   "options": [
+    "From birth",
+    "After 3 months of age",
+    "After 12 months of age",
+    "After 6 months of age"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#62e2e3",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, what does a higher HbF level mean for severity?",
+   "options": [
+    "Earlier presentation",
+    "Milder disease",
+    "More severe disease",
+    "No effect on disease"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#69e9ee",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, what percentage of haemoglobin is HbF?",
+   "options": [
+    "1-2%",
+    "5-15%",
+    "25-35%",
+    "40-50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#69e9ee",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, what percentage of haemoglobin is HbS?",
+   "options": [
+    "10-20%",
+    "60-70%",
+    "75-80%",
+    "85-95%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#39ae28",
+   "kind": "statement",
+   "stem": "In sickle cell disease, which groups are screened where incidence is high?",
+   "answer": "Pregnant women and neonates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#d36397",
+   "kind": "mcq",
+   "stem": "From what age is penicillin prophylaxis started in children with sickle cell disease?",
+   "options": [
+    "At birth",
+    "2 months",
+    "6 months",
+    "4 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#d36397",
+   "kind": "statement",
+   "stem": "Which vaccines help prevent infection in children with sickle cell disease?",
+   "answer": "Pneumococcal and H. influenzae vaccines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#8db7e5",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, which test screens at-risk patients before surgery?",
+   "options": [
+    "Full blood count",
+    "Coombs test",
+    "Sickledex test",
+    "Clotting screen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#165c3d",
+   "kind": "statement",
+   "stem": "Before surgery in sickle cell disease, which two organ systems need checking for end-organ damage?",
+   "answer": "Renal and respiratory",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#f84181",
+   "kind": "statement",
+   "stem": "In sickle cell disease with an active infection, what is the advice for planned surgery?",
+   "answer": "Postpone elective surgery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#21b352",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, how does hydroxyurea help some patients?",
+   "options": [
+    "By lowering HbF",
+    "By raising HbF",
+    "By raising HbA",
+    "By thinning the blood"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#bf51d3",
+   "kind": "statement",
+   "stem": "In sickle cell anaesthesia, what is the main goal for avoiding sickling?",
+   "answer": "Maintain oxygenation throughout",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#b9a4cf",
+   "kind": "mcq",
+   "stem": "In HbSS, at what PaO2 does sickling become irreversible?",
+   "options": [
+    "Below 3.5 kPa",
+    "Below 5.5 kPa",
+    "Below 8.0 kPa",
+    "Below 13.3 kPa"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#b9a4cf",
+   "kind": "mcq",
+   "stem": "In HbSS, at what SaO2 do all red cells sickle?",
+   "options": [
+    "Below 30%",
+    "Below 70%",
+    "Below 50%",
+    "Below 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#13fe34",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, which acid-base state should be avoided to limit sickling?",
+   "options": [
+    "Alkalosis",
+    "Acidosis",
+    "Hyperkalaemia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#0bcea4",
+   "kind": "mcq",
+   "stem": "What postoperative problem raises sickling risk in sickle cell disease?",
+   "options": [
+    "Hyperglycaemia",
+    "Cold and shivering",
+    "Raised blood pressure",
+    "Excess urine output"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#0bcea4",
+   "kind": "statement",
+   "stem": "In sickle cell disease, how should hypothermia be avoided?",
+   "answer": "Monitor temperature and actively warm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#67a0c9",
+   "kind": "statement",
+   "stem": "What does the evidence show for fluid loading to prevent sickling in sickle cell disease?",
+   "answer": "Little evidence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#df7b25",
+   "kind": "mcq",
+   "stem": "In sickle cell dilution transfusion, which haemoglobin replaces HbS?",
+   "options": [
+    "HbF",
+    "HbC",
+    "HbA",
+    "HbE"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#3a77be",
+   "kind": "mcq",
+   "stem": "How does exchange transfusion compare with simple transfusion for complications in sickle cell disease?",
+   "options": [
+    "Fewer iatrogenic complications",
+    "More iatrogenic complications",
+    "Less sickling",
+    "Greater sickling"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#73bf76",
+   "kind": "mcq",
+   "stem": "In sickle cell disease, for which genotype is transfusion recommended before major surgery?",
+   "options": [
+    "Heterozygous patients",
+    "Homozygous patients",
+    "Patients with sickle cell trait",
+    "Patients undergoing minor surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#3e8132",
+   "kind": "mcq",
+   "stem": "How long before elective surgery is transfusion given in sickle cell disease?",
+   "options": [
+    "Same day",
+    "5-7 days",
+    "1-2 days",
+    "2-3 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#1fc557",
+   "kind": "mcq",
+   "stem": "In HbSS, what HbS percentage should preoperative transfusion target?",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#1fc557",
+   "kind": "mcq",
+   "stem": "What haematocrit should preoperative transfusion target in sickle cell disease?",
+   "options": [
+    "20%",
+    "30%",
+    "40%",
+    "45%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#de6f83",
+   "kind": "statement",
+   "stem": "In sickle cell transfusion, which blood groups commonly cause alloimmunisation?",
+   "answer": "Rhesus, Kell, Lewis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#b304d8",
+   "kind": "statement",
+   "stem": "Why is cell salvage not used in sickle cell disease?",
+   "answer": "Sickling in the cell saver is common",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#51d786",
+   "kind": "mcq",
+   "stem": "How do surgical morbidity and mortality in sickle cell disease compare with normal?",
+   "options": [
+    "Much lower",
+    "Slightly lower",
+    "The same",
+    "Much higher"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#3c8193",
+   "kind": "mcq",
+   "stem": "After surgery in sickle cell disease, what threshold applies to HDU or ICU admission?",
+   "options": [
+    "High threshold",
+    "Fixed threshold",
+    "Low threshold",
+    "No threshold"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#4bdf46",
+   "kind": "mcq",
+   "stem": "Which sickle cell crisis causes a sudden fall in haemoglobin and reticulocytes?",
+   "options": [
+    "Painful crisis",
+    "Sequestration crisis",
+    "Aplastic crisis",
+    "Acute chest syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/sickle-cell-disease-children#4bdf46",
+   "kind": "statement",
+   "stem": "What are the treatments for aplastic and haemolytic sickle cell crises?",
+   "answer": "Transfusion and analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
