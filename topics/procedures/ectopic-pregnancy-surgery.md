@@ -37,3 +37,8 @@ Laparotomy or laparoscopy to stop bleeding from a ruptured tubal pregnancy.
   - A: Ketamine.
 - Q: What bloods are sent on arrival?
   - A: Crossmatch, FBC and coagulation screen.
+
+<!-- related:start (generated) -->
+## Related
+- [Obstetric Anaesthesia](obstetric-anaesthesia.md)
+<!-- related:end -->

@@ -105,10 +105,12 @@ Catheter in the epidural space for continuous or intermittent drug delivery, for
 
 <!-- related:start (generated) -->
 ## Related
+- [Lumbar Epidural Anaesthesia and Analgesia](lumbar-epidural.md)
 - [High Spinal and Total Spinal Anaesthesia](../crises/high-spinal.md)
 - [Caesarean Section](../procedures/caesarean-section.md)
 - [Central Neuraxial Blocks](central-neuraxial-blocks.md)
 - [Complications of Neuraxial Blocks](complications-of-neuraxial-blocks.md)
+- [Lumbar Epidural Technique](lumbar-epidural-technique.md)
 - [Neurological injury after neuraxial blocks](neurological-injury-after-neuraxial-blocks.md)
 - [Paediatric Epidural Blockade](paediatric-epidural.md)
 <!-- related:end -->

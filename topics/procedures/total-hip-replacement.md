@@ -98,5 +98,6 @@ Like a hip fracture operation but elective and without the fall; key issues are 
 <!-- related:start (generated) -->
 ## Related
 - [Hip Surgery](hip-surgery.md)
+- [Bone Cement Implantation Syndrome](../crises/bone-cement-implantation-syndrome.md)
 - [Total Knee Replacement](total-knee-replacement.md)
 <!-- related:end -->

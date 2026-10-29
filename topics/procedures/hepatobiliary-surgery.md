@@ -45,5 +45,6 @@ Liver surgery risks major bleeding (keep CVP low); biliary surgery ranges from r
 
 <!-- related:start (generated) -->
 ## Related
+- [Liver resection](liver-resection.md)
 - [Laparoscopic Surgery](laparoscopic-surgery.md)
 <!-- related:end -->

@@ -68,5 +68,6 @@ Syndrome caused by excess plasma cortisol.
 ## Related
 - [Addison's Disease and Adrenocortical Insufficiency](addisons-disease.md)
 - [Diabetes Mellitus](diabetes-mellitus.md)
+- [Obstructive Sleep Apnoea](obstructive-sleep-apnoea.md)
 - [Conn's Syndrome](conns-syndrome.md)
 <!-- related:end -->

@@ -1609,6 +1609,388 @@
   ]
  },
  {
+  "path": "topics/comorbidities/lumbar-spinal-stenosis.md",
+  "title": "Lumbar Spinal Stenosis",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "spine",
+   "neuraxial",
+   "neurology"
+  ],
+  "aliases": [
+   "spinal stenosis",
+   "lumbar canal stenosis",
+   "neurogenic claudication"
+  ],
+  "related": [
+   "regional/spinal-anaesthesia-technique",
+   "regional/lumbar-epidural-technique",
+   "procedures/spine-surgery-overview"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/marfan-and-ehlers-danlos-syndromes.md",
+  "title": "Marfan and Ehlers-Danlos Syndromes",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "connective-tissue",
+   "genetic",
+   "cardiovascular",
+   "positioning"
+  ],
+  "aliases": [
+   "Marfan syndrome",
+   "Marfan's",
+   "Ehlers-Danlos",
+   "EDS",
+   "connective tissue disorders"
+  ],
+  "related": [
+   "comorbidities/aortic-dissection",
+   "comorbidities/scoliosis",
+   "comorbidities/prosthetic-heart-valves",
+   "procedures/scoliosis-surgery"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/miscellaneous-haematological-conditions.md",
+  "title": "Miscellaneous Haematological Conditions",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "haematology",
+   "polycythaemia",
+   "myeloproliferative",
+   "thrombosis"
+  ],
+  "aliases": [
+   "polycythaemia",
+   "polycythaemia vera",
+   "PV",
+   "PCV",
+   "essential thrombocythaemia",
+   "ET",
+   "porphyria",
+   "myeloproliferative disorders"
+  ],
+  "related": [
+   "comorbidities/porphyria",
+   "comorbidities/haematology-overview",
+   "comorbidities/thrombophilia",
+   "drugs/low-molecular-weight-heparin"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/mitral-regurgitation.md",
+  "title": "Mitral Regurgitation and Mitral Valve Prolapse",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "valvular",
+   "comorbidity"
+  ],
+  "aliases": [
+   "MR",
+   "MVP",
+   "mitral valve prolapse",
+   "mitral incompetence"
+  ],
+  "related": [
+   "comorbidities/mitral-stenosis",
+   "comorbidities/aortic-regurgitation",
+   "comorbidities/valvular-heart-disease",
+   "procedures/mitral-valve-surgery"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/mitral-stenosis.md",
+  "title": "Mitral Stenosis",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "valvular",
+   "pulmonary-hypertension",
+   "haemodynamics"
+  ],
+  "aliases": [
+   "MS",
+   "mitral valve stenosis",
+   "rheumatic mitral stenosis"
+  ],
+  "related": [
+   "comorbidities/valvular-heart-disease",
+   "comorbidities/pulmonary-hypertension",
+   "comorbidities/atrial-fibrillation",
+   "comorbidities/aortic-stenosis",
+   "procedures/hypotensive-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/multiple-sclerosis.md",
+  "title": "Multiple sclerosis",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neurology",
+   "demyelination",
+   "neuromuscular-blockade"
+  ],
+  "aliases": [
+   "MS",
+   "demyelinating disease"
+  ],
+  "related": [
+   "comorbidities/neuromuscular-diseases",
+   "comorbidities/neurological-comorbidities-overview",
+   "drugs/suxamethonium",
+   "regional/spinal-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/myasthenia-gravis.md",
+  "title": "Myasthenia Gravis and Lambert-Eaton Syndrome",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuromuscular",
+   "autoimmune",
+   "nmba",
+   "myasthenia"
+  ],
+  "aliases": [
+   "MG",
+   "myasthenia",
+   "LEMS",
+   "Lambert-Eaton myasthenic syndrome",
+   "myasthenic crisis",
+   "cholinergic crisis"
+  ],
+  "related": [
+   "drugs/sugammadex",
+   "drugs/pyridostigmine",
+   "drugs/rocuronium",
+   "procedures/thymectomy",
+   "drugs/perioperative-steroids"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/necrotising-fasciitis.md",
+  "title": "Necrotising fasciitis",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "sepsis",
+   "infection",
+   "debridement",
+   "icu"
+  ],
+  "aliases": [
+   "NF",
+   "nec fasc",
+   "necrotizing fasciitis",
+   "flesh-eating infection",
+   "LRINEC"
+  ],
+  "related": [
+   "crises/sepsis",
+   "procedures/lower-limb-amputation",
+   "procedures/orthopaedic-surgery-overview"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/neonatal-anaesthesia.md",
+  "title": "Neonatal anaesthesia",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "paediatrics",
+   "neonate",
+   "thermoregulation",
+   "apnoea"
+  ],
+  "aliases": [
+   "neonates",
+   "newborn anaesthesia",
+   "infant anaesthesia",
+   "neonatal physiology"
+  ],
+  "related": [
+   "comorbidities/prematurity",
+   "physiology/paediatric-physiology",
+   "airway/paediatric-airway",
+   "procedures/neonatal-surgery",
+   "physiology/paediatric-fluids"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/neuromuscular-diseases.md",
+  "title": "Neuromuscular diseases",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuromuscular",
+   "myopathy",
+   "suxamethonium",
+   "respiratory",
+   "tiva"
+  ],
+  "aliases": [
+   "neuromuscular disorders",
+   "NMD",
+   "myopathy",
+   "muscular dystrophy",
+   "Duchenne muscular dystrophy",
+   "DMD",
+   "myotonic dystrophy",
+   "dystrophia myotonica",
+   "motor neurone disease",
+   "MND",
+   "ALS"
+  ],
+  "related": [
+   "comorbidities/myasthenia-gravis",
+   "comorbidities/guillain-barre-syndrome",
+   "comorbidities/multiple-sclerosis",
+   "crises/malignant-hyperthermia",
+   "drugs/suxamethonium"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/obesity.md",
+  "title": "Obesity",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "obesity",
+   "airway",
+   "osa",
+   "pharmacology",
+   "positioning"
+  ],
+  "aliases": [
+   "morbid obesity",
+   "bariatric patient",
+   "BMI",
+   "obesity hypoventilation syndrome",
+   "OHS",
+   "Pickwickian syndrome",
+   "lean body weight",
+   "adjusted body weight"
+  ],
+  "related": [
+   "comorbidities/obstructive-sleep-apnoea",
+   "airway/difficult-airway-management",
+   "airway/preoxygenation",
+   "comorbidities/gastro-oesophageal-reflux",
+   "physiology/weight-scalars-for-drug-dosing"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/obstetric-complications.md",
+  "title": "Obstetric Complications and Anaesthesia",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "obstetrics",
+   "fetal-distress",
+   "tocolysis",
+   "pregnancy"
+  ],
+  "aliases": [
+   "fetal distress",
+   "fetal bradycardia",
+   "intrauterine resuscitation",
+   "SPOILT",
+   "tocolysis",
+   "twin pregnancy",
+   "multiple pregnancy",
+   "VBAC",
+   "fibroids in pregnancy",
+   "preterm labour"
+  ],
+  "related": [
+   "procedures/caesarean-section",
+   "drugs/terbutaline",
+   "drugs/glyceryl-trinitrate",
+   "crises/obstetric-haemorrhage",
+   "crises/uterine-rupture"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/obstructive-sleep-apnoea.md",
+  "title": "Obstructive Sleep Apnoea",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "respiratory",
+   "airway",
+   "sleep",
+   "obesity"
+  ],
+  "aliases": [
+   "OSA",
+   "sleep apnoea",
+   "sleep apnea",
+   "STOP-BANG",
+   "polysomnography",
+   "PSG",
+   "sleep study",
+   "AHI",
+   "UPPP",
+   "uvulopalatopharyngoplasty"
+  ],
+  "related": [
+   "comorbidities/obesity",
+   "comorbidities/obesity-hypoventilation-syndrome",
+   "airway/difficult-airway",
+   "procedures/tonsillectomy"
+  ]
+ },
+ {
+  "path": "topics/comorbidities/opioid-dependence.md",
+  "title": "Opioid-Dependent Patients",
+  "area": "comorbidities",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "opioids",
+   "addiction",
+   "pain",
+   "tolerance"
+  ],
+  "aliases": [
+   "opioid use disorder",
+   "OUD",
+   "opioid tolerance",
+   "opioid dependence",
+   "chronic opioid use"
+  ],
+  "related": [
+   "drugs/opioids",
+   "drugs/ketamine",
+   "drugs/clonidine",
+   "drugs/naloxone",
+   "other/acute-pain-management"
+  ]
+ },
+ {
   "path": "topics/comorbidities/perioperative-acute-kidney-injury.md",
   "title": "Perioperative acute kidney injury and renal protection",
   "area": "comorbidities",
@@ -1760,6 +2142,32 @@
    "comorbidities/diabetes-mellitus",
    "comorbidities/frailty",
    "procedures/vascular-surgery"
+  ]
+ },
+ {
+  "path": "topics/crises/bone-cement-implantation-syndrome.md",
+  "title": "Bone Cement Implantation Syndrome",
+  "area": "crises",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "orthopaedics",
+   "cement",
+   "embolism",
+   "hip-fracture"
+  ],
+  "aliases": [
+   "BCIS",
+   "cement reaction",
+   "PMMA reaction",
+   "bone cement syndrome"
+  ],
+  "related": [
+   "crises/fat-embolism-syndrome",
+   "procedures/hip-fracture-surgery",
+   "procedures/orthopaedic-surgery-overview",
+   "comorbidities/pulmonary-hypertension",
+   "crises/cardiac-arrest"
   ]
  },
  {
@@ -4905,6 +5313,32 @@
   ]
  },
  {
+  "path": "topics/equipment/anaesthetic-machine.md",
+  "title": "Anaesthetic Machine",
+  "area": "equipment",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "machine",
+   "gas-supply",
+   "vaporizer",
+   "equipment"
+  ],
+  "aliases": [
+   "anaesthesia machine",
+   "anesthesia workstation",
+   "Boyle's machine",
+   "gas delivery system"
+  ],
+  "related": [
+   "equipment/vaporizers",
+   "equipment/flowmeters",
+   "equipment/circle-system",
+   "equipment/scavenging",
+   "equipment/oxygen-failure-alarm"
+  ]
+ },
+ {
   "path": "topics/equipment/circle-system.md",
   "title": "Circle System and Low Flow Anaesthesia",
   "area": "equipment",
@@ -4960,6 +5394,40 @@
    "equipment/breathing-systems",
    "equipment/scavenging",
    "equipment/machine-checklist"
+  ]
+ },
+ {
+  "path": "topics/equipment/depth-of-anaesthesia-monitoring.md",
+  "title": "Depth of Anaesthesia Monitoring",
+  "area": "equipment",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "monitoring",
+   "bis",
+   "eeg",
+   "awareness",
+   "depth-of-anaesthesia"
+  ],
+  "aliases": [
+   "BIS",
+   "Bispectral Index",
+   "processed EEG",
+   "pEEG",
+   "DoA monitoring",
+   "Sedline",
+   "PSI",
+   "Entropy",
+   "NARCOguide",
+   "Guedel stages",
+   "isolated forearm technique"
+  ],
+  "related": [
+   "physiology/eeg-spectral-analysis",
+   "other/intraoperative-awareness",
+   "comorbidities/postoperative-delirium",
+   "drugs/propofol",
+   "procedures/tiva"
   ]
  },
  {
@@ -5285,6 +5753,32 @@
    "physiology/stress-response-to-surgery",
    "drugs/protamine",
    "drugs/neuromuscular-blockers"
+  ]
+ },
+ {
+  "path": "topics/physiology/anaesthetic-agents-icp-cbf-cmr.md",
+  "title": "Effect of Anaesthetic Agents on ICP, CBF and CMR",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuroanaesthesia",
+   "cerebral-physiology",
+   "icp"
+  ],
+  "aliases": [
+   "cerebral blood flow",
+   "cerebral metabolic rate",
+   "CMRO2",
+   "flow-metabolism coupling",
+   "intracranial pressure"
+  ],
+  "related": [
+   "procedures/craniotomy",
+   "physiology/cerebral-blood-flow",
+   "drugs/propofol",
+   "drugs/ketamine",
+   "drugs/isoflurane"
   ]
  },
  {
@@ -6165,6 +6659,34 @@
   ]
  },
  {
+  "path": "topics/procedures/cholecystectomy.md",
+  "title": "Cholecystectomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "general-surgery",
+   "laparoscopy",
+   "day-surgery",
+   "ponv"
+  ],
+  "aliases": [
+   "lap chole",
+   "laparoscopic cholecystectomy",
+   "open cholecystectomy",
+   "gallbladder surgery",
+   "IOC",
+   "intraoperative cholangiogram"
+  ],
+  "related": [
+   "procedures/laparoscopic-surgery",
+   "procedures/general-surgery-overview",
+   "regional/tap-block",
+   "other/ponv",
+   "comorbidities/sepsis"
+  ]
+ },
+ {
   "path": "topics/procedures/clavicle-surgery.md",
   "title": "Clavicle Surgery",
   "area": "procedures",
@@ -6350,6 +6872,29 @@
    "regional/rectus-sheath-block",
    "other/patient-blood-management",
    "physiology/temperature-regulation"
+  ]
+ },
+ {
+  "path": "topics/procedures/dacrocystorhinostomy.md",
+  "title": "Dacrocystorhinostomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "ophthalmic",
+   "lacrimal",
+   "eye"
+  ],
+  "aliases": [
+   "DCR",
+   "lacrimal apparatus surgery",
+   "tear duct surgery",
+   "dacryocystorhinostomy"
+  ],
+  "related": [
+   "procedures/eye-surgery-overview",
+   "procedures/open-globe-injury",
+   "procedures/nasal-surgery"
   ]
  },
  {
@@ -6958,6 +7503,31 @@
   ]
  },
  {
+  "path": "topics/procedures/hand-replantation.md",
+  "title": "Hand Replantation and Upper Limb Revascularisation",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "microsurgery",
+   "plastics",
+   "hand",
+   "regional"
+  ],
+  "aliases": [
+   "replant",
+   "digit replantation",
+   "finger replantation",
+   "microsurgery"
+  ],
+  "related": [
+   "procedures/plastic-surgery-microsurgery",
+   "procedures/hand-surgery",
+   "regional/brachial-plexus-catheter",
+   "procedures/free-flap-surgery"
+  ]
+ },
+ {
   "path": "topics/procedures/hand-surgery.md",
   "title": "Hand and Forearm Surgery",
   "area": "procedures",
@@ -7414,6 +7984,30 @@
   ]
  },
  {
+  "path": "topics/procedures/laparoscopic-gynaecological-surgery.md",
+  "title": "Laparoscopic Gynaecological Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "gynaecology",
+   "laparoscopy",
+   "day-surgery"
+  ],
+  "aliases": [
+   "gynae laparoscopy",
+   "diagnostic laparoscopy",
+   "laparoscopic ovarian cystectomy"
+  ],
+  "related": [
+   "procedures/laparoscopic-surgery",
+   "procedures/gynaecology-overview",
+   "drugs/mivacurium",
+   "crises/gas-embolism",
+   "other/ponv"
+  ]
+ },
+ {
   "path": "topics/procedures/laparoscopic-surgery.md",
   "title": "Laparoscopic Surgery",
   "area": "procedures",
@@ -7470,6 +8064,32 @@
   ]
  },
  {
+  "path": "topics/procedures/laser-surgery.md",
+  "title": "Laser surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "laser",
+   "fire-safety",
+   "airway",
+   "ent"
+  ],
+  "aliases": [
+   "laser airway surgery",
+   "laser safety",
+   "LASER",
+   "CO2 laser"
+  ],
+  "related": [
+   "crises/airway-fire",
+   "equipment/laser-resistant-tracheal-tubes",
+   "equipment/laser-physics",
+   "procedures/ent-surgery-overview",
+   "airway/jet-ventilation"
+  ]
+ },
+ {
   "path": "topics/procedures/limb-fractures.md",
   "title": "Limb Fractures",
   "area": "procedures",
@@ -7495,6 +8115,614 @@
    "crises/fat-embolism-syndrome",
    "equipment/tourniquet",
    "procedures/foot-and-ankle-surgery"
+  ]
+ },
+ {
+  "path": "topics/procedures/liver-resection.md",
+  "title": "Liver resection",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "hpb",
+   "low-cvp",
+   "haemorrhage",
+   "liver"
+  ],
+  "aliases": [
+   "hepatectomy",
+   "hemihepatectomy",
+   "liver resection surgery",
+   "laparoscopic hepatectomy",
+   "Pringle manoeuvre",
+   "ALPPS"
+  ],
+  "related": [
+   "procedures/hpb-surgery-overview",
+   "physiology/hepatic-blood-flow",
+   "comorbidities/liver-disease",
+   "regional/thoracic-epidural",
+   "drugs/tranexamic-acid"
+  ]
+ },
+ {
+  "path": "topics/procedures/liver-transplantation.md",
+  "title": "Liver Transplantation",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "transplant",
+   "hepatobiliary",
+   "coagulation",
+   "reperfusion"
+  ],
+  "aliases": [
+   "DDLT",
+   "deceased donor liver transplant",
+   "OLT",
+   "orthotopic liver transplant",
+   "post-reperfusion syndrome",
+   "anhepatic phase"
+  ],
+  "related": [
+   "comorbidities/chronic-liver-disease",
+   "comorbidities/acute-liver-failure",
+   "procedures/living-donor-liver-transplantation",
+   "procedures/renal-transplantation",
+   "procedures/organ-procurement"
+  ]
+ },
+ {
+  "path": "topics/procedures/living-donor-liver-transplant.md",
+  "title": "Living Donor Liver Transplant",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "transplant",
+   "liver",
+   "hepatobiliary"
+  ],
+  "aliases": [
+   "LDLT",
+   "living donor liver transplantation",
+   "living donor hepatectomy"
+  ],
+  "related": [
+   "procedures/liver-transplantation",
+   "procedures/hepatectomy",
+   "comorbidities/liver-cirrhosis"
+  ]
+ },
+ {
+  "path": "topics/procedures/living-donor-nephrectomy.md",
+  "title": "Living Kidney Donor Nephrectomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "urology",
+   "transplant",
+   "renal",
+   "donor"
+  ],
+  "aliases": [
+   "LDKT",
+   "living donor kidney transplant",
+   "donor nephrectomy",
+   "living related donor"
+  ],
+  "related": [
+   "procedures/nephrectomy",
+   "procedures/renal-transplantation",
+   "physiology/renal-protection",
+   "regional/paravertebral-block"
+  ]
+ },
+ {
+  "path": "topics/procedures/lower-limb-amputation.md",
+  "title": "Major lower limb amputation",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vascular",
+   "orthopaedic",
+   "regional",
+   "sepsis"
+  ],
+  "aliases": [
+   "BKA",
+   "AKA",
+   "below knee amputation",
+   "above knee amputation",
+   "transtibial amputation",
+   "transfemoral amputation"
+  ],
+  "related": [
+   "physiology/phantom-limb-pain",
+   "comorbidities/necrotising-fasciitis",
+   "regional/popliteal-sciatic-block",
+   "regional/adductor-canal-block",
+   "procedures/vascular-surgery-overview"
+  ]
+ },
+ {
+  "path": "topics/procedures/lower-limb-angioplasty.md",
+  "title": "Lower Limb Angioplasty and Stenting",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vascular",
+   "endovascular",
+   "remote-site"
+  ],
+  "aliases": [
+   "peripheral angioplasty",
+   "endovascular revascularisation",
+   "PTA",
+   "lower limb stenting"
+  ],
+  "related": [
+   "procedures/vascular-surgery",
+   "regional/popliteal-block",
+   "regional/saphenous-nerve-block",
+   "crises/anaphylaxis",
+   "drugs/contrast-media"
+  ]
+ },
+ {
+  "path": "topics/procedures/lower-limb-revascularisation.md",
+  "title": "Lower Limb Revascularisation and Critical Limb Ischaemia",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vascular",
+   "ischaemia",
+   "revascularisation"
+  ],
+  "aliases": [
+   "CLI",
+   "critical limb ischaemia",
+   "peripheral arterial disease",
+   "PAD",
+   "femoral bypass",
+   "lower limb bypass"
+  ],
+  "related": [
+   "procedures/vascular-anaesthesia",
+   "comorbidities/peripheral-arterial-disease",
+   "procedures/lower-limb-amputation",
+   "drugs/antiplatelets"
+  ]
+ },
+ {
+  "path": "topics/procedures/lumbar-spine-surgery.md",
+  "title": "Lumbar Spine Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "spine",
+   "prone",
+   "neuromonitoring"
+  ],
+  "aliases": [
+   "lumbar laminectomy",
+   "lumbar fusion",
+   "TLIF",
+   "microdiscectomy",
+   "lumbar discectomy",
+   "foraminal block",
+   "lumbar decompression"
+  ],
+  "related": [
+   "procedures/spine-surgery",
+   "procedures/prone-positioning",
+   "physiology/neuromonitoring",
+   "procedures/cervical-spine-surgery",
+   "drugs/tranexamic-acid"
+  ]
+ },
+ {
+  "path": "topics/procedures/lung-resection-surgery.md",
+  "title": "Lung Resection Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "thoracic",
+   "one-lung-ventilation",
+   "preoperative-assessment",
+   "lung-cancer"
+  ],
+  "aliases": [
+   "lobectomy",
+   "pneumonectomy",
+   "wedge resection",
+   "segmentectomy",
+   "thoracotomy",
+   "three-legged stool",
+   "ppoFEV1",
+   "ThRCRI"
+  ],
+  "related": [
+   "procedures/vats",
+   "procedures/non-intubated-vats",
+   "physiology/one-lung-ventilation",
+   "equipment/double-lumen-tube",
+   "physiology/cardiopulmonary-exercise-testing"
+  ]
+ },
+ {
+  "path": "topics/procedures/major-surgery.md",
+  "title": "Major Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "major-surgery",
+   "haemorrhage",
+   "haemodynamics",
+   "temperature"
+  ],
+  "aliases": [
+   "major surgery anaesthesia",
+   "major operations"
+  ],
+  "related": [
+   "procedures/duration-of-surgery",
+   "physiology/intraoperative-blood-loss",
+   "procedures/estimating-blood-loss",
+   "equipment/rotem",
+   "physiology/perioperative-hypothermia"
+  ]
+ },
+ {
+  "path": "topics/procedures/mediastinoscopy.md",
+  "title": "Mediastinoscopy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "thoracic",
+   "mediastinum",
+   "haemorrhage",
+   "shared-airway"
+  ],
+  "aliases": [
+   "cervical mediastinoscopy",
+   "Chamberlain procedure",
+   "anterior mediastinotomy",
+   "transthoracic mediastinoscopy"
+  ],
+  "related": [
+   "comorbidities/anterior-mediastinal-mass",
+   "procedures/thoracic-surgery-overview",
+   "procedures/one-lung-ventilation",
+   "crises/major-haemorrhage"
+  ]
+ },
+ {
+  "path": "topics/procedures/microlaryngeal-surgery.md",
+  "title": "Microlaryngeal Surgery, Microlaryngoscopy and Panendoscopy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "ent",
+   "airway",
+   "jet-ventilation",
+   "shared-airway"
+  ],
+  "aliases": [
+   "MLS",
+   "microlaryngoscopy",
+   "panendoscopy",
+   "MLB",
+   "suspension laryngoscopy",
+   "MLT tube",
+   "microlaryngeal tube"
+  ],
+  "related": [
+   "equipment/jet-ventilation",
+   "procedures/airway-surgery",
+   "airway/shared-airway",
+   "crises/airway-fire",
+   "procedures/rigid-bronchoscopy"
+  ]
+ },
+ {
+  "path": "topics/procedures/middle-ear-surgery.md",
+  "title": "Middle Ear Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "ent",
+   "ear",
+   "ponv",
+   "facial-nerve",
+   "hypotensive-anaesthesia"
+  ],
+  "aliases": [
+   "tympanoplasty",
+   "mastoidectomy",
+   "myringoplasty",
+   "ossiculoplasty",
+   "stapedectomy",
+   "cochlear implant",
+   "ear surgery"
+  ],
+  "related": [
+   "procedures/laser-surgery",
+   "physiology/intraoperative-neuromonitoring",
+   "procedures/hypotensive-anaesthesia",
+   "other/ponv",
+   "procedures/ent-overview"
+  ]
+ },
+ {
+  "path": "topics/procedures/misc-eye-procedures.md",
+  "title": "Miscellaneous Eye Procedures",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "ophthalmology",
+   "oculoplastics",
+   "mac"
+  ],
+  "aliases": [
+   "pterygium excision",
+   "entropion repair",
+   "ectropion repair",
+   "ptosis repair",
+   "blepharoplasty",
+   "frontalis sling",
+   "eyelid reconstruction",
+   "oculoplastics"
+  ],
+  "related": [
+   "procedures/cataract-surgery",
+   "regional/eye-blocks",
+   "procedures/monitored-anaesthesia-care",
+   "comorbidities/myasthenia-gravis"
+  ]
+ },
+ {
+  "path": "topics/procedures/misc-neurosurgical-procedures.md",
+  "title": "Miscellaneous Neurosurgical Procedures",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neurosurgery",
+   "neuroanaesthesia",
+   "cerebral-perfusion"
+  ],
+  "aliases": [
+   "EC-IC bypass",
+   "ECIC bypass",
+   "extracranial-intracranial bypass",
+   "STA-MCA bypass",
+   "stereotactic biopsy",
+   "moyamoya"
+  ],
+  "related": [
+   "procedures/craniotomy",
+   "physiology/cerebral-blood-flow",
+   "comorbidities/moyamoya-disease",
+   "procedures/intracranial-aneurysm-clipping"
+  ]
+ },
+ {
+  "path": "topics/procedures/mitral-valve-surgery.md",
+  "title": "Mitral Valve Surgery",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cardiac",
+   "valvular",
+   "bypass"
+  ],
+  "aliases": [
+   "MVR",
+   "mitral valve replacement",
+   "mitral valve repair",
+   "mitral repair"
+  ],
+  "related": [
+   "comorbidities/mitral-stenosis",
+   "comorbidities/mitral-regurgitation",
+   "procedures/cardiopulmonary-bypass",
+   "comorbidities/hypertrophic-cardiomyopathy",
+   "equipment/transoesophageal-echocardiography"
+  ]
+ },
+ {
+  "path": "topics/procedures/mri-anaesthesia.md",
+  "title": "Anaesthesia for MRI",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "remote-site",
+   "imaging",
+   "safety",
+   "paediatrics"
+  ],
+  "aliases": [
+   "MRI",
+   "magnetic resonance imaging",
+   "iMRI",
+   "intraoperative MRI",
+   "MRI sedation",
+   "5 gauss line"
+  ],
+  "related": [
+   "procedures/remote-site-anaesthesia",
+   "procedures/neuroradiology",
+   "procedures/paediatric-sedation",
+   "equipment/infusion-pumps"
+  ]
+ },
+ {
+  "path": "topics/procedures/nephrectomy.md",
+  "title": "Nephrectomy",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "urology",
+   "renal",
+   "major-surgery",
+   "blood-loss"
+  ],
+  "aliases": [
+   "radical nephrectomy",
+   "partial nephrectomy",
+   "laparoscopic nephrectomy",
+   "robotic nephrectomy",
+   "open nephrectomy"
+  ],
+  "related": [
+   "procedures/living-donor-nephrectomy",
+   "procedures/robotic-surgery",
+   "procedures/lateral-positioning",
+   "regional/thoracic-epidural",
+   "procedures/massive-transfusion"
+  ]
+ },
+ {
+  "path": "topics/procedures/neuroanaesthesia.md",
+  "title": "Neuroanaesthesia Summary",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuro",
+   "icp",
+   "cerebral-perfusion",
+   "neuroprotection"
+  ],
+  "aliases": [
+   "neurosurgery",
+   "neurosurgical anaesthesia",
+   "craniotomy",
+   "neuroanesthesia"
+  ],
+  "related": [
+   "procedures/craniotomy",
+   "procedures/posterior-fossa-surgery",
+   "procedures/neuroradiology",
+   "physiology/cerebral-blood-flow",
+   "physiology/intracranial-pressure"
+  ]
+ },
+ {
+  "path": "topics/procedures/neuroradiology.md",
+  "title": "Interventional Neuroradiology",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuroanaesthesia",
+   "remote-site",
+   "endovascular"
+  ],
+  "aliases": [
+   "INR",
+   "neurointerventional radiology",
+   "cerebral angiography",
+   "AVM embolisation",
+   "carotid stenting",
+   "CAS"
+  ],
+  "related": [
+   "procedures/aneurysm-coiling",
+   "procedures/endovascular-thrombectomy",
+   "procedures/carotid-endarterectomy",
+   "procedures/remote-site-anaesthesia",
+   "physiology/anaesthetic-agents-icp-cbf-cmr"
+  ]
+ },
+ {
+  "path": "topics/procedures/non-intubated-vats.md",
+  "title": "Non-Intubated VATS",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "thoracic",
+   "spontaneous-ventilation",
+   "regional",
+   "lma"
+  ],
+  "aliases": [
+   "NIVATS",
+   "awake VATS",
+   "tubeless VATS",
+   "non-intubated thoracoscopic surgery"
+  ],
+  "related": [
+   "procedures/vats",
+   "procedures/lung-resection-surgery",
+   "regional/paravertebral-block",
+   "physiology/one-lung-ventilation"
+  ]
+ },
+ {
+  "path": "topics/procedures/nuss-bar-insertion-and-removal.md",
+  "title": "Nuss Bar Insertion and Removal",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "thoracic",
+   "pectus-excavatum",
+   "paediatric",
+   "lung-isolation"
+  ],
+  "aliases": [
+   "Nuss procedure",
+   "MIRPE",
+   "pectus excavatum repair",
+   "Ravitch procedure"
+  ],
+  "related": [
+   "procedures/vats",
+   "airway/one-lung-ventilation",
+   "procedures/thoracic-surgery",
+   "comorbidities/pectus-excavatum"
+  ]
+ },
+ {
+  "path": "topics/procedures/obstetric-anaesthesia.md",
+  "title": "Obstetric Anaesthesia",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "obstetrics",
+   "pregnancy",
+   "fetus"
+  ],
+  "aliases": [
+   "obstetrics",
+   "obstetric anesthesia",
+   "parturient"
+  ],
+  "related": [
+   "procedures/caesarean-section",
+   "procedures/labour-analgesia",
+   "procedures/nonobstetric-surgery-in-pregnancy",
+   "physiology/physiology-of-pregnancy",
+   "airway/obstetric-airway"
   ]
  },
  {
@@ -7631,6 +8859,57 @@
    "crises/massive-haemorrhage",
    "comorbidities/heart-failure",
    "procedures/vascular-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/procedures/open-globe-injury.md",
+  "title": "Open globe and penetrating eye injury",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "ophthalmic",
+   "intraocular-pressure",
+   "rsi",
+   "emergency"
+  ],
+  "aliases": [
+   "open eye injury",
+   "penetrating eye injury",
+   "globe rupture",
+   "open globe"
+  ],
+  "related": [
+   "physiology/intraocular-pressure",
+   "drugs/suxamethonium",
+   "airway/rapid-sequence-induction",
+   "procedures/eye-surgery-overview"
+  ]
+ },
+ {
+  "path": "topics/procedures/organ-procurement.md",
+  "title": "Organ Procurement for Transplantation",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "transplant",
+   "organ-donation",
+   "ischaemia"
+  ],
+  "aliases": [
+   "organ retrieval",
+   "organ donation",
+   "DBD",
+   "DCD",
+   "donation after brain death",
+   "donation after circulatory death",
+   "ischaemic time"
+  ],
+  "related": [
+   "procedures/brain-death-and-organ-donor-management",
+   "procedures/liver-transplantation",
+   "procedures/renal-transplantation"
   ]
  },
  {
@@ -8553,6 +9832,60 @@
    "regional/sciatic-nerve-block",
    "regional/femoral-nerve-block",
    "regional/peng-block"
+  ]
+ },
+ {
+  "path": "topics/regional/lumbar-epidural-technique.md",
+  "title": "Lumbar Epidural Technique",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "epidural",
+   "neuraxial",
+   "labour",
+   "technique"
+  ],
+  "aliases": [
+   "lumbar epidural",
+   "epidural insertion",
+   "labour epidural",
+   "loss of resistance",
+   "LOR",
+   "hanging drop",
+   "paramedian epidural",
+   "Tuohy needle"
+  ],
+  "related": [
+   "regional/epidural-anaesthesia",
+   "regional/spinal-anaesthesia-technique",
+   "regional/epidural-troubleshooting",
+   "procedures/labour-analgesia",
+   "regional/post-dural-puncture-headache"
+  ]
+ },
+ {
+  "path": "topics/regional/lumbar-epidural.md",
+  "title": "Lumbar Epidural Anaesthesia and Analgesia",
+  "area": "regional",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuraxial",
+   "epidural",
+   "obstetric"
+  ],
+  "aliases": [
+   "lumbar epidural",
+   "epidural analgesia",
+   "epidural anaesthesia"
+  ],
+  "related": [
+   "regional/spinal-anaesthesia",
+   "regional/combined-spinal-epidural",
+   "regional/neuraxial-complications",
+   "procedures/labour-analgesia",
+   "procedures/caesarean-section"
   ]
  },
  {

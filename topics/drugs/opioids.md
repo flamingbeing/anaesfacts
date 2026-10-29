@@ -312,4 +312,5 @@ Drugs acting at opioid receptors (mainly mu) to give analgesia and sedation; res
 - [Remifentanil](remifentanil.md)
 - [Naloxone](naloxone.md)
 - [Tramadol](tramadol.md)
+- [Opioid-Dependent Patients](../comorbidities/opioid-dependence.md)
 <!-- related:end -->

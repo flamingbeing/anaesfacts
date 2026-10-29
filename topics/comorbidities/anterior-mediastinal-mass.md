@@ -262,7 +262,9 @@ A mass that can compress the airway, great vessels and heart, often only after l
 
 <!-- related:start (generated) -->
 ## Related
+- [Myasthenia Gravis and Lambert-Eaton Syndrome](myasthenia-gravis.md)
 - [Cancer and chemotherapy](cancer-and-chemotherapy.md)
 - [Cardiac Tamponade](cardiac-tamponade.md)
 - [Hyperthyroidism](hyperthyroidism.md)
+- [Mediastinoscopy](../procedures/mediastinoscopy.md)
 <!-- related:end -->

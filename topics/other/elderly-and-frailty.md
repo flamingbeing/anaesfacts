@@ -105,5 +105,6 @@ Elderly patients are multisystem, often frail and prone to delirium: reduce dose
 <!-- related:start (generated) -->
 ## Related
 - [Altered mental status, dementia and delirium](../comorbidities/altered-mental-status-dementia-delirium.md)
+- [Depth of Anaesthesia Monitoring](../equipment/depth-of-anaesthesia-monitoring.md)
 - [Hip Fracture](../procedures/hip-fracture.md)
 <!-- related:end -->

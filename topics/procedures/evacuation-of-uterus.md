@@ -57,3 +57,8 @@ Relax the uterus for exploration, then restore tone to limit bleeding; RSI from 
   - A: LMA under 16 weeks; ETT with RSI over 16 weeks
 - Q: Once exploration is done, how is uterine tone restored?
   - A: Avoid high-concentration volatile (use propofol and opioid) and give oxytocin 5IU IV
+
+<!-- related:start (generated) -->
+## Related
+- [Obstetric Anaesthesia](obstetric-anaesthesia.md)
+<!-- related:end -->

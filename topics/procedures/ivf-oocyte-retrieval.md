@@ -104,6 +104,7 @@ Short, high-turnover day cases: keep pain and PONV low and limit drug exposure t
 
 <!-- related:start (generated) -->
 ## Related
+- [Obstetric Anaesthesia](obstetric-anaesthesia.md)
 - [Propofol](../drugs/propofol.md)
 - [Fentanyl](../drugs/fentanyl.md)
 - [Nitrous oxide](../drugs/nitrous-oxide.md)

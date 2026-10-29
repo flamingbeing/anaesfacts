@@ -63,5 +63,6 @@ Pungent halogenated ethyl methyl ether volatile with MAC about 1.2%, little meta
 - [Desflurane](desflurane.md)
 - [Minimum alveolar concentration (MAC)](../physiology/minimum-alveolar-concentration.md)
 - [Paediatric inhalational agents](paediatric-inhalational-agents.md)
+- [Effect of Anaesthetic Agents on ICP, CBF and CMR](../physiology/anaesthetic-agents-icp-cbf-cmr.md)
 - [Gas Kinetics of Inhaled Anaesthetics](../physiology/inhaled-anaesthetic-kinetics.md)
 <!-- related:end -->

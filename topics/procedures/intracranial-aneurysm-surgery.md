@@ -324,5 +324,6 @@ Prevent rupture by controlling transmural pressure (MAP minus ICP), protect the 
 <!-- related:start (generated) -->
 ## Related
 - [Craniotomy](craniotomy.md)
+- [Interventional Neuroradiology](neuroradiology.md)
 - [Adenosine](../drugs/adenosine.md)
 <!-- related:end -->

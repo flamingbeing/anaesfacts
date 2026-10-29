@@ -95,6 +95,7 @@ Saphenous nerve block in the adductor canal, beside the femoral artery under sar
 - [Lower Limb Blocks](lower-limb-blocks.md)
 - [Sciatic Nerve Block and Parasacral Sacral Plexus Block](sciatic-nerve-block.md)
 - [Obturator Nerve Block](obturator-nerve-block.md)
+- [Major lower limb amputation](../procedures/lower-limb-amputation.md)
 - [Ankle Block](ankle-block.md)
 - [Motor-Sparing Knee Blocks (Genicular Nerve Block and iPACK)](motor-sparing-knee-blocks.md)
 <!-- related:end -->

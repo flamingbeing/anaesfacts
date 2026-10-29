@@ -38,3 +38,8 @@ Quaternary amine anticholinesterase, mainly for myasthenia gravis; longer acting
 - More dependent on renal elimination than neostigmine: 75% excreted unchanged
 - Does not cross the blood–brain barrier
 - Compare physostigmine: tertiary amine, well absorbed orally, crosses the blood–brain barrier; formerly used for anticholinergic poisoning
+
+<!-- related:start (generated) -->
+## Related
+- [Myasthenia Gravis and Lambert-Eaton Syndrome](../comorbidities/myasthenia-gravis.md)
+<!-- related:end -->

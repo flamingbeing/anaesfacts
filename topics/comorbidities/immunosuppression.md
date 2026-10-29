@@ -73,5 +73,6 @@ Anaesthesia for immunosuppressed patients (e.g. transplant recipients): asepsis,
 
 <!-- related:start (generated) -->
 ## Related
+- [Liver Transplantation](../procedures/liver-transplantation.md)
 - [Anaesthesia After Renal Transplant](renal-transplant.md)
 <!-- related:end -->

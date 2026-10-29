@@ -49,4 +49,5 @@ The transplanted heart is denervated: no reflex tachycardia, no response to indi
 ## Related
 - [Anaesthesia after Lung Transplant](anaesthesia-after-lung-transplant.md)
 - [Heart Failure](heart-failure.md)
+- [Liver Transplantation](../procedures/liver-transplantation.md)
 <!-- related:end -->

@@ -59,6 +59,7 @@ Sedate an OSA patient into snoring sleep, with no airway device, so the obstruct
 
 <!-- related:start (generated) -->
 ## Related
+- [Obstructive Sleep Apnoea](../comorbidities/obstructive-sleep-apnoea.md)
 - [Propofol](../drugs/propofol.md)
 - [Dexmedetomidine](../drugs/dexmedetomidine.md)
 - [Midazolam](../drugs/midazolam.md)

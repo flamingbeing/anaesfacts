@@ -115,5 +115,6 @@ Blocks the trigeminal and cervical plexus branches that supply the scalp, by rin
 <!-- related:start (generated) -->
 ## Related
 - [Awake Craniotomy and Deep Brain Stimulation](../procedures/awake-craniotomy.md)
+- [Neuroanaesthesia Summary](../procedures/neuroanaesthesia.md)
 - [Regional anaesthesia review](regional-anaesthesia-review.md)
 <!-- related:end -->

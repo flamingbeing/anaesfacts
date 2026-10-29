@@ -33,5 +33,7 @@ Acute neuromuscular weakness: risk of respiratory failure and aspiration; avoid 
 
 <!-- related:start (generated) -->
 ## Related
+- [Myasthenia Gravis and Lambert-Eaton Syndrome](myasthenia-gravis.md)
 - [Suxamethonium](../drugs/suxamethonium.md)
+- [Neuromuscular diseases](neuromuscular-diseases.md)
 <!-- related:end -->

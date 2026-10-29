@@ -127,3 +127,8 @@ Fusion or fixation of an unstable neck: airway risk to the cord, cord perfusion,
   - A: Ideally above 80
 - Q: Which anaesthetic drugs suppress motor evoked potentials?
   - A: Volatile agents and neuromuscular blockers
+
+<!-- related:start (generated) -->
+## Related
+- [Lumbar Spine Surgery](lumbar-spine-surgery.md)
+<!-- related:end -->

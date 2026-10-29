@@ -64,3 +64,8 @@ Breathing system that rebreathes exhaled gas after CO2 removal, adding parts to 
   - A: 3–5 L/min for 6 mins (15 mins before closed circuit).
 - Q: Metabolic oxygen uptake in closed circuit?
   - A: About 3.5 mL/kg/min.
+
+<!-- related:start (generated) -->
+## Related
+- [Anaesthetic Machine](anaesthetic-machine.md)
+<!-- related:end -->

@@ -348,3 +348,8 @@ Haematological, liver, cardiac, respiratory, endocrine and neurological disease 
   - A: PAH, LVEF <30% or NYHA III–IV, peripartum cardiomyopathy with residual LV impairment, severe MS or symptomatic AS, Marfan aorta >45 mm, bicuspid aorta >50 mm, native severe coarctation
 - Q: Above which spinal level does autonomic dysreflexia risk apply, and for how long after delivery?
   - A: Above T5; risk lasts 48 hrs after delivery
+
+<!-- related:start (generated) -->
+## Related
+- [Obstetric Anaesthesia](../procedures/obstetric-anaesthesia.md)
+<!-- related:end -->

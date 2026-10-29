@@ -44,3 +44,8 @@ Suture placed around the cervix to prevent miscarriage, usually in the 2nd trime
   - A: GTN 50 mcg boluses
 - Q: When is the cerclage usually removed?
   - A: At 38 weeks; removal can be done without anaesthesia
+
+<!-- related:start (generated) -->
+## Related
+- [Obstetric Anaesthesia](obstetric-anaesthesia.md)
+<!-- related:end -->

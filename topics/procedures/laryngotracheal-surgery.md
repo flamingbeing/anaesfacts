@@ -115,3 +115,9 @@ Anaesthesia for surgery on the larynx and trachea (polyps, cancer, masses, forei
   - A: Hypercapnia; time-limited by rising respiratory acidosis
 - Q: Main risk of jet ventilation?
   - A: Barotrauma (pneumothorax, subcutaneous emphysema)
+
+<!-- related:start (generated) -->
+## Related
+- [Microlaryngeal Surgery, Microlaryngoscopy and Panendoscopy](microlaryngeal-surgery.md)
+- [Laser surgery](laser-surgery.md)
+<!-- related:end -->
