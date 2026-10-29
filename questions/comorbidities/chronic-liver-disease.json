@@ -1,0 +1,943 @@
+{
+ "topic": "comorbidities/chronic-liver-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#908c12",
+   "kind": "mcq",
+   "stem": "How is the severity of chronic liver disease graded?",
+   "options": [
+    "APACHE II score",
+    "Child-Pugh score",
+    "Glasgow coma scale",
+    "Wells score"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#168892",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, which infection is a complication of ascites from portal hypertension?",
+   "options": [
+    "Community-acquired pneumonia",
+    "Spontaneous bacterial peritonitis",
+    "Cholecystitis",
+    "Infective endocarditis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#4418d6",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, how is drug clearance affected?",
+   "options": [
+    "Increased",
+    "Unchanged",
+    "Reduced",
+    "Doubled"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#de589b",
+   "kind": "statement",
+   "stem": "What is the Pringle manoeuvre in liver surgery?",
+   "answer": "Manual occlusion of the hepatoduodenal ligament to limit hepatic inflow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#de589b",
+   "kind": "mcq",
+   "stem": "What alternative to manual occlusion is used for the Pringle manoeuvre?",
+   "options": [
+    "A nasogastric tube",
+    "A clamp or tightened silicone tube",
+    "An epidural catheter",
+    "A cell saver"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#f61dc8",
+   "kind": "mcq",
+   "stem": "In chronic liver disease with varices, which investigation is contraindicated?",
+   "options": [
+    "Chest X-ray",
+    "TEE",
+    "Arterial line",
+    "ECG"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#f61dc8",
+   "kind": "mcq",
+   "stem": "How should nasogastric tubes be passed in patients with varices?",
+   "options": [
+    "Rapidly with force",
+    "Under TEE guidance",
+    "Without lubricant",
+    "Carefully"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#b50b40",
+   "kind": "statement",
+   "stem": "In chronic liver disease, what is advised for Child C or MELD above 14 patients?",
+   "answer": "Avoid intervention unless life-saving",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#b50b40",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, what mortality is expected with Child C or MELD above 14?",
+   "options": [
+    "<5%",
+    "10%",
+    "25%",
+    ">50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#32ea42",
+   "kind": "statement",
+   "stem": "In chronic liver disease, how should surgery be approached for Child B or MELD above 8 to 14?",
+   "answer": "Weigh the indication for surgery carefully",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#7a675d",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, which group has low perioperative mortality?",
+   "options": [
+    "Child C or MELD above 14",
+    "Child B or MELD above 8",
+    "Child A or MELD ≤ 8",
+    "Child B or MELD 9-14"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ba111a",
+   "kind": "mcq",
+   "stem": "What Child-Pugh total score defines class A?",
+   "options": [
+    "3 or 4",
+    "5 or 6",
+    "7–9",
+    "10–15"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ba111a",
+   "kind": "mcq",
+   "stem": "What operative mortality does Child-Pugh class A carry?",
+   "options": [
+    "25%",
+    "<5%",
+    ">50%",
+    "10%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#e2e2f0",
+   "kind": "mcq",
+   "stem": "Which Child-Pugh total score range defines class B?",
+   "options": [
+    "5 or 6",
+    "7–9",
+    "10–15",
+    "3 or 4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#e2e2f0",
+   "kind": "mcq",
+   "stem": "What operative mortality does Child-Pugh class B carry?",
+   "options": [
+    "<5%",
+    "10%",
+    "25%",
+    ">50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#9e2f41",
+   "kind": "mcq",
+   "stem": "Which Child-Pugh total score range defines class C?",
+   "options": [
+    "5 or 6",
+    "7–9",
+    "3 or 4",
+    "10–15"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ea777e",
+   "kind": "mcq",
+   "stem": "For which surgery was the Child-Pugh score first used?",
+   "options": [
+    "Liver transplant",
+    "Portosystemic shunt surgery",
+    "Gastrectomy",
+    "Cholecystectomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#fda927",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, which factor is a poor prognostic factor for surgery?",
+   "options": [
+    "Elective day-case listing",
+    "Emergency surgery",
+    "Young age",
+    "Laparoscopic approach"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#fda927",
+   "kind": "statement",
+   "stem": "Name the poor prognostic factors for surgery in liver disease other than the Child-Pugh score.",
+   "answer": "Malnutrition, emergency surgery, sepsis, blood loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#c3623b",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, portal hypertension is defined by portal pressure above what value?",
+   "options": [
+    "3 mm Hg",
+    "10 mm Hg",
+    "20 mm Hg",
+    "30 mm Hg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#7e9063",
+   "kind": "mcq",
+   "stem": "Which gastrointestinal effect of chronic liver disease comes from portal hypertension?",
+   "options": [
+    "Gastric and duodenal ulcers",
+    "Gastric and oesophageal varices",
+    "Pancreatic pseudocysts",
+    "Colonic diverticula"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#3268d5",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, how does splenomegaly cause thrombocytopaenia?",
+   "options": [
+    "Platelet sequestration",
+    "Increased platelet production",
+    "Vitamin K deficiency",
+    "Bone marrow suppression"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#220f18",
+   "kind": "mcq",
+   "stem": "What causes thrombocytopaenia in chronic liver disease?",
+   "options": [
+    "Vitamin B12 deficiency",
+    "Iron deficiency",
+    "Hypersplenism",
+    "Haemophilia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#4b41e4",
+   "kind": "mcq",
+   "stem": "Which coagulation tests are prolonged by poor clotting factor synthesis in chronic liver disease?",
+   "options": [
+    "Platelet count",
+    "D-dimer",
+    "PT and APTT",
+    "Bleeding time"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#4b41e4",
+   "kind": "mcq",
+   "stem": "Which vitamin K-dependent clotting factors are mainly affected in liver coagulopathy?",
+   "options": [
+    "Factors I, V, VIII and XI",
+    "Factors II, VII, IX and X",
+    "Factors VIII and von Willebrand factor",
+    "Factors XII and XIII"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#d64b6a",
+   "kind": "statement",
+   "stem": "Name the causes of anaemia in chronic liver disease.",
+   "answer": "GI blood loss, hypersplenism, haemolysis and malnutrition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#a93386",
+   "kind": "mcq",
+   "stem": "Which renal complication can follow any acute worsening of liver function?",
+   "options": [
+    "Nephrotic syndrome",
+    "Hepatorenal syndrome",
+    "Renal tubular acidosis",
+    "Polycystic kidney disease"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#703463",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, what kidney problem can vasodilation from general anaesthesia cause?",
+   "options": [
+    "Post-renal obstruction",
+    "Glomerulonephritis",
+    "Pre-renal failure",
+    "Nephrolithiasis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#a3df7d",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, which hormone excess causes water retention and hyponatraemia?",
+   "options": [
+    "Thyroxine",
+    "Aldosterone",
+    "Insulin",
+    "Adrenaline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#a3df7d",
+   "kind": "statement",
+   "stem": "In chronic liver disease, what does water retention and hyponatraemia from hyperaldosteronism lead to?",
+   "answer": "Ascites and peripheral oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#fd9cd7",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, low liver and muscle glycogen raises the risk of which perioperative problem?",
+   "options": [
+    "Hypoglycaemia",
+    "Hyperkalaemia",
+    "Hypercapnia",
+    "Hypothermia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#d1ca49",
+   "kind": "statement",
+   "stem": "What causes muscle wasting in chronic liver disease?",
+   "answer": "Poor protein synthesis and malnutrition",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#6b967f",
+   "kind": "statement",
+   "stem": "Name two underlying causes linked with cardiomyopathy in chronic liver disease.",
+   "answer": "Alcoholic liver disease and haemosiderosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ff46cf",
+   "kind": "mcq",
+   "stem": "In alcoholic patients, which vitamin deficiency risks Wernicke's encephalopathy?",
+   "options": [
+    "Vitamin K",
+    "Thiamine (vitamin B1)",
+    "Vitamin C",
+    "Vitamin B12"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#5e15cb",
+   "kind": "statement",
+   "stem": "In preoperative assessment of chronic liver disease, what should be focused on?",
+   "answer": "How severe the liver dysfunction is and its effects on other organs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#2771cb",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, delayed gastric emptying increases which risk?",
+   "options": [
+    "Bleeding risk",
+    "Aspiration risk",
+    "Dehydration risk",
+    "Pressure ulcer risk"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#6d839c",
+   "kind": "mcq",
+   "stem": "Which cardiovascular pattern in chronic liver disease shows high cardiac output and low SVR?",
+   "options": [
+    "Hypodynamic circulation",
+    "Hyperdynamic circulation",
+    "Cardiogenic shock",
+    "Vasovagal bradycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#bdff21",
+   "kind": "statement",
+   "stem": "In chronic liver disease, what is cirrhotic cardiomyopathy?",
+   "answer": "Hidden systolic and diastolic dysfunction with long QT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#bdff21",
+   "kind": "mcq",
+   "stem": "In cirrhotic cardiomyopathy, what unmasks the hidden dysfunction?",
+   "options": [
+    "Oral diuretic therapy",
+    "Surgical stress or clamping",
+    "Prolonged fasting",
+    "Routine paracetamol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#da9ef5",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, what is the mechanism of hepatopulmonary syndrome?",
+   "options": [
+    "Intrapulmonary arteriovenous shunting",
+    "Pulmonary artery thrombosis",
+    "Pleural effusion",
+    "Alveolar haemorrhage"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#106270",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, which haemodynamic pattern defines portopulmonary hypertension?",
+   "options": [
+    "Low PVR with high PCWP",
+    "High PVR with high PCWP",
+    "High PVR with normal PCWP",
+    "Low PVR with normal PCWP"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#3d6647",
+   "kind": "statement",
+   "stem": "Why does hypotension follow large-volume paracentesis in chronic liver disease?",
+   "answer": "Blood pools in the abdomen, so preload falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#3d6647",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, what volume of ascites drained counts as large-volume paracentesis?",
+   "options": [
+    "More than 1L",
+    "More than 2L",
+    "More than 5L",
+    "More than 10L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#fe90a3",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, how much 20% HAS is given per 2.5L of ascites drained?",
+   "options": [
+    "25ml",
+    "50ml",
+    "200ml",
+    "100ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#fe90a3",
+   "kind": "statement",
+   "stem": "Which other situation uses the same albumin rule as large-volume paracentesis in chronic liver disease?",
+   "answer": "Liver transplant with an abdominal drain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#f313d1",
+   "kind": "statement",
+   "stem": "In chronic liver disease, why should hepatitis B or C status be established before surgery?",
+   "answer": "Risk to theatre staff",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#f313d1",
+   "kind": "blank",
+   "stem": "In chronic liver disease, hepatitis of unknown cause should be treated as ____.",
+   "answer": "infectious",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#2f526d",
+   "kind": "mcq",
+   "stem": "In chronic liver disease with hyponatraemia, what is the safe maximum sodium correction over 24 hours to avoid central pontine myelinolysis?",
+   "options": [
+    "<18 mmol litre−1 in 24 h",
+    "<5 mmol litre−1 in 24 h",
+    "<10 mmol litre−1 in 24 h",
+    "<20 mmol litre−1 in 24 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#9baba5",
+   "kind": "blank",
+   "stem": "Elective surgery in chronic liver disease is only done if the disease is ____.",
+   "answer": "well compensated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#d72756",
+   "kind": "statement",
+   "stem": "In chronic liver disease, what needs urgent optimisation before emergency surgery?",
+   "answer": "Volume status, coagulation, neurological state and infection screen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#445c7a",
+   "kind": "statement",
+   "stem": "In chronic liver disease surgery, how should blood components be given?",
+   "answer": "Targeted, guided by thromboelastography and clotting tests",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#b60a10",
+   "kind": "statement",
+   "stem": "In chronic liver disease, when should fresh frozen plasma be given based on prothrombin time?",
+   "answer": "PT >1.5 times control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#48cbc4",
+   "kind": "statement",
+   "stem": "In chronic liver disease, at what platelet count should platelets be given?",
+   "answer": "Count <50 000 mm−3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#bb4a5e",
+   "kind": "blank",
+   "stem": "In chronic liver disease, cryoprecipitate is usually only given if fibrinogen is ____.",
+   "answer": "<1.0 g litre−1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#9f9b7a",
+   "kind": "statement",
+   "stem": "Which premedication should be avoided in chronic liver disease, and why?",
+   "answer": "Sedative premedication, as it may precipitate encephalopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#0ddac5",
+   "kind": "blank",
+   "stem": "In chronic liver disease, severe coagulopathy means PT prolonged more than ____ seconds despite vitamin K.",
+   "answer": "3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#0ddac5",
+   "kind": "statement",
+   "stem": "In chronic liver disease, what platelet count defines severe coagulopathy?",
+   "answer": "<50,000/mm3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#0db25a",
+   "kind": "statement",
+   "stem": "In chronic liver disease surgery, what is the intraoperative goal for the liver?",
+   "answer": "Maintain hepatic blood flow and oxygen delivery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#721c3e",
+   "kind": "statement",
+   "stem": "In chronic liver disease anaesthesia, does drug choice or careful use matter more?",
+   "answer": "Careful use matters more than choice",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#a70a36",
+   "kind": "mcq",
+   "stem": "Which agents are suggested for IV induction in chronic liver disease?",
+   "options": [
+    "Thiopental and fentanyl",
+    "Propofol and remifentanil",
+    "Ketamine and midazolam",
+    "Midazolam and morphine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#a70a36",
+   "kind": "blank",
+   "stem": "In chronic liver disease rapid sequence induction, rocuronium is usually given at ____.",
+   "answer": "1 mg kg−1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#a70a36",
+   "kind": "statement",
+   "stem": "What is the suggested maintenance regimen in chronic liver disease?",
+   "answer": "Oxygen, air, desflurane and remifentanil infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#5e8d01",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, which background infusion prevents hypoglycaemia and guards against rising sodium?",
+   "options": [
+    "0.9% saline at 50–100 ml h−1",
+    "5−10% dextrose at 50–100 ml h−1",
+    "Hartmann's at 50–100 ml h−1",
+    "Mannitol 20% at 50–100 ml h−1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ba02ec",
+   "kind": "mcq",
+   "stem": "In decompensated chronic liver disease, which opioid is best avoided because it may trigger encephalopathy?",
+   "options": [
+    "Fentanyl",
+    "Alfentanil",
+    "Morphine",
+    "Remifentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ba02ec",
+   "kind": "statement",
+   "stem": "In chronic liver disease, why is morphine eliminated more slowly?",
+   "answer": "Lower hepatic flow and extraction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ba02ec",
+   "kind": "statement",
+   "stem": "In chronic liver disease, which morphine metabolite accumulates in renal failure?",
+   "answer": "Morphine-6-glucuronide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#1249af",
+   "kind": "blank",
+   "stem": "In chronic liver disease, alfentanil has a ____ volume of distribution.",
+   "answer": "larger",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#1249af",
+   "kind": "statement",
+   "stem": "Why is alfentanil less protein bound in chronic liver disease?",
+   "answer": "Low alpha-1-acid glycoprotein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#0a8be4",
+   "kind": "mcq",
+   "stem": "Which opioid is well tolerated as IV PCA in compensated chronic liver disease?",
+   "options": [
+    "Pethidine",
+    "Codeine",
+    "Fentanyl",
+    "Tramadol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ed9142",
+   "kind": "mcq",
+   "stem": "What fentanyl bolus size is used for PCA in compensated chronic liver disease?",
+   "options": [
+    "5 mcg",
+    "25 mcg",
+    "10 mcg",
+    "50 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#ed9142",
+   "kind": "statement",
+   "stem": "For PCA in compensated chronic liver disease, what background infusion is used?",
+   "answer": "No background infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#e9421e",
+   "kind": "statement",
+   "stem": "In chronic liver disease, what reduces systemic analgesic needs after surgery?",
+   "answer": "Regional analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#e9421e",
+   "kind": "blank",
+   "stem": "Before regional analgesia in chronic liver disease, first check ____.",
+   "answer": "coagulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#19593c",
+   "kind": "mcq",
+   "stem": "What INR is needed before an epidural in chronic liver disease?",
+   "options": [
+    "INR <3.0",
+    "INR <2.0",
+    "INR <1.5",
+    "INR <4.0"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#19593c",
+   "kind": "blank",
+   "stem": "An epidural in chronic liver disease needs platelets above ____ mm−3.",
+   "answer": "100 000",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#3d931e",
+   "kind": "statement",
+   "stem": "Why should IM or SC injections be avoided after surgery in chronic liver disease?",
+   "answer": "Risk of haematoma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#46a10f",
+   "kind": "statement",
+   "stem": "Which analgesic class is not recommended after surgery in chronic liver disease?",
+   "answer": "NSAIDs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#46a10f",
+   "kind": "statement",
+   "stem": "Why are NSAIDs not recommended after surgery in chronic liver disease?",
+   "answer": "GI bleeding, platelet dysfunction, nephrotoxicity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#72e519",
+   "kind": "mcq",
+   "stem": "In chronic liver disease, what is the status of paracetamol?",
+   "options": [
+    "Absolutely contraindicated in all liver disease",
+    "Only permitted intravenously",
+    "Contraindicated when albumin is low",
+    "Not contraindicated; use with care and monitor liver function"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#9a4d45",
+   "kind": "mcq",
+   "stem": "After surgery in advanced chronic liver disease, what level of care should be planned?",
+   "options": [
+    "Ward with routine observations",
+    "ICU",
+    "Day-case recovery",
+    "Theatre recovery only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#919050",
+   "kind": "statement",
+   "stem": "In chronic liver disease after surgery, why is sedation usually stopped early?",
+   "answer": "So neurology can be assessed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#0f2d85",
+   "kind": "mcq",
+   "stem": "Which signs suggest decompensation after surgery in chronic liver disease?",
+   "options": [
+    "Pyrexia, tachycardia, rash",
+    "Wound erythema, urinary retention, cough",
+    "Worsening encephalopathy, jaundice, ascites",
+    "Bradycardia, hypertension, sweating"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#19435b",
+   "kind": "statement",
+   "stem": "After surgery in chronic liver disease, what helps avoid renal failure?",
+   "answer": "Continue invasive monitoring and careful fluids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#e03d9f",
+   "kind": "blank",
+   "stem": "After surgery in chronic liver disease, keep monitoring ____ and watch for bleeding.",
+   "answer": "coagulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/chronic-liver-disease#3b3010",
+   "kind": "statement",
+   "stem": "Why should intravascular catheters be removed early in chronic liver disease?",
+   "answer": "Higher catheter sepsis risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

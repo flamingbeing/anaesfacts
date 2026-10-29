@@ -1,0 +1,1091 @@
+{
+ "topic": "procedures/total-intravenous-anaesthesia",
+ "questions": [
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#98743b",
+   "kind": "statement",
+   "stem": "In strict total intravenous anaesthesia, what agents are used for induction and maintenance?",
+   "answer": "IV agents, with an oxygen/air mix",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#72081a",
+   "kind": "mcq",
+   "stem": "Which gas is occasionally used as an adjunct in total intravenous anaesthesia?",
+   "options": [
+    "Nitrous oxide",
+    "Sevoflurane",
+    "Desflurane",
+    "Isoflurane"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#75b63d",
+   "kind": "mcq",
+   "stem": "In TIVA indications, what QTc threshold defines long QT syndrome?",
+   "options": [
+    "QTc ≥ 350 ms",
+    "QTc ≥ 600 ms",
+    "QTc ≥ 250 ms",
+    "QTc ≥ 500 ms"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#99a597",
+   "kind": "statement",
+   "stem": "What monitoring gap in TIVA raises the awareness risk with disconnections or leaks?",
+   "answer": "No point-of-delivery measurement equivalent to end-tidal agent monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#0cdfa4",
+   "kind": "statement",
+   "stem": "Why is propofol TIVA a concern in long cases or obese patients?",
+   "answer": "Propofol context-sensitive half-life becomes long",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#2cad0e",
+   "kind": "mcq",
+   "stem": "Why may propofol TIVA be contraindicated in hepatic surgery?",
+   "options": [
+    "Propofol is cleared by the liver",
+    "Propofol is cleared by the kidneys",
+    "Propofol is cleared by the lungs",
+    "Propofol is broken down by plasma cholinesterase"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#650234",
+   "kind": "statement",
+   "stem": "In children, which metabolic disorders raise the risk of propofol infusion syndrome with TIVA?",
+   "answer": "Mitochondrial disease, fatty acid oxidation disorders, coenzyme Q deficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#326836",
+   "kind": "statement",
+   "stem": "Which two pump types can deliver propofol for TIVA?",
+   "answer": "TCI syringe pump or ordinary syringe pump",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#9ca3e6",
+   "kind": "statement",
+   "stem": "In TIVA, what can a pharmacokinetic pump target?",
+   "answer": "Plasma (Cp) or brain/effect site (Ce)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#e56386",
+   "kind": "statement",
+   "stem": "How should the propofol target be adjusted during TIVA?",
+   "answer": "Titrate it to clinical signs and BIS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#e35f51",
+   "kind": "statement",
+   "stem": "According to AAGBI, what should guide the choice of starting TIVA target?",
+   "answer": "Patient characteristics, co-administered drugs and situation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#cde059",
+   "kind": "mcq",
+   "stem": "Per AAGBI, how should TIVA targets start in older, frail or unwell patients?",
+   "options": [
+    "A high initial target with one large bolus",
+    "A target set only after waking",
+    "A low initial target with repeated small increments",
+    "A fixed maximum target from the start"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#555db5",
+   "kind": "statement",
+   "stem": "In TIVA, what does the FRCA suggest noting to gauge a patient's sensitivity?",
+   "answer": "Estimated Ce at loss of consciousness and at airway manipulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#d31ff1",
+   "kind": "statement",
+   "stem": "Why must the remifentanil dose be factored into the propofol target in TIVA?",
+   "answer": "Propofol with remifentanil is synergistic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#ac7c79",
+   "kind": "mcq",
+   "stem": "Compared with premedicated patients, what target do unpremedicated patients need in TIVA?",
+   "options": [
+    "The same target",
+    "A lower target",
+    "Half the usual target",
+    "A higher target"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#293ce2",
+   "kind": "mcq",
+   "stem": "What propofol target (μg/ml) suits rapid TIVA induction?",
+   "options": [
+    "0.5-1 μg/ml",
+    "8-10 μg/ml",
+    "4-6 μg/ml",
+    "0.2-0.5 μg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#0a3da6",
+   "kind": "mcq",
+   "stem": "What propofol target suits a slower TIVA induction, before titrating up?",
+   "options": [
+    "1-3μg/ml",
+    "10-12 μg/ml",
+    "8-10 μg/ml",
+    "0.2-0.5 μg/ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#882a60",
+   "kind": "mcq",
+   "stem": "What is the general propofol maintenance target range in TIVA?",
+   "options": [
+    "1-2 µg/ml",
+    "10-15 µg/ml",
+    "0.5-1 µg/ml",
+    "2.5−7 µg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#6917b7",
+   "kind": "mcq",
+   "stem": "What propofol target is common in TIVA when remifentanil is co-infused?",
+   "options": [
+    "2–2.5 µg/ml",
+    "8–10 µg/ml",
+    "10–12 µg/ml",
+    "0.5–1 µg/ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#b8880a",
+   "kind": "mcq",
+   "stem": "Per ATOTW, what propofol target goes with low-dose remifentanil?",
+   "options": [
+    "8-10 ug/ml",
+    "5-6 ug/ml",
+    "10-12 ug/ml",
+    "0.5-1 ug/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#49b869",
+   "kind": "mcq",
+   "stem": "What propofol maintenance range do some sources quote for TIVA?",
+   "options": [
+    "8-12 ug/ml",
+    "15-20 ug/ml",
+    "3-6 ug/ml",
+    "0.5-1 ug/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#a57809",
+   "kind": "mcq",
+   "stem": "In TIVA, what propofol effect-site level should be kept until the end of the procedure?",
+   "options": [
+    "At or below 0.5 μg.ml-1",
+    "At or above 6 μg.ml-1",
+    "At or above 10 μg.ml-1",
+    "At or above 2 μg.ml-1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#a57809",
+   "kind": "statement",
+   "stem": "When can the propofol infusion usually stop at the end of TIVA?",
+   "answer": "While dressings go on",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#da7368",
+   "kind": "mcq",
+   "stem": "What propofol waking concentration is quoted for TIVA?",
+   "options": [
+    "4-6 μg/ml",
+    "1-2 μg/ml",
+    "8-10 μg/ml",
+    "0.1-0.2 μg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#fe0060",
+   "kind": "statement",
+   "stem": "When deepening TIVA quickly, why is a high initial target set?",
+   "answer": "So the bolus runs at maximum rate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#fef812",
+   "kind": "mcq",
+   "stem": "If a TIVA pump fails and volatiles are not contraindicated, what is the safest first option?",
+   "options": [
+    "Restart the pump in TCI mode",
+    "Give a further propofol bolus",
+    "Switch to a volatile agent",
+    "Wait for the pump to be repaired"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#d48689",
+   "kind": "mcq",
+   "stem": "After a propofol pump fails, what manual rate is usually needed at steady state?",
+   "options": [
+    "between 30 and 50mls/hr",
+    "between 200 and 250mls/hr",
+    "between 5 and 10mls/hr",
+    "between 100 and 150mls/hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#75dbc0",
+   "kind": "mcq",
+   "stem": "Why is restarting a failed TIVA pump in TCI mode unsafe?",
+   "options": [
+    "The pump cannot run a pharmacokinetic model",
+    "The pump cannot deliver a bolus",
+    "The pump needs a fixed weight-based dose",
+    "The pump does not know about drug already at the effect site"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#58a475",
+   "kind": "mcq",
+   "stem": "In elderly, ASA 3-5 or haemodynamically compromised patients, how should TIVA targets be raised?",
+   "options": [
+    "In small steps to avoid instability",
+    "In one large step for speed",
+    "Only after the patient wakes",
+    "Doubled at each review"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#ba1c58",
+   "kind": "mcq",
+   "stem": "For TIVA, which patients does the Schnider model accept?",
+   "options": [
+    "Patients older than 1 year",
+    "Patients older than 16 years",
+    "Patients older than 5 years",
+    "Patients older than 65 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#a4d503",
+   "kind": "statement",
+   "stem": "How should TIVA be titrated in obese patients?",
+   "answer": "To clinical effect with pEEG monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#05a9ef",
+   "kind": "mcq",
+   "stem": "Per AAGBI, how should propofol be delivered for maintenance to help prevent awareness?",
+   "options": [
+    "Manual infusion",
+    "Intermittent boluses",
+    "TCI propofol",
+    "Single induction dose only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#0b4e25",
+   "kind": "statement",
+   "stem": "In TIVA, when does AAGBI advise using processed EEG such as BIS?",
+   "answer": "When a neuromuscular blocker is used",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#9d876e",
+   "kind": "statement",
+   "stem": "What is the aim of combined intravenous volatile anaesthesia (CIVA)?",
+   "answer": "Combine the benefits of TIVA and volatile anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#e1c914",
+   "kind": "mcq",
+   "stem": "In CIVA, what volatile dose (in MAC) may lower awareness risk?",
+   "options": [
+    "1.5 to 2 MAC",
+    "0.3 to 0.5 MAC",
+    "0.1 to 0.2 MAC",
+    "2 to 3 MAC"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#e371ee",
+   "kind": "statement",
+   "stem": "In CIVA, what does adding 0.5 MAC volatile allow?",
+   "answer": "A smaller propofol dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#e371ee",
+   "kind": "statement",
+   "stem": "In CIVA, what benefit does a smaller propofol dose give?",
+   "answer": "Faster waking and earlier neurological examination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#8f02ce",
+   "kind": "statement",
+   "stem": "In CIVA, which two elimination routes may speed emergence?",
+   "answer": "Lungs and liver",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#9abba2",
+   "kind": "statement",
+   "stem": "What is the main problem with combined intravenous volatile anaesthesia?",
+   "answer": "Harder to judge depth",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#4b3b55",
+   "kind": "mcq",
+   "stem": "In NAP5, what technique were awareness reports with TIVA often linked to?",
+   "options": [
+    "Pure TIVA with propofol alone",
+    "Mixed IV and volatile techniques",
+    "Remifentanil infusion alone",
+    "Nitrous oxide with oxygen only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#81b4e1",
+   "kind": "statement",
+   "stem": "Why do some swap between TIVA and volatile in long cases?",
+   "answer": "To limit build-up of either and speed emergence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#6d83ea",
+   "kind": "mcq",
+   "stem": "In the Bristol 10-8-6 manual TIVA model, what blood propofol level is aimed for within 2 minutes?",
+   "options": [
+    "About 10 µg/ml",
+    "About 3 µg/ml",
+    "About 0.5 µg/ml",
+    "About 6 µg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#be8c12",
+   "kind": "mcq",
+   "stem": "In the Bristol 10-8-6 derivation, which drug premedicated the patients?",
+   "options": [
+    "Midazolam",
+    "Diazepam",
+    "Temazepam",
+    "Lorazepam"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#fe43d6",
+   "kind": "mcq",
+   "stem": "In the Bristol 10-8-6 scheme, how long is the 10 mg/kg/h phase?",
+   "options": [
+    "5 minutes",
+    "10 minutes",
+    "20 minutes",
+    "2 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#fe43d6",
+   "kind": "statement",
+   "stem": "In the Bristol 10-8-6 scheme, what is the final propofol infusion rate?",
+   "answer": "6 mg/kg/h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#35cded",
+   "kind": "statement",
+   "stem": "In the Bristol 10-8-6 derivation, what else did patients receive besides propofol?",
+   "answer": "Nitrous oxide, and were ventilated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#bfc09c",
+   "kind": "statement",
+   "stem": "In the Bristol scheme, what if a higher level of anaesthesia is needed?",
+   "answer": "Adjust the scheme or add a supplement such as remifentanil infusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#1155cb",
+   "kind": "mcq",
+   "stem": "Compared with manual infusion, how much propofol does TCI use overall?",
+   "options": [
+    "Less propofol overall",
+    "More propofol overall",
+    "The same propofol overall",
+    "Twice as much propofol overall"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#1155cb",
+   "kind": "statement",
+   "stem": "Compared with manual infusion, what other benefits does TCI give?",
+   "answer": "Better haemodynamic stability and faster waking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#a4c40d",
+   "kind": "mcq",
+   "stem": "What kind of model does a TCI microprocessor pump run?",
+   "options": [
+    "A one-compartment pharmacokinetic model",
+    "A two-compartment pharmacokinetic model",
+    "A four-compartment pharmacokinetic model",
+    "A three-compartment pharmacokinetic model"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#f5737a",
+   "kind": "statement",
+   "stem": "In a TCI pump, what does the constant infusion component replace?",
+   "answer": "Elimination",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#f5737a",
+   "kind": "statement",
+   "stem": "In a TCI pump, what do the two falling infusions match?",
+   "answer": "Distribution to peripheral compartments",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#043009",
+   "kind": "mcq",
+   "stem": "Are the displayed levels on a TCI pump measured or calculated?",
+   "options": [
+    "Measured from blood samples",
+    "Calculated, not measured",
+    "Measured by a sensor in the pump",
+    "Measured by the BIS monitor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#03ddd6",
+   "kind": "mcq",
+   "stem": "How closely does a TCI pump's displayed plasma level usually match the actual level?",
+   "options": [
+    "Usually within 50%",
+    "Usually within 25%",
+    "Always exactly equal",
+    "Usually within 2%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#bb53f7",
+   "kind": "mcq",
+   "stem": "What bolus rate does a TCI pump use to fill the central compartment at induction?",
+   "options": [
+    "Up to 60 ml/hr",
+    "Up to 300 ml/hr",
+    "Up to 1200 ml/hr",
+    "Up to 5000 ml/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#351e56",
+   "kind": "mcq",
+   "stem": "What induction bolus rate do some newer TCI pumps use?",
+   "options": [
+    "600–800 ml.h",
+    "200–300 ml.h",
+    "1800–2200 ml.h",
+    "4000–5000 ml.h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#d3acbc",
+   "kind": "statement",
+   "stem": "After the TCI induction bolus, what rate follows?",
+   "answer": "A much lower variable rate matching exponential transfer and uptake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#1afca5",
+   "kind": "mcq",
+   "stem": "What does a TCI pump do when the target is raised?",
+   "options": [
+    "Pauses the infusion until the level falls",
+    "Gives a small automatic bolus",
+    "Stops the infusion entirely",
+    "Sounds an alarm only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#821fd1",
+   "kind": "mcq",
+   "stem": "What does a TCI pump do when the target is lowered?",
+   "options": [
+    "Gives a small automatic bolus",
+    "Increases the rate at once",
+    "Pauses the infusion until the level falls",
+    "Gives a large bolus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#6f1f88",
+   "kind": "mcq",
+   "stem": "On TCI pumps showing decrement time, what default plasma level is used?",
+   "options": [
+    "3 µg/ml",
+    "0.5 µg/ml",
+    "6 µg/ml",
+    "1.2 µg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#172073",
+   "kind": "statement",
+   "stem": "What can make the TCI decrement time longer?",
+   "answer": "Other hypnotics (especially opioids) or liver impairment",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#11ce68",
+   "kind": "mcq",
+   "stem": "Which tissues make up the central compartment (V1) in TCI propofol models?",
+   "options": [
+    "Muscle",
+    "Brain, heart, liver",
+    "Fat",
+    "Skin and bone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#537038",
+   "kind": "mcq",
+   "stem": "Which tissue is the rapid peripheral compartment (V2) in TCI models?",
+   "options": [
+    "Fat",
+    "Brain",
+    "Muscle",
+    "Liver"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#332706",
+   "kind": "mcq",
+   "stem": "Which tissue is the slow peripheral compartment (V3) in TCI models?",
+   "options": [
+    "Muscle",
+    "Heart",
+    "Liver",
+    "Fat"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#1cd72c",
+   "kind": "statement",
+   "stem": "Where does the TCI effect site sit relative to the three compartments?",
+   "answer": "Separate from the three compartments",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#4ade08",
+   "kind": "mcq",
+   "stem": "What rate constant governs plasma-to-brain transfer in TCI models?",
+   "options": [
+    "k10",
+    "k21",
+    "ke0",
+    "k31"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#07e7a6",
+   "kind": "statement",
+   "stem": "What is the aim of effect-site targeting in TCI?",
+   "answer": "Equilibrate plasma and effect site as fast as possible",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#5e65e1",
+   "kind": "mcq",
+   "stem": "Which adult propofol TCI model dates from 1991?",
+   "options": [
+    "Schnider",
+    "Marsh",
+    "Kataria",
+    "Paedfusor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#02a4d4",
+   "kind": "statement",
+   "stem": "Why is the induction bolus large in morbid obesity in adult TCI models?",
+   "answer": "Large predicted V1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#c85457",
+   "kind": "mcq",
+   "stem": "In adult propofol TCI, what time to peak effect is quoted for plasma targeting?",
+   "options": [
+    "1.6 min",
+    "4.5 min",
+    "9 min",
+    "12 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#c85457",
+   "kind": "statement",
+   "stem": "Why does plasma targeting make induction and changes in depth slower in propofol TCI?",
+   "answer": "Lag before Ce equilibrates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#ed0bc6",
+   "kind": "statement",
+   "stem": "In adult propofol TCI, what does the modified Marsh model target?",
+   "answer": "The effect site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#1f19d1",
+   "kind": "mcq",
+   "stem": "What is the upper body weight limit for the adult propofol TCI models?",
+   "options": [
+    "100kg",
+    "120kg",
+    "150kg",
+    "200kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#54a7f2",
+   "kind": "mcq",
+   "stem": "How many volunteers took part in Schnider's 1993 propofol model study?",
+   "options": [
+    "12 volunteers",
+    "18 volunteers",
+    "24 volunteers",
+    "36 volunteers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#f2de1e",
+   "kind": "statement",
+   "stem": "How does one adult propofol TCI model mimic an IV induction?",
+   "answer": "It overshoots the plasma level to raise Ce fast",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#2738b9",
+   "kind": "mcq",
+   "stem": "How does the Marsh propofol model scale its central volume V1 with body weight?",
+   "options": [
+    "Logarithmically",
+    "Exponentially",
+    "Linearly",
+    "Not at all"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#db79e6",
+   "kind": "mcq",
+   "stem": "In adult propofol TCI, what is the upper BMI limit for male patients?",
+   "options": [
+    "35",
+    "40",
+    "42",
+    "50"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#db79e6",
+   "kind": "mcq",
+   "stem": "In adult propofol TCI, what is the upper BMI limit for female patients?",
+   "options": [
+    "30",
+    "35",
+    "40",
+    "50"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#1bbda6",
+   "kind": "mcq",
+   "stem": "How many individuals did the Eleveld 2018 propofol model study include?",
+   "options": [
+    "over 1,000",
+    "about 500",
+    "over 10,000",
+    "over 100,000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#1bbda6",
+   "kind": "mcq",
+   "stem": "How many studies made up the Eleveld 2018 propofol model dataset?",
+   "options": [
+    "5 studies",
+    "12 studies",
+    "30 studies",
+    "50 studies"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#71bfca",
+   "kind": "mcq",
+   "stem": "In the Eleveld 2018 propofol study, how many individuals had a BMI over 50?",
+   "options": [
+    "5 individuals",
+    "10 individuals",
+    "3 individuals",
+    "30 individuals"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#581801",
+   "kind": "mcq",
+   "stem": "In adult propofol TCI, how does ke0 change with obesity and with age?",
+   "options": [
+    "It rises",
+    "It is unchanged",
+    "It falls",
+    "It doubles"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#601df8",
+   "kind": "mcq",
+   "stem": "Which propofol TCI model is advised for obese adults?",
+   "options": [
+    "Marsh",
+    "Schnider",
+    "Kataria",
+    "Eleveld"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#c1ed23",
+   "kind": "mcq",
+   "stem": "In obese patients on propofol TCI, what should the dose be titrated to?",
+   "options": [
+    "Heart rate",
+    "BIS",
+    "Blood pressure",
+    "Plasma level alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#05fd30",
+   "kind": "statement",
+   "stem": "How do children's propofol central volume and clearance compare with adults?",
+   "answer": "Larger central volume and faster clearance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#17fee0",
+   "kind": "mcq",
+   "stem": "Which paediatric propofol TCI model is Marsh-based and covers ages 1 to 16 years?",
+   "options": [
+    "Kataria",
+    "Schnider",
+    "Paedfusor",
+    "Eleveld"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#6df8f7",
+   "kind": "mcq",
+   "stem": "Which weight range goes with the paediatric propofol model for ages 1 to 16 years?",
+   "options": [
+    "2 kg - 40 kg",
+    "5 kg - 40 kg",
+    "5 kg - 61 kg",
+    "10 kg - 80 kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#748cff",
+   "kind": "mcq",
+   "stem": "Which weight range applies to the Kataria paediatric propofol model?",
+   "options": [
+    "5kg - 61kg",
+    "15kg - 61 kg",
+    "3kg - 61kg",
+    "15kg - 40kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#c3bfdd",
+   "kind": "statement",
+   "stem": "Over what age range does the Eleveld propofol model apply?",
+   "answer": "27 weeks postmenstrual age up to 88 years",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#c07424",
+   "kind": "mcq",
+   "stem": "What can an adult propofol model cause in children over 61 kg under 16 years?",
+   "options": [
+    "Overdosing",
+    "Accurate dosing",
+    "Underdosing",
+    "Slower induction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#3d78ba",
+   "kind": "mcq",
+   "stem": "Which children over 61 kg can generally use adult propofol models?",
+   "options": [
+    "Pre-pubertal children",
+    "Children under 16 years",
+    "Post-pubertal children",
+    "Children under 5 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#d765f5",
+   "kind": "mcq",
+   "stem": "In paediatric propofol TCI, which children have fewer published parameter estimates?",
+   "options": [
+    "Post-pubertal children",
+    "Neonates and infants >1yo",
+    "Children aged 5 to 16 years",
+    "Adolescents over 12 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/total-intravenous-anaesthesia#1413b7",
+   "kind": "mcq",
+   "stem": "In TIVA, which target-controlled model is used for remifentanil only?",
+   "options": [
+    "Marsh",
+    "Minto",
+    "Schnider",
+    "Paedfusor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

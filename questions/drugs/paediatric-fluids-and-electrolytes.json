@@ -1,0 +1,1237 @@
+{
+ "topic": "drugs/paediatric-fluids-and-electrolytes",
+ "questions": [
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#1014e6",
+   "kind": "statement",
+   "stem": "In paediatric fluid physiology, how is total body water in neonates and infants described?",
+   "answer": "High",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#34177c",
+   "kind": "mcq",
+   "stem": "What percentage of body weight is water in a term neonate?",
+   "options": [
+    "60%",
+    "70%",
+    "75%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#34177c",
+   "kind": "mcq",
+   "stem": "Up to what percentage of body weight is water in a premature neonate?",
+   "options": [
+    "85%",
+    "75%",
+    "60%",
+    "95%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#36901c",
+   "kind": "mcq",
+   "stem": "In paediatric fluid physiology, at what age does total body water reach adult values?",
+   "options": [
+    "6 months of age",
+    "5 years of age",
+    "2 years of age",
+    "1 year of age"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#d1cb7c",
+   "kind": "mcq",
+   "stem": "What percentage of body weight is extracellular fluid in a term neonate?",
+   "options": [
+    "20%",
+    "30%",
+    "40%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#d1cb7c",
+   "kind": "mcq",
+   "stem": "What percentage of body weight is extracellular fluid in an adult?",
+   "options": [
+    "40%",
+    "60%",
+    "30%",
+    "20%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#6a4e54",
+   "kind": "statement",
+   "stem": "In paediatric fluid physiology, how does infant water turnover compare with the adult rate?",
+   "answer": "More than double",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#509608",
+   "kind": "blank",
+   "stem": "In paediatric assessment, hypovolaemia and dehydration are clinical ____.",
+   "answer": "diagnoses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#729e67",
+   "kind": "mcq",
+   "stem": "In a child with hypovolaemia, what capillary refill time suggests poor perfusion?",
+   "options": [
+    "Under 1 second",
+    "Under 2 seconds",
+    "Over 2 seconds",
+    "Under 0.5 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#fe0301",
+   "kind": "statement",
+   "stem": "In paediatric hypovolaemia, when does hypotension usually appear?",
+   "answer": "Late, after more than 30% of blood volume is lost",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#f21d54",
+   "kind": "statement",
+   "stem": "In paediatric resuscitation, what defines shock?",
+   "answer": "Cellular oxygen and nutrient demand exceeds delivery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#97ee94",
+   "kind": "mcq",
+   "stem": "In paediatric preoperative resuscitation, which fluid types restore circulating volume?",
+   "options": [
+    "Dextrose 5% in water only",
+    "Crystalloid or colloid",
+    "Potassium chloride only",
+    "Hypertonic saline 3% only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#97ee94",
+   "kind": "statement",
+   "stem": "In paediatric preoperative resuscitation, what is used for major or ongoing blood loss?",
+   "answer": "Blood products",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#b328dd",
+   "kind": "mcq",
+   "stem": "Which fluid type replaces extracellular losses in paediatric preoperative resuscitation?",
+   "options": [
+    "Dextrose 5% in water",
+    "Isotonic crystalloid",
+    "Hypertonic saline 3%",
+    "Colloid starch"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#6b8bb4",
+   "kind": "statement",
+   "stem": "In paediatric fluid resuscitation, which three conditions follow specific fluid protocols?",
+   "answer": "Burns, pyloric stenosis and diabetic ketoacidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#006471",
+   "kind": "mcq",
+   "stem": "What is the estimated blood volume of a neonate in paediatric resuscitation, in mL/kg?",
+   "options": [
+    "80 mL/kg",
+    "70 mL/kg",
+    "90 mL/kg",
+    "75 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#ea2b2f",
+   "kind": "mcq",
+   "stem": "What is the estimated blood volume of an infant in paediatric resuscitation, in mL/kg?",
+   "options": [
+    "80 mL/kg",
+    "85 mL/kg",
+    "70 mL/kg",
+    "90 mL/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#fc3f7c",
+   "kind": "mcq",
+   "stem": "What is the estimated blood volume of a child in paediatric resuscitation, in mL/kg?",
+   "options": [
+    "80 mL/kg",
+    "70 mL/kg",
+    "90 mL/kg",
+    "75 mL/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#6fc204",
+   "kind": "mcq",
+   "stem": "In resuscitation calculations, what estimated blood volume in mL/kg is used for an adult?",
+   "options": [
+    "90 mL/kg",
+    "80 mL/kg",
+    "70 mL/kg",
+    "60 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#62dea0",
+   "kind": "mcq",
+   "stem": "In paediatric shock, what crystalloid or colloid bolus size is given, in mL/kg?",
+   "options": [
+    "10 mL/kg",
+    "40 mL/kg",
+    "20 mL/kg",
+    "30 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#62dea0",
+   "kind": "statement",
+   "stem": "In paediatric shock, what should follow each 20 mL/kg bolus?",
+   "answer": "Reassess",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#82e9bf",
+   "kind": "statement",
+   "stem": "In paediatric shock, when should intubation, inotropes and blood products be considered?",
+   "answer": "If not stable after 40, 60 and 80 mL/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#827722",
+   "kind": "mcq",
+   "stem": "In paediatric haemorrhage, after what share of circulating volume is lost should blood be given?",
+   "options": [
+    "Under 5%",
+    "5-10%",
+    "15-20%",
+    "Over 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#a64db8",
+   "kind": "mcq",
+   "stem": "In paediatric haemorrhage, after what share of circulating volume is lost should fresh frozen plasma be given?",
+   "options": [
+    "15-20%",
+    "10%",
+    "50%",
+    "30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#cc0408",
+   "kind": "mcq",
+   "stem": "In paediatric haemorrhage, after what share of circulating volume is lost should platelets be given?",
+   "options": [
+    "50%",
+    "15-20%",
+    "25%",
+    "100%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#8076fd",
+   "kind": "statement",
+   "stem": "In paediatric intraoperative fluids, what three aims guide therapy?",
+   "answer": "Replace any deficit, give maintenance, replace intraoperative losses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#d8d920",
+   "kind": "mcq",
+   "stem": "In paediatric intraoperative maintenance, which type of fluid is preferred?",
+   "options": [
+    "Dextrose-containing fluid",
+    "Dextrose-free crystalloid",
+    "10% dextrose solution",
+    "Colloid starch"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#11cf1b",
+   "kind": "mcq",
+   "stem": "Which intraoperative maintenance fluid usually causes hyperglycaemia during paediatric surgery?",
+   "options": [
+    "Hartmann's solution",
+    "0.9% saline",
+    "4% or 5% dextrose fluids",
+    "Dextrose-free crystalloid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#c9bd23",
+   "kind": "mcq",
+   "stem": "In paediatric intraoperative fluids, what hourly rate suits superficial surgery?",
+   "options": [
+    "3-4 mL/kg/h",
+    "1-3 mL/kg/h",
+    "6-8 mL/kg/h",
+    "4-5 mL/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#990b40",
+   "kind": "mcq",
+   "stem": "In paediatric intraoperative fluids, what hourly rate suits abdominal, chest or hip surgery?",
+   "options": [
+    "1-3 mL/kg/h",
+    "6-8 mL/kg/h",
+    "10-12 mL/kg/h",
+    "3-4 mL/kg/h"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#63e2ed",
+   "kind": "mcq",
+   "stem": "In paediatric intraoperative fluids, what hourly rate suits extensive abdominal surgery?",
+   "options": [
+    "3-4 mL/kg/h",
+    "1-3 mL/kg/h",
+    "6-8 mL/kg/h",
+    "4-5 mL/kg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#036ea3",
+   "kind": "mcq",
+   "stem": "In paediatric intraoperative fluids, what tonicity do most surgical losses have?",
+   "options": [
+    "Hypotonic",
+    "Isotonic",
+    "Hypertonic",
+    "Dextrose-containing"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#2a70ba",
+   "kind": "statement",
+   "stem": "On what physiological link are paediatric maintenance fluid formulae based?",
+   "answer": "The link between weight and metabolic rate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#82c783",
+   "kind": "mcq",
+   "stem": "In paediatric maintenance, how much energy per kg per day is needed by infants?",
+   "options": [
+    "75 kcal/kg/day",
+    "150 kcal/kg/day",
+    "50 kcal/kg/day",
+    "100 kcal/kg/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#7092b4",
+   "kind": "mcq",
+   "stem": "In paediatric maintenance fluid calculations, how much water is given per kcal?",
+   "options": [
+    "2 mL",
+    "1 mL",
+    "0.5 mL",
+    "4 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#b2bb02",
+   "kind": "mcq",
+   "stem": "In paediatric maintenance fluids, what time unit does the 4-2-1 regimen use?",
+   "options": [
+    "Per day",
+    "Per minute",
+    "Per hour",
+    "Per week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#27febc",
+   "kind": "mcq",
+   "stem": "In the 4-2-1 hourly maintenance rule, what is given per kg for the first 10 kg?",
+   "options": [
+    "2 mL/kg",
+    "8 mL/kg",
+    "4 mL/kg",
+    "1 mL/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#08c9ef",
+   "kind": "mcq",
+   "stem": "In the 4-2-1 hourly maintenance rule, what is given per kg for the second 10 kg of body weight?",
+   "options": [
+    "4 mL/kg",
+    "1 mL/kg",
+    "3 mL/kg",
+    "2 mL/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#2f758b",
+   "kind": "mcq",
+   "stem": "In the 4-2-1 hourly maintenance rule, what is given per kg for each kg beyond the first 20 kg?",
+   "options": [
+    "4 mL/kg",
+    "2 mL/kg",
+    "0.5 mL/kg",
+    "1 mL/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#711db0",
+   "kind": "mcq",
+   "stem": "Using the 4-2-1 rule, what is the hourly maintenance for a 17 kg child?",
+   "options": [
+    "64 mL/hour",
+    "54 mL/hour",
+    "44 mL/hour",
+    "34 mL/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#711db0",
+   "kind": "mcq",
+   "stem": "Using the 4-2-1 rule, what is the hourly maintenance for a 24 kg child?",
+   "options": [
+    "54 mL/hour",
+    "44 mL/hour",
+    "64 mL/hour",
+    "74 mL/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#37f50b",
+   "kind": "mcq",
+   "stem": "In paediatric maintenance fluids, what sodium requirement per kg per day is given?",
+   "options": [
+    "1-2 mmol/kg/day",
+    "2-4 mmol/kg/day",
+    "4-6 mmol/kg/day",
+    "0.5-1 mmol/kg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#f5a92b",
+   "kind": "mcq",
+   "stem": "In paediatric maintenance fluids, what potassium requirement per kg per day is given?",
+   "options": [
+    "0.5-1 mmol/kg/day",
+    "4-6 mmol/kg/day",
+    "2-3 mmol/kg/day",
+    "1-2 mmol/kg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#70dc88",
+   "kind": "mcq",
+   "stem": "Which fluid replaces paediatric nasogastric losses volume for volume?",
+   "options": [
+    "Dextrose 5% with 20 mmol KCl per 500 mL",
+    "0.45% saline with 40 mmol KCl per litre",
+    "Hartmann's or 0.9% saline with 10 mmol KCl per 500 mL",
+    "Colloid starch with 10 mmol KCl per 500 mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#ff3b60",
+   "kind": "mcq",
+   "stem": "In paediatric stoma losses, what share is replaced with 0.9% saline with 10 mmol KCl per 500 mL?",
+   "options": [
+    "10-25%",
+    "25-40%",
+    "50-75%",
+    "80-100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#94136b",
+   "kind": "mcq",
+   "stem": "What infusion device should deliver paediatric maintenance fluids, per the notes?",
+   "options": [
+    "Gravity giving set",
+    "Volumetric pump with a pressure limit",
+    "Syringe driver only",
+    "Pressure bag without a limit"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#9de017",
+   "kind": "blank",
+   "stem": "A common paediatric maintenance fluid is 0.45% saline with ____ dextrose.",
+   "answer": "5%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#ade08f",
+   "kind": "blank",
+   "stem": "A common paediatric maintenance fluid is 0.45% saline with 2.5% ____.",
+   "answer": "dextrose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#ef9b5f",
+   "kind": "blank",
+   "stem": "A common paediatric maintenance fluid is 0.225% saline with ____ glucose.",
+   "answer": "5%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#fe4850",
+   "kind": "blank",
+   "stem": "A common paediatric maintenance fluid is 0.18% saline with ____ glucose.",
+   "answer": "4%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#bfeb4d",
+   "kind": "mcq",
+   "stem": "Which dextrose strength is often used in premature babies and neonates for maintenance?",
+   "options": [
+    "5%",
+    "2.5%",
+    "4%",
+    "10%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#d53ba3",
+   "kind": "mcq",
+   "stem": "In paediatric maintenance, when should electrolytes be checked if fluids keep running?",
+   "options": [
+    "After 1-2 hours",
+    "After 6-8 hours",
+    "After 24-48 hours",
+    "After 1 week"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#9f95de",
+   "kind": "mcq",
+   "stem": "What share of calculated paediatric postoperative maintenance do some anaesthetists restrict to?",
+   "options": [
+    "20-30%",
+    "50-75%",
+    "80-90%",
+    "100-120%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#440b1d",
+   "kind": "statement",
+   "stem": "In a neonate, what happens to the expanded extracellular compartment in the first few days?",
+   "answer": "It contracts, with weight loss and negative water and sodium balance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#60d12d",
+   "kind": "statement",
+   "stem": "In neonatal maintenance fluids, until when should fluid be restricted?",
+   "answer": "Until postnatal weight loss has happened",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#c3d263",
+   "kind": "mcq",
+   "stem": "In neonatal maintenance, how does water requirement change over the first 4 days?",
+   "options": [
+    "Falls steadily",
+    "Stays constant",
+    "Rises",
+    "Doubles on day one"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#d5174b",
+   "kind": "mcq",
+   "stem": "In neonatal maintenance, what water requirement applies on day 1, in mL/kg/day?",
+   "options": [
+    "90 mL/kg/day",
+    "60 mL/kg/day",
+    "120 mL/kg/day",
+    "150 mL/kg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#40f1b8",
+   "kind": "mcq",
+   "stem": "In neonatal maintenance, what water requirement applies on day 2, in mL/kg/day?",
+   "options": [
+    "60 mL/kg/day",
+    "120 mL/kg/day",
+    "90 mL/kg/day",
+    "150 mL/kg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#17f00f",
+   "kind": "mcq",
+   "stem": "In neonatal maintenance, what water requirement applies on day 3, in mL/kg/day?",
+   "options": [
+    "90 mL/kg/day",
+    "150 mL/kg/day",
+    "180 mL/kg/day",
+    "120 mL/kg/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#a6c5fa",
+   "kind": "mcq",
+   "stem": "In neonatal maintenance, what water requirement applies by day 4, in mL/kg/day?",
+   "options": [
+    "120 mL/kg/day",
+    "150 mL/kg/day",
+    "180 mL/kg/day",
+    "60 mL/kg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#df7cd6",
+   "kind": "mcq",
+   "stem": "In neonatal maintenance, what water requirement applies from day 5 to 1 month?",
+   "options": [
+    "120 mL/kg/day",
+    "200 mL/kg/day",
+    "150 mL/kg/day",
+    "90 mL/kg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#062ac6",
+   "kind": "mcq",
+   "stem": "In preterm neonatal maintenance, what water requirement applies from day 6 to 1 month?",
+   "options": [
+    "150 mL/kg/day",
+    "120 mL/kg/day",
+    "180 mL/kg/day",
+    "200 mL/kg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#032801",
+   "kind": "statement",
+   "stem": "In neonatal maintenance, how do daily sodium needs change over the first days, compared with water?",
+   "answer": "They stay stable, unlike water needs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#ad1d8f",
+   "kind": "mcq",
+   "stem": "In neonatal maintenance, which dextrose solution is usually used?",
+   "options": [
+    "5%",
+    "10%",
+    "4%",
+    "2.5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#163616",
+   "kind": "mcq",
+   "stem": "In neonatal maintenance, which dextrose strength is occasionally needed in septic or fluid-restricted neonates?",
+   "options": [
+    "10%",
+    "5%",
+    "4%",
+    "20%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#46a968",
+   "kind": "statement",
+   "stem": "In neonatal maintenance, for how long after birth do babies typically lose weight before regaining?",
+   "answer": "7 to 10 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#ec8e99",
+   "kind": "mcq",
+   "stem": "After significant intrapartum stress, how much fluid do neonates need over the first 24-48 hours?",
+   "options": [
+    "More fluid",
+    "The same fluid",
+    "Less fluid",
+    "Double the fluid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#ac6f60",
+   "kind": "mcq",
+   "stem": "In neonatal fluid planning, how do infants under 1000 g compare for insensible water losses?",
+   "options": [
+    "Lower",
+    "Higher",
+    "Unchanged",
+    "Absent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#a8b0a6",
+   "kind": "mcq",
+   "stem": "In ward fluid calculations, how is the dehydration deficit in litres worked out?",
+   "options": [
+    "Body weight divided by percentage dehydration",
+    "Body weight multiplied by percentage dehydration",
+    "Body weight plus percentage dehydration",
+    "Percentage dehydration times 100"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#914073",
+   "kind": "mcq",
+   "stem": "For a 10 kg child who is 3% dehydrated, what is the fluid deficit in mL?",
+   "options": [
+    "30 mL",
+    "300 mL",
+    "3000 mL",
+    "3 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#4d63fe",
+   "kind": "mcq",
+   "stem": "In ward fluid calculations, which maintenance method is used over 1 year of age?",
+   "options": [
+    "Estimated blood volume",
+    "Body surface area",
+    "Holliday-Segar",
+    "Ideal body weight"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#053849",
+   "kind": "mcq",
+   "stem": "In Holliday-Segar maintenance, what daily volume per kg applies to the first 10 kg?",
+   "options": [
+    "50 mL/kg/day",
+    "100 mL/kg/day",
+    "20 mL/kg/day",
+    "150 mL/kg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#b30995",
+   "kind": "mcq",
+   "stem": "In Holliday-Segar maintenance, what daily volume per kg applies to the second 10 kg?",
+   "options": [
+    "100 mL/kg/day",
+    "20 mL/kg/day",
+    "50 mL/kg/day",
+    "150 mL/kg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#9e4b02",
+   "kind": "mcq",
+   "stem": "In Holliday-Segar maintenance, what daily volume per kg applies to each kg above the first 20 kg?",
+   "options": [
+    "10 mL/kg/day",
+    "50 mL/kg/day",
+    "100 mL/kg/day",
+    "20 mL/kg/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#0e0c0d",
+   "kind": "mcq",
+   "stem": "In paediatric ward fluid calculations, which children count as newborns?",
+   "options": [
+    "Under 28 days or under 4 kg",
+    "Under 14 days or under 3 kg",
+    "Under 7 days or under 2 kg",
+    "Under 1 month or under 5 kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#e1c1c9",
+   "kind": "statement",
+   "stem": "In paediatric ward fluid calculations, which maintenance requirements apply to infants under 1 year?",
+   "answer": "Neonatal IV maintenance requirements",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#1a429d",
+   "kind": "mcq",
+   "stem": "In a sick neonate beyond day 3 of life, what daily IV fluid limit is suggested?",
+   "options": [
+    "150–180 ml/kg/day",
+    "100–120 ml/kg/day",
+    "60–80 ml/kg/day",
+    "200–220 ml/kg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#1c6219",
+   "kind": "mcq",
+   "stem": "In paediatric fluid planning, roughly how much oral intake do infants usually get per day?",
+   "options": [
+    "60-80 ml/kg/day",
+    "250-300 ml/kg/day",
+    "150-200 ml/kg/day",
+    "20-30 ml/kg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#00923d",
+   "kind": "statement",
+   "stem": "For ongoing losses in a child, what volume is given per stool and per vomit?",
+   "answer": "10 ml/kg per stool, 2 ml/kg per vomit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#375d8b",
+   "kind": "mcq",
+   "stem": "In paediatric rehydration, over what period should fluid be given evenly?",
+   "options": [
+    "Over the first 2–4 hours",
+    "At least 6–8 hours",
+    "Within the first 12 hours",
+    "At least 24–48 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#7075c5",
+   "kind": "mcq",
+   "stem": "A 20 kg child is 5% dehydrated. How much IV fluid is given in the first 24 hours?",
+   "options": [
+    "2,000 ml/day",
+    "2,500 ml/day",
+    "3,500 ml/day",
+    "1,000 ml/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#7075c5",
+   "kind": "mcq",
+   "stem": "A 20 kg child is 5% dehydrated. What daily fluid applies after the first 24 hours?",
+   "options": [
+    "1,000 ml/day",
+    "2,000 ml/day",
+    "750 ml/day",
+    "1,500 ml/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#2f922b",
+   "kind": "statement",
+   "stem": "In paediatric fluid planning, which factors give higher fluid needs?",
+   "answer": "Fever, phototherapy, radiant warmer, ongoing losses (vomiting, diarrhoea, high stoma output, burns)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#25a828",
+   "kind": "statement",
+   "stem": "In paediatric fluid planning, which situations give lower fluid needs?",
+   "answer": "Stable postoperative children, renal or cardiac failure, SIADH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#222d18",
+   "kind": "statement",
+   "stem": "In paediatric IV fluid choice, what should the choice be based on?",
+   "answer": "Age, the underlying problem, and any electrolyte or glucose abnormality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#da362e",
+   "kind": "mcq",
+   "stem": "Which IV fluid suits a neonate under 1 month in paediatric fluid choice?",
+   "options": [
+    "5% dextrose with 0.9% NaCl",
+    "10% dextrose combination drip",
+    "5% dextrose with 0.45% NaCl",
+    "5% dextrose alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#5a53d0",
+   "kind": "mcq",
+   "stem": "Which IV fluid suits a child aged 1–3 months in paediatric fluid choice?",
+   "options": [
+    "5% dextrose with 0.45% NaCl",
+    "10% dextrose combination drip",
+    "5% dextrose with 0.9% NaCl",
+    "5% dextrose alone"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#f29ed6",
+   "kind": "mcq",
+   "stem": "Which IV fluid suits a child over 3 months in paediatric fluid choice?",
+   "options": [
+    "5% dextrose with 0.45% NaCl",
+    "10% dextrose combination drip",
+    "5% dextrose alone",
+    "5% dextrose with 0.9% NaCl"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#f16d0f",
+   "kind": "mcq",
+   "stem": "Which fluid is used to resuscitate a child in paediatric anaesthesia?",
+   "options": [
+    "Hypotonic 0.45% saline",
+    "Isotonic 0.9% saline",
+    "5% dextrose with 0.9% NaCl",
+    "Hypertonic 3% saline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#51d692",
+   "kind": "mcq",
+   "stem": "What is the usual paediatric fluid bolus volume, per kilogram?",
+   "options": [
+    "2-5 ml/kg",
+    "30-40 ml/kg",
+    "10-20 ml/kg",
+    "50-60 ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#51d692",
+   "kind": "mcq",
+   "stem": "Over what time is a paediatric fluid bolus given?",
+   "options": [
+    "Over 5 min",
+    "Over 60 min",
+    "Over 20 min",
+    "Over 2 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#aa9e8a",
+   "kind": "statement",
+   "stem": "Why must all air be cleared from paediatric IV lines?",
+   "answer": "Partly patent shunts risk paradoxical air embolism and cardiovascular collapse",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#67bc01",
+   "kind": "blank",
+   "stem": "Paediatric sodium deficit = 0.6 x weight (kg) x (____ - Na+). What number fills the gap?",
+   "answer": "135",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#67bc01",
+   "kind": "statement",
+   "stem": "In paediatric fluid planning, what is the formula for the sodium deficit?",
+   "answer": "Deficit = 0.6 x weight (kg) x (135 - Na+)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#9ab156",
+   "kind": "mcq",
+   "stem": "What sodium concentration does 3% NaCl contain?",
+   "options": [
+    "154 mmol/L",
+    "342 mmol/L",
+    "513 mmol/L",
+    "38.5 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#9ab156",
+   "kind": "mcq",
+   "stem": "What sodium concentration does normal saline contain?",
+   "options": [
+    "513 mmol/L",
+    "154 mmol/L",
+    "140 mmol/L",
+    "38.5 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#d3d083",
+   "kind": "mcq",
+   "stem": "In paediatric fluid planning, what is the maintenance sodium requirement?",
+   "options": [
+    "1-2 mmol/kg x weight (kg)",
+    "4-5 mmol/kg x weight (kg)",
+    "2-3 mmol/kg x weight (kg)",
+    "0.5-1 mmol/kg x weight (kg)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#f982d0",
+   "kind": "mcq",
+   "stem": "In paediatric fluid planning, what is the maintenance potassium requirement?",
+   "options": [
+    "2-3 mmol/kg x weight (kg)",
+    "0.5-1 mmol/kg x weight (kg)",
+    "4-5 mmol/kg x weight (kg)",
+    "1-2 mmol/kg x weight (kg)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#5ea53e",
+   "kind": "statement",
+   "stem": "Why can a potassium of up to 6 mmol/L be normal in a neonate?",
+   "answer": "Neonates have a high red cell load",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-fluids-and-electrolytes#5ea53e",
+   "kind": "mcq",
+   "stem": "In paediatric electrolytes, what upper potassium level is normal in neonates?",
+   "options": [
+    "Up to 4 mmol/L",
+    "Up to 6 mmol/L",
+    "Up to 3 mmol/L",
+    "Up to 8 mmol/L"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

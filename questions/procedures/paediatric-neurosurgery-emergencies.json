@@ -1,0 +1,671 @@
+{
+ "topic": "procedures/paediatric-neurosurgery-emergencies",
+ "questions": [
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#615800",
+   "kind": "statement",
+   "stem": "In paediatric neurosurgery emergencies, which procedure makes up most non-elective cases?",
+   "answer": "VP shunts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#121150",
+   "kind": "mcq",
+   "stem": "What is the median survival of a VP shunt inserted before two years of age, before revision?",
+   "options": [
+    "6 months",
+    "2 years",
+    "5 years",
+    "12 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#121150",
+   "kind": "mcq",
+   "stem": "What is the median survival of a VP shunt inserted after two years of age, before revision?",
+   "options": [
+    "3-4 years",
+    "8-10 years",
+    "1 year",
+    "15-20 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#4d474f",
+   "kind": "statement",
+   "stem": "When a VP shunt is blocked or fractured, what are the two surgical options?",
+   "answer": "Revise one part or replace the whole shunt",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#91356e",
+   "kind": "mcq",
+   "stem": "Which investigations confirm a blocked ventriculoperitoneal shunt?",
+   "options": [
+    "Chest X-ray",
+    "CT head or shunt tap",
+    "Serum sodium level",
+    "Abdominal ultrasound"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#762a2c",
+   "kind": "mcq",
+   "stem": "Who usually recognises raised ICP in a child with a blocked shunt?",
+   "options": [
+    "Ward nurses",
+    "Parents",
+    "Paediatric surgeon",
+    "Anaesthetic registrar"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#e12473",
+   "kind": "statement",
+   "stem": "How is raised ICP usually relieved before surgery for a blocked VP shunt?",
+   "answer": "Draining CSF through the access device",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#c26e1a",
+   "kind": "statement",
+   "stem": "How often does a child with raised ICP from a shunt problem need emergency anaesthesia?",
+   "answer": "Occasionally",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#2ab61f",
+   "kind": "mcq",
+   "stem": "How long does full replacement of a blocked VP shunt take?",
+   "options": [
+    "30-45 minutes",
+    "1-2 hours",
+    "4-5 hours",
+    "6-8 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#c5bbf8",
+   "kind": "statement",
+   "stem": "In blocked shunt surgery with minimal blood loss, what fluid covers fasting deficit and maintenance?",
+   "answer": "Isotonic crystalloid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#0d8971",
+   "kind": "statement",
+   "stem": "What local infiltration is used for haemostasis and analgesia in VP shunt surgery?",
+   "answer": "Local anaesthetic plus adrenaline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#a2dd2c",
+   "kind": "mcq",
+   "stem": "What intravenous paracetamol dose is added to analgesia after blocked shunt surgery?",
+   "options": [
+    "5 mg/kg",
+    "15 mg/kg",
+    "25 mg/kg",
+    "60 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#a2dd2c",
+   "kind": "mcq",
+   "stem": "What intravenous fentanyl dose is added to analgesia after blocked shunt surgery?",
+   "options": [
+    "0.5-1 mcg/kg",
+    "2-4 mcg/kg",
+    "10-20 mcg/kg",
+    "50-100 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#a2dd2c",
+   "kind": "blank",
+   "stem": "The rectal paracetamol dose used for analgesia after blocked shunt surgery is ____.",
+   "answer": "40 mg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#b5163e",
+   "kind": "mcq",
+   "stem": "For how long should neurological observations continue after blocked shunt surgery?",
+   "options": [
+    "6 hours",
+    "12 hours",
+    "24 hours",
+    "72 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#b5163e",
+   "kind": "mcq",
+   "stem": "After shunt surgery, what coma scale drop should prompt escalation?",
+   "options": [
+    "Any single point",
+    "Two points or more",
+    "Four points or more",
+    "Six points or more"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#0c4cff",
+   "kind": "statement",
+   "stem": "After blocked shunt surgery, when are maintenance fluids stopped?",
+   "answer": "Once the child is drinking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#e0981a",
+   "kind": "mcq",
+   "stem": "What is the oral paracetamol dose and interval after blocked shunt surgery?",
+   "options": [
+    "15 mg/kg 12-hourly",
+    "15 mg/kg 6-hourly",
+    "7.5 mg/kg 6-hourly",
+    "40 mg/kg 6-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#43168a",
+   "kind": "mcq",
+   "stem": "What is the oral ibuprofen dose and interval after blocked shunt surgery?",
+   "options": [
+    "2 mg/kg 6-hourly",
+    "10 mg/kg 6-hourly",
+    "50 mg/kg 6-hourly",
+    "100 mg/kg 6-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#2ee22b",
+   "kind": "mcq",
+   "stem": "What oral morphine dose and interval is used for analgesia after blocked shunt surgery, if needed?",
+   "options": [
+    "20-30 mcg/kg 4-hourly",
+    "2-3 mg/kg 4-hourly",
+    "200-300 mcg/kg 8-hourly",
+    "200-300 mcg/kg 4-hourly"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#d122cf",
+   "kind": "mcq",
+   "stem": "In children aged 1-15 years, what is the commonest single cause of trauma death?",
+   "options": [
+    "Drowning",
+    "Head injury",
+    "Burns",
+    "Abdominal haemorrhage"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#d7fe54",
+   "kind": "mcq",
+   "stem": "In children, what share of injury-related deaths does head injury account for?",
+   "options": [
+    "10%",
+    "25%",
+    "40%",
+    "60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#920b17",
+   "kind": "statement",
+   "stem": "Which guideline should guide initial management of paediatric traumatic brain injury?",
+   "answer": "ATLS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#a45d6f",
+   "kind": "statement",
+   "stem": "In a head-injured child, what does papilloedema on fundoscopy suggest?",
+   "answer": "Raised ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#a45d6f",
+   "kind": "mcq",
+   "stem": "What do retinal haemorrhages in a young head-injured child raise suspicion of?",
+   "options": [
+    "Meningitis",
+    "Non-accidental injury",
+    "Pre-existing epilepsy",
+    "Migraine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#80a02f",
+   "kind": "statement",
+   "stem": "What is the goal of head injury resuscitation in children?",
+   "answer": "Prevent secondary brain injury after the primary insult",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#dfdec9",
+   "kind": "mcq",
+   "stem": "What target MAP maintains CPP in a child under 3 months with head injury?",
+   "options": [
+    "40-60 mmHg",
+    "45-75 mmHg",
+    "50-90 mmHg",
+    "65-95 mmHg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#94c933",
+   "kind": "mcq",
+   "stem": "What target MAP maintains CPP in a child aged 3-12 months with head injury?",
+   "options": [
+    "35-55 mmHg",
+    "45-75 mmHg",
+    "60-90 mmHg",
+    "70-100 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#399a08",
+   "kind": "mcq",
+   "stem": "What target MAP maintains CPP in a child aged 1-5 years with head injury?",
+   "options": [
+    "40-60 mmHg",
+    "50-90 mmHg",
+    "60-90 mmHg",
+    "65-95 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#179374",
+   "kind": "mcq",
+   "stem": "What target MAP maintains CPP in a child aged 6-11 years with head injury?",
+   "options": [
+    "50-90 mmHg",
+    "60-90 mmHg",
+    "65-95 mmHg",
+    "70-100 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#b9d09c",
+   "kind": "mcq",
+   "stem": "What target MAP maintains CPP in a child aged 12-14 years with head injury?",
+   "options": [
+    "60-90 mmHg",
+    "65-95 mmHg",
+    "70-100 mmHg",
+    "75-105 mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#2119b9",
+   "kind": "statement",
+   "stem": "Why is emergency surgery done for an intracranial haematoma after trauma?",
+   "answer": "To lower ICP, keep CPP and limit secondary injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#fbe46d",
+   "kind": "statement",
+   "stem": "Which types of intracranial haematoma does this section cover?",
+   "answer": "Extradural, subdural or intracerebral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#9f4da7",
+   "kind": "statement",
+   "stem": "Before haematoma evacuation, which approach should already have stabilised the child?",
+   "answer": "APLS ABC approach",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#02c38d",
+   "kind": "statement",
+   "stem": "In early care of intracerebral haematoma in a child, which infusions are given?",
+   "answer": "Morphine and midazolam",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#caf665",
+   "kind": "statement",
+   "stem": "Where may a child with an intracranial haematoma need to be transferred?",
+   "answer": "A paediatric neurosurgical centre",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#32e8b6",
+   "kind": "statement",
+   "stem": "If a child is already intubated before haematoma evacuation, what should be recorded?",
+   "answer": "ETT size and length, drugs given, allergies, vascular access",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#8367ac",
+   "kind": "blank",
+   "stem": "Before haematoma evacuation, mannitol may have been given and will cause a ____.",
+   "answer": "diuresis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#13155b",
+   "kind": "blank",
+   "stem": "Before haematoma evacuation, clarify the child's ____ status.",
+   "answer": "cervical spine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#5e11fc",
+   "kind": "statement",
+   "stem": "What are the main principles of anaesthesia for evacuating an intracranial haematoma?",
+   "answer": "Keep CPP, oxygenate and ventilate, protect lungs from aspiration",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#5e11fc",
+   "kind": "mcq",
+   "stem": "Which principle protects the lungs during anaesthesia for haematoma evacuation?",
+   "options": [
+    "Maximise urine output",
+    "Avoid all intravenous fluids",
+    "Protect lungs from aspiration",
+    "Keep the child fully awake"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#5cf58a",
+   "kind": "mcq",
+   "stem": "For low MAP despite haemorrhage control, what noradrenaline range is used in haematoma evacuation?",
+   "options": [
+    "0.01-0.05 mcg/kg/min",
+    "0.1-0.5 mcg/kg/min",
+    "1-5 mcg/kg/min",
+    "10-20 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#8c9f95",
+   "kind": "statement",
+   "stem": "Why transfer a child to the theatre table with particular care in haematoma evacuation?",
+   "answer": "Possible cervical spine injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#ea5acb",
+   "kind": "mcq",
+   "stem": "For a non-anaesthetised child with haematoma, which intubation approach is usually preferred?",
+   "options": [
+    "Inhalational induction, spontaneous breathing",
+    "RSI with armoured ETT",
+    "Awake fibreoptic intubation",
+    "Laryngeal mask airway"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#861a5d",
+   "kind": "mcq",
+   "stem": "What arterial pCO2 range indicates moderate hyperventilation during haematoma evacuation?",
+   "options": [
+    "2.0-2.5 kPa",
+    "4.0-4.5 kPa",
+    "5.5-6.0 kPa",
+    "7.5-8.0 kPa"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#81c801",
+   "kind": "statement",
+   "stem": "Which maintenance anaesthetic gases are used for evacuating intracranial haematoma?",
+   "answer": "Volatile in oxygen and air, or oxygen and nitrous oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#cd9176",
+   "kind": "mcq",
+   "stem": "What morphine bolus dose is used for analgesia in haematoma evacuation?",
+   "options": [
+    "10 mcg/kg",
+    "100 mcg/kg",
+    "1 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#cd9176",
+   "kind": "mcq",
+   "stem": "What remifentanil infusion range is used for analgesia in haematoma evacuation?",
+   "options": [
+    "0.025-0.05 mcg/kg/min",
+    "0.25-0.5 mcg/kg/min",
+    "2.5-5 mcg/kg/min",
+    "25-50 mcg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#ccdf6e",
+   "kind": "mcq",
+   "stem": "With remifentanil, when should morphine be given if extubation is planned?",
+   "options": [
+    "At induction",
+    "About 30 min before the end",
+    "Immediately after extubation",
+    "On arrival in ITU"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#f07b0d",
+   "kind": "statement",
+   "stem": "Which standard monitors are used during haematoma evacuation?",
+   "answer": "Capnography, SpO2, NIBP, ECG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#f07b0d",
+   "kind": "mcq",
+   "stem": "Should emergency haematoma surgery be delayed to place an arterial line?",
+   "options": [
+    "Yes, always wait for it",
+    "No, do not delay surgery for it",
+    "Only if blood pressure is low",
+    "Only in children under one year"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#7facbe",
+   "kind": "statement",
+   "stem": "How is temperature monitored during haematoma evacuation in a child?",
+   "answer": "Skin or rectal probe, with a warming mattress",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#b78fee",
+   "kind": "mcq",
+   "stem": "At what haemoglobin should a child be transfused during haematoma evacuation?",
+   "options": [
+    "Hb below 5 g/dL",
+    "Hb below 7 g/dL",
+    "Hb below 9 g/dL",
+    "Hb below 11 g/dL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#b78fee",
+   "kind": "statement",
+   "stem": "How is haemoglobin monitored during haematoma evacuation?",
+   "answer": "Point-of-care Hb (HemoCue) or blood gas",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#393a9d",
+   "kind": "mcq",
+   "stem": "How much maintenance fluid should be given during haematoma evacuation, compared with normal?",
+   "options": [
+    "25% of normal",
+    "50% of normal",
+    "100% of normal",
+    "200% of normal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#86f530",
+   "kind": "statement",
+   "stem": "Which blood parameter should be kept normal during haematoma evacuation?",
+   "answer": "Blood glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#bed336",
+   "kind": "mcq",
+   "stem": "What phenytoin loading dose should be considered for seizure activity during haematoma evacuation?",
+   "options": [
+    "9 mg/kg",
+    "18 mg/kg",
+    "30 mg/kg",
+    "50 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#d499cd",
+   "kind": "statement",
+   "stem": "A child awake before surgery for isolated extradural haematoma is usually what?",
+   "answer": "Woken and extubated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#693951",
+   "kind": "statement",
+   "stem": "After haematoma evacuation, where are children more often managed?",
+   "answer": "ITU with ventilation and sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/paediatric-neurosurgery-emergencies#18c379",
+   "kind": "statement",
+   "stem": "Which blood tests should be checked during haematoma evacuation if not already done?",
+   "answer": "U&E and FBC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

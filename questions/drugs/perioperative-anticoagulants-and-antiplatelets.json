@@ -1,0 +1,665 @@
+{
+ "topic": "drugs/perioperative-anticoagulants-and-antiplatelets",
+ "questions": [
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#eefdf6",
+   "kind": "mcq",
+   "stem": "Perioperatively, how long before surgery are aspirin or clopidogrel stopped?",
+   "options": [
+    "5 days",
+    "10 days",
+    "7 days",
+    "14 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#608613",
+   "kind": "mcq",
+   "stem": "Before elective surgery, how many days before is warfarin stopped?",
+   "options": [
+    "2 days",
+    "7 days",
+    "5 days",
+    "10 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#97c20d",
+   "kind": "mcq",
+   "stem": "How long before surgery is unfractionated heparin (UFH) stopped?",
+   "options": [
+    "12-24hrs",
+    "4-6hrs",
+    "72hrs",
+    "24-48hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#e5f868",
+   "kind": "mcq",
+   "stem": "How long before surgery is therapeutic enoxaparin stopped?",
+   "options": [
+    "12h",
+    "48h",
+    "24h",
+    "72hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#e5f868",
+   "kind": "mcq",
+   "stem": "How long before surgery is prophylactic enoxaparin stopped?",
+   "options": [
+    "6h",
+    "12h",
+    "24h",
+    "48h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#b59921",
+   "kind": "mcq",
+   "stem": "Perioperatively, how long before surgery is apixaban stopped?",
+   "options": [
+    "12-24hrs",
+    "48-72hrs",
+    "4-6hrs",
+    "7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#72d44a",
+   "kind": "mcq",
+   "stem": "What annual thromboembolic risk defines the high-risk group before surgery on anticoagulants?",
+   "options": [
+    "5-8%/yr",
+    "<1%/yr",
+    ">10%/yr",
+    "1-5%/yr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#e0e897",
+   "kind": "statement",
+   "stem": "Which valve features place a patient in the high thromboembolic risk group before surgery?",
+   "answer": "Mechanical mitral or tricuspid valve; old caged-ball or tilting-disc valve; multiple valves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#3e02a1",
+   "kind": "mcq",
+   "stem": "What CHA2DS2-VASc score puts AF in the high thromboembolic risk group?",
+   "options": [
+    "5-6",
+    "7-9",
+    "1-4",
+    "0-2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#b30c8f",
+   "kind": "statement",
+   "stem": "Which thrombophilias count as severe in perioperative thromboembolic risk?",
+   "answer": "Triple-positive antiphospholipid syndrome, protein C, S or antithrombin deficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#029484",
+   "kind": "mcq",
+   "stem": "What ejection fraction puts a patient in the high thromboembolic risk group?",
+   "options": [
+    ">50%",
+    "<30%",
+    ">60%",
+    "45–55%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#89b142",
+   "kind": "statement",
+   "stem": "What defines moderate thromboembolic risk for a bileaflet aortic valve replacement?",
+   "answer": "Bileaflet AVR plus one risk factor (AF, stroke, hypertension, diabetes, heart failure, age >75)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#980057",
+   "kind": "mcq",
+   "stem": "What CHA2DS2-VASc score puts AF in the moderate thromboembolic risk group?",
+   "options": [
+    "1-4",
+    "0-2",
+    "5-6",
+    "7-9"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#2be129",
+   "kind": "statement",
+   "stem": "Which CHA2DS2-VASc score range gives low perioperative thromboembolic risk in AF?",
+   "answer": "1-4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#6513e3",
+   "kind": "mcq",
+   "stem": "After a VTE, when is perioperative thromboembolic risk low?",
+   "options": [
+    "3–12 weeks ago",
+    "<3 months ago",
+    "6-8 weeks ago",
+    ">12 months ago"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#9b229a",
+   "kind": "statement",
+   "stem": "Which procedures count as high bleeding risk when planning anticoagulation?",
+   "answer": "Neuraxial block; intracranial, spinal or posterior eye surgery; major cavity or cancer resection",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#4ef2ca",
+   "kind": "statement",
+   "stem": "Which procedures count as minimal bleeding risk when planning anticoagulation?",
+   "answer": "Cataract, minor dental, superficial skin surgery, diagnostic endoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#ace656",
+   "kind": "mcq",
+   "stem": "For low bleeding risk surgery on anticoagulants, what is the general strategy?",
+   "options": [
+    "Stop and bridge with heparin",
+    "Continue; optimise local haemostasis",
+    "Defer surgery until anticoagulant wears off",
+    "Stop and give vitamin K"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#608d43",
+   "kind": "statement",
+   "stem": "For high bleeding risk surgery on anticoagulants, what is the general strategy?",
+   "answer": "Defer, or stop drugs, or stop drugs and bridge if thrombotic risk is high",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#4e47e8",
+   "kind": "statement",
+   "stem": "In perioperative anticoagulation planning, which two specialties should the patient be referred to preoperatively?",
+   "answer": "Cardiology and haematology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#e88eb2",
+   "kind": "statement",
+   "stem": "What intraoperative measures help manage bleeding in patients on anticoagulants?",
+   "answer": "Patient blood management, tranexamic acid, ROTEM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#1ce6a0",
+   "kind": "statement",
+   "stem": "In perioperative anticoagulation, what is restarted after surgery?",
+   "answer": "Bridging heparin and anticoagulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#3b1060",
+   "kind": "mcq",
+   "stem": "Which device is considered for VTE protection in perioperative anticoagulation?",
+   "options": [
+    "Left atrial appendage occluder",
+    "Carotid stent",
+    "IVC filter",
+    "Pulmonary artery catheter"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#450111",
+   "kind": "mcq",
+   "stem": "Perioperative clopidogrel: how many days before surgery is it stopped when cardiac risk is high?",
+   "options": [
+    "7 days",
+    "5 days",
+    "10 days",
+    "14 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#1f1113",
+   "kind": "mcq",
+   "stem": "Perioperative clopidogrel: how many days before surgery if cardiac risk is low but bleeding risk high?",
+   "options": [
+    "3 days",
+    "10 days",
+    "7 days",
+    "14 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#4d6fc4",
+   "kind": "mcq",
+   "stem": "In perioperative antiplatelet therapy, how many days before surgery is dipyridamole stopped?",
+   "options": [
+    "5 days",
+    "10 days",
+    "14 days",
+    "7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#e75d5b",
+   "kind": "mcq",
+   "stem": "In perioperative antiplatelet therapy, how many days before surgery is ticlopidine stopped?",
+   "options": [
+    "7 days",
+    "14 days",
+    "10 days",
+    "5 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#61fbe9",
+   "kind": "mcq",
+   "stem": "In perioperative antiplatelet therapy, how long before surgery are eptifibatide or tirofiban stopped?",
+   "options": [
+    "24-48h",
+    "4-8h",
+    "12-24h",
+    "72hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#9c01cb",
+   "kind": "mcq",
+   "stem": "In perioperative antiplatelet therapy, how long before surgery is abciximab stopped?",
+   "options": [
+    "4-8h",
+    "72hrs",
+    "24-48h",
+    "7 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#0d40fb",
+   "kind": "mcq",
+   "stem": "In perioperative antiplatelet therapy, when are antiplatelets restarted after surgery?",
+   "options": [
+    "1h after surgery",
+    "72h after surgery",
+    "24h after surgery",
+    "7 days after surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#0fae30",
+   "kind": "statement",
+   "stem": "In urgent surgery on warfarin, which two agents reverse the anticoagulation?",
+   "answer": "PCC and vitamin K",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#a89936",
+   "kind": "mcq",
+   "stem": "For semi-urgent surgery on warfarin, what IV vitamin K dose is given?",
+   "options": [
+    "5–10 mg",
+    "1–2.5 mg",
+    "10–20 mg",
+    "0.1–0.5 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#a89936",
+   "kind": "mcq",
+   "stem": "For semi-urgent surgery on warfarin, what oral vitamin K dose is given?",
+   "options": [
+    "10–20 mg",
+    "2.5–5 mg",
+    "0.5–1 mg",
+    "50 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#a89936",
+   "kind": "mcq",
+   "stem": "Over how long does vitamin K reverse warfarin in semi-urgent surgery?",
+   "options": [
+    "1-2 hours",
+    "1-2 days",
+    "5 days",
+    "1-2 weeks"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#cccc85",
+   "kind": "mcq",
+   "stem": "Before elective surgery on warfarin, what INR target is checked the day before?",
+   "options": [
+    "2.0-3.0",
+    "<1.5",
+    "3.0-4.0",
+    "<2.0"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#ebb243",
+   "kind": "mcq",
+   "stem": "Before surgery on warfarin, what oral vitamin K dose may be considered if INR is above 1.5?",
+   "options": [
+    "5-10mg",
+    "1-2mg",
+    "10-20mg",
+    "0.1-0.2mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#4abd80",
+   "kind": "mcq",
+   "stem": "Before neuraxial block on warfarin, what INR must be reached, per ASRA?",
+   "options": [
+    "< 1.8",
+    "< 2.5",
+    "< 1.2",
+    "< 3.0"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#50eea7",
+   "kind": "statement",
+   "stem": "Which patients need heparin bridging when warfarin is stopped before surgery?",
+   "answer": "High thromboembolic risk patients on warfarin only, not DOACs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#101556",
+   "kind": "mcq",
+   "stem": "What subcutaneous enoxaparin dose is used for therapeutic bridging?",
+   "options": [
+    "40mg OD",
+    "1-1.5mg/kg BD",
+    "0.5mg/kg OD",
+    "2-3mg/kg OD"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#101556",
+   "kind": "mcq",
+   "stem": "What subcutaneous enoxaparin dose is used for intermediate bridging?",
+   "options": [
+    "20mg BD",
+    "40mg BD",
+    "60mg BD",
+    "1-1.5mg/kg BD"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#0c4533",
+   "kind": "mcq",
+   "stem": "In warfarin bridging, how many days before surgery is LMWH started?",
+   "options": [
+    "1 day",
+    "5 days",
+    "3 days",
+    "7 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#c522ce",
+   "kind": "mcq",
+   "stem": "As an alternative bridge, what APTT ratio is IV unfractionated heparin titrated to?",
+   "options": [
+    "0.5-1x APTT",
+    "1.5-2x APTT",
+    "3-4x APTT",
+    "5-6x APTT"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#5bd27c",
+   "kind": "statement",
+   "stem": "Why should UFH or LMWH not be restarted too early after surgery?",
+   "answer": "They act fast",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#46f7d8",
+   "kind": "mcq",
+   "stem": "After surgery on warfarin, how soon is warfarin restarted with LMWH overlap?",
+   "options": [
+    "48-72h",
+    "12-24h",
+    "1-2h",
+    "5-7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#857d28",
+   "kind": "mcq",
+   "stem": "After restarting warfarin, how long can INR take to rise above 2?",
+   "options": [
+    "1 day",
+    "12-24 hours",
+    "10 days",
+    "5 days"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#a52bda",
+   "kind": "mcq",
+   "stem": "When is LMWH or UFH stopped after warfarin is restarted?",
+   "options": [
+    "After the first therapeutic INR",
+    "Once INR is above 3",
+    "After 5 days of warfarin",
+    "Once INR is therapeutic for 2 days in a row"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#010662",
+   "kind": "mcq",
+   "stem": "Which anticoagulants need no heparin bridging before surgery?",
+   "options": [
+    "Warfarin",
+    "Enoxaparin",
+    "DOACs",
+    "Unfractionated heparin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#fa1d7f",
+   "kind": "statement",
+   "stem": "What determines how long before surgery a DOAC is stopped?",
+   "answer": "The drug and renal function",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#37a7cd",
+   "kind": "mcq",
+   "stem": "For a DOAC before high bleeding risk surgery or neuraxial block, how long is it stopped?",
+   "options": [
+    "48hrs (2 days)",
+    "24hrs",
+    "72hrs (3 days)",
+    "7 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#44b1dd",
+   "kind": "mcq",
+   "stem": "For a DOAC before low bleeding risk surgery, how long is it stopped?",
+   "options": [
+    "12hrs",
+    "48hrs (2 days)",
+    "24hrs",
+    "7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#6d239f",
+   "kind": "mcq",
+   "stem": "For DOAC stopping, how much extra time is added when CrCl<30?",
+   "options": [
+    "12hrs",
+    "No extra time",
+    "24hrs",
+    "48hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#4f5a77",
+   "kind": "mcq",
+   "stem": "In emergency bleeding on antiplatelet drugs, how many platelet units are given?",
+   "options": [
+    "1 unit of FFP",
+    "1 unit of platelets",
+    "2 units of cryoprecipitate",
+    "10 units of platelets"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#a7337b",
+   "kind": "statement",
+   "stem": "For emergency warfarin reversal, what is given alongside PCC?",
+   "answer": "Vitamin K",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/perioperative-anticoagulants-and-antiplatelets#d51c58",
+   "kind": "statement",
+   "stem": "Which agents reverse DOACs in an emergency?",
+   "answer": "Andexanet alfa, idarucizumab or PCC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

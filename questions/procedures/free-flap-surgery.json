@@ -1,0 +1,931 @@
+{
+ "topic": "procedures/free-flap-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/free-flap-surgery#87a90a",
+   "kind": "mcq",
+   "stem": "Free flap reconstruction is used for which type of wound?",
+   "options": [
+    "Small clean lacerations closed with sutures",
+    "Large wounds that cannot be closed primarily",
+    "Simple superficial burns that heal with dressings",
+    "Shallow cuts needing only adhesive strips"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#47c4be",
+   "kind": "blank",
+   "stem": "In free flap surgery, the transferred tissue's circulation is restored by ____.",
+   "answer": "microvascular anastomosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#22c1e5",
+   "kind": "mcq",
+   "stem": "Which major surgery commonly leaves a defect needing free flap reconstruction?",
+   "options": [
+    "Laparoscopic cholecystectomy",
+    "Diagnostic knee arthroscopy",
+    "Day-case hernia repair",
+    "Mastectomy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#825b23",
+   "kind": "statement",
+   "stem": "In multiple trauma needing free flap reconstruction, what must come first?",
+   "answer": "Treat life-threatening injuries and stabilise haemodynamics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#9759fe",
+   "kind": "mcq",
+   "stem": "How is a free flap's own artery and vein joined to vessels at the recipient site?",
+   "options": [
+    "By microsurgery",
+    "By skin staples",
+    "By direct pressure alone",
+    "By pedicle ligation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#7dd254",
+   "kind": "mcq",
+   "stem": "How long does primary ischaemia of a free flap last?",
+   "options": [
+    "10–20 minutes",
+    "2–3 hours",
+    "60–90 minutes",
+    "4–6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#7dd254",
+   "kind": "blank",
+   "stem": "During primary ischaemia, a free flap has no blood flow and its metabolism is ____.",
+   "answer": "anaerobic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#e13a9e",
+   "kind": "statement",
+   "stem": "During primary ischaemia of a free flap, which metabolite builds up?",
+   "answer": "Lactate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#d93155",
+   "kind": "statement",
+   "stem": "Free flap tissue damage is proportional to which factor?",
+   "answer": "Ischaemic time",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#39463d",
+   "kind": "statement",
+   "stem": "In a free flap, which tissue suffers more from ischaemia, muscle or skin, and why?",
+   "answer": "Muscle, because it has a high metabolic rate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#5194f1",
+   "kind": "statement",
+   "stem": "Compared with primary ischaemia, how damaging is ischaemia-reperfusion injury to a free flap?",
+   "answer": "More damaging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#39d85f",
+   "kind": "blank",
+   "stem": "Under unfavourable conditions, a free flap can suffer ____, where inflammatory substrates destroy it.",
+   "answer": "ischaemia-reperfusion injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#13a176",
+   "kind": "statement",
+   "stem": "Which two factors make ischaemia-reperfusion injury of a free flap more likely?",
+   "answer": "Long ischaemic time and poor perfusion pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#a25e25",
+   "kind": "statement",
+   "stem": "What widespread change occurs in a free flap during reperfusion injury?",
+   "answer": "Widespread intravascular thrombosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#a25e25",
+   "kind": "blank",
+   "stem": "Reperfusion injury in a free flap causes marked interstitial ____ as well as blood clotting in vessels.",
+   "answer": "oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#bf34ce",
+   "kind": "mcq",
+   "stem": "How long can skin tolerate ischaemia in a free flap?",
+   "options": [
+    "4 hours",
+    "24 hours",
+    "48 hours",
+    "10–12 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#bf34ce",
+   "kind": "mcq",
+   "stem": "After how much ischaemia does free flap muscle show irreversible changes?",
+   "options": [
+    "4 hours",
+    "30 minutes",
+    "1 hour",
+    "2 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#569e0a",
+   "kind": "statement",
+   "stem": "In free flap surgery, what are the types of poor flap perfusion?",
+   "answer": "Arterial, venous or oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#c33446",
+   "kind": "statement",
+   "stem": "In a free flap, which vessels branch repeatedly from the main vessels to decide survival?",
+   "answer": "Arterioles and venules",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#34be2f",
+   "kind": "mcq",
+   "stem": "What is the main role of muscular arterioles in a free flap?",
+   "options": [
+    "Acting as capacitance vessels storing blood",
+    "Draining venous blood back to the heart",
+    "Controlling regional flow as resistance vessels",
+    "Forming the microvascular anastomosis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#34be2f",
+   "kind": "mcq",
+   "stem": "What diameter do muscular arterioles of a free flap have?",
+   "options": [
+    "5 to 10 micrometres",
+    "100 to 150 micrometres",
+    "200 to 300 micrometres",
+    "20 to 50 micrometres"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#c69837",
+   "kind": "statement",
+   "stem": "Why does transfusing stored blood impair red cell deformability in free flap patients?",
+   "answer": "Stored blood has almost no 2,3-DPG",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#1366cd",
+   "kind": "statement",
+   "stem": "In free flap anaesthesia, what is the core aim?",
+   "answer": "Maintain flap perfusion and oxygen delivery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#8709ab",
+   "kind": "statement",
+   "stem": "Which equation describes vessel flow in free flap physiology?",
+   "answer": "Q = ΔPπr⁴ / 8ηL",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#5dd207",
+   "kind": "statement",
+   "stem": "In free flap surgery, what strongly affects flap survival?",
+   "answer": "The patient's physiological state",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#eaa267",
+   "kind": "mcq",
+   "stem": "How long does free flap surgery often last when several wound sites are involved?",
+   "options": [
+    "2 to 3 hours",
+    "6–8 hours",
+    "10 to 12 hours",
+    "30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#eaa267",
+   "kind": "statement",
+   "stem": "What two problems from blood and heat losses cause flap failure if not corrected?",
+   "answer": "Hypovolaemic vasoconstriction and hypothermia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#1e73e1",
+   "kind": "statement",
+   "stem": "What is the strongest determinant of flow in free flap vessels?",
+   "answer": "Vessel radius",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#a72201",
+   "kind": "mcq",
+   "stem": "For how long after free flap surgery should patients be kept warm, including on the ward?",
+   "options": [
+    "2 to 4 hours",
+    "3 to 5 days",
+    "1 week",
+    "24–48 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#78b633",
+   "kind": "statement",
+   "stem": "What two opposing problems must free flap anaesthesia avoid?",
+   "answer": "Hypovolaemia and flap oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#75512b",
+   "kind": "mcq",
+   "stem": "What crystalloid volume is given for the preoperative deficit in free flap surgery?",
+   "options": [
+    "40–50 ml/kg",
+    "1–2 ml/kg/hour",
+    "10–20 ml/kg",
+    "25 ml/kg/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#84ba14",
+   "kind": "mcq",
+   "stem": "What crystalloid rate is given for insensible losses in free flap surgery?",
+   "options": [
+    "4–8 ml/kg/hour",
+    "10–20 ml/kg",
+    "1–2 ml/kg/hour",
+    "20–30 ml/kg/hour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#92c1b4",
+   "kind": "mcq",
+   "stem": "What crystalloid volume is given for haemodilution in free flap surgery?",
+   "options": [
+    "10–15 ml/kg",
+    "5–8 ml/kg",
+    "30–40 ml/kg",
+    "1–2 ml/kg/hour"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#7ac9f8",
+   "kind": "mcq",
+   "stem": "What haematocrit should free flap surgery aim to keep?",
+   "options": [
+    "25%",
+    "30%",
+    "35%",
+    "40%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#71bf1c",
+   "kind": "mcq",
+   "stem": "What urine output do some anaesthetists aim for in free flap surgery?",
+   "options": [
+    "0.1 to 0.3 ml/kg/hour",
+    "5–10 ml/kg/hour",
+    "1–2 ml/kg/hour",
+    "30 to 50 ml/hour"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#16f8bb",
+   "kind": "statement",
+   "stem": "Name four sympathetic triggers to avoid in free flap anaesthesia.",
+   "answer": "Hypoxia, hypercapnia, hypoglycaemia, nausea and vomiting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#ae2992",
+   "kind": "statement",
+   "stem": "Which class of drugs should free flap anaesthesia avoid?",
+   "answer": "Vasopressors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#096390",
+   "kind": "statement",
+   "stem": "In free flap surgery, what commonly triggers vasospasm?",
+   "answer": "Surgical handling or intimal damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#173ae0",
+   "kind": "statement",
+   "stem": "What benefits does isovolaemic haemodilution to haematocrit 30% give a free flap?",
+   "answer": "Lower viscosity, less reperfusion injury, more open capillaries, less necrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#71a179",
+   "kind": "statement",
+   "stem": "Why does lowering haematocrit below 30% add little benefit in free flap surgery?",
+   "answer": "The viscosity-haematocrit curve flattens and oxygen delivery falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#d54f15",
+   "kind": "statement",
+   "stem": "Why take care with a low haematocrit in patients with poor cardiac reserve?",
+   "answer": "It raises myocardial work",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#aadd57",
+   "kind": "mcq",
+   "stem": "Which blood pressure component mainly sets the pressure gradient for free flap perfusion?",
+   "options": [
+    "Systolic pressure",
+    "Diastolic pressure",
+    "Central venous pressure",
+    "Mean arterial pressure"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#eb339b",
+   "kind": "mcq",
+   "stem": "What systolic blood pressure target is set in free flap anaesthesia?",
+   "options": [
+    "Systolic BP >60mmHg",
+    "Systolic BP >80mmHg",
+    "Systolic BP >140mmHg",
+    "Systolic BP >100mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#8d10c1",
+   "kind": "statement",
+   "stem": "Why should pressure on a free flap be avoided?",
+   "answer": "It raises venous pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#aca88c",
+   "kind": "statement",
+   "stem": "Name one moment when coughing should be avoided in free flap patients.",
+   "answer": "At extubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#0d1922",
+   "kind": "blank",
+   "stem": "In free flap oxygen delivery, DO2 = CO x [(Hb x sat x ____) + (PaO2 x 0.003)].",
+   "answer": "1.34",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#8816fb",
+   "kind": "statement",
+   "stem": "Besides cardiac output, what two factors should be kept up to maintain oxygen delivery?",
+   "answer": "Oxygenation and haematocrit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#a93187",
+   "kind": "statement",
+   "stem": "What should be checked in patients before long, extensive free flap surgery?",
+   "answer": "Comorbidities and fitness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#449c48",
+   "kind": "mcq",
+   "stem": "How long before free flap surgery should smokers stop smoking?",
+   "options": [
+    "At least 1 week",
+    "At least 4 weeks",
+    "At least 2 days",
+    "At least 1 day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#449c48",
+   "kind": "statement",
+   "stem": "Why does carbon monoxide from smoking harm a free flap?",
+   "answer": "Causes tissue hypoxia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#994106",
+   "kind": "statement",
+   "stem": "Why are IV fluids given to free flap patients before surgery?",
+   "answer": "To maintain hydration while fasting",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#1a76af",
+   "kind": "blank",
+   "stem": "Hand surgeons often prescribe 3L of ____ for free flap patients.",
+   "answer": "Hartmann's",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#970019",
+   "kind": "statement",
+   "stem": "Where should a regional block or catheter infusion ideally cover in free flap surgery?",
+   "answer": "The recipient site, not the donor site",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#1badf5",
+   "kind": "mcq",
+   "stem": "In a free flap animal model, how much did 10% hypovolaemia reduce microcirculatory flow?",
+   "options": [
+    "20%",
+    "60%",
+    "40%",
+    "80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#f33030",
+   "kind": "mcq",
+   "stem": "Which peripheral cannula size is advised for free flap surgery?",
+   "options": [
+    "18G",
+    "26G",
+    "24G",
+    "30G"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#aaf7bd",
+   "kind": "statement",
+   "stem": "Why place an arterial line in free flap surgery?",
+   "answer": "Safe control of perfusion pressure, and frequent blood gases and haematocrit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#b58b05",
+   "kind": "mcq",
+   "stem": "What can central venous pressure be used for in free flap surgery?",
+   "options": [
+    "Lowering cardiac output",
+    "Measuring urine output",
+    "Reducing pulse pressure",
+    "Raising cardiac output"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#3906ec",
+   "kind": "statement",
+   "stem": "What is checked hourly in free flap surgery to judge volume status?",
+   "answer": "Urine output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#8637b9",
+   "kind": "statement",
+   "stem": "Which two measures are essential for temperature control in free flap surgery?",
+   "answer": "Core temperature monitoring and active warming",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#de8751",
+   "kind": "statement",
+   "stem": "In free flap surgery, what does a falling peripheral skin temperature suggest?",
+   "answer": "Hypovolaemia and vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#de8751",
+   "kind": "mcq",
+   "stem": "What does a core-peripheral temperature difference under 2ºC indicate in free flap patients?",
+   "options": [
+    "Warm and well filled",
+    "Cold and hypovolaemic",
+    "Overfilled with oedema",
+    "Vasoconstricted and cold"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#bda6cf",
+   "kind": "statement",
+   "stem": "Name two warming devices used in free flap surgery.",
+   "answer": "Forced-air warmer and circulating H2O mattress",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#84b34d",
+   "kind": "statement",
+   "stem": "What DVT prophylaxis is given to all free flap patients?",
+   "answer": "Calf compression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#9726fe",
+   "kind": "statement",
+   "stem": "What two injuries does careful limb positioning and padding prevent in free flap surgery?",
+   "answer": "Nerve injury and vascular compression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#677bde",
+   "kind": "statement",
+   "stem": "Why are the eyes taped during free flap surgery?",
+   "answer": "To prevent corneal abrasion and drying",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#d9bd16",
+   "kind": "statement",
+   "stem": "Why should free flap patients be intubated?",
+   "answer": "The surgery is long",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#e0bfc6",
+   "kind": "mcq",
+   "stem": "What does hypercapnia do to the sympathetic system in free flap patients?",
+   "options": [
+    "Blocks the sympathetic system",
+    "Has no effect on the sympathetic system",
+    "Suppresses the sympathetic system",
+    "Stimulates the sympathetic system"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#e0bfc6",
+   "kind": "statement",
+   "stem": "What CO2 state should ventilation aim for in free flap patients?",
+   "answer": "Normocapnia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#9ede35",
+   "kind": "mcq",
+   "stem": "Which gas state should free flap patients avoid?",
+   "options": [
+    "Normoxia",
+    "Hyperoxia",
+    "Hypoxia",
+    "Normocapnia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#bcb134",
+   "kind": "statement",
+   "stem": "What overall physiological state is the goal in free flap anaesthesia?",
+   "answer": "Warm, well-filled, sympathetically blocked patient with high cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#afe5e4",
+   "kind": "mcq",
+   "stem": "Which circulatory state suits free flap anaesthesia?",
+   "options": [
+    "High SVR with narrow pulse pressure",
+    "Low SVR with wide pulse pressure",
+    "High SVR with wide pulse pressure",
+    "Low SVR with narrow pulse pressure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#50a217",
+   "kind": "mcq",
+   "stem": "What urine output is aimed for during free flap surgery?",
+   "options": [
+    "0.5ml/kg/hr",
+    "0.1ml/kg/hr",
+    ">1ml/kg/hr",
+    "0.02ml/kg/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#283050",
+   "kind": "mcq",
+   "stem": "In free flap surgery, to what CVP should fluids ideally be filled?",
+   "options": [
+    "6mmHg",
+    "12mmHg",
+    "20mmHg",
+    "4mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#857e84",
+   "kind": "mcq",
+   "stem": "What haematocrit is the target in free flap surgery?",
+   "options": [
+    "20%",
+    "30%",
+    "40%",
+    "25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#857e84",
+   "kind": "mcq",
+   "stem": "How often is haematocrit checked by blood gas during free flap surgery, after the start?",
+   "options": [
+    "Every 4 hours",
+    "Every 30 minutes",
+    "Every 2 hours",
+    "Every 8 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#dc7f70",
+   "kind": "mcq",
+   "stem": "At what haemoglobin should free flap patients be transfused?",
+   "options": [
+    "Hb <6",
+    "Hb <10",
+    "Hb <8",
+    "Hb <12"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#cea86b",
+   "kind": "mcq",
+   "stem": "What systolic blood pressure is targeted during free flap surgery?",
+   "options": [
+    "80mmHg",
+    "60mmHg",
+    ">100mmHg",
+    "40mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#d338ba",
+   "kind": "statement",
+   "stem": "Why might propofol be preferred to volatile agents for free flap microvascular flow?",
+   "answer": "Some evidence of better microvascular flow; avoids the volatile effect on red cell membrane stiffness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#ff9287",
+   "kind": "statement",
+   "stem": "What two measures help achieve a smooth, cough-free emergence after free flap surgery?",
+   "answer": "Low-dose remifentanil and LMA exchange",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#6f274c",
+   "kind": "blank",
+   "stem": "Before waking a free flap patient, ____ should be in place.",
+   "answer": "Good analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#69a5b6",
+   "kind": "statement",
+   "stem": "Which factors should be avoided in free flap recovery to prevent vasoconstriction?",
+   "answer": "Cold, pain, low volume, hypotension, hypocapnia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#cf655e",
+   "kind": "mcq",
+   "stem": "Which IV drug and dose treats shivering after free flap surgery?",
+   "options": [
+    "Ondansetron 4mg",
+    "Pethidine 25mg",
+    "Hydrocortisone 100mg",
+    "Midazolam 2mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#cf655e",
+   "kind": "statement",
+   "stem": "Name three drugs used to treat shivering after free flap surgery.",
+   "answer": "IV pethidine 25mg, clonidine, chlorpromazine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#6d09f1",
+   "kind": "mcq",
+   "stem": "Which regional technique is continued after lower limb free flap surgery?",
+   "options": [
+    "Axillary catheter",
+    "Interscalene catheter",
+    "Epidural",
+    "Brachial plexus block"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#82f5b7",
+   "kind": "mcq",
+   "stem": "How often should free flap observations be made after surgery?",
+   "options": [
+    "Every 4 hours",
+    "Hourly",
+    "Twice daily",
+    "Every 8 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#82f5b7",
+   "kind": "mcq",
+   "stem": "Who arranges Doppler monitoring of flap flow after free flap surgery?",
+   "options": [
+    "Anaesthetists",
+    "Surgeons",
+    "Physiotherapists",
+    "Ward nurses"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#ce2d34",
+   "kind": "mcq",
+   "stem": "What haemoglobin do some plastic surgeons ask to keep above after free flap surgery?",
+   "options": [
+    "Hb >9",
+    "Hb >7",
+    "Hb >12",
+    "Hb >6"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/free-flap-surgery#44ff5d",
+   "kind": "mcq",
+   "stem": "Where might a free flap patient need care after surgery?",
+   "options": [
+    "Immediate discharge home",
+    "Surgical high dependency",
+    "Emergency department",
+    "Day case recovery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

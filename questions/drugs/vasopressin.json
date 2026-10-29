@@ -1,0 +1,685 @@
+{
+ "topic": "drugs/vasopressin",
+ "questions": [
+  {
+   "fact_id": "drugs/vasopressin#5d78d6",
+   "kind": "mcq",
+   "stem": "How is vasopressin presented, as units per volume?",
+   "options": [
+    "10 U in 1 ml",
+    "20 U in 1 ml",
+    "40 U in 1 ml",
+    "20 U in 10 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#7b5750",
+   "kind": "mcq",
+   "stem": "Vasopressin 20 U diluted to 20 ml with normal saline gives what concentration?",
+   "options": [
+    "2 U/ml",
+    "0.5 U/ml",
+    "1 U/ml",
+    "10 U/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#fec699",
+   "kind": "mcq",
+   "stem": "Besides IV, by which routes can vasopressin be given?",
+   "options": [
+    "Oral or sublingual",
+    "Subcutaneous or intramuscular",
+    "Rectal or intrathecal",
+    "Intra-arterial only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#3642bf",
+   "kind": "mcq",
+   "stem": "How quickly does vasopressin take effect after administration?",
+   "options": [
+    "Within hours",
+    "Within minutes",
+    "Over several days",
+    "After about 24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#c0be90",
+   "kind": "mcq",
+   "stem": "What is the vasopressin infusion range for brain-dead organ donors?",
+   "options": [
+    "0.05–0.25 U/hr",
+    "5–25 U/hr",
+    "0.5–2.5 U/hr",
+    "2.5–10 U/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#f310a3",
+   "kind": "mcq",
+   "stem": "What single IV vasopressin dose is used in cardiac arrest?",
+   "options": [
+    "4 units",
+    "20 units",
+    "40 units",
+    "400 units"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#f310a3",
+   "kind": "mcq",
+   "stem": "In cardiac arrest, which adrenaline doses does a single vasopressin dose replace?",
+   "options": [
+    "The first or second dose",
+    "The fourth or fifth dose",
+    "The last dose only",
+    "Every dose"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#a13384",
+   "kind": "statement",
+   "stem": "What are the two main target organs of vasopressin?",
+   "answer": "Kidney and blood vessels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#af1144",
+   "kind": "mcq",
+   "stem": "Where are vasopressin V2 receptors located?",
+   "options": [
+    "Vascular smooth muscle",
+    "Anterior pituitary",
+    "Basolateral membrane of renal distal tubules and collecting ducts",
+    "Liver hepatocytes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#af1144",
+   "kind": "mcq",
+   "stem": "Which G protein does the vasopressin V2 receptor couple to?",
+   "options": [
+    "Gq",
+    "Gi",
+    "Gs",
+    "G12"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#158817",
+   "kind": "statement",
+   "stem": "How does vasopressin make the collecting duct luminal membrane water-permeable?",
+   "answer": "More AQP-2 is made and stored channels move to the luminal membrane",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#eef245",
+   "kind": "mcq",
+   "stem": "Through which aquaporins does water leave the principal cell on its basolateral side?",
+   "options": [
+    "Aquaporin 1 and 2",
+    "Aquaporin 3 and 4",
+    "Aquaporin 5 and 6",
+    "Aquaporin 2 only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#060b0f",
+   "kind": "mcq",
+   "stem": "Which G protein couples to the V1 receptor on vascular smooth muscle?",
+   "options": [
+    "Gs",
+    "Gi",
+    "Gt",
+    "Gq"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#209ef4",
+   "kind": "statement",
+   "stem": "In V1 signalling, what does IP3 release, and from where?",
+   "answer": "Calcium from smooth endoplasmic reticulum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#0c1c27",
+   "kind": "mcq",
+   "stem": "What does the V3 (formerly V1b) receptor in the anterior pituitary mediate?",
+   "options": [
+    "Aquaporin 2 insertion",
+    "Vasoconstriction",
+    "ACTH release",
+    "Platelet adhesion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#34eda1",
+   "kind": "mcq",
+   "stem": "Which synthetic vasopressin analogue acts on V2 receptors?",
+   "options": [
+    "Terlipressin",
+    "Desmopressin",
+    "Octreotide",
+    "Insulin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#34eda1",
+   "kind": "mcq",
+   "stem": "Which synthetic vasopressin analogue acts on V1 receptors?",
+   "options": [
+    "Octreotide",
+    "Desmopressin",
+    "Insulin",
+    "Terlipressin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#ef8b2a",
+   "kind": "mcq",
+   "stem": "Which vasopressin antagonist blocks both V1 and V2 receptors?",
+   "options": [
+    "Tolvaptan",
+    "Terlipressin",
+    "Desmopressin",
+    "Conivaptan"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#62dc96",
+   "kind": "mcq",
+   "stem": "In hypovolaemic shock, what does very high vasopressin release do to systemic vascular resistance?",
+   "options": [
+    "Adds to the rise in SVR",
+    "Lowers SVR",
+    "Has no effect on SVR",
+    "Halves SVR"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#8f27bf",
+   "kind": "mcq",
+   "stem": "What happens to blood pressure with exogenous vasopressin in healthy volunteers?",
+   "options": [
+    "It markedly raises it",
+    "It does not raise it",
+    "It sharply lowers it",
+    "It causes marked tachycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#4fb833",
+   "kind": "statement",
+   "stem": "In which settings does vasopressin raise blood pressure when hypotension is due to vasodilation?",
+   "answer": "Septic or anaphylactic shock, autonomic failure, spinal or general anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#f87bf5",
+   "kind": "mcq",
+   "stem": "How does vasopressin's pulmonary constrictor action compare with phenylephrine's?",
+   "options": [
+    "Much stronger constriction",
+    "Roughly equal constriction",
+    "Little constrictor action",
+    "Strong dilation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#823a75",
+   "kind": "statement",
+   "stem": "What can high vasopressin concentrations reduce?",
+   "answer": "Renal blood flow and GFR",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#952f45",
+   "kind": "mcq",
+   "stem": "Which blood-cell adverse effect does vasopressin cause through platelet adhesion?",
+   "options": [
+    "Neutropenia",
+    "Thrombocytopenia",
+    "Polycythaemia",
+    "Leukocytosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#4cc53e",
+   "kind": "mcq",
+   "stem": "Above what infusion rate is vasopressin ischaemia especially likely?",
+   "options": [
+    "0.005 U/min",
+    "0.5 U/min",
+    "0.05 U/min",
+    "0.5 U/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#cbeb44",
+   "kind": "mcq",
+   "stem": "What possibly causes vasopressin's negative inotropy?",
+   "options": [
+    "Raised SVR and afterload",
+    "Increased heart rate",
+    "Increased contractility",
+    "Reduced afterload"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#05b259",
+   "kind": "mcq",
+   "stem": "Below what infusion rate are vasopressin adverse effects uncommon?",
+   "options": [
+    "0.4 units/hr",
+    "0.004 units/hr",
+    "0.04 units/hr",
+    "4 units/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#92026e",
+   "kind": "mcq",
+   "stem": "In vasopressor-refractory septic shock, when is vasopressin added to noradrenaline?",
+   "options": [
+    "As first-line, before any noradrenaline",
+    "Only after cardiac arrest",
+    "When hypotension persists or the noradrenaline dose is high",
+    "Only in anaphylactic shock"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#92026e",
+   "kind": "statement",
+   "stem": "Why is vasopressin added in vasopressor-refractory septic shock, in terms of catecholamines?",
+   "answer": "It spares catecholamines",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#f14bf8",
+   "kind": "statement",
+   "stem": "What term describes vasopressin shortfall in sepsis, vasodilatory shock, intraoperative hypotension and CPR?",
+   "answer": "Relative vasopressin deficiency",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#8be146",
+   "kind": "mcq",
+   "stem": "Compared with noradrenaline, how does vasopressin affect pulmonary artery pressure?",
+   "options": [
+    "Larger rise",
+    "Little or no rise",
+    "Equal rise",
+    "Fall in pressure"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#7ac76d",
+   "kind": "mcq",
+   "stem": "How does vasopressin slow bleeding from oesophageal varices?",
+   "options": [
+    "Systemic vasodilation",
+    "Splanchnic vasoconstriction",
+    "Plasma volume expansion",
+    "Pulmonary vasodilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#4ac85a",
+   "kind": "mcq",
+   "stem": "Vasopressin is used for bleeding in which disorders?",
+   "options": [
+    "Thalassaemia and sickle cell disease",
+    "Haemophilia and von Willebrand disease",
+    "Idiopathic thrombocytopenic purpura and aplastic anaemia",
+    "Iron deficiency anaemia and polycythaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#12da08",
+   "kind": "mcq",
+   "stem": "What did the VASST trial (NEJM 2008) find for vasopressin compared with noradrenaline?",
+   "options": [
+    "Clear survival benefit over noradrenaline",
+    "No benefit over noradrenaline",
+    "Benefit only in cardiac arrest",
+    "Major benefit in pulmonary hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#d4d7b9",
+   "kind": "mcq",
+   "stem": "What did early vasopressin do in septic shock in the VANISH trial (JAMA 2016)?",
+   "options": [
+    "Increased renal replacement therapy",
+    "Reduced renal replacement therapy",
+    "Raised mortality",
+    "No effect on any outcome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#d62d7e",
+   "kind": "mcq",
+   "stem": "How many RCTs did the Critical Care 2012 vasopressin meta-analysis pool?",
+   "options": [
+    "4",
+    "12",
+    "9",
+    "15"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#270680",
+   "kind": "mcq",
+   "stem": "In the Intensive Care Medicine 2012 meta-analysis, what short-term survival effect did vasopressin or terlipressin show in vasodilatory shock?",
+   "options": [
+    "Clear short-term survival benefit",
+    "Higher short-term mortality",
+    "No short-term survival benefit",
+    "Benefit only in septic shock"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#387476",
+   "kind": "mcq",
+   "stem": "What is the approximate molecular weight of vasopressin?",
+   "options": [
+    "About 100 Da",
+    "About 500 Da",
+    "About 1000 Da",
+    "About 10,000 Da"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#d2014f",
+   "kind": "mcq",
+   "stem": "In which hypothalamic nuclei is vasopressin made?",
+   "options": [
+    "Anterior pituitary gland",
+    "Adrenal medulla",
+    "Paraventricular and supraoptic nuclei",
+    "Pineal gland"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#71dbb1",
+   "kind": "mcq",
+   "stem": "What carrier protein is vasopressin released bound to?",
+   "options": [
+    "Albumin",
+    "Neurophysin",
+    "Transferrin",
+    "Cortisol-binding globulin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#3a810f",
+   "kind": "mcq",
+   "stem": "What is the half-life of vasopressin in plasma?",
+   "options": [
+    "17 to 30 hours",
+    "1 to 2 hours",
+    "10–20 minutes",
+    "2 to 3 days"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#3a810f",
+   "kind": "statement",
+   "stem": "Which two organs clear vasopressin quickly from the circulation?",
+   "answer": "Liver and kidney",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#27fc2d",
+   "kind": "mcq",
+   "stem": "For vasopressin release, falling blood volume overrides osmolality once it drops by how much?",
+   "options": [
+    "Less than 1%",
+    "About 2%",
+    "Less than 5%",
+    "More than 10%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#27fc2d",
+   "kind": "mcq",
+   "stem": "How is baroreceptor sensitivity for vasopressin release compared with osmoreceptors?",
+   "options": [
+    "Less sensitive",
+    "More sensitive",
+    "Much more sensitive",
+    "Equally sensitive"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#c2366c",
+   "kind": "mcq",
+   "stem": "Via which receptor does low-concentration noradrenaline stimulate vasopressin release?",
+   "options": [
+    "Beta-1",
+    "Adenosine A1",
+    "Alpha-1",
+    "Glucagon receptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#36360c",
+   "kind": "mcq",
+   "stem": "Which of these inhibits vasopressin release?",
+   "options": [
+    "Angiotensin II",
+    "Histamine",
+    "Cortisol",
+    "Endotoxin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#36360c",
+   "kind": "mcq",
+   "stem": "Which neurotransmitter inhibits vasopressin release?",
+   "options": [
+    "Acetylcholine",
+    "GABA",
+    "Histamine",
+    "Dopamine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#270911",
+   "kind": "mcq",
+   "stem": "What is the osmolality set point for vasopressin secretion?",
+   "options": [
+    "135–145 mOsmol/kg H2O",
+    "240–260 mOsmol/kg H2O",
+    "300–320 mOsmol/kg H2O",
+    "280–295 mOsmol/kg H2O"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#a9d96e",
+   "kind": "mcq",
+   "stem": "What rise in effective osmolality steeply increases vasopressin secretion?",
+   "options": [
+    "1%",
+    "5%",
+    "2%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#046629",
+   "kind": "mcq",
+   "stem": "Which cranial nerves carry baroreceptor afferents for vasopressin control?",
+   "options": [
+    "3rd and 4th",
+    "5th and 7th",
+    "9th and 10th",
+    "11th and 12th"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#39a90c",
+   "kind": "mcq",
+   "stem": "In septic shock, when do vasopressin levels become inappropriately low?",
+   "options": [
+    "Immediately at onset of hypotension",
+    "About 6 days after hypotension starts",
+    "About 6 h after hypotension starts",
+    "Only after noradrenaline is stopped"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/vasopressin#647f6c",
+   "kind": "mcq",
+   "stem": "In heart failure and cardiogenic shock, how do vasopressin levels behave despite high volume and atrial pressure?",
+   "options": [
+    "Suppressed to undetectable levels",
+    "Lowered in proportion to volume",
+    "Maintained or paradoxically raised",
+    "Fall sharply within hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

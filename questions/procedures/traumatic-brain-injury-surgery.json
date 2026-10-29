@@ -1,0 +1,435 @@
+{
+ "topic": "procedures/traumatic-brain-injury-surgery",
+ "questions": [
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#b13693",
+   "kind": "blank",
+   "stem": "In traumatic brain injury, also consider an ____ monitor.",
+   "answer": "ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#b4a67a",
+   "kind": "mcq",
+   "stem": "What cerebral perfusion pressure target is set in traumatic brain injury?",
+   "options": [
+    ">40",
+    ">80",
+    ">60",
+    ">100"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#9f5a18",
+   "kind": "mcq",
+   "stem": "What GCS range defines mild traumatic brain injury?",
+   "options": [
+    "12-10",
+    "15-13",
+    "8-3",
+    "13-9"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#39969d",
+   "kind": "mcq",
+   "stem": "What GCS range defines moderate traumatic brain injury?",
+   "options": [
+    "4-8",
+    "9-13",
+    "14-12",
+    "1-3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#92a89f",
+   "kind": "mcq",
+   "stem": "What GCS defines severe traumatic brain injury?",
+   "options": [
+    "≤5",
+    "≤10",
+    "≤8",
+    "≤12"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#4810f9",
+   "kind": "mcq",
+   "stem": "In severe TBI with GCS ≤8, what share have raised ICP without a surgical lesion?",
+   "options": [
+    "10%",
+    "60%",
+    "25%",
+    "75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#3373c3",
+   "kind": "mcq",
+   "stem": "In severe TBI with GCS ≤8, what share have major extracranial injuries?",
+   "options": [
+    "15%",
+    "35%",
+    "50%",
+    "10%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#a534b1",
+   "kind": "statement",
+   "stem": "In traumatic brain injury, sedation or anaesthesia may be needed for what?",
+   "answer": "Imaging",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#7db950",
+   "kind": "mcq",
+   "stem": "What ICP level should intracranial surgery in traumatic brain injury aim to keep below?",
+   "options": [
+    "5-10mmHg",
+    "30-40mmHg",
+    "20-25mmHg",
+    "40-50mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#e5e71e",
+   "kind": "mcq",
+   "stem": "What head position is advised during intracranial surgery for traumatic brain injury?",
+   "options": [
+    "Head down 15 degrees",
+    "Head up 30 degrees",
+    "Head up 60 degrees",
+    "Flat with neck rotated"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#a60812",
+   "kind": "mcq",
+   "stem": "In TBI surgery, what MAP target applies when ICP is assumed to be 20mmHg?",
+   "options": [
+    ">60mmHg",
+    ">70mmHg",
+    ">80mmHg",
+    ">100mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#a60812",
+   "kind": "mcq",
+   "stem": "What urine output is aimed for during intracranial surgery in traumatic brain injury?",
+   "options": [
+    "0.1-0.2ml/kg/h",
+    "0.5-1ml/kg/h",
+    "2-3ml/kg/h",
+    "5-10ml/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#63def6",
+   "kind": "mcq",
+   "stem": "In TBI intracranial surgery, what PaO2 target supports normoxia?",
+   "options": [
+    ">70mmHg",
+    ">60mmHg",
+    ">100mmHg",
+    ">150mmHg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#63def6",
+   "kind": "mcq",
+   "stem": "What PaCO2 range supports normocarbia in TBI intracranial surgery?",
+   "options": [
+    "25-30mmHg",
+    "45-50mmHg",
+    "50-60mmHg",
+    "35-40mmHg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#1b2734",
+   "kind": "statement",
+   "stem": "In TBI intracranial surgery, what are the two anaesthetic aims?",
+   "answer": "Maintain cerebral perfusion and prevent rises in ICP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#3ce974",
+   "kind": "statement",
+   "stem": "What standard ASA monitoring is used before traumatic brain injury surgery?",
+   "answer": "ECG, NIBP, SpO2, ETCO2 and end-tidal agent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#f10b47",
+   "kind": "mcq",
+   "stem": "Which monitor measures depth of anaesthesia during traumatic brain injury surgery?",
+   "options": [
+    "BIS",
+    "Capnography",
+    "Thromboelastography",
+    "Oesophageal Doppler"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#f01b40",
+   "kind": "statement",
+   "stem": "Which airway induction method is advised in TBI, with manual in-line stabilisation?",
+   "answer": "Rapid sequence induction with cricoid pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#eed2b4",
+   "kind": "mcq",
+   "stem": "Which anaesthetic technique lowers CMRO2, CBF and ICP while keeping CO2 reactivity in TBI?",
+   "options": [
+    "Sevoflurane anaesthesia",
+    "TIVA",
+    "Nitrous oxide with air",
+    "Spinal anaesthesia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#3150f1",
+   "kind": "mcq",
+   "stem": "At what MAC do volatile agents lower cerebral blood flow in TBI surgery?",
+   "options": [
+    "< 1.5 MAC",
+    "> 2.5 MAC",
+    "< 0.5 MAC",
+    "> 3 MAC"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#ef4cf3",
+   "kind": "mcq",
+   "stem": "Where is a TBI patient sent after surgery if they are extubated?",
+   "options": [
+    "Theatre recovery only",
+    "Neuro ICU",
+    "High dependency unit",
+    "General surgical ward"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#abb004",
+   "kind": "mcq",
+   "stem": "Before extracranial surgery in TBI, roughly how long should the injury be allowed to evolve?",
+   "options": [
+    "About 24 hours",
+    "About 72 hours",
+    "About 7 days",
+    "About 12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#de9234",
+   "kind": "statement",
+   "stem": "Why is coagulopathy associated with decompressive craniectomy?",
+   "answer": "Thrombin is released from the brain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#a016dc",
+   "kind": "statement",
+   "stem": "What causes blood pressure to fall during decompressive craniectomy?",
+   "answer": "Release of sympathetic drive at decompression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#b14736",
+   "kind": "statement",
+   "stem": "What can happen once the dura is opened in decompressive craniectomy?",
+   "answer": "Heavy bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#fd8fda",
+   "kind": "mcq",
+   "stem": "In traumatic extradural haematoma in adults, which artery is usually torn?",
+   "options": [
+    "Anterior cerebral artery",
+    "Middle meningeal artery",
+    "Basilar artery",
+    "Vertebral artery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#fd8fda",
+   "kind": "mcq",
+   "stem": "How soon after pupil dilation must a traumatic extradural haematoma be evacuated?",
+   "options": [
+    "<6hr",
+    "<1hr",
+    "<12hr",
+    "<24hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#79da64",
+   "kind": "mcq",
+   "stem": "In head injury, what GCS fall within one hour is an indication to intubate?",
+   "options": [
+    "1 or more",
+    "3 or more",
+    "4 or more",
+    "2 or more"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#a0bf8a",
+   "kind": "mcq",
+   "stem": "Before evacuating traumatic intracranial haemorrhage, which associated injury must be actively sought?",
+   "options": [
+    "Spinal injury",
+    "Renal contusion",
+    "Ocular injury",
+    "Cardiac tamponade"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#8ecd1b",
+   "kind": "mcq",
+   "stem": "Assuming ICP is 20, what MAP target applies when evacuating traumatic intracranial haemorrhage?",
+   "options": [
+    ">70-80mmHg",
+    ">80-90mmHg",
+    ">60-70mmHg",
+    ">100-110mmHg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#6e4007",
+   "kind": "mcq",
+   "stem": "How much higher is mortality with intraoperative hypotension in traumatic intracranial haemorrhage?",
+   "options": [
+    "Twice as high",
+    "3 times higher",
+    "Half as high",
+    "10% higher"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#54c0d2",
+   "kind": "statement",
+   "stem": "What should postoperative care after evacuation of traumatic intracranial haemorrhage follow?",
+   "answer": "A protocol to keep ICP low and CPP adequate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#f5ab94",
+   "kind": "mcq",
+   "stem": "In TBI patients having non-cranial surgery, which period carries risk of low MAP and low PaO2?",
+   "options": [
+    "The first 2 weeks",
+    "The first 24 hours",
+    "Days 3 to 5",
+    "The first hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#acb4ba",
+   "kind": "statement",
+   "stem": "In TBI non-cranial surgery, what systemic effects follow a rise in PaCO2?",
+   "answer": "Vasodilation, falling MAP and falling CPP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "procedures/traumatic-brain-injury-surgery#aa00d9",
+   "kind": "mcq",
+   "stem": "In TBI non-cranial surgery, what does a rise in PaCO2 do to ICP and CBF?",
+   "options": [
+    "ICP falls, CBF rises",
+    "ICP and CBF both rise",
+    "ICP rises, CBF falls",
+    "ICP and CBF both fall"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

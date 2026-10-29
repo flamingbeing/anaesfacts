@@ -1,0 +1,2623 @@
+{
+ "topic": "regional/regional-anaesthesia-review",
+ "questions": [
+  {
+   "fact_id": "regional/regional-anaesthesia-review#396e63",
+   "kind": "mcq",
+   "stem": "Where does the subclavian vein begin, continuing on from the axillary vein?",
+   "options": [
+    "At the sternoclavicular joint",
+    "At the medial border of the 1st rib",
+    "At the lateral border of the clavicle",
+    "At the lateral border of the 1st rib"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#e3133d",
+   "kind": "mcq",
+   "stem": "In infraclavicular cannulation, what separates the subclavian vein from the subclavian artery?",
+   "options": [
+    "Middle scalene",
+    "Sternocleidomastoid",
+    "Pectoralis minor",
+    "Anterior scalene"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#6920da",
+   "kind": "mcq",
+   "stem": "Behind the sternoclavicular joint, the subclavian vein joins which vein?",
+   "options": [
+    "External jugular vein",
+    "Cephalic vein",
+    "Axillary vein",
+    "Internal jugular vein"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#414f60",
+   "kind": "statement",
+   "stem": "In infraclavicular cannulation, what lies beneath the subclavian vein?",
+   "answer": "1st rib, lung apex (medially), 1st intercostal space (laterally)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#6a4ea1",
+   "kind": "statement",
+   "stem": "Which surface landmarks guide infraclavicular subclavian vein cannulation?",
+   "answer": "Clavicle, both heads of SCM, suprasternal notch, deltopectoral groove, manubriosternal junction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#8801f7",
+   "kind": "mcq",
+   "stem": "For infraclavicular subclavian vein cannulation, how far below the deltopectoral groove do you enter?",
+   "options": [
+    "5-6cm",
+    "0.5-1cm",
+    "8-10cm",
+    "2-3cm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a91839",
+   "kind": "mcq",
+   "stem": "In subclavian vein cannulation, at what depth do you expect the jugulosubclavian venous bulb?",
+   "options": [
+    "1-4cm",
+    "5-7cm",
+    "0.2-0.5cm",
+    "10-12cm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#8f6023",
+   "kind": "blank",
+   "stem": "Plain intrathecal bupivacaine is hyperbaric at 24 deg C but ____ at 37 deg C.",
+   "answer": "hypobaric",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b1a222",
+   "kind": "blank",
+   "stem": "For spinal anaesthesia, small intrathecal volumes of ____ may limit the spread of block.",
+   "answer": "1.5-2ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b1a222",
+   "kind": "mcq",
+   "stem": "On average, what does a 50% increase in intrathecal local anaesthetic dose and volume add to spread?",
+   "options": [
+    "Roughly two dermatomes",
+    "No change in spread",
+    "Roughly four dermatomes",
+    "Roughly one dermatome"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#65f724",
+   "kind": "mcq",
+   "stem": "How does a more viscous intrathecal solution, such as glucose 10%, affect the spread of block?",
+   "options": [
+    "Spreads less",
+    "No effect on spread",
+    "Spreads further",
+    "Shortens the block duration"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#5f2906",
+   "kind": "mcq",
+   "stem": "Which vertebral levels does a mid-thoracic epidural typically use?",
+   "options": [
+    "T1-T3",
+    "L2-L4",
+    "S1-S3",
+    "T7-T9"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#e834ae",
+   "kind": "statement",
+   "stem": "In spinal anatomy, between which two points does the epidural space extend?",
+   "answer": "Foramen magnum to sacral hiatus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#183144",
+   "kind": "mcq",
+   "stem": "Which structure forms the posterior border of the epidural space?",
+   "options": [
+    "Supraspinous ligament",
+    "Posterior longitudinal ligament",
+    "Interspinous ligament",
+    "Ligamentum flavum"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2022a4",
+   "kind": "statement",
+   "stem": "In epidural anatomy, which midline ligaments lie between the skin and the space, from superficial to deep?",
+   "answer": "Supraspinous, interspinous, then ligamentum flavum",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2022a4",
+   "kind": "mcq",
+   "stem": "Which midline ligament joins the tips of the spinous processes?",
+   "options": [
+    "Interspinous ligament",
+    "Ligamentum flavum",
+    "Posterior longitudinal ligament",
+    "Supraspinous ligament"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#d6b946",
+   "kind": "mcq",
+   "stem": "Which cervical spinous process is the most prominent surface landmark for epidural access?",
+   "options": [
+    "C2",
+    "C5",
+    "T3",
+    "C7"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#cad81a",
+   "kind": "mcq",
+   "stem": "Which vertebral level lies at the lower tip of the scapula?",
+   "options": [
+    "T3",
+    "L2",
+    "T7",
+    "L4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#ab9f16",
+   "kind": "mcq",
+   "stem": "Which lumbar vertebral body does the intercristal line cross in most patients?",
+   "options": [
+    "L2 body",
+    "L3 body",
+    "L5 body",
+    "L4 body"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7a240e",
+   "kind": "mcq",
+   "stem": "In epidural anaesthesia, to which side of the space is local anaesthetic usually placed?",
+   "options": [
+    "Anteriorly",
+    "Laterally",
+    "Posteriorly",
+    "Centrally in the dural sac"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#833e06",
+   "kind": "statement",
+   "stem": "Given the thoracic kyphosis, how much does spinal flexion help the thoracic epidural approach?",
+   "answer": "Only a little",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#ebeb68",
+   "kind": "blank",
+   "stem": "In thoracic epidural access, the skin-to-space depth may be as little as ____.",
+   "answer": "3cm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#8636be",
+   "kind": "blank",
+   "stem": "In lumbar epidural access, the ligamentum flavum is rarely less than ____ deep.",
+   "answer": "4cm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#8a6645",
+   "kind": "mcq",
+   "stem": "At which vertebral level does the spinal cord end in 90% of patients?",
+   "options": [
+    "T10/11",
+    "L1/2",
+    "L3/4",
+    "L5/S1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#d24234",
+   "kind": "mcq",
+   "stem": "Which space does the thoracic paravertebral space communicate with?",
+   "options": [
+    "Subarachnoid space",
+    "Pericardial space",
+    "Peritoneal cavity",
+    "Epidural space"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#574dbe",
+   "kind": "mcq",
+   "stem": "Which structure lies within the thoracic paravertebral space?",
+   "options": [
+    "Phrenic nerve",
+    "Brachial plexus",
+    "Sympathetic chain",
+    "Oesophagus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7f43bc",
+   "kind": "mcq",
+   "stem": "What is the mean depth to the transverse process at T4 in a thoracic paravertebral block?",
+   "options": [
+    "5cm",
+    "0.5cm",
+    "2.5cm",
+    "8cm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#232084",
+   "kind": "mcq",
+   "stem": "In thoracic paravertebral block, what is the mean distance from transverse process to pleura?",
+   "options": [
+    "2.5cm",
+    "4.5cm",
+    "6.5cm",
+    "8.5cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#82a2ac",
+   "kind": "statement",
+   "stem": "Which procedures can thoracic paravertebral block provide anaesthesia or postoperative analgesia for?",
+   "answer": "Thoracic, breast, cholecystectomy, appendicectomy, inguinal hernia repair",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#97afd0",
+   "kind": "statement",
+   "stem": "Apart from surgery, which painful conditions can thoracic paravertebral block treat?",
+   "answer": "Rib fractures, liver capsule pain, neuralgia, pancreatic pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#41b5c8",
+   "kind": "statement",
+   "stem": "Why does one thoracic paravertebral injection block more than one dermatome?",
+   "answer": "Spread along the space, intercostal spaces and nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#0df8aa",
+   "kind": "statement",
+   "stem": "What quality of block does thoracic paravertebral injection give, and is it often enough for surgery alone?",
+   "answer": "Dense somatic and sympathetic block, often enough for surgery alone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#d7a6b8",
+   "kind": "statement",
+   "stem": "How does thoracic paravertebral analgesia compare with epidural for duration and side effects?",
+   "answer": "Prolonged analgesia equal to or better than epidural, with less bilateral sympathetic block and less nerve damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#5d4160",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block for breast and thoracic surgery: which longer-term outcome does it reduce?",
+   "options": [
+    "Chronic postsurgical pain",
+    "Postoperative nausea",
+    "Postoperative urinary retention",
+    "Intraoperative blood loss"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#4bb2e0",
+   "kind": "blank",
+   "stem": "Thoracic paravertebral block may reduce tumour ____ after breast surgery, although this is unproven.",
+   "answer": "recurrence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#3d64fa",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: roughly what partial or complete failure rate occurs, even with experts?",
+   "options": [
+    "About 1%",
+    "About 10%",
+    "About 25%",
+    "About 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#f5dedb",
+   "kind": "statement",
+   "stem": "Thoracic paravertebral block: name the two rare pleural complications.",
+   "answer": "Pneumothorax and haemothorax",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#101f92",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: how does the hypotension it causes usually respond to treatment?",
+   "options": [
+    "Slowly, needing ICU admission",
+    "Quickly to fluids and/or vasopressors",
+    "Only to atropine",
+    "It does not respond to treatment"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#e647c5",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: at least what proportion of patients show epidural spread?",
+   "options": [
+    "About 1%",
+    "About 50%",
+    "At least 10%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7a3de8",
+   "kind": "statement",
+   "stem": "Thoracic paravertebral block: what extremely rare complication causes cardiovascular collapse?",
+   "answer": "Total spinal anaesthesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#5bf1ae",
+   "kind": "statement",
+   "stem": "Thoracic paravertebral block: why is local anaesthetic systemic toxicity a risk?",
+   "answer": "Rapid absorption from the space",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#692b85",
+   "kind": "statement",
+   "stem": "Thoracic paravertebral block: what causes direct nerve injury?",
+   "answer": "Needle in the spinal nerve, medial path into the neuraxis, or neurotoxic agents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#f22cf3",
+   "kind": "mcq",
+   "stem": "After thoracic paravertebral block, what does Horner's syndrome indicate?",
+   "options": [
+    "Intravascular injection",
+    "An effective block",
+    "Pleural puncture",
+    "Subdural spread"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#854d38",
+   "kind": "statement",
+   "stem": "Why is thoracic paravertebral block often done under general anaesthesia?",
+   "answer": "Placing the block is painful",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2b2867",
+   "kind": "statement",
+   "stem": "Thoracic paravertebral block in an awake or sedated patient: what position is used?",
+   "answer": "Sitting, with neck and back flexed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a2fcdf",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: where is the injection point relative to the spinous process tips?",
+   "options": [
+    "5cm lateral to midline, one level lower",
+    "2.5cm lateral to midline, same level",
+    "At the spinous process tip",
+    "1cm lateral to midline, one level higher"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bc7748",
+   "kind": "statement",
+   "stem": "Thoracic paravertebral block: how should the skin be prepared?",
+   "answer": "0.5% chlorhexidine spray, air-dried",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#c90e57",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: which needle is used with local anaesthetic?",
+   "options": [
+    "25G pencil-point spinal needle",
+    "18-22G Tuohy needle on extension tubing",
+    "14G cannula over needle",
+    "27G pencil-point needle"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#cc16b8",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: at which finger guard mark is the needle first inserted straight anteroposterior?",
+   "options": [
+    "2cm",
+    "3.5cm",
+    "5.5cm",
+    "7cm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#51c0da",
+   "kind": "statement",
+   "stem": "Thoracic paravertebral block: if no bone is met with the guard at 3.5cm, what should be done?",
+   "answer": "Withdraw, redirect slightly caudad then cranial; if still no bone, move the guard to 4cm, 4.5cm, then 5cm and repeat",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a1fb79",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: if the needle hits bone, how should the finger guard move?",
+   "options": [
+    "1cm shallower",
+    "1cm deeper",
+    "2cm deeper",
+    "Stay at the same depth"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#9a762b",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: what does complete loss of resistance suggest?",
+   "options": [
+    "Intravenous placement",
+    "Pleural puncture",
+    "Correct paravertebral position",
+    "Contact with bone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#83a020",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: how can a nerve stimulator confirm placement?",
+   "options": [
+    "Tongue fasciculation",
+    "Intercostal or abdominal muscle twitch",
+    "Ankle plantarflexion",
+    "Pupil constriction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#d16264",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral block: after negative aspiration, what test dose is given and what is watched?",
+   "options": [
+    "A saline test dose, watching pupil size",
+    "An adrenaline test dose, watching for heart rate rise",
+    "A bupivacaine test dose, watching for ECG change",
+    "An opioid test dose, watching respiratory rate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#c85f1e",
+   "kind": "mcq",
+   "stem": "Single-shot thoracic paravertebral block with 0.5% ropivacaine or levobupivacaine: what volume is given?",
+   "options": [
+    "1-2mls",
+    "15-20mls",
+    "5-8mls",
+    "40-50mls"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#c85f1e",
+   "kind": "mcq",
+   "stem": "Single-shot thoracic paravertebral block: how long does dense analgesia typically last?",
+   "options": [
+    "1-2hrs",
+    "4-12hrs",
+    "24-48hrs",
+    "30-60 mins"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#16d937",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral catheter: how far should the catheter be advanced?",
+   "options": [
+    "Only 1-2cm",
+    "5-6cm",
+    "10-12cm",
+    "Until resistance is felt"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#16d937",
+   "kind": "mcq",
+   "stem": "Thoracic paravertebral catheter: what ropivacaine infusion rate is used?",
+   "options": [
+    "0.5ml/kg/hr",
+    "0.1ml/kg/hr",
+    "1ml/kg/hr",
+    "5ml/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2ed716",
+   "kind": "statement",
+   "stem": "Ultrasound in thoracic paravertebral block: what can it be used for?",
+   "answer": "Mapping depth to the transverse process and space, assisting landmarks, or real-time guidance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#438bdc",
+   "kind": "statement",
+   "stem": "Parasagittal ultrasound for thoracic paravertebral block: what is seen with the probe about 5cm from midline?",
+   "answer": "Rib, posterior intercostal membrane and pleura",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#62e449",
+   "kind": "statement",
+   "stem": "Transverse in-plane ultrasound for thoracic paravertebral block: where should the needle tip lie?",
+   "answer": "Between the internal intercostal membrane and the pleura",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#e4ef86",
+   "kind": "mcq",
+   "stem": "Caudal block in children: which surgery is it mainly used for?",
+   "options": [
+    "Sub-umbilical surgery",
+    "Thoracic surgery",
+    "Upper limb surgery",
+    "Neck surgery"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#faa68b",
+   "kind": "mcq",
+   "stem": "Caudal epidural steroid injection in adults: which condition is it used for?",
+   "options": [
+    "Chronic neck pain after failed conservative treatment",
+    "Acute low back pain after surgery",
+    "Chronic hip pain after failed conservative treatment",
+    "Chronic low back pain after failed conservative treatment"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#816c9d",
+   "kind": "mcq",
+   "stem": "Which is an absolute contraindication to caudal block in a child?",
+   "options": [
+    "Planned inguinal hernia repair",
+    "Local infection at the site",
+    "Child under one year old",
+    "Planned circumcision"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#0eecf9",
+   "kind": "mcq",
+   "stem": "Which is a relative contraindication to caudal block in a child?",
+   "options": [
+    "Planned inguinal hernia repair",
+    "Tethered cord (spinal dysraphism)",
+    "Planned urology procedure",
+    "Planned circumcision"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2f4ef5",
+   "kind": "mcq",
+   "stem": "In caudal block, what is the sacral hiatus?",
+   "options": [
+    "Fused laminae of L4-L5 below the cornua",
+    "Unfused laminae of L5-S1 between the iliac crests",
+    "Unfused laminae of S4-S5 between the sacral cornua",
+    "Fused laminae of S1-S2 above the cornua"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#eb33ac",
+   "kind": "blank",
+   "stem": "Caudal block: the needle is inserted at ____ degrees through skin, subcutaneous tissue and the sacrococcygeal membrane.",
+   "answer": "45",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#eb33ac",
+   "kind": "mcq",
+   "stem": "Caudal block: what sign marks entry into the epidural space?",
+   "options": [
+    "Blood return on aspiration",
+    "A pop",
+    "Paraesthesia in the leg",
+    "Rise in heart rate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b2a31e",
+   "kind": "statement",
+   "stem": "Caudal block: what does the sacral epidural space contain?",
+   "answer": "Epidural fat, epidural venous plexus, filum terminale, sacral roots",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#3e3775",
+   "kind": "mcq",
+   "stem": "Caudal block in infants: where does the spinal cord end?",
+   "options": [
+    "S1-2",
+    "T12-L1",
+    "L3-4",
+    "L5-S1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#180158",
+   "kind": "mcq",
+   "stem": "Caudal block in adults: where does the dural sac end?",
+   "options": [
+    "T12-L1",
+    "L3-4",
+    "L5-S1",
+    "S1-2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7fbbb0",
+   "kind": "mcq",
+   "stem": "Caudal block: roughly what sacral epidural volume is seen in infants?",
+   "options": [
+    "About 2ml",
+    "About 10ml",
+    "About 50ml",
+    "About 100ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#6377ae",
+   "kind": "statement",
+   "stem": "Caudal block in children: what should be done before the procedure?",
+   "answer": "History, examination, checking contraindications, and consent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#fecc4c",
+   "kind": "mcq",
+   "stem": "Caudal block in children: which patient positioning is used?",
+   "options": [
+    "Supine with legs straight",
+    "Sitting with neck flexed",
+    "Prone or lateral, hips and knees flexed",
+    "Prone with legs extended"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#6dba18",
+   "kind": "mcq",
+   "stem": "Caudal block in children: which concentration of bupivacaine or ropivacaine gives less motor block?",
+   "options": [
+    "0.5-0.75%",
+    "0.125-0.25%",
+    "1-1.5%",
+    "2-3%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2eafb0",
+   "kind": "mcq",
+   "stem": "Caudal block in children: what volume is used for sacral dermatomes?",
+   "options": [
+    "0.25mls/kg",
+    "0.5mls/kg",
+    "2mls/kg",
+    "5mls/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2eafb0",
+   "kind": "mcq",
+   "stem": "Caudal block in children: what volume is used for low thoracic dermatomes?",
+   "options": [
+    "0.75mls/kg",
+    "2.5mls/kg",
+    "1.25mls/kg",
+    "3mls/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#97907c",
+   "kind": "mcq",
+   "stem": "Caudal block: which misplaced injection causes high or total spinal anaesthesia?",
+   "options": [
+    "Subcutaneous injection",
+    "Subdural injection",
+    "Intramuscular injection",
+    "Intraperitoneal injection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#059de0",
+   "kind": "mcq",
+   "stem": "Caudal block: which rectal complication can follow the procedure?",
+   "options": [
+    "Hypoglycaemia",
+    "Dysphagia",
+    "Anorectal perforation",
+    "Tinnitus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#d612ba",
+   "kind": "mcq",
+   "stem": "Caudal block: which serious bone infection is a recognised complication?",
+   "options": [
+    "Hip septic arthritis",
+    "Sacral osteomyelitis",
+    "Tibial osteomyelitis",
+    "Sternal wound infection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bbc53a",
+   "kind": "mcq",
+   "stem": "Awake craniotomy scalp block: which nerve does the supraorbital block target?",
+   "options": [
+    "Zygomatic nerve (V2)",
+    "Auriculotemporal nerve (V3)",
+    "Frontal nerve (V1)",
+    "Greater occipital nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#5c2b86",
+   "kind": "statement",
+   "stem": "Awake craniotomy supratrochlear block: where is the injection site?",
+   "answer": "Medial orbital corner, a few mm lateral to the nasal apex",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a8d2d7",
+   "kind": "mcq",
+   "stem": "Awake craniotomy zygomaticotemporal block: which nerve is blocked?",
+   "options": [
+    "Frontal nerve (V1)",
+    "Zygomatic nerve (V2)",
+    "Lesser occipital nerve",
+    "Mandibular nerve (V3)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#1fb5c7",
+   "kind": "mcq",
+   "stem": "Awake craniotomy auriculotemporal block: where is the injection site?",
+   "options": [
+    "1.5cm behind the tragus",
+    "5cm above the tragus",
+    "1.5cm in front of the tragus",
+    "At the tragus itself"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#999bd0",
+   "kind": "mcq",
+   "stem": "Awake craniotomy greater occipital block: which spinal segments supply the nerve?",
+   "options": [
+    "T1/2",
+    "C2/3",
+    "L1/2",
+    "S1/2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#62104b",
+   "kind": "mcq",
+   "stem": "Awake craniotomy lesser occipital block: which root supplies the nerve?",
+   "options": [
+    "C5",
+    "C2",
+    "T1",
+    "L2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#1333c0",
+   "kind": "statement",
+   "stem": "Interscalene block for shoulder surgery: which two nerves give the main motor and sensory supply?",
+   "answer": "Suprascapular nerve (upper trunk) and axillary nerve (posterior cord)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b89228",
+   "kind": "statement",
+   "stem": "Interscalene block for shoulder surgery: which nerves give the minor sensory supply?",
+   "answer": "Lateral pectoral, musculocutaneous and subscapular nerves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b4499b",
+   "kind": "mcq",
+   "stem": "Interscalene block: which nerves supply the skin over the cape of the shoulder?",
+   "options": [
+    "Supraclavicular nerves",
+    "Intercostobrachial nerve",
+    "Ulnar nerve",
+    "Median nerve"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#722da6",
+   "kind": "statement",
+   "stem": "Interscalene block: which nerve from the axillary nerve supplies skin below the glenohumeral joint?",
+   "answer": "Superior lateral cutaneous nerve of arm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#37da88",
+   "kind": "statement",
+   "stem": "Interscalene block: which signs make up transient Horner's syndrome?",
+   "answer": "Ptosis, miosis, anhidrosis and nasal congestion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#c29847",
+   "kind": "mcq",
+   "stem": "Interscalene block: when is it contraindicated because of recurrent laryngeal nerve block?",
+   "options": [
+    "Ipsilateral phrenic palsy",
+    "Same-side hoarseness",
+    "Chronic cough",
+    "Opposite recurrent laryngeal nerve palsy"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#384ba9",
+   "kind": "mcq",
+   "stem": "Interscalene block: which inadvertent injection may cause seizures?",
+   "options": [
+    "Femoral artery injection",
+    "Vertebral artery injection",
+    "Pleural injection",
+    "Subcutaneous injection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#fd3b76",
+   "kind": "mcq",
+   "stem": "Interscalene block: where should the needle path lie relative to the C7 root?",
+   "options": [
+    "Deep to the C7 root",
+    "Superficial to the C7 root",
+    "Medial to the C7 root",
+    "Directly on the C7 root"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#8b0b43",
+   "kind": "statement",
+   "stem": "Interscalene block: what is the aim of changing dose, site, injection method or block type?",
+   "answer": "Less local anaesthetic reaching the phrenic nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#987ee7",
+   "kind": "statement",
+   "stem": "Interscalene block: why is a lower injection volume preferred?",
+   "answer": "Larger volumes spread further",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#25c477",
+   "kind": "mcq",
+   "stem": "Interscalene block with 20mls around the C5-6 roots: what phrenic palsy rate is seen?",
+   "options": [
+    "5%",
+    "13%",
+    "60%",
+    "100%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#76e0d7",
+   "kind": "mcq",
+   "stem": "Interscalene block with ultrasound-guided 10mls: what phrenic palsy rate is seen?",
+   "options": [
+    "2%",
+    "35%",
+    "60%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#51f4b4",
+   "kind": "mcq",
+   "stem": "Interscalene block with a reduced local anaesthetic dose: what phrenic palsy rate is seen?",
+   "options": [
+    "1-2%",
+    "5-10%",
+    "25-50%",
+    "75-80%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#18c582",
+   "kind": "mcq",
+   "stem": "Interscalene block for shoulder surgery: until when is analgesia not compromised after surgery?",
+   "options": [
+    "Up to 2hrs after surgery",
+    "Only during surgery",
+    "Up to 24hrs after surgery",
+    "Up to 72hrs after surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#574d52",
+   "kind": "statement",
+   "stem": "Interscalene block: what is the trade-off of a lower local anaesthetic concentration?",
+   "answer": "Less palsy and better lung function, but weaker analgesia and more opioid use",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2088c5",
+   "kind": "mcq",
+   "stem": "Interscalene block: with extrafascial (periplexus) injection, what palsy rate is reported?",
+   "options": [
+    "5%",
+    "21%",
+    "45%",
+    "70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#98b6d4",
+   "kind": "mcq",
+   "stem": "Interscalene block: intrafascial injection at the C7 root gives what palsy rate?",
+   "options": [
+    "2%",
+    "13%",
+    "35%",
+    "60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2307f7",
+   "kind": "statement",
+   "stem": "Interscalene block: how does posterior versus anterior injection to the C5-6 root compare?",
+   "answer": "No difference",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#c50fca",
+   "kind": "statement",
+   "stem": "Interscalene block: which injection technique may limit spread, though without published support?",
+   "answer": "Slow, low-pressure, small titrated aliquots",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#5cef0c",
+   "kind": "mcq",
+   "stem": "Interscalene block: what rate of temporary nerve dysfunction is seen at 10 days?",
+   "options": [
+    "2%",
+    "5%",
+    "14%",
+    "34%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#174727",
+   "kind": "mcq",
+   "stem": "In the shoulder interscalene block, which cervical roots form the trunk?",
+   "options": [
+    "C3-4",
+    "C5-6",
+    "C7-8",
+    "T1-2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2cb459",
+   "kind": "mcq",
+   "stem": "What local anaesthetic volume covers the main shoulder supply in an interscalene block?",
+   "options": [
+    "5-10mls",
+    "10-15mls",
+    "20-25mls",
+    "30-40mls"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#082a94",
+   "kind": "mcq",
+   "stem": "What rate of phrenic palsy does an interscalene block typically cause?",
+   "options": [
+    "1-5%",
+    "10-15%",
+    "25-50%",
+    "75-90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#214461",
+   "kind": "mcq",
+   "stem": "For shoulder surgery, which nerve block combination is an alternative to interscalene block?",
+   "options": [
+    "Femoral plus sciatic",
+    "Suprascapular plus axillary",
+    "Ankle plus saphenous",
+    "TAP plus ilioinguinal"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bd4b3d",
+   "kind": "mcq",
+   "stem": "What proportion of shoulder capsular sensation does the suprascapular nerve supply?",
+   "options": [
+    "About 10%",
+    "About 30%",
+    "About 70%",
+    "About 95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bd4b3d",
+   "kind": "blank",
+   "stem": "A posterior suprascapular nerve block is placed in the ____ fossa.",
+   "answer": "supraspinous",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#8e9f94",
+   "kind": "mcq",
+   "stem": "Under general anaesthesia, what volume of local anaesthetic is given subacromially at the end of shoulder surgery?",
+   "options": [
+    "5-10mls",
+    "20-40mls",
+    "50-60mls",
+    "100-120mls"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#307d95",
+   "kind": "mcq",
+   "stem": "The femoral nerve arises from posterior divisions of which anterior rami?",
+   "options": [
+    "T10-L1",
+    "L2-L4",
+    "L5-S2",
+    "S1-S3"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#738625",
+   "kind": "statement",
+   "stem": "In a femoral nerve block, once the nerve leaves psoas laterally, where does it run?",
+   "answer": "In the groove between psoas and iliacus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#16a86d",
+   "kind": "mcq",
+   "stem": "Relative to the femoral sheath, on which side does the femoral nerve enter the femoral triangle?",
+   "options": [
+    "Medial",
+    "Lateral",
+    "Anterior",
+    "Posterior"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#59aacb",
+   "kind": "statement",
+   "stem": "In the groin, what separates the femoral nerve from the femoral sheath?",
+   "answer": "The iliopectineal band",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#5d1285",
+   "kind": "mcq",
+   "stem": "Which branch of the femoral nerve supplies skin from the medial knee to the base of the first metatarsal?",
+   "options": [
+    "Obturator nerve",
+    "Common peroneal nerve",
+    "Saphenous nerve",
+    "Lateral femoral cutaneous nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#3c879a",
+   "kind": "mcq",
+   "stem": "What forms the roof of the femoral triangle?",
+   "options": [
+    "Pectineus muscle",
+    "Fascia lata",
+    "Adductor longus",
+    "Iliopsoas muscle"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#3c879a",
+   "kind": "statement",
+   "stem": "What forms the floor of the femoral triangle?",
+   "answer": "Pectineus, iliopsoas and adductor longus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#836b1d",
+   "kind": "statement",
+   "stem": "Through opioid sparing, which side effects does a femoral nerve block reduce?",
+   "answer": "PONV, giddiness, respiratory depression, urinary retention and pruritus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#30df11",
+   "kind": "mcq",
+   "stem": "How long does a single-shot femoral nerve block last?",
+   "options": [
+    "2-4hrs",
+    "12-24hrs",
+    "48-72hrs",
+    "5-7 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#48fed9",
+   "kind": "mcq",
+   "stem": "How soon after analgesia should a hip fracture patient's pain be reassessed?",
+   "options": [
+    "5 mins",
+    "30 mins",
+    "2 hours",
+    "6 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#48fed9",
+   "kind": "mcq",
+   "stem": "How often should a hip fracture patient's pain be assessed on the ward until settled?",
+   "options": [
+    "Hourly",
+    "Every 4 hours",
+    "Twice daily",
+    "Only on arrival"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7c1d19",
+   "kind": "statement",
+   "stem": "What should a hip fracture patient receive on arrival, even if cognitively impaired?",
+   "answer": "Analgesia, enough to allow investigations",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#ce770e",
+   "kind": "mcq",
+   "stem": "In stepwise hip fracture analgesia, how often is oral paracetamol given unless contraindicated?",
+   "options": [
+    "4hourly",
+    "6hourly",
+    "8hourly",
+    "12hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#ce770e",
+   "kind": "mcq",
+   "stem": "Which analgesic is not recommended in stepwise hip fracture analgesia?",
+   "options": [
+    "Oral paracetamol",
+    "Oral opioids",
+    "Fascia iliaca block",
+    "NSAIDs"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#96910f",
+   "kind": "mcq",
+   "stem": "What forms the posterior boundary of the fascia iliaca compartment?",
+   "options": [
+    "Inner surface of the sacrum",
+    "Outer surface of the quadratus lumborum",
+    "Front of iliacus and psoas major",
+    "Anterior surface of the sartorius"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7b06cd",
+   "kind": "mcq",
+   "stem": "What forms the medial boundary of the fascia iliaca compartment?",
+   "options": [
+    "Inguinal ligament and pubic tubercle",
+    "Sacroiliac joint and ischium",
+    "Greater trochanter and gluteal fascia",
+    "Psoas origin and vertebral column"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7f71fb",
+   "kind": "mcq",
+   "stem": "What forms the lateral boundary of the fascia iliaca compartment?",
+   "options": [
+    "Greater trochanter and gluteal fascia",
+    "Iliacus origin and inner iliac crest",
+    "Inguinal ligament and pubic tubercle",
+    "Sacroiliac joint and ischium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#769cab",
+   "kind": "statement",
+   "stem": "Which three nerves does a fascia iliaca block target?",
+   "answer": "Lateral cutaneous nerve of thigh, femoral nerve and obturator nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bffb78",
+   "kind": "mcq",
+   "stem": "What chlorhexidine concentration is used to prepare the skin before a fascia iliaca block?",
+   "options": [
+    "1%",
+    "0.5%",
+    "2%",
+    "0.05%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#540757",
+   "kind": "mcq",
+   "stem": "What block needle length is usually used for a fascia iliaca block?",
+   "options": [
+    "10mm",
+    "25mm",
+    "50mm",
+    "100mm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#540757",
+   "kind": "mcq",
+   "stem": "What block needle gauge is used for a fascia iliaca block?",
+   "options": [
+    "18G",
+    "22G",
+    "25G",
+    "27G"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#435184",
+   "kind": "statement",
+   "stem": "For a fascia iliaca block, where is a transverse high-frequency probe placed?",
+   "answer": "Below the inguinal ligament, lateral to the femoral artery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#1b84c8",
+   "kind": "statement",
+   "stem": "For a fascia iliaca block, over which muscle is the skin wheal raised?",
+   "answer": "Sartorius",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#452dbc",
+   "kind": "mcq",
+   "stem": "In a fascia iliaca block, what test volume is injected after aspiration?",
+   "options": [
+    "1-2mls",
+    "10-15mls",
+    "30-40mls",
+    "50mls"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#452dbc",
+   "kind": "statement",
+   "stem": "In a fascia iliaca block, what should a successful test injection do to the fascia?",
+   "answer": "Lift off the muscle and spread medially towards the femoral nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#92751b",
+   "kind": "mcq",
+   "stem": "How much dilute local anaesthetic is injected after the test dose in a fascia iliaca block?",
+   "options": [
+    "5-10mls",
+    "30-40mls",
+    "60-70mls",
+    "100-120mls"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#92751b",
+   "kind": "mcq",
+   "stem": "What is the maximum bupivacaine concentration used in a fascia iliaca block?",
+   "options": [
+    "1mg/ml",
+    "2mg/ml",
+    "5mg/ml",
+    "10mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#419420",
+   "kind": "blank",
+   "stem": "The upper medial border of the popliteal fossa is formed by ____.",
+   "answer": "semitendinosus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#419420",
+   "kind": "blank",
+   "stem": "The upper lateral border of the popliteal fossa is formed by ____.",
+   "answer": "biceps femoris",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#cca29c",
+   "kind": "statement",
+   "stem": "What forms the lower medial and lower lateral borders of the popliteal fossa?",
+   "answer": "Medial and lateral heads of gastrocnemius",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#5ff633",
+   "kind": "mcq",
+   "stem": "Which vessels lie in the popliteal fossa with the sciatic nerve?",
+   "options": [
+    "Femoral artery and vein",
+    "Great saphenous vein",
+    "Popliteal artery and vein",
+    "Profunda femoris artery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#6ae043",
+   "kind": "statement",
+   "stem": "On what does the sciatic nerve lie in the thigh, higher up and lower down?",
+   "answer": "Adductor magnus higher up, and the femur lower down",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#cf3d5d",
+   "kind": "statement",
+   "stem": "Why may a popliteal sciatic block need separate tibial and common peroneal injections?",
+   "answer": "The sciatic nerve can divide anywhere",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#99688f",
+   "kind": "mcq",
+   "stem": "Which spinal levels form the sacral plexus that gives rise to the sciatic nerve?",
+   "options": [
+    "L1-L3",
+    "L4-S3",
+    "S1-S5",
+    "T12-L2"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#abf5ac",
+   "kind": "mcq",
+   "stem": "Through which foramen does the sciatic nerve leave the pelvis?",
+   "options": [
+    "Obturator foramen",
+    "Foramen ovale",
+    "Inguinal canal",
+    "Greater sciatic foramen"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a20718",
+   "kind": "statement",
+   "stem": "In the buttock, which muscles lie in front of and behind the sciatic nerve?",
+   "answer": "Quadratus femoris in front, gluteus maximus behind",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#da6fd8",
+   "kind": "mcq",
+   "stem": "Below the buttock, on which muscle does the sciatic nerve lie?",
+   "options": [
+    "Adductor longus",
+    "Adductor magnus",
+    "Pectineus",
+    "Gracilis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#708a3d",
+   "kind": "statement",
+   "stem": "Where does the sciatic nerve split into tibial and common peroneal nerves?",
+   "answer": "At the apex of the popliteal fossa",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#2f1233",
+   "kind": "statement",
+   "stem": "What should be checked and available before a popliteal sciatic block?",
+   "answer": "Contraindications, consent, full monitoring, IV access, resuscitation drugs, block trolley, skilled assistant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#1a816b",
+   "kind": "mcq",
+   "stem": "For a popliteal sciatic block, which patient position has the knee flexed at 90 degrees?",
+   "options": [
+    "Sitting",
+    "Supine",
+    "Standing",
+    "Lithotomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#3b9484",
+   "kind": "mcq",
+   "stem": "What block needle length is used for a popliteal sciatic block?",
+   "options": [
+    "10-20mm",
+    "25-30mm",
+    "50-100mm",
+    "150-200mm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#3b9484",
+   "kind": "statement",
+   "stem": "Where is a high-frequency linear probe placed transversely for a popliteal sciatic block?",
+   "answer": "At the popliteal crease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#d9dd10",
+   "kind": "mcq",
+   "stem": "In the popliteal fossa, between which two muscles does the sciatic nerve sit?",
+   "options": [
+    "Gastrocnemius heads",
+    "Semimembranosus and biceps femoris",
+    "Semitendinosus and gracilis",
+    "Popliteus and plantaris"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#6ba9e5",
+   "kind": "mcq",
+   "stem": "Which foot movement produces the seesaw sign on popliteal nerves?",
+   "options": [
+    "Inversion and eversion",
+    "Abduction and adduction",
+    "Dorsiflexion and plantarflexion",
+    "Knee flexion and extension"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#6ba9e5",
+   "kind": "statement",
+   "stem": "Why should the probe be tilted distally when scanning popliteal nerves?",
+   "answer": "Because nerves are anisotropic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#481150",
+   "kind": "mcq",
+   "stem": "Which popliteal nerve is the larger hyperechoic oval lying medial to the artery?",
+   "options": [
+    "Common peroneal nerve",
+    "Sural nerve",
+    "Tibial nerve",
+    "Saphenous nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#1ee057",
+   "kind": "statement",
+   "stem": "When scanning up the popliteal fossa, how does the tibial nerve behave?",
+   "answer": "It moves laterally and joins the common peroneal to form the sciatic nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#d6e43d",
+   "kind": "mcq",
+   "stem": "For a popliteal sciatic block, from which side is the needle advanced in-plane?",
+   "options": [
+    "Medial",
+    "Lateral",
+    "Anterior",
+    "Posterior"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#87968f",
+   "kind": "statement",
+   "stem": "If the sciatic is injected as two separate nerves after the split, which nerve may be missed?",
+   "answer": "The sural communicating nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7425d6",
+   "kind": "statement",
+   "stem": "In lower leg compartment syndrome, what causes muscle and nerve ischaemia?",
+   "answer": "Compartment pressure rising above capillary pressure, from swelling or bleeding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#e1dcf5",
+   "kind": "mcq",
+   "stem": "What is normal tissue pressure in a lower leg fascial compartment?",
+   "options": [
+    "0-10mmHg",
+    "20-30mmHg",
+    "40-50mmHg",
+    "60-70mmHg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#7d707d",
+   "kind": "blank",
+   "stem": "Capillary flow is at risk when compartment pressure rises above ____.",
+   "answer": "20mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#0c2c9d",
+   "kind": "blank",
+   "stem": "Muscle and nerve are at ischaemic risk above a compartment pressure of ____.",
+   "answer": "30mmHg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#0c2c9d",
+   "kind": "statement",
+   "stem": "In compartment syndrome, how is delta pressure defined?",
+   "answer": "DBP minus compartment pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#f67ec7",
+   "kind": "mcq",
+   "stem": "In compartment syndrome, after how long of complete ischaemia does injury begin?",
+   "options": [
+    "1hr",
+    "4hrs",
+    "12hrs",
+    "24hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#f67ec7",
+   "kind": "statement",
+   "stem": "In lower leg compartment syndrome, what local injuries follow complete ischaemia?",
+   "answer": "Local rhabdomyolysis and neurapraxia, progressing to axonotmesis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#d865a5",
+   "kind": "statement",
+   "stem": "Which complication of lower leg compartment syndrome can cause renal failure?",
+   "answer": "Rhabdomyolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#737d4a",
+   "kind": "statement",
+   "stem": "Why is ankle block suited to bilateral surgery?",
+   "answer": "It causes minimal motor block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#23ff73",
+   "kind": "blank",
+   "stem": "An ankle block does not cover pain from the ____.",
+   "answer": "tourniquet",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#8e63ce",
+   "kind": "mcq",
+   "stem": "In a TAP block, between which muscles do the anterior rami of T7-T12 and L1 run?",
+   "options": [
+    "External oblique and internal oblique",
+    "Internal oblique and transversus abdominis",
+    "Rectus abdominis and transversus abdominis",
+    "Transversus abdominis and psoas"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#85ed67",
+   "kind": "mcq",
+   "stem": "Which dermatomes are covered above the umbilicus by a TAP block?",
+   "options": [
+    "T7-9",
+    "T10-11",
+    "T12-L1",
+    "L2-L3"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b3d9b2",
+   "kind": "statement",
+   "stem": "Which L1 nerve supplies the inguinal area in a TAP block?",
+   "answer": "Iliohypogastric nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#07c32d",
+   "kind": "statement",
+   "stem": "Which L1 nerve supplies the hernia sac, scrotum or labia, and medial thigh?",
+   "answer": "Ilioinguinal nerve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#c172ea",
+   "kind": "statement",
+   "stem": "Why is a TAP block best for incisions below the umbilicus?",
+   "answer": "Spread above the umbilicus is unreliable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#c172ea",
+   "kind": "statement",
+   "stem": "Which pain type does a TAP block not cover?",
+   "answer": "Visceral pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b4d0d4",
+   "kind": "mcq",
+   "stem": "Which of these operations suits a TAP block?",
+   "options": [
+    "Thyroidectomy",
+    "Caesarean section",
+    "Knee arthroscopy",
+    "Cataract surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bf6031",
+   "kind": "statement",
+   "stem": "Why is a TAP block useful in obstructive sleep apnoea or lung disease?",
+   "answer": "It allows fewer opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bf6031",
+   "kind": "mcq",
+   "stem": "Which contraindication to neuraxial block makes TAP block a practical alternative?",
+   "options": [
+    "Previous appendicectomy",
+    "Hypoglycaemia",
+    "Coagulopathy",
+    "Blood group O"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#60de9f",
+   "kind": "statement",
+   "stem": "What must be in place before a TAP block?",
+   "answer": "Contraindications, consent, monitoring, IV access, resuscitation drugs, block trolley, assistant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a4a9bb",
+   "kind": "mcq",
+   "stem": "Which patient position is used for a TAP block?",
+   "options": [
+    "Prone",
+    "Supine",
+    "Sitting",
+    "Lithotomy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#f39c5b",
+   "kind": "mcq",
+   "stem": "Which probe is preferred for a TAP block in an obese patient?",
+   "options": [
+    "Phased array",
+    "Sector",
+    "Endocavity",
+    "Curvilinear"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b7e787",
+   "kind": "statement",
+   "stem": "In a TAP block, where should the needle tip sit?",
+   "answer": "Between internal oblique and transversus abdominis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#769145",
+   "kind": "mcq",
+   "stem": "What volume of dilute local anaesthetic is injected for a TAP block?",
+   "options": [
+    "5mls",
+    "20mls",
+    "50mls",
+    "100mls"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#5100d0",
+   "kind": "statement",
+   "stem": "When are bilateral TAP blocks used?",
+   "answer": "For midline or crossing incisions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#536d2e",
+   "kind": "statement",
+   "stem": "Which structures form the borders of the triangle of Petit?",
+   "answer": "Iliac crest below, posterior edge of external oblique in front, anterior edge of latissimus dorsi behind",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#893345",
+   "kind": "statement",
+   "stem": "For the posterior TAP approach, where is the needle placed perpendicular to the skin?",
+   "answer": "Just above the iliac crest in the posterior axillary line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a8feb0",
+   "kind": "statement",
+   "stem": "In the posterior TAP approach, what does the needle feel as it passes?",
+   "answer": "Two pops: external then internal oblique fascia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a6c8dc",
+   "kind": "statement",
+   "stem": "What commonly explains failure of a TAP block?",
+   "answer": "Variable spread",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#803275",
+   "kind": "mcq",
+   "stem": "In a TAP block, which toxicity is linked to large volumes, especially bilateral?",
+   "options": [
+    "Phrenic nerve palsy",
+    "Spinal block",
+    "LAST",
+    "Pneumothorax"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#07720d",
+   "kind": "mcq",
+   "stem": "Which complication of a TAP block is caused by wrong needle placement?",
+   "options": [
+    "Phrenic nerve palsy",
+    "Bowel perforation",
+    "Spinal block",
+    "Ureteric stone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#4f55a8",
+   "kind": "mcq",
+   "stem": "Which nerve can be transiently blocked as a complication of a TAP block?",
+   "options": [
+    "Sciatic nerve",
+    "Obturator nerve",
+    "Femoral nerve",
+    "Pudendal nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bc04b2",
+   "kind": "mcq",
+   "stem": "In coeliac plexus block, which splanchnic nerve carries the T10-T11 preganglionic fibres?",
+   "options": [
+    "Greater splanchnic nerve",
+    "Least splanchnic nerve",
+    "Lesser splanchnic nerve",
+    "Intercostal nerve"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#bc04b2",
+   "kind": "mcq",
+   "stem": "In coeliac plexus block, which thoracic levels do the greater splanchnic nerve fibres come from?",
+   "options": [
+    "T1-T4",
+    "T5-T9",
+    "T10-T11",
+    "T12-L1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#546fcf",
+   "kind": "mcq",
+   "stem": "In coeliac plexus block, where do the splanchnic fibres converge before entering the abdomen?",
+   "options": [
+    "In front of T8",
+    "In front of T5",
+    "In front of T10",
+    "In front of T12"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#4b2d25",
+   "kind": "mcq",
+   "stem": "In coeliac plexus block, which organ lies in front of the coeliac plexus?",
+   "options": [
+    "Spleen",
+    "Stomach",
+    "Adrenal gland",
+    "Left kidney"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#c8fb1e",
+   "kind": "statement",
+   "stem": "Which abdominal organs does the coeliac plexus supply in coeliac plexus block?",
+   "answer": "Liver, gallbladder, stomach, small bowel, large bowel to splenic flexure, pancreas, spleen, kidneys and adrenals",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#1035f1",
+   "kind": "mcq",
+   "stem": "Which condition is a typical indication for coeliac plexus block for intractable pain?",
+   "options": [
+    "Carpal tunnel syndrome",
+    "Hip osteoarthritis",
+    "Pancreatic cancer",
+    "Inguinal hernia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#52f3b4",
+   "kind": "statement",
+   "stem": "Name the approaches to coeliac plexus block.",
+   "answer": "Posterior, anterior, retrocrural or transcrural, transaortic, transdiscal, paramedian",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b9c06e",
+   "kind": "mcq",
+   "stem": "In ultrasound for nerve blocks, what frequency range does the piezoelectric crystal emit?",
+   "options": [
+    "0.5-2MHz",
+    "2.5-15MHz",
+    "20-40MHz",
+    "40-100MHz"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#b9c06e",
+   "kind": "mcq",
+   "stem": "In ultrasound for nerve blocks, what makes the piezoelectric crystal expand and contract?",
+   "options": [
+    "Constant direct current",
+    "Constant magnetic field",
+    "Alternating voltage polarity",
+    "Rising probe temperature"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#353c94",
+   "kind": "statement",
+   "stem": "In ultrasound for nerve blocks, what causes waves to reflect back to the probe?",
+   "answer": "Interfaces of differing acoustic impedance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#76fd18",
+   "kind": "statement",
+   "stem": "In ultrasound for nerve blocks, how does the crystal that sends waves also build the image?",
+   "answer": "Returning waves deform it, producing a voltage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#71caaa",
+   "kind": "blank",
+   "stem": "In ultrasound for nerve blocks, attenuation is worse at ____ frequency.",
+   "answer": "higher",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#71caaa",
+   "kind": "statement",
+   "stem": "In ultrasound for nerve blocks, what is attenuation?",
+   "answer": "Energy lost as the beam travels through tissue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#373682",
+   "kind": "mcq",
+   "stem": "In ultrasound for nerve blocks, what happens when the beam hits an interface at other than 90 degrees?",
+   "options": [
+    "It passes straight through unchanged",
+    "It bends and causes artefact",
+    "It is fully absorbed by fat",
+    "It doubles in frequency"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#75b43d",
+   "kind": "mcq",
+   "stem": "In ultrasound for nerve blocks, which resolution does higher frequency improve?",
+   "options": [
+    "Lateral resolution",
+    "Temporal resolution",
+    "Axial resolution",
+    "Contrast resolution"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#75b43d",
+   "kind": "mcq",
+   "stem": "In ultrasound for nerve blocks, what improves lateral resolution?",
+   "options": [
+    "Lower frequency",
+    "Higher gain",
+    "Reduced depth",
+    "Focusing"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#01401d",
+   "kind": "statement",
+   "stem": "In ultrasound for nerve blocks, what is anisotropy?",
+   "answer": "Image appearance depends on the beam angle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#01401d",
+   "kind": "mcq",
+   "stem": "In ultrasound for nerve blocks, what happens to the image as the probe-to-skin angle becomes more acute?",
+   "options": [
+    "It sharpens",
+    "It fades",
+    "It turns brighter",
+    "It stays unchanged"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a30330",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), below which GCS should the patient be intubated?",
+   "options": [
+    "GCS less than 5",
+    "GCS less than 8",
+    "GCS less than 12",
+    "GCS less than 15"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a30330",
+   "kind": "statement",
+   "stem": "In local anaesthetic systemic toxicity (LAST), why should hyperventilation be avoided?",
+   "answer": "It lowers the seizure threshold",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#a30330",
+   "kind": "statement",
+   "stem": "In local anaesthetic systemic toxicity (LAST), which two conditions worsen the toxicity?",
+   "answer": "Hypoxaemia and acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#e715de",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), what Intralipid 20% bolus is given over 1 minute?",
+   "options": [
+    "0.5ml/kg",
+    "2.5ml/kg",
+    "1.5ml/kg",
+    "10ml/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#e715de",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), what Intralipid 20% infusion rate follows the bolus?",
+   "options": [
+    "10ml/kg/hr",
+    "20ml/kg/hr",
+    "25ml/kg/hr",
+    "15ml/kg/hr"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#83349e",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), how many Intralipid 20% bolus doses can be given in total if still unstable?",
+   "options": [
+    "2 doses",
+    "4 doses",
+    "3 doses",
+    "5 doses"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#83349e",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), to what rate is the Intralipid 20% infusion raised if still unstable?",
+   "options": [
+    "30ml/kg/hr",
+    "10ml/kg/hr",
+    "20ml/kg/hr",
+    "60ml/kg/hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#83349e",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), what is the upper limit of the total Intralipid 20% dose?",
+   "options": [
+    "6ml/kg",
+    "12ml/kg",
+    "20ml/kg",
+    "30ml/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#0ef63e",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), what is the IV bolus dose of midazolam for seizures?",
+   "options": [
+    "0.1-0.5mg",
+    "0.5-1mg",
+    "2-4mg",
+    "5-10mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#0ef63e",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), which drug is given at 0.1mg/kg IV for seizures?",
+   "options": [
+    "Midazolam",
+    "Propofol",
+    "Lorazepam",
+    "Thiopental"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#0ef63e",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), what is the propofol bolus dose for seizures?",
+   "options": [
+    "1-2mg",
+    "50-100mg",
+    "10-20mg",
+    "100-200mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#494c11",
+   "kind": "statement",
+   "stem": "In local anaesthetic systemic toxicity (LAST), if the patient is intubated, why give a muscle relaxant during seizures?",
+   "answer": "It reduces oxygen use and acidosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#494c11",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), which test detects ongoing seizures?",
+   "options": [
+    "ECG",
+    "EMG",
+    "EEG",
+    "Capnography"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "regional/regional-anaesthesia-review#f62a96",
+   "kind": "mcq",
+   "stem": "In local anaesthetic systemic toxicity (LAST), what is the minimum time for ICU monitoring?",
+   "options": [
+    "At least 4hrs",
+    "At least 6hrs",
+    "At least 12hrs",
+    "At least 48hrs"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

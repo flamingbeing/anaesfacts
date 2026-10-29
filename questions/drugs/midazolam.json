@@ -1,0 +1,589 @@
+{
+ "topic": "drugs/midazolam",
+ "questions": [
+  {
+   "fact_id": "drugs/midazolam#798264",
+   "kind": "mcq",
+   "stem": "How is midazolam supplied as its clear solution?",
+   "options": [
+    "0.5 mg/ml in 10 ml ampoules",
+    "10 mg/ml in 5 ml ampoules",
+    "1 mg/ml in 5 ml ampoules",
+    "5 mg/ml in 1 ml ampoules"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#f365c8",
+   "kind": "statement",
+   "stem": "Which oral liquid form of midazolam is available?",
+   "answer": "Sugar syrup",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#e43d39",
+   "kind": "statement",
+   "stem": "What does the midazolam mnemonic 'Versed' stand for?",
+   "answer": "VERy SEDated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#66e13a",
+   "kind": "statement",
+   "stem": "What determines the molecular structure of midazolam in solution?",
+   "answer": "pH",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#a4ca88",
+   "kind": "mcq",
+   "stem": "At pH 3.5, what state is midazolam's diazepine ring in?",
+   "options": [
+    "Closed, unionised and lipid-soluble",
+    "Open, unionised and water-soluble",
+    "Open, ionised and water-soluble",
+    "Closed, ionised and lipid-soluble"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#2d7a0c",
+   "kind": "statement",
+   "stem": "Midazolam's diazepine ring closes above what pH?",
+   "answer": "pH 4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#87d65d",
+   "kind": "mcq",
+   "stem": "What percentage of midazolam is unionised at physiological pH?",
+   "options": [
+    "50%",
+    "11%",
+    "89%",
+    "99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#155eb0",
+   "kind": "mcq",
+   "stem": "Which routes can midazolam be given by?",
+   "options": [
+    "Intra-arterial or intraosseous only",
+    "IV, IM, oral or intranasal",
+    "Oral or sublingual only",
+    "IV or subcutaneous only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#5491a5",
+   "kind": "statement",
+   "stem": "Oral midazolam is often mixed with diluting juice because it tastes what?",
+   "answer": "bitter",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#98eeb7",
+   "kind": "mcq",
+   "stem": "What dead space must be allowed for when giving intranasal midazolam to children by atomiser?",
+   "options": [
+    "0.5 ml",
+    "0.01 ml",
+    "0.1 ml",
+    "1 ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#09124f",
+   "kind": "statement",
+   "stem": "Midazolam given before surgery needs close monitoring for which two risks?",
+   "answer": "Respiratory depression and fall risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#716d3a",
+   "kind": "mcq",
+   "stem": "What is the IV premedication dose of midazolam?",
+   "options": [
+    "0.02–0.04 mg/kg",
+    "0.5–1 mg/kg",
+    "0.001–0.002 mg/kg",
+    "5–10 mg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#97168b",
+   "kind": "statement",
+   "stem": "For IV midazolam titration, what is the starting dose?",
+   "answer": "2 mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#97168b",
+   "kind": "mcq",
+   "stem": "How often is a further 1 mg IV midazolam dose given during titration?",
+   "options": [
+    "every 2–3 minutes",
+    "every 10–15 minutes",
+    "every 30 seconds",
+    "every 1–2 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#ea5fbc",
+   "kind": "mcq",
+   "stem": "What is the usual maximum IV midazolam dose?",
+   "options": [
+    "2 mg",
+    "5 mg",
+    "20 mg",
+    "50 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#7ea943",
+   "kind": "blank",
+   "stem": "For co-induction, midazolam is given as a 1–2 mg bolus or ____.",
+   "answer": "2–5 mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#4d9c2c",
+   "kind": "mcq",
+   "stem": "What is the IV induction dose of midazolam?",
+   "options": [
+    "0.1–0.2 mg/kg",
+    "1–2 mg/kg",
+    "3–5 mg/kg",
+    "0.01–0.02 mg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#40034a",
+   "kind": "statement",
+   "stem": "When midazolam is given with an opioid, by about what percentage should the dose be reduced?",
+   "answer": "about 50%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#9081a2",
+   "kind": "mcq",
+   "stem": "What is the onset of IV midazolam?",
+   "options": [
+    "2–3 min",
+    "45–60 sec",
+    "90–120 sec",
+    "10–15 sec"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#fe49f5",
+   "kind": "mcq",
+   "stem": "What is the duration of IV midazolam at induction?",
+   "options": [
+    "15–30 min",
+    "2–6 hours",
+    "60–90 min",
+    "1–2 min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#ce73f5",
+   "kind": "statement",
+   "stem": "How long does midazolam's effect usually last, with up to 6 hours in some patients?",
+   "answer": "under 2 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#ca5db2",
+   "kind": "mcq",
+   "stem": "How long does anterograde amnesia last after one IV midazolam dose?",
+   "options": [
+    "2–4 hours",
+    "5–10 minutes",
+    "20–40 minutes",
+    "6–8 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#0871d4",
+   "kind": "mcq",
+   "stem": "What is the IM midazolam dose range?",
+   "options": [
+    "0.5–0.75 mg/kg",
+    "0.05 to 0.15 mg/kg",
+    "0.2 to 0.3 mg/kg",
+    "0.01 to 0.02 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#8a1e0c",
+   "kind": "mcq",
+   "stem": "What IM midazolam dose gives premedication without loss of consciousness?",
+   "options": [
+    "0.2 mg/kg",
+    "0.05 mg/kg",
+    "0.5 mg/kg",
+    "0.01 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#c5000d",
+   "kind": "mcq",
+   "stem": "What is the onset of IM midazolam?",
+   "options": [
+    "5–15 min",
+    "45–60 sec",
+    "1–2 hours",
+    "20–40 min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#154d54",
+   "kind": "mcq",
+   "stem": "How long does amnesia last after IM midazolam?",
+   "options": [
+    "about 3 hours",
+    "about 6 hours",
+    "about 10 minutes",
+    "about 1 hour"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#2a23b2",
+   "kind": "mcq",
+   "stem": "What oral midazolam dose is used for anxiolysis in children before surgery?",
+   "options": [
+    "0.1 mg/kg",
+    "0.5 mg/kg",
+    "0.02 mg/kg",
+    "2 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#0c7a3d",
+   "kind": "mcq",
+   "stem": "What oral midazolam dose is used for conscious sedation?",
+   "options": [
+    "0.02–0.04 mg/kg",
+    "0.5–0.75 mg/kg",
+    "0.1–0.2 mg/kg",
+    "2–4 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#a4c3e7",
+   "kind": "mcq",
+   "stem": "What is the peak effect time of oral midazolam?",
+   "options": [
+    "5 min",
+    "2 hours",
+    "90 min",
+    "40 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#785f23",
+   "kind": "blank",
+   "stem": "Oral midazolam usually lasts 2–6 hours, but for conscious sedation it lasts ____.",
+   "answer": "60–90 min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#0ad608",
+   "kind": "mcq",
+   "stem": "What is the intranasal midazolam dose in children?",
+   "options": [
+    "0.5–0.75 mg/kg",
+    "0.2–0.3 mg/kg",
+    "0.02–0.04 mg/kg",
+    "1–2 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#2c4878",
+   "kind": "mcq",
+   "stem": "What is the onset of intranasal midazolam in children?",
+   "options": [
+    "45–60 sec",
+    "1–2 hours",
+    "30–40 min",
+    "10–15 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#45d239",
+   "kind": "mcq",
+   "stem": "Which receptor does midazolam act on?",
+   "options": [
+    "NMDA receptor",
+    "GABAA receptor",
+    "Mu opioid receptor",
+    "Beta-1 adrenoceptor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#fb1c3f",
+   "kind": "mcq",
+   "stem": "How does IV midazolam affect SVR and BP at induction doses?",
+   "options": [
+    "SVR and BP fall",
+    "SVR and BP rise",
+    "SVR rises, BP falls",
+    "SVR falls, BP rises"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#91e16d",
+   "kind": "statement",
+   "stem": "Midazolam's respiratory depression is worse when combined with which drug class?",
+   "answer": "Opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#8f7cd5",
+   "kind": "blank",
+   "stem": "Midazolam has no analgesic effect, so combine it with ____.",
+   "answer": "other agents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#721e39",
+   "kind": "blank",
+   "stem": "Some patients given midazolam show paradoxical ____.",
+   "answer": "excitement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#8ae7a0",
+   "kind": "mcq",
+   "stem": "What is midazolam used as premedication for?",
+   "options": [
+    "Hypertension",
+    "Nausea",
+    "Bronchospasm",
+    "Anxiety"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#c6f4b0",
+   "kind": "mcq",
+   "stem": "How is midazolam used for induction of anaesthesia?",
+   "options": [
+    "As the sole induction agent",
+    "Co-induction only, not as sole agent",
+    "As a long-acting analgesic",
+    "As an inhalational induction agent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#33eda6",
+   "kind": "statement",
+   "stem": "Midazolam is used for sedation in which two settings?",
+   "answer": "Minor procedures and ventilated patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#be806a",
+   "kind": "mcq",
+   "stem": "What is midazolam's oral bioavailability?",
+   "options": [
+    "about 90%",
+    "about 40%",
+    "about 5%",
+    "about 70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#8503f8",
+   "kind": "mcq",
+   "stem": "What fraction of midazolam is protein bound?",
+   "options": [
+    "about 50%",
+    "about 70%",
+    "about 95%",
+    "about 20%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#236dc9",
+   "kind": "blank",
+   "stem": "Midazolam's short action is due to ____.",
+   "answer": "redistribution",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#a08384",
+   "kind": "statement",
+   "stem": "What is the active metabolite formed when midazolam is hydroxylated?",
+   "answer": "1-α hydroxymidazolam",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#4c8dca",
+   "kind": "mcq",
+   "stem": "What percentage of midazolam is converted to oxazepam?",
+   "options": [
+    "about 50%",
+    "about 25%",
+    "less than 5%",
+    "over 30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#054781",
+   "kind": "mcq",
+   "stem": "In both hepatic and renal failure, how does midazolam clearance change?",
+   "options": [
+    "Rises",
+    "Stays the same",
+    "Falls",
+    "Doubles"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#64298e",
+   "kind": "mcq",
+   "stem": "What is midazolam's elimination half-life?",
+   "options": [
+    "10–12 h",
+    "1.5–3.5 h",
+    "20–40 min",
+    "5–7 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#ee0d3c",
+   "kind": "mcq",
+   "stem": "What is midazolam's clearance rate?",
+   "options": [
+    "0.5–1 ml/kg/min",
+    "6–10 ml/kg/min",
+    "20–30 ml/kg/min",
+    "100–150 ml/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/midazolam#dec7db",
+   "kind": "mcq",
+   "stem": "Which hepatic enzyme system does midazolam share with alfentanil?",
+   "options": [
+    "P450 3A3/4",
+    "P450 1A2",
+    "P450 2D6",
+    "Plasma cholinesterase"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

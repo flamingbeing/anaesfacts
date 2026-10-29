@@ -1,0 +1,231 @@
+{
+ "topic": "drugs/ibuprofen",
+ "questions": [
+  {
+   "fact_id": "drugs/ibuprofen#28e50f",
+   "kind": "statement",
+   "stem": "Which routes are unavailable for ibuprofen?",
+   "answer": "Parenteral and rectal forms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#f44066",
+   "kind": "mcq",
+   "stem": "What is ibuprofen, in terms of its stereochemistry?",
+   "options": [
+    "Single pure enantiomer",
+    "Meso compound",
+    "Diastereomer pair",
+    "Racemic mixture of 2 enantiomers"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#3108cd",
+   "kind": "mcq",
+   "stem": "What is the usual adult oral ibuprofen dose?",
+   "options": [
+    "200 mg TDS",
+    "400 mg TDS",
+    "600 mg TDS",
+    "800 mg QDS"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#3108cd",
+   "kind": "mcq",
+   "stem": "To what adult ibuprofen dose can the TDS dose be increased?",
+   "options": [
+    "600 mg TDS",
+    "1000 mg TDS",
+    "800 mg TDS",
+    "1200 mg QDS"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#1c2bfa",
+   "kind": "mcq",
+   "stem": "What is the paediatric ibuprofen dose?",
+   "options": [
+    "5-10 mg/kg every 6-8 hours",
+    "10-20 mg/kg every 4 hours",
+    "2 mg/kg every 12 hours",
+    "1 mg/kg every 24 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#1c2bfa",
+   "kind": "mcq",
+   "stem": "What is the maximum paediatric ibuprofen daily dose?",
+   "options": [
+    "20mg/kg/day",
+    "40mg/kg/day",
+    "60mg/kg/day",
+    "80mg/kg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#1c2bfa",
+   "kind": "mcq",
+   "stem": "What is the maximum single paediatric ibuprofen dose?",
+   "options": [
+    "200mg",
+    "600mg",
+    "800mg",
+    "400mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#5e5973",
+   "kind": "mcq",
+   "stem": "What is the minimum age for ibuprofen?",
+   "options": [
+    "Birth",
+    "1 month",
+    "2 years",
+    "6 months"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#507a78",
+   "kind": "mcq",
+   "stem": "In chronic inflammatory disease, below what daily ibuprofen dose may it not work?",
+   "options": [
+    "0.4 g/d",
+    "1.2 g/d",
+    "2.4 g/d",
+    "3.6 g/d"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#fafc6b",
+   "kind": "mcq",
+   "stem": "How do ibuprofen's adverse effects compare with many other NSAIDs?",
+   "options": [
+    "Greater adverse effects",
+    "Fewer adverse effects",
+    "Absent in most patients",
+    "Identical adverse effects"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#d33922",
+   "kind": "mcq",
+   "stem": "Which is a listed indication for ibuprofen?",
+   "options": [
+    "Analgesia",
+    "Anticoagulation",
+    "Bronchodilation",
+    "Antiemesis"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#8dd23b",
+   "kind": "mcq",
+   "stem": "How quickly is oral ibuprofen absorbed from the gut?",
+   "options": [
+    "Slowly, over several days",
+    "Rapidly",
+    "Not absorbed",
+    "Only with food"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#8dd23b",
+   "kind": "mcq",
+   "stem": "How is ibuprofen bound in plasma?",
+   "options": [
+    "Barely protein-bound",
+    "Bound to red cells",
+    "Highly protein-bound",
+    "Mostly free"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#f29151",
+   "kind": "mcq",
+   "stem": "Which ibuprofen enantiomer is the active form?",
+   "options": [
+    "R enantiomer",
+    "S enantiomer",
+    "Racemic mixture",
+    "Meso form"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#f29151",
+   "kind": "statement",
+   "stem": "In which organs does the inactive R enantiomer of ibuprofen convert to the active S form?",
+   "answer": "Gut and liver",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#c8373b",
+   "kind": "mcq",
+   "stem": "Which enzyme system metabolises ibuprofen in the liver?",
+   "options": [
+    "Monoamine oxidase",
+    "Plasma esterases",
+    "Cytochrome P450",
+    "Alcohol dehydrogenase"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ibuprofen#4fdbaf",
+   "kind": "mcq",
+   "stem": "How are ibuprofen's metabolites eliminated?",
+   "options": [
+    "Renally",
+    "Mainly in faeces",
+    "Through bile only",
+    "Via exhaled breath"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

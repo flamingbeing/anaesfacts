@@ -1,0 +1,831 @@
+{
+ "topic": "comorbidities/hyponatraemia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/hyponatraemia#b4ccd4",
+   "kind": "mcq",
+   "stem": "What serum sodium level defines hyponatraemia?",
+   "options": [
+    ">145 mEq/L",
+    ">140 mEq/L",
+    "<135 mEq/L",
+    ">125 mEq/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#57da88",
+   "kind": "mcq",
+   "stem": "In ICU patients, what proportion have hyponatraemia?",
+   "options": [
+    "10–20%",
+    "40–50%",
+    "5–10%",
+    "70–80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#57da88",
+   "kind": "statement",
+   "stem": "In ICU patients, in which group is hyponatraemia especially common?",
+   "answer": "Neurosurgical patients",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#5f6370",
+   "kind": "statement",
+   "stem": "Hyponatraemia is usually of which tonicity?",
+   "answer": "Hypotonic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#b9ea09",
+   "kind": "statement",
+   "stem": "In hyponatraemia with hyperglycaemia, how should the measured sodium be handled?",
+   "answer": "Correct it for the dilutional effect of glucose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#714c3a",
+   "kind": "statement",
+   "stem": "In hyponatraemia, which matters more for symptoms: severity or how quickly sodium falls?",
+   "answer": "Speed of onset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#84141d",
+   "kind": "statement",
+   "stem": "In hyponatraemia, does acute or chronic onset make symptoms more likely?",
+   "answer": "Acute (<24-48 h)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#cd1174",
+   "kind": "statement",
+   "stem": "Why is chronic hyponatraemia (>24-48 h) less likely to cause symptoms?",
+   "answer": "The brain adapts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#90cdf2",
+   "kind": "statement",
+   "stem": "In hyponatraemia, what do most patients with sodium above 125 mmol/l experience neurologically?",
+   "answer": "No neurological symptoms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#84fb51",
+   "kind": "mcq",
+   "stem": "In hyponatraemia, neurological symptoms are driven by which process?",
+   "options": [
+    "Cerebral haemorrhage",
+    "Subdural collection",
+    "Cerebral oedema",
+    "Cerebral vasospasm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#7f5a70",
+   "kind": "statement",
+   "stem": "What severe outcomes can hyponatraemic encephalopathy cause?",
+   "answer": "Seizures, coma, respiratory arrest, permanent brain damage, brainstem herniation, death",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#1eb8c5",
+   "kind": "statement",
+   "stem": "In hyponatraemia, which onset carries greater risk and severity of complications?",
+   "answer": "Acute (<48 hrs)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#8528d9",
+   "kind": "mcq",
+   "stem": "Rapid correction of hyponatraemia can cause which treatment complication?",
+   "options": [
+    "Hyperkalaemia",
+    "Osmotic demyelination syndrome",
+    "Pulmonary oedema",
+    "Haemolysis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#febfa5",
+   "kind": "mcq",
+   "stem": "Which hyponatraemia type is an isotonic lab artefact from hyperlipidaemia or paraproteinaemia?",
+   "options": [
+    "SIADH",
+    "Pseudohyponatraemia",
+    "Adrenal insufficiency",
+    "Cerebral salt wasting"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#271d25",
+   "kind": "mcq",
+   "stem": "Which cause of hyponatraemia is hypertonic?",
+   "options": [
+    "SIADH",
+    "Adrenal insufficiency",
+    "Hyperglycaemia",
+    "Cerebral salt wasting"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#800b9c",
+   "kind": "statement",
+   "stem": "What is the underlying problem in hypotonic hyponatraemia?",
+   "answer": "Excess free water relative to sodium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#800b9c",
+   "kind": "statement",
+   "stem": "How is hypotonic hyponatraemia classified?",
+   "answer": "By clinical extracellular volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#b4a9df",
+   "kind": "statement",
+   "stem": "In hypervolaemic hyponatraemia (fluid overload), how are sodium and water retained?",
+   "answer": "Water more than sodium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#8b9cfb",
+   "kind": "statement",
+   "stem": "What are the two causes of euvolaemic hypotonic hyponatraemia?",
+   "answer": "Excess water intake; water retention from non-osmotic ADH release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#b0dcb5",
+   "kind": "statement",
+   "stem": "In hypovolaemic hyponatraemia from salt loss, what drives the ADH release?",
+   "answer": "Baroreceptor-driven, non-osmotic ADH release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#bc7d42",
+   "kind": "mcq",
+   "stem": "In hypovolaemic hyponatraemia, which urine sodium level indicates renal sodium losses?",
+   "options": [
+    "Urine sodium <10",
+    "Urine sodium >20",
+    "Urine osmolality <100",
+    "Urine potassium >20"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#dcf924",
+   "kind": "statement",
+   "stem": "Which urine sodium and FeNa values point to extrarenal salt losses?",
+   "answer": "Urine sodium <10 and FeNa <1%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#fadfb7",
+   "kind": "statement",
+   "stem": "Which first investigation confirms the diagnosis of hyponatraemia?",
+   "answer": "Renal panel with glucose (bedside glucose)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#0a7bcc",
+   "kind": "statement",
+   "stem": "In hypovolaemia, what test separates renal from extrarenal sodium loss?",
+   "answer": "Spot urine sodium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#663e67",
+   "kind": "statement",
+   "stem": "In hypovolaemic hyponatraemia, a spot urine sodium above 20 mEq/L indicates what?",
+   "answer": "Renal loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#218329",
+   "kind": "statement",
+   "stem": "In hypovolaemia, a spot urine sodium below 20 mEq/L indicates what?",
+   "answer": "Extrarenal loss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#232e46",
+   "kind": "statement",
+   "stem": "In euvolaemic hyponatraemia, what urine osmolality suggests excess water intake?",
+   "answer": "<100 mosm/kg H2O",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#17e16f",
+   "kind": "mcq",
+   "stem": "In SIADH, what is the expected urine sodium level?",
+   "options": [
+    "Low (<10 mEq/L)",
+    "High (>20 mEq/L)",
+    "Undetectable",
+    "Equal to serum sodium"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#17e16f",
+   "kind": "statement",
+   "stem": "What is the volume status in SIADH?",
+   "answer": "Euvolaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#c06d9b",
+   "kind": "statement",
+   "stem": "Flame photometry measures whole-plasma sodium, but sodium is found where?",
+   "answer": "Only in the water phase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#9c6c0f",
+   "kind": "mcq",
+   "stem": "What proportion of plasma is water, so that flame photometry error is normally small?",
+   "options": [
+    "About 80% water",
+    "About 93% water",
+    "About 70% water",
+    "About 99% water"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#8cd461",
+   "kind": "statement",
+   "stem": "What lowers measured sodium in pseudohyponatraemia while true water-phase sodium stays unchanged?",
+   "answer": "Large rises in lipid or protein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#27ae33",
+   "kind": "blank",
+   "stem": "Pseudohyponatraemia usually needs lipids above ____ mg/dL.",
+   "answer": "1,500",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#27ae33",
+   "kind": "blank",
+   "stem": "Pseudohyponatraemia usually needs protein above ____ g/dL.",
+   "answer": "12–15",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#b024a0",
+   "kind": "statement",
+   "stem": "In severe hyponatraemia in a well patient, what artefact should be excluded?",
+   "answer": "Sampling error",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#1c313a",
+   "kind": "statement",
+   "stem": "In severe hyponatraemia, besides sampling error, what should be excluded?",
+   "answer": "Pseudohyponatraemia and hyperglycaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#29ba41",
+   "kind": "statement",
+   "stem": "In the approach to severe hyponatraemia, what must be decided first?",
+   "answer": "Whether symptoms are due to the hyponatraemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#fe1b55",
+   "kind": "statement",
+   "stem": "In severe hyponatraemia, why must acute versus chronic be decided?",
+   "answer": "It sets the safe correction rate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#1bfce6",
+   "kind": "statement",
+   "stem": "Before giving sodium chloride for hyponatraemia, what must always be checked?",
+   "answer": "Volume status",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#1bfce6",
+   "kind": "blank",
+   "stem": "In hyponatraemia, do not give NaCl if the patient is already ____.",
+   "answer": "overloaded",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#c457ca",
+   "kind": "mcq",
+   "stem": "In symptomatic hyponatraemia, which IV furosemide dose is added if volume overload is a concern?",
+   "options": [
+    "100–120 mg",
+    "20–40 mg",
+    "2–4 mg",
+    "500–1000 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#7b043f",
+   "kind": "statement",
+   "stem": "In asymptomatic hyponatraemia, how much should fluid intake be restricted?",
+   "answer": "500 mL below daily urine output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#7b043f",
+   "kind": "statement",
+   "stem": "In asymptomatic hyponatraemia, what should be considered if fluid restriction is ineffective or not tolerated?",
+   "answer": "SIADH drug therapy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#e4aea9",
+   "kind": "statement",
+   "stem": "In hyponatraemia, what does treating the underlying cause involve?",
+   "answer": "Restore volume, stop offending drugs, treat pain and nausea",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#e3f4a0",
+   "kind": "mcq",
+   "stem": "Which IV fluid is used for asymptomatic hyponatraemia?",
+   "options": [
+    "3% NaCl",
+    "0.9% NaCl",
+    "5% dextrose",
+    "0.45% NaCl"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#e3f4a0",
+   "kind": "mcq",
+   "stem": "In asymptomatic hyponatraemia, what starting rate of IV 0.9% NaCl may be appropriate?",
+   "options": [
+    "30mls/hr",
+    "120mls/hr",
+    "60mls/hr",
+    "250mls/hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#4c7a9d",
+   "kind": "mcq",
+   "stem": "Which IV fluid is used for symptomatic hyponatraemia?",
+   "options": [
+    "0.9% NaCl",
+    "0.45% NaCl",
+    "3% NaCl",
+    "5% dextrose"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#0c66e4",
+   "kind": "statement",
+   "stem": "Which formula predicts the effect of 1 L of any infusate on serum sodium?",
+   "answer": "Adrogue-Madias formula",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#4c9cb5",
+   "kind": "statement",
+   "stem": "In the Adrogue-Madias formula, what is the change in serum sodium equal to?",
+   "answer": "(infusate [Na+] minus serum [Na+]) / (TBW + 1 L)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#d96d3f",
+   "kind": "mcq",
+   "stem": "In hyponatraemia calculations, what total body water factor (times weight in kg) applies to men?",
+   "options": [
+    "0.7",
+    "0.4",
+    "0.6",
+    "0.55"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#d96d3f",
+   "kind": "blank",
+   "stem": "In hyponatraemia calculations, total body water in women is ____ x weight (kg).",
+   "answer": "0.5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#b29c7c",
+   "kind": "statement",
+   "stem": "In hyponatraemia, what is the daily fluid restriction target?",
+   "answer": "<1 L/d",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#c95a0b",
+   "kind": "statement",
+   "stem": "What drug class, with tolvaptan as an example, is used to treat hyponatraemia?",
+   "answer": "V2 receptor antagonists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#53cb8a",
+   "kind": "statement",
+   "stem": "Why must serum sodium be monitored closely during hyponatraemia correction?",
+   "answer": "So correction is not too fast",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#81ce72",
+   "kind": "mcq",
+   "stem": "How often should serum sodium be checked early in hyponatraemia correction?",
+   "options": [
+    "Every 12 hours",
+    "Hourly or every 2hrs",
+    "Once daily",
+    "Once a week"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#81ce72",
+   "kind": "blank",
+   "stem": "After the early checks, serum sodium in hyponatraemia correction is checked every ____ hours.",
+   "answer": "4 to 6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#45def7",
+   "kind": "statement",
+   "stem": "In hyponatraemia correction, what defines symptomatic hyponatraemia?",
+   "answer": "Seizures or reduced conscious level",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#9c9ff4",
+   "kind": "mcq",
+   "stem": "What initial correction rate is used for symptomatic hyponatraemia?",
+   "options": [
+    "0.5 mEq/L per hr",
+    "3-4 mEq/L per hr",
+    "1-2 mEq/L per hr",
+    "5-6 mEq/L per hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#9c9ff4",
+   "kind": "blank",
+   "stem": "In symptomatic hyponatraemia, the total sodium rise must not exceed ____ mEq/L in 24 hours.",
+   "answer": "8",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#fc0090",
+   "kind": "statement",
+   "stem": "In symptomatic hyponatraemia, what is the purpose of correcting sodium beyond stopping symptoms?",
+   "answer": "Reach >120mmol/l to avoid cerebral oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#f1ca49",
+   "kind": "mcq",
+   "stem": "In symptomatic hyponatraemia, at what sodium level is the rapid phase stopped?",
+   "options": [
+    "125 mEq/L",
+    "130 mEq/L",
+    "120 mEq/L",
+    "115 mEq/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#a852cc",
+   "kind": "statement",
+   "stem": "For definitely acute (<48hrs) asymptomatic hyponatraemia, what determines treatment?",
+   "answer": "Severity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#4f2f18",
+   "kind": "mcq",
+   "stem": "Within what time frame does hyponatraemia count as acute?",
+   "options": [
+    "<24 h",
+    "<12 h",
+    "<48 h",
+    "<72 h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#e3f1dd",
+   "kind": "mcq",
+   "stem": "What maximum correction rate applies to chronic asymptomatic hyponatraemia?",
+   "options": [
+    "1-2 mEq/L per hr",
+    "2-3 mEq/L per hr",
+    "0.5 mEq/L per hr or less",
+    "4-6 mEq/L per hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#f446e4",
+   "kind": "mcq",
+   "stem": "What is the maximum sodium rise in the first 24 hours of hyponatraemia correction?",
+   "options": [
+    "Less than 8 mmol/l",
+    "Less than 12 mmol/l",
+    "Less than 18 mmol/l",
+    "Less than 20 mmol/l"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#f446e4",
+   "kind": "blank",
+   "stem": "In hyponatraemia correction, the sodium rise in the first 48 hours should be less than ____ mmol/l.",
+   "answer": "18",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#9d0148",
+   "kind": "statement",
+   "stem": "What is given to reverse overly rapid correction of hyponatraemia?",
+   "answer": "Water (IV D5W)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#f522c1",
+   "kind": "mcq",
+   "stem": "What IV dose of desmopressin (DDAVP) stops water diuresis after overly rapid correction?",
+   "options": [
+    "10-20 mcg",
+    "0.1-0.2 mcg",
+    "1-2 mcg",
+    "100 mcg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#0cf72f",
+   "kind": "statement",
+   "stem": "What is osmotic demyelination syndrome also called?",
+   "answer": "Central pontine myelinolysis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#b14b86",
+   "kind": "mcq",
+   "stem": "What rate of sodium rise over 24 hours causes osmotic demyelination syndrome?",
+   "options": [
+    ">2-4 mEq/L in 24 hrs",
+    ">10–12 mEq/L in 24 hrs",
+    ">20-24 mEq/L in 24 hrs",
+    ">5-6 mEq/L in 24 hrs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#d17062",
+   "kind": "statement",
+   "stem": "Which features characterise osmotic demyelination syndrome?",
+   "answer": "Dysarthria, quadriparesis, loss of consciousness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#cf84f3",
+   "kind": "mcq",
+   "stem": "In acute hyponatraemia, how much may sodium rise in the first 1-2 hours?",
+   "options": [
+    "4–6 mEq/L",
+    "0.5 mEq/L",
+    "10–12 mEq/L",
+    "20–24 mEq/L"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#cf84f3",
+   "kind": "blank",
+   "stem": "In acute hyponatraemia, the final sodium should not exceed ____ mEq/L.",
+   "answer": "120",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#3d76da",
+   "kind": "blank",
+   "stem": "In chronic hyponatraemia, correction should be no more than 10–12 mEq/L in ____ hours.",
+   "answer": "24",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#f86c05",
+   "kind": "statement",
+   "stem": "What vascular access must be used for 3% NaCl?",
+   "answer": "A central line",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#45bb5e",
+   "kind": "mcq",
+   "stem": "What infusion rate of 3% NaCl is given in hyponatraemia?",
+   "options": [
+    "5-10 ml/kg/h",
+    "1-2 ml/kg/h",
+    "0.1-0.2 ml/kg/h",
+    "10-20 ml/kg/h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#a72ff8",
+   "kind": "mcq",
+   "stem": "In practice, what bolus volume of 3% saline is given in hyponatraemia and repeated as needed?",
+   "options": [
+    "10 to 20 mls",
+    "250 to 300 mls",
+    "500 to 1000 mls",
+    "100 to 150 mls"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#64253f",
+   "kind": "statement",
+   "stem": "What is the alternative formula for the initial 3% NaCl rate in mL/hr?",
+   "answer": "Weight (kg) x desired rise in sodium per hour",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#eb9b1f",
+   "kind": "mcq",
+   "stem": "What initial 3% NaCl rate is calculated for a 70 kg patient targeting 0.5 mEq/L per hour?",
+   "options": [
+    "35 mL/hr",
+    "70 mL/hr",
+    "17.5 mL/hr",
+    "140 mL/hr"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#10e2e3",
+   "kind": "statement",
+   "stem": "When using 3% NaCl, what should be done with serum sodium until the target is reached?",
+   "answer": "Check sodium periodically",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#5338d3",
+   "kind": "mcq",
+   "stem": "What alternative 3% NaCl rate raises sodium by 1 mmol/hr?",
+   "options": [
+    "5ml/min (300ml/hr)",
+    "0.5ml/min (30ml/hr)",
+    "1ml/min (60ml/hr)",
+    "10ml/min (600ml/hr)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#8ce5bf",
+   "kind": "statement",
+   "stem": "Roughly how much does 1 ml/kg of 3% NaCl raise serum sodium?",
+   "answer": "About 1 mmol/L",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/hyponatraemia#32f1dd",
+   "kind": "statement",
+   "stem": "What may be needed alongside 3% NaCl if volume overload develops?",
+   "answer": "Furosemide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

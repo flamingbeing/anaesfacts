@@ -1,0 +1,229 @@
+{
+ "topic": "drugs/carbamazepine",
+ "questions": [
+  {
+   "fact_id": "drugs/carbamazepine#64a2bb",
+   "kind": "mcq",
+   "stem": "Which genetic test should be done before starting carbamazepine?",
+   "options": [
+    "HLA-B*5701",
+    "HLA-B*1502",
+    "G6PD deficiency",
+    "HLA-B*5801"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#4aebd4",
+   "kind": "statement",
+   "stem": "Which two blood tests are followed up during carbamazepine treatment?",
+   "answer": "LFTs and FBC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#2ac1cf",
+   "kind": "mcq",
+   "stem": "What is the oral analgesic adjunct dose of carbamazepine?",
+   "options": [
+    "5 mg/kg/day, divided OM or BD",
+    "10 mg/kg/day, divided OM or BD",
+    "20 mg/kg/day, divided OM or BD",
+    "40 mg/kg/day, divided OM or BD"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#9d6536",
+   "kind": "statement",
+   "stem": "Carbamazepine acts by a mechanism similar to which older anticonvulsant?",
+   "answer": "Phenytoin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#80d0c5",
+   "kind": "statement",
+   "stem": "Which CNS adverse effect of carbamazepine is common and often limits its use?",
+   "answer": "Mild neurotoxicity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#c8ca98",
+   "kind": "statement",
+   "stem": "What liver adverse effect can carbamazepine cause?",
+   "answer": "Drug-induced hepatitis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#5bdfdb",
+   "kind": "statement",
+   "stem": "What renal effect can carbamazepine cause?",
+   "answer": "Antidiuretic effect, leading to water retention",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#7d25a9",
+   "kind": "statement",
+   "stem": "Which rare blood adverse effect can carbamazepine cause?",
+   "answer": "Agranulocytosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#a1de63",
+   "kind": "statement",
+   "stem": "Carbamazepine is linked to which serious skin reaction in HLA-B*1502 carriers?",
+   "answer": "Stevens-Johnson syndrome",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#f9f34f",
+   "kind": "statement",
+   "stem": "What teratogenic effects are linked to carbamazepine exposure in pregnancy?",
+   "answer": "Facial abnormalities, intrauterine growth restriction, microcephaly, learning disability",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#30b81c",
+   "kind": "mcq",
+   "stem": "Roughly how often does carbamazepine teratogenicity occur in live births?",
+   "options": [
+    "1/50–100 live births",
+    "1/300–2000 live births",
+    "1/5000–10000 live births",
+    "1/20–50 live births"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#30b81c",
+   "kind": "statement",
+   "stem": "How does the teratogenic risk of carbamazepine change with dose?",
+   "answer": "Risk rises with dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#99f89c",
+   "kind": "mcq",
+   "stem": "What is the cardiac and facial defect risk with carbamazepine in pregnancy?",
+   "options": [
+    "0.5-1%",
+    "2-5%",
+    "10-15%",
+    "20-25%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#41349c",
+   "kind": "statement",
+   "stem": "What mechanism underlies carbamazepine's drug interactions?",
+   "answer": "Enzyme induction, similar to phenytoin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#405229",
+   "kind": "mcq",
+   "stem": "Carbamazepine is mainly used for which type of seizure?",
+   "options": [
+    "Absence seizures",
+    "Focal seizures",
+    "Myoclonic seizures",
+    "Infantile spasms"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#f79ccf",
+   "kind": "mcq",
+   "stem": "Carbamazepine is used in psychiatry for which condition?",
+   "options": [
+    "Schizophrenia",
+    "Bipolar disorder",
+    "Generalised anxiety disorder",
+    "Anorexia nervosa"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#ff5602",
+   "kind": "statement",
+   "stem": "Carbamazepine is used as an analgesic adjunct for which condition?",
+   "answer": "Trigeminal neuralgia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#476138",
+   "kind": "mcq",
+   "stem": "What percentage of carbamazepine is protein-bound?",
+   "options": [
+    "About 25%",
+    "About 50%",
+    "About 75%",
+    "About 95%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#72ad3d",
+   "kind": "statement",
+   "stem": "What is carbamazepine extensively metabolised to in the liver?",
+   "answer": "Carbamazepine 10,11-epoxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#4fd8e8",
+   "kind": "mcq",
+   "stem": "What share of anticonvulsant activity does carbamazepine 10,11-epoxide keep?",
+   "options": [
+    "10%",
+    "30%",
+    "50%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#21df5a",
+   "kind": "statement",
+   "stem": "What is the term for carbamazepine inducing its own metabolism?",
+   "answer": "Autoinduction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/carbamazepine#3e85b4",
+   "kind": "statement",
+   "stem": "How is carbamazepine mainly eliminated from the body?",
+   "answer": "Almost entirely in urine, as unconjugated metabolites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

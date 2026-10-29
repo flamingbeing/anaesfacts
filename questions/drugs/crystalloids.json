@@ -1,0 +1,657 @@
+{
+ "topic": "drugs/crystalloids",
+ "questions": [
+  {
+   "fact_id": "drugs/crystalloids#e3414d",
+   "kind": "mcq",
+   "stem": "What is the main solute in crystalloid fluids?",
+   "options": [
+    "Dextrose",
+    "Sodium chloride",
+    "Albumin",
+    "Gelatin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#96d634",
+   "kind": "statement",
+   "stem": "In crystalloid fluids, which pump keeps sodium mostly extracellular?",
+   "answer": "Na/K-ATPase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#14ecb3",
+   "kind": "mcq",
+   "stem": "Roughly what fraction of an infused crystalloid volume stays in plasma?",
+   "options": [
+    "5%",
+    "25%",
+    "50%",
+    "90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#128e0a",
+   "kind": "mcq",
+   "stem": "Classically, what fraction of a crystalloid volume expands blood volume?",
+   "options": [
+    "1/2",
+    "1/10",
+    "1/3",
+    "Full volume given"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#4593f5",
+   "kind": "mcq",
+   "stem": "How should urine and gastrointestinal losses be replaced with crystalloid?",
+   "options": [
+    "Half the volume",
+    "Ml for ml",
+    "Double the volume",
+    "Three times the volume"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#e9cc3a",
+   "kind": "mcq",
+   "stem": "How quickly does crystalloid move from vessels into the interstitium?",
+   "options": [
+    "Within 15 minutes",
+    "Within 24 hours",
+    "Within 2 hours",
+    "Over several days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#55479a",
+   "kind": "statement",
+   "stem": "0.9% sodium chloride is often called what two names, neither of them accurate?",
+   "answer": "Normal or isotonic saline",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#ca7ce4",
+   "kind": "mcq",
+   "stem": "What is the normal plasma sodium concentration in mEq/L?",
+   "options": [
+    "120",
+    "130",
+    "140",
+    "150"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#1f55de",
+   "kind": "mcq",
+   "stem": "What is the osmolality of 0.9% sodium chloride in mOsm/L?",
+   "options": [
+    "290",
+    "300",
+    "308",
+    "320"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#0f14d9",
+   "kind": "mcq",
+   "stem": "What is the chloride concentration of 0.9% sodium chloride in mEq/L?",
+   "options": [
+    "103",
+    "110",
+    "130",
+    "154"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#974413",
+   "kind": "mcq",
+   "stem": "What is the pH of 0.9% sodium chloride?",
+   "options": [
+    "5.7",
+    "6.4",
+    "7.4",
+    "8.1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#eb0e53",
+   "kind": "statement",
+   "stem": "Why does 0.9% sodium chloride slightly lower plasma oncotic pressure?",
+   "answer": "It contains no protein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#bdb60a",
+   "kind": "mcq",
+   "stem": "Compared with Hartmann's or Plasma-Lyte, what does 0.9% sodium chloride cause more of?",
+   "options": [
+    "Hyperkalaemia",
+    "Bradycardia",
+    "Hypothermia",
+    "Interstitial oedema"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#49cf25",
+   "kind": "statement",
+   "stem": "Why may 0.9% sodium chloride reduce renal perfusion?",
+   "answer": "Chloride-induced renal vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#ba084f",
+   "kind": "statement",
+   "stem": "Why does 0.9% sodium chloride expand total ECF slightly more than the volume infused?",
+   "answer": "It is mildly hypertonic to ECF and draws water out of cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#006c99",
+   "kind": "mcq",
+   "stem": "What percentage of 0.9% sodium chloride stays intravascular at 1 hour?",
+   "options": [
+    "12%",
+    "24%",
+    "40%",
+    "50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#006c99",
+   "kind": "mcq",
+   "stem": "What percentage of 0.9% sodium chloride stays intravascular at 6 hours?",
+   "options": [
+    "8%",
+    "35%",
+    "22%",
+    "45%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#33adf0",
+   "kind": "mcq",
+   "stem": "What causes the hyperchloraemic metabolic acidosis seen with 0.9% sodium chloride?",
+   "options": [
+    "High chloride relative to plasma",
+    "Low chloride relative to plasma",
+    "High glucose content",
+    "High lactate content"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#4cd437",
+   "kind": "statement",
+   "stem": "In acid-base physiology, what does SID stand for?",
+   "answer": "Strong ion difference",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#d4bc8b",
+   "kind": "mcq",
+   "stem": "What is the normal plasma strong ion difference in mEq/L?",
+   "options": [
+    "10",
+    "20",
+    "40",
+    "80"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#4c20a2",
+   "kind": "mcq",
+   "stem": "What is the strong ion difference of 0.9% sodium chloride?",
+   "options": [
+    "10",
+    "80",
+    "100",
+    "0"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#7d2d78",
+   "kind": "mcq",
+   "stem": "What is the strong ion difference of Ringer's lactate once the lactate is metabolised?",
+   "options": [
+    "15",
+    "28",
+    "60",
+    "100"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#30a747",
+   "kind": "mcq",
+   "stem": "What effect do balanced crystalloids have on acid-base balance?",
+   "options": [
+    "Strongly acidify plasma",
+    "Strongly alkalinise plasma",
+    "Cause marked hyperchloraemia",
+    "Barely affect acid-base balance"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#59b478",
+   "kind": "mcq",
+   "stem": "In one study, saline at 30 mL/kg/h lowered blood pH from 7.41 over two hours to what?",
+   "options": [
+    "7.10",
+    "7.28",
+    "7.35",
+    "7.52"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#eef314",
+   "kind": "mcq",
+   "stem": "What buffers Plasma-Lyte 148?",
+   "options": [
+    "Lactate and malate",
+    "Acetate and gluconate",
+    "Bicarbonate and citrate",
+    "Phosphate alone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#07723a",
+   "kind": "mcq",
+   "stem": "Besides sodium and chloride, which electrolytes does Plasma-Lyte 148 contain?",
+   "options": [
+    "Calcium and potassium",
+    "Magnesium and phosphate",
+    "Potassium and magnesium",
+    "Calcium and magnesium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#ea1b56",
+   "kind": "mcq",
+   "stem": "What buffers Sterofundin?",
+   "options": [
+    "Lactate and malate",
+    "Acetate and gluconate",
+    "Bicarbonate and citrate",
+    "Acetate and malate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#ef648d",
+   "kind": "mcq",
+   "stem": "Besides sodium and chloride, which electrolytes does Sterofundin contain?",
+   "options": [
+    "Potassium only",
+    "Phosphate and bicarbonate",
+    "Potassium, calcium and magnesium",
+    "Calcium and magnesium only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#d25541",
+   "kind": "mcq",
+   "stem": "Hartmann's is mildly hypotonic; what is its calculated in vivo tonicity in mOsmol/kgH2O?",
+   "options": [
+    "290",
+    "275",
+    "254",
+    "308"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#d5d5f8",
+   "kind": "mcq",
+   "stem": "Which buffer is used in Hartmann's solution?",
+   "options": [
+    "Bicarbonate",
+    "Phosphate",
+    "Citrate",
+    "Lactate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#9fca2d",
+   "kind": "mcq",
+   "stem": "Besides sodium and chloride, which two electrolytes does Hartmann's contain?",
+   "options": [
+    "Potassium and magnesium",
+    "Magnesium and phosphate",
+    "Potassium and calcium",
+    "Calcium and magnesium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#9fcefb",
+   "kind": "mcq",
+   "stem": "Up to what share of red cell volume can Hartmann's be mixed with red cells without clotting?",
+   "options": [
+    "50%",
+    "100%",
+    "200%",
+    "150%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#97019f",
+   "kind": "mcq",
+   "stem": "What percentage of Hartmann's stays intravascular at 1 hour?",
+   "options": [
+    "6%",
+    "30%",
+    "18%",
+    "40%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#97019f",
+   "kind": "mcq",
+   "stem": "What percentage of Hartmann's stays intravascular at 6 hours?",
+   "options": [
+    "40%",
+    "30%",
+    "6%",
+    "14%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#39a396",
+   "kind": "mcq",
+   "stem": "Which physician made the 1880 saline with calcium and potassium used for isolated frog hearts?",
+   "options": [
+    "John Snow",
+    "William Harvey",
+    "Sydney Ringer",
+    "Ernest Starling"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#502a6c",
+   "kind": "mcq",
+   "stem": "How is the tonicity of Ringer's acetate described?",
+   "options": [
+    "Mildly hypertonic",
+    "Isotonic with plasma",
+    "Mildly hypotonic",
+    "Strongly hypertonic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#b56389",
+   "kind": "mcq",
+   "stem": "Why does Ringer's acetate use acetate in place of lactate?",
+   "options": [
+    "Acetate has higher sodium content",
+    "Lactate may raise plasma lactate with poor clearance",
+    "Lactate raises potassium levels",
+    "Acetate prevents clotting with red cells"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#08c64a",
+   "kind": "mcq",
+   "stem": "Why is Ringer's acetate a reasonable choice in liver failure?",
+   "options": [
+    "Acetate is metabolised in the spleen",
+    "Acetate is metabolised in muscle, not liver",
+    "Acetate is metabolised in the lungs",
+    "Acetate is metabolised in the brain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#4d5530",
+   "kind": "mcq",
+   "stem": "Dextrose 50 g per litre raises osmolality by how many mOsm/L?",
+   "options": [
+    "27.8 mOsm/L",
+    "2780 mOsm/L",
+    "54 mOsm/L",
+    "278 mOsm/L"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#4d5530",
+   "kind": "statement",
+   "stem": "What osmolality does 5% dextrose start at, relative to plasma?",
+   "answer": "Near plasma osmolality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#213e34",
+   "kind": "mcq",
+   "stem": "What fraction of 5% dextrose stays intravascular?",
+   "options": [
+    "1/3",
+    "1/4",
+    "1/12",
+    "1/2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#213e34",
+   "kind": "mcq",
+   "stem": "Why is 5% dextrose poor for restoring intravascular volume?",
+   "options": [
+    "It spreads through all body water",
+    "It raises plasma sodium sharply",
+    "It contains large amounts of protein",
+    "It stays almost fully intravascular"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#f3cd3c",
+   "kind": "mcq",
+   "stem": "How many kcal per gram does dextrose provide?",
+   "options": [
+    "4.0",
+    "9.0",
+    "1.7",
+    "3.4"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#f3cd3c",
+   "kind": "mcq",
+   "stem": "How many kcal per litre does 5% dextrose provide?",
+   "options": [
+    "170",
+    "85",
+    "340",
+    "500"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#160b26",
+   "kind": "mcq",
+   "stem": "Running 5% dextrose at 125 mL/h, how many kcal are given in 24 hours?",
+   "options": [
+    "340",
+    "510",
+    "680",
+    "850"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#7d4fd6",
+   "kind": "mcq",
+   "stem": "With poor circulation, what can 5% dextrose cause?",
+   "options": [
+    "Hypernatraemia",
+    "Fall in serum glucose",
+    "Marked rise in serum lactate",
+    "Hypocalcaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#4472f8",
+   "kind": "mcq",
+   "stem": "In the SMART trial of ICU patients, what was the 30-day major adverse kidney event rate with balanced fluids?",
+   "options": [
+    "12.1%",
+    "14.3%",
+    "16.8%",
+    "18.2%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#4472f8",
+   "kind": "mcq",
+   "stem": "What was the number needed to treat in the SMART trial?",
+   "options": [
+    "40",
+    "94",
+    "150",
+    "200"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#c7858f",
+   "kind": "mcq",
+   "stem": "In the SALT-ED trial, what was the major adverse kidney event rate with balanced fluids?",
+   "options": [
+    "2.9%",
+    "4.7%",
+    "8.2%",
+    "10.5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/crystalloids#c7858f",
+   "kind": "statement",
+   "stem": "In the SALT-ED trial, did balanced fluids change hospital-free days?",
+   "answer": "No difference",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
