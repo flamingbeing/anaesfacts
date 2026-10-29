@@ -65,7 +65,9 @@ Synthetic catecholamine and inodilator: mainly β1, some β2 (about 3:1), weak �
 ## Related
 - [Dopamine](dopamine.md)
 - [Dopexamine](dopexamine.md)
+- [Enoximone](enoximone.md)
 - [Isoprenaline](isoprenaline.md)
 - [Levosimendan](levosimendan.md)
+- [Milrinone](milrinone.md)
 - [Vasopressors and Inotropes in Critical Care](vasopressors-in-critical-care.md)
 <!-- related:end -->

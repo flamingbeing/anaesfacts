@@ -63,6 +63,8 @@ Class Ia antiarrhythmic used second line for supraventricular and ventricular ta
 
 <!-- related:start (generated) -->
 ## Related
+- [Procainamide](procainamide.md)
+- [Quinidine](quinidine.md)
 - [Flecainide](flecainide.md)
 - [Amiodarone](amiodarone.md)
 <!-- related:end -->

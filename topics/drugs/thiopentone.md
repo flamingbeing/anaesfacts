@@ -94,5 +94,8 @@ Sodium thiopental: a thiobarbiturate IV induction agent with fast onset, cerebro
 <!-- related:start (generated) -->
 ## Related
 - [Etomidate](etomidate.md)
+- [Induction agents](induction-agents.md)
 - [Ketamine](ketamine.md)
+- [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
+- [Propofol](propofol.md)
 <!-- related:end -->

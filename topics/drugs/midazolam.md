@@ -93,5 +93,8 @@ Water-soluble, short-acting benzodiazepine for premedication, co-induction and s
 
 <!-- related:start (generated) -->
 ## Related
+- [Alfentanil](alfentanil.md)
+- [Induction agents](induction-agents.md)
 - [Ketamine](ketamine.md)
+- [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
 <!-- related:end -->

@@ -127,6 +127,7 @@ Endogenous vasodilator (formerly endothelium-derived relaxing factor, EDRF), giv
 <!-- related:start (generated) -->
 ## Related
 - [Epoprostenol](epoprostenol.md)
+- [Sildenafil](sildenafil.md)
 - [Nitrous oxide](nitrous-oxide.md)
 - [Endothelin receptor antagonists](endothelin-receptor-antagonists.md)
 <!-- related:end -->

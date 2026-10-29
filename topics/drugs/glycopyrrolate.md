@@ -62,4 +62,5 @@ Quaternary ammonium antimuscarinic: competitive antagonist at muscarinic acetylc
 - [Neostigmine](neostigmine.md)
 - [Anticholinergics (antimuscarinics)](anticholinergics.md)
 - [Hyoscine Hydrobromide](hyoscine-hydrobromide.md)
+- [Remifentanil](remifentanil.md)
 <!-- related:end -->

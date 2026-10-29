@@ -169,5 +169,7 @@ Core: prompt lipid emulsion while supporting the circulation (ACLS).
 - [Bupivacaine](../drugs/bupivacaine.md)
 - [Levobupivacaine](../drugs/levobupivacaine.md)
 - [Lidocaine](../drugs/lidocaine.md)
+- [Local anaesthetics in children](../drugs/paediatric-local-anaesthetics.md)
+- [Ropivacaine](../drugs/ropivacaine.md)
 - [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
 <!-- related:end -->

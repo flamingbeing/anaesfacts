@@ -125,9 +125,13 @@ Achiral amide local anaesthetic (lignocaine, Xylocaine) that is also a class Ib 
 <!-- related:start (generated) -->
 ## Related
 - [Bupivacaine](bupivacaine.md)
+- [Prilocaine](prilocaine.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Mexiletine](mexiletine.md)
 - [Local anaesthetic side effects](local-anaesthetic-side-effects.md)
 - [Local Anaesthetics](local-anaesthetics.md)
+- [Local anaesthetics in children](paediatric-local-anaesthetics.md)
+- [Procainamide](procainamide.md)
+- [Ropivacaine](ropivacaine.md)
 - [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
 <!-- related:end -->

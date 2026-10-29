@@ -34,4 +34,5 @@ Oral antispasmodic, centrally acting muscle relaxant (brand Myonal).
 <!-- related:start (generated) -->
 ## Related
 - [Baclofen](baclofen.md)
+- [Orphenadrine](orphenadrine.md)
 <!-- related:end -->

@@ -73,6 +73,7 @@ Oral pulmonary vasodilators for pulmonary arterial hypertension (PAH) that block
 
 <!-- related:start (generated) -->
 ## Related
+- [Sildenafil](sildenafil.md)
 - [Epoprostenol](epoprostenol.md)
 - [Nitric oxide](nitric-oxide.md)
 <!-- related:end -->

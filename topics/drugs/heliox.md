@@ -45,3 +45,8 @@ Inert, low-density gas; as heliox it improves flow through obstructed upper airw
   - A: Low density raises velocity in turbulent flow, reducing work of breathing
 - Q: Does helium support combustion?
   - A: No
+
+<!-- related:start (generated) -->
+## Related
+- [Oxygen](oxygen.md)
+<!-- related:end -->

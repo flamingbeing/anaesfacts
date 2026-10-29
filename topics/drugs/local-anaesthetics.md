@@ -141,4 +141,6 @@ Weak bases that block neuronal sodium channels; amides or esters, with potency, 
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Lidocaine](lidocaine.md)
 - [Bupivacaine](bupivacaine.md)
+- [Ropivacaine](ropivacaine.md)
+- [Prilocaine](prilocaine.md)
 <!-- related:end -->

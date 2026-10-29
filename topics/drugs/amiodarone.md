@@ -83,4 +83,6 @@ Benzofuran antiarrhythmic, mainly class III but with class I, II and IV actions;
 - [Disopyramide](disopyramide.md)
 - [Flecainide](flecainide.md)
 - [Mexiletine](mexiletine.md)
+- [Procainamide](procainamide.md)
+- [Propafenone](propafenone.md)
 <!-- related:end -->

@@ -87,6 +87,7 @@ Endogenous catecholamine acting on dopamine, β and α receptors in a dose-depen
 <!-- related:start (generated) -->
 ## Related
 - [Dobutamine](dobutamine.md)
+- [Noradrenaline](noradrenaline.md)
 - [Adrenaline (Epinephrine)](adrenaline.md)
 - [Dopexamine](dopexamine.md)
 <!-- related:end -->

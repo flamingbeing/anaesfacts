@@ -69,4 +69,6 @@ Vaughan Williams class 1 (subclass Ic) antiarrhythmic and amide local anaestheti
 - [Antiarrhythmics](antiarrhythmics.md)
 - [Disopyramide](disopyramide.md)
 - [Mexiletine](mexiletine.md)
+- [Propafenone](propafenone.md)
+- [Quinidine](quinidine.md)
 <!-- related:end -->

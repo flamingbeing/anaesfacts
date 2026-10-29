@@ -73,4 +73,5 @@ Systemic and local adverse effects of local anaesthetics, apart from LAST itself
 <!-- related:start (generated) -->
 ## Related
 - [Lidocaine](lidocaine.md)
+- [Prilocaine](prilocaine.md)
 <!-- related:end -->
