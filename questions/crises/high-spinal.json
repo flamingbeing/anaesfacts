@@ -1,0 +1,137 @@
+{
+ "topic": "crises/high-spinal",
+ "questions": [
+  {
+   "fact_id": "crises/high-spinal#4ae525",
+   "kind": "mcq",
+   "stem": "How rare is total spinal anaesthesia?",
+   "options": [
+    "About 1 in 50",
+    "More than 1/10 000",
+    "Less than 1/100 000",
+    "About 1/1000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#e80f3b",
+   "kind": "statement",
+   "stem": "What is thought to cause unconsciousness in total spinal?",
+   "answer": "Medullary respiratory centre ischaemia due to profound hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#42f8d6",
+   "kind": "mcq",
+   "stem": "Why must bradycardia be treated aggressively in a high spinal?",
+   "options": [
+    "It only occurs after the block has worn off",
+    "It usually comes before cardiac arrest",
+    "It is always harmless and needs no treatment",
+    "It is the first sign of an allergic reaction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#1e0571",
+   "kind": "mcq",
+   "stem": "In a high spinal, for how long is support usually continued until the block wears off?",
+   "options": [
+    "20-40 minutes",
+    "8-10 hours",
+    "30 minutes to 1 hour",
+    "2-4 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#364a3d",
+   "kind": "mcq",
+   "stem": "In a high spinal, what causes apnoea?",
+   "options": [
+    "Recurrent laryngeal nerve palsy",
+    "Phrenic nerve paralysis",
+    "Hypoglossal nerve block",
+    "Vagus nerve paralysis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#6ec22c",
+   "kind": "blank",
+   "stem": "Summary advice for a high spinal: ____ until the spinal wears off.",
+   "answer": "Support ABCs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#821eee",
+   "kind": "statement",
+   "stem": "How is a high spinal described?",
+   "answer": "Block above the T1 dermatome involving cervical segments, or an excessively high block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#07139d",
+   "kind": "blank",
+   "stem": "In high spinal, anything that raises ____ is a risk.",
+   "answer": "block height",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#63b7a0",
+   "kind": "mcq",
+   "stem": "Which patient features raise the risk of a high spinal?",
+   "options": [
+    "Tall stature, low BMI",
+    "Tall stature, high BMI",
+    "Short stature, high BMI",
+    "Short stature, low BMI"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#9350e9",
+   "kind": "mcq",
+   "stem": "What is the specific treatment for high spinal?",
+   "options": [
+    "Reversal with a specific antagonist",
+    "Supportive care of ABCs; no specific treatment",
+    "Intravenous lipid emulsion",
+    "Plasma exchange"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#75218d",
+   "kind": "statement",
+   "stem": "Which differential diagnosis causes bradycardia and hypotension via the Bezold-Jarisch reflex?",
+   "answer": "Vasovagal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/high-spinal#4531fb",
+   "kind": "blank",
+   "stem": "Airway management for high spinal: secure the airway; intubate if ____ is lost.",
+   "answer": "consciousness",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
