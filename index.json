@@ -10,7 +10,9 @@
    "carboxyhaemoglobin",
    "smoke-inhalation",
    "burns"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/crises/cholinergic-crisis.md",
@@ -23,6 +25,33 @@
    "organophosphate",
    "poisoning",
    "atropine"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/crises/local-anaesthetic-systemic-toxicity.md",
+  "title": "Local Anaesthetic Systemic Toxicity (LAST)",
+  "area": "crises",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "toxicity",
+   "lipid-emulsion",
+   "cardiac-arrest"
+  ],
+  "aliases": [
+   "LAST",
+   "LA toxicity",
+   "local anesthetic systemic toxicity",
+   "lipid rescue"
+  ],
+  "related": [
+   "drugs/intralipid",
+   "drugs/local-anaesthetics",
+   "drugs/bupivacaine",
+   "crises/cardiac-arrest"
   ]
  },
  {
@@ -36,7 +65,9 @@
    "reversal",
    "neuromuscular-blockade",
    "edrophonium"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/adenosine.md",
@@ -48,7 +79,9 @@
    "antiarrhythmic",
    "svt",
    "purine"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/adrenaline.md",
@@ -62,7 +95,9 @@
    "inotrope",
    "anaphylaxis",
    "cardiac-arrest"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/amethocaine.md",
@@ -74,7 +109,9 @@
    "local-anaesthetic",
    "ester",
    "topical"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/amiodarone.md",
@@ -86,7 +123,9 @@
    "antiarrhythmic",
    "class-iii",
    "potassium-channel-blocker"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/antiarrhythmics.md",
@@ -99,7 +138,9 @@
    "vaughan-williams",
    "cardiovascular",
    "arrhythmia"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/anticholinergics.md",
@@ -112,7 +153,9 @@
    "antimuscarinic",
    "drug-class",
    "atropine"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/antidepressants.md",
@@ -126,7 +169,9 @@
    "snri",
    "serotonin-syndrome",
    "analgesic-adjunct"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/antipsychotics.md",
@@ -139,7 +184,9 @@
    "neuroleptic",
    "dopamine-antagonist",
    "psychiatry"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/atipamezole.md",
@@ -151,7 +198,9 @@
    "alpha-2-antagonist",
    "antidote",
    "reversal"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/atracurium.md",
@@ -163,7 +212,9 @@
    "neuromuscular-blocker",
    "non-depolarising",
    "benzylisoquinolinium"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/atropine.md",
@@ -176,7 +227,9 @@
    "antimuscarinic",
    "bradycardia",
    "antisialagogue"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/baclofen.md",
@@ -189,7 +242,9 @@
    "gaba-b",
    "spasticity",
    "intrathecal"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/barbiturates.md",
@@ -202,7 +257,9 @@
    "gaba",
    "anticonvulsant",
    "intravenous-anaesthetic"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/benzodiazepines.md",
@@ -216,7 +273,9 @@
    "sedation",
    "anxiolysis",
    "anticonvulsant"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/beta-blockers.md",
@@ -229,7 +288,9 @@
    "antihypertensive",
    "antiarrhythmic",
    "class-ii"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/bupivacaine.md",
@@ -241,7 +302,9 @@
    "local-anaesthetic",
    "amide",
    "cardiotoxicity"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/calcium-channel-blockers.md",
@@ -254,7 +317,9 @@
    "antihypertensive",
    "antiarrhythmic",
    "cardiovascular"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/capsaicin.md",
@@ -266,7 +331,9 @@
    "analgesic-adjunct",
    "topical",
    "trpv1"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/carbamazepine.md",
@@ -279,7 +346,9 @@
    "enzyme-inducer",
    "trigeminal-neuralgia",
    "analgesic-adjunct"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/carbon-dioxide.md",
@@ -291,7 +360,9 @@
    "medical-gas",
    "laparoscopy",
    "physiology"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/celecoxib.md",
@@ -303,7 +374,9 @@
    "nsaid",
    "cox-2-inhibitor",
    "analgesic"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/chloral-hydrate.md",
@@ -316,7 +389,9 @@
    "hypnotic",
    "oral",
    "paediatrics"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/clonidine.md",
@@ -329,7 +404,9 @@
    "sedation",
    "analgesia",
    "premedication"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/cocaine.md",
@@ -342,7 +419,9 @@
    "ester",
    "vasoconstrictor",
    "topical"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/colloids.md",
@@ -355,7 +434,9 @@
    "colloid",
    "albumin",
    "volume-expansion"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/crystalloids.md",
@@ -368,7 +449,9 @@
    "crystalloid",
    "balanced-solutions",
    "acid-base"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/dexmedetomidine.md",
@@ -381,7 +464,9 @@
    "sedation",
    "analgesic-adjunct",
    "sympatholytic"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/diazepam.md",
@@ -393,6 +478,77 @@
    "benzodiazepine",
    "sedation",
    "anticonvulsant"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/diclofenac.md",
+  "title": "Diclofenac",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "nsaid",
+   "analgesia",
+   "cox-inhibitor"
+  ],
+  "aliases": [
+   "Voltaren",
+   "NSAID"
+  ],
+  "related": [
+   "drugs/ibuprofen",
+   "drugs/paracetamol",
+   "drugs/parecoxib",
+   "drugs/aspirin"
+  ]
+ },
+ {
+  "path": "topics/drugs/digoxin.md",
+  "title": "Digoxin",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antiarrhythmic",
+   "cardiac-glycoside",
+   "rate-control",
+   "heart-failure"
+  ],
+  "aliases": [
+   "Lanoxin",
+   "digitalis",
+   "cardiac glycoside"
+  ],
+  "related": [
+   "drugs/amiodarone",
+   "drugs/verapamil",
+   "drugs/beta-blockers",
+   "comorbidities/atrial-fibrillation",
+   "comorbidities/heart-failure"
+  ]
+ },
+ {
+  "path": "topics/drugs/disopyramide.md",
+  "title": "Disopyramide",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antiarrhythmic",
+   "class-ia",
+   "sodium-channel-blocker"
+  ],
+  "aliases": [
+   "Rythmodan",
+   "class Ia antiarrhythmic"
+  ],
+  "related": [
+   "drugs/procainamide",
+   "drugs/quinidine",
+   "drugs/flecainide",
+   "drugs/amiodarone"
   ]
  },
  {
@@ -405,6 +561,231 @@
    "inotrope",
    "catecholamine",
    "inodilator"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/dopamine.md",
+  "title": "Dopamine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "inotrope",
+   "catecholamine",
+   "vasopressor"
+  ],
+  "aliases": [
+   "Intropin"
+  ],
+  "related": [
+   "drugs/dobutamine",
+   "drugs/noradrenaline",
+   "drugs/adrenaline",
+   "drugs/vasopressors-and-inotropes"
+  ]
+ },
+ {
+  "path": "topics/drugs/dopexamine.md",
+  "title": "Dopexamine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "inotrope",
+   "inodilator",
+   "dopamine-analogue"
+  ],
+  "aliases": [],
+  "related": [
+   "drugs/dopamine",
+   "drugs/dobutamine",
+   "drugs/vasopressors-in-critical-care"
+  ]
+ },
+ {
+  "path": "topics/drugs/drugs-in-liver-impairment.md",
+  "title": "Drugs in liver impairment",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "cirrhosis",
+   "liver-failure",
+   "pharmacokinetics",
+   "dose-adjustment"
+  ],
+  "aliases": [
+   "cirrhosis drugs",
+   "hepatic impairment dosing",
+   "liver failure drugs"
+  ],
+  "related": [
+   "comorbidities/chronic-liver-disease",
+   "comorbidities/acute-liver-failure",
+   "drugs/drugs-in-renal-impairment",
+   "drugs/paracetamol"
+  ]
+ },
+ {
+  "path": "topics/drugs/drugs-in-renal-impairment.md",
+  "title": "Drugs in renal impairment",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "renal-failure",
+   "ckd",
+   "dialysis",
+   "dose-adjustment",
+   "antibiotics"
+  ],
+  "aliases": [
+   "renal dosing",
+   "CKD drugs",
+   "renal failure drugs",
+   "dialysis drugs"
+  ],
+  "related": [
+   "comorbidities/chronic-kidney-disease",
+   "comorbidities/acute-kidney-injury",
+   "drugs/drugs-in-liver-impairment",
+   "drugs/sugammadex"
+  ]
+ },
+ {
+  "path": "topics/drugs/endothelin-receptor-antagonists.md",
+  "title": "Endothelin receptor antagonists",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "pulmonary-hypertension",
+   "pulmonary-vasodilator",
+   "bosentan"
+  ],
+  "aliases": [
+   "ERA",
+   "bosentan",
+   "ambrisentan",
+   "sitaxsentan",
+   "Letairis"
+  ],
+  "related": [
+   "drugs/sildenafil",
+   "drugs/epoprostenol",
+   "drugs/nitric-oxide",
+   "comorbidities/pulmonary-hypertension"
+  ]
+ },
+ {
+  "path": "topics/drugs/entonox.md",
+  "title": "Entonox",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "nitrous-oxide",
+   "analgesia",
+   "gases",
+   "cylinders"
+  ],
+  "aliases": [
+   "50:50 nitrous oxide oxygen",
+   "gas and air"
+  ],
+  "related": [
+   "drugs/nitrous-oxide",
+   "drugs/oxygen",
+   "equipment/gas-cylinders",
+   "procedures/labour-analgesia"
+  ]
+ },
+ {
+  "path": "topics/drugs/eperisone.md",
+  "title": "Eperisone",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "muscle-relaxant",
+   "antispasmodic",
+   "oral"
+  ],
+  "aliases": [
+   "Myonal"
+  ],
+  "related": [
+   "drugs/baclofen",
+   "drugs/tizanidine",
+   "drugs/orphenadrine"
+  ]
+ },
+ {
+  "path": "topics/drugs/ephedrine.md",
+  "title": "Ephedrine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vasopressor",
+   "sympathomimetic",
+   "indirect-acting"
+  ],
+  "aliases": [],
+  "related": [
+   "drugs/phenylephrine",
+   "drugs/metaraminol",
+   "drugs/monoamine-oxidase-inhibitors",
+   "drugs/adrenaline"
+  ]
+ },
+ {
+  "path": "topics/drugs/epoprostenol.md",
+  "title": "Epoprostenol",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "prostacyclin",
+   "pulmonary-vasodilator",
+   "antiplatelet",
+   "pulmonary-hypertension"
+  ],
+  "aliases": [
+   "prostacyclin",
+   "PGI2",
+   "Flolan"
+  ],
+  "related": [
+   "drugs/nitric-oxide",
+   "drugs/iloprost",
+   "drugs/sildenafil",
+   "comorbidities/pulmonary-hypertension"
+  ]
+ },
+ {
+  "path": "topics/drugs/etomidate.md",
+  "title": "Etomidate",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "induction-agent",
+   "intravenous-anaesthetic",
+   "imidazole",
+   "adrenal-suppression"
+  ],
+  "aliases": [
+   "Etomidate-Lipuro",
+   "Lipuro"
+  ],
+  "related": [
+   "drugs/propofol",
+   "drugs/ketamine",
+   "drugs/thiopentone",
+   "comorbidities/adrenal-insufficiency"
   ]
  },
  {
@@ -417,7 +798,9 @@
    "nsaid",
    "cox-2-inhibitor",
    "analgesic"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/first-generation-antihistamines.md",
@@ -430,6 +813,28 @@
    "h1",
    "antiemetic",
    "sedation"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/flecainide.md",
+  "title": "Flecainide",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antiarrhythmic",
+   "class-ic",
+   "sodium-channel-blocker"
+  ],
+  "aliases": [
+   "Tambocor"
+  ],
+  "related": [
+   "drugs/amiodarone",
+   "comorbidities/atrial-fibrillation",
+   "drugs/antiarrhythmics"
   ]
  },
  {
@@ -443,6 +848,102 @@
    "antagonist",
    "reversal",
    "antidote"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/gabapentinoids.md",
+  "title": "Gabapentinoids",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "gabapentin",
+   "pregabalin",
+   "neuropathic-pain",
+   "anticonvulsant",
+   "adjuvant-analgesic"
+  ],
+  "aliases": [
+   "gabapentin",
+   "pregabalin",
+   "Lyrica",
+   "alpha-2-delta ligands"
+  ],
+  "related": [
+   "drugs/ketamine",
+   "drugs/carbamazepine",
+   "physiology/neuropathic-pain",
+   "drugs/multimodal-analgesia"
+  ]
+ },
+ {
+  "path": "topics/drugs/glycopyrrolate.md",
+  "title": "Glycopyrrolate",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "anticholinergic",
+   "antimuscarinic",
+   "reversal"
+  ],
+  "aliases": [
+   "glycopyrronium",
+   "glyco"
+  ],
+  "related": [
+   "drugs/atropine",
+   "drugs/neostigmine",
+   "drugs/hyoscine",
+   "drugs/anticholinergics"
+  ]
+ },
+ {
+  "path": "topics/drugs/heliox.md",
+  "title": "Helium and Heliox",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "medical-gases",
+   "airway-obstruction",
+   "helium"
+  ],
+  "aliases": [
+   "helium",
+   "He",
+   "helium-oxygen"
+  ],
+  "related": [
+   "drugs/oxygen",
+   "drugs/medical-gases",
+   "airway/upper-airway-obstruction",
+   "equipment/gas-cylinders"
+  ]
+ },
+ {
+  "path": "topics/drugs/hyoscine-hydrobromide.md",
+  "title": "Hyoscine Hydrobromide",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "anticholinergic",
+   "antimuscarinic",
+   "antiemetic",
+   "antisialagogue"
+  ],
+  "aliases": [
+   "scopolamine",
+   "hyoscine"
+  ],
+  "related": [
+   "drugs/glycopyrrolate",
+   "drugs/atropine",
+   "drugs/hyoscine-butylbromide",
+   "drugs/antiemetics"
   ]
  },
  {
@@ -457,6 +958,272 @@
    "hypocalcaemia",
    "calcium-gluconate",
    "calcium-chloride"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/ibuprofen.md",
+  "title": "Ibuprofen",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "nsaid",
+   "analgesia",
+   "propionic-acid"
+  ],
+  "aliases": [
+   "Nurofen",
+   "Brufen",
+   "dexibuprofen",
+   "NSAID"
+  ],
+  "related": [
+   "drugs/diclofenac",
+   "drugs/paracetamol",
+   "drugs/parecoxib",
+   "drugs/aspirin"
+  ]
+ },
+ {
+  "path": "topics/drugs/inhaled-anaesthetics.md",
+  "title": "Inhaled anaesthetics",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "volatiles",
+   "inhalational",
+   "sevoflurane",
+   "desflurane",
+   "halothane"
+  ],
+  "aliases": [
+   "volatiles",
+   "volatile anaesthetics",
+   "inhalational agents",
+   "sevoflurane",
+   "desflurane",
+   "isoflurane",
+   "halothane"
+  ],
+  "related": [
+   "drugs/nitrous-oxide",
+   "physiology/mac",
+   "physiology/inhaled-anaesthetic-kinetics",
+   "crises/malignant-hyperthermia",
+   "drugs/propofol"
+  ]
+ },
+ {
+  "path": "topics/drugs/isoprenaline.md",
+  "title": "Isoprenaline",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "catecholamine",
+   "beta-agonist",
+   "chronotrope",
+   "bradycardia"
+  ],
+  "aliases": [
+   "isoproterenol"
+  ],
+  "related": [
+   "drugs/adrenaline",
+   "drugs/dobutamine",
+   "drugs/salbutamol",
+   "drugs/atropine"
+  ]
+ },
+ {
+  "path": "topics/drugs/ketamine.md",
+  "title": "Ketamine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "induction-agent",
+   "nmda-antagonist",
+   "analgesia",
+   "dissociative"
+  ],
+  "aliases": [
+   "Ketalar",
+   "esketamine",
+   "S-ketamine"
+  ],
+  "related": [
+   "drugs/propofol",
+   "drugs/etomidate",
+   "drugs/thiopentone",
+   "drugs/midazolam",
+   "physiology/nmda-receptor"
+  ]
+ },
+ {
+  "path": "topics/drugs/ketorolac.md",
+  "title": "Ketorolac",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "nsaid",
+   "analgesic",
+   "cox-inhibitor"
+  ],
+  "aliases": [
+   "Toradol",
+   "NSAID"
+  ],
+  "related": [
+   "drugs/nsaids",
+   "drugs/parecoxib",
+   "drugs/paracetamol",
+   "drugs/diclofenac"
+  ]
+ },
+ {
+  "path": "topics/drugs/levobupivacaine.md",
+  "title": "Levobupivacaine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "amide"
+  ],
+  "aliases": [
+   "Chirocaine",
+   "levobupi"
+  ],
+  "related": [
+   "drugs/bupivacaine",
+   "drugs/ropivacaine",
+   "crises/local-anaesthetic-systemic-toxicity"
+  ]
+ },
+ {
+  "path": "topics/drugs/levosimendan.md",
+  "title": "Levosimendan",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "inotrope",
+   "inodilator",
+   "calcium-sensitiser"
+  ],
+  "aliases": [
+   "calcium sensitiser"
+  ],
+  "related": [
+   "drugs/milrinone",
+   "drugs/dobutamine",
+   "drugs/noradrenaline",
+   "comorbidities/heart-failure"
+  ]
+ },
+ {
+  "path": "topics/drugs/lidocaine.md",
+  "title": "Lidocaine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "amide",
+   "antiarrhythmic",
+   "class-1b",
+   "analgesic-adjunct"
+  ],
+  "aliases": [
+   "lignocaine",
+   "Xylocaine"
+  ],
+  "related": [
+   "drugs/bupivacaine",
+   "drugs/prilocaine",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "drugs/mexiletine"
+  ]
+ },
+ {
+  "path": "topics/drugs/local-anaesthetic-side-effects.md",
+  "title": "Local anaesthetic side effects",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetics",
+   "toxicity",
+   "neurotoxicity",
+   "allergy"
+  ],
+  "aliases": [
+   "LA side effects",
+   "local anaesthetic toxicity",
+   "TNS",
+   "transient neurologic symptoms"
+  ],
+  "related": [
+   "crises/last",
+   "drugs/lidocaine",
+   "drugs/chloroprocaine",
+   "drugs/prilocaine",
+   "drugs/methylene-blue"
+  ]
+ },
+ {
+  "path": "topics/drugs/local-anaesthetics.md",
+  "title": "Local Anaesthetics",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "sodium-channel",
+   "regional",
+   "pharmacology"
+  ],
+  "aliases": [
+   "LA",
+   "local anesthetics",
+   "amide local anaesthetics",
+   "ester local anaesthetics"
+  ],
+  "related": [
+   "physiology/local-anaesthetic-potency-onset-duration",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "drugs/lidocaine",
+   "drugs/bupivacaine",
+   "drugs/ropivacaine"
+  ]
+ },
+ {
+  "path": "topics/drugs/magnesium-sulfate.md",
+  "title": "Magnesium sulfate and hypomagnesaemia",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "electrolyte",
+   "magnesium",
+   "antiarrhythmic",
+   "pre-eclampsia"
+  ],
+  "aliases": [
+   "MgSO4",
+   "magnesium",
+   "hypomagnesemia"
+  ],
+  "related": [
+   "comorbidities/pre-eclampsia",
+   "comorbidities/asthma",
+   "comorbidities/atrial-fibrillation",
+   "crises/cardiac-arrest"
   ]
  },
  {
@@ -470,6 +1237,71 @@
    "air",
    "cylinders",
    "pipeline"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/melatonin.md",
+  "title": "Melatonin",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "hypnotic",
+   "sleep",
+   "melatonin-agonist"
+  ],
+  "aliases": [
+   "Circadin",
+   "melatonin receptor agonists"
+  ],
+  "related": [
+   "drugs/benzodiazepines",
+   "drugs/z-drugs",
+   "physiology/sleep"
+  ]
+ },
+ {
+  "path": "topics/drugs/metaraminol.md",
+  "title": "Metaraminol",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vasopressor",
+   "sympathomimetic",
+   "alpha-agonist"
+  ],
+  "aliases": [
+   "Aramine"
+  ],
+  "related": [
+   "drugs/phenylephrine",
+   "drugs/ephedrine",
+   "drugs/noradrenaline",
+   "regional/spinal-anaesthesia"
+  ]
+ },
+ {
+  "path": "topics/drugs/mexiletine.md",
+  "title": "Mexiletine",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antiarrhythmic",
+   "sodium-channel-blocker",
+   "class-1b"
+  ],
+  "aliases": [
+   "mexiletine hydrochloride"
+  ],
+  "related": [
+   "drugs/lidocaine",
+   "drugs/amiodarone",
+   "drugs/flecainide",
+   "physiology/cardiac-action-potential"
   ]
  },
  {
@@ -483,6 +1315,37 @@
    "sedation",
    "premedication",
    "amnesia"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/monoamine-oxidase-inhibitors.md",
+  "title": "Monoamine oxidase inhibitors",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "antidepressant",
+   "drug-interactions",
+   "tyramine",
+   "sympathomimetics"
+  ],
+  "aliases": [
+   "MAOI",
+   "MAOIs",
+   "RIMA",
+   "phenelzine",
+   "moclobemide",
+   "selegiline",
+   "tranylcypromine"
+  ],
+  "related": [
+   "drugs/pethidine",
+   "drugs/tramadol",
+   "drugs/ephedrine",
+   "drugs/phenylephrine",
+   "drugs/tricyclic-antidepressants"
   ]
  },
  {
@@ -495,6 +1358,137 @@
    "anticholinesterase",
    "reversal",
    "neuromuscular-blockade"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/neuromuscular-blockers.md",
+  "title": "Neuromuscular blockers",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuromuscular-blocker",
+   "paralytic",
+   "muscle-relaxant"
+  ],
+  "aliases": [
+   "NMB",
+   "NMBD",
+   "muscle relaxants",
+   "paralytics"
+  ],
+  "related": [
+   "drugs/suxamethonium",
+   "drugs/rocuronium",
+   "drugs/sugammadex",
+   "equipment/neuromuscular-monitoring"
+  ]
+ },
+ {
+  "path": "topics/drugs/nitric-oxide.md",
+  "title": "Nitric oxide",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "medical-gas",
+   "pulmonary-vasodilator",
+   "inhaled",
+   "cgmp"
+  ],
+  "aliases": [
+   "NO",
+   "iNO",
+   "inhaled nitric oxide",
+   "EDRF"
+  ],
+  "related": [
+   "drugs/epoprostenol",
+   "drugs/sildenafil",
+   "drugs/nitrous-oxide",
+   "comorbidities/ards",
+   "comorbidities/pulmonary-hypertension"
+  ]
+ },
+ {
+  "path": "topics/drugs/nitrous-oxide.md",
+  "title": "Nitrous oxide",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "inhalational",
+   "anaesthetic-gas",
+   "analgesic",
+   "nmda-antagonist"
+  ],
+  "aliases": [
+   "N2O",
+   "laughing gas",
+   "Entonox"
+  ],
+  "related": [
+   "physiology/minimum-alveolar-concentration",
+   "drugs/entonox",
+   "physiology/fluid-terminology-and-chemistry",
+   "comorbidities/postoperative-nausea-and-vomiting"
+  ]
+ },
+ {
+  "path": "topics/drugs/non-depolarising-neuromuscular-blockers.md",
+  "title": "Non-depolarising neuromuscular blockers",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuromuscular-blocker",
+   "muscle-relaxant",
+   "aminosteroid",
+   "benzylisoquinolinium"
+  ],
+  "aliases": [
+   "NMB",
+   "NMBA",
+   "non-depolarizing muscle relaxants",
+   "competitive neuromuscular blockers",
+   "paralytics"
+  ],
+  "related": [
+   "drugs/rocuronium",
+   "drugs/atracurium",
+   "drugs/suxamethonium",
+   "drugs/sugammadex",
+   "drugs/neostigmine"
+  ]
+ },
+ {
+  "path": "topics/drugs/nsaids.md",
+  "title": "NSAIDs and COX-2 inhibitors",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "nsaid",
+   "cox-2",
+   "analgesic",
+   "anti-inflammatory"
+  ],
+  "aliases": [
+   "NSAID",
+   "COX-2 inhibitors",
+   "coxibs",
+   "Voltaren",
+   "Celebrex",
+   "Arcoxia",
+   "Dynastat"
+  ],
+  "related": [
+   "drugs/paracetamol",
+   "drugs/aspirin",
+   "drugs/parecoxib",
+   "comorbidities/asthma"
   ]
  },
  {
@@ -508,7 +1502,9 @@
    "muscarinic",
    "anticholinesterase",
    "anticholinergic"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/parecoxib.md",
@@ -521,6 +1517,40 @@
    "cox-2",
    "analgesic",
    "prodrug"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/plasma-and-clotting-factor-products.md",
+  "title": "Plasma Products and Clotting Factor Concentrates",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "transfusion",
+   "coagulation",
+   "blood-products",
+   "haemorrhage"
+  ],
+  "aliases": [
+   "FFP",
+   "cryo",
+   "cryoprecipitate",
+   "fibrinogen concentrate",
+   "PCC",
+   "Beriplex",
+   "Octaplex",
+   "rFVIIa",
+   "NovoSeven",
+   "Humate-P"
+  ],
+  "related": [
+   "drugs/packed-red-cells",
+   "drugs/tranexamic-acid",
+   "drugs/vitamin-k",
+   "crises/major-haemorrhage",
+   "equipment/rotem-teg"
   ]
  },
  {
@@ -533,7 +1563,9 @@
    "anticholinesterase",
    "myasthenia-gravis",
    "quaternary-amine"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/remimazolam.md",
@@ -546,7 +1578,9 @@
    "intravenous-anaesthetic",
    "sedation",
    "tiva"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/sotalol.md",
@@ -558,7 +1592,9 @@
    "beta-blocker",
    "antiarrhythmic",
    "class-iii"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/sympathetic-drugs.md",
@@ -571,7 +1607,9 @@
    "sympathomimetic",
    "sympatholytic",
    "vasopressor"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/drugs/thiopentone.md",
@@ -583,6 +1621,34 @@
    "induction-agent",
    "barbiturate",
    "intravenous-anaesthetic"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/drugs/vasopressors-in-critical-care.md",
+  "title": "Vasopressors and Inotropes in Critical Care",
+  "area": "drugs",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "vasopressor",
+   "inotrope",
+   "critical-care",
+   "shock"
+  ],
+  "aliases": [
+   "vasopressors",
+   "inotropes",
+   "haemodynamic support",
+   "pressors"
+  ],
+  "related": [
+   "drugs/noradrenaline",
+   "drugs/vasopressin",
+   "drugs/dobutamine",
+   "drugs/adrenaline",
+   "drugs/milrinone"
   ]
  },
  {
@@ -596,6 +1662,36 @@
    "antiarrhythmic",
    "svt",
    "non-dihydropyridine"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/equipment/neuromuscular-monitoring.md",
+  "title": "Neuromuscular Monitoring with a Nerve Stimulator",
+  "area": "equipment",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "neuromuscular-blockade",
+   "train-of-four",
+   "nerve-stimulator",
+   "reversal"
+  ],
+  "aliases": [
+   "nerve stimulator",
+   "NMT",
+   "TOF",
+   "train of four",
+   "PTC",
+   "TOFR",
+   "quantitative neuromuscular monitoring"
+  ],
+  "related": [
+   "drugs/neuromuscular-blockers",
+   "drugs/neostigmine",
+   "drugs/sugammadex",
+   "physiology/neuromuscular-junction"
   ]
  },
  {
@@ -610,7 +1706,9 @@
    "muscarinic",
    "nicotinic",
    "cholinesterase"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/physiology/adrenergic-and-dopamine-receptors.md",
@@ -624,7 +1722,9 @@
    "dopamine",
    "camp",
    "g-protein"
-  ]
+  ],
+  "aliases": [],
+  "related": []
  },
  {
   "path": "topics/physiology/body-fluid-compartments.md",
@@ -637,6 +1737,161 @@
    "total-body-water",
    "blood-volume",
    "starling-forces"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/physiology/fluid-responsiveness.md",
+  "title": "Fluid Responsiveness",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "haemodynamics",
+   "fluids",
+   "preload",
+   "monitoring"
+  ],
+  "aliases": [
+   "PLR",
+   "passive leg raise",
+   "PPV",
+   "SVV",
+   "preload responsiveness"
+  ],
+  "related": [
+   "physiology/frank-starling-law",
+   "equipment/cardiac-output-monitoring",
+   "physiology/central-venous-pressure",
+   "procedures/pocus-ivc-ultrasound",
+   "drugs/crystalloids"
+  ]
+ },
+ {
+  "path": "topics/physiology/fluid-status.md",
+  "title": "Fluid status",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "fluids",
+   "volume-status",
+   "fluid-overload",
+   "dehydration"
+  ],
+  "aliases": [
+   "volume status",
+   "fluid overload",
+   "dehydration",
+   "euvolaemia"
+  ],
+  "related": [
+   "physiology/fluid-responsiveness",
+   "procedures/intraoperative-fluid-management",
+   "equipment/pocus-ivc",
+   "physiology/urine-output-monitoring"
+  ]
+ },
+ {
+  "path": "topics/physiology/fluid-terminology-and-chemistry.md",
+  "title": "Fluid terminology and chemistry",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "fluids",
+   "osmolality",
+   "solubility",
+   "diffusion"
+  ],
+  "aliases": [
+   "osmolality",
+   "osmolarity",
+   "tonicity",
+   "Henry law",
+   "Graham law",
+   "Fick law"
+  ],
+  "related": [
+   "drugs/crystalloids",
+   "physiology/body-fluid-compartments",
+   "physiology/starling-forces",
+   "drugs/nitrous-oxide"
+  ]
+ },
+ {
+  "path": "topics/physiology/inhaled-anaesthetic-kinetics.md",
+  "title": "Gas Kinetics of Inhaled Anaesthetics",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "volatile",
+   "pharmacokinetics",
+   "uptake",
+   "partition-coefficient"
+  ],
+  "aliases": [
+   "uptake and distribution",
+   "volatile kinetics",
+   "blood-gas partition coefficient"
+  ],
+  "related": [
+   "drugs/nitrous-oxide",
+   "drugs/sevoflurane",
+   "drugs/desflurane",
+   "drugs/isoflurane",
+   "physiology/mac"
+  ]
+ },
+ {
+  "path": "topics/physiology/local-anaesthetic-potency-onset-duration.md",
+  "title": "Local Anaesthetic Potency, Onset and Duration",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "local-anaesthetic",
+   "pharmacology",
+   "pka",
+   "protein-binding"
+  ],
+  "aliases": [
+   "LA pharmacology",
+   "local anesthetic onset",
+   "differential block"
+  ],
+  "related": [
+   "drugs/local-anaesthetics",
+   "crises/local-anaesthetic-systemic-toxicity",
+   "drugs/lidocaine",
+   "drugs/bupivacaine"
+  ]
+ },
+ {
+  "path": "topics/physiology/minimum-alveolar-concentration.md",
+  "title": "Minimum alveolar concentration (MAC)",
+  "area": "physiology",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "mac",
+   "volatile",
+   "inhalational",
+   "potency"
+  ],
+  "aliases": [
+   "MAC",
+   "MAC-awake",
+   "MAC-BAR",
+   "minimum alveolar concentration"
+  ],
+  "related": [
+   "drugs/sevoflurane",
+   "drugs/isoflurane",
+   "drugs/desflurane",
+   "drugs/nitrous-oxide"
   ]
  },
  {
@@ -650,6 +1905,63 @@
    "multimodal",
    "nociception",
    "monitoring"
+  ],
+  "aliases": [],
+  "related": []
+ },
+ {
+  "path": "topics/procedures/intraoperative-bleeding-and-blood-management.md",
+  "title": "Intraoperative bleeding and patient blood management",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "haemorrhage",
+   "transfusion",
+   "blood-conservation",
+   "massive-transfusion"
+  ],
+  "aliases": [
+   "haemorrhage",
+   "PBM",
+   "massive transfusion",
+   "MTP",
+   "blood conservation",
+   "estimated blood loss",
+   "allowable blood loss"
+  ],
+  "related": [
+   "procedures/intraoperative-fluid-management",
+   "drugs/tranexamic-acid",
+   "equipment/cell-saver",
+   "drugs/red-cell-transfusion",
+   "equipment/rotem"
+  ]
+ },
+ {
+  "path": "topics/procedures/intraoperative-fluid-management.md",
+  "title": "Intraoperative fluid management",
+  "area": "procedures",
+  "status": "verified",
+  "verified_on": "2026-10-29",
+  "tags": [
+   "fluids",
+   "gdft",
+   "maintenance-fluids",
+   "paediatrics"
+  ],
+  "aliases": [
+   "GDFT",
+   "goal directed fluid therapy",
+   "4-2-1 rule",
+   "maintenance fluids",
+   "zero-balance"
+  ],
+  "related": [
+   "physiology/fluid-status",
+   "physiology/fluid-responsiveness",
+   "procedures/intraoperative-bleeding-and-blood-management",
+   "equipment/cardiac-output-monitoring"
   ]
  }
 ]

@@ -14,6 +14,8 @@ area: drugs                 # drugs, regional, airway, comorbidities, procedures
 status: verified            # verified | draft
 verified_on: 2026-10-29     # set by the owner only; empty for drafts
 origin: owner-notes         # owner-notes | contributed
+aliases: [Precedex, dex]    # optional: other names people search for
+related: [drugs/clonidine]  # optional: closely related topics (area/slug)
 sources: []                 # optional references (title, year, link)
 tags: [inotrope]
 ---
@@ -22,7 +24,8 @@ tags: [inotrope]
 - **verified**: written or vetted by the owner. Apps may show these.
 - **draft**: proposed by an app or a session, not yet checked. Apps must not show drafts as fact.
 
-`index.json` lists every entry (path, title, area, status, verified date). Rebuild it with `node tools/build-index.mjs`.
+`index.json` lists every entry (path, title, area, status, verified date, tags, aliases, related). Topics may end with a
+`## Flashcards` section (`- Q: …` with a nested `- A: …`) for revision apps. Rebuild it with `node tools/build-index.mjs`.
 
 ## Using it from an app
 

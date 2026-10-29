@@ -35,7 +35,7 @@ export function frontMatter(text) {
 export function buildIndex() {
   return topicFiles().map(p => {
     const fm = frontMatter(fs.readFileSync(path.join(ROOT, p), 'utf8')) || {};
-    return { path: p, title: fm.title || '', area: fm.area || '', status: fm.status || '', verified_on: fm.verified_on || '', tags: fm.tags || [] };
+    return { path: p, title: fm.title || '', area: fm.area || '', status: fm.status || '', verified_on: fm.verified_on || '', tags: fm.tags || [], aliases: fm.aliases || [], related: fm.related || [] };
   });
 }
 
