@@ -1,0 +1,63 @@
+{
+ "topic": "comorbidities/tricuspid-regurgitation",
+ "questions": [
+  {
+   "fact_id": "comorbidities/tricuspid-regurgitation#663067",
+   "kind": "mcq",
+   "stem": "In tricuspid regurgitation, what is the aim for right ventricular preload?",
+   "options": [
+    "Reduce it to limit wall stress",
+    "Keep it low to protect the RV",
+    "Keep it up for forward flow",
+    "Let it fall with diuresis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tricuspid-regurgitation#6450ff",
+   "kind": "mcq",
+   "stem": "What heart rate range is preferred in tricuspid regurgitation?",
+   "options": [
+    "Low, below 50 bpm",
+    "Fixed at 60 bpm",
+    "Normal to high",
+    "Very high, above 150 bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tricuspid-regurgitation#f9e337",
+   "kind": "statement",
+   "stem": "In tricuspid regurgitation, what aspect of right ventricular function should be maintained?",
+   "answer": "RV contractility",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tricuspid-regurgitation#536771",
+   "kind": "statement",
+   "stem": "In tricuspid regurgitation, when do systemic afterload changes matter?",
+   "answer": "Only if aortic or mitral valve disease coexists",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tricuspid-regurgitation#f79e0b",
+   "kind": "mcq",
+   "stem": "In tricuspid regurgitation, what should be done with pulmonary vascular resistance?",
+   "options": [
+    "Keep it high to aid perfusion",
+    "Keep it equal to systemic resistance",
+    "Keep it low",
+    "Let it rise with positive pressure"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

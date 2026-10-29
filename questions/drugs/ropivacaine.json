@@ -1,0 +1,221 @@
+{
+ "topic": "drugs/ropivacaine",
+ "questions": [
+  {
+   "fact_id": "drugs/ropivacaine#4dd0e5",
+   "kind": "mcq",
+   "stem": "Ropivacaine belongs to which chemical group of local anaesthetics?",
+   "options": [
+    "Ester of the aminobenzoate group",
+    "Ester of the cocaine group",
+    "Amide of the pipecoloxylidide group",
+    "Ester of the tropane group"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#00e2bd",
+   "kind": "mcq",
+   "stem": "Ropivacaine is which stereoisomer?",
+   "options": [
+    "Pure S-enantiomer",
+    "Pure R-enantiomer",
+    "Racemic mixture",
+    "Achiral compound"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#fae15d",
+   "kind": "mcq",
+   "stem": "What is the highest ropivacaine strength available?",
+   "options": [
+    "20 mg/ml",
+    "5 mg/ml",
+    "15 mg/ml",
+    "10 mg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#74565a",
+   "kind": "statement",
+   "stem": "Why is ropivacaine not given with a vasoconstrictor?",
+   "answer": "It does not change duration or tissue uptake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#9fa4b5",
+   "kind": "mcq",
+   "stem": "What concentration is usually used for epidural or perineural ropivacaine infusions?",
+   "options": [
+    "0.1%",
+    "0.5%",
+    "0.2%",
+    "1%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#130bdb",
+   "kind": "statement",
+   "stem": "Does adding adrenaline or sodium bicarbonate change ropivacaine's onset or duration?",
+   "answer": "Not apparently; onset and duration seem unchanged",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#f90e89",
+   "kind": "mcq",
+   "stem": "What is the toxic dose of ropivacaine?",
+   "options": [
+    "1.5 mg/kg",
+    "0.5 mg/kg",
+    "3 mg/kg",
+    "7 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#193efa",
+   "kind": "mcq",
+   "stem": "What is ropivacaine's onset time?",
+   "options": [
+    "1-2 min",
+    "30-45 min",
+    "10-15 min",
+    "2-3 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#7515aa",
+   "kind": "mcq",
+   "stem": "What is ropivacaine's duration of block?",
+   "options": [
+    "1-2 hrs",
+    "10-12 hrs",
+    "3-8 hrs",
+    "30-45 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#9e47d0",
+   "kind": "statement",
+   "stem": "Why are ropivacaine's onset and duration similar to bupivacaine's?",
+   "answer": "Its pKa and protein binding match bupivacaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#e469d8",
+   "kind": "mcq",
+   "stem": "How does ropivacaine's lipid solubility compare with bupivacaine's?",
+   "options": [
+    "Slightly higher",
+    "Slightly lower",
+    "Much lower",
+    "Identical"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#85cb71",
+   "kind": "statement",
+   "stem": "What differential block pattern does ropivacaine show for a given dose?",
+   "answer": "Sensory block exceeds motor block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#8811b9",
+   "kind": "mcq",
+   "stem": "In peripheral nerve block, which ropivacaine concentration matches 0.5% bupivacaine?",
+   "options": [
+    "0.2%",
+    "0.5%",
+    "0.8%",
+    "0.6%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#2a1f31",
+   "kind": "statement",
+   "stem": "What vascular effect does ropivacaine have at low concentrations, unlike bupivacaine?",
+   "answer": "Mild vasoconstriction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#e92df1",
+   "kind": "mcq",
+   "stem": "Which toxicity appears first in ropivacaine overdose?",
+   "options": [
+    "Cardiac arrhythmia",
+    "CNS toxicity",
+    "Hypotension",
+    "Methaemoglobinaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#95a9ae",
+   "kind": "mcq",
+   "stem": "How is the S-enantiomer of ropivacaine described?",
+   "options": [
+    "Less potent, equally toxic",
+    "Equally potent and toxic",
+    "More potent and less toxic",
+    "Less potent and more toxic"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#a00a99",
+   "kind": "statement",
+   "stem": "What is ropivacaine's main metabolite?",
+   "answer": "3-hydroxyropivacaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ropivacaine#8fe9a8",
+   "kind": "mcq",
+   "stem": "How does ropivacaine's clearance compare with bupivacaine's?",
+   "options": [
+    "Lower",
+    "Equal",
+    "Higher",
+    "Negligible"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

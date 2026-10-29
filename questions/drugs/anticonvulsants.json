@@ -1,0 +1,213 @@
+{
+ "topic": "drugs/anticonvulsants",
+ "questions": [
+  {
+   "fact_id": "drugs/anticonvulsants#e231d2",
+   "kind": "blank",
+   "stem": "The anticonvulsant class includes carbamazepine, sodium valproate, phenytoin, ____, lamotrigine, levetiracetam, gabapentin and pregabalin.",
+   "answer": "phenobarbital",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#c63e0f",
+   "kind": "mcq",
+   "stem": "What is the core indication for anticonvulsant drugs?",
+   "options": [
+    "Epilepsy",
+    "Gout",
+    "Heart failure",
+    "Asthma"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#84ae1f",
+   "kind": "statement",
+   "stem": "Anticonvulsant mechanisms are very varied; which channels and receptors do they act on?",
+   "answer": "Voltage-gated calcium and sodium channels, GABA and glutamate receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#dbd217",
+   "kind": "statement",
+   "stem": "In epilepsy, why should a single anticonvulsant agent be used where possible?",
+   "answer": "It avoids interactions, and a second agent rarely helps",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#7c3a26",
+   "kind": "statement",
+   "stem": "What limits the use of phenobarbital as an anticonvulsant?",
+   "answer": "Heavy sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#78fc8e",
+   "kind": "statement",
+   "stem": "In status epilepticus, when is phenobarbital typically used?",
+   "answer": "When benzodiazepines and phenytoin fail to stop it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#2e90ee",
+   "kind": "mcq",
+   "stem": "Phenobarbital is among the longest-acting members of which drug group?",
+   "options": [
+    "Benzodiazepines",
+    "Barbiturates",
+    "Hydantoins",
+    "Carbamates"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#1e81f9",
+   "kind": "statement",
+   "stem": "What hepatic effect of phenobarbital causes its interactions with warfarin and oral contraceptives?",
+   "answer": "Hepatic enzyme induction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#1e81f9",
+   "kind": "blank",
+   "stem": "Phenobarbital is a hepatic enzyme ____ that interacts with warfarin and oral contraceptives.",
+   "answer": "inducer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#6b3a00",
+   "kind": "mcq",
+   "stem": "From what age can children take lamotrigine as an adjunct for epilepsy?",
+   "options": [
+    "6 months",
+    "2 years",
+    "5 years",
+    "12 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#6b3a00",
+   "kind": "statement",
+   "stem": "Lamotrigine is an adjunct treatment for which two types of epilepsy?",
+   "answer": "Generalised and focal epilepsy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#0646ac",
+   "kind": "mcq",
+   "stem": "What is the cardiac and facial defect risk with lamotrigine in pregnancy?",
+   "options": [
+    "between 2 and 5%",
+    "between 10 and 15%",
+    "between 20 and 25%",
+    "below 0.5%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#0646ac",
+   "kind": "statement",
+   "stem": "Is lamotrigine considered among the safest anticonvulsants in pregnancy?",
+   "answer": "Yes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#1d219f",
+   "kind": "mcq",
+   "stem": "What is the maximum dose of vigabatrin as an adjunct for complex partial seizures?",
+   "options": [
+    "500 mg bd",
+    "1.5 g bd",
+    "3 g od",
+    "2.5 g bd"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#1d219f",
+   "kind": "statement",
+   "stem": "Which seizure type is vigabatrin given as an adjunct for?",
+   "answer": "Complex partial seizures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#02ac5a",
+   "kind": "statement",
+   "stem": "Vigabatrin irreversibly inhibits which enzyme that breaks down GABA?",
+   "answer": "GABA-transaminase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#02ac5a",
+   "kind": "mcq",
+   "stem": "How long does vigabatrin's effect last after it irreversibly inhibits GABA-transaminase?",
+   "options": [
+    "6 hours",
+    "24 hours",
+    "12 hours",
+    "30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#1ab546",
+   "kind": "mcq",
+   "stem": "By up to what percentage does vigabatrin lower phenytoin levels?",
+   "options": [
+    "10%",
+    "25%",
+    "50%",
+    "5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#1ab546",
+   "kind": "statement",
+   "stem": "What is known about why vigabatrin lowers phenytoin levels?",
+   "answer": "The mechanism is unknown",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/anticonvulsants#eced9f",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of vigabatrin?",
+   "options": [
+    "1 hour",
+    "3 hours",
+    "6 hours",
+    "12 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

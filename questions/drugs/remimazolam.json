@@ -1,0 +1,193 @@
+{
+ "topic": "drugs/remimazolam",
+ "questions": [
+  {
+   "fact_id": "drugs/remimazolam#04a6e7",
+   "kind": "blank",
+   "stem": "Remimazolam induction is given as a bolus of ____ mg/kg.",
+   "answer": "0.1-0.3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#5652a2",
+   "kind": "blank",
+   "stem": "Remimazolam maintenance infusion is ____ mg/kg/hr.",
+   "answer": "0.75-3",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#01ec17",
+   "kind": "mcq",
+   "stem": "Remimazolam dosing evidence from Japanese case reports at the 3rd ASPA meeting concerns which patients?",
+   "options": [
+    "Obstetric patients",
+    "Paediatric patients",
+    "Bariatric patients",
+    "Geriatric patients"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#692d7b",
+   "kind": "mcq",
+   "stem": "Remimazolam: after high- or moderate-dose induction, what maintenance rate is given?",
+   "options": [
+    "6 mg/kg/hr",
+    "1 mg/kg/hr",
+    "12 mg/kg/hr",
+    "0.1 mg/kg/hr"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#1f5919",
+   "kind": "mcq",
+   "stem": "For RSI in a 5 kg baby, what remimazolam bolus is given?",
+   "options": [
+    "0.1 mg",
+    "5 mg",
+    "10 mg",
+    "1 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#1f5919",
+   "kind": "blank",
+   "stem": "For RSI in a 5 kg baby, fentanyl is given as ____ mcg.",
+   "answer": "50",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#cbe139",
+   "kind": "mcq",
+   "stem": "Remimazolam is structurally similar to which benzodiazepine?",
+   "options": [
+    "Diazepam",
+    "Lorazepam",
+    "Midazolam",
+    "Flumazenil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#cbe139",
+   "kind": "mcq",
+   "stem": "Through which receptor does remimazolam act?",
+   "options": [
+    "NMDA receptor",
+    "GABA-A receptor",
+    "Mu opioid receptor",
+    "Nicotinic receptor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#68e925",
+   "kind": "mcq",
+   "stem": "How are remimazolam's onset and offset described?",
+   "options": [
+    "Rapid onset and rapid offset",
+    "Slow onset and slow offset",
+    "Rapid onset, slow offset",
+    "Slow onset, rapid offset"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#45ef00",
+   "kind": "statement",
+   "stem": "How do remimazolam's haemodynamics compare with midazolam's?",
+   "answer": "Stable, similar to midazolam",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#b6caaf",
+   "kind": "mcq",
+   "stem": "Which agent reverses remimazolam?",
+   "options": [
+    "Naloxone",
+    "Flumazenil",
+    "Sugammadex",
+    "Neostigmine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#b6caaf",
+   "kind": "mcq",
+   "stem": "After remimazolam, how likely is rebound sedation?",
+   "options": [
+    "Very likely",
+    "Almost certain",
+    "Unlikely",
+    "Expected in all"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#1d0f03",
+   "kind": "blank",
+   "stem": "Remimazolam has an ester bond that is hydrolysed by tissue ____.",
+   "answer": "esterases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#0b30d6",
+   "kind": "mcq",
+   "stem": "What is the context-sensitive half-time of remimazolam?",
+   "options": [
+    "Over 30 min",
+    "Under 10 min",
+    "Over 60 min",
+    "About 2 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#0b30d6",
+   "kind": "statement",
+   "stem": "Unlike propofol and midazolam, what does remimazolam not do?",
+   "answer": "Accumulate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/remimazolam#bea1ef",
+   "kind": "mcq",
+   "stem": "Remimazolam's kinetic profile most resembles which drug?",
+   "options": [
+    "Propofol",
+    "Midazolam",
+    "Remifentanil",
+    "Dexmedetomidine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

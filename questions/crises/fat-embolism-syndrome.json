@@ -1,0 +1,627 @@
+{
+ "topic": "crises/fat-embolism-syndrome",
+ "questions": [
+  {
+   "fact_id": "crises/fat-embolism-syndrome#5b4f1a",
+   "kind": "statement",
+   "stem": "Which three features make up the classic triad of fat embolism syndrome?",
+   "answer": "Hypoxia, altered mental state, rash",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#ba4c3c",
+   "kind": "mcq",
+   "stem": "How quickly does fat embolism syndrome typically develop after injury?",
+   "options": [
+    "Over minutes",
+    "Over about 1 hour",
+    "Over 1 or more days",
+    "Over several weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#525199",
+   "kind": "mcq",
+   "stem": "Which criteria are used to diagnose fat embolism syndrome?",
+   "options": [
+    "Ranson criteria",
+    "Glasgow criteria",
+    "Gurd and Wilson criteria",
+    "Duke criteria"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#1409c3",
+   "kind": "statement",
+   "stem": "In fat embolism syndrome, what releases the fat into the venous circulation?",
+   "answer": "Necrotic bone marrow or fat cells",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#1b71a6",
+   "kind": "statement",
+   "stem": "In fat embolism syndrome, what happens in the pulmonary vascular bed?",
+   "answer": "Mechanical blockage of the pulmonary vascular bed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#943adc",
+   "kind": "statement",
+   "stem": "What response does fat embolism syndrome trigger throughout the body?",
+   "answer": "Systemic inflammatory response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#fa5012",
+   "kind": "mcq",
+   "stem": "How frequently does fat embolism syndrome itself occur after injury?",
+   "options": [
+    "About 10%",
+    "Below 1%",
+    "About 25%",
+    "Above 50%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#f6d7b2",
+   "kind": "mcq",
+   "stem": "What is the reported frequency of fat embolism syndrome after an isolated long bone injury?",
+   "options": [
+    "2%-5%",
+    "10%-15%",
+    "0.25%-0.9%",
+    "25%-30%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#928c18",
+   "kind": "mcq",
+   "stem": "What is the reported frequency of fat embolism syndrome after multiple closed fractures?",
+   "options": [
+    "4.6%",
+    "8.2%",
+    "20%",
+    "1.3%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#94f2bd",
+   "kind": "mcq",
+   "stem": "What is the maximum reported frequency of fat embolism syndrome with combined long bone and pelvic injury?",
+   "options": [
+    "Up to 3%",
+    "Up to 11%",
+    "Up to 35%",
+    "Up to 60%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#57204f",
+   "kind": "mcq",
+   "stem": "What share of fat embolism syndrome follows blunt trauma with pelvic and long bone fractures?",
+   "options": [
+    "60%",
+    "75%",
+    "90%",
+    "99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#0d94a9",
+   "kind": "mcq",
+   "stem": "Which of these is a non-traumatic cause of fat embolism syndrome?",
+   "options": [
+    "Gout",
+    "Pneumonia",
+    "Pancreatitis",
+    "Hypothyroidism"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#a8b8c9",
+   "kind": "statement",
+   "stem": "The mechanical theory of fat embolism syndrome is credited to whom?",
+   "answer": "Gauss",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#a7b11e",
+   "kind": "statement",
+   "stem": "Why does the mechanical theory of fat embolism syndrome fall short?",
+   "answer": "It does not explain the delay before the syndrome appears",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#447b1a",
+   "kind": "mcq",
+   "stem": "Marrow fat in fat embolism syndrome sets off a prothrombotic and inflammatory cascade. Which cytokines are part of it?",
+   "options": [
+    "IL-2, IL-4, IFN-gamma",
+    "IL-10, TGF-beta, IL-13",
+    "IL-5, IL-9, IL-15",
+    "IL-1, IL-6, TNF-alpha"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#209262",
+   "kind": "statement",
+   "stem": "In fat embolism syndrome, which factor affecting shock severity relates to the embolic load?",
+   "answer": "Total amount and speed of fat embolisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#0e8844",
+   "kind": "statement",
+   "stem": "In fat embolism syndrome, which factor affecting shock severity reflects how strongly the emboli provoke an immune response?",
+   "answer": "Immunogenicity of the embolised material",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#07ecc9",
+   "kind": "statement",
+   "stem": "In fat embolism syndrome, which factor affecting shock severity depends on how vigorous the patient's inflammation is?",
+   "answer": "Strength of the host inflammatory response",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#5a0d87",
+   "kind": "statement",
+   "stem": "Given its variable features, what kind of diagnosis is fat embolism syndrome usually?",
+   "answer": "Diagnosis of exclusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#28160b",
+   "kind": "mcq",
+   "stem": "When does fat embolism syndrome typically present after injury?",
+   "options": [
+    "0-1 hours",
+    "1-6 hours",
+    "24-72 hours",
+    "2-4 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#e28a17",
+   "kind": "statement",
+   "stem": "Which three organ systems does fat embolism syndrome mainly affect?",
+   "answer": "Lungs, skin and brain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#a7c110",
+   "kind": "mcq",
+   "stem": "In fat embolism syndrome, what percentage of patients have hypoxaemia?",
+   "options": [
+    "40%",
+    "70%",
+    "96%",
+    "99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#18a173",
+   "kind": "mcq",
+   "stem": "In fat embolism syndrome, what percentage of patients have altered mental state?",
+   "options": [
+    "21%",
+    "45%",
+    "77%",
+    "59%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#8a8081",
+   "kind": "mcq",
+   "stem": "Where is the petechial rash of fat embolism syndrome usually found?",
+   "options": [
+    "Lower legs and feet",
+    "Palms and soles",
+    "Upper trunk and axillae",
+    "Face and neck"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#dc69d4",
+   "kind": "mcq",
+   "stem": "In fat embolism syndrome, how is respiratory involvement classed?",
+   "options": [
+    "Major feature",
+    "Minor feature",
+    "Laboratory criterion",
+    "Excluded finding"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#5e80e1",
+   "kind": "mcq",
+   "stem": "In fat embolism syndrome, how is neurological involvement classed?",
+   "options": [
+    "Minor feature",
+    "Laboratory criterion",
+    "Excluded finding",
+    "Major feature"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#156706",
+   "kind": "mcq",
+   "stem": "In fat embolism syndrome, how is skin involvement classed?",
+   "options": [
+    "Laboratory criterion",
+    "Major feature",
+    "Minor feature",
+    "Excluded finding"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#1012a0",
+   "kind": "mcq",
+   "stem": "How does the petechial rash of fat embolism syndrome typically look and feel?",
+   "options": [
+    "Raised and palpable, pale",
+    "Red-brown, non-palpable",
+    "Yellow, palpable nodules",
+    "Blanching purple plaques"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#1012a0",
+   "kind": "mcq",
+   "stem": "In what share of fat embolism syndrome patients is the petechial rash red-brown and non-palpable?",
+   "options": [
+    "5-10%",
+    "25-50%",
+    "60-75%",
+    "90-100%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#e2f347",
+   "kind": "mcq",
+   "stem": "Which systemic feature can occur in fat embolism syndrome?",
+   "options": [
+    "Hypertension",
+    "Constipation",
+    "Hypothermia",
+    "Fever"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#b8b8da",
+   "kind": "mcq",
+   "stem": "Which feature can occur in fat embolism syndrome?",
+   "options": [
+    "Hypertension",
+    "Hypothermia",
+    "Bradycardia",
+    "Jaundice"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#66e97b",
+   "kind": "mcq",
+   "stem": "Which organ dysfunction can occur in fat embolism syndrome?",
+   "options": [
+    "Hypertension",
+    "Hypothermia",
+    "Renal impairment",
+    "Bradycardia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#d2a5bf",
+   "kind": "mcq",
+   "stem": "Which eye finding can occur in fat embolism syndrome?",
+   "options": [
+    "Cataract",
+    "Retinal changes",
+    "Corneal ulcer",
+    "Glaucoma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#53b2f7",
+   "kind": "statement",
+   "stem": "In fat embolism syndrome, how useful are the investigations for confirming the diagnosis?",
+   "answer": "They may be normal; no specific diagnostic test",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#d9a351",
+   "kind": "mcq",
+   "stem": "Which full blood count changes are typical in fat embolism syndrome?",
+   "options": [
+    "Rising haemoglobin, thrombocytosis",
+    "Falling haemoglobin, thrombocytopenia",
+    "Normal haemoglobin, neutropenia",
+    "Rising haemoglobin, eosinophilia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#8de3e5",
+   "kind": "mcq",
+   "stem": "Which blood marker is raised in fat embolism syndrome?",
+   "options": [
+    "Serum potassium",
+    "Platelet count",
+    "ESR",
+    "Haemoglobin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#1fb583",
+   "kind": "mcq",
+   "stem": "What is the typical chest X-ray finding in fat embolism syndrome?",
+   "options": [
+    "Solitary lung nodule",
+    "Clear lung fields",
+    "Pneumothorax",
+    "Diffuse interstitial infiltrates"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#2e26a3",
+   "kind": "mcq",
+   "stem": "What does chest CT typically show in fat embolism syndrome?",
+   "options": [
+    "Lobar collapse",
+    "Pleural effusion only",
+    "Main pulmonary artery clot",
+    "Diffuse vascular congestion and pulmonary oedema"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#06c8e8",
+   "kind": "statement",
+   "stem": "In fat embolism syndrome, why may a CT pulmonary angiogram show no vessel occlusion?",
+   "answer": "Emboli lodge distally",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#06c8e8",
+   "kind": "statement",
+   "stem": "What lung finding may appear on a CT pulmonary angiogram in fat embolism syndrome?",
+   "answer": "Peripheral ground glass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#435898",
+   "kind": "mcq",
+   "stem": "Which imaging is the test of choice for brain involvement in fat embolism syndrome?",
+   "options": [
+    "Skull X-ray",
+    "Bone scan",
+    "PET scan",
+    "MRI brain"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#1efaff",
+   "kind": "mcq",
+   "stem": "Which pattern on diffusion-weighted MRI suggests diffuse microvascular ischaemia in fat embolism syndrome?",
+   "options": [
+    "Honeycomb",
+    "Target sign",
+    "Starfield",
+    "Ring enhancement"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#1efaff",
+   "kind": "statement",
+   "stem": "How early after symptom onset can the starfield pattern appear in fat embolism syndrome?",
+   "answer": "As early as 1 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#5e2515",
+   "kind": "mcq",
+   "stem": "What combination of Gurd and Wilson criteria is needed to diagnose fat embolism syndrome?",
+   "options": [
+    "1 major plus 2 minor",
+    "4 minor criteria only",
+    "2 major, or 1 major plus 4 minor",
+    "3 major or 2 minor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#86f200",
+   "kind": "statement",
+   "stem": "Which early measure helps prevent fat embolism syndrome?",
+   "answer": "Early fixation of long bone fractures",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#523709",
+   "kind": "mcq",
+   "stem": "What is the overall approach to treating fat embolism syndrome?",
+   "options": [
+    "Antibiotic therapy",
+    "Surgical removal of fat",
+    "Plasma exchange",
+    "Supportive treatment"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#b0162f",
+   "kind": "statement",
+   "stem": "Which supportive aim in fat embolism syndrome relates to oxygen supply to the organs?",
+   "answer": "Maintain oxygenation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#0a96e3",
+   "kind": "statement",
+   "stem": "What initial management, including oxygen, is part of fat embolism syndrome treatment?",
+   "answer": "Early resuscitation and stabilisation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#80fad3",
+   "kind": "mcq",
+   "stem": "In what share of fat embolism syndrome patients is mechanical ventilation needed?",
+   "options": [
+    "40-60%",
+    "1-5%",
+    "10-40%",
+    "60-90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#18a545",
+   "kind": "statement",
+   "stem": "How is the use of steroids in fat embolism syndrome regarded?",
+   "answer": "Controversial",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#28b8b0",
+   "kind": "statement",
+   "stem": "How long does fat embolism syndrome usually take to resolve?",
+   "answer": "Within 7 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#339c62",
+   "kind": "mcq",
+   "stem": "What is the reported early mortality of fat embolism syndrome?",
+   "options": [
+    "30-50%",
+    "1-20%",
+    "0.1-0.5%",
+    "60-80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/fat-embolism-syndrome#10f3b5",
+   "kind": "mcq",
+   "stem": "How common are serious long-term complications after fat embolism syndrome?",
+   "options": [
+    "Very common",
+    "Universal",
+    "Uncommon",
+    "Expected in all"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

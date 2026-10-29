@@ -1,0 +1,213 @@
+{
+ "topic": "drugs/prilocaine",
+ "questions": [
+  {
+   "fact_id": "drugs/prilocaine#37cac9",
+   "kind": "mcq",
+   "stem": "What concentration range does prilocaine solution come in?",
+   "options": [
+    "0.5–2.0%",
+    "1–5%",
+    "0.1–0.5%",
+    "2–4%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#fe063f",
+   "kind": "mcq",
+   "stem": "Which prilocaine presentation is used for spinal anaesthesia?",
+   "options": [
+    "0.5% plain solution",
+    "3% solution with felypressin",
+    "4% isobaric solution",
+    "2% hyperbaric solution"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#c3a0c7",
+   "kind": "mcq",
+   "stem": "Which prilocaine presentation is used for dental anaesthesia?",
+   "options": [
+    "3% solution with felypressin",
+    "2% hyperbaric solution",
+    "0.5% plain solution",
+    "4% isobaric solution"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#c3a0c7",
+   "kind": "mcq",
+   "stem": "How much felypressin is in prilocaine 3% dental solution?",
+   "options": [
+    "0.3 unit/ml",
+    "0.003 unit/ml",
+    "0.05 unit/ml",
+    "0.03 unit/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#054589",
+   "kind": "statement",
+   "stem": "What is the maximum safe dose of prilocaine without adrenaline or felypressin?",
+   "answer": "6 mg/kg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#054589",
+   "kind": "mcq",
+   "stem": "What is the maximum safe prilocaine dose when given with adrenaline or felypressin?",
+   "options": [
+    "10 mg/kg",
+    "8 mg/kg",
+    "12 mg/kg",
+    "16 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#08093e",
+   "kind": "mcq",
+   "stem": "What is the onset time of prilocaine?",
+   "options": [
+    "20-30 min",
+    "5-10 min",
+    "1-2 min",
+    "45-60 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#8982f0",
+   "kind": "mcq",
+   "stem": "What is the duration of prilocaine?",
+   "options": [
+    "30 min",
+    "4 hours",
+    "90 min",
+    "8 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#845a02",
+   "kind": "statement",
+   "stem": "How does prilocaine's vasodilation compare with lidocaine's?",
+   "answer": "Less vasodilation, so adrenaline is not needed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#2205f9",
+   "kind": "mcq",
+   "stem": "Which amide local anaesthetic has the least neurological and cardiac toxicity?",
+   "options": [
+    "Lidocaine",
+    "Bupivacaine",
+    "Prilocaine",
+    "Levobupivacaine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#a47ef7",
+   "kind": "statement",
+   "stem": "How does prilocaine's risk of transient neurological symptoms compare with lidocaine's?",
+   "answer": "Rare, and lower risk than lidocaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#bb6bf9",
+   "kind": "mcq",
+   "stem": "Which prilocaine metabolite causes methaemoglobinaemia?",
+   "options": [
+    "Monoethylglycinexylidide",
+    "Pipecolylxylidide",
+    "o-toluidine",
+    "Phenylurea"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#a8e001",
+   "kind": "mcq",
+   "stem": "How is prilocaine-induced methaemoglobinaemia treated?",
+   "options": [
+    "Naloxone 400 micrograms",
+    "Ascorbic acid or methylene blue 1 mg/kg",
+    "Flumazenil 200 micrograms",
+    "Dantrolene 2.5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#b6e997",
+   "kind": "statement",
+   "stem": "Which technique is prilocaine most often used for?",
+   "answer": "IV regional anaesthesia (Bier block)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#25c2b8",
+   "kind": "mcq",
+   "stem": "What type of surgery is 2% hyperbaric prilocaine spinal used for?",
+   "options": [
+    "Major abdominal surgery",
+    "Cardiac surgery",
+    "Ambulatory surgery",
+    "Neonatal surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#36efd9",
+   "kind": "statement",
+   "stem": "How quickly is prilocaine metabolised among amide local anaesthetics?",
+   "answer": "One of the most rapidly metabolised",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/prilocaine#da8c36",
+   "kind": "mcq",
+   "stem": "Unlike most amide local anaesthetics, where is prilocaine metabolised?",
+   "options": [
+    "Liver only",
+    "Plasma only",
+    "Kidney only",
+    "Kidney, lung and liver"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

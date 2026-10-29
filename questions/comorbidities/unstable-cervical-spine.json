@@ -1,0 +1,109 @@
+{
+ "topic": "comorbidities/unstable-cervical-spine",
+ "questions": [
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#8b2e67",
+   "kind": "mcq",
+   "stem": "In cervical spondylosis, which neck movement should airway management limit?",
+   "options": [
+    "Neck flexion",
+    "Neck rotation",
+    "Neck extension",
+    "Head elevation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#8b2e67",
+   "kind": "statement",
+   "stem": "What two airway devices are suggested to limit neck extension in cervical spondylosis?",
+   "answer": "LMA or videolaryngoscope",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#50887d",
+   "kind": "mcq",
+   "stem": "In an unstable cervical spine, which perioperative concern comes first?",
+   "options": [
+    "Circulation",
+    "Positioning",
+    "Vascular access",
+    "Airway"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#118f7a",
+   "kind": "statement",
+   "stem": "What should the airway plan for an unstable cervical spine be built from?",
+   "answer": "History, examination, imaging and discussion with the surgeon",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#92583d",
+   "kind": "statement",
+   "stem": "When is direct laryngoscopy reasonable in cervical spine disease?",
+   "answer": "Neck movement does not worsen neurology, spine stable, airway otherwise normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#0cdc22",
+   "kind": "statement",
+   "stem": "What two options are suggested to protect the neck during laryngoscopy in cervical spine disease?",
+   "answer": "A videolaryngoscope, or an assistant holding the neck neutral",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#ffe528",
+   "kind": "mcq",
+   "stem": "If laryngoscopy could threaten the cord in cervical spine disease, which technique is advised?",
+   "options": [
+    "Rapid sequence direct laryngoscopy",
+    "Blind nasal intubation",
+    "Awake fibreoptic intubation",
+    "Supine LMA insertion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#ffe528",
+   "kind": "statement",
+   "stem": "What check follows awake fibreoptic intubation in cervical spine disease?",
+   "answer": "A quick neurological check once the tube is in",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#02f83e",
+   "kind": "mcq",
+   "stem": "What monitoring detects cord injury from positioning in an unstable cervical spine?",
+   "options": [
+    "Bispectral index only",
+    "Evoked potentials, especially motor",
+    "Core temperature only",
+    "Urine output only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/unstable-cervical-spine#1c915c",
+   "kind": "statement",
+   "stem": "In an unstable cervical spine, what anaesthetic choice is advised if positioning could worsen the injury?",
+   "answer": "One that allows monitoring",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

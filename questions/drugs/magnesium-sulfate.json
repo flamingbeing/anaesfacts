@@ -1,0 +1,357 @@
+{
+ "topic": "drugs/magnesium-sulfate",
+ "questions": [
+  {
+   "fact_id": "drugs/magnesium-sulfate#312ea9",
+   "kind": "mcq",
+   "stem": "Which solution strengths is magnesium sulfate supplied in?",
+   "options": [
+    "10% or 25% solution",
+    "20% or 50% solution",
+    "5% or 15% solution",
+    "50% or 80% solution"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#1245ee",
+   "kind": "mcq",
+   "stem": "How much magnesium is in a 10 ml vial of 50% magnesium sulfate?",
+   "options": [
+    "2.5 g = 10 mmol",
+    "10 g = 40 mmol",
+    "5 g = 20 mmol",
+    "20 g = 80 mmol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#f78e30",
+   "kind": "mcq",
+   "stem": "By which two routes can magnesium sulfate be given?",
+   "options": [
+    "Oral or rectal",
+    "IM or IV",
+    "Subcutaneous or intrathecal",
+    "IV or epidural"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#6e8d59",
+   "kind": "statement",
+   "stem": "Why does magnesium replacement need sustained correction rather than one brief dose?",
+   "answer": "Cellular uptake of Mg2+ is slow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#6d6bd0",
+   "kind": "mcq",
+   "stem": "What is the magnesium dose for hypomagnesaemia?",
+   "options": [
+    "1 g over 5 minutes, then stop",
+    "5 g over 1 hour, then 2 g/hour",
+    "10 mmol given slowly into a drip",
+    "2 g over 20 minutes, until the plasma level is normal"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#4385b4",
+   "kind": "mcq",
+   "stem": "What is the magnesium regimen for pre-eclampsia?",
+   "options": [
+    "1 g over 10 minutes, then 4 g/hour",
+    "8 g over 30 minutes, then 2 g/hour",
+    "4 g over 10 minutes, then 1 g/hour",
+    "2 g over 20 minutes, then stop"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#4385b4",
+   "kind": "blank",
+   "stem": "Magnesium for pre-eclampsia: ____ over 10 minutes, then 1 g/hour.",
+   "answer": "4 g",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#cd845b",
+   "kind": "mcq",
+   "stem": "What is the therapeutic plasma magnesium range?",
+   "options": [
+    "4–6 mmol/l",
+    "0.5–1.5 mmol/l",
+    "2–3.5 mmol/l",
+    "5–7 mmol/l"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#2e3758",
+   "kind": "mcq",
+   "stem": "What is the magnesium dose in acute asthma?",
+   "options": [
+    "1 g over 5 minutes",
+    "6 g over 1 hour",
+    "4 g over 10 minutes",
+    "2 g over 20 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#e5c56e",
+   "kind": "mcq",
+   "stem": "How is magnesium given as an analgesic adjunct for pain?",
+   "options": [
+    "5 mmol given rapidly as a bolus",
+    "20 mmol over two minutes",
+    "10 mmol given slowly, e.g. into a drip",
+    "50 g over 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#5771b8",
+   "kind": "statement",
+   "stem": "What physiological role does magnesium, as magnesium sulfate, play in the body?",
+   "answer": "One of the main cations; key role in neurotransmission and neuromuscular excitability",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#e83d4e",
+   "kind": "mcq",
+   "stem": "Which ion antagonises the effects of magnesium sulfate?",
+   "options": [
+    "Potassium",
+    "Sodium",
+    "Calcium",
+    "Phosphate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#8e47be",
+   "kind": "mcq",
+   "stem": "What is the normal serum magnesium range?",
+   "options": [
+    "1.7–2.5 mmol/l",
+    "0.7–1.0 mmol/l",
+    "3.5–5.0 mmol/l",
+    "0.2–0.4 mmol/l"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#48be76",
+   "kind": "mcq",
+   "stem": "Which haemodynamic effect does magnesium sulfate cause?",
+   "options": [
+    "Hypertension",
+    "Tachycardia",
+    "Hypotension",
+    "Bronchospasm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#aa3b38",
+   "kind": "mcq",
+   "stem": "What effect does magnesium sulfate have on neuromuscular blockade?",
+   "options": [
+    "Reverses neuromuscular block",
+    "Shortens neuromuscular block",
+    "Prolongs neuromuscular block",
+    "Prevents neuromuscular block onset"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#105fce",
+   "kind": "statement",
+   "stem": "Magnesium sulfate toxicity: which three symptoms appear once plasma levels exceed 4 mmol/l?",
+   "answer": "Nausea, hyporeflexia, slurred speech",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#d3b8ff",
+   "kind": "statement",
+   "stem": "Magnesium sulfate toxicity: which three features appear once plasma levels exceed 6 mmol/l?",
+   "answer": "Muscle weakness, respiratory depression, bradycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#5e4af1",
+   "kind": "mcq",
+   "stem": "At what plasma magnesium level does magnesium sulfate cause cardiac arrest?",
+   "options": [
+    "Above 4 mmol/l",
+    "Above 6 mmol/l",
+    "Above 2 mmol/l",
+    "Above 10 mmol/l"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#8c0f5e",
+   "kind": "mcq",
+   "stem": "Which agent treats magnesium sulfate toxicity?",
+   "options": [
+    "Calcium gluconate",
+    "Naloxone",
+    "Protamine sulfate",
+    "Sodium bicarbonate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#4f9de2",
+   "kind": "mcq",
+   "stem": "Magnesium sulfate replacement treats which electrolyte deficiency?",
+   "options": [
+    "Hypokalaemia",
+    "Hypernatraemia",
+    "Hyperkalaemia",
+    "Hypomagnesaemia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#33a2a9",
+   "kind": "mcq",
+   "stem": "Magnesium sulfate is indicated for which arrhythmias?",
+   "options": [
+    "AF, torsades de pointes",
+    "Bradycardia, heart block",
+    "Asystole, pulseless electrical activity",
+    "Sinus tachycardia, sinus arrest"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#a63ddc",
+   "kind": "mcq",
+   "stem": "Magnesium sulfate is indicated in which obstetric condition?",
+   "options": [
+    "Placenta praevia",
+    "Postpartum haemorrhage",
+    "Ectopic pregnancy",
+    "Pre-eclampsia"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#e74e76",
+   "kind": "mcq",
+   "stem": "Magnesium sulfate is indicated in which airway condition?",
+   "options": [
+    "Chronic bronchitis",
+    "Acute asthma",
+    "Pulmonary oedema",
+    "Pneumothorax"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#559ee4",
+   "kind": "mcq",
+   "stem": "For which indication is magnesium sulfate used as an adjunct?",
+   "options": [
+    "Nausea (antiemetic adjunct)",
+    "Anxiety (sedative adjunct)",
+    "Pain (analgesic adjunct)",
+    "Shivering (warming adjunct)"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#7e7fd7",
+   "kind": "mcq",
+   "stem": "Magnesium sulfate is indicated for which cardiovascular purpose?",
+   "options": [
+    "Cardiac output support",
+    "Pulmonary artery pressure reduction",
+    "Blood pressure control",
+    "Intracranial pressure control"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#ea49a8",
+   "kind": "blank",
+   "stem": "Hypomagnesaemia is defined as serum magnesium below ____ mg/dL (0.70 mmol/L).",
+   "answer": "1.7",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#1ff9d9",
+   "kind": "statement",
+   "stem": "What clinical features does hypomagnesaemia produce?",
+   "answer": "Seizures, paresis, Chvostek and Trousseau signs, arrhythmias including torsades de pointes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#654591",
+   "kind": "blank",
+   "stem": "Hypomagnesaemia treatment: give Mg2+ ____ or IV.",
+   "answer": "IM",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/magnesium-sulfate#b87b92",
+   "kind": "statement",
+   "stem": "Why do hypokalaemia and hypocalcaemia fail to correct during treatment of low magnesium?",
+   "answer": "They will not correct until magnesium is replaced",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

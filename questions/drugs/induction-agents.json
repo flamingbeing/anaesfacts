@@ -1,0 +1,203 @@
+{
+ "topic": "drugs/induction-agents",
+ "questions": [
+  {
+   "fact_id": "drugs/induction-agents#50448d",
+   "kind": "statement",
+   "stem": "What makes a drug usable as an induction agent?",
+   "answer": "It renders the patient unconscious",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#53dad5",
+   "kind": "statement",
+   "stem": "Which four IV agents are the usual induction agents?",
+   "answer": "Propofol, thiopental, etomidate, ketamine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#64b847",
+   "kind": "statement",
+   "stem": "Why are benzodiazepines and opioids not usually used alone to induce anaesthesia?",
+   "answer": "Onset is unpredictable and action is long at induction doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#ac7ec3",
+   "kind": "statement",
+   "stem": "Apart from IV agents, what other induction approach is described?",
+   "answer": "Inhalational, or a combination of both",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#e33cb6",
+   "kind": "mcq",
+   "stem": "Which induction agent belongs to the phenol chemical class?",
+   "options": [
+    "Thiopentone",
+    "Propofol",
+    "Etomidate",
+    "Midazolam"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#55ad6e",
+   "kind": "mcq",
+   "stem": "Which induction agent is a barbiturate?",
+   "options": [
+    "Propofol",
+    "Etomidate",
+    "Ketamine",
+    "Thiopentone"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#60545c",
+   "kind": "mcq",
+   "stem": "Which induction agent is an imidazole?",
+   "options": [
+    "Midazolam",
+    "Ketamine",
+    "Etomidate",
+    "Thiopentone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#95edb1",
+   "kind": "mcq",
+   "stem": "Which induction agent belongs to the phencyclidine class?",
+   "options": [
+    "Ketamine",
+    "Propofol",
+    "Midazolam",
+    "Etomidate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#617931",
+   "kind": "mcq",
+   "stem": "Which induction agent is a benzodiazepine?",
+   "options": [
+    "Propofol",
+    "Thiopentone",
+    "Etomidate",
+    "Midazolam"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#318c2b",
+   "kind": "statement",
+   "stem": "What happens to an IV induction agent once it is in the plasma?",
+   "answer": "Part binds plasma protein; the rest is free",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#61e8bc",
+   "kind": "statement",
+   "stem": "In order, what circulatory route does an IV induction bolus take to reach the brain?",
+   "answer": "Venous blood, right heart, lungs, left heart, systemic circulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#3fc570",
+   "kind": "mcq",
+   "stem": "What share of cardiac output goes to the vessel-rich organs (brain, liver, kidney)?",
+   "options": [
+    "About 10%",
+    "About 25%",
+    "About 70%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#788b32",
+   "kind": "mcq",
+   "stem": "Which form of an induction agent crosses the blood-brain barrier fastest?",
+   "options": [
+    "Protein-bound, water-soluble, ionised drug",
+    "Free, water-soluble, ionised drug",
+    "Free, lipid-soluble, unionised drug",
+    "Protein-bound, lipid-soluble, ionised drug"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#16f73f",
+   "kind": "statement",
+   "stem": "What is known about how IV induction agents act at receptor level?",
+   "answer": "Exact mechanism unknown; GABA-A, NMDA and acetylcholine receptors are candidate sites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#ecb143",
+   "kind": "statement",
+   "stem": "Why does more induction agent reach the brain in shock and the elderly?",
+   "answer": "A larger share of cardiac output goes to the brain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#2ea1e0",
+   "kind": "mcq",
+   "stem": "How does low cardiac output affect the onset of an IV induction agent?",
+   "options": [
+    "Speeds onset because the drug is cleared faster",
+    "Delays onset by slowing arrival at the brain",
+    "No effect on onset at all",
+    "Shortens the action of the agent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#0827a0",
+   "kind": "statement",
+   "stem": "In induction for low cardiac output states, what is the key to safety?",
+   "answer": "Slow titration of a reduced dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/induction-agents#a132af",
+   "kind": "mcq",
+   "stem": "What onset and duration does an ideal IV induction agent have?",
+   "options": [
+    "Slow onset and long action",
+    "Slow onset and short action",
+    "Fast onset and short action",
+    "Fast onset and long action"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

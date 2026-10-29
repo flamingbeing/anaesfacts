@@ -1,0 +1,425 @@
+{
+ "topic": "drugs/morphine",
+ "questions": [
+  {
+   "fact_id": "drugs/morphine#85ec73",
+   "kind": "statement",
+   "stem": "Apart from IV, what forms of morphine are available?",
+   "answer": "Tablets, suspensions, suppositories, slow-release capsules and granules",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#18ca84",
+   "kind": "blank",
+   "stem": "Morphine 10 mg in 1 ml, diluted to a total of 10 ml, gives a concentration of ____.",
+   "answer": "1 mg/ml",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#553748",
+   "kind": "mcq",
+   "stem": "How much less potent is oral morphine than IV morphine?",
+   "options": [
+    "Two times less potent",
+    "Three times less potent",
+    "Ten times less potent",
+    "Equally potent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#89407e",
+   "kind": "mcq",
+   "stem": "Why is subcutaneous morphine usually avoided?",
+   "options": [
+    "Rapid absorption from high lipid solubility",
+    "Slow absorption from low lipid solubility",
+    "Excess protein binding blocking absorption",
+    "Direct tissue damage from alkaline pH"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#9091d3",
+   "kind": "mcq",
+   "stem": "What is the usual intrathecal morphine dose range?",
+   "options": [
+    "0.02–0.1 mg",
+    "2–4 mg",
+    "0.2–1.0 mg",
+    "10–20 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#ac8343",
+   "kind": "statement",
+   "stem": "What delayed complication is linked with neuraxial morphine use?",
+   "answer": "Delayed respiratory depression",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#897f4d",
+   "kind": "mcq",
+   "stem": "What oral morphine dose range is given 4-hourly?",
+   "options": [
+    "0.5–2 mg",
+    "50–100 mg",
+    "1–5 mg",
+    "5–20 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#039fef",
+   "kind": "mcq",
+   "stem": "What dose of morphine syrup is given to children?",
+   "options": [
+    "0.1-0.2 mg/kg every 4 hours",
+    "0.05-0.2 mg/kg every 2 hours",
+    "0.2-0.3 mg/kg every 6 hours",
+    "1-2 mg every 6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#6c1ab9",
+   "kind": "mcq",
+   "stem": "What is the peak effect time of oral morphine?",
+   "options": [
+    "20-30 min",
+    "10 min",
+    "60-90 min",
+    "3-4 hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#63ef40",
+   "kind": "mcq",
+   "stem": "What intramuscular morphine dose range is given 4-hourly?",
+   "options": [
+    "0.05-0.2 mg/kg",
+    "0.1-0.2 mg/kg",
+    "5-20 mg",
+    "1-2 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#788c97",
+   "kind": "mcq",
+   "stem": "How long after intramuscular morphine does peak effect occur?",
+   "options": [
+    "10 min",
+    "60-90 min",
+    "30 min",
+    "3-5 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#d53464",
+   "kind": "mcq",
+   "stem": "What IV morphine dose range, in mg/kg, is typical?",
+   "options": [
+    "0.1-0.4 mg/kg",
+    "0.5-2 mg/kg",
+    "0.01-0.05 mg/kg",
+    "0.05-0.2 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#d53464",
+   "kind": "mcq",
+   "stem": "What bolus size is used for IV morphine?",
+   "options": [
+    "10-20 mg",
+    "0.1-0.2 mg",
+    "1-2 mg",
+    "5-10 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#cc46a3",
+   "kind": "mcq",
+   "stem": "In IV morphine titration, what dose step in mg/kg is used?",
+   "options": [
+    "0.01 mg/kg",
+    "0.5 mg/kg",
+    "0.05 mg/kg",
+    "1 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#cc46a3",
+   "kind": "blank",
+   "stem": "Titration of IV morphine starts at ____ mg/kg.",
+   "answer": "0.1",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#8601c7",
+   "kind": "mcq",
+   "stem": "What onset time range is quoted for IV morphine?",
+   "options": [
+    "20-30 min",
+    "60-90 min",
+    "1-2 min",
+    "3-5 min (or 5-10 min)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#559a44",
+   "kind": "mcq",
+   "stem": "What peak effect time is quoted for IV morphine?",
+   "options": [
+    "10 min (or 20-30 min)",
+    "3-4 hr",
+    "60-90 min",
+    "1-2 min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#52a1d1",
+   "kind": "mcq",
+   "stem": "How long does the effect of IV morphine last?",
+   "options": [
+    "20-30 min",
+    "5-10 min",
+    "3-4 hr",
+    "12-24 hr"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#e4629c",
+   "kind": "statement",
+   "stem": "What is the morphine infusion rate range for children?",
+   "answer": "0-40 mcg/kg/hr",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#c2a239",
+   "kind": "mcq",
+   "stem": "Morphine acts as an agonist at which receptor?",
+   "options": [
+    "Mu-opioid receptor",
+    "Kappa-opioid receptor",
+    "Delta-opioid receptor",
+    "Alpha-2 adrenergic receptor"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#001846",
+   "kind": "statement",
+   "stem": "Which type of pain is morphine especially good at relieving?",
+   "answer": "Visceral pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#97e146",
+   "kind": "blank",
+   "stem": "Morphine-induced histamine release can cause bradycardia, bronchospasm and ____.",
+   "answer": "hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#7f16d4",
+   "kind": "statement",
+   "stem": "What does morphine do to the sphincter of Oddi?",
+   "answer": "Contracts it, raising biliary pressure",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#d4c050",
+   "kind": "mcq",
+   "stem": "How does morphine's lipid solubility compare with other opioids?",
+   "options": [
+    "Most lipid-soluble opioid",
+    "Equally lipid-soluble as fentanyl",
+    "Least lipid-soluble opioid",
+    "Intermediate lipid-soluble opioid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#31814a",
+   "kind": "mcq",
+   "stem": "Where in the gut is oral morphine mainly absorbed?",
+   "options": [
+    "Stomach",
+    "Colon",
+    "Oesophagus",
+    "Small bowel"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#1a4fdb",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of morphine?",
+   "options": [
+    "60%",
+    "10%",
+    "90%",
+    "30%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#1a4fdb",
+   "kind": "statement",
+   "stem": "Why is oral morphine's bioavailability only 30%?",
+   "answer": "Hepatic first-pass metabolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#399f34",
+   "kind": "statement",
+   "stem": "Why do plasma morphine levels not track its effect?",
+   "answer": "Brain levels fall slowly, because of low lipid solubility",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#13a468",
+   "kind": "mcq",
+   "stem": "Where is morphine mainly metabolised?",
+   "options": [
+    "Kidney",
+    "Plasma",
+    "Liver",
+    "Brain"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#679062",
+   "kind": "mcq",
+   "stem": "What share of morphine is converted to morphine-3-glucuronide?",
+   "options": [
+    "Up to 10%",
+    "Up to 30%",
+    "Up to 90%",
+    "Up to 70%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#a47356",
+   "kind": "mcq",
+   "stem": "How much more potent than morphine is morphine-6-glucuronide?",
+   "options": [
+    "3 times",
+    "30 times",
+    "13 times",
+    "Equally potent"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#03b13e",
+   "kind": "blank",
+   "stem": "M6G and M3G accumulate in renal failure, so you must ____ the dose.",
+   "answer": "adjust",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#1c852d",
+   "kind": "statement",
+   "stem": "What are the effects of M6G, a mu agonist?",
+   "answer": "Respiratory depression, oversedation and delayed waking",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#c15de3",
+   "kind": "statement",
+   "stem": "Which morphine metabolite may lower the seizure threshold?",
+   "answer": "Morphine-3-glucuronide (M3G)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#1638ae",
+   "kind": "statement",
+   "stem": "Why are neonates more sensitive to morphine?",
+   "answer": "Immature hepatic conjugation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/morphine#46e4d5",
+   "kind": "mcq",
+   "stem": "Why do elderly patients have higher morphine peak levels?",
+   "options": [
+    "Larger volume of distribution",
+    "Faster hepatic conjugation",
+    "Smaller volume of distribution",
+    "Higher renal clearance"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

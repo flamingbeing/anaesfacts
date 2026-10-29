@@ -1,0 +1,499 @@
+{
+ "topic": "drugs/paediatric-inhalational-agents",
+ "questions": [
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#556989",
+   "kind": "mcq",
+   "stem": "How does MAC of inhalational agents in children compare with adults?",
+   "options": [
+    "Higher",
+    "Lower",
+    "The same",
+    "Lower only in neonates"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#1ff683",
+   "kind": "mcq",
+   "stem": "At what age does MAC of inhalational agents peak in children?",
+   "options": [
+    "1 month",
+    "6 months",
+    "12 months",
+    "3 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#1ff683",
+   "kind": "blank",
+   "stem": "After its peak, MAC of inhalational agents falls by about ____ per decade.",
+   "answer": "6%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#86f202",
+   "kind": "mcq",
+   "stem": "Between which ages is paediatric volatile MAC highest?",
+   "options": [
+    "6 to 12 months",
+    "1 to 6 months",
+    "1 to 5 years",
+    "5 to 10 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#82bc7d",
+   "kind": "mcq",
+   "stem": "By how much is volatile MAC lower in premature babies?",
+   "options": [
+    "10-15%",
+    "20-30%",
+    "40-50%",
+    "60-70%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#51c581",
+   "kind": "blank",
+   "stem": "Memory aid: infant volatile MAC is about ____ above adult MAC.",
+   "answer": "50%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#51c581",
+   "kind": "blank",
+   "stem": "Memory aid: child volatile MAC is about ____ above adult MAC.",
+   "answer": "25%",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#8a3e94",
+   "kind": "mcq",
+   "stem": "What is the desflurane MAC value for a child?",
+   "options": [
+    "8.6",
+    "9.4",
+    "6.0",
+    "9.1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#8a3e94",
+   "kind": "mcq",
+   "stem": "What is the desflurane MAC value for an adult?",
+   "options": [
+    "9.4",
+    "8.6",
+    "4.6",
+    "6.0"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#8a3e94",
+   "kind": "mcq",
+   "stem": "Which age group has the highest desflurane MAC?",
+   "options": [
+    "Neonate",
+    "Child",
+    "Infant",
+    "Adult"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#42155a",
+   "kind": "mcq",
+   "stem": "What is the sevoflurane MAC in a child?",
+   "options": [
+    "3.2",
+    "2.5",
+    "2.0",
+    "1.6"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#42155a",
+   "kind": "mcq",
+   "stem": "What is the sevoflurane MAC in an adult?",
+   "options": [
+    "3.2",
+    "2.5",
+    "1.9",
+    "2.0"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#60da5e",
+   "kind": "mcq",
+   "stem": "What is the isoflurane MAC in an infant?",
+   "options": [
+    "1.3",
+    "1.6",
+    "1.9",
+    "1.16"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#60da5e",
+   "kind": "mcq",
+   "stem": "What is the isoflurane MAC in a preterm baby?",
+   "options": [
+    "1.3",
+    "0.9",
+    "1.6",
+    "1.9"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#3dfd12",
+   "kind": "mcq",
+   "stem": "What is the halothane MAC in an infant?",
+   "options": [
+    "0.9",
+    "1.2",
+    "0.76",
+    "1.9"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#3dfd12",
+   "kind": "mcq",
+   "stem": "What is the halothane MAC in an adult?",
+   "options": [
+    "0.9",
+    "1.2",
+    "0.76",
+    "1.6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#49700c",
+   "kind": "mcq",
+   "stem": "Which volatile is the commonest inhalational induction agent in children?",
+   "options": [
+    "Sevoflurane",
+    "Halothane",
+    "Isoflurane",
+    "Desflurane"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#49700c",
+   "kind": "mcq",
+   "stem": "When is halothane still used for induction in children?",
+   "options": [
+    "Airway surgery or a potentially difficult airway",
+    "Routine short day-case surgery",
+    "Neonatal cardiac surgery",
+    "Long cases with IPPV"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#aa4fac",
+   "kind": "mcq",
+   "stem": "Which volatile agents are unsuitable for inhalational induction in children?",
+   "options": [
+    "Sevoflurane and halothane",
+    "Isoflurane and desflurane",
+    "Sevoflurane and isoflurane",
+    "Halothane and desflurane"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#ad0657",
+   "kind": "mcq",
+   "stem": "Why can sevoflurane be started at 8% for inhalational induction?",
+   "options": [
+    "It is highly soluble in fat",
+    "It is not pungent",
+    "It is a strong bronchodilator",
+    "It is metabolised fully in the liver"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#f31062",
+   "kind": "mcq",
+   "stem": "What do high concentrations of sevoflurane cause in children?",
+   "options": [
+    "Bronchospasm and wheeze",
+    "Marked respiratory depression or apnoea",
+    "Coronary steal",
+    "Hepatic necrosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#fad4d3",
+   "kind": "statement",
+   "stem": "What is the risk of sevoflurane's low potency during airway instrumentation in children?",
+   "answer": "A child may be apnoeic yet still too light for instrumentation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#a04758",
+   "kind": "mcq",
+   "stem": "What emergence problem can follow sevoflurane maintenance in children?",
+   "options": [
+    "Malignant hyperthermia",
+    "Emergence delirium and distress",
+    "Post-operative shivering",
+    "Laryngospasm on waking"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#42b0ed",
+   "kind": "mcq",
+   "stem": "How does sevoflurane differ from other volatiles in its metabolism?",
+   "options": [
+    "It is not metabolised to trifluoroacetate",
+    "It is fully excreted unchanged",
+    "It is converted to nitrous oxide",
+    "Its metabolite causes bronchospasm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#593f9b",
+   "kind": "mcq",
+   "stem": "In which situation is desflurane useful for maintenance in children?",
+   "options": [
+    "Long cases with IPPV",
+    "Induction in spontaneously breathing children",
+    "Short cases with spontaneous breathing",
+    "Routine airway endoscopy"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#b43b0f",
+   "kind": "mcq",
+   "stem": "Why is desflurane unsuitable for induction in most children?",
+   "options": [
+    "Too irritant",
+    "Too potent for induction",
+    "Causes hepatic toxicity",
+    "Prolongs emergence"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#246934",
+   "kind": "mcq",
+   "stem": "How much of a concern is coronary steal with isoflurane in children?",
+   "options": [
+    "A major concern",
+    "Of little or no concern",
+    "Only a concern in neonates",
+    "Only a concern after surgery"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#6ae8f8",
+   "kind": "mcq",
+   "stem": "What makes halothane useful for a potentially difficult airway or airway endoscopy?",
+   "options": [
+    "Potent and smooth",
+    "Non-pungent and quick",
+    "Lowest blood solubility",
+    "Strong analgesic effect"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#b23cc2",
+   "kind": "mcq",
+   "stem": "At high concentrations, how much of a problem are halothane dysrhythmias in young children compared with adults?",
+   "options": [
+    "Much more of a problem",
+    "Much less of a problem",
+    "Equally a problem",
+    "Only a problem in neonates"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#2cc9a4",
+   "kind": "mcq",
+   "stem": "Why is halothane useful in severe asthma?",
+   "options": [
+    "Strong bronchoconstrictor",
+    "Strong bronchodilator",
+    "Potent analgesic",
+    "Raises airway resistance"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#042749",
+   "kind": "mcq",
+   "stem": "What role does nitrous oxide play with volatile agents in children?",
+   "options": [
+    "Primary induction agent",
+    "Carrier gas, as in adults",
+    "Replaces oxygen in the mix",
+    "Sole maintenance agent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#49d41a",
+   "kind": "mcq",
+   "stem": "Why was nitrous oxide traditionally added to volatiles in young children?",
+   "options": [
+    "To deepen anaesthesia beyond MAC",
+    "To prevent emergence delirium",
+    "To cut the volatile requirement",
+    "To replace oxygen in the mix"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#2e203b",
+   "kind": "mcq",
+   "stem": "What cardiovascular effect does nitrous oxide have in neonates?",
+   "options": [
+    "Marked hypertension",
+    "Mild cardiovascular depression",
+    "Severe bronchospasm",
+    "Mild tachycardia only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#5a07f4",
+   "kind": "mcq",
+   "stem": "How does nitrous oxide uptake in infants compare with adults?",
+   "options": [
+    "Slower uptake",
+    "Faster uptake",
+    "Identical uptake",
+    "Absent uptake"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#473f3d",
+   "kind": "mcq",
+   "stem": "What nitrous oxide mix is used for procedural analgesia in children?",
+   "options": [
+    "30% nitrous oxide with oxygen",
+    "50% nitrous oxide with oxygen",
+    "70% nitrous oxide with oxygen",
+    "100% nitrous oxide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#4b4336",
+   "kind": "mcq",
+   "stem": "What is the trend in nitrous oxide use in paediatric anaesthesia?",
+   "options": [
+    "Increasing",
+    "Stable",
+    "Declining",
+    "Doubling"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-inhalational-agents#3016cb",
+   "kind": "mcq",
+   "stem": "How can prolonged nitrous oxide use be toxic?",
+   "options": [
+    "Via cytochrome P450 induction",
+    "Via methionine synthetase and vitamin B12",
+    "Via acetylcholinesterase inhibition",
+    "Via trifluoroacetate and antibodies"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "topic": "drugs/drugs-in-liver-impairment",
+ "questions": [
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#24545a",
+   "kind": "statement",
+   "stem": "In liver impairment, what should happen to the doses of almost all drugs?",
+   "answer": "Adjust the dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#9a81d5",
+   "kind": "mcq",
+   "stem": "What is the daily paracetamol limit in liver impairment?",
+   "options": [
+    "<4g/day",
+    "<3g/day",
+    "<6g/day",
+    "<2g/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#537e14",
+   "kind": "mcq",
+   "stem": "Which opioid type is preferred in liver impairment?",
+   "options": [
+    "Long-acting oral morphine",
+    "Short-acting opioids",
+    "Transdermal fentanyl patches",
+    "Sustained-release oxycodone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#24f6d3",
+   "kind": "statement",
+   "stem": "Which model describes total hepatic clearance?",
+   "answer": "Rowland's 'well-stirred' model",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#b2453a",
+   "kind": "mcq",
+   "stem": "What mainly sets clearance of a drug with a high extraction ratio (>0.7)?",
+   "options": [
+    "Enzyme activity and free fraction",
+    "Hepatic blood flow",
+    "Plasma albumin concentration",
+    "Urinary pH"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#6f1651",
+   "kind": "mcq",
+   "stem": "What sets clearance of a drug with a low extraction ratio (<0.3)?",
+   "options": [
+    "Hepatic blood flow",
+    "Renal blood flow",
+    "Enzyme activity and free fraction",
+    "Gastric emptying rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#c11f4a",
+   "kind": "statement",
+   "stem": "In cirrhosis, what does portosystemic shunting do to oral drug absorption?",
+   "answer": "Reduces first-pass metabolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#47f126",
+   "kind": "mcq",
+   "stem": "In cirrhosis, which metabolic pathway is largely preserved until end-stage disease?",
+   "options": [
+    "CYP450 (phase I) activity",
+    "Glucuronidation (phase II)",
+    "Renal tubular secretion",
+    "Plasma cholinesterase activity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#fa2ef7",
+   "kind": "mcq",
+   "stem": "In cirrhosis, which condition lowers renal clearance of drugs?",
+   "options": [
+    "Portosystemic shunting",
+    "Hepatorenal syndrome",
+    "Gastric stasis",
+    "Enzyme induction by alcohol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#98f345",
+   "kind": "statement",
+   "stem": "Why are patients with cirrhosis more sensitive to GABA-acting drugs such as benzodiazepines?",
+   "answer": "The blood-brain barrier is more permeable",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#a127c7",
+   "kind": "mcq",
+   "stem": "In liver disease, when does suxamethonium's slightly longer action become relevant?",
+   "options": [
+    "Enzyme levels below 50%",
+    "Enzyme levels below 25%",
+    "Enzyme levels below 10%",
+    "Enzyme levels above 75%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#656c79",
+   "kind": "mcq",
+   "stem": "How is clearance of amide local anaesthetics such as lidocaine affected by liver impairment?",
+   "options": [
+    "Much increased",
+    "Slightly increased",
+    "Much reduced",
+    "Unchanged"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#bfb1d3",
+   "kind": "blank",
+   "stem": "Paracetamol is ____ at low doses in liver impairment.",
+   "answer": "safe",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#ddea99",
+   "kind": "mcq",
+   "stem": "Under FDA guidance, for how long should paracetamol be used in liver impairment?",
+   "options": [
+    "Indefinitely, with monitoring",
+    "Long term, <60 days",
+    "Short term, <14 days",
+    "Up to 4 weeks"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#ddea99",
+   "kind": "mcq",
+   "stem": "What is an example of a low paracetamol dose in liver impairment?",
+   "options": [
+    "1g QDS",
+    "1g TDS",
+    "500mg QDS",
+    "2g QDS"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#0c512c",
+   "kind": "mcq",
+   "stem": "In liver impairment, NSAIDs and COX-2 inhibitors are contraindicated because of what?",
+   "options": [
+    "Hypokalaemia and QT prolongation",
+    "Bronchospasm and angioedema",
+    "Variceal bleeding and renal impairment",
+    "Hepatic encephalopathy and hypoglycaemia"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#5f5aa0",
+   "kind": "statement",
+   "stem": "Why is codeine poorly effective and best avoided in liver disease?",
+   "answer": "Its activation to morphine by CYP2D6 is reduced",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#6b9d2b",
+   "kind": "mcq",
+   "stem": "How should patients with mild liver disease be managed for pain?",
+   "options": [
+    "With half the usual analgesic doses",
+    "Avoiding all analgesics",
+    "As for normal patients",
+    "Only with intravenous opioids"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#31b579",
+   "kind": "mcq",
+   "stem": "What dose change is advised for metronidazole in Child-Pugh C?",
+   "options": [
+    "Increase the dose by 50%",
+    "Reduce the dose by 25%",
+    "Halve the dose (reduce by 50%)",
+    "No dose change needed"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#31b579",
+   "kind": "statement",
+   "stem": "In liver impairment, which metronidazole pharmacokinetic parameter becomes longer?",
+   "answer": "Half-life",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/drugs-in-liver-impairment#1035fd",
+   "kind": "mcq",
+   "stem": "In liver impairment, what is advised for clindamycin in severe disease?",
+   "options": [
+    "Double the usual dose",
+    "Give at the usual dose",
+    "Increase the dosing frequency",
+    "Avoid or reduce the dose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

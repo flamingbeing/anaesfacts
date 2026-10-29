@@ -1,0 +1,287 @@
+{
+ "topic": "drugs/alfentanil",
+ "questions": [
+  {
+   "fact_id": "drugs/alfentanil#f8e853",
+   "kind": "mcq",
+   "stem": "What concentration is alfentanil supplied in, as a colourless solution?",
+   "options": [
+    "1mg/ml",
+    "2mg/ml",
+    "0.5mg/ml",
+    "0.1mg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#6a51bb",
+   "kind": "mcq",
+   "stem": "Alfentanil 1mg diluted to 10ml gives what concentration?",
+   "options": [
+    "10mcg per ml",
+    "1mg per ml",
+    "50mcg per ml",
+    "100mcg per ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#f1bfa8",
+   "kind": "mcq",
+   "stem": "What is the initial alfentanil sedation dose, per kg?",
+   "options": [
+    "1mcg/kg",
+    "10mcg/kg",
+    "50mcg/kg",
+    "5mcg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#f1bfa8",
+   "kind": "mcq",
+   "stem": "What alfentanil top-up dose per kg is given for sedation, as needed?",
+   "options": [
+    "1mcg/kg",
+    "10mcg/kg",
+    "2.5mcg/kg",
+    "25mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#f1bfa8",
+   "kind": "mcq",
+   "stem": "How often are alfentanil sedation top-ups given?",
+   "options": [
+    "Every 10-15min",
+    "Every 1-2 hours",
+    "Every 30-60min",
+    "Every 2-3min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#62a28e",
+   "kind": "mcq",
+   "stem": "Some clinicians give alfentanil boluses for sedation of what size?",
+   "options": [
+    "1-2mg",
+    "5-10mcg",
+    "200-400mcg",
+    "50-100mcg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#72b3ae",
+   "kind": "mcq",
+   "stem": "What IV dose per kg is used to induce anaesthesia with alfentanil?",
+   "options": [
+    "1 mcg/kg",
+    "50 mcg/kg",
+    "10 mcg/kg",
+    "100 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#9c1a79",
+   "kind": "mcq",
+   "stem": "How much less potent is alfentanil than fentanyl?",
+   "options": [
+    "2 to 3 times",
+    "4 to 10 times",
+    "20 to 40 times",
+    "Equally potent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#e38b4d",
+   "kind": "mcq",
+   "stem": "What is the typical duration of alfentanil's effect?",
+   "options": [
+    "30–60 min",
+    "5–10 min",
+    "1–2 hours",
+    "20–30 min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#e38b4d",
+   "kind": "statement",
+   "stem": "How does alfentanil's duration compare with fentanyl's?",
+   "answer": "A third of fentanyl's",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#742706",
+   "kind": "statement",
+   "stem": "How does alfentanil's cardiovascular profile compare with fentanyl's?",
+   "answer": "More cardiostable, with fewer cardiovascular effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#16caa6",
+   "kind": "statement",
+   "stem": "How does alfentanil's respiratory depression risk compare with fentanyl's?",
+   "answer": "Greater",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#ac458a",
+   "kind": "mcq",
+   "stem": "Which sedative shares hepatic enzymes with alfentanil, prolonging both half-lives?",
+   "options": [
+    "Propofol",
+    "Remifentanil",
+    "Midazolam",
+    "Ketamine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#ecc969",
+   "kind": "mcq",
+   "stem": "Which antibiotic can prolong alfentanil's action?",
+   "options": [
+    "Amoxicillin",
+    "Erythromycin",
+    "Gentamicin",
+    "Doxycycline"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#95b8b6",
+   "kind": "statement",
+   "stem": "For short bursts of fast analgesia, alfentanil suits which procedures?",
+   "answer": "Nerve block or head pinning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#0f7144",
+   "kind": "statement",
+   "stem": "What is the drawback of alfentanil infusion for sedation?",
+   "answer": "Duration lengthens considerably",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#bc84c5",
+   "kind": "mcq",
+   "stem": "What is alfentanil's pKa?",
+   "options": [
+    "7.4",
+    "8.4",
+    "5.5",
+    "6.5"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#bc84c5",
+   "kind": "mcq",
+   "stem": "What percentage of alfentanil is unionised at pH 7.4?",
+   "options": [
+    "11%",
+    "50%",
+    "89%",
+    "99%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#bc84c5",
+   "kind": "statement",
+   "stem": "Why does alfentanil have a faster onset than fentanyl at equipotent doses?",
+   "answer": "Its lower pKa (6.5) leaves more of it unionised at pH 7.4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#3632c1",
+   "kind": "mcq",
+   "stem": "What is fentanyl's pKa?",
+   "options": [
+    "6.5",
+    "8.4",
+    "9.4",
+    "7.4"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#3632c1",
+   "kind": "mcq",
+   "stem": "What percentage of fentanyl is unionised at pH 7.4?",
+   "options": [
+    "2%",
+    "50%",
+    "75%",
+    "9%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#ecb817",
+   "kind": "statement",
+   "stem": "Why does alfentanil have a smaller volume of distribution than fentanyl?",
+   "answer": "Lower lipid solubility and high protein binding",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#a7ac9e",
+   "kind": "statement",
+   "stem": "What does alfentanil's liver metabolism produce?",
+   "answer": "Noralfentanil, by N-demethylation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/alfentanil#a7ac9e",
+   "kind": "statement",
+   "stem": "How are alfentanil's metabolites eliminated?",
+   "answer": "Conjugated and excreted in urine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

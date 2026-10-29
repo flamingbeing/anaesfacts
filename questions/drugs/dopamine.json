@@ -1,0 +1,357 @@
+{
+ "topic": "drugs/dopamine",
+ "questions": [
+  {
+   "fact_id": "drugs/dopamine#f83e33",
+   "kind": "statement",
+   "stem": "Which preservative is in the clear dopamine solution presentation?",
+   "answer": "Sodium metabisulfite",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#36a6ec",
+   "kind": "mcq",
+   "stem": "What is the commonly used dopamine ampoule strength?",
+   "options": [
+    "50 mg in 5 ml",
+    "100 mg in 5 ml",
+    "400 mg in 5 ml",
+    "200 mg in 5 ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#dd1895",
+   "kind": "mcq",
+   "stem": "What route should dopamine be given by?",
+   "options": [
+    "Intramuscular, into a large muscle",
+    "Oral or IV, depending on dose",
+    "Subcutaneous infusion only",
+    "IV only, preferably via a central vein"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#69e8db",
+   "kind": "mcq",
+   "stem": "What concentration results from diluting dopamine 200 mg in 50 ml NS?",
+   "options": [
+    "2 mg/ml",
+    "8 mg/ml",
+    "10 mg/ml",
+    "4 mg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#69e8db",
+   "kind": "blank",
+   "stem": "Dopamine 200 mg is diluted in 50 ml of ____.",
+   "answer": "NS",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#ecff9f",
+   "kind": "mcq",
+   "stem": "How soon does dopamine start to act (onset)?",
+   "options": [
+    "Within 1 minute",
+    "Within 30 minutes",
+    "Within 5 minutes",
+    "Within 60 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#ecff9f",
+   "kind": "mcq",
+   "stem": "How long does a dopamine effect last (duration)?",
+   "options": [
+    "2 minutes",
+    "1 hour",
+    "10 minutes",
+    "6 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#4bedec",
+   "kind": "mcq",
+   "stem": "What does dopamine need, as other inotropes do, to help limit tachycardia?",
+   "options": [
+    "Rapid bolus dosing",
+    "Beta blockade",
+    "Adequate preload",
+    "Fluid restriction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#2466fd",
+   "kind": "mcq",
+   "stem": "What is the usual dopamine infusion dose range?",
+   "options": [
+    "0.5-5 mcg/kg/min",
+    "20-50 mcg/kg/min",
+    "5-50 mcg/kg/min",
+    "2-20 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#0a5496",
+   "kind": "statement",
+   "stem": "Which receptor types does dopamine act on, depending on dose?",
+   "answer": "Alpha, beta and dopamine receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#e04ba8",
+   "kind": "mcq",
+   "stem": "What does dopamine's D1 receptor (Gs) action do to cAMP?",
+   "options": [
+    "Lowers cAMP",
+    "Raises cGMP",
+    "Raises cAMP",
+    "No effect on cAMP"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#32ee54",
+   "kind": "statement",
+   "stem": "In some brain cells and ganglion interneurones, what happens to dopamine instead of conversion to noradrenaline?",
+   "answer": "It is released as a neurotransmitter itself",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#a8b9be",
+   "kind": "mcq",
+   "stem": "At doses below 3 mcg/kg/min, which receptor types does dopamine act on in renal and splanchnic beds?",
+   "options": [
+    "Beta-1 receptors",
+    "Alpha-1 receptors",
+    "Dopamine receptors",
+    "Muscarinic receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#8beba7",
+   "kind": "mcq",
+   "stem": "At 3-10 mcg/kg/min, what is the main effect of dopamine on heart and periphery?",
+   "options": [
+    "Pure alpha vasoconstriction",
+    "Renal vasodilatation alone",
+    "Beta effects on heart and periphery",
+    "Alpha effects on pulmonary vessels"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#7c26be",
+   "kind": "mcq",
+   "stem": "What is the main vascular effect of dopamine above 10 mcg/kg/min?",
+   "options": [
+    "Renal and splanchnic vasodilatation",
+    "Beta-2 bronchodilation alone",
+    "Pure dopamine receptor vasodilation",
+    "Dose-dependent α activation in systemic and pulmonary vessels"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#f108d7",
+   "kind": "mcq",
+   "stem": "How does dopamine's arrhythmia risk compare with adrenaline's?",
+   "options": [
+    "More arrhythmogenic",
+    "Equally arrhythmogenic",
+    "Never arrhythmogenic",
+    "Less arrhythmogenic"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#1731c8",
+   "kind": "mcq",
+   "stem": "Which receptor mediates dopamine's mesenteric vasodilatation?",
+   "options": [
+    "D2",
+    "Alpha-1",
+    "D1",
+    "Beta-1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#3425dd",
+   "kind": "statement",
+   "stem": "Does dopamine cross into the central nervous system?",
+   "answer": "It does not cross the blood-brain barrier",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#660c6f",
+   "kind": "mcq",
+   "stem": "Through which site does dopamine cause nausea and vomiting?",
+   "options": [
+    "Vestibular nuclei",
+    "Chemoreceptor trigger zone",
+    "Hypothalamic feeding centre",
+    "Cerebellar flocculus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#660c6f",
+   "kind": "statement",
+   "stem": "What happens to gastric transit time with dopamine?",
+   "answer": "It increases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#ae84eb",
+   "kind": "mcq",
+   "stem": "What proportion of dopamine infusion patients develop sinus tachycardia or AF?",
+   "options": [
+    "10%",
+    "50%",
+    "75%",
+    "25%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#1e1d2e",
+   "kind": "mcq",
+   "stem": "What local complication can dopamine extravasation cause?",
+   "options": [
+    "Thrombophlebitis only",
+    "Bleeding",
+    "Tissue necrosis",
+    "Anaphylaxis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#329167",
+   "kind": "statement",
+   "stem": "Dopamine is direct acting. What happens to its effects during MAOI therapy?",
+   "answer": "Greater and longer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#cb46f1",
+   "kind": "mcq",
+   "stem": "For septic shock, which agent is favoured over dopamine?",
+   "options": [
+    "Dobutamine",
+    "Milrinone",
+    "Noradrenaline",
+    "Phenylephrine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#7131a1",
+   "kind": "mcq",
+   "stem": "Is low-dose dopamine recommended to treat acute renal failure?",
+   "options": [
+    "Yes, routinely",
+    "Yes, for oliguria",
+    "No, not recommended",
+    "Yes, as first-line therapy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#aae04e",
+   "kind": "statement",
+   "stem": "Which two enzymes metabolise dopamine in liver, kidney and plasma?",
+   "answer": "MAO and COMT",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#aae04e",
+   "kind": "statement",
+   "stem": "What does the abbreviation HVA stand for in dopamine metabolism?",
+   "answer": "Homovanillic acid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#c82f4e",
+   "kind": "mcq",
+   "stem": "What fraction of a dopamine dose becomes noradrenaline in sympathetic nerve terminals?",
+   "options": [
+    "About 5%",
+    "About 10%",
+    "About 50%",
+    "About 25%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/dopamine#a7deb8",
+   "kind": "mcq",
+   "stem": "What is the half-life of dopamine?",
+   "options": [
+    "About 30 seconds",
+    "About 30 minutes",
+    "About 3 hours",
+    "About 3 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

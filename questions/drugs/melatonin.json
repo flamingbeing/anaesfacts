@@ -1,0 +1,75 @@
+{
+ "topic": "drugs/melatonin",
+ "questions": [
+  {
+   "fact_id": "drugs/melatonin#0ef46d",
+   "kind": "mcq",
+   "stem": "Circadin is which form of melatonin?",
+   "options": [
+    "Immediate-release melatonin",
+    "Prolonged-release melatonin",
+    "Sustained-release temazepam",
+    "Short-acting zolpidem"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/melatonin#c147a9",
+   "kind": "mcq",
+   "stem": "Through which receptors is melatonin thought to promote sleep?",
+   "options": [
+    "GABA-A and 5-HT2A receptors",
+    "H1 and muscarinic receptors",
+    "MT1, MT2 and MT3 receptors",
+    "Mu and kappa opioid receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/melatonin#af40a4",
+   "kind": "mcq",
+   "stem": "What is the main adverse effect of melatonin (Circadin)?",
+   "options": [
+    "Diarrhoea",
+    "Hypokalaemia",
+    "Tremor",
+    "Drowsiness"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/melatonin#b7be1d",
+   "kind": "mcq",
+   "stem": "Which of these is an uncommon adverse effect of melatonin (Circadin)?",
+   "options": [
+    "Bradycardia",
+    "Dry mouth",
+    "Hypokalaemia",
+    "Tinnitus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/melatonin#2d1355",
+   "kind": "mcq",
+   "stem": "What is the licensed use of melatonin (Circadin)?",
+   "options": [
+    "Acute treatment of migraine with aura",
+    "Long-term adjunct for generalised anxiety disorder",
+    "Short-term monotherapy for primary insomnia with poor sleep quality",
+    "Long-term adjunct for chronic pain with low mood"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

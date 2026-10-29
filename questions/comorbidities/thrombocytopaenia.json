@@ -1,0 +1,113 @@
+{
+ "topic": "comorbidities/thrombocytopaenia",
+ "questions": [
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#408e58",
+   "kind": "mcq",
+   "stem": "What platelet count defines thrombocytopaenia in these notes?",
+   "options": [
+    "<100 x 10^9/L",
+    "<50 x 10^9/L",
+    "<150 x 10^9/L",
+    "<200 x 10^9/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#a2450c",
+   "kind": "mcq",
+   "stem": "In thrombocytopaenia, below what platelet count (x10^9/L) does spontaneous bleeding start to occur?",
+   "options": [
+    "<50-60",
+    "<100-120",
+    "<10-20",
+    "<150-160"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#54627f",
+   "kind": "statement",
+   "stem": "In thrombocytopaenia, at what platelet count is prophylactic transfusion advised?",
+   "answer": "<20k",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#a797b6",
+   "kind": "mcq",
+   "stem": "Which platelet count is advised before invasive lines or liver biopsy in thrombocytopaenia?",
+   "options": [
+    ">20k",
+    ">50k",
+    ">80k",
+    ">100k"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#ac080c",
+   "kind": "mcq",
+   "stem": "Which platelet count is advised before a lumbar puncture or epidural in thrombocytopaenia?",
+   "options": [
+    ">20k",
+    ">50k",
+    ">80k",
+    ">120k"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#0fd841",
+   "kind": "mcq",
+   "stem": "What platelet count is advised for active bleeding in thrombocytopaenia?",
+   "options": [
+    ">30k",
+    ">50k",
+    ">100k",
+    ">150k"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#6b2128",
+   "kind": "blank",
+   "stem": "In thrombocytopaenia, ongoing bleeding despite platelets >50 should raise suspicion of ____.",
+   "answer": "DIC",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#6b2128",
+   "kind": "statement",
+   "stem": "In thrombocytopaenia with suspected DIC and ongoing bleeding, which two products are given?",
+   "answer": "FFP and cryoprecipitate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/thrombocytopaenia#8397f7",
+   "kind": "mcq",
+   "stem": "In thrombocytopaenia with uraemia, haemophilia or von Willebrand disease, what is the DDAVP dose?",
+   "options": [
+    "0.1 mcg/kg IV over 30min",
+    "1 mcg/kg IV over 30min",
+    "0.3 mcg/kg IV over 10min",
+    "0.3 mcg/kg IV over 30min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "topic": "drugs/paediatric-paracetamol",
+ "questions": [
+  {
+   "fact_id": "drugs/paediatric-paracetamol#eae070",
+   "kind": "statement",
+   "stem": "How is rectal paracetamol absorption described in children?",
+   "answer": "Slow, with variable bioavailability depending on patient and preparation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#31dc5a",
+   "kind": "blank",
+   "stem": "Paracetamol plasma levels in children are often ____ even after 30 mg/kg.",
+   "answer": "subtherapeutic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#bba30c",
+   "kind": "mcq",
+   "stem": "If oral paracetamol is not possible in a child, which route is preferred over rectal?",
+   "options": [
+    "Intramuscular",
+    "Intravenous",
+    "Subcutaneous",
+    "Sublingual"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#de09c9",
+   "kind": "mcq",
+   "stem": "What is the oral paracetamol loading dose in a child?",
+   "options": [
+    "15 mg/kg",
+    "20 mg/kg",
+    "30 mg/kg",
+    "40 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#de09c9",
+   "kind": "mcq",
+   "stem": "What is the oral paracetamol maintenance dose and interval in a child?",
+   "options": [
+    "20 mg/kg 4-hourly",
+    "10 mg/kg 4-hourly",
+    "15 mg/kg 4-hourly",
+    "15 mg/kg 8-hourly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#265375",
+   "kind": "mcq",
+   "stem": "What is the IV paracetamol dose in children?",
+   "options": [
+    "15 mg/kg 4-hourly",
+    "15 mg/kg 6-hourly",
+    "20 mg/kg 6-hourly",
+    "40 mg/kg 6-hourly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#f41e51",
+   "kind": "mcq",
+   "stem": "What is the rectal paracetamol loading dose in a child?",
+   "options": [
+    "15 mg/kg",
+    "40 mg/kg",
+    "60 mg/kg",
+    "90 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#f41e51",
+   "kind": "mcq",
+   "stem": "What is the rectal paracetamol loading dose in a neonate?",
+   "options": [
+    "7.5 mg/kg",
+    "40 mg/kg",
+    "20 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#f2242c",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral or rectal paracetamol dose for a child over 3 months of age?",
+   "options": [
+    "60 mg/kg/day",
+    "90 mg/kg/day",
+    "120 mg/kg/day",
+    "45 mg/kg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#f2242c",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral or rectal paracetamol dose in adolescents?",
+   "options": [
+    "2 g/day",
+    "3 g/day",
+    "4 g/day",
+    "6 g/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#15926b",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral or rectal paracetamol dose for a neonate or infant up to 3 months?",
+   "options": [
+    "15 mg/kg/day",
+    "90 mg/kg/day",
+    "60 mg/kg/day",
+    "120 mg/kg/day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#e2cee9",
+   "kind": "mcq",
+   "stem": "What is the maximum daily IV paracetamol dose in children?",
+   "options": [
+    "90 mg/kg/day",
+    "60 mg/kg/day",
+    "15 mg/kg/day",
+    "4 g/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#5697e9",
+   "kind": "mcq",
+   "stem": "What is the paracetamol dose for a child under 1 month?",
+   "options": [
+    "10 mg/kg",
+    "15 mg/kg",
+    "20 mg/kg",
+    "7.5 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-paracetamol#ab1314",
+   "kind": "statement",
+   "stem": "What is the main paracetamol metabolic pathway in neonates?",
+   "answer": "Sulphation (not glucuronidation)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

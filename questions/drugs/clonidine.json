@@ -1,0 +1,267 @@
+{
+ "topic": "drugs/clonidine",
+ "questions": [
+  {
+   "fact_id": "drugs/clonidine#bf3bb4",
+   "kind": "mcq",
+   "stem": "What is the tablet strength range of clonidine?",
+   "options": [
+    "1–5 mg",
+    "50–600 mcg",
+    "25–300 mcg",
+    "0.1–0.5 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#9de106",
+   "kind": "mcq",
+   "stem": "What is the concentration of clonidine injection?",
+   "options": [
+    "15 mcg/ml",
+    "150 mcg/ml",
+    "15 mg/ml",
+    "1500 mcg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#d0e5e3",
+   "kind": "mcq",
+   "stem": "How long does a clonidine transdermal patch take to reach therapeutic levels?",
+   "options": [
+    "2 hours",
+    "12 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#66b1af",
+   "kind": "mcq",
+   "stem": "For what purpose is clonidine given intramuscularly?",
+   "options": [
+    "Premedication",
+    "Reversal of neuromuscular block",
+    "Induction of anaesthesia",
+    "Local infiltration"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#2ceb17",
+   "kind": "mcq",
+   "stem": "For what purpose is clonidine given intranasally?",
+   "options": [
+    "Induction of anaesthesia",
+    "Premedication",
+    "Postoperative nausea",
+    "Muscle relaxation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#225229",
+   "kind": "statement",
+   "stem": "Why is oral clonidine possible, unlike oral dexmedetomidine?",
+   "answer": "Its oral bioavailability is good",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#97de87",
+   "kind": "mcq",
+   "stem": "What is the duration of action of clonidine?",
+   "options": [
+    "4-6 hrs",
+    "1-2 hrs",
+    "12-18 hrs",
+    "24 hrs"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#90071c",
+   "kind": "blank",
+   "stem": "Clonidine given IV at 1 mcg/kg, repeated every ____",
+   "answer": "6-8 hours",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#bd33fe",
+   "kind": "mcq",
+   "stem": "What is the usual oral dose of clonidine?",
+   "options": [
+    "1 mcg/kg every 6-8 hours",
+    "5 mcg/kg every 24 hours",
+    "1 mg/kg every 6-8 hours",
+    "10 mcg/kg every 6-8 hours"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#50f22c",
+   "kind": "mcq",
+   "stem": "What should be done to clonidine dosing in renal impairment?",
+   "options": [
+    "Increase the dose",
+    "No change needed",
+    "Double the dose",
+    "Reduce the dose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#425b68",
+   "kind": "mcq",
+   "stem": "What is the alpha-2 to alpha-1 receptor affinity ratio of clonidine?",
+   "options": [
+    "200:1",
+    "2:1",
+    "1:200",
+    "20:1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#832e48",
+   "kind": "mcq",
+   "stem": "How do some studies describe clonidine's action at its receptors?",
+   "options": [
+    "Full agonist",
+    "Antagonist",
+    "Partial agonist",
+    "Inverse agonist"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#78115c",
+   "kind": "mcq",
+   "stem": "Besides analgesia, which effect does clonidine produce?",
+   "options": [
+    "Bronchodilation",
+    "Sedation",
+    "Mydriasis",
+    "Tachycardia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#d33922",
+   "kind": "mcq",
+   "stem": "Besides sedation, which effect does clonidine produce?",
+   "options": [
+    "Analgesia",
+    "Mydriasis",
+    "Bronchodilation",
+    "Tachycardia"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#e74abc",
+   "kind": "statement",
+   "stem": "Why does clonidine cause more hypertension than dexmedetomidine?",
+   "answer": "Lower alpha-2 selectivity, so more alpha-1 effects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#80d8f8",
+   "kind": "mcq",
+   "stem": "What is the oral bioavailability of clonidine?",
+   "options": [
+    "About 10%",
+    "Nearly 100%",
+    "About 50%",
+    "About 30%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#3c74f2",
+   "kind": "mcq",
+   "stem": "What is the protein binding of clonidine?",
+   "options": [
+    "5%",
+    "50%",
+    "20%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#3c74f2",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of clonidine?",
+   "options": [
+    "About 0.2 l/kg",
+    "About 20 l/kg",
+    "About 200 l/kg",
+    "About 2 l/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#55bfd5",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of clonidine?",
+   "options": [
+    "1 to 3 hours",
+    "9 to 18 hours",
+    "24 to 36 hours",
+    "3 to 5 days"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/clonidine#15595a",
+   "kind": "mcq",
+   "stem": "What percentage of clonidine is metabolised in the liver?",
+   "options": [
+    "About 10%",
+    "About 25%",
+    "About 90%",
+    "About 50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

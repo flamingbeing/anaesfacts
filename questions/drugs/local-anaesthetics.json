@@ -1,0 +1,481 @@
+{
+ "topic": "drugs/local-anaesthetics",
+ "questions": [
+  {
+   "fact_id": "drugs/local-anaesthetics#dcac81",
+   "kind": "statement",
+   "stem": "Name the three parts of a local anaesthetic molecule.",
+   "answer": "Lipophilic aromatic ring, intermediate ester or amide link, tertiary amine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#f69b40",
+   "kind": "statement",
+   "stem": "Into what two classes are local anaesthetics divided, according to their intermediate link?",
+   "answer": "Amides and esters",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#191cde",
+   "kind": "mcq",
+   "stem": "How long is the shelf-life of amide local anaesthetics?",
+   "options": [
+    "Up to 2 years",
+    "Up to 6 months",
+    "Up to 5 years",
+    "Up to 3 weeks"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#4009d9",
+   "kind": "mcq",
+   "stem": "How many mg/mL of local anaesthetic does a 0.25% solution contain?",
+   "options": [
+    "0.25mg/mL",
+    "25mg/mL",
+    "0.025mg/mL",
+    "2.5mg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#a76cb9",
+   "kind": "mcq",
+   "stem": "How many mg/mL of local anaesthetic does a 0.5% solution contain?",
+   "options": [
+    "10mg/mL",
+    "1mg/mL",
+    "5mg/mL",
+    "50mg/mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#76bb59",
+   "kind": "mcq",
+   "stem": "How many mg/mL of local anaesthetic does a 1% solution contain?",
+   "options": [
+    "1mg/mL",
+    "100mg/mL",
+    "20mg/mL",
+    "10mg/mL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#2bce3d",
+   "kind": "mcq",
+   "stem": "How many mg/mL of local anaesthetic does a 2% solution contain?",
+   "options": [
+    "2mg/mL",
+    "20mg/mL",
+    "200mg/mL",
+    "40mg/mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#5735f0",
+   "kind": "mcq",
+   "stem": "What is the adrenaline concentration of a 1:1,000 solution, in mg/mL?",
+   "options": [
+    "10mg/mL",
+    "0.5mg/mL",
+    "1mg/mL",
+    "5mg/mL"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#d536bc",
+   "kind": "mcq",
+   "stem": "What is the adrenaline concentration of a 1:1,000,000 solution, in mcg/mL?",
+   "options": [
+    "10mcg/mL",
+    "1mg/mL",
+    "100mcg/mL",
+    "1mcg/mL"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#6d0712",
+   "kind": "mcq",
+   "stem": "Which adrenaline strength is the commonest in regional anaesthesia?",
+   "options": [
+    "1:80,000",
+    "1:1,000",
+    "1:200,000",
+    "1:1,000,000"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#658148",
+   "kind": "mcq",
+   "stem": "Which adrenaline strength is used for peripheral nerves and skin?",
+   "options": [
+    "1:20,000",
+    "1:200,000",
+    "1:80,000",
+    "1:1,000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#b884c5",
+   "kind": "mcq",
+   "stem": "Which adrenaline strength do dentists use, in small volumes?",
+   "options": [
+    "1:200,000",
+    "1:80,000",
+    "1:20,000",
+    "1:1,000"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#abdc2b",
+   "kind": "mcq",
+   "stem": "What is the suggested maximum adrenaline dose with local anaesthetic, per kilogram?",
+   "options": [
+    "10mcg/kg",
+    "4mcg/kg",
+    "1mg/kg",
+    "20mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#50a6d0",
+   "kind": "mcq",
+   "stem": "Why are local anaesthetics made up as hydrochloride salts?",
+   "options": [
+    "To slow their onset",
+    "To prevent allergy",
+    "For water solubility",
+    "To lengthen their duration"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#a589b7",
+   "kind": "mcq",
+   "stem": "Which preservative do local anaesthetic preparations often contain?",
+   "options": [
+    "Sodium chloride",
+    "Sodium metabisulfite",
+    "Glucose",
+    "Sodium bicarbonate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#a589b7",
+   "kind": "mcq",
+   "stem": "Which preservative is in multi-dose local anaesthetic bottles at 1 mg/ml?",
+   "options": [
+    "Sodium chloride",
+    "Methyl parahydroxybenzoate",
+    "Glucose",
+    "Ethanol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#8b3d96",
+   "kind": "statement",
+   "stem": "Why must local anaesthetic used for subarachnoid block be additive-free?",
+   "answer": "Preservatives risk arachnoiditis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#8b3d96",
+   "kind": "mcq",
+   "stem": "Which additive is in heavy bupivacaine, the allowed exception for subarachnoid use?",
+   "options": [
+    "Glucose 80 mg/ml",
+    "Glucose 8 mg/ml",
+    "Sodium metabisulfite",
+    "Methyl parahydroxybenzoate"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#7ce58a",
+   "kind": "mcq",
+   "stem": "Which state of the sodium channel do local anaesthetics bind to preferentially?",
+   "options": [
+    "Resting state",
+    "Inactivated state",
+    "Refractory period",
+    "Hyperpolarised state"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#37e72d",
+   "kind": "mcq",
+   "stem": "Which form of a local anaesthetic crosses the cell membrane?",
+   "options": [
+    "Ionised, water-soluble form",
+    "Unionised, lipid-soluble form",
+    "Protonated, water-soluble form",
+    "Albumin-bound form"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#3843f8",
+   "kind": "statement",
+   "stem": "Why does no action potential form once enough sodium channels are blocked?",
+   "answer": "The membrane cannot reach threshold",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#528c76",
+   "kind": "mcq",
+   "stem": "In vitro, how does local anaesthetic channel block change as stimulation rate rises?",
+   "options": [
+    "Falls as the rate rises",
+    "Stays the same at any rate",
+    "Increases as the rate rises",
+    "Only appears at rest"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#0cd4ba",
+   "kind": "mcq",
+   "stem": "What pKa do local anaesthetic weak bases have, so that they are mostly ionised at neutral pH?",
+   "options": [
+    "Below 7.4",
+    "Above 7.4",
+    "Exactly 6.5",
+    "Exactly 2.1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#9bfa1d",
+   "kind": "mcq",
+   "stem": "What mainly determines local anaesthetic potency?",
+   "options": [
+    "Protein binding",
+    "Lipid solubility",
+    "pKa",
+    "Vasodilator activity"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#69c57c",
+   "kind": "statement",
+   "stem": "Why is bupivacaine used at 0.5% rather than 4% (40 mg/mL)?",
+   "answer": "It is more lipid soluble and potent than articaine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#2df4b2",
+   "kind": "mcq",
+   "stem": "What mainly determines how long a local anaesthetic lasts?",
+   "options": [
+    "Lipid solubility",
+    "Molecular weight",
+    "Protein binding",
+    "pKa"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#ec4505",
+   "kind": "mcq",
+   "stem": "What mainly determines how quickly a local anaesthetic acts (onset)?",
+   "options": [
+    "Protein binding",
+    "pKa",
+    "Adrenaline dose",
+    "Injection volume"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#7a79f6",
+   "kind": "mcq",
+   "stem": "How much 8.4% sodium bicarbonate is added to 10.0 mL of lidocaine 2%?",
+   "options": [
+    "0.1 mL",
+    "1.0 mL",
+    "5.0 mL",
+    "10.0 mL"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#7a79f6",
+   "kind": "mcq",
+   "stem": "What does adding 1.0 mL of 8.4% bicarbonate to 10.0 mL lidocaine 2% do to the pH?",
+   "options": [
+    "Rises from 6.5 to 7.2",
+    "Falls from 7.2 to 6.5",
+    "Rises from 7.2 to 8.4",
+    "Falls from 6.5 to 5.8"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#e611c9",
+   "kind": "mcq",
+   "stem": "Vasodilator activity varies between local anaesthetics; what does it affect?",
+   "options": [
+    "Onset",
+    "Duration",
+    "Colour of the solution",
+    "Shelf-life"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#cdc29c",
+   "kind": "mcq",
+   "stem": "How do local anaesthetics work in infected tissue?",
+   "options": [
+    "Poorly",
+    "Better than in normal tissue",
+    "Just as well as in normal tissue",
+    "Faster than in normal tissue"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#7dcd19",
+   "kind": "mcq",
+   "stem": "What amount of lidocaine injected into a carotid or vertebral artery can quickly cause CNS toxicity?",
+   "options": [
+    "Over 100 mg",
+    "Less than 10 mg",
+    "Over 1 g",
+    "Over 500 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#220535",
+   "kind": "statement",
+   "stem": "Which plasma protein binds local anaesthetics with high affinity?",
+   "answer": "α1-acid glycoprotein",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#6a6a60",
+   "kind": "mcq",
+   "stem": "How does cocaine cause vasoconstriction, unlike other local anaesthetics?",
+   "options": [
+    "Blocks neuronal acetylcholine release",
+    "Activates beta-2 receptors",
+    "Blocks neuronal catecholamine reuptake",
+    "Blocks the sodium-potassium pump"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#386324",
+   "kind": "statement",
+   "stem": "Name two uses of local infiltration with a local anaesthetic in anaesthesia.",
+   "answer": "IV cannula insertion; surgical infiltration of the incision",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#625bd7",
+   "kind": "mcq",
+   "stem": "Which two neuraxial techniques use local anaesthetics?",
+   "options": [
+    "Spinal and general",
+    "Spinal and epidural",
+    "Epidural and general",
+    "Intravenous regional and general"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/local-anaesthetics#2b5d82",
+   "kind": "mcq",
+   "stem": "Local anaesthetic is sometimes mixed with which intravenous drug?",
+   "options": [
+    "Propofol",
+    "Midazolam",
+    "Etomidate",
+    "Remifentanil"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

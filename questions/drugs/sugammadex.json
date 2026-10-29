@@ -1,0 +1,337 @@
+{
+ "topic": "drugs/sugammadex",
+ "questions": [
+  {
+   "fact_id": "drugs/sugammadex#51fd2e",
+   "kind": "mcq",
+   "stem": "Sugammadex is supplied as a solution of what concentration?",
+   "options": [
+    "50 mg/ml",
+    "100 mg/ml",
+    "10 mg/ml",
+    "200 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#2ab4b0",
+   "kind": "mcq",
+   "stem": "What is the shelf life of sugammadex?",
+   "options": [
+    "2 years",
+    "3 years",
+    "5 years",
+    "18 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#b9903c",
+   "kind": "mcq",
+   "stem": "How is sugammadex prepared for its IV route?",
+   "options": [
+    "Diluted in 0.9% saline first",
+    "Given undiluted",
+    "Mixed into a 1 litre infusion",
+    "Diluted 1 in 10 before bolus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#882e7d",
+   "kind": "statement",
+   "stem": "Sugammadex emergency reversal: why does it matter for rapid sequence induction?",
+   "answer": "It makes rocuronium a possible alternative to suxamethonium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#7e778b",
+   "kind": "mcq",
+   "stem": "Sugammadex dose for a moderate block (TOF count 2 visible)?",
+   "options": [
+    "0.5 mg/kg",
+    "4 mg/kg",
+    "2 mg/kg",
+    "8 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#a710f7",
+   "kind": "mcq",
+   "stem": "Sugammadex dose for a deep block (post-tetanic count 1-2)?",
+   "options": [
+    "2 mg/kg",
+    "8 mg/kg",
+    "1 mg/kg",
+    "4 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#dbf478",
+   "kind": "mcq",
+   "stem": "Sugammadex dose for immediate reversal of profound block after 1.2 mg/kg rocuronium?",
+   "options": [
+    "16 mg/kg",
+    "2 mg/kg",
+    "4 mg/kg",
+    "8 mg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#5fbc36",
+   "kind": "blank",
+   "stem": "Sugammadex is a selective relaxant binding agent that ____ aminosteroid non-depolarising blockers in plasma.",
+   "answer": "encapsulates",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#4a6234",
+   "kind": "statement",
+   "stem": "How does sugammadex clear aminosteroid blockers from the neuromuscular junction?",
+   "answer": "A concentration gradient draws the blocker from the junction into plasma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#966ff8",
+   "kind": "mcq",
+   "stem": "Unlike anticholinesterases, what is sugammadex's autonomic side effect profile?",
+   "options": [
+    "Predictable muscarinic side effects",
+    "No predictable autonomic side effects",
+    "Predictable nicotinic side effects",
+    "Predictable bradycardia in every patient"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#ee9c3c",
+   "kind": "mcq",
+   "stem": "Sugammadex is built on cyclodextrins. How many sugar units make up a gamma (γ) ring?",
+   "options": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#bfb0a6",
+   "kind": "statement",
+   "stem": "Which adverse effect of sugammadex is an ongoing FDA concern?",
+   "answer": "Hypersensitivity reactions",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#41d021",
+   "kind": "mcq",
+   "stem": "Sugammadex very rarely causes which serious cardiac effect?",
+   "options": [
+    "Severe tachycardia",
+    "Severe bradycardia",
+    "QT prolongation",
+    "Hypertensive crisis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#80e9d2",
+   "kind": "mcq",
+   "stem": "Which drug can displace rocuronium or vecuronium from sugammadex, delaying recovery to T4:T1 above 0.9?",
+   "options": [
+    "Ondansetron",
+    "Dexamethasone",
+    "Toremifene",
+    "Metoclopramide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#49a84e",
+   "kind": "mcq",
+   "stem": "Sugammadex binds progesterone: one bolus is equal to how many missed oral contraceptive pills?",
+   "options": [
+    "Half a missed pill",
+    "Two missed pills",
+    "One missed oral contraceptive pill",
+    "No missed pills"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#49a84e",
+   "kind": "statement",
+   "stem": "After sugammadex, what precaution applies to non-oral hormonal contraception?",
+   "answer": "Use extra contraception for 7 days",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#da1156",
+   "kind": "mcq",
+   "stem": "Sugammadex is contraindicated in severe renal impairment, defined as what eGFR?",
+   "options": [
+    "eGFR under 60",
+    "eGFR under 30",
+    "eGFR under 15",
+    "eGFR under 45"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#8bd7f4",
+   "kind": "statement",
+   "stem": "Why is sugammadex contraindicated in pregnancy?",
+   "answer": "It binds progesterone, which maintains pregnancy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#542031",
+   "kind": "mcq",
+   "stem": "Besides pregnancy, which state is a contraindication to sugammadex?",
+   "options": [
+    "Breastfeeding",
+    "Hypertension",
+    "Asthma",
+    "Type 2 diabetes"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#751745",
+   "kind": "statement",
+   "stem": "In a breastfeeding patient, what reversal does SOAP advise instead of sugammadex?",
+   "answer": "Anticholinesterase reversal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#751745",
+   "kind": "mcq",
+   "stem": "If sugammadex is used in a breastfeeding patient, for how long after surgery should milk be pumped and discarded?",
+   "options": [
+    "12-14 h",
+    "2-3 h",
+    "24-48 h",
+    "7 days"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#c8e887",
+   "kind": "mcq",
+   "stem": "From what age is sugammadex FDA approved, with adult-like dosing?",
+   "options": [
+    "From 1 year",
+    "From 2 years",
+    "From 5 years",
+    "From 12 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#dc5d0d",
+   "kind": "statement",
+   "stem": "Why is sugammadex use in children under 2 years considered off-label?",
+   "answer": "Immature neuromuscular junction with different receptor morphology",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#883fcc",
+   "kind": "statement",
+   "stem": "What is the only indication for sugammadex?",
+   "answer": "Reversal of rocuronium or vecuronium block",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#6f03b3",
+   "kind": "mcq",
+   "stem": "Which neuromuscular blocker does sugammadex bind only weakly?",
+   "options": [
+    "Rocuronium",
+    "Vecuronium",
+    "Pancuronium",
+    "Atracurium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#45b546",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of sugammadex?",
+   "options": [
+    "40-50 litres",
+    "1-2 litres",
+    "70 litres",
+    "11-14 litres"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#869df0",
+   "kind": "statement",
+   "stem": "How is sugammadex eliminated from the body?",
+   "answer": "Excreted only by the kidneys, not metabolised",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sugammadex#772c82",
+   "kind": "mcq",
+   "stem": "What is the effective half-life of sugammadex?",
+   "options": [
+    "25 minutes",
+    "12 hours",
+    "24 hours",
+    "2.5 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

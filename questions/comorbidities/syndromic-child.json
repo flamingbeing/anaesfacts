@@ -1,0 +1,563 @@
+{
+ "topic": "comorbidities/syndromic-child",
+ "questions": [
+  {
+   "fact_id": "comorbidities/syndromic-child#9145b7",
+   "kind": "mcq",
+   "stem": "In syndromic children, which syndrome group causes nasopharyngeal airway difficulty?",
+   "options": [
+    "Fetal alcohol syndrome",
+    "Klippel-Feil syndrome",
+    "Mucopolysaccharidoses",
+    "Velocardiofacial syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#0c9bd1",
+   "kind": "statement",
+   "stem": "Which syndromes cause macroglossia in children with difficult airways?",
+   "answer": "Trisomy 21, Beckwith-Wiedemann syndrome, mucopolysaccharidoses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#7d2ef6",
+   "kind": "statement",
+   "stem": "Which four syndromes involve the mandible and maxilla in paediatric difficult airway planning?",
+   "answer": "Pierre Robin sequence, Treacher Collins, Goldenhar, Apert",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#437f8a",
+   "kind": "mcq",
+   "stem": "Which syndrome causes pharyngeal and laryngeal airway difficulty in children?",
+   "options": [
+    "Pierre Robin sequence",
+    "Fetal alcohol syndrome",
+    "Trisomy 21",
+    "Treacher Collins syndrome"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#3dd800",
+   "kind": "statement",
+   "stem": "Which two syndromes cause tracheal airway difficulty in children?",
+   "answer": "Trisomy 21, mucopolysaccharidoses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#cb1fcc",
+   "kind": "statement",
+   "stem": "Which four syndromes affect the cervical spine in syndromic airway planning?",
+   "answer": "Trisomy 21, Klippel-Feil, Goldenhar, mucopolysaccharidoses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#3ff124",
+   "kind": "statement",
+   "stem": "What three features make up the triad of Pierre Robin sequence?",
+   "answer": "Micrognathia, glossoptosis, airway obstruction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#91a6c2",
+   "kind": "blank",
+   "stem": "In Pierre Robin sequence, cleft palate is common but not ____.",
+   "answer": "universal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#9e8354",
+   "kind": "mcq",
+   "stem": "In Pierre Robin sequence, what proportion of cases have an associated syndrome?",
+   "options": [
+    "Up to 10%",
+    "Up to 30%",
+    "Up to 60%",
+    "Up to 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#3aac4a",
+   "kind": "statement",
+   "stem": "Which syndromes most commonly accompany Pierre Robin sequence?",
+   "answer": "Stickler, velocardiofacial (22q 11.2 deletion), fetal alcohol syndrome, Treacher Collins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#568aba",
+   "kind": "mcq",
+   "stem": "How is mild airway obstruction in Pierre Robin sequence often relieved?",
+   "options": [
+    "Immediate tracheostomy",
+    "Sedative premedication",
+    "Prone position or jaw thrust",
+    "Early gastrostomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#aab904",
+   "kind": "mcq",
+   "stem": "How does airway difficulty in Pierre Robin sequence change as the child grows?",
+   "options": [
+    "Improves as the mandible grows",
+    "Gets harder as the mandible grows",
+    "Unchanged into adulthood",
+    "Worsens after the first year"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#c00973",
+   "kind": "statement",
+   "stem": "Which procedures are commonly done in Pierre Robin sequence?",
+   "answer": "DLB, TLA, mandibular distraction osteogenesis, tracheostomy, imaging, gastrostomy, Nissen fundoplication",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#44a4c9",
+   "kind": "statement",
+   "stem": "What are the main airway management problems in Pierre Robin sequence?",
+   "answer": "Airway obstruction, difficult intubation, difficult mask ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#d5600f",
+   "kind": "statement",
+   "stem": "In Pierre Robin sequence, what should be looked for to predict respiratory complications?",
+   "answer": "Obstructive sleep apnoea (OSA)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#15146e",
+   "kind": "statement",
+   "stem": "How should the airway in Pierre Robin sequence be planned?",
+   "answer": "As for a known paediatric difficult airway",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#396159",
+   "kind": "mcq",
+   "stem": "How is sedative premedication viewed in Pierre Robin sequence?",
+   "options": [
+    "Strongly recommended",
+    "Essential before induction",
+    "Relatively contraindicated",
+    "Routine for all children"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#e0494b",
+   "kind": "statement",
+   "stem": "In Pierre Robin sequence, what must be preserved during induction before the airway is secured?",
+   "answer": "Spontaneous ventilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#adbc38",
+   "kind": "statement",
+   "stem": "Which neurodevelopmental features occur in fetal alcohol syndrome?",
+   "answer": "Microcephaly, developmental delay, hyperactivity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#adbc38",
+   "kind": "mcq",
+   "stem": "Which heart defect is associated with fetal alcohol syndrome?",
+   "options": [
+    "Atrial septal defect",
+    "Ventricular septal defect",
+    "Patent ductus arteriosus",
+    "Coarctation of the aorta"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#80493d",
+   "kind": "mcq",
+   "stem": "What is the inheritance pattern of Treacher Collins syndrome?",
+   "options": [
+    "Autosomal recessive",
+    "X-linked recessive",
+    "Mitochondrial",
+    "Autosomal dominant"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#167eae",
+   "kind": "mcq",
+   "stem": "Which syndrome gives anaesthetic problems similar to Treacher Collins syndrome?",
+   "options": [
+    "Fetal alcohol syndrome",
+    "Nager syndrome",
+    "Beckwith-Wiedemann syndrome",
+    "Velocardiofacial syndrome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#adcec7",
+   "kind": "blank",
+   "stem": "In Treacher Collins syndrome, the mandible and ____ bones are hypoplastic.",
+   "answer": "zygomatic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#0348c0",
+   "kind": "mcq",
+   "stem": "Which hearing problem is common in Treacher Collins syndrome?",
+   "options": [
+    "Sensorineural deafness",
+    "Vestibular dysfunction",
+    "Conductive deafness",
+    "Olfactory loss"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#850ede",
+   "kind": "statement",
+   "stem": "Which palate and tongue features occur in Treacher Collins syndrome?",
+   "answer": "High-arched or cleft palate, macroglossia, dental malocclusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#6d54b8",
+   "kind": "statement",
+   "stem": "Which associated problems occur with Treacher Collins syndrome?",
+   "answer": "Congenital heart disease, intellectual disability, skeletal anomalies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#171116",
+   "kind": "mcq",
+   "stem": "Which airway problem is typical of Treacher Collins syndrome?",
+   "options": [
+    "Acute epiglottitis",
+    "Vocal cord paralysis",
+    "Chronic upper airway obstruction and apnoea",
+    "Subglottic stenosis only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#d802b2",
+   "kind": "mcq",
+   "stem": "How does mask ventilation in Treacher Collins syndrome compare with its appearance?",
+   "options": [
+    "Easier than appearance suggests",
+    "Always normal",
+    "Harder than appearance suggests",
+    "Only hard in infancy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#5cc3f3",
+   "kind": "mcq",
+   "stem": "How does airway difficulty in Treacher Collins syndrome change with age?",
+   "options": [
+    "Improves with age",
+    "Gets harder with age",
+    "Unchanged into adulthood",
+    "Resolves after puberty"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#7b39e2",
+   "kind": "mcq",
+   "stem": "Which drug type helps at induction in Treacher Collins syndrome?",
+   "options": [
+    "Sedative premedicant",
+    "Antisialogogue",
+    "Opioid infusion",
+    "Muscle relaxant"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#8440fe",
+   "kind": "statement",
+   "stem": "In Treacher Collins syndrome, how can an assistant help during inhalational induction?",
+   "answer": "Pull the mandible and tongue forward",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#1d2947",
+   "kind": "mcq",
+   "stem": "Which intubation technique is often needed in Treacher Collins syndrome?",
+   "options": [
+    "Standard direct laryngoscopy",
+    "Blind nasal intubation",
+    "Fibreoptic intubation",
+    "Surgical airway first"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#7f3ec3",
+   "kind": "mcq",
+   "stem": "Why is high dependency monitoring used after surgery in Treacher Collins syndrome?",
+   "options": [
+    "Routine cardiac arrhythmias",
+    "Frequent respiratory complications",
+    "Prolonged sedation only",
+    "Hypothermia control"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#3da49f",
+   "kind": "blank",
+   "stem": "In velocardiofacial syndrome, children may need ____ blood products.",
+   "answer": "irradiated",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#f3e7ce",
+   "kind": "mcq",
+   "stem": "Which is another name for Goldenhar syndrome?",
+   "options": [
+    "Treacher Collins syndrome",
+    "Hemifacial microsomia",
+    "Nager syndrome",
+    "Klippel-Feil syndrome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#26ece8",
+   "kind": "mcq",
+   "stem": "Which branchial arch structures are defective in Goldenhar syndrome?",
+   "options": [
+    "Third and fourth",
+    "First and second",
+    "Fifth and sixth",
+    "Fourth only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#bc706b",
+   "kind": "statement",
+   "stem": "Besides craniofacial features, which defects may occur in Goldenhar syndrome?",
+   "answer": "Cardiac, vertebral and CNS defects",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#31eed4",
+   "kind": "mcq",
+   "stem": "How is Goldenhar syndrome usually inherited?",
+   "options": [
+    "Usually X-linked recessive",
+    "Usually sporadic",
+    "Usually autosomal recessive",
+    "Usually mitochondrial"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#e43af0",
+   "kind": "blank",
+   "stem": "In Goldenhar syndrome, one-sided underdevelopment affects the malar bone, mandible and ____.",
+   "answer": "maxilla",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#396591",
+   "kind": "mcq",
+   "stem": "What percentage of Goldenhar syndrome cases have vertebral anomalies?",
+   "options": [
+    "15%",
+    "40%",
+    "60%",
+    "5%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#396591",
+   "kind": "statement",
+   "stem": "Which congenital heart defects are seen in Goldenhar syndrome?",
+   "answer": "VSD, TGA, tetralogy of Fallot",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#9454ed",
+   "kind": "mcq",
+   "stem": "Which hearing problem is common in Goldenhar syndrome?",
+   "options": [
+    "Bilateral profound deafness",
+    "No hearing loss usually",
+    "Bilateral conductive deafness only",
+    "One-sided deafness"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#bc5ecd",
+   "kind": "mcq",
+   "stem": "Which eyelid defect is common in Goldenhar syndrome?",
+   "options": [
+    "Ptosis of the lower lid",
+    "Absent eyelashes",
+    "Upper eyelid coloboma",
+    "Entropion of upper lid"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#1cd2a7",
+   "kind": "mcq",
+   "stem": "How consistent is low IQ in Goldenhar syndrome?",
+   "options": [
+    "Always present",
+    "Never present",
+    "Rare and mild",
+    "Often, not always, low IQ"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#c6de4a",
+   "kind": "mcq",
+   "stem": "How does facial asymmetry change with age in Goldenhar syndrome?",
+   "options": [
+    "May worsen with age",
+    "Always resolves by adolescence",
+    "Fixed from birth and never changes",
+    "Improves steadily with growth"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#194c72",
+   "kind": "statement",
+   "stem": "Which surgeries are used in Goldenhar syndrome?",
+   "answer": "Ear reconstruction, eye surgery, mandibular advancement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#e5cfcc",
+   "kind": "statement",
+   "stem": "How does airway difficulty in Goldenhar syndrome change with growth?",
+   "answer": "Gets harder as asymmetry increases",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#b6bbe2",
+   "kind": "statement",
+   "stem": "Why can face-mask ventilation be difficult in Goldenhar syndrome?",
+   "answer": "Asymmetry can make a face-mask seal difficult",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#b82b3a",
+   "kind": "mcq",
+   "stem": "Which side involvement makes intubation harder in Goldenhar syndrome?",
+   "options": [
+    "Left side involved",
+    "Midline involved",
+    "Right side involved",
+    "Neither side involved"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#b98e7b",
+   "kind": "statement",
+   "stem": "Which airway options are used in Goldenhar syndrome?",
+   "answer": "Fibreoptic intubation, retrograde intubation, tracheostomy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/syndromic-child#cde564",
+   "kind": "statement",
+   "stem": "What should be assessed before anaesthesia in Goldenhar syndrome?",
+   "answer": "Congenital heart disease and craniovertebral anomalies",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

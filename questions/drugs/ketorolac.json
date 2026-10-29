@@ -1,0 +1,107 @@
+{
+ "topic": "drugs/ketorolac",
+ "questions": [
+  {
+   "fact_id": "drugs/ketorolac#7a4954",
+   "kind": "mcq",
+   "stem": "Which routes can ketorolac be given by?",
+   "options": [
+    "Oral only",
+    "Intravenous only",
+    "Oral or parenteral (IV)",
+    "Intrathecal only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketorolac#c21023",
+   "kind": "mcq",
+   "stem": "What is the typical IV dose of ketorolac?",
+   "options": [
+    "15 mg",
+    "10 mg or 0.1 mg/kg up to 20 mg",
+    "30 mg, or 0.5 mg/kg up to 60 mg",
+    "1 mg/kg up to 120 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketorolac#c21023",
+   "kind": "blank",
+   "stem": "Ketorolac IV is typically 30 mg, or ____ mg/kg up to 60 mg.",
+   "answer": "0.5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketorolac#c5d85f",
+   "kind": "mcq",
+   "stem": "What type of COX inhibitor is ketorolac?",
+   "options": [
+    "Selective COX-2 inhibitor",
+    "Non-selective COX inhibitor",
+    "Selective COX-1 inhibitor",
+    "Selective COX-3 inhibitor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketorolac#f89ee6",
+   "kind": "statement",
+   "stem": "Which effect of ketorolac is described as potent?",
+   "answer": "Analgesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketorolac#1712c9",
+   "kind": "statement",
+   "stem": "Apart from analgesia, which effect of ketorolac is described as potent?",
+   "answer": "Antipyretic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketorolac#662b6e",
+   "kind": "mcq",
+   "stem": "How strong is ketorolac's anti-inflammatory action?",
+   "options": [
+    "Strong anti-inflammatory action",
+    "Marked anti-inflammatory action",
+    "Limited anti-inflammatory action",
+    "Absent anti-inflammatory action"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketorolac#3236e2",
+   "kind": "mcq",
+   "stem": "How long does ketorolac's action last?",
+   "options": [
+    "Up to 2 hours",
+    "Up to 12 hours",
+    "Up to 6 hours",
+    "Up to 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ketorolac#1c55d3",
+   "kind": "statement",
+   "stem": "How does ketorolac's side-effect profile compare with other NSAIDs?",
+   "answer": "The same as other NSAIDs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

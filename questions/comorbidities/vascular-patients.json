@@ -1,0 +1,217 @@
+{
+ "topic": "comorbidities/vascular-patients",
+ "questions": [
+  {
+   "fact_id": "comorbidities/vascular-patients#23ec84",
+   "kind": "statement",
+   "stem": "In vascular surgery patients, what should preoperative risk assessment draw on?",
+   "answer": "Risk calculator, functional status, biomarkers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#6147bc",
+   "kind": "statement",
+   "stem": "In a vascular patient with ischaemic heart disease, what should perioperative care aim to optimise?",
+   "answer": "Myocardial oxygen supply and demand",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#4799ba",
+   "kind": "statement",
+   "stem": "What three points guide anaesthetic management of a vascular patient with heart failure?",
+   "answer": "Haemodynamically stable induction, careful fluids, afterload reduction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#c10061",
+   "kind": "mcq",
+   "stem": "What share of deaths after noncardiac surgery are due to cardiovascular complications?",
+   "options": [
+    "5% to 10%",
+    "1% to 5%",
+    "25% to 50%",
+    "60% to 75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#f31a05",
+   "kind": "statement",
+   "stem": "Which anaesthetic events have circulatory effects during vascular surgery?",
+   "answer": "Anaesthetic drugs, intubation and IPPV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#d799d9",
+   "kind": "blank",
+   "stem": "In vascular surgery, cardiovascular stress comes from blood loss and ____.",
+   "answer": "fluid shifts",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#5df0ba",
+   "kind": "mcq",
+   "stem": "How are vascular surgery patients often described by age and fitness?",
+   "options": [
+    "Usually young and fit",
+    "Often elderly and frail",
+    "Mostly under thirty years",
+    "Typically paediatric"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#2ab3b3",
+   "kind": "mcq",
+   "stem": "How common is coronary artery disease in vascular surgery patients?",
+   "options": [
+    "Rarely present",
+    "Present in about half",
+    "Almost always present",
+    "Only in diabetics"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#4fe78c",
+   "kind": "blank",
+   "stem": "Vascular surgery patients more often have diabetes and ____.",
+   "answer": "hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#3f122c",
+   "kind": "blank",
+   "stem": "Vascular patients often smoke, and ____ is common.",
+   "answer": "COPD",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#f33b6a",
+   "kind": "mcq",
+   "stem": "Which organ dysfunction is common in vascular surgery patients?",
+   "options": [
+    "Hepatic failure",
+    "Thyroid disease",
+    "Cerebral oedema",
+    "Renal impairment"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#d3e478",
+   "kind": "blank",
+   "stem": "Common drugs in vascular patients include aspirin, beta-blockers, diuretics, heart failure drugs and ____.",
+   "answer": "insulin or oral hypoglycaemics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#c999d4",
+   "kind": "mcq",
+   "stem": "Which statement about anticoagulants in vascular surgery patients is correct?",
+   "options": [
+    "Never used in vascular surgery patients",
+    "Some already anticoagulated; others given them perioperatively",
+    "Only started after the operation finishes",
+    "Used only in patients with stents"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#9251f9",
+   "kind": "blank",
+   "stem": "In Lee's RCRI, ____ vascular surgery is a risk factor.",
+   "answer": "Suprainguinal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#951f99",
+   "kind": "mcq",
+   "stem": "What share of vascular operations happen out of hours?",
+   "options": [
+    "5% to 10%",
+    "60% to 70%",
+    "80% to 90%",
+    "30% to 40%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#4ad978",
+   "kind": "statement",
+   "stem": "Why look for previous anaesthetic records in vascular surgery patients?",
+   "answer": "Serial operations are common",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#a4c29f",
+   "kind": "statement",
+   "stem": "What is an example of a semi-urgent vascular surgery case?",
+   "answer": "Wound debridement for sepsis control",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#496556",
+   "kind": "statement",
+   "stem": "What should preoperative assessment do about cardiorespiratory disease in vascular patients?",
+   "answer": "Quantify it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#c741b4",
+   "kind": "statement",
+   "stem": "What should preoperative assessment look for in vascular patients?",
+   "answer": "Major cardiac risk factors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#606d0e",
+   "kind": "statement",
+   "stem": "Why measure non-invasive blood pressure in both arms of a vascular patient?",
+   "answer": "Arteriopathy can cause a difference between arms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#8082fb",
+   "kind": "statement",
+   "stem": "What outcomes can regional techniques reduce in vascular surgery?",
+   "answer": "Morbidity and mortality",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/vascular-patients#cb045d",
+   "kind": "statement",
+   "stem": "Which common vascular drugs preclude neuraxial and epidural techniques?",
+   "answer": "Clopidogrel (Plavix) or anticoagulants",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

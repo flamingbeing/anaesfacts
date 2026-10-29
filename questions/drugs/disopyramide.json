@@ -1,0 +1,215 @@
+{
+ "topic": "drugs/disopyramide",
+ "questions": [
+  {
+   "fact_id": "drugs/disopyramide#a9405b",
+   "kind": "mcq",
+   "stem": "What is the strength of the disopyramide solution presentation?",
+   "options": [
+    "1 mg/ml",
+    "5 mg/ml",
+    "20 mg/ml",
+    "10 mg/ml"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#84b3ef",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral dose of disopyramide?",
+   "options": [
+    "400 mg",
+    "600 mg",
+    "1200 mg",
+    "800 mg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#84b3ef",
+   "kind": "statement",
+   "stem": "How should the daily oral dose of disopyramide be given?",
+   "answer": "In divided doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#2110a2",
+   "kind": "mcq",
+   "stem": "What is the IV loading dose of disopyramide per kg body weight?",
+   "options": [
+    "1 mg/kg",
+    "5 mg/kg",
+    "2 mg/kg",
+    "10 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#2110a2",
+   "kind": "blank",
+   "stem": "Disopyramide IV loading (maximum 150 mg) is given over ____ minutes.",
+   "answer": "30",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#2110a2",
+   "kind": "mcq",
+   "stem": "What is the maximum daily dose of the disopyramide IV infusion?",
+   "options": [
+    "400 mg/day",
+    "600 mg/day",
+    "1000 mg/day",
+    "800 mg/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#0b068b",
+   "kind": "statement",
+   "stem": "What does disopyramide's sodium channel block do to phase 0 of the action potential?",
+   "answer": "Slows its rate of rise",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#172cf5",
+   "kind": "mcq",
+   "stem": "What does disopyramide do to the threshold potential?",
+   "options": [
+    "Lowers it",
+    "Abolishes it",
+    "Raises it",
+    "Leaves it unchanged"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#831a6b",
+   "kind": "mcq",
+   "stem": "What does disopyramide do to the refractory period?",
+   "options": [
+    "Shortens it",
+    "Leaves it unchanged",
+    "Lengthens it",
+    "Abolishes it"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#e94abd",
+   "kind": "mcq",
+   "stem": "Besides sodium channel block, what other action does disopyramide have?",
+   "options": [
+    "Alpha-adrenergic agonism",
+    "Dopamine receptor agonism",
+    "Anticholinergic",
+    "Serotonin receptor blockade"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#b6c83b",
+   "kind": "statement",
+   "stem": "Which category of disopyramide adverse effect rises with plasma level?",
+   "answer": "Cardiac",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#a694da",
+   "kind": "statement",
+   "stem": "Name the anticholinergic adverse effects of disopyramide.",
+   "answer": "Blurred vision, dry mouth, sometimes urinary retention",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#9715ea",
+   "kind": "mcq",
+   "stem": "Where does disopyramide sit in treatment of SVT and ventricular tachyarrhythmias?",
+   "options": [
+    "First line",
+    "Second line",
+    "Not used",
+    "Last resort only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#403a27",
+   "kind": "mcq",
+   "stem": "In AF or atrial flutter, which drugs should control ventricular rate before disopyramide?",
+   "options": [
+    "Flecainide or adenosine",
+    "Lidocaine or mexiletine",
+    "Beta blockers or verapamil",
+    "Phenytoin or procainamide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#2fd184",
+   "kind": "mcq",
+   "stem": "What is disopyramide's oral bioavailability?",
+   "options": [
+    "25%",
+    "50%",
+    "95%",
+    "75%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#7de014",
+   "kind": "statement",
+   "stem": "How is disopyramide mainly eliminated from the body?",
+   "answer": "Most excreted unchanged in urine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#ca7549",
+   "kind": "mcq",
+   "stem": "What is disopyramide's elimination half-life?",
+   "options": [
+    "About 1 hour",
+    "About 12 hours",
+    "About 5 hours",
+    "About 24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/disopyramide#ca7549",
+   "kind": "statement",
+   "stem": "How does renal or cardiac failure change disopyramide's half-life?",
+   "answer": "Much longer",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

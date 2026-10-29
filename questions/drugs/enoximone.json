@@ -1,0 +1,415 @@
+{
+ "topic": "drugs/enoximone",
+ "questions": [
+  {
+   "fact_id": "drugs/enoximone#1c692a",
+   "kind": "mcq",
+   "stem": "What is the concentration of enoximone IV solution?",
+   "options": [
+    "5 mg/ml",
+    "50 mg/ml",
+    "0.5 mg/ml",
+    "15 mg/ml"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#1c692a",
+   "kind": "mcq",
+   "stem": "What is the pH of enoximone IV solution?",
+   "options": [
+    "pH 2.5",
+    "pH 7.4",
+    "pH 12",
+    "pH 9.0"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#449a74",
+   "kind": "mcq",
+   "stem": "What vehicle is enoximone formulated in?",
+   "options": [
+    "Dimethyl sulfoxide alone",
+    "Glycerol and saline",
+    "Propylene glycol and ethanol",
+    "Polysorbate 80 and water"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#69451e",
+   "kind": "mcq",
+   "stem": "What storage temperature range does enoximone need?",
+   "options": [
+    "Between 20°C and 25°C",
+    "Between 5°C and 8°C",
+    "Below 0°C",
+    "Between 30°C and 40°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#ba76e2",
+   "kind": "statement",
+   "stem": "Why must enoximone be drawn into plastic rather than glass syringes?",
+   "answer": "Crystals form in glass",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#dcb9b4",
+   "kind": "mcq",
+   "stem": "How is enoximone given?",
+   "options": [
+    "Orally, with food",
+    "As an infusion",
+    "As a single intravenous bolus",
+    "Intramuscularly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#0bdc2d",
+   "kind": "mcq",
+   "stem": "How long can enoximone take to start acting?",
+   "options": [
+    "Up to 5 minutes",
+    "Up to 2 hours",
+    "Up to 30 minutes",
+    "Up to 60 seconds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#9b2088",
+   "kind": "mcq",
+   "stem": "What is the optional enoximone loading dose?",
+   "options": [
+    "0.05 mg/kg",
+    "1 mg/kg",
+    "0.5 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#9b2088",
+   "kind": "mcq",
+   "stem": "What is the maximum total enoximone loading dose?",
+   "options": [
+    "1.5 mg/kg",
+    "3 mg/kg",
+    "10 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#4622a3",
+   "kind": "mcq",
+   "stem": "What is the enoximone infusion dose range?",
+   "options": [
+    "0.5–6 mcg/kg/min",
+    "10–50 mcg/kg/min",
+    "1–2 mcg/kg/min",
+    "5–20 mcg/kg/min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#a33ee0",
+   "kind": "blank",
+   "stem": "In renal failure, for enoximone you should ____ the dose.",
+   "answer": "Reduce",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#8498be",
+   "kind": "statement",
+   "stem": "Which phosphodiesterase does enoximone selectively and competitively inhibit?",
+   "answer": "PDE-III",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#2e3527",
+   "kind": "statement",
+   "stem": "Which cyclic nucleotide's breakdown does enoximone block in heart and vascular smooth muscle?",
+   "answer": "cAMP (and possibly cGMP)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#fd9371",
+   "kind": "statement",
+   "stem": "In the myocardium, how does extra cAMP from enoximone produce positive inotropy?",
+   "answer": "Increases slow inward Ca2+ current, so more calcium is released from stores near contractile proteins",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#43201e",
+   "kind": "mcq",
+   "stem": "What mechanism causes enoximone's vasodilation in vascular smooth muscle?",
+   "options": [
+    "Enhances potassium efflux",
+    "Stimulates alpha-1 receptors",
+    "Interferes with calcium influx",
+    "Blocks beta-2 receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#05219a",
+   "kind": "mcq",
+   "stem": "What class of drug is enoximone, acting on heart and vessels?",
+   "options": [
+    "Vasopressor",
+    "Chronotrope",
+    "Antianginal",
+    "Inodilator"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#092cc8",
+   "kind": "mcq",
+   "stem": "In heart failure, by about how much does enoximone raise cardiac output?",
+   "options": [
+    "About 10%",
+    "About 30%",
+    "About 50%",
+    "About 80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#092cc8",
+   "kind": "mcq",
+   "stem": "In heart failure, by about how much do enoximone's end-diastolic filling pressures fall?",
+   "options": [
+    "About 10%",
+    "About 60%",
+    "About 35%",
+    "About 5%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#d9da81",
+   "kind": "statement",
+   "stem": "What happens to the myocardial oxygen extraction ratio with enoximone?",
+   "answer": "Unchanged, as wall tension falls and coronary perfusion improves",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#7446fd",
+   "kind": "mcq",
+   "stem": "What happens to blood pressure with enoximone?",
+   "options": [
+    "Rises markedly",
+    "Unchanged or falls",
+    "Doubles",
+    "Halves"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#089e1d",
+   "kind": "mcq",
+   "stem": "How does enoximone affect heart rate?",
+   "options": [
+    "Falls markedly",
+    "Rises markedly",
+    "Unchanged or rises slightly",
+    "Doubles"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#97a6c6",
+   "kind": "mcq",
+   "stem": "What effect does enoximone have on atrial and ventricular refractoriness?",
+   "options": [
+    "Lengthens refractoriness",
+    "Shortens refractoriness",
+    "Abolishes refractoriness",
+    "No effect on refractoriness"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#85bf07",
+   "kind": "statement",
+   "stem": "Why can enoximone be risky in ischaemic heart disease?",
+   "answer": "Lower coronary perfusion pressure and faster heart rate can cause ischaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#007035",
+   "kind": "statement",
+   "stem": "Besides abnormal liver tests, what blood abnormality can enoximone cause?",
+   "answer": "Thrombocytopenia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#24d2cc",
+   "kind": "mcq",
+   "stem": "Which blood disorder has been reported with enoximone?",
+   "options": [
+    "Polycythaemia",
+    "Agranulocytosis",
+    "Haemophilia",
+    "Macrocytic anaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#c21215",
+   "kind": "statement",
+   "stem": "How would you describe enoximone's therapeutic ratio?",
+   "answer": "Wide, with low toxicity risk",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#9238ec",
+   "kind": "mcq",
+   "stem": "What is enoximone's main indication?",
+   "options": [
+    "Atrial fibrillation",
+    "Septic shock",
+    "Congestive heart failure",
+    "Asthma"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#66a280",
+   "kind": "mcq",
+   "stem": "Enoximone is also indicated for which condition?",
+   "options": [
+    "Septic shock",
+    "Low cardiac output states after cardiac surgery",
+    "Acute asthma",
+    "Post-operative ileus"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#96719c",
+   "kind": "statement",
+   "stem": "Why is enoximone ineffective when given by mouth?",
+   "answer": "Extensive first-pass metabolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#578ca9",
+   "kind": "mcq",
+   "stem": "What percentage of enoximone is protein bound?",
+   "options": [
+    "About 20%",
+    "About 70%",
+    "About 40%",
+    "About 95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#aabaee",
+   "kind": "mcq",
+   "stem": "What active compound does enoximone become after hepatic metabolism?",
+   "options": [
+    "An inactive glucuronide",
+    "A renally excreted active sulfoxide",
+    "An inactive hydroxylated oxide",
+    "A biliary conjugate"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#aabaee",
+   "kind": "mcq",
+   "stem": "How much of the parent drug's activity does enoximone's sulfoxide metabolite retain?",
+   "options": [
+    "50%",
+    "25%",
+    "10%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#cdb050",
+   "kind": "statement",
+   "stem": "What proportion of enoximone is excreted unchanged in urine?",
+   "answer": "Little",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/enoximone#ed3dd9",
+   "kind": "mcq",
+   "stem": "What is enoximone's terminal half-life by infusion?",
+   "options": [
+    "4.5 minutes",
+    "45 minutes",
+    "2.5 hours",
+    "4.5 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

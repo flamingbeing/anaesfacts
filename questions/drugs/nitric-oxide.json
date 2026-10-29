@@ -1,0 +1,651 @@
+{
+ "topic": "drugs/nitric-oxide",
+ "questions": [
+  {
+   "fact_id": "drugs/nitric-oxide#a0dfb0",
+   "kind": "mcq",
+   "stem": "Besides being made by the body, where can nitric oxide be found as a contaminant?",
+   "options": [
+    "Oxygen cylinders",
+    "Medical air cylinders",
+    "Nitrous oxide cylinders",
+    "Carbon dioxide cylinders"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#2c20df",
+   "kind": "mcq",
+   "stem": "How is nitric oxide made industrially?",
+   "options": [
+    "By fermentation of glucose",
+    "As a by-product of nitric acid synthesis",
+    "By electrolysis of brine",
+    "By distillation of liquid air"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#306d61",
+   "kind": "mcq",
+   "stem": "By which route is nitric oxide given as treatment?",
+   "options": [
+    "Intravenous infusion",
+    "Sublingual",
+    "Subcutaneous injection",
+    "Inhaled"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#cfcc5e",
+   "kind": "statement",
+   "stem": "What harms can follow abruptly stopping inhaled nitric oxide?",
+   "answer": "Acute pulmonary hypertension, haemodynamic collapse and worse oxygenation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#ff9d72",
+   "kind": "mcq",
+   "stem": "When weaning inhaled nitric oxide, how often at least should the dose be reduced?",
+   "options": [
+    "Every 24 hours",
+    "Every 12 hours",
+    "Every 48 hours",
+    "Every 72 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#ff9d72",
+   "kind": "mcq",
+   "stem": "What low dose of inhaled nitric oxide is used during weaning?",
+   "options": [
+    "20 ppm",
+    "40 ppm",
+    "5 ppm",
+    "80 ppm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#889a8e",
+   "kind": "blank",
+   "stem": "When monitoring inhaled nitric oxide, check methaemoglobin at baseline, at 4–6 hours after starting, then ____.",
+   "answer": "daily",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#889a8e",
+   "kind": "mcq",
+   "stem": "At what methaemoglobin level should inhaled nitric oxide be lowered?",
+   "options": [
+    "More than 1%",
+    "More than 2%",
+    "More than 10%",
+    "More than 5%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#e5abeb",
+   "kind": "mcq",
+   "stem": "At what nitrogen dioxide level should inhaled nitric oxide be reduced?",
+   "options": [
+    "More than 5 ppm",
+    "More than 1 ppm",
+    "More than 2 ppm",
+    "More than 10 ppm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#579851",
+   "kind": "mcq",
+   "stem": "Which investigation is not possible in a patient on inhaled nitric oxide?",
+   "options": [
+    "CT head scan",
+    "Chest X-ray",
+    "MRI scanning",
+    "Echocardiography"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#9e6c36",
+   "kind": "mcq",
+   "stem": "What starting inhaled nitric oxide dose is used in adults with pulmonary hypertension during cardiac surgery?",
+   "options": [
+    "5 ppm",
+    "10 ppm",
+    "20 ppm",
+    "80 ppm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#9e6c36",
+   "kind": "mcq",
+   "stem": "What is the maximum inhaled nitric oxide dose in adults with pulmonary hypertension during cardiac surgery?",
+   "options": [
+    "30 ppm",
+    "80 ppm",
+    "40 ppm",
+    "60 ppm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#719676",
+   "kind": "mcq",
+   "stem": "What starting inhaled nitric oxide dose is used in ARDS?",
+   "options": [
+    "20 ppm",
+    "5 ppm",
+    "40 ppm",
+    "80 ppm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#719676",
+   "kind": "blank",
+   "stem": "In ARDS, inhaled nitric oxide is increased to ____ ppm.",
+   "answer": "10–20",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#990ce5",
+   "kind": "mcq",
+   "stem": "What is the minimum wait between inhaled nitric oxide dose changes?",
+   "options": [
+    "No more than 1 minute",
+    "Within 2 minutes",
+    "At least 10 min",
+    "Only after 4 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#a56b12",
+   "kind": "statement",
+   "stem": "What two toxicities do higher inhaled nitric oxide doses risk?",
+   "answer": "Methaemoglobinaemia (more than 5%) and nitrogen dioxide toxicity (more than 1 ppm)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#d76998",
+   "kind": "mcq",
+   "stem": "What dose ceiling is advised for long-term inhaled nitric oxide use?",
+   "options": [
+    "20 ppm or less",
+    "40 ppm or less",
+    "10 ppm or less",
+    "60 ppm or less"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#6e809b",
+   "kind": "mcq",
+   "stem": "Why does nitric oxide have a half-life of only a few seconds?",
+   "options": [
+    "Rapidly excreted by the kidneys",
+    "Broken down by plasma esterases",
+    "Stored in fatty tissue",
+    "It reacts quickly with superoxide anion"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#3ed86d",
+   "kind": "mcq",
+   "stem": "Besides haemoglobin, which enzyme does nitric oxide bind avidly through its haem?",
+   "options": [
+    "Acetylcholinesterase",
+    "Adenylyl cyclase",
+    "Guanylyl cyclase",
+    "Lactate dehydrogenase"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#6ca08f",
+   "kind": "statement",
+   "stem": "Nitric oxide diffuses freely across membranes; its short half-life suits which signalling type?",
+   "answer": "Paracrine and autocrine signalling",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#57db48",
+   "kind": "mcq",
+   "stem": "What does nitric oxide activate in vascular smooth muscle to make cGMP?",
+   "options": [
+    "Adenylyl cyclase",
+    "Guanylyl cyclase",
+    "Phospholipase C",
+    "Protein kinase A"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#5d79ae",
+   "kind": "mcq",
+   "stem": "Which enzyme breaks down cGMP in vascular smooth muscle?",
+   "options": [
+    "Guanylyl cyclase",
+    "Nitric oxide synthase",
+    "Superoxide dismutase",
+    "PDE5"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#27a1fd",
+   "kind": "mcq",
+   "stem": "Which drug class boosts nitric oxide vasodilation in erectile tissue, such as sildenafil?",
+   "options": [
+    "ACE inhibitors",
+    "PDE5 inhibitors",
+    "Beta blockers",
+    "NOS inhibitors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#433eb1",
+   "kind": "mcq",
+   "stem": "What does cGMP do to platelets?",
+   "options": [
+    "Promotes platelet aggregation",
+    "Enhances platelet adhesion to collagen",
+    "Inhibits platelet aggregation",
+    "Activates thromboxane synthesis"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#a936fa",
+   "kind": "mcq",
+   "stem": "What is nitric oxide made from by nitric oxide synthase?",
+   "options": [
+    "Glucose via glycolysis",
+    "Cysteine by cystathionase",
+    "A terminal guanidino nitrogen of L-arginine",
+    "Urea cycle intermediates"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#34eba9",
+   "kind": "statement",
+   "stem": "Name four co-factors that nitric oxide synthase needs.",
+   "answer": "Oxygen, NADPH, tetrahydrobiopterin, flavin adenine nucleotides",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#fb22f1",
+   "kind": "mcq",
+   "stem": "How many isozymes of nitric oxide synthase are there?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#2dfe1c",
+   "kind": "blank",
+   "stem": "Constitutive nitric oxide synthase (also called eNOS) is type ____.",
+   "answer": "III",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#9a855e",
+   "kind": "blank",
+   "stem": "Inducible nitric oxide synthase (iNOS) is type ____.",
+   "answer": "II",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#a30a0a",
+   "kind": "blank",
+   "stem": "Neural nitric oxide synthase (nNOS) is type ____.",
+   "answer": "I",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#41ba30",
+   "kind": "mcq",
+   "stem": "Which muscarinic receptor on endothelium stimulates constitutive nitric oxide synthase?",
+   "options": [
+    "M1 muscarinic receptor",
+    "M2 muscarinic receptor",
+    "M3 muscarinic receptor",
+    "M4 muscarinic receptor"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#1236c9",
+   "kind": "mcq",
+   "stem": "How much more nitric oxide can inducible NOS make than constitutive NOS?",
+   "options": [
+    "Up to 10-fold",
+    "Up to 100-fold",
+    "Up to 500-fold",
+    "Up to 1,000-fold"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#ec07f0",
+   "kind": "mcq",
+   "stem": "What is the effect of inhaled nitric oxide on the pulmonary circulation?",
+   "options": [
+    "Systemic vasoconstriction",
+    "Selective pulmonary vasodilation",
+    "Increased pulmonary vascular resistance",
+    "Generalised vasodilation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#38306d",
+   "kind": "statement",
+   "stem": "Why might nitric oxide be harmful in severe left ventricular failure?",
+   "answer": "Higher left atrial pressure and preload may overwhelm the failing LV",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#4522b5",
+   "kind": "statement",
+   "stem": "What adverse effect follows abrupt withdrawal of inhaled nitric oxide?",
+   "answer": "Rebound pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#63fbdc",
+   "kind": "mcq",
+   "stem": "Inhaled nitric oxide can cause which blood disorder via oxidised haemoglobin?",
+   "options": [
+    "Polycythaemia",
+    "Methaemoglobinaemia",
+    "Thrombocytosis",
+    "Leucopenia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#7fdc68",
+   "kind": "statement",
+   "stem": "Inhaled nitric oxide can cause toxicity from which gas?",
+   "answer": "Nitrogen dioxide (NO2)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#d9e309",
+   "kind": "mcq",
+   "stem": "What does nitric oxide oxidise with oxygen to form, causing lung injury?",
+   "options": [
+    "Nitrous oxide",
+    "Ammonia",
+    "Nitrogen dioxide",
+    "Hydrogen peroxide"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#7750dd",
+   "kind": "mcq",
+   "stem": "With nitric oxide, no extra nitrogen dioxide risk was found over days at which doses?",
+   "options": [
+    "Above 80 ppm",
+    "Below 80 ppm",
+    "Above 40 ppm",
+    "Above 20 ppm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#55e81d",
+   "kind": "statement",
+   "stem": "Inhaled nitric oxide may increase bleeding risk by causing which disorder?",
+   "answer": "Coagulopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#dcdcbb",
+   "kind": "mcq",
+   "stem": "In ARDS, what did the 2016 Cochrane review find about inhaled nitric oxide and the kidneys?",
+   "options": [
+    "Lower risk of renal impairment",
+    "Higher risk of renal impairment",
+    "No change in renal function",
+    "Improved urine output"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#7e69ae",
+   "kind": "statement",
+   "stem": "Which NO donors may interact with inhaled nitric oxide? Name three.",
+   "answer": "Local anaesthetics, nitroprusside, glyceryl trinitrate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#939ba9",
+   "kind": "mcq",
+   "stem": "Inhaled nitric oxide is contraindicated in which enzyme deficiency?",
+   "options": [
+    "Pseudocholinesterase deficiency",
+    "Lactase deficiency",
+    "Methaemoglobin reductase deficiency",
+    "Alpha-1 antitrypsin deficiency"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#d099a4",
+   "kind": "mcq",
+   "stem": "Which adult condition is an indication for inhaled nitric oxide, including in cardiac surgery?",
+   "options": [
+    "Septic shock",
+    "Acute kidney injury",
+    "Hypertrophic cardiomyopathy",
+    "Pulmonary hypertension"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#c3ecc8",
+   "kind": "mcq",
+   "stem": "Which patient group has established use of inhaled nitric oxide for persistent pulmonary hypertension?",
+   "options": [
+    "Elderly adults",
+    "Adolescents",
+    "Neonates",
+    "Pregnant women"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#25db2d",
+   "kind": "mcq",
+   "stem": "Inhaled nitric oxide is indicated in which cardiac condition?",
+   "options": [
+    "Atrial fibrillation",
+    "Aortic stenosis",
+    "Left ventricular systolic failure",
+    "Right heart failure"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#cfe9b1",
+   "kind": "mcq",
+   "stem": "Inhaled nitric oxide is used as salvage therapy in which lung condition?",
+   "options": [
+    "Severe ARDS",
+    "Mild asthma",
+    "COPD exacerbation",
+    "Pneumothorax"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#cfe9b1",
+   "kind": "mcq",
+   "stem": "What PF ratio defines severe ARDS for nitric oxide salvage?",
+   "options": [
+    "Between 200 and 300",
+    "More than 300",
+    "More than 100",
+    "Less than 100"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#bbaa2c",
+   "kind": "mcq",
+   "stem": "What did the 2016 Cochrane review find about PF ratio with inhaled nitric oxide in ARDS?",
+   "options": [
+    "Improved sustained to 72 hours",
+    "Improved at 48 hours",
+    "Improved transiently at 24 h",
+    "No change at any time"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#f8b726",
+   "kind": "blank",
+   "stem": "During haemolysis, plasma nitric oxide is ____.",
+   "answer": "consumed",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#82e9ab",
+   "kind": "blank",
+   "stem": "Nitric oxide is highly ____ soluble, so it diffuses freely across cell membranes.",
+   "answer": "lipid",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#146461",
+   "kind": "mcq",
+   "stem": "What does nitric oxide rapidly convert to in the presence of oxygen?",
+   "options": [
+    "Nitrous oxide and water",
+    "Ammonia and oxygen",
+    "Nitrates and nitrites",
+    "Carbon dioxide and water"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/nitric-oxide#7b18f9",
+   "kind": "mcq",
+   "stem": "What does nitric oxide react with to form methaemoglobin?",
+   "options": [
+    "Carboxyhaemoglobin",
+    "Albumin",
+    "Oxidised haemoglobin",
+    "Plasma fibrinogen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

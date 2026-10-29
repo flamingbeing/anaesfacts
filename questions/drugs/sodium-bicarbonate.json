@@ -1,0 +1,225 @@
+{
+ "topic": "drugs/sodium-bicarbonate",
+ "questions": [
+  {
+   "fact_id": "drugs/sodium-bicarbonate#121d53",
+   "kind": "mcq",
+   "stem": "Sodium bicarbonate 8.4%: how much bicarbonate is in each mL?",
+   "options": [
+    "0.5 mmol",
+    "1 mmol",
+    "2 mmol",
+    "0.1 mmol"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#121d53",
+   "kind": "mcq",
+   "stem": "Sodium bicarbonate 8.4%: what is its approximate osmolality?",
+   "options": [
+    "280 mOsm/kg",
+    "1,000 mOsm/kg",
+    "5,000 mOsm/kg",
+    "2,000 mOsm/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#1f5932",
+   "kind": "mcq",
+   "stem": "Isotonic bicarbonate is made by adding 150 mEq of sodium bicarbonate to what fluid?",
+   "options": [
+    "1 litre of 0.9% saline",
+    "1 litre of sterile water",
+    "500 ml of 5% dextrose (D5W)",
+    "1 litre of 5% dextrose (D5W)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#f14a57",
+   "kind": "statement",
+   "stem": "Sodium bicarbonate 8.4%: what alternative mix gives an isotonic bicarbonate solution?",
+   "answer": "75 ml of 8.4% in 500 ml D5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#4ab29c",
+   "kind": "blank",
+   "stem": "Bicarbonate can only be given as the ____ salt.",
+   "answer": "sodium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#c5305a",
+   "kind": "mcq",
+   "stem": "Sodium bicarbonate IV bolus dose in cardiac arrest?",
+   "options": [
+    "1-2 mmol/kg",
+    "0.1-0.2 mmol/kg",
+    "5-10 mmol/kg",
+    "10-20 mmol/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#50e87a",
+   "kind": "blank",
+   "stem": "Bicarbonate needed (mEq) for acidosis = 0.2 x weight (kg) x ____.",
+   "answer": "base deficit",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#0be5bf",
+   "kind": "mcq",
+   "stem": "Half correction of metabolic acidosis with bicarbonate: which multiplier of base deficit times weight gives mmol?",
+   "options": [
+    "0.6",
+    "0.2",
+    "0.5",
+    "0.3"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#190edf",
+   "kind": "blank",
+   "stem": "Full correction of acidosis with bicarbonate (mmol) = ____ x base deficit (mmol/L) x weight (kg).",
+   "answer": "0.6",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#ed2199",
+   "kind": "mcq",
+   "stem": "Sodium bicarbonate dose from serum HCO3 level: which multiplier of weight in kg is used?",
+   "options": [
+    "0.2",
+    "0.3",
+    "0.5",
+    "0.6"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#d6705e",
+   "kind": "statement",
+   "stem": "Why must ventilation be adequate when giving sodium bicarbonate?",
+   "answer": "To clear the CO2 produced",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#861ef7",
+   "kind": "statement",
+   "stem": "Sodium bicarbonate buffers hydrogen ions: what is the intended benefit?",
+   "answer": "Reverse the harmful cardiovascular effects of acidaemia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#d0c5a0",
+   "kind": "mcq",
+   "stem": "Sodium bicarbonate causing hypernatraemia: how much sodium is given per mmol of bicarbonate?",
+   "options": [
+    "1 mmol Na+ per 2 mmol HCO3-",
+    "1 mmol Na+ per 1 mmol HCO3-",
+    "2 mmol Na+ per 1 mmol HCO3-",
+    "0.5 mmol Na+ per 1 mmol HCO3-"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#2c70b5",
+   "kind": "statement",
+   "stem": "Sodium bicarbonate produces CO2: why does this worsen acidosis inside cells?",
+   "answer": "CO2 enters cells easily",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#678825",
+   "kind": "mcq",
+   "stem": "How does sodium bicarbonate affect the oxyhaemoglobin curve?",
+   "options": [
+    "Right shift, better oxygen unloading",
+    "No change in curve position",
+    "Left shift, better oxygen unloading",
+    "Left shift, impaired oxygen unloading"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#a57a84",
+   "kind": "statement",
+   "stem": "What serious local harm can sodium bicarbonate cause if it leaks outside the vein?",
+   "answer": "Severe tissue necrosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#a5f5c2",
+   "kind": "mcq",
+   "stem": "In which type of acidosis is sodium bicarbonate not useful?",
+   "options": [
+    "Normal anion gap acidosis from bicarbonate loss",
+    "High anion gap acidosis (lactic or ketoacidosis)",
+    "Respiratory acidosis from hypoventilation",
+    "Acute metabolic alkalosis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#2c1ac1",
+   "kind": "statement",
+   "stem": "Which condition should be corrected first before giving sodium bicarbonate?",
+   "answer": "Hypoxia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#079ff6",
+   "kind": "statement",
+   "stem": "In general, what is preferred over giving sodium bicarbonate?",
+   "answer": "Treat the cause and support the patient",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sodium-bicarbonate#48adc2",
+   "kind": "mcq",
+   "stem": "Sodium bicarbonate in diabetic ketoacidosis: very rarely, when is it considered?",
+   "options": [
+    "Routine use at any pH below 7.0",
+    "pH below 7.2 on arrival",
+    "Shock with pH below 6.8",
+    "Any ketone level above 3 mmol/L"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

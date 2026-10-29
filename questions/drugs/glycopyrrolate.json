@@ -1,0 +1,175 @@
+{
+ "topic": "drugs/glycopyrrolate",
+ "questions": [
+  {
+   "fact_id": "drugs/glycopyrrolate#9489c3",
+   "kind": "mcq",
+   "stem": "What is the concentration of the glycopyrrolate ampoule?",
+   "options": [
+    "0.6 mg/ml",
+    "0.2 mg/ml",
+    "1 mg/ml",
+    "0.05 mg/ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#b7c5f1",
+   "kind": "mcq",
+   "stem": "What is the usual glycopyrrolate dose given with 2.5 mg neostigmine?",
+   "options": [
+    "0.2 mg",
+    "0.8 mg",
+    "0.4 mg",
+    "1 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#b76541",
+   "kind": "mcq",
+   "stem": "What is the weight-based dose of glycopyrrolate?",
+   "options": [
+    "0.1 mg/kg",
+    "0.01 mg/kg",
+    "0.001 mg/kg",
+    "0.05 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#aecf5f",
+   "kind": "mcq",
+   "stem": "What is the onset of glycopyrrolate action?",
+   "options": [
+    "10 minutes",
+    "1 minute",
+    "30 minutes",
+    "5 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#aecf5f",
+   "kind": "mcq",
+   "stem": "How long does a glycopyrrolate dose last?",
+   "options": [
+    "6–8 hours",
+    "30–60 minutes",
+    "12–24 hours",
+    "2–4 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#28b88c",
+   "kind": "mcq",
+   "stem": "How does glycopyrrolate act at muscarinic acetylcholine receptors?",
+   "options": [
+    "Competitive antagonist",
+    "Full agonist",
+    "Irreversible inhibitor",
+    "Partial agonist"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#e4e428",
+   "kind": "statement",
+   "stem": "What chemical class is glycopyrrolate, and what does that mean for how it behaves?",
+   "answer": "Quaternary ammonium: permanently ionised, positively charged and hydrophilic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#df1ef4",
+   "kind": "mcq",
+   "stem": "Why does glycopyrrolate have no central nervous system effects?",
+   "options": [
+    "It is rapidly metabolised in the liver",
+    "It is actively pumped out of neurones",
+    "Its effects are blocked by naloxone",
+    "It does not cross the blood–brain barrier"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#f60b2c",
+   "kind": "mcq",
+   "stem": "Why is glycopyrrolate given together with neostigmine?",
+   "options": [
+    "To block muscarinic side effects of anticholinesterases",
+    "To deepen the neuromuscular block",
+    "To block nicotinic receptors at the junction",
+    "To reverse opioid respiratory depression"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#a8221e",
+   "kind": "mcq",
+   "stem": "Glycopyrrolate is used to treat which heart rate problem?",
+   "options": [
+    "Tachycardia",
+    "Atrial fibrillation",
+    "Bradycardia",
+    "Ventricular fibrillation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#f8dace",
+   "kind": "blank",
+   "stem": "Glycopyrrolate is used as ____ premedication.",
+   "answer": "Antisialogogue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#dd5aa5",
+   "kind": "mcq",
+   "stem": "What is glycopyrrolate's oral bioavailability?",
+   "options": [
+    "About 25%",
+    "About 60%",
+    "Under 5%",
+    "About 90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/glycopyrrolate#f80743",
+   "kind": "mcq",
+   "stem": "What percentage of glycopyrrolate is excreted unchanged in urine?",
+   "options": [
+    "20%",
+    "80%",
+    "50%",
+    "95%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

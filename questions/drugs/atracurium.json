@@ -1,0 +1,247 @@
+{
+ "topic": "drugs/atracurium",
+ "questions": [
+  {
+   "fact_id": "drugs/atracurium#9bdb09",
+   "kind": "mcq",
+   "stem": "What is the concentration of the atracurium solution?",
+   "options": [
+    "5 mg in 1 ml",
+    "10 mg in 1 ml",
+    "20 mg in 1 ml",
+    "50 mg in 1 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#26d9ac",
+   "kind": "mcq",
+   "stem": "At what temperature should atracurium be stored?",
+   "options": [
+    "25°C",
+    "4°C",
+    "-20°C",
+    "37°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#d3c47e",
+   "kind": "statement",
+   "stem": "What is the stereochemical make-up of atracurium?",
+   "answer": "Racemic mixture of 10 stereoisomers and geometric isomers, from four chiral centres",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#6bb49f",
+   "kind": "statement",
+   "stem": "Why should atracurium be injected slowly?",
+   "answer": "To limit histamine release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#ddce43",
+   "kind": "mcq",
+   "stem": "What is the ED95 of atracurium?",
+   "options": [
+    "0.05 mg/kg",
+    "0.1 mg/kg",
+    "0.23 mg/kg",
+    "1.0 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#42fbd9",
+   "kind": "mcq",
+   "stem": "What is the usual intubating dose of atracurium?",
+   "options": [
+    "0.05 mg/kg",
+    "1.0 mg/kg",
+    "0.5 mg/kg",
+    "2.0 mg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#c12450",
+   "kind": "mcq",
+   "stem": "How long does atracurium 0.5 mg/kg take to reach intubating conditions?",
+   "options": [
+    "Within 5 seconds",
+    "Within 90–120 seconds",
+    "About 10 minutes",
+    "About 30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#f8cf2c",
+   "kind": "mcq",
+   "stem": "What is the typical clinical duration of atracurium?",
+   "options": [
+    "5–10 min",
+    "25–30 min",
+    "60–90 min",
+    "2–4 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#e0321b",
+   "kind": "mcq",
+   "stem": "In the adult example, how often are 10 mg atracurium top-ups given?",
+   "options": [
+    "Every 10 min",
+    "Every 15 min",
+    "Every 30 min",
+    "Every 60 min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#e0321b",
+   "kind": "mcq",
+   "stem": "In the adult example, what atracurium dose is given at induction?",
+   "options": [
+    "10 mg",
+    "20 mg",
+    "30 mg",
+    "45 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#ffd3c6",
+   "kind": "mcq",
+   "stem": "What is the infusion rate for atracurium?",
+   "options": [
+    "0.03 to 0.06 mg/kg/hour",
+    "0.3 to 0.6 mg/kg/hour",
+    "1.5 to 3 mg/kg/hour",
+    "3 to 6 mg/kg/hour"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#170150",
+   "kind": "statement",
+   "stem": "What haemodynamic and airway effects can atracurium's histamine release cause?",
+   "answer": "Hypotension, bradycardia and bronchospasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#e311ba",
+   "kind": "mcq",
+   "stem": "Which atracurium breakdown product can cause seizures at high levels?",
+   "options": [
+    "Succinylmonocholine",
+    "Pipecolic acid",
+    "Laudanosine",
+    "Pancuronium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#cc77cb",
+   "kind": "statement",
+   "stem": "Which muscle disorder can atracurium cause in critically ill patients, as vecuronium can?",
+   "answer": "Critical illness myopathy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#493d3e",
+   "kind": "mcq",
+   "stem": "Why does renal or liver impairment not prolong atracurium's action?",
+   "options": [
+    "Its two plasma pathways are largely organ-independent",
+    "It is cleared mainly by the kidneys unchanged",
+    "It needs hepatic CYP450 enzymes to act",
+    "It accumulates in fat after repeated doses"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#dbc5cb",
+   "kind": "mcq",
+   "stem": "What share of atracurium is excreted unchanged in urine?",
+   "options": [
+    "About 1%",
+    "About 10%",
+    "About 50%",
+    "About 90%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#fc4bcd",
+   "kind": "mcq",
+   "stem": "Which of these is a plasma breakdown pathway of atracurium?",
+   "options": [
+    "Glucuronide conjugation",
+    "Renal tubular secretion",
+    "Ester hydrolysis",
+    "Cytochrome P450 oxidation"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#fc984f",
+   "kind": "mcq",
+   "stem": "At what pH and temperature is atracurium stable?",
+   "options": [
+    "pH 7.4 and 37°C",
+    "pH 4 and 25°C",
+    "pH 4 and 4°C",
+    "pH 9 and 4°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atracurium#68412a",
+   "kind": "mcq",
+   "stem": "How does laudanosine, a metabolite of atracurium, act?",
+   "options": [
+    "GABA-A agonist",
+    "Glycine antagonist",
+    "Nicotinic receptor blocker",
+    "Cholinesterase inhibitor"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

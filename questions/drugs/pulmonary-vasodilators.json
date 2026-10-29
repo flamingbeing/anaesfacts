@@ -1,0 +1,241 @@
+{
+ "topic": "drugs/pulmonary-vasodilators",
+ "questions": [
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#e37aa7",
+   "kind": "statement",
+   "stem": "Why have so few systemic drugs worked as pulmonary vasodilators?",
+   "answer": "Most pulmonary vascular receptors are not lung-specific, so side effects are unacceptable.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#9e1bee",
+   "kind": "statement",
+   "stem": "In lung disease, what does abolishing hypoxic pulmonary vasoconstriction remove?",
+   "answer": "The main compensation for poor gas exchange.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#622519",
+   "kind": "mcq",
+   "stem": "Why does inhaled nitric oxide not cause systemic vasodilation?",
+   "options": [
+    "Haemoglobin inactivates it quickly",
+    "It is cleared by the kidneys",
+    "It binds plasma albumin",
+    "It is metabolised in the liver"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#89bade",
+   "kind": "statement",
+   "stem": "How does inhaled nitric oxide improve oxygenation?",
+   "answer": "It diverts flow to well-ventilated lung, away from poorly ventilated lung.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#e59fad",
+   "kind": "statement",
+   "stem": "With oxygen, how does the rate of nitric oxide oxidising to NO2 depend on NO concentration?",
+   "answer": "On the NO concentration squared, and on oxygen concentration.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#19f9cf",
+   "kind": "mcq",
+   "stem": "Which lung harm does NO2 from inhaled nitric oxide cause?",
+   "options": [
+    "Bronchospasm and wheeze",
+    "Severe pneumonitis and pulmonary oedema",
+    "Pneumothorax",
+    "Pulmonary embolism"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#4fc29b",
+   "kind": "mcq",
+   "stem": "Over time, what may happen to the benefit of inhaled nitric oxide?",
+   "options": [
+    "It is always sustained",
+    "It may be short-lived",
+    "It doubles",
+    "It reverses at once"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#a29c66",
+   "kind": "mcq",
+   "stem": "What happens when inhaled nitric oxide is stopped abruptly?",
+   "options": [
+    "Oxygenation rises and pulmonary artery pressure falls",
+    "Nothing; no rebound occurs",
+    "Oxygenation falls and pulmonary artery pressure rises",
+    "Systemic hypotension develops"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#2b850d",
+   "kind": "statement",
+   "stem": "In some acute lung injury patients, what does inhaled nitric oxide improve, and what does it not?",
+   "answer": "It improves oxygenation but not survival.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#0d0d10",
+   "kind": "statement",
+   "stem": "Why are adverse effects significant with IV prostacyclin in pulmonary hypertension?",
+   "answer": "It is not lung-selective.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#7f22d6",
+   "kind": "statement",
+   "stem": "Why are side effects of inhaled prostacyclin minimal, despite some systemic absorption?",
+   "answer": "The dose needed is tiny.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#a2666d",
+   "kind": "statement",
+   "stem": "What do phosphodiesterase inhibitors block in pulmonary artery smooth muscle?",
+   "answer": "Breakdown of cAMP and cGMP.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#a7e95d",
+   "kind": "mcq",
+   "stem": "By which routes are phosphodiesterase inhibitors used to lower pulmonary pressure?",
+   "options": [
+    "IV and inhaled",
+    "Oral only",
+    "Intrathecal only",
+    "Subcutaneous only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#4f978d",
+   "kind": "mcq",
+   "stem": "Which phosphodiesterase type do sildenafil and tadalafil target in the pulmonary circulation?",
+   "options": [
+    "Type 1",
+    "Type 3",
+    "Type 5",
+    "Type 7"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#aef52d",
+   "kind": "mcq",
+   "stem": "When do ACE inhibitors lower pulmonary vascular resistance in pulmonary hypertension from lung disease?",
+   "options": [
+    "Within minutes of one dose",
+    "Only with long-term use",
+    "Only during surgery",
+    "Only in healthy lungs"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#e27422",
+   "kind": "mcq",
+   "stem": "How soon does losartan lower pulmonary artery pressure?",
+   "options": [
+    "Within hours",
+    "Within weeks",
+    "Within seconds",
+    "Only after months"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#20a986",
+   "kind": "statement",
+   "stem": "How do calcium channel blockers like nifedipine lower secondary pulmonary hypertension?",
+   "answer": "By blocking L-type calcium channels in pulmonary artery smooth muscle.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#fe277c",
+   "kind": "statement",
+   "stem": "Why can calcium channel blockers worsen hypoxaemia in some patients?",
+   "answer": "They abolish hypoxic pulmonary vasoconstriction.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#76e30e",
+   "kind": "statement",
+   "stem": "What is the concern with high-dose calcium channel blockers in pulmonary hypertension?",
+   "answer": "They are negatively inotropic and can worsen right heart failure.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#28b8ce",
+   "kind": "mcq",
+   "stem": "What do endothelin receptor antagonists do at ETA and ETB receptors?",
+   "options": [
+    "Competitive antagonism at both",
+    "Agonism at both",
+    "Selective ETA agonism",
+    "Non-competitive ETB blockade"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#65321a",
+   "kind": "statement",
+   "stem": "In chronic hypoxia, endothelin contributes to what process that endothelin receptor antagonists may slow?",
+   "answer": "Pulmonary vascular remodelling.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/pulmonary-vasodilators#88e00a",
+   "kind": "mcq",
+   "stem": "Which endothelin receptor antagonist is described as still in trials?",
+   "options": [
+    "Riociguat",
+    "Tadalafil",
+    "Macitentan",
+    "Epoprostenol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

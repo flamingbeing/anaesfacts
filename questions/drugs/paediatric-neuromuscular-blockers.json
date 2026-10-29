@@ -1,0 +1,199 @@
+{
+ "topic": "drugs/paediatric-neuromuscular-blockers",
+ "questions": [
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#df8266",
+   "kind": "statement",
+   "stem": "During neuromuscular blockade in infants, how does diaphragm paralysis timing compare with peripheral muscles?",
+   "answer": "Paralysed at the same time as peripheral muscles",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#b3aff3",
+   "kind": "blank",
+   "stem": "In paediatric neuromuscular blockade, neuromuscular transmission is ____ at birth.",
+   "answer": "immature",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#64cf41",
+   "kind": "statement",
+   "stem": "What physiological feature of children gives a larger volume of distribution for neuromuscular blockers?",
+   "answer": "Large extracellular fluid volume",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#5b225a",
+   "kind": "statement",
+   "stem": "How does high cardiac output in children change neuromuscular blocker delivery to the effect site?",
+   "answer": "Drugs reach and leave the site of action faster",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#946e3b",
+   "kind": "mcq",
+   "stem": "Compared with older children, how much suxamethonium per kg do neonates need for the same block?",
+   "options": [
+    "Less per kg",
+    "About the same per kg",
+    "More per kg",
+    "Half as much per kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#8b9b9c",
+   "kind": "mcq",
+   "stem": "What is the suxamethonium dose in neonates?",
+   "options": [
+    "3 mg/kg",
+    "0.5 mg/kg",
+    "1.5 mg/kg",
+    "5 mg/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#55fb04",
+   "kind": "mcq",
+   "stem": "What is the suxamethonium dose in infants?",
+   "options": [
+    "1-1.5 mg/kg",
+    "2 mg/kg",
+    "0.5 mg/kg",
+    "4 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#fda338",
+   "kind": "mcq",
+   "stem": "What is the suxamethonium dose in older children?",
+   "options": [
+    "0.5 mg/kg",
+    "2 mg/kg",
+    "3 mg/kg",
+    "1-1.5 mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#2fc982",
+   "kind": "statement",
+   "stem": "How does suxamethonium duration of action in children vary with age?",
+   "answer": "Similar at all ages",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#844d68",
+   "kind": "blank",
+   "stem": "Suxamethonium fasciculations are often ____, especially in young children.",
+   "answer": "absent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#53a99d",
+   "kind": "statement",
+   "stem": "For which two uses is suxamethonium in children mostly limited?",
+   "answer": "Rapid-sequence induction and treatment of laryngospasm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#8e22c6",
+   "kind": "statement",
+   "stem": "Why is suxamethonium use falling in children?",
+   "answer": "Alternatives exist, such as mivacurium or TIVA for rigid bronchoscopy",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#b41029",
+   "kind": "statement",
+   "stem": "How do non-depolarising blocker doses per kg compare across paediatric ages?",
+   "answer": "Similar at all ages",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#25e33a",
+   "kind": "statement",
+   "stem": "What is typical of non-depolarising blocker onset in young children, and why?",
+   "answer": "Often very fast, due to high cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#f5b6f5",
+   "kind": "statement",
+   "stem": "How do non-depolarising blocker indications and side effects in children compare with adults?",
+   "answer": "As in adults",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#630b14",
+   "kind": "statement",
+   "stem": "In paediatric neuromuscular blockade, in whom does full reversal matter most, and why?",
+   "answer": "Neonates and small infants, who have little respiratory reserve",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#355bc5",
+   "kind": "mcq",
+   "stem": "Compared with adults, how is recovery after neuromuscular blockade reversal in infants?",
+   "options": [
+    "Slower than in adults",
+    "Same as in adults",
+    "Faster than in adults",
+    "Much slower in neonates"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#c5daa5",
+   "kind": "mcq",
+   "stem": "Which neostigmine dose gives maximal antagonism of neuromuscular block in children at all ages?",
+   "options": [
+    "20 mcg/kg",
+    "35 mcg/kg",
+    "70 mcg/kg",
+    "100 mcg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/paediatric-neuromuscular-blockers#c5daa5",
+   "kind": "mcq",
+   "stem": "Which neostigmine dose is usually given in children as a safety margin?",
+   "options": [
+    "20 mcg/kg",
+    "70 mcg/kg",
+    "50 mcg/kg",
+    "100 mcg/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

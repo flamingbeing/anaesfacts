@@ -1,0 +1,329 @@
+{
+ "topic": "drugs/rocuronium",
+ "questions": [
+  {
+   "fact_id": "drugs/rocuronium#f16697",
+   "kind": "mcq",
+   "stem": "What is the concentration of the rocuronium solution supplied?",
+   "options": [
+    "50 mg in 10 ml",
+    "50 mg in 5 ml",
+    "100 mg in 5 ml",
+    "25 mg in 5 ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#012d38",
+   "kind": "mcq",
+   "stem": "Rocuronium is an aminosteroid derived from which neuromuscular blocker?",
+   "options": [
+    "Pancuronium",
+    "Atracurium",
+    "Vecuronium",
+    "Suxamethonium"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#012d38",
+   "kind": "mcq",
+   "stem": "How many positions does rocuronium differ from vecuronium?",
+   "options": [
+    "two",
+    "four",
+    "six",
+    "eight"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#76b50c",
+   "kind": "mcq",
+   "stem": "How can rocuronium neuromuscular block be maintained?",
+   "options": [
+    "Single large bolus only",
+    "Oral dosing",
+    "Epidural injection",
+    "Infusion or top-up boluses"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#0a4c83",
+   "kind": "mcq",
+   "stem": "What is the rocuronium ED95 dose?",
+   "options": [
+    "0.1mg/kg",
+    "0.2mg/kg",
+    "0.45mg/kg",
+    "0.3mg/kg"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#c0ae55",
+   "kind": "mcq",
+   "stem": "What is the usual rocuronium intubating dose?",
+   "options": [
+    "0.1mg/kg",
+    "0.6mg/kg",
+    "0.45mg/kg",
+    "1.5mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#baf65a",
+   "kind": "mcq",
+   "stem": "Rocuronium 0.6mg/kg gives intubating conditions in how long?",
+   "options": [
+    "100–120 seconds",
+    "30–45 seconds",
+    "5–6 minutes",
+    "200–240 seconds"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#f5c1a7",
+   "kind": "mcq",
+   "stem": "Which rocuronium dose is used for rapid sequence intubation?",
+   "options": [
+    "0.5–0.6 mg/kg",
+    "0.9–1.2 mg/kg",
+    "0.1–0.2 mg/kg",
+    "2–3 mg/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#f5c1a7",
+   "kind": "blank",
+   "stem": "Rocuronium 0.9–1.2 mg/kg gives intubating conditions in about ____.",
+   "answer": "60 seconds",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#37cf7b",
+   "kind": "mcq",
+   "stem": "Within how long do satisfactory intubating conditions develop after rocuronium?",
+   "options": [
+    "60–90 s",
+    "5–10 s",
+    "3–4 min",
+    "120–150 s"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#37cf7b",
+   "kind": "mcq",
+   "stem": "What is the onset time of rocuronium?",
+   "options": [
+    "10-15 s",
+    "5-10 min",
+    "1-2min",
+    "30-45 s"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#2f6d0b",
+   "kind": "mcq",
+   "stem": "What is the intermediate duration of rocuronium block?",
+   "options": [
+    "5-10min",
+    "2-3 hours",
+    "30-75min",
+    "90-120min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#cf027c",
+   "kind": "mcq",
+   "stem": "What is the usual rocuronium infusion rate?",
+   "options": [
+    "0.5-1.5mcg/kg/min",
+    "5-15mcg/kg/min",
+    "50-150mcg/kg/min",
+    "5-15mg/kg/min"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#cf027c",
+   "kind": "blank",
+   "stem": "Rocuronium top-up boluses for maintenance are ____.",
+   "answer": "5-10mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#153e00",
+   "kind": "mcq",
+   "stem": "How does rocuronium act at the neuromuscular junction?",
+   "options": [
+    "Depolarising agonist like suxamethonium",
+    "Competitive non-depolarising blocker",
+    "Acetylcholinesterase inhibitor",
+    "Central alpha-2 agonist"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#d6e432",
+   "kind": "mcq",
+   "stem": "How much less potent is rocuronium than vecuronium?",
+   "options": [
+    "Twice",
+    "6–8 times",
+    "15–20 times",
+    "Equally potent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#97954d",
+   "kind": "statement",
+   "stem": "Why does rocuronium's low potency give it a fast onset?",
+   "answer": "A larger dose means more molecules, a steeper plasma-to-NMJ gradient and faster diffusion",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#03db55",
+   "kind": "blank",
+   "stem": "Rocuronium has no direct ____ effect.",
+   "answer": "sympathomimetic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#334239",
+   "kind": "statement",
+   "stem": "What are the cardiovascular effects of rocuronium?",
+   "answer": "Minimal, similar to vecuronium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#aff25a",
+   "kind": "statement",
+   "stem": "Why may heart rate rise during rapid-intubation doses of rocuronium?",
+   "answer": "Mild vagolysis at high doses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#f043db",
+   "kind": "mcq",
+   "stem": "Compared with pancuronium or vecuronium, rocuronium is more likely to cause what?",
+   "options": [
+    "Severe hypothermia",
+    "Anaphylactoid reactions",
+    "Ventricular arrhythmia",
+    "Malignant hyperthermia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#ec576f",
+   "kind": "statement",
+   "stem": "What is a main use of rocuronium at higher doses?",
+   "answer": "Rapid sequence intubation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#a6d013",
+   "kind": "mcq",
+   "stem": "How does rocuronium's lipid solubility compare with vecuronium's?",
+   "options": [
+    "Less lipophilic",
+    "More lipophilic",
+    "Equally lipophilic",
+    "Fully water-soluble"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#02f459",
+   "kind": "blank",
+   "stem": "Rocuronium is cleared mainly by ____ clearance.",
+   "answer": "hepatic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#7162f6",
+   "kind": "mcq",
+   "stem": "What proportion of rocuronium is metabolised?",
+   "options": [
+    "About 20%",
+    "<5%",
+    "About 50%",
+    "Over 80%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#093ee7",
+   "kind": "statement",
+   "stem": "Why is 17-desacetylrocuronium unlikely to add to rocuronium's block?",
+   "answer": "It is 20 times less potent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/rocuronium#78c9a2",
+   "kind": "mcq",
+   "stem": "By how much does renal failure increase rocuronium's half-life?",
+   "options": [
+    "3.7%",
+    "37%",
+    "73%",
+    "370%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

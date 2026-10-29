@@ -1,0 +1,251 @@
+{
+ "topic": "drugs/sevoflurane",
+ "questions": [
+  {
+   "fact_id": "drugs/sevoflurane#881a60",
+   "kind": "mcq",
+   "stem": "Unlike most other volatile agents, sevoflurane is what?",
+   "options": [
+    "Racemic mixture of enantiomers",
+    "Pure R-enantiomer",
+    "Achiral",
+    "Pure S-enantiomer"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#0b094f",
+   "kind": "mcq",
+   "stem": "Sevoflurane with less than 100 ppm water can release which toxic substance when it meets Lewis acids?",
+   "options": [
+    "Hydrochloric acid",
+    "Hydrofluoric acid",
+    "Carbon monoxide",
+    "Phosgene"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#238f46",
+   "kind": "mcq",
+   "stem": "How much water does standard sevoflurane contain?",
+   "options": [
+    "50 ppm",
+    "100 ppm",
+    "500 ppm",
+    "300 ppm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#cda3a6",
+   "kind": "blank",
+   "stem": "The dry sevoflurane formulation (under 130 ppm water) comes in ____ bottles lined with epoxyphenolic resin lacquer.",
+   "answer": "aluminium",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#9556aa",
+   "kind": "statement",
+   "stem": "How is sevoflurane made by the one-pot method?",
+   "answer": "All ingredients reacted together, then water added to 300 ppm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#095b9f",
+   "kind": "mcq",
+   "stem": "Sevoflurane is delivered in ICU for sedation using which device?",
+   "options": [
+    "Bain circuit",
+    "Oxylog ventilator",
+    "Sedaconda ACD",
+    "Epidural pump"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#067842",
+   "kind": "mcq",
+   "stem": "What is the approximate MAC of sevoflurane?",
+   "options": [
+    "0.5%",
+    "4%",
+    "2%",
+    "8%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#6c238a",
+   "kind": "mcq",
+   "stem": "What is sevoflurane's MAC at age 40?",
+   "options": [
+    "1.2%",
+    "2.4%",
+    "0.9%",
+    "1.8%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#8ffb95",
+   "kind": "statement",
+   "stem": "How does sevoflurane affect minute volume and PaCO2?",
+   "answer": "Minute volume falls and PaCO2 rises",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#20548c",
+   "kind": "statement",
+   "stem": "What serious problem can occur during sevoflurane induction in children with Down syndrome?",
+   "answer": "Severe bradycardia and hypotension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#ef744b",
+   "kind": "mcq",
+   "stem": "Which enzyme metabolises sevoflurane in the liver to produce inorganic fluoride?",
+   "options": [
+    "CYP3A4",
+    "CYP2D6",
+    "CYP1A2",
+    "CYP450 2E1"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#c9afec",
+   "kind": "mcq",
+   "stem": "What is the rat LC50 of compound A from sevoflurane after 3 hours?",
+   "options": [
+    "30-40 ppm",
+    "300-400 ppm",
+    "600-800 ppm",
+    "3000-4000 ppm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#370e6a",
+   "kind": "mcq",
+   "stem": "What is the extrapolated human nephrotoxic threshold for compound A?",
+   "options": [
+    "150-200 ppm",
+    "15-20 ppm",
+    "450-500 ppm",
+    "1500-2000 ppm"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#d5386b",
+   "kind": "statement",
+   "stem": "With normal renal function, how high do compound A levels peak after 0.25 L/min for 5 hours?",
+   "answer": "Below 20 ppm",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#22a2d6",
+   "kind": "statement",
+   "stem": "What fresh gas flow defines low-flow sevoflurane techniques?",
+   "answer": "<2L/min",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#f030cb",
+   "kind": "mcq",
+   "stem": "What is the maximum MAC·hours for sevoflurane at 1 to under 2 L/min fresh gas flow?",
+   "options": [
+    "1 MAC·hour",
+    "4 MAC·hours",
+    "2 MAC·hours",
+    "6 MAC·hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#8a5082",
+   "kind": "mcq",
+   "stem": "Which sevoflurane fresh gas flow is not recommended?",
+   "options": [
+    "Flows 1 to < 2 L/min",
+    "Flows 2 to 4 L/min",
+    "Flows < 1 L/min",
+    "Flows 4 to 6 L/min"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#f26f4d",
+   "kind": "statement",
+   "stem": "Why do some anaesthetists avoid sevoflurane in known renal impairment?",
+   "answer": "Concerns about compound A and fluoride",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#5045f5",
+   "kind": "statement",
+   "stem": "What onset and offset profile makes sevoflurane a good choice?",
+   "answer": "Fairly rapid onset and offset",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#473981",
+   "kind": "mcq",
+   "stem": "What is sevoflurane's blood:gas partition coefficient?",
+   "options": [
+    "0.4",
+    "2.3",
+    "0.7",
+    "1.4"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/sevoflurane#7a3bfa",
+   "kind": "mcq",
+   "stem": "What percentage of sevoflurane is metabolised?",
+   "options": [
+    "0.02%",
+    "0.2%",
+    "5%",
+    "50%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

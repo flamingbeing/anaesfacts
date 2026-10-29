@@ -1,0 +1,129 @@
+{
+ "topic": "drugs/barbiturates",
+ "questions": [
+  {
+   "fact_id": "drugs/barbiturates#c02ed8",
+   "kind": "statement",
+   "stem": "How do barbiturates depress the CNS?",
+   "answer": "By enhancing GABA transmission",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#316006",
+   "kind": "mcq",
+   "stem": "Why have benzodiazepines largely replaced barbiturates as anxiolytics and hypnotics?",
+   "options": [
+    "They are cheaper to manufacture",
+    "They act without GABA",
+    "They have no sedative effect",
+    "They are safer in overdose"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#94a603",
+   "kind": "statement",
+   "stem": "Name one barbiturate still used as an anticonvulsant.",
+   "answer": "Phenobarbital (or primidone)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#94a603",
+   "kind": "mcq",
+   "stem": "Which barbiturate is still used as a general anaesthetic?",
+   "options": [
+    "Propofol",
+    "Ketamine",
+    "Sodium thiopental",
+    "Etomidate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#f36583",
+   "kind": "mcq",
+   "stem": "Barbiturates are synthetic derivatives of which parent compound?",
+   "options": [
+    "Uric acid",
+    "Barbituric acid",
+    "Benzoic acid",
+    "Acetylsalicylic acid"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#049e79",
+   "kind": "statement",
+   "stem": "In barbiturates, what does replacing the C2 oxygen with sulfur produce?",
+   "answer": "A thiobarbiturate",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#eb6c78",
+   "kind": "statement",
+   "stem": "In barbiturates, which ring position carries the side chains?",
+   "answer": "C5",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#02198d",
+   "kind": "mcq",
+   "stem": "What does adding an N1 methyl group do to a barbiturate?",
+   "options": [
+    "Slower onset and offset",
+    "Faster onset and offset but more excitatory effects",
+    "Fewer excitatory effects",
+    "Raised seizure threshold"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#05b2dc",
+   "kind": "statement",
+   "stem": "How soluble in water are barbiturates at neutral pH?",
+   "answer": "Poorly water soluble",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#f961b3",
+   "kind": "mcq",
+   "stem": "Which barbiturate is known as sodium amytal?",
+   "options": [
+    "Pentobarbital",
+    "Amobarbital",
+    "Secobarbital",
+    "Barbital"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/barbiturates#eacb92",
+   "kind": "mcq",
+   "stem": "Which barbiturate was the first commercial one, used as a hypnotic from 1903?",
+   "options": [
+    "Phenobarbital",
+    "Barbital",
+    "Amobarbital",
+    "Pentobarbital"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

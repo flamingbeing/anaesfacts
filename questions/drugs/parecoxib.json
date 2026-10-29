@@ -1,0 +1,287 @@
+{
+ "topic": "drugs/parecoxib",
+ "questions": [
+  {
+   "fact_id": "drugs/parecoxib#5229ad",
+   "kind": "mcq",
+   "stem": "What should parecoxib powder for injection be reconstituted with?",
+   "options": [
+    "Sterile water",
+    "5% dextrose",
+    "Lactated Ringer's solution",
+    "0.9% saline"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#f78e30",
+   "kind": "mcq",
+   "stem": "By which routes can parecoxib be given?",
+   "options": [
+    "Oral or rectal",
+    "IV or subcutaneous",
+    "IM or IV",
+    "Oral or IM"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#85d2a4",
+   "kind": "mcq",
+   "stem": "What is the first dose of parecoxib?",
+   "options": [
+    "20 mg",
+    "40 mg",
+    "60 mg",
+    "80 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#85d2a4",
+   "kind": "mcq",
+   "stem": "How often are subsequent parecoxib doses given?",
+   "options": [
+    "Every 2-4 hours",
+    "Every 6-12 hours",
+    "Every 24 hours",
+    "Once weekly"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#6b24a7",
+   "kind": "mcq",
+   "stem": "What is the maximum daily dose of parecoxib?",
+   "options": [
+    "40 mg/day",
+    "120 mg/day",
+    "160 mg/day",
+    "80 mg/day"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#76724d",
+   "kind": "statement",
+   "stem": "What inhibits COX-2 after parecoxib is given?",
+   "answer": "Valdecoxib, its active form.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#6da7c2",
+   "kind": "mcq",
+   "stem": "What is the parecoxib COX-1:COX-2 inhibition ratio?",
+   "options": [
+    "1:6",
+    "1:16",
+    "1:61",
+    "6:1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#53f606",
+   "kind": "mcq",
+   "stem": "What is the onset of action of parecoxib?",
+   "options": [
+    "5 min",
+    "15 min",
+    "45 min",
+    "2 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#53f606",
+   "kind": "mcq",
+   "stem": "When does parecoxib reach its peak effect?",
+   "options": [
+    "30 min",
+    "2 h",
+    "6 h",
+    "12 h"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#11c7d3",
+   "kind": "statement",
+   "stem": "Which serious adverse effects were linked to valdecoxib?",
+   "answer": "Severe skin and hypersensitivity reactions, mainly in sulfonamide allergy.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#caf5f7",
+   "kind": "mcq",
+   "stem": "How often were valdecoxib's severe skin and hypersensitivity reactions reported?",
+   "options": [
+    "About 8 per thousand patients",
+    "About 80 per million patients",
+    "About 8 per million patients",
+    "About 1 per million patients"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#74e010",
+   "kind": "mcq",
+   "stem": "When was valdecoxib withdrawn from the market?",
+   "options": [
+    "April 2003",
+    "April 2005",
+    "April 2007",
+    "April 2010"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#c2211d",
+   "kind": "statement",
+   "stem": "Why has parecoxib not shown valdecoxib's severe skin reactions?",
+   "answer": "Probably because it is used only short term.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#bb1788",
+   "kind": "mcq",
+   "stem": "Which interacting drug needs a parecoxib dose reduction?",
+   "options": [
+    "Ketoconazole",
+    "Midazolam",
+    "Omeprazole",
+    "Fluconazole"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#f08f21",
+   "kind": "statement",
+   "stem": "What dose adjustment is needed for parecoxib with ketoconazole or midazolam (CYP3A4)?",
+   "answer": "No adjustment needed.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#69989a",
+   "kind": "statement",
+   "stem": "Valdecoxib may raise levels of which CYP2D6 drugs?",
+   "answer": "Flecainide and metoprolol.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#2f9a46",
+   "kind": "statement",
+   "stem": "Valdecoxib may raise levels of which CYP2C19 drugs?",
+   "answer": "Omeprazole, phenytoin and diazepam.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#58d1c2",
+   "kind": "mcq",
+   "stem": "Which allergy is a contraindication to valdecoxib?",
+   "options": [
+    "Penicillin allergy",
+    "Sulfonamide allergy",
+    "Latex allergy",
+    "Iodine allergy"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#3d08f6",
+   "kind": "mcq",
+   "stem": "Is parecoxib recommended in severe hepatic impairment?",
+   "options": [
+    "Recommended at half dose",
+    "Not recommended",
+    "Recommended with monitoring",
+    "Recommended as first line"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#0b7306",
+   "kind": "mcq",
+   "stem": "What is the plasma half-life of parecoxib?",
+   "options": [
+    "2 hours",
+    "8 hours",
+    "20 minutes",
+    "24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#0b7306",
+   "kind": "statement",
+   "stem": "How is parecoxib converted to its active form?",
+   "answer": "Hydrolysed by liver enzymes to valdecoxib.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#cb307c",
+   "kind": "statement",
+   "stem": "Which enzymes and pathways metabolise valdecoxib in the liver?",
+   "answer": "CYP2C9, CYP3A4 and glucuronidation.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#7d9794",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of valdecoxib?",
+   "options": [
+    "20 minutes",
+    "2 hours",
+    "8 hours",
+    "24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parecoxib#b353bf",
+   "kind": "statement",
+   "stem": "Why does renal impairment not change parecoxib's kinetics?",
+   "answer": "Elimination is hepatic.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

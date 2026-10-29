@@ -1,0 +1,257 @@
+{
+ "topic": "drugs/diclofenac",
+ "questions": [
+  {
+   "fact_id": "drugs/diclofenac#d933ef",
+   "kind": "mcq",
+   "stem": "By which routes is diclofenac available?",
+   "options": [
+    "Oral, rectal and parenteral",
+    "Oral and topical only",
+    "Intrathecal and epidural only",
+    "Oral and sublingual only"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#7790d3",
+   "kind": "blank",
+   "stem": "Diclofenac suppositories come as 50mg, also ____ and 25mg.",
+   "answer": "12.5mg",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#e48392",
+   "kind": "statement",
+   "stem": "What local property of the parenteral form of diclofenac should a clinician know about?",
+   "answer": "Highly irritant",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#a4bd62",
+   "kind": "statement",
+   "stem": "What problems can an intramuscular diclofenac injection cause?",
+   "answer": "Very painful and damages muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#509eb3",
+   "kind": "statement",
+   "stem": "What does an intravenous diclofenac injection cause at the injection site?",
+   "answer": "Local thrombosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#fa15d2",
+   "kind": "mcq",
+   "stem": "Diclofenac suppositories are not licensed in children under what age?",
+   "options": [
+    "2 years",
+    "6 years",
+    "12 years",
+    "16 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#c5337c",
+   "kind": "mcq",
+   "stem": "What is the maximum adult daily diclofenac dose by any route?",
+   "options": [
+    "50 mg/d",
+    "100 mg/d",
+    "150 mg/d",
+    "250 mg/d"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#e85b11",
+   "kind": "mcq",
+   "stem": "What is the oral diclofenac dosing regimen?",
+   "options": [
+    "10-20mg tds",
+    "25-50mg tds",
+    "75-100mg tds",
+    "150mg od"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#93a6bc",
+   "kind": "mcq",
+   "stem": "What is the intramuscular diclofenac dose and maximum frequency?",
+   "options": [
+    "25mg stat, at most tds",
+    "150mg stat, at most bd",
+    "75mg stat, at most bd",
+    "75mg stat, at most tds"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#6def03",
+   "kind": "mcq",
+   "stem": "What is the maximum paediatric daily diclofenac dose by any route?",
+   "options": [
+    "1 mg/kg/day",
+    "3 mg/kg/day",
+    "5 mg/kg/day",
+    "150 mg/day"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#ef2110",
+   "kind": "statement",
+   "stem": "What oral diclofenac dose is used for pain after minor surgery such as tonsillectomy?",
+   "answer": "1 mg/kg TDS (maximum 50mg)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#0e7565",
+   "kind": "statement",
+   "stem": "What is the main cardiovascular concern with long-term diclofenac use?",
+   "answer": "Raised coronary event risk, similar to COX-2 inhibitors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#13a8af",
+   "kind": "blank",
+   "stem": "Diclofenac may cause renal impairment, especially after ____ surgery.",
+   "answer": "major",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#d13968",
+   "kind": "mcq",
+   "stem": "How does diclofenac's gut tolerability compare with indomethacin or aspirin?",
+   "options": [
+    "Less gastric irritation",
+    "More gastric irritation",
+    "Identical gastric irritation",
+    "No gastric effect at all"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#69572f",
+   "kind": "statement",
+   "stem": "What local adverse effects does diclofenac injection cause?",
+   "answer": "Injection pain and tissue damage",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#167324",
+   "kind": "statement",
+   "stem": "When can diclofenac be used on its own after surgery?",
+   "answer": "Mild to moderate postoperative pain",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#0fb9b9",
+   "kind": "statement",
+   "stem": "What role does diclofenac play in severe pain?",
+   "answer": "Opioid sparing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#eee67d",
+   "kind": "statement",
+   "stem": "For which pain is diclofenac especially useful?",
+   "answer": "Renal colic",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#257b8a",
+   "kind": "statement",
+   "stem": "Why is diclofenac use limited in major surgery?",
+   "answer": "Side effects limit use",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#fdc8cc",
+   "kind": "blank",
+   "stem": "Diclofenac is ____ absorbed after oral dosing.",
+   "answer": "well",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#885abb",
+   "kind": "mcq",
+   "stem": "What percentage of diclofenac is protein-bound?",
+   "options": [
+    "50%",
+    "75%",
+    "90%",
+    "99%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#885abb",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of diclofenac?",
+   "options": [
+    "1.5 l/kg",
+    "0.015 l/kg",
+    "0.15 l/kg",
+    "5 l/kg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#f7056b",
+   "kind": "statement",
+   "stem": "How is diclofenac metabolised?",
+   "answer": "Hepatic hydroxylation and conjugation to inactive metabolites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/diclofenac#d15fd6",
+   "kind": "mcq",
+   "stem": "What percentage of a diclofenac dose is excreted in urine?",
+   "options": [
+    "40%",
+    "30%",
+    "60%",
+    "90%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

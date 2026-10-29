@@ -1,0 +1,123 @@
+{
+ "topic": "comorbidities/tuberculosis",
+ "questions": [
+  {
+   "fact_id": "comorbidities/tuberculosis#0d9b77",
+   "kind": "statement",
+   "stem": "For tuberculosis as a comorbidity, what does the overview say to check?",
+   "answer": "Severity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#73760d",
+   "kind": "mcq",
+   "stem": "Which precautions apply to a patient with tuberculosis in theatre?",
+   "options": [
+    "Droplet precautions only",
+    "Contact precautions only",
+    "Airborne precautions",
+    "Standard precautions only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#7a3665",
+   "kind": "statement",
+   "stem": "In tuberculosis, what must the preoperative TB status check look for?",
+   "answer": "Active disease, as the patient may be acutely unwell",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#a48f98",
+   "kind": "mcq",
+   "stem": "Which tuberculosis test takes 2-12 weeks to give a result?",
+   "options": [
+    "AFB smear",
+    "TB culture",
+    "Nucleic acid amplification test",
+    "Tuberculin test"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#51111f",
+   "kind": "statement",
+   "stem": "What does co-infection such as HIV bring to tuberculosis?",
+   "answer": "More active disease, atypical presentation, MDR TB",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#5efba0",
+   "kind": "mcq",
+   "stem": "In tuberculosis, when should elective surgery be delayed?",
+   "options": [
+    "Only after a positive tuberculin test",
+    "Until the patient is no longer infectious",
+    "Only if imaging shows cavitation",
+    "Never, since urgency overrides infection"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#862587",
+   "kind": "statement",
+   "stem": "Name the four procedures with the highest airborne transmission risk in tuberculosis.",
+   "answer": "Bronchoscopy, mask ventilation, intubation and suctioning",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#89e7ab",
+   "kind": "statement",
+   "stem": "What theatre arrangements are advised for an infectious tuberculosis patient?",
+   "answer": "Dedicated route to and from theatre, negative pressure theatre, clear signs on doors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#777d60",
+   "kind": "mcq",
+   "stem": "In tuberculosis, what test follows significant exposure?",
+   "options": [
+    "Chest X-ray",
+    "Tuberculin test",
+    "Sputum AFB smear",
+    "Blood culture"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#777d60",
+   "kind": "mcq",
+   "stem": "In tuberculosis, how long is isoniazid chemoprophylaxis after a positive test following significant exposure?",
+   "options": [
+    "2-4 weeks",
+    "3-4 months",
+    "6-9 months",
+    "12-18 months"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/tuberculosis#560b5d",
+   "kind": "statement",
+   "stem": "In tuberculosis anaesthesia, what should be minimised to reduce transmission?",
+   "answer": "Aerosols and coughing",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

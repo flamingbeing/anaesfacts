@@ -1,0 +1,191 @@
+{
+ "topic": "drugs/phosphodiesterase-inhibitors",
+ "questions": [
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#38bcb8",
+   "kind": "statement",
+   "stem": "What do phosphodiesterase inhibitors block, in terms of cyclic nucleotides?",
+   "answer": "Hydrolysis of cyclic AMP and cyclic GMP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#b0747f",
+   "kind": "statement",
+   "stem": "How specific are most phosphodiesterase inhibitors for a single isoenzyme?",
+   "answer": "Poorly specific; most act on several isoenzymes",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#920269",
+   "kind": "statement",
+   "stem": "In the PDE3 group, which form breaks down cAMP made after beta-receptor stimulation?",
+   "answer": "The cardiac and smooth muscle form",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#7b9867",
+   "kind": "statement",
+   "stem": "What do PDE3 inhibitors do to intracellular cAMP?",
+   "answer": "Raise and prolong it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#baaff8",
+   "kind": "statement",
+   "stem": "Which three cardiac effects do PDE3 inhibitors have?",
+   "answer": "Increased contractility (inotropy), heart rate (chronotropy) and conduction velocity (dromotropy)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#b4410c",
+   "kind": "mcq",
+   "stem": "How do PDE3 inhibitors change platelet behaviour?",
+   "options": [
+    "Increase aggregation",
+    "Reduce aggregation",
+    "Increase platelet count",
+    "No effect on platelets"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#d79c8f",
+   "kind": "statement",
+   "stem": "What does PDE5 break down?",
+   "answer": "cGMP formed in response to nitric oxide",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#40c1e1",
+   "kind": "mcq",
+   "stem": "What do PDE5 inhibitors boost in penile erectile tissue?",
+   "options": [
+    "Beta-adrenergic bronchodilation",
+    "NO-mediated vasodilation",
+    "Histamine release",
+    "Cholinergic bronchoconstriction"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#308936",
+   "kind": "statement",
+   "stem": "Besides erectile dysfunction, which two conditions are uses of PDE5 inhibitors?",
+   "answer": "Primary pulmonary hypertension and persistent pulmonary hypertension of the newborn",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#d2b84c",
+   "kind": "statement",
+   "stem": "What effect does higher cGMP have on platelets?",
+   "answer": "Reduced aggregation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#2f665c",
+   "kind": "statement",
+   "stem": "Which phosphodiesterase inhibitors may help inflammatory disease such as reactive airway disease?",
+   "answer": "PDE4 inhibitors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#889584",
+   "kind": "mcq",
+   "stem": "Which phosphodiesterase types are found in the lung?",
+   "options": [
+    "PDE5 only",
+    "PDE3 and PDE4 only",
+    "PDE3, PDE4 and PDE7",
+    "PDE6 and PDE9 only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#e1dd82",
+   "kind": "mcq",
+   "stem": "Which phosphodiesterase types mediate the anti-inflammatory lung effects of these drugs?",
+   "options": [
+    "PDE3 and PDE5",
+    "PDE4 and PDE7",
+    "PDE5 and PDE6",
+    "PDE1 and PDE9"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#a9cfa0",
+   "kind": "statement",
+   "stem": "What future approaches to lung phosphodiesterase inhibition are suggested?",
+   "answer": "Low-dose non-specific inhibitors, or specific PDE4 or PDE7 inhibitors in development",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#449a2b",
+   "kind": "mcq",
+   "stem": "Theophylline and aminophylline belong to which non-selective phosphodiesterase inhibitor class?",
+   "options": [
+    "Catecholamines",
+    "Methylxanthines",
+    "Benzodiazepines",
+    "Phenothiazines"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#5324fd",
+   "kind": "mcq",
+   "stem": "How much more potent is milrinone than amrinone?",
+   "options": [
+    "3 times",
+    "10 times",
+    "30 times",
+    "100 times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#5324fd",
+   "kind": "statement",
+   "stem": "Which PDE3 inhibitor largely replaced amrinone in the 1980s?",
+   "answer": "Milrinone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/phosphodiesterase-inhibitors#0709b9",
+   "kind": "mcq",
+   "stem": "Which phosphodiesterase inhibitor is PDE4-selective?",
+   "options": [
+    "Sildenafil",
+    "Ibudilast",
+    "Theophylline",
+    "Milrinone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

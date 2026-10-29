@@ -1,0 +1,211 @@
+{
+ "topic": "drugs/parasympathetic-drugs",
+ "questions": [
+  {
+   "fact_id": "drugs/parasympathetic-drugs#048d5e",
+   "kind": "mcq",
+   "stem": "Which transmitter, acting on muscarinic receptors, produces most parasympathetic effects?",
+   "options": [
+    "Noradrenaline",
+    "Dopamine",
+    "Serotonin",
+    "Acetylcholine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#8c44a3",
+   "kind": "mcq",
+   "stem": "What is the main target of direct-acting parasympathetic drugs?",
+   "options": [
+    "Nicotinic receptors",
+    "Muscarinic receptors",
+    "Beta-adrenoceptors",
+    "Alpha-adrenoceptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#a597a3",
+   "kind": "statement",
+   "stem": "How selective are direct muscarinic agonists and antagonists for muscarinic receptor subtypes?",
+   "answer": "Little selectivity between muscarinic subtypes.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#b596aa",
+   "kind": "statement",
+   "stem": "How commonly are direct-acting muscarinic agonists used?",
+   "answer": "Rarely, though they still have a few specific roles.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#2dc58a",
+   "kind": "mcq",
+   "stem": "Which semi-synthetic alkaloid is probably the most used direct muscarinic agonist?",
+   "options": [
+    "Bethanechol",
+    "Methacholine",
+    "Pilocarpine",
+    "Carbachol"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#77b70c",
+   "kind": "statement",
+   "stem": "How do acetylcholinesterase inhibitors produce parasympathomimetic effects?",
+   "answer": "They non-specifically block acetylcholine breakdown in the synapse.",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#c89c60",
+   "kind": "mcq",
+   "stem": "Which anticholinesterase is most commonly used?",
+   "options": [
+    "Pyridostigmine",
+    "Edrophonium",
+    "Physostigmine",
+    "Neostigmine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#341e49",
+   "kind": "mcq",
+   "stem": "After a single dose, when does neostigmine reach its peak effect?",
+   "options": [
+    "1-2 minutes",
+    "7-10 minutes",
+    "30-40 minutes",
+    "2-3 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#38beae",
+   "kind": "mcq",
+   "stem": "How does pyridostigmine's onset and duration compare with neostigmine?",
+   "options": [
+    "Faster onset and shorter action",
+    "Slower onset and shorter action",
+    "Faster onset and longer action",
+    "Slower onset and longer action"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#90fe1e",
+   "kind": "mcq",
+   "stem": "How does edrophonium's onset and duration compare with neostigmine?",
+   "options": [
+    "Much slower onset and longer action",
+    "Much faster onset and longer action",
+    "Much faster onset and shorter action",
+    "Slightly slower onset and shorter action"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#12e9a8",
+   "kind": "mcq",
+   "stem": "How long does the action of edrophonium last?",
+   "options": [
+    "1 hour",
+    "10 minutes",
+    "4 hours",
+    "24 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#17332e",
+   "kind": "mcq",
+   "stem": "Which drug is a muscarinic antagonist, rather than a parasympathomimetic?",
+   "options": [
+    "Neostigmine",
+    "Pilocarpine",
+    "Pyridostigmine",
+    "Atropine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#068dad",
+   "kind": "mcq",
+   "stem": "Which drug is a muscarinic antagonist, rather than a parasympathomimetic?",
+   "options": [
+    "Neostigmine",
+    "Pilocarpine",
+    "Pyridostigmine",
+    "Glycopyrrolate"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#172ef5",
+   "kind": "mcq",
+   "stem": "Why do central effects dominate with hyoscine (scopolamine)?",
+   "options": [
+    "It is very water soluble",
+    "It is very lipid soluble",
+    "It is highly protein bound",
+    "It is poorly absorbed"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#4cf3cc",
+   "kind": "mcq",
+   "stem": "What is ipratropium chemically related to?",
+   "options": [
+    "Natural belladonna alkaloid",
+    "Synthetic atropine derivative",
+    "Semi-synthetic pilocarpine derivative",
+    "Synthetic neostigmine derivative"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/parasympathetic-drugs#a0676e",
+   "kind": "mcq",
+   "stem": "Which muscarinic antagonist is relatively selective for M1 receptors?",
+   "options": [
+    "Atropine",
+    "Hyoscine",
+    "Ipratropium",
+    "Pirenzepine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

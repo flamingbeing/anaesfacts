@@ -1,0 +1,251 @@
+{
+ "topic": "comorbidities/valvular-heart-disease",
+ "questions": [
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#75106d",
+   "kind": "statement",
+   "stem": "In valvular heart disease with an undiagnosed murmur, what is the choice before surgery?",
+   "answer": "Proceed, or refer to cardiology for an echo",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#37f708",
+   "kind": "statement",
+   "stem": "In valvular heart disease, which pre-operative evaluation step covers symptoms?",
+   "answer": "Clinical review",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#6590a1",
+   "kind": "mcq",
+   "stem": "In valvular heart disease, which test is part of pre-operative evaluation for non-cardiac surgery?",
+   "options": [
+    "Spirometry",
+    "ECG",
+    "Exercise test",
+    "Bone scan"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#e8ebd7",
+   "kind": "mcq",
+   "stem": "When is a TTE advised in valvular heart disease before non-cardiac surgery?",
+   "options": [
+    "Only if symptoms are severe",
+    "For any soft murmur",
+    "If known or suspected disease of moderate or greater severity",
+    "Only after surgery"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#1cfcfc",
+   "kind": "mcq",
+   "stem": "In valve disease, how recent can an echo be if the patient is clinically unchanged?",
+   "options": [
+    "Within the past 6 months",
+    "Within the past 2 years",
+    "Within the past 12 months",
+    "Within the past 5 years"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#1e8e73",
+   "kind": "statement",
+   "stem": "Which two valve lesions are classed as high risk for non-cardiac surgery?",
+   "answer": "Aortic stenosis and mitral stenosis",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#a349ec",
+   "kind": "statement",
+   "stem": "How do left-sided regurgitant lesions compare with stenoses for cardiac risk?",
+   "answer": "They raise risk but are tolerated better than stenoses",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#2ee84d",
+   "kind": "statement",
+   "stem": "If valve disease meets criteria for intervention, what should happen to elective non-cardiac surgery?",
+   "answer": "Defer it and treat the valve first",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#56bd79",
+   "kind": "mcq",
+   "stem": "When may non-cardiac surgery go ahead despite severe uncorrected valve disease?",
+   "options": [
+    "Only after valve repair",
+    "In emergencies",
+    "Whenever the patient requests it",
+    "Never, under any circumstances"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#432077",
+   "kind": "mcq",
+   "stem": "In valvular heart disease, what is the haemodynamic mantra for stenotic lesions?",
+   "options": [
+    "Fast and forward",
+    "Slow and loose",
+    "Slow and tight",
+    "Fast and tight"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#9e05f0",
+   "kind": "mcq",
+   "stem": "In valvular heart disease, what heart rate range suits stenotic lesions for filling time?",
+   "options": [
+    "40-50bpm",
+    "60-70bpm",
+    "80-90bpm",
+    "100-110bpm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#529c2b",
+   "kind": "mcq",
+   "stem": "In valvular heart disease, what is the haemodynamic mantra for regurgitant lesions?",
+   "options": [
+    "Slow and tight",
+    "Slow and forward",
+    "Fast and tight",
+    "Fast and forward"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#2ca1ad",
+   "kind": "mcq",
+   "stem": "In valvular heart disease, what heart rate range suits regurgitant lesions?",
+   "options": [
+    "60-70bpm",
+    "40-50bpm",
+    "80-90bpm",
+    "100-120bpm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#a959c4",
+   "kind": "mcq",
+   "stem": "Which rhythm is preferred in valvular heart disease?",
+   "options": [
+    "Atrial fibrillation",
+    "Sinus rhythm",
+    "Junctional rhythm",
+    "Paced rhythm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#a959c4",
+   "kind": "statement",
+   "stem": "Why is sinus rhythm especially important in mitral stenosis and HOCM?",
+   "answer": "They rely on atrial kick",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#ebbea1",
+   "kind": "statement",
+   "stem": "What are the AHA 2020 echo criteria for severe aortic stenosis?",
+   "answer": "AVA <1cm2, mean gradient >40, Vmax >4",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#ebbea1",
+   "kind": "statement",
+   "stem": "Besides valve measures, what else indicates severe aortic stenosis under AHA 2020?",
+   "answer": "LVH, diastolic dysfunction, pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#dd1ce6",
+   "kind": "statement",
+   "stem": "What are the AHA 2020 criteria for severe mitral stenosis?",
+   "answer": "MVA <1.5cm2, pressure half-time >150ms",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#dd1ce6",
+   "kind": "statement",
+   "stem": "Besides MVA and pressure half-time, what else indicates severe mitral stenosis?",
+   "answer": "PASP >50, severe LA enlargement",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#763b20",
+   "kind": "statement",
+   "stem": "In valve disease, what MVA threshold is given under the ASE criteria?",
+   "answer": "<1cm2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#24d589",
+   "kind": "statement",
+   "stem": "What ERO threshold defines severe aortic regurgitation under AHA 2020?",
+   "answer": "ERO >30mm2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#24d589",
+   "kind": "statement",
+   "stem": "Besides regurgitant measures, what else indicates severe aortic regurgitation?",
+   "answer": "Severe LV dilation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#333cd2",
+   "kind": "statement",
+   "stem": "What ERO threshold defines severe mitral regurgitation under AHA 2020?",
+   "answer": "ERO >40mm2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "comorbidities/valvular-heart-disease#333cd2",
+   "kind": "statement",
+   "stem": "Besides regurgitant measures, what else indicates severe mitral regurgitation?",
+   "answer": "Severe LA and LV enlargement, pulmonary hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

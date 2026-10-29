@@ -1,0 +1,215 @@
+{
+ "topic": "drugs/oxycodone",
+ "questions": [
+  {
+   "fact_id": "drugs/oxycodone#f47fb6",
+   "kind": "mcq",
+   "stem": "What is the concentration of IV oxycodone?",
+   "options": [
+    "1mg in 1ml",
+    "10mg in 10ml",
+    "10mg in 1ml",
+    "5mg in 1ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#057b47",
+   "kind": "mcq",
+   "stem": "Which brand is the sustained-release oral oxycodone preparation?",
+   "options": [
+    "Oxynorm",
+    "Endone",
+    "Dilaudid",
+    "OxyContin"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#057b47",
+   "kind": "mcq",
+   "stem": "What dose range does immediate-release oral oxycodone come in?",
+   "options": [
+    "1-2mg",
+    "5-10mg",
+    "20-40mg",
+    "50-100mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#6142e9",
+   "kind": "statement",
+   "stem": "What is Targin?",
+   "answer": "Oxycodone with naloxone, as fixed prolonged-release tablets",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#1de0bb",
+   "kind": "mcq",
+   "stem": "Which oxycodone/naloxone strength comes as a Targin tablet?",
+   "options": [
+    "20 mg/5 mg",
+    "20 mg/10 mg",
+    "30 mg/15 mg",
+    "10 mg/2.5 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#8e63b8",
+   "kind": "mcq",
+   "stem": "When diluting IV oxycodone to 1mg/ml, what total volume should be made up?",
+   "options": [
+    "1ml",
+    "5ml",
+    "10ml",
+    "20ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#8e63b8",
+   "kind": "mcq",
+   "stem": "What size of IV oxycodone bolus is given once diluted to 1mg/ml?",
+   "options": [
+    "0.1-0.2mg",
+    "5-10mg",
+    "1-2mg",
+    "10-20mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#1dc17b",
+   "kind": "mcq",
+   "stem": "What is the paediatric oral oxycodone dose?",
+   "options": [
+    "0.5-1mg/kg Q6-8H",
+    "0.1-0.2mg/kg Q6-8H",
+    "0.1-0.2mg/kg Q2-4H",
+    "1-2mg/kg Q4H"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#1dc17b",
+   "kind": "mcq",
+   "stem": "How does paediatric oral oxycodone dosing compare with morphine?",
+   "options": [
+    "A bit more than morphine",
+    "Much higher than morphine",
+    "Twice the morphine dose",
+    "A bit less than morphine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#4f5095",
+   "kind": "mcq",
+   "stem": "How potent is oxycodone relative to morphine?",
+   "options": [
+    "Equally potent",
+    "1.5-2x more potent",
+    "1.5-2x less potent",
+    "10x more potent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#4f5095",
+   "kind": "mcq",
+   "stem": "What is oxycodone's mechanism of action?",
+   "options": [
+    "Alpha-2 adrenoceptor agonist",
+    "NMDA receptor antagonist",
+    "Opioid antagonist",
+    "Opioid agonist"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#44e7dc",
+   "kind": "statement",
+   "stem": "Why does the naloxone in Targin not reverse oxycodone's analgesia?",
+   "answer": "Heavy first-pass metabolism, so no systemic effect",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#44e7dc",
+   "kind": "statement",
+   "stem": "What does the naloxone in Targin do?",
+   "answer": "Acts locally on the gut to reduce constipation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#fa534e",
+   "kind": "statement",
+   "stem": "How does oxycodone's effect profile compare with morphine's?",
+   "answer": "Similar; some patients tolerate one better than the other",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#11bed0",
+   "kind": "mcq",
+   "stem": "What did the 2017 Cochrane review find about oxycodone for cancer pain?",
+   "options": [
+    "Much better pain relief than morphine",
+    "Pain relief and adverse events similar to morphine",
+    "Far more adverse events than morphine",
+    "No pain relief compared with morphine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#873fe4",
+   "kind": "statement",
+   "stem": "What is oxycodone's place in managing moderate to severe pain?",
+   "answer": "An alternative to morphine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#907a05",
+   "kind": "statement",
+   "stem": "For which patients is Targin indicated?",
+   "answer": "Severe pain with resistant constipation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/oxycodone#deea71",
+   "kind": "statement",
+   "stem": "What are the main metabolites of oxycodone?",
+   "answer": "Noroxycodone and oxymorphone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

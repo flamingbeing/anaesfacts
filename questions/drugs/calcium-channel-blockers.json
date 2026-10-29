@@ -1,0 +1,113 @@
+{
+ "topic": "drugs/calcium-channel-blockers",
+ "questions": [
+  {
+   "fact_id": "drugs/calcium-channel-blockers#4313aa",
+   "kind": "mcq",
+   "stem": "Which is a dihydropyridine calcium channel blocker?",
+   "options": [
+    "Verapamil",
+    "Diltiazem",
+    "Nifedipine",
+    "Digoxin"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/calcium-channel-blockers#6ac75a",
+   "kind": "mcq",
+   "stem": "Which calcium channel blocker is a non-dihydropyridine?",
+   "options": [
+    "Amlodipine",
+    "Nicardipine",
+    "Verapamil",
+    "Nimodipine"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/calcium-channel-blockers#85820b",
+   "kind": "mcq",
+   "stem": "Which calcium channel type do calcium channel blockers block?",
+   "options": [
+    "T-type",
+    "N-type",
+    "L-type",
+    "P-type"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/calcium-channel-blockers#95f9ec",
+   "kind": "statement",
+   "stem": "What do L-type calcium channels trigger?",
+   "answer": "Release of intracellular Ca2+",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/calcium-channel-blockers#7b6039",
+   "kind": "mcq",
+   "stem": "In which cells are N-type calcium channels found?",
+   "options": [
+    "Cardiac muscle only",
+    "Nerve cells only",
+    "Smooth muscle only",
+    "All cells equally"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/calcium-channel-blockers#8015c5",
+   "kind": "statement",
+   "stem": "Why do the effects of calcium channel blockers vary between individual drugs?",
+   "answer": "Each drug has a different affinity for L-type channels in myocardium, nodal tissue and vascular smooth muscle",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/calcium-channel-blockers#c99d01",
+   "kind": "statement",
+   "stem": "When are non-dihydropyridine calcium channel blockers contraindicated?",
+   "answer": "Heart block and low ejection fraction",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/calcium-channel-blockers#346f43",
+   "kind": "mcq",
+   "stem": "Which indication is shared by all calcium channel blockers?",
+   "options": [
+    "Acute asthma",
+    "Status epilepticus",
+    "Local anaesthetic toxicity",
+    "Essential hypertension"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/calcium-channel-blockers#1aca07",
+   "kind": "mcq",
+   "stem": "Apart from hypertension, which two indications do non-dihydropyridines also have?",
+   "options": [
+    "Angina and arrhythmias",
+    "Asthma and urticaria",
+    "Epilepsy and migraine",
+    "Glaucoma and tremor"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

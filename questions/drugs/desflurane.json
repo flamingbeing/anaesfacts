@@ -1,0 +1,301 @@
+{
+ "topic": "drugs/desflurane",
+ "questions": [
+  {
+   "fact_id": "drugs/desflurane#2dd39b",
+   "kind": "mcq",
+   "stem": "What is the MAC of desflurane?",
+   "options": [
+    "About 0.6%",
+    "About 2.0%",
+    "About 6.0%",
+    "About 60%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#2dd39b",
+   "kind": "mcq",
+   "stem": "What is desflurane's MAC40, the MAC at 40 years of age?",
+   "options": [
+    "6.6%",
+    "4.2%",
+    "8.1%",
+    "11.0%"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#390177",
+   "kind": "mcq",
+   "stem": "What is the boiling point of desflurane?",
+   "options": [
+    "2.35°C",
+    "23.5°C",
+    "13.2°C",
+    "32.5°C"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#579aac",
+   "kind": "mcq",
+   "stem": "What is the vapour pressure of desflurane at 20°C?",
+   "options": [
+    "669 mmHg",
+    "66.9 mmHg",
+    "6690 mmHg",
+    "96 mmHg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#6ef195",
+   "kind": "mcq",
+   "stem": "What is desflurane's blood:gas partition coefficient?",
+   "options": [
+    "0.04",
+    "0.14",
+    "0.42",
+    "4.2"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#cad607",
+   "kind": "statement",
+   "stem": "Why was desflurane slow to come into clinical use?",
+   "answer": "Difficulties in preparation and delivery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#b19ab5",
+   "kind": "mcq",
+   "stem": "At what temperature does the electronic Tec 6 vaporiser heat desflurane?",
+   "options": [
+    "29°C",
+    "49°C",
+    "39°C",
+    "59°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#b19ab5",
+   "kind": "mcq",
+   "stem": "At what pressure does the electronic Tec 6 vaporiser heat desflurane to 39°C?",
+   "options": [
+    "2 atmospheres",
+    "1 atmosphere",
+    "3 atmospheres",
+    "5 atmospheres"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#4c375b",
+   "kind": "statement",
+   "stem": "How does the desflurane vaporiser add vapour to the fresh gas flow?",
+   "answer": "It heats and pressurises the vapour, then adds a set fraction to the fresh gas flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#f57882",
+   "kind": "statement",
+   "stem": "Why is desflurane not suitable for inhalational induction?",
+   "answer": "It is pungent",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#59261f",
+   "kind": "mcq",
+   "stem": "How do desflurane's onset and offset compare with other volatile anaesthetics?",
+   "options": [
+    "Slowest of the volatiles",
+    "Same as other volatiles",
+    "Intermediate",
+    "Fastest of the volatiles"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#c1c1f7",
+   "kind": "statement",
+   "stem": "Why does desflurane give a quick wake-up after long cases and in obesity?",
+   "answer": "Minimal tissue uptake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#4c4d3b",
+   "kind": "mcq",
+   "stem": "At what desflurane concentration does transient sympathetic activation occur?",
+   "options": [
+    "Below 0.5 MAC",
+    "Above 0.5 MAC",
+    "Above 1 MAC",
+    "Below 1 MAC"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#de5abe",
+   "kind": "statement",
+   "stem": "What happens to PaCO2 and minute ventilation as desflurane concentration increases?",
+   "answer": "PaCO2 rises and minute ventilation falls",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#8f362f",
+   "kind": "mcq",
+   "stem": "How is desflurane's greenhouse effect compared with sevoflurane and isoflurane?",
+   "options": [
+    "Much better",
+    "Much worse",
+    "About the same",
+    "Slightly better"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#360b85",
+   "kind": "statement",
+   "stem": "Why use desflurane with care in ischaemic heart disease?",
+   "answer": "Sympathetic stimulation causing tachycardia and hypertension",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#dda5e6",
+   "kind": "mcq",
+   "stem": "How does desflurane compare with TIVA for postoperative nausea and vomiting (PONV)?",
+   "options": [
+    "Similar PONV",
+    "Less PONV",
+    "Much lower PONV",
+    "More PONV"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#2c6f96",
+   "kind": "mcq",
+   "stem": "Which potentially harmful gas can desflurane produce?",
+   "options": [
+    "Carbon monoxide",
+    "Nitrous oxide",
+    "Ozone",
+    "Sulphur dioxide"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#e361db",
+   "kind": "mcq",
+   "stem": "Which airway disease is a contraindication to desflurane?",
+   "options": [
+    "Epilepsy",
+    "Asthma",
+    "Hypothyroidism",
+    "Gallstones"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#2cbefd",
+   "kind": "statement",
+   "stem": "In what situation is desflurane contraindicated because of its effects?",
+   "answer": "When sympathetic stimulation must be avoided",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#0fc59b",
+   "kind": "mcq",
+   "stem": "Which type of surgery suits desflurane because of its rapid emergence?",
+   "options": [
+    "Cardiac bypass surgery",
+    "Neonatal surgery",
+    "Pacemaker insertion",
+    "Day case surgery"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#3ebcd6",
+   "kind": "mcq",
+   "stem": "For which two procedures is desflurane used for a quick, clean intraoperative wake-up?",
+   "options": [
+    "Hip replacement and knee arthroplasty",
+    "Cholecystectomy and hernia repair",
+    "Scoliosis surgery and awake craniotomy",
+    "Thyroidectomy and tonsillectomy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#854ade",
+   "kind": "mcq",
+   "stem": "Why is desflurane suited to bariatric surgery?",
+   "options": [
+    "High tissue uptake gives deeper sedation",
+    "Slow offset avoids early waking",
+    "Lower cost than other volatiles",
+    "Little tissue uptake gives rapid waking"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#8283b2",
+   "kind": "statement",
+   "stem": "Why is desflurane useful in prolonged surgery?",
+   "answer": "Low tissue uptake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/desflurane#ab977a",
+   "kind": "statement",
+   "stem": "Why does desflurane carry less risk of fluoride renal toxicity and halothane-type hepatitis?",
+   "answer": "Very low metabolism",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

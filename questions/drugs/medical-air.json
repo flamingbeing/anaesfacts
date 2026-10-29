@@ -1,0 +1,69 @@
+{
+ "topic": "drugs/medical-air",
+ "questions": [
+  {
+   "fact_id": "drugs/medical-air#f7d37e",
+   "kind": "mcq",
+   "stem": "How is medical air made for supply in cylinders?",
+   "options": [
+    "By blending nitrogen and carbon dioxide",
+    "By blending oxygen and nitrogen",
+    "By blending oxygen and helium",
+    "By blending oxygen and nitrous oxide"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/medical-air#f1e0d4",
+   "kind": "mcq",
+   "stem": "What supplies the hospital pipeline for medical air?",
+   "options": [
+    "Vacuum pumps",
+    "Liquid oxygen tanks",
+    "Compressor pumps",
+    "Nitrous oxide cylinders"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/medical-air#5b5e93",
+   "kind": "mcq",
+   "stem": "How does cylinder pressure relate to the gas remaining for medical air?",
+   "options": [
+    "Falls only in the last quarter",
+    "Constant until the cylinder is nearly empty",
+    "Rises as the cylinder is used",
+    "Proportional to the amount left"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/medical-air#9961fc",
+   "kind": "mcq",
+   "stem": "What is the critical temperature of medical air?",
+   "options": [
+    "-31°C",
+    "-78°C",
+    "-140°C",
+    "-196°C"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/medical-air#9961fc",
+   "kind": "statement",
+   "stem": "Why is medical air stored in cylinders only as a gas?",
+   "answer": "Its critical temperature is -140°C",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

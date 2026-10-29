@@ -1,0 +1,399 @@
+{
+ "topic": "crises/carbon-monoxide-poisoning",
+ "questions": [
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#c91c1b",
+   "kind": "mcq",
+   "stem": "Relative to air, how dense is carbon monoxide gas?",
+   "options": [
+    "Much heavier than air",
+    "Slightly heavier than air",
+    "Slightly lighter than air",
+    "Exactly the same density"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#136db2",
+   "kind": "mcq",
+   "stem": "Above roughly what concentration is carbon monoxide toxic to haemoglobin-carrying animals?",
+   "options": [
+    "About 5 ppm",
+    "About 200 ppm",
+    "About 35 ppm",
+    "About 1000 ppm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#09d50b",
+   "kind": "mcq",
+   "stem": "What is the most common cause of fatal air poisoning in many countries?",
+   "options": [
+    "Cyanide gas",
+    "Chlorine gas",
+    "Ammonia gas",
+    "Carbon monoxide"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#d027d4",
+   "kind": "mcq",
+   "stem": "Which physiologist showed in 1865 that carbon monoxide and oxygen compete for haemoglobin?",
+   "options": [
+    "Joseph Priestley",
+    "Ivan Pavlov",
+    "Claude Bernard",
+    "William Harvey"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#3df79b",
+   "kind": "mcq",
+   "stem": "Which cause accounts for most cases of carbon monoxide poisoning?",
+   "options": [
+    "Inhaled cyanide",
+    "Carbon dioxide retention",
+    "Methane gas leak",
+    "Smoke inhalation from fires"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#c5c62c",
+   "kind": "mcq",
+   "stem": "Which anaesthesia-related source is a cause of carbon monoxide exposure?",
+   "options": [
+    "Nitrous oxide",
+    "Propofol infusion",
+    "Volatile anaesthetics",
+    "Neuromuscular blockers"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#46d9fd",
+   "kind": "mcq",
+   "stem": "What baseline carboxyhaemoglobin is normal in nonsmokers?",
+   "options": [
+    "Up to 1 percent",
+    "Up to 3 percent",
+    "10 to 15 percent",
+    "Above 20 percent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#46d9fd",
+   "kind": "mcq",
+   "stem": "What baseline carboxyhaemoglobin is typical in smokers?",
+   "options": [
+    "5 to 8 percent",
+    "Up to 3 percent",
+    "20 to 25 percent",
+    "10 to 15 percent"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#396765",
+   "kind": "mcq",
+   "stem": "What share of body carbon monoxide sits outside the blood?",
+   "options": [
+    "About 10 to 15 percent",
+    "About 1 to 2 percent",
+    "About 40 to 50 percent",
+    "About 80 to 90 percent"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#396765",
+   "kind": "statement",
+   "stem": "Besides haemoglobin, which molecules bind carbon monoxide?",
+   "answer": "Myoglobin, cytochromes and NADPH reductase",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#916461",
+   "kind": "mcq",
+   "stem": "How much greater is carbon monoxide's affinity for haemoglobin than oxygen's?",
+   "options": [
+    "Twice as great",
+    "24 times",
+    "240 times",
+    "2400 times"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#76c2c8",
+   "kind": "statement",
+   "stem": "Why do the other haem sites release oxygen poorly once carbon monoxide binds one site?",
+   "answer": "Binding changes the molecule's shape",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#17b6df",
+   "kind": "statement",
+   "stem": "Which enzyme does carbon monoxide block, causing histotoxic hypoxia?",
+   "answer": "Cytochrome oxidase (cytochrome a3)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#a91130",
+   "kind": "statement",
+   "stem": "Which brain areas are most vulnerable to carbon monoxide poisoning?",
+   "answer": "Basal ganglia, hippocampus, cerebral cortex",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#7a204f",
+   "kind": "statement",
+   "stem": "When can neurological and psychiatric problems appear after carbon monoxide poisoning?",
+   "answer": "After recovery",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#a565b6",
+   "kind": "statement",
+   "stem": "How is carbon monoxide absorbed into the body?",
+   "answer": "Rapidly across the lungs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#e8a720",
+   "kind": "statement",
+   "stem": "How is carbon monoxide eliminated from the body?",
+   "answer": "Almost only via the lungs, as oxygen displaces it from haemoglobin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#0e1238",
+   "kind": "mcq",
+   "stem": "What mainly governs how quickly carbon monoxide is eliminated?",
+   "options": [
+    "Body temperature",
+    "Blood pH",
+    "Oxygenation",
+    "Urine output"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#f8a6f5",
+   "kind": "mcq",
+   "stem": "What is the carbon monoxide half-life breathing room air?",
+   "options": [
+    "About 30 minutes",
+    "About 90 minutes",
+    "About 250 to 320 minutes",
+    "About 500 to 600 minutes"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#b27c3c",
+   "kind": "mcq",
+   "stem": "What is the carbon monoxide half-life on 100 percent hyperbaric oxygen?",
+   "options": [
+    "About 15 minutes",
+    "About 90 minutes",
+    "About 250 to 320 minutes",
+    "About 30 minutes"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#0e116f",
+   "kind": "mcq",
+   "stem": "What is the carbon monoxide half-life on high-flow oxygen by non-rebreathing mask?",
+   "options": [
+    "About 45 minutes",
+    "About 90 minutes",
+    "About 180 minutes",
+    "About 250 to 320 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#40b038",
+   "kind": "mcq",
+   "stem": "What is the most common symptom of mild to moderate carbon monoxide poisoning?",
+   "options": [
+    "Seizures",
+    "Cherry-red lips",
+    "Headache",
+    "Syncope"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#994263",
+   "kind": "statement",
+   "stem": "What colour do the lips and skin appear in carbon monoxide poisoning?",
+   "answer": "Cherry-red",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#a1f643",
+   "kind": "statement",
+   "stem": "Which neurological features does carbon monoxide poisoning cause?",
+   "answer": "Seizures, syncope, coma",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#3bb952",
+   "kind": "statement",
+   "stem": "What cardiac complications does carbon monoxide poisoning cause?",
+   "answer": "Myocardial ischaemia, ventricular arrhythmias, pulmonary oedema",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#0066f5",
+   "kind": "mcq",
+   "stem": "Which metabolic complication is seen in carbon monoxide poisoning?",
+   "options": [
+    "Hyperchloraemic acidosis",
+    "Severe lactic acidosis",
+    "Hypernatraemia",
+    "Hypoglycaemia"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#95d440",
+   "kind": "statement",
+   "stem": "Why does standard pulse oximetry read near 100% in carbon monoxide poisoning?",
+   "answer": "It reads COHb as oxyhaemoglobin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#dbe5c0",
+   "kind": "statement",
+   "stem": "Why do the carotid and aortic bodies not sense hypoxia in carbon monoxide poisoning?",
+   "answer": "Arterial PO2 is normal",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#07d82a",
+   "kind": "blank",
+   "stem": "In carbon monoxide poisoning, haemoglobin-bound oxygen normally makes up ____ percent of arterial oxygen content.",
+   "answer": "98",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#2f4d7f",
+   "kind": "mcq",
+   "stem": "How is raised carboxyhaemoglobin confirmed?",
+   "options": [
+    "Standard pulse oximetry",
+    "Chest X-ray",
+    "Co-oximetry on a blood gas",
+    "Serum lactate alone"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#2f4d7f",
+   "kind": "statement",
+   "stem": "Which sample is accurate for COHb in haemodynamically stable patients?",
+   "answer": "Venous sample",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#9ec896",
+   "kind": "mcq",
+   "stem": "In carbon monoxide poisoning, neurological impairment is unusual below what COHb level?",
+   "options": [
+    "<5%",
+    ">50%",
+    "<20%",
+    "<35%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#72b429",
+   "kind": "mcq",
+   "stem": "At what COHb level does carbon monoxide poisoning usually prove fatal?",
+   "options": [
+    "<20%",
+    "<35%",
+    ">25%",
+    ">50%"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#3bdbf7",
+   "kind": "blank",
+   "stem": "Carbon monoxide poisoning is treated with high-flow ____.",
+   "answer": "oxygen",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "crises/carbon-monoxide-poisoning#79d765",
+   "kind": "blank",
+   "stem": "Carbon monoxide poisoning is treated with ____ oxygen.",
+   "answer": "hyperbaric",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

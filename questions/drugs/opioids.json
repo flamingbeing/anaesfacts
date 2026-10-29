@@ -1,0 +1,1451 @@
+{
+ "topic": "drugs/opioids",
+ "questions": [
+  {
+   "fact_id": "drugs/opioids#0aef86",
+   "kind": "mcq",
+   "stem": "What is an opiate?",
+   "options": [
+    "A fully synthetic drug with no receptor activity",
+    "A naturally occurring substance with morphine-like actions",
+    "A drug that reverses respiratory depression",
+    "A partial mu agonist used only for mild pain"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#8ec500",
+   "kind": "statement",
+   "stem": "How does the term opioid differ from opiate?",
+   "answer": "Opioid is the wider term, including synthetic drugs with affinity for opioid receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#4105bb",
+   "kind": "mcq",
+   "stem": "How many chemical classes do Group 1 (naturally occurring) opioids have?",
+   "options": [
+    "Three",
+    "One",
+    "Two",
+    "Four"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#d0e2e1",
+   "kind": "mcq",
+   "stem": "What defines a Group 2 (semisynthetic) opioid?",
+   "options": [
+    "Found unchanged in the opium poppy",
+    "Built entirely from non-opioid chemical structures",
+    "Made by modifying natural opioids",
+    "Acts only on kappa receptors"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#14d1b2",
+   "kind": "mcq",
+   "stem": "What is the structural class of Group 3 opioids?",
+   "options": [
+    "Naturally occurring",
+    "Modified from natural",
+    "Synthetic",
+    "Mixed receptor action"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#caa7ea",
+   "kind": "mcq",
+   "stem": "What usually causes a rash after morphine?",
+   "options": [
+    "True IgE-mediated anaphylaxis",
+    "Histamine release",
+    "Excess mu receptor stimulation in skin",
+    "Direct skin toxicity from the parent drug"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#2c582f",
+   "kind": "mcq",
+   "stem": "How common is true anaphylaxis to opioids?",
+   "options": [
+    "Around 5% of patients",
+    "Very rare (< 1%)",
+    "Around 10% of patients",
+    "Very common (over 20%)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#865b54",
+   "kind": "mcq",
+   "stem": "After a true opioid allergy, how should the replacement opioid be chosen?",
+   "options": [
+    "The same opioid at a lower dose",
+    "Any opioid from the same chemical group",
+    "A structurally different opioid",
+    "The oral form of the same drug"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#53a54b",
+   "kind": "mcq",
+   "stem": "Which two opioid groups are structurally close, so avoid both after a true allergy to one?",
+   "options": [
+    "Groups 2 and 3",
+    "Groups 1 and 3",
+    "Groups 1 and 2",
+    "Group 3 only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#313e7d",
+   "kind": "mcq",
+   "stem": "Why can Group 3 synthetic opioids usually be given after a true allergy to a Group 1 opioid?",
+   "options": [
+    "They are the same drug class, so cross-react less",
+    "They are given in doses too low to trigger allergy",
+    "They are structurally different enough to avoid cross-reactivity",
+    "They are given only by the epidural route"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#ba6042",
+   "kind": "mcq",
+   "stem": "Which type of mu receptor binding is best for acute pain?",
+   "options": [
+    "Partial agonists (partial mu binding)",
+    "Agonist-antagonists (mu antagonist)",
+    "Pure antagonists (no receptor binding)",
+    "Pure agonists (full mu binding)"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#881f5e",
+   "kind": "mcq",
+   "stem": "Why are partial opioid agonists of limited use for pain?",
+   "options": [
+    "Full mu receptor binding at all doses",
+    "Complete kappa receptor blockade",
+    "Rapid renal excretion without metabolism",
+    "Only partial mu receptor binding"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#8f673f",
+   "kind": "mcq",
+   "stem": "What receptor profile defines agonist-antagonist opioids?",
+   "options": [
+    "Mu agonist, kappa antagonist",
+    "Delta agonist, kappa antagonist",
+    "Kappa agonist, mu antagonist",
+    "Mu antagonist, delta agonist"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#111ced",
+   "kind": "mcq",
+   "stem": "Which receptors do opioids act on in brain and spinal cord, mimicking endorphins?",
+   "options": [
+    "Alpha-1 and beta-1 only",
+    "Mu, kappa and delta",
+    "Nicotinic and muscarinic only",
+    "Serotonin 5-HT3 only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#788cce",
+   "kind": "mcq",
+   "stem": "Which opioid action gives the most potent clinical analgesia?",
+   "options": [
+    "Mu agonists",
+    "Kappa agonists",
+    "Delta agonists",
+    "Mu antagonists"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#1e246b",
+   "kind": "mcq",
+   "stem": "What class of receptor are opioid receptors?",
+   "options": [
+    "Ligand-gated ion channels",
+    "G-protein-coupled receptors",
+    "Tyrosine kinase receptors",
+    "Nuclear hormone receptors"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#392ffc",
+   "kind": "mcq",
+   "stem": "Which opioid is available as a transdermal patch?",
+   "options": [
+    "Pethidine",
+    "Remifentanil",
+    "Tramadol",
+    "Fentanyl"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#6f3d1f",
+   "kind": "mcq",
+   "stem": "Which plasma proteins partly bind opioids?",
+   "options": [
+    "Haemoglobin and transferrin",
+    "Albumin and α1-acid glycoprotein",
+    "Albumin and fibrinogen",
+    "Globulin and ferritin"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#c6159d",
+   "kind": "mcq",
+   "stem": "Which form of an opioid does the receptor bind?",
+   "options": [
+    "The un-ionised, lipid-soluble form",
+    "The protonated (ionised) form",
+    "The protein-bound form only",
+    "The renally excreted metabolite"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#77eb05",
+   "kind": "mcq",
+   "stem": "What mainly ends the effect of opioids (offset)?",
+   "options": [
+    "Urinary excretion of unchanged drug",
+    "Plasma protein binding alone",
+    "Redistribution and hepatic metabolism",
+    "Biliary excretion of the parent drug"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#2a0bd3",
+   "kind": "statement",
+   "stem": "In renal failure, which opioids does impaired clearance matter most for?",
+   "answer": "Meperidine, morphine, hydromorphone and their prodrugs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#a29be2",
+   "kind": "mcq",
+   "stem": "Which polymorphic liver enzyme matters more clinically for codeine?",
+   "options": [
+    "CYP2C9",
+    "CYP2D6",
+    "CYP1A2",
+    "CYP2E1"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#ad0f63",
+   "kind": "mcq",
+   "stem": "Which body size measure best relates to opioid clearance for dosing?",
+   "options": [
+    "Total body weight",
+    "Lean body mass",
+    "Body mass index",
+    "Body surface area"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#99c803",
+   "kind": "mcq",
+   "stem": "How should opioid doses change in haemorrhagic shock?",
+   "options": [
+    "Keep the usual dose unchanged",
+    "Reduce the dose substantially",
+    "Double the dose for faster onset",
+    "Increase slightly to offset hypotension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#1fb22b",
+   "kind": "mcq",
+   "stem": "By when does opioid elimination normalise in neonates?",
+   "options": [
+    "Within the first month",
+    "Within the first year",
+    "By age five years",
+    "By puberty"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#1fb22b",
+   "kind": "statement",
+   "stem": "Why are opioids eliminated more slowly in neonates?",
+   "answer": "Immature metabolism, including CYP450 activity",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#9da010",
+   "kind": "mcq",
+   "stem": "What are the few absolute contraindications to opioids?",
+   "options": [
+    "Hepatic impairment of any degree",
+    "Hypersensitivity to a specific opioid",
+    "Chronic renal failure of any degree",
+    "Age under 65 years"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#9f8430",
+   "kind": "mcq",
+   "stem": "Most opioid contraindications are relative; what is their main type?",
+   "options": [
+    "Allergic",
+    "Cardiac",
+    "Metabolic",
+    "Neurological"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b85f98",
+   "kind": "blank",
+   "stem": "Anaesthetic effects of opioids: they give analgesia and sedation but no reliable ____.",
+   "answer": "amnesia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#d9f2c3",
+   "kind": "mcq",
+   "stem": "Why does the benefit and side-effect profile of opioids vary between patients?",
+   "options": [
+    "Mainly differences in the local anaesthetic used",
+    "Only differences in patient body mass",
+    "Only the dose given per kilogram",
+    "Likely genetic and environmental factors"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#462272",
+   "kind": "mcq",
+   "stem": "Which two cardiovascular effects do opioids cause by raising vagal tone?",
+   "options": [
+    "Tachycardia and hypertension",
+    "Bradycardia and hypotension",
+    "Tachycardia and hypotension",
+    "Bradycardia and hypertension"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#6ca2b6",
+   "kind": "mcq",
+   "stem": "How does opioid direct myocardial depression compare with many IV and inhaled anaesthetics?",
+   "options": [
+    "Much greater",
+    "About the same",
+    "Only greater at high doses",
+    "Much less"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#1172c7",
+   "kind": "mcq",
+   "stem": "What is the overall direct effect of opioids on cardiac rhythm?",
+   "options": [
+    "Overall proarrhythmic",
+    "Overall antiarrhythmic",
+    "Frequent heart block",
+    "Ventricular fibrillation"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#8a390d",
+   "kind": "mcq",
+   "stem": "How do high-dose opioids compare with volatile agents for myocardial oxygen balance?",
+   "options": [
+    "Worse perfusion and oxygen supply",
+    "Only better at low doses",
+    "As well as or better than volatiles",
+    "Always impair oxygen supply-demand"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#0f4b8b",
+   "kind": "mcq",
+   "stem": "What vascular effect do opioids have?",
+   "options": [
+    "Marked systemic vasoconstriction",
+    "Pulmonary vasoconstriction only",
+    "Mild systemic vasodilation, possibly pulmonary vasodilation",
+    "Severe coronary artery spasm"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#92d04b",
+   "kind": "mcq",
+   "stem": "Which two stress-response pathways do opioids blunt?",
+   "options": [
+    "Parasympathetic and thyroid axis",
+    "Sympathetic and hormonal (HPA axis)",
+    "Immune and coagulation only",
+    "Vagal and insulin only"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#abbf3a",
+   "kind": "mcq",
+   "stem": "In which situation are opioids useful for haemodynamic stability?",
+   "options": [
+    "When haemodynamic instability is expected",
+    "When the patient is hypothermic only",
+    "When cardiac output must be raised",
+    "Only for patients already on inotropes"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#a49766",
+   "kind": "mcq",
+   "stem": "What is the most serious adverse effect of opioids?",
+   "options": [
+    "Respiratory depression",
+    "Pruritus",
+    "Urinary retention",
+    "Postoperative nausea"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#36d215",
+   "kind": "mcq",
+   "stem": "How do opioids change the ventilatory response to carbon dioxide?",
+   "options": [
+    "Increased, with a lower apnoeic threshold",
+    "Unchanged, with a lower end-tidal CO2",
+    "Reduced, with a higher apnoeic threshold and higher end-tidal CO2",
+    "Unchanged, with a higher apnoeic threshold"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#70d60b",
+   "kind": "mcq",
+   "stem": "Why can supplemental oxygen deepen opioid respiratory depression?",
+   "options": [
+    "It raises the CO2 response above normal",
+    "It increases opioid receptor binding",
+    "It removes the hypoxic stimulus to breathing",
+    "It blocks the CO2 response directly"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#ebcee1",
+   "kind": "mcq",
+   "stem": "In up to what share of patients does an IV bolus of fentanyl, sufentanil or alfentanil cause brief cough?",
+   "options": [
+    "Up to 10%",
+    "Up to 25%",
+    "Up to 50%",
+    "Up to 75%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#ebcee1",
+   "kind": "statement",
+   "stem": "Which IV opioid boluses can cause brief cough?",
+   "answer": "Fentanyl, sufentanil and alfentanil",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#c3cb22",
+   "kind": "mcq",
+   "stem": "Which opioid most often causes bronchospasm through histamine release?",
+   "options": [
+    "Fentanyl",
+    "Remifentanil",
+    "Sufentanil",
+    "Morphine"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#172b6b",
+   "kind": "mcq",
+   "stem": "What do opioids tend to do to cerebral blood flow alongside vasodilating anaesthetics or N2O?",
+   "options": [
+    "Cerebral vasodilation and higher CBF",
+    "No change in cerebral blood flow",
+    "Cerebral vasoconstriction and lower CBF",
+    "Cerebral vasoconstriction and higher CBF"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#da82ff",
+   "kind": "mcq",
+   "stem": "What is the effect of opioids on intracranial pressure with controlled ventilation?",
+   "options": [
+    "Minimal effect",
+    "Marked rise in ICP",
+    "Marked fall in ICP",
+    "Doubling of ICP"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#da4c33",
+   "kind": "mcq",
+   "stem": "Which opioid-related activity can raise regional cerebral metabolism?",
+   "options": [
+    "Global cerebral suppression only",
+    "Reduced neuronal firing",
+    "Neuronal hyperpolarisation alone",
+    "Neuroexcitation and focal seizure activity"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#5b90ca",
+   "kind": "mcq",
+   "stem": "Is there a seizure risk from opioids at normal doses in patients without epilepsy?",
+   "options": [
+    "No risk at normal doses without epilepsy",
+    "High risk even at normal doses",
+    "Seizures only with naloxone",
+    "Seizures only after spinal injection"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#1b815e",
+   "kind": "mcq",
+   "stem": "Are intraoperative opioids a risk factor for postoperative nausea and vomiting?",
+   "options": [
+    "No, they are protective",
+    "Only with regional anaesthesia",
+    "Only in children",
+    "Yes, a known risk factor"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#de88d5",
+   "kind": "statement",
+   "stem": "Where do opioids act to cause nausea, and through which receptors?",
+   "answer": "Chemoreceptor trigger zone, via 5-HT3 and dopamine receptors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#4b0479",
+   "kind": "statement",
+   "stem": "How do opioids affect gastric emptying and bowel transit?",
+   "answer": "Slow gastric emptying and transit, causing constipation and ileus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#bfc387",
+   "kind": "mcq",
+   "stem": "What urinary effect does mu receptor activation by opioids cause?",
+   "options": [
+    "Diuresis with marked electrolyte loss",
+    "Antidiuresis with less electrolyte excretion",
+    "Diuresis with little electrolyte change",
+    "Polyuria from increased sodium loss"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#bfc387",
+   "kind": "mcq",
+   "stem": "What urinary effect does kappa receptor activation by opioids cause?",
+   "options": [
+    "Urinary retention with marked sodium loss",
+    "Antidiuresis with little electrolyte change",
+    "Diuresis with little electrolyte change",
+    "Diuresis with marked electrolyte loss"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#4e7db3",
+   "kind": "statement",
+   "stem": "What is the general effect of opioids on renal function?",
+   "answer": "Largely preserved; changes are secondary to systemic and renal haemodynamics",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#2b2888",
+   "kind": "statement",
+   "stem": "Which opioid route especially causes urinary retention?",
+   "answer": "Intrathecal opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#4467ef",
+   "kind": "mcq",
+   "stem": "What do opioids do to ureteric tone?",
+   "options": [
+    "Decrease it",
+    "Increase it",
+    "Leave it unchanged",
+    "Abolish it"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#507b09",
+   "kind": "mcq",
+   "stem": "What postoperative effect can high-dose intraoperative remifentanil have?",
+   "options": [
+    "Complete postoperative analgesia",
+    "Prolonged postoperative apnoea",
+    "A small but significant rise in postoperative pain",
+    "Reduced need for antiemetics"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#043570",
+   "kind": "mcq",
+   "stem": "What may contribute to opioid-induced hyperalgesia?",
+   "options": [
+    "Gradual weaning over time",
+    "Abrupt withdrawal",
+    "Ketamine co-administration",
+    "Parecoxib pre-treatment"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#988380",
+   "kind": "mcq",
+   "stem": "What happens after remifentanil at 2.5 ng/mL for 30 minutes is stopped abruptly?",
+   "options": [
+    "Hyperalgesia is common",
+    "Hyperalgesia never occurs",
+    "Hyperalgesia only after 24 hours",
+    "Hyperalgesia only with weaning"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#a0e4f0",
+   "kind": "mcq",
+   "stem": "Which remifentanil weaning regime avoided hyperalgesia?",
+   "options": [
+    "Stopped abruptly from 2.5 ng/mL",
+    "Weaned by 0.6 ng/mL every 5 minutes",
+    "Weaned by 0.6 ng/mL every 30 minutes",
+    "Weaned by 2.5 ng/mL every 30 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#0c7cb6",
+   "kind": "mcq",
+   "stem": "What is the probable mechanism of opioid-induced hyperalgesia?",
+   "options": [
+    "Sensitisation of pronociceptive pathways, probably NMDA receptor involvement",
+    "Direct blockade of antinociceptive pathways only",
+    "Opioid receptor tolerance without sensitisation",
+    "Histamine-mediated peripheral vasodilation"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#018643",
+   "kind": "mcq",
+   "stem": "Which drug supports an NMDA role in opioid-induced hyperalgesia?",
+   "options": [
+    "Naloxone",
+    "Ondansetron",
+    "Ketamine",
+    "Parecoxib"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#c6873c",
+   "kind": "mcq",
+   "stem": "Which COX-2 inhibitor, given before remifentanil, suggested COX-2 involvement in hyperalgesia?",
+   "options": [
+    "Ibuprofen",
+    "Diclofenac",
+    "Aspirin",
+    "Parecoxib"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#baeff2",
+   "kind": "mcq",
+   "stem": "What chronic problem is opioid-induced hyperalgesia linked to?",
+   "options": [
+    "Chronic renal failure",
+    "Chronic dry mouth",
+    "Chronic postoperative pain",
+    "Chronic urinary retention"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#bad43b",
+   "kind": "mcq",
+   "stem": "Does histamine release explain opioid-induced pruritus?",
+   "options": [
+    "Yes, histamine release is the sole cause",
+    "No, non-histamine-releasing opioids also cause it",
+    "Yes, but only with intrathecal use",
+    "No, it is caused only by naloxone"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#4df8a2",
+   "kind": "mcq",
+   "stem": "After which opioid routes is pruritus worst?",
+   "options": [
+    "Intravenous bolus use",
+    "Oral use",
+    "Intrathecal or epidural use",
+    "Transdermal patch use"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#2df18e",
+   "kind": "statement",
+   "stem": "How may antihistamines help with opioid-induced pruritus?",
+   "answer": "Possibly through sedation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#1670cc",
+   "kind": "mcq",
+   "stem": "Why is naloxone a poor choice for treating opioid-induced pruritus?",
+   "options": [
+    "It causes marked hypotension",
+    "It worsens sedation",
+    "It also reverses analgesia",
+    "It causes urinary retention"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#8f5a22",
+   "kind": "statement",
+   "stem": "Why are nalbuphine and butorphanol increasingly used for opioid-induced pruritus?",
+   "answer": "Partial mu antagonism with kappa analgesia kept",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#49f337",
+   "kind": "blank",
+   "stem": "In pregnancy, maternal opioids reduce fetal heart rate ____.",
+   "answer": "variability",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#af8384",
+   "kind": "mcq",
+   "stem": "What milk-to-plasma ratio do fentanyl and morphine reach in breast milk?",
+   "options": [
+    "20 to 30:1",
+    "0.1 to 0.2:1",
+    "2 to 3:1",
+    "5 to 6:1"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#d6e324",
+   "kind": "statement",
+   "stem": "Under anaesthesia, how far do opioids probably lower thermoregulatory thresholds?",
+   "answer": "About as much as volatile agents",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b4b86e",
+   "kind": "statement",
+   "stem": "Why do opioids constrict the pupil?",
+   "answer": "They remove inhibition of the Edinger-Westphal nucleus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#38636a",
+   "kind": "statement",
+   "stem": "Which hormones fall with opioid administration?",
+   "answer": "LH, testosterone, oestradiol and oxytocin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#db4e4d",
+   "kind": "statement",
+   "stem": "How do opioids affect sphincter of Oddi tone and bile duct pressure?",
+   "answer": "Both increase, usually with little clinical consequence",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b5931d",
+   "kind": "statement",
+   "stem": "What effect can opioids have on sleep after surgery?",
+   "answer": "They can disrupt sleep on the first postoperative night",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#f3c072",
+   "kind": "statement",
+   "stem": "What is the suspected cause of opioid-induced hallucinations?",
+   "answer": "Possibly dopamine dysregulation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#f37ba3",
+   "kind": "mcq",
+   "stem": "How do opioids affect sensory and motor evoked potentials?",
+   "options": [
+    "Completely abolished at induction",
+    "Largely unaffected",
+    "Markedly delayed in latency",
+    "Greatly increased in amplitude"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#30f788",
+   "kind": "statement",
+   "stem": "What possible benefit do opioids have in liver surgery?",
+   "answer": "May reduce ischaemia-reperfusion injury",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#c8b968",
+   "kind": "statement",
+   "stem": "What does animal data suggest about teratogenicity of fentanyl, sufentanil and alfentanil?",
+   "answer": "Appears minimal in animals",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b169ac",
+   "kind": "statement",
+   "stem": "Which babies are at risk of neonatal abstinence syndrome after maternal opioid exposure?",
+   "answer": "Babies of mothers with opioid use disorder or on prescribed opioids",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b3b36c",
+   "kind": "mcq",
+   "stem": "Which opioids at induction help prevent a rise in intraocular pressure?",
+   "options": [
+    "Propofol and thiopental",
+    "Fentanyl, sufentanil and alfentanil",
+    "Suxamethonium and rocuronium",
+    "Pethidine and codeine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#5a1004",
+   "kind": "statement",
+   "stem": "What does epidemiology suggest about cancer recurrence after opioid-based anaesthesia?",
+   "answer": "More recurrence than after local anaesthesia or regional techniques",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#86a5ab",
+   "kind": "mcq",
+   "stem": "In opioid overdose, which sedation finding defines oversedation?",
+   "options": [
+    "Sedation score 2, drowsy but talking",
+    "Sedation score 1, rousable to voice",
+    "Sedation score 3 or unrousable",
+    "Sedation score 2 with normal breathing"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#08799d",
+   "kind": "mcq",
+   "stem": "What respiratory rate defines hypoventilation in opioid overdose?",
+   "options": [
+    "Above 12 breaths per minute",
+    "8 breaths per minute or less",
+    "Above 20 breaths per minute",
+    "Above 30 breaths per minute"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#007ff1",
+   "kind": "mcq",
+   "stem": "What is the full adult IV naloxone dose for opioid overdose?",
+   "options": [
+    "0.04 mg IV",
+    "1.5 mg IV",
+    "0.4 mg IV",
+    "10 mg IV"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#007ff1",
+   "kind": "mcq",
+   "stem": "What is the highest IV naloxone dose used to diagnose adult opioid overdose?",
+   "options": [
+    "5 mg IV",
+    "2 mg IV",
+    "10 mg IV",
+    "20 mg IV"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b55aa0",
+   "kind": "statement",
+   "stem": "After naloxone wears off in opioid overdose, what should happen to the patient?",
+   "answer": "Observe until awake",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b55aa0",
+   "kind": "blank",
+   "stem": "With long-acting opioids, a naloxone infusion may be needed for up to ____.",
+   "answer": ">48 h",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#3b21a1",
+   "kind": "statement",
+   "stem": "What can cause renarcotisation after naloxone in opioid overdose?",
+   "answer": "Any agonist with a longer half-life than naloxone",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#0497f7",
+   "kind": "statement",
+   "stem": "Where do secondary peaks in opioid plasma levels come from?",
+   "answer": "Release from muscle, lung, fat and gut",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#a21f16",
+   "kind": "mcq",
+   "stem": "What does opioid tolerance mean for the analgesia from a fixed dose?",
+   "options": [
+    "More analgesia over time, so doses fall",
+    "Less analgesia over time, so doses escalate",
+    "Faster onset of analgesia each dose",
+    "Same analgesia but a longer duration"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#00455d",
+   "kind": "statement",
+   "stem": "How is physiological dependence on opioids shown?",
+   "answer": "Withdrawal when the drug is stopped abruptly",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#e0ba34",
+   "kind": "statement",
+   "stem": "What are the early symptoms of opioid withdrawal?",
+   "answer": "Irritability, anxiety, insomnia, sweating, yawning, rhinorrhoea and lacrimation",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#e0ba34",
+   "kind": "statement",
+   "stem": "What later symptoms occur in opioid withdrawal?",
+   "answer": "Fever, chills, myalgia, abdominal cramps, diarrhoea and tachycardia",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#3ac041",
+   "kind": "mcq",
+   "stem": "How long does opioid withdrawal typically last?",
+   "options": [
+    "1–2 days",
+    "3–7 days",
+    "2–3 weeks",
+    "3–7 months"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#836af7",
+   "kind": "statement",
+   "stem": "How is opioid addiction defined?",
+   "answer": "Use causing physical, psychological or social harm, continued despite it",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#c989cc",
+   "kind": "statement",
+   "stem": "What is known about the mechanisms behind opioid addiction?",
+   "answer": "Not fully known; genetic, molecular, cellular, physiological and functional factors",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#55db09",
+   "kind": "statement",
+   "stem": "How do different opioid effects develop tolerance?",
+   "answer": "At different rates and to different degrees",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#02b821",
+   "kind": "statement",
+   "stem": "Can opioid tolerance develop without chronic use? Give one example.",
+   "answer": "Yes, acute tolerance, e.g. with remifentanil",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#acb8cb",
+   "kind": "statement",
+   "stem": "In chronic high-dose opioid users, how predictable is tolerance for analgesia and respiratory depression?",
+   "answer": "Hard to predict",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#e32b5b",
+   "kind": "mcq",
+   "stem": "Which of these is not a classical (naloxone-sensitive) opioid receptor?",
+   "options": [
+    "MOP (mu)",
+    "NOP",
+    "KOP (kappa)",
+    "DOP (delta)"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#35f630",
+   "kind": "statement",
+   "stem": "How is the NOP receptor classified within the opioid family?",
+   "answer": "Non-classical, a non-opioid member of the family",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#43473f",
+   "kind": "statement",
+   "stem": "Which opioid receptor mainly mediates clinical opioid analgesia?",
+   "answer": "MOP",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#15db15",
+   "kind": "statement",
+   "stem": "Where do the endogenous opioid peptides for each receptor come from?",
+   "answer": "Selective peptides cleaved from precursor prohormones",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#52df8b",
+   "kind": "statement",
+   "stem": "Which endogenous peptides act on MOP receptors?",
+   "answer": "Beta-endorphin, endomorphin-1 and endomorphin-2",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#52df8b",
+   "kind": "statement",
+   "stem": "What is the precursor of the MOP peptide beta-endorphin?",
+   "answer": "Pro-opiomelanocortin (POMC)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#0ce2ea",
+   "kind": "statement",
+   "stem": "Which endogenous peptides act on DOP (delta) receptors?",
+   "answer": "Met-enkephalin and leu-enkephalin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#0ce2ea",
+   "kind": "statement",
+   "stem": "What is the precursor prohormone of the DOP endogenous peptides?",
+   "answer": "Pro-enkephalin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#8cd91b",
+   "kind": "statement",
+   "stem": "Which endogenous peptides act on KOP (kappa) receptors?",
+   "answer": "Dynorphin A and dynorphin B",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#370ffb",
+   "kind": "statement",
+   "stem": "What is the endogenous ligand of the NOP receptor?",
+   "answer": "Nociceptin, or orphanin FQ (N/OFQ)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#c7364f",
+   "kind": "statement",
+   "stem": "Where are MOP receptors found in the body?",
+   "answer": "Throughout the CNS and in peripheral neural and non-neural tissue",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#5cd29e",
+   "kind": "statement",
+   "stem": "Which supraspinal region has dense opioid MOP receptors?",
+   "answer": "Periaqueductal grey (PAG)",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b79a0b",
+   "kind": "statement",
+   "stem": "Where in the spinal cord do opioids reduce pain transmission?",
+   "answer": "Substantia gelatinosa of the dorsal horn",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b79a0b",
+   "kind": "statement",
+   "stem": "Spinal opioids cut C and Aδ fibre transmission by reducing release of which two transmitters?",
+   "answer": "Glutamate and substance P",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#d58788",
+   "kind": "statement",
+   "stem": "Which opioid effects are driven by peripheral receptors?",
+   "answer": "Reduced gut motility, urinary retention and pruritus",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#36e36a",
+   "kind": "mcq",
+   "stem": "In opioid mood and reward effects, dopamine is released mainly in which structure?",
+   "options": [
+    "Locus coeruleus",
+    "Nucleus accumbens",
+    "Periaqueductal grey",
+    "Substantia gelatinosa"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#6d5389",
+   "kind": "statement",
+   "stem": "What type of receptor are the opioid receptors?",
+   "answer": "Gi-coupled GPCRs",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#f37304",
+   "kind": "mcq",
+   "stem": "What do opioid receptors do to adenylyl cyclase?",
+   "options": [
+    "Activate it, raising cAMP",
+    "Inhibit it, lowering cAMP",
+    "Inhibit it, raising cAMP",
+    "Activate it, lowering cAMP"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#5ebd73",
+   "kind": "statement",
+   "stem": "Which potassium channels do opioid receptors open in neurons?",
+   "answer": "G-protein-gated inwardly rectifying (GIRK) channels",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#23e6e8",
+   "kind": "statement",
+   "stem": "What is the net effect of opioid receptor activation on a neuron?",
+   "answer": "Less impulse transmission and less transmitter release",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#5b0bd0",
+   "kind": "mcq",
+   "stem": "Which opioid receptor type causes respiratory depression?",
+   "options": [
+    "KOP",
+    "DOP",
+    "MOP",
+    "NOP"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#5b0bd0",
+   "kind": "statement",
+   "stem": "Which neurotransmitter release does MOP activation inhibit?",
+   "answer": "Acetylcholine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#de0c2c",
+   "kind": "mcq",
+   "stem": "Which effect does delta (DOP) opioid receptor activation produce?",
+   "options": [
+    "Respiratory depression",
+    "Analgesia",
+    "Bradycardia",
+    "Diuresis"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#b8690e",
+   "kind": "mcq",
+   "stem": "Which effect is linked to kappa (KOP) opioid receptor activation?",
+   "options": [
+    "Respiratory depression",
+    "Psychotomimetic effects",
+    "Bradycardia",
+    "Nausea and vomiting"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#f262a2",
+   "kind": "mcq",
+   "stem": "How much more potent than fentanyl is sufentanil?",
+   "options": [
+    "5–10 times",
+    "50–100 times",
+    "2–3 times",
+    "100 times"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/opioids#f262a2",
+   "kind": "statement",
+   "stem": "What is sufentanil used for in anaesthesia?",
+   "answer": "Induction and maintenance",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

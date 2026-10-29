@@ -1,0 +1,181 @@
+{
+ "topic": "drugs/isoprenaline",
+ "questions": [
+  {
+   "fact_id": "drugs/isoprenaline#61b620",
+   "kind": "mcq",
+   "stem": "What is the concentration of the clear isoprenaline solution for IV infusion?",
+   "options": [
+    "0.2 mg/ml",
+    "5 mg/ml",
+    "1 mg/ml",
+    "10 mg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#cd742b",
+   "kind": "statement",
+   "stem": "What dose strengths does the isoprenaline metered dose inhaler come in?",
+   "answer": "80 or 400 mcg per dose",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#b80ce9",
+   "kind": "mcq",
+   "stem": "What tablet strength of isoprenaline is available?",
+   "options": [
+    "10 mg",
+    "30 mg",
+    "50 mg",
+    "100 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#46e8e6",
+   "kind": "mcq",
+   "stem": "What is the IV dose range of isoprenaline?",
+   "options": [
+    "0.5–10 mcg/min",
+    "5–50 mcg/min",
+    "0.5–10 mg/min",
+    "10–100 mcg/min"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#46e8e6",
+   "kind": "blank",
+   "stem": "Isoprenaline is given IV at ____ mcg/min.",
+   "answer": "0.5–10",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#2dba73",
+   "kind": "mcq",
+   "stem": "Which receptors does isoprenaline act on?",
+   "options": [
+    "α1 and β1 agonist",
+    "α1 and β2 agonist",
+    "β1 and β2 agonist, no α action",
+    "β2 agonist only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#ead034",
+   "kind": "statement",
+   "stem": "What does isoprenaline's β1 action increase?",
+   "answer": "Heart rate, contractility, automaticity and cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#0c8f4c",
+   "kind": "statement",
+   "stem": "Why can isoprenaline fail to raise blood pressure despite higher cardiac output?",
+   "answer": "β2 vasodilation lowers SVR enough to offset the rise in cardiac output",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#cce5bf",
+   "kind": "mcq",
+   "stem": "What is isoprenaline's effect on the central nervous system?",
+   "options": [
+    "Sedative",
+    "Stimulant",
+    "Anaesthetic",
+    "Depressant"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#f5d9d7",
+   "kind": "statement",
+   "stem": "Which splanchnic blood flows does isoprenaline increase?",
+   "answer": "Mesenteric and renal blood flow",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#cd3b93",
+   "kind": "mcq",
+   "stem": "Which metabolic changes does isoprenaline cause?",
+   "options": [
+    "Blood glucose and free fatty acids fall",
+    "Blood glucose rises, free fatty acids fall",
+    "Blood glucose falls, free fatty acids rise",
+    "Blood glucose and free fatty acids rise"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#abb035",
+   "kind": "statement",
+   "stem": "What is the main IV indication for isoprenaline?",
+   "answer": "Severe bradycardia from AV block or beta blockers",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#bf872f",
+   "kind": "statement",
+   "stem": "Is isoprenaline still used for asthma or reversible airway obstruction?",
+   "answer": "No, it is no longer used",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#655619",
+   "kind": "mcq",
+   "stem": "Why was isoprenaline replaced as an asthma bronchodilator?",
+   "options": [
+    "Its β2 effect was too weak",
+    "It is poorly absorbed orally",
+    "β1 cardiac effects were blamed for increased asthma deaths",
+    "It caused excessive alpha vasoconstriction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#d2cb38",
+   "kind": "mcq",
+   "stem": "Why is oral isoprenaline bioavailability low?",
+   "options": [
+    "Poor absorption from the gut",
+    "Extensive first-pass metabolism by hepatic COMT",
+    "Rapid renal excretion before absorption",
+    "Heavy binding to plasma protein"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/isoprenaline#a5879c",
+   "kind": "statement",
+   "stem": "How is isoprenaline mainly excreted in urine?",
+   "answer": "A large fraction unchanged, plus conjugated metabolites",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "topic": "drugs/flecainide",
+ "questions": [
+  {
+   "fact_id": "drugs/flecainide#25c60f",
+   "kind": "mcq",
+   "stem": "What is the usual oral flecainide dose?",
+   "options": [
+    "50 mg bd",
+    "200 mg od",
+    "100 mg bd",
+    "400 mg od"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#25c60f",
+   "kind": "mcq",
+   "stem": "What is the maximum daily oral dose of flecainide?",
+   "options": [
+    "250 mg",
+    "400 mg",
+    "800 mg",
+    "1 g"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#782bc2",
+   "kind": "mcq",
+   "stem": "What is the IV loading dose of flecainide?",
+   "options": [
+    "1 mg/kg bolus over 5 minutes",
+    "2 mg/kg over 10–30 minutes",
+    "0.5 mg/kg over 2 minutes",
+    "5 mg/kg over 60 minutes"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#782bc2",
+   "kind": "mcq",
+   "stem": "What is the maximum IV loading dose of flecainide?",
+   "options": [
+    "50 mg",
+    "150 mg",
+    "300 mg",
+    "400 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#b369f4",
+   "kind": "mcq",
+   "stem": "What is the initial flecainide infusion rate after the IV loading dose?",
+   "options": [
+    "0.1 mg/kg/h",
+    "15 mg/kg/h",
+    "1.5 mg/kg/h",
+    "150 mcg/kg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#b369f4",
+   "kind": "mcq",
+   "stem": "What is the maintenance flecainide infusion rate after the initial rate?",
+   "options": [
+    "1–2.5 mg/kg/h",
+    "10–25 mcg/kg/h",
+    "100–250 mcg/kg/h",
+    "500–750 mcg/kg/h"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#b369f4",
+   "kind": "mcq",
+   "stem": "For how long can a flecainide infusion be continued?",
+   "options": [
+    "Up to 6 hours",
+    "Up to 12 hours",
+    "Up to 24 hours",
+    "Up to 72 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#2bcc40",
+   "kind": "mcq",
+   "stem": "What is the maximum total flecainide dose in 24 hours?",
+   "options": [
+    "900 mg",
+    "1200 mg",
+    "600 mg",
+    "1800 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#94a590",
+   "kind": "mcq",
+   "stem": "What is the main electrophysiological action of flecainide on cardiac tissue?",
+   "options": [
+    "Blocks potassium efflux, prolonging phase 3",
+    "Blocks calcium influx, shortening phase 2",
+    "Blocks fast sodium influx, prolonging phase 0",
+    "Blocks beta-1 receptors, slowing AV conduction"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#096cd6",
+   "kind": "mcq",
+   "stem": "How does flecainide affect the action potential duration and refractory period?",
+   "options": [
+    "Shortens action potential duration markedly",
+    "Lengthens action potential duration markedly",
+    "Abolishes the refractory period",
+    "No effect on action potential duration or refractory period"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#f603fc",
+   "kind": "mcq",
+   "stem": "On which tissue is flecainide's effect most marked?",
+   "options": [
+    "Peripheral vascular smooth muscle",
+    "Skeletal neuromuscular junction",
+    "Conducting pathways",
+    "Bronchial smooth muscle"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#403b92",
+   "kind": "statement",
+   "stem": "Name the common non-cardiac adverse effects of flecainide.",
+   "answer": "Dizziness, paraesthesia, headache",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#1f60c1",
+   "kind": "mcq",
+   "stem": "Which arrhythmias is flecainide indicated for?",
+   "options": [
+    "Bradyarrhythmias only",
+    "Atrial tachyarrhythmias only",
+    "Atrial and ventricular tachyarrhythmias, including WPW syndrome",
+    "Ventricular tachyarrhythmias only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#bfefe5",
+   "kind": "mcq",
+   "stem": "Roughly what is the oral bioavailability of flecainide?",
+   "options": [
+    "30%",
+    "50%",
+    "90%",
+    "100%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#6dce46",
+   "kind": "mcq",
+   "stem": "Roughly what proportion of flecainide is bound to plasma protein?",
+   "options": [
+    "10%",
+    "50%",
+    "90%",
+    "99%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#f2bbf2",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of flecainide?",
+   "options": [
+    "0.5–1 l/kg",
+    "6–10 l/kg",
+    "20–30 l/kg",
+    "60–100 l/kg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/flecainide#7e7b09",
+   "kind": "statement",
+   "stem": "How is flecainide eliminated?",
+   "answer": "Hepatic metabolism to active metabolites, then urinary excretion of metabolites and unchanged drug",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

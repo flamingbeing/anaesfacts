@@ -1,0 +1,63 @@
+{
+ "topic": "drugs/atipamezole",
+ "questions": [
+  {
+   "fact_id": "drugs/atipamezole#6915df",
+   "kind": "mcq",
+   "stem": "What is the mechanism of action of atipamezole?",
+   "options": [
+    "Non-selective beta-adrenoceptor agonist",
+    "Central dopamine D2 antagonist",
+    "Selective α2-adrenoceptor antagonist",
+    "Muscarinic M3 receptor antagonist"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atipamezole#421aa4",
+   "kind": "mcq",
+   "stem": "Atipamezole reverses sedation and analgesia from which two drugs?",
+   "options": [
+    "Midazolam and propofol",
+    "Morphine and fentanyl",
+    "Clonidine and dexmedetomidine",
+    "Ketamine and remifentanil"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atipamezole#421aa4",
+   "kind": "blank",
+   "stem": "Atipamezole reverses sedation and analgesia from clonidine and ____.",
+   "answer": "dexmedetomidine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atipamezole#25615b",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of atipamezole?",
+   "options": [
+    "30 minutes",
+    "2 hours",
+    "6 hours",
+    "12 hours"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/atipamezole#25615b",
+   "kind": "statement",
+   "stem": "Atipamezole's elimination half-life is similar to which other drug's?",
+   "answer": "Dexmedetomidine",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

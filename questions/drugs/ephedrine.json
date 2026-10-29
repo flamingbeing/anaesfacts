@@ -1,0 +1,455 @@
+{
+ "topic": "drugs/ephedrine",
+ "questions": [
+  {
+   "fact_id": "drugs/ephedrine#0f7462",
+   "kind": "mcq",
+   "stem": "What is the concentration of ephedrine injection?",
+   "options": [
+    "15 mg/ml",
+    "50 mg/ml",
+    "30 mg/ml",
+    "300 mg/ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#dba5a0",
+   "kind": "statement",
+   "stem": "Apart from injection, what other forms does ephedrine come in?",
+   "answer": "Tablets, elixir and nasal drops",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#6424f0",
+   "kind": "mcq",
+   "stem": "Ephedrine was originally derived from what source?",
+   "options": [
+    "Fungal culture",
+    "Plant",
+    "Marine organisms",
+    "Mineral deposits"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#c31f1a",
+   "kind": "mcq",
+   "stem": "Of ephedrine's isomers, which one is pharmacologically active?",
+   "options": [
+    "D-isomer",
+    "meso-isomer",
+    "DL-isomer",
+    "L-isomer"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#c31f1a",
+   "kind": "mcq",
+   "stem": "How many isomers of ephedrine exist?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#fa31c3",
+   "kind": "mcq",
+   "stem": "How is ephedrine usually given intravenously?",
+   "options": [
+    "Continuous infusion only",
+    "Intrathecal injection",
+    "IV boluses",
+    "Intraosseous infusion"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#5f50a8",
+   "kind": "mcq",
+   "stem": "What is the concentration when a 30 mg ephedrine vial is diluted in 10 ml?",
+   "options": [
+    "5 mg per ml",
+    "3 mg per ml",
+    "10 mg per ml",
+    "30 mg per ml"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#e6b56e",
+   "kind": "mcq",
+   "stem": "What concentration results from diluting a 30 mg ephedrine vial in 6 ml?",
+   "options": [
+    "3 mg per ml",
+    "6 mg per ml",
+    "5 mg per ml",
+    "30 mg per ml"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#b1a0c3",
+   "kind": "mcq",
+   "stem": "What is the onset of ephedrine?",
+   "options": [
+    "Several hours",
+    "About 20 minutes",
+    "Seconds",
+    "About a day"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#cab745",
+   "kind": "mcq",
+   "stem": "What peak effect time is quoted for ephedrine?",
+   "options": [
+    "5-10 sec or 30-60 sec",
+    "10-20 min or 1-2 hours",
+    "30-45 min or 1 hour",
+    "78-90 sec or 2-5 min"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#8330be",
+   "kind": "mcq",
+   "stem": "What is the duration of action of ephedrine?",
+   "options": [
+    "2-5 min",
+    "78-90 sec",
+    "20-60 min",
+    "3-4 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#8a5e5b",
+   "kind": "mcq",
+   "stem": "What is the usual IV bolus dose of ephedrine?",
+   "options": [
+    "10-15 mg",
+    "3-5 mg",
+    "0.5-1 mg",
+    "25-50 mg"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#d96122",
+   "kind": "mcq",
+   "stem": "In ephedrine's indirect action, which transmitter is released from presynaptic terminals?",
+   "options": [
+    "Adrenaline",
+    "Noradrenaline",
+    "Dopamine",
+    "Acetylcholine"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#93c30b",
+   "kind": "mcq",
+   "stem": "Ephedrine acts directly on receptors as what type of agonist?",
+   "options": [
+    "Pure alpha-1 agonist",
+    "Pure beta-2 agonist",
+    "Dopamine D1 agonist",
+    "Mixed alpha and beta agonist"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#e93622",
+   "kind": "mcq",
+   "stem": "Ephedrine causes mild bronchodilation through which receptor?",
+   "options": [
+    "Beta2",
+    "Beta1",
+    "Alpha1",
+    "Muscarinic M3"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#8c0be7",
+   "kind": "mcq",
+   "stem": "Ephedrine also inhibits which enzyme that breaks down noradrenaline?",
+   "options": [
+    "COMT",
+    "MAO",
+    "Acetylcholinesterase",
+    "Tyrosine hydroxylase"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#f20017",
+   "kind": "statement",
+   "stem": "Why does repeated ephedrine dosing lose effect (tachyphylaxis)?",
+   "answer": "Noradrenaline stores in sympathetic nerve endings become depleted",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#0211df",
+   "kind": "mcq",
+   "stem": "Which cardiovascular change does ephedrine cause?",
+   "options": [
+    "Blood pressure falls",
+    "Coronary blood flow falls",
+    "Heart rate and cardiac output increase",
+    "Myocardial oxygen consumption falls"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#5298cb",
+   "kind": "mcq",
+   "stem": "What is ephedrine's effect on respiration?",
+   "options": [
+    "Respiratory depressant",
+    "Respiratory stimulant",
+    "Neuromuscular blocker",
+    "Mucolytic agent"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#55e38f",
+   "kind": "mcq",
+   "stem": "What does ephedrine do to renal blood flow and glomerular filtration rate?",
+   "options": [
+    "Both rise",
+    "Both unchanged",
+    "Both fall",
+    "Flow rises, GFR falls"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#20dc6f",
+   "kind": "mcq",
+   "stem": "Ephedrine's net effect of vasoconstriction and faster heart rate suits which patients?",
+   "options": [
+    "Low blood pressure and high heart rate",
+    "High blood pressure and low heart rate",
+    "Low blood pressure and low heart rate",
+    "High blood pressure and high heart rate"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#d27605",
+   "kind": "mcq",
+   "stem": "What cardiac adverse effect can ephedrine cause?",
+   "options": [
+    "Hypoglycaemia",
+    "Arrhythmias",
+    "Urinary retention",
+    "Bronchospasm"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#9600d6",
+   "kind": "mcq",
+   "stem": "In obstetrics, how does ephedrine compare with purer alpha agonists for cord gas pH?",
+   "options": [
+    "Better cord gas pH",
+    "No change in cord gas pH",
+    "Poorer cord gas pH",
+    "Higher cord gas oxygen"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#199032",
+   "kind": "mcq",
+   "stem": "How should ephedrine be used in patients taking MAO inhibitors?",
+   "options": [
+    "Routinely, with no change",
+    "At double the usual dose",
+    "Never under any circumstances",
+    "With extreme caution"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#878192",
+   "kind": "mcq",
+   "stem": "Ephedrine is used for hypotension occurring with which technique?",
+   "options": [
+    "Topical anaesthesia",
+    "General anaesthesia with volatiles",
+    "Regional anaesthesia",
+    "Local infiltration only"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#688fc2",
+   "kind": "mcq",
+   "stem": "Which respiratory condition is ephedrine indicated for?",
+   "options": [
+    "Pulmonary oedema",
+    "Pneumothorax",
+    "Pulmonary embolism",
+    "Bronchospasm"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#526333",
+   "kind": "mcq",
+   "stem": "Which urinary condition is ephedrine indicated for?",
+   "options": [
+    "Urinary tract infection",
+    "Renal colic",
+    "Nocturnal enuresis",
+    "Diabetes insipidus"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#e341fc",
+   "kind": "mcq",
+   "stem": "Which sleep disorder is ephedrine indicated for?",
+   "options": [
+    "Insomnia",
+    "Narcolepsy",
+    "Sleep apnoea",
+    "Restless legs syndrome"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#0e120d",
+   "kind": "mcq",
+   "stem": "Which routes is ephedrine well absorbed by?",
+   "options": [
+    "Only by inhalation",
+    "Only by rectum",
+    "Orally, IM and subcutaneously",
+    "Only sublingually"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#dbb71c",
+   "kind": "mcq",
+   "stem": "Why does ephedrine last longer than adrenaline?",
+   "options": [
+    "Stronger receptor binding",
+    "Not broken down by MAO or COMT",
+    "Faster renal excretion",
+    "Higher protein binding"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#87b6eb",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of ephedrine?",
+   "options": [
+    "40 minutes",
+    "4 minutes",
+    "4 hours",
+    "24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#e5349d",
+   "kind": "mcq",
+   "stem": "What proportion of ephedrine is excreted unchanged in urine?",
+   "options": [
+    "25%",
+    "65%",
+    "5%",
+    "85%"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/ephedrine#e5349d",
+   "kind": "mcq",
+   "stem": "In which organ is ephedrine partly metabolised?",
+   "options": [
+    "Kidney",
+    "Liver",
+    "Lungs",
+    "Plasma"
+   ],
+   "answer": 1,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}

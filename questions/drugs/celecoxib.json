@@ -1,0 +1,197 @@
+{
+ "topic": "drugs/celecoxib",
+ "questions": [
+  {
+   "fact_id": "drugs/celecoxib#1f76d5",
+   "kind": "mcq",
+   "stem": "What tablet strength of celecoxib is available?",
+   "options": [
+    "25 mg",
+    "75 mg",
+    "100 mg",
+    "300 mg"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#65fd7e",
+   "kind": "mcq",
+   "stem": "What is the usual oral dosing schedule of celecoxib?",
+   "options": [
+    "200 mg once daily",
+    "100 mg twice daily",
+    "200 mg twice daily",
+    "50 mg three times daily"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#04ca46",
+   "kind": "mcq",
+   "stem": "What is the COX-1:COX-2 inhibitory ratio of celecoxib?",
+   "options": [
+    "1:30",
+    "1:2",
+    "30:1",
+    "2:1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#8cefc8",
+   "kind": "statement",
+   "stem": "In the CLASS trial, how did celecoxib's ulcer complication rate compare with non-selective NSAIDs?",
+   "answer": "Similar rate; possibly confounded by concurrent aspirin",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#47ef3a",
+   "kind": "mcq",
+   "stem": "What do meta-analyses show about coronary events with COX-2 inhibitors such as celecoxib?",
+   "options": [
+    "They have no coronary effect",
+    "They reduce only stroke events",
+    "They reduce coronary events",
+    "They increase coronary events"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#3e9e2d",
+   "kind": "statement",
+   "stem": "In the VIGOR study, what may explain rofecoxib's apparent harm compared with celecoxib?",
+   "answer": "Its greater COX-2 selectivity than celecoxib",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#efee74",
+   "kind": "mcq",
+   "stem": "Which CYP2C9 inhibitor raises celecoxib plasma levels?",
+   "options": [
+    "Carbamazepine",
+    "Rifampicin",
+    "Paracetamol",
+    "Omeprazole"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#57d303",
+   "kind": "mcq",
+   "stem": "Which drug allergy is a contraindication to celecoxib?",
+   "options": [
+    "Penicillin allergy",
+    "Latex allergy",
+    "Sulfonamide allergy",
+    "Iodinated contrast allergy"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#536be9",
+   "kind": "statement",
+   "stem": "Which patients should celecoxib be avoided in, as with all COX-2 inhibitors?",
+   "answer": "Established or at-risk ischaemic heart disease or cerebrovascular disease",
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#51a398",
+   "kind": "mcq",
+   "stem": "Which chronic pain conditions is celecoxib indicated for?",
+   "options": [
+    "Migraine and cluster headache",
+    "Angina and claudication",
+    "Peptic ulcer and reflux disease",
+    "Osteoarthritis and rheumatoid arthritis"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#a921bc",
+   "kind": "mcq",
+   "stem": "When does celecoxib reach its peak plasma level?",
+   "options": [
+    "30 to 60 minutes",
+    "6–8 hours",
+    "2–3 hours",
+    "12–24 hours"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#562e87",
+   "kind": "mcq",
+   "stem": "What is the elimination half-life of celecoxib?",
+   "options": [
+    "2–4 hours",
+    "24–36 hours",
+    "48–72 hours",
+    "8–12 hours"
+   ],
+   "answer": 3,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#3a9bae",
+   "kind": "mcq",
+   "stem": "What is the protein binding of celecoxib?",
+   "options": [
+    "87%",
+    "92%",
+    "97%",
+    "99.7%"
+   ],
+   "answer": 2,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#3a9bae",
+   "kind": "mcq",
+   "stem": "What is the volume of distribution of celecoxib?",
+   "options": [
+    "5.7 l/kg",
+    "0.57 l/kg",
+    "57 l/kg",
+    "2.5 l/kg"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  },
+  {
+   "fact_id": "drugs/celecoxib#50ff42",
+   "kind": "mcq",
+   "stem": "Which hepatic enzyme metabolises celecoxib?",
+   "options": [
+    "CYP2C9",
+    "CYP2D6",
+    "CYP1A2",
+    "CYP2E1"
+   ],
+   "answer": 0,
+   "model": "haiku-5.5",
+   "date": "2026-10-29"
+  }
+ ]
+}
