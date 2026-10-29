@@ -178,4 +178,5 @@ Preterm and ex-preterm infants carry airway, lung, apnoea, neurological, haemato
 ## Related
 - [Neonatal anaesthesia](neonatal-anaesthesia.md)
 - [Day Surgery Anaesthesia](../procedures/day-surgery.md)
+- [Neonatal surgery](../procedures/neonatal-surgery.md)
 <!-- related:end -->

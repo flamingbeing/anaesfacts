@@ -152,6 +152,7 @@ Brachial plexus block at the roots/trunks between the scalene muscles, for shoul
 - [Axillary Brachial Plexus Block](axillary-block.md)
 - [Brachial Plexus Blocks Introduction](brachial-plexus-blocks-introduction.md)
 - [Intercostobrachial Nerve Block](intercostobrachial-nerve-block.md)
+- [Orthopaedic Surgery Choice of Regional Technique](orthopaedic-regional-techniques.md)
 - [Supraclavicular nerve block](supraclavicular-nerve-block.md)
 - [Suprascapular Nerve Block](suprascapular-nerve-block.md)
 <!-- related:end -->

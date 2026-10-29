@@ -221,4 +221,6 @@ Neonates are high risk: difficult airway, rate-dependent cardiac output, postope
 <!-- related:start (generated) -->
 ## Related
 - [Prematurity and Ex-Premature Infants](prematurity.md)
+- [Neonatal surgery](../procedures/neonatal-surgery.md)
+- [Paediatric Anaesthesia Overview](../procedures/paediatric-anaesthesia.md)
 <!-- related:end -->

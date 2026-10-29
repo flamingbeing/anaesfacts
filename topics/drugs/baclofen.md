@@ -50,5 +50,7 @@ Antispasmodic acting at GABA-B receptors; best for pain linked to spasticity.
 
 <!-- related:start (generated) -->
 ## Related
+- [Cerebral Palsy](../comorbidities/cerebral-palsy.md)
 - [Eperisone](eperisone.md)
+- [Paediatric Neurosurgery](../procedures/paediatric-neurosurgery.md)
 <!-- related:end -->

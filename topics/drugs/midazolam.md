@@ -101,4 +101,5 @@ Water-soluble, short-acting benzodiazepine for premedication, co-induction and s
 - [Paediatric intravenous induction agents](paediatric-intravenous-induction-agents.md)
 - [Adolescents and Teenagers](../other/adolescents.md)
 - [Drug-Induced Sleep Endoscopy (DISE)](../procedures/drug-induced-sleep-endoscopy.md)
+- [Paediatric Dental Surgery](../procedures/paediatric-dental-surgery.md)
 <!-- related:end -->

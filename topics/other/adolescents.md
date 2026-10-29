@@ -64,6 +64,7 @@ Anaesthetic issues in teenagers: anxiety, privacy, IV access, airway, obesity, P
 
 <!-- related:start (generated) -->
 ## Related
+- [Paediatric Anaesthesia Overview](../procedures/paediatric-anaesthesia.md)
 - [Obstructive Sleep Apnoea](../comorbidities/obstructive-sleep-apnoea.md)
 - [Midazolam](../drugs/midazolam.md)
 <!-- related:end -->

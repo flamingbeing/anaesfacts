@@ -267,4 +267,5 @@ A mass that can compress the airway, great vessels and heart, often only after l
 - [Cardiac Tamponade](cardiac-tamponade.md)
 - [Hyperthyroidism](hyperthyroidism.md)
 - [Mediastinoscopy](../procedures/mediastinoscopy.md)
+- [Paediatric Oncology Anaesthesia](../procedures/paediatric-oncology-surgery.md)
 <!-- related:end -->

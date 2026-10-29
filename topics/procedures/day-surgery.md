@@ -261,6 +261,8 @@ Choose patients well, use short-acting drugs, prevent pain and PONV aggressively
 - [Obstructive Sleep Apnoea](../comorbidities/obstructive-sleep-apnoea.md)
 - [Prematurity and Ex-Premature Infants](../comorbidities/prematurity.md)
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](total-intravenous-anaesthesia.md)
+- [Dental Surgery and Tooth Extraction](dental-surgery.md)
 - [Drug-Induced Sleep Endoscopy (DISE)](drug-induced-sleep-endoscopy.md)
 - [Hernia Repair](hernia-repair.md)
+- [Paediatric day case surgery](paediatric-day-case-surgery.md)
 <!-- related:end -->

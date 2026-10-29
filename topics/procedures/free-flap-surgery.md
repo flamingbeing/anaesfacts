@@ -250,4 +250,5 @@ Keep the flap perfused: a warm, well-filled, vasodilated, pain-free patient with
 - [Hand Replantation and Upper Limb Revascularisation](hand-replantation.md)
 - [Hand and Forearm Surgery](hand-surgery.md)
 - [Head and Neck Cancer Surgery](head-and-neck-cancer-surgery.md)
+- [Paediatric plastic surgery](paediatric-plastic-surgery.md)
 <!-- related:end -->

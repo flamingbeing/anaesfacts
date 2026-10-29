@@ -142,6 +142,7 @@ Time is brain: move fast, hold blood pressure in target, choose GA or sedation, 
 <!-- related:start (generated) -->
 ## Related
 - [Craniotomy](craniotomy.md)
+- [Remote Site Anaesthesia](remote-site-anaesthesia.md)
 - [Phenylephrine](../drugs/phenylephrine.md)
 - [Carotid Endarterectomy](carotid-endarterectomy.md)
 <!-- related:end -->

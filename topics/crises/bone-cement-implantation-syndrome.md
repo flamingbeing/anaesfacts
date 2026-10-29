@@ -85,5 +85,6 @@ Hypoxia, hypotension and loss of consciousness within seconds to minutes of inse
 - [Fat Embolism Syndrome](fat-embolism-syndrome.md)
 - [Pulmonary Hypertension and Right Ventricular Dysfunction](../comorbidities/pulmonary-hypertension.md)
 - [Hip Fracture](../procedures/hip-fracture.md)
+- [Orthopaedic Surgery](../procedures/orthopaedic-surgery.md)
 - [Total Hip Replacement](../procedures/total-hip-replacement.md)
 <!-- related:end -->

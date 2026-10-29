@@ -53,3 +53,8 @@ Remote-site work with radiation, bulky equipment and poor access to the patient 
   - A: Shielding, less time, more distance (inverse square law)
 - Q: When should GA be chosen over sedation in the scanner?
   - A: When the patient needs heavy sedation; use GA with an LMA or ETT
+
+<!-- related:start (generated) -->
+## Related
+- [Remote Site Anaesthesia](remote-site-anaesthesia.md)
+<!-- related:end -->

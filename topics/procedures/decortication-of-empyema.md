@@ -70,3 +70,8 @@ Removal of pus and thick organised fibrinous pleura: septic patient, one-lung ve
   - A: Risk of tension pneumothorax and soiling of the healthy lung
 - Q: How much blood can be lost in decortication?
   - A: 500-2000 ml
+
+<!-- related:start (generated) -->
+## Related
+- [Thoracic Anaesthesia Overview](thoracic-anaesthesia.md)
+<!-- related:end -->

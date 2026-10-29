@@ -170,6 +170,7 @@ Core: prompt lipid emulsion while supporting the circulation (ACLS).
 - [High Spinal and Total Spinal Anaesthesia](high-spinal.md)
 - [Levobupivacaine](../drugs/levobupivacaine.md)
 - [Lidocaine](../drugs/lidocaine.md)
+- [Local Anaesthetics Overview](../drugs/local-anaesthetics-overview.md)
 - [Local anaesthetics in children](../drugs/paediatric-local-anaesthetics.md)
 - [Ropivacaine](../drugs/ropivacaine.md)
 - [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)

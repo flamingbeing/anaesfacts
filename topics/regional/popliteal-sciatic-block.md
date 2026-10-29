@@ -115,6 +115,7 @@ Sciatic nerve block above the knee, ideally inside Vloka's sheath where the tibi
 - [Rebound Pain and Perineural Adjuncts](rebound-pain-perineural-adjuncts.md)
 - [Foot and Ankle Surgery](../procedures/foot-and-ankle-surgery.md)
 - [Major lower limb amputation](../procedures/lower-limb-amputation.md)
+- [Orthopaedic Surgery Choice of Regional Technique](orthopaedic-regional-techniques.md)
 - [Posterior Cutaneous Nerve of the Thigh Block](posterior-femoral-cutaneous-nerve-block.md)
 - [Regional anaesthesia review](regional-anaesthesia-review.md)
 - [Sciatic Nerve Block and Parasacral Sacral Plexus Block](sciatic-nerve-block.md)

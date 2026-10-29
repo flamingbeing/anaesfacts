@@ -189,4 +189,5 @@ NMDA receptor antagonist giving dissociative anaesthesia and strong analgesia, w
 - [Effect of Anaesthetic Agents on ICP, CBF and CMR](../physiology/anaesthetic-agents-icp-cbf-cmr.md)
 - [Mechanisms of general anaesthetic action](../physiology/mechanisms-of-general-anaesthetic-action.md)
 - [Lower Limb Arthroscopy](../procedures/knee-arthroscopy.md)
+- [Paediatric Ophthalmic Surgery](../procedures/paediatric-ophthalmic-surgery.md)
 <!-- related:end -->

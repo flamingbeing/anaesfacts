@@ -73,4 +73,5 @@ Short, highly variable stimulation in a remote site; OGD and ERCP add a shared a
 ## Related
 - [Propofol](../drugs/propofol.md)
 - [Remifentanil](../drugs/remifentanil.md)
+- [Remote Site Anaesthesia](remote-site-anaesthesia.md)
 <!-- related:end -->

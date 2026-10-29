@@ -142,6 +142,7 @@ Check control and end-organ damage, adjust medicines and insulin for fasting, ke
 ## Related
 - [Acromegaly](acromegaly.md)
 - [Cushing's Syndrome](cushings-syndrome.md)
+- [Diabetes Mellitus in Children](paediatric-diabetes-mellitus.md)
 - [Vascular Patients](vascular-patients.md)
 - [Pancreas Transplantation](../procedures/pancreas-transplantation.md)
 <!-- related:end -->

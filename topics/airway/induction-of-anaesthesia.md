@@ -161,4 +161,5 @@ Taking a patient from consciousness to a surgical plane of anaesthesia; drug cho
 - [Propofol](../drugs/propofol.md)
 - [Rocuronium](../drugs/rocuronium.md)
 - [Suxamethonium](../drugs/suxamethonium.md)
+- [Paediatric Induction of Anaesthesia](../procedures/paediatric-induction-of-anaesthesia.md)
 <!-- related:end -->

@@ -45,4 +45,5 @@ Fixation of clavicle fractures: GA usually, with regional blocks for postoperati
 <!-- related:start (generated) -->
 ## Related
 - [Interscalene Block](../regional/interscalene-block.md)
+- [Orthopaedic Surgery](orthopaedic-surgery.md)
 <!-- related:end -->

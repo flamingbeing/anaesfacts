@@ -52,6 +52,7 @@ Long-acting amide local anaesthetic (Marcaine); racemic, with marked cardiotoxic
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Levobupivacaine](levobupivacaine.md)
 - [Lidocaine](lidocaine.md)
+- [Local Anaesthetics Overview](local-anaesthetics-overview.md)
 - [Local Anaesthetics](local-anaesthetics.md)
 - [Local anaesthetics in children](paediatric-local-anaesthetics.md)
 - [Ropivacaine](ropivacaine.md)

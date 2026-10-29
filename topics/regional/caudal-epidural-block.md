@@ -170,5 +170,6 @@ Local anaesthetic injected into the epidural space through the sacral hiatus (be
 - [Ilioinguinal and Iliohypogastric Nerve Block](ilioinguinal-iliohypogastric-block.md)
 - [Clonidine](../drugs/clonidine.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
+- [Paediatric General and Urological Surgery](../procedures/paediatric-surgery.md)
 - [Paediatric Central Neuraxial Blocks](paediatric-central-neuraxial-blocks.md)
 <!-- related:end -->

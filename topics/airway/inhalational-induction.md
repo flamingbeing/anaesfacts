@@ -76,4 +76,5 @@ Volatile (usually sevoflurane) induction: needle-free and keeps spontaneous brea
 ## Related
 - [Sevoflurane](../drugs/sevoflurane.md)
 - [Propofol](../drugs/propofol.md)
+- [Paediatric Induction of Anaesthesia](../procedures/paediatric-induction-of-anaesthesia.md)
 <!-- related:end -->

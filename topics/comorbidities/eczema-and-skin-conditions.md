@@ -29,3 +29,8 @@ Check steroid use, and protect thin skin from tape injury.
   - A: Itch may stop the patient keeping still
 - Q: What intraoperative care does thin skin need?
   - A: Care with tapes such as ETT and eye tape
+
+<!-- related:start (generated) -->
+## Related
+- [Epidermolysis Bullosa](epidermolysis-bullosa.md)
+<!-- related:end -->

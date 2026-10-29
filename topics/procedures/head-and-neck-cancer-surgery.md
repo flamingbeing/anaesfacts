@@ -186,4 +186,5 @@ Long operations with a difficult, shared airway, blood loss and often a free fla
 <!-- related:start (generated) -->
 ## Related
 - [Free Flap Surgery](free-flap-surgery.md)
+- [Oral and Maxillofacial Surgery](oral-maxillofacial-surgery.md)
 <!-- related:end -->

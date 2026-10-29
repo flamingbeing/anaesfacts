@@ -49,4 +49,5 @@ The commonest analgesic in children; also an antipyretic. Prefer IV over rectal 
 <!-- related:start (generated) -->
 ## Related
 - [Paracetamol](paracetamol.md)
+- [Paediatric Anaesthesia Overview](../procedures/paediatric-anaesthesia.md)
 <!-- related:end -->

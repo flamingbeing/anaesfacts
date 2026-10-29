@@ -63,4 +63,5 @@ Inherited fibrillin-1 connective tissue disorder: echo the aortic root before su
 <!-- related:start (generated) -->
 ## Related
 - [Aortic Regurgitation](aortic-regurgitation.md)
+- [Ehlers-Danlos syndrome in children](ehlers-danlos-syndrome-paediatric.md)
 <!-- related:end -->

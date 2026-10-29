@@ -157,5 +157,6 @@ The most commonly used IV induction agent: a phenol (2,6-diisopropylphenol) acti
 - [Free Flap Surgery](../procedures/free-flap-surgery.md)
 - [GI Endoscopy](../procedures/gi-endoscopy.md)
 - [IVF Oocyte Retrieval and Embryo Transfer](../procedures/ivf-oocyte-retrieval.md)
+- [Paediatric Induction of Anaesthesia](../procedures/paediatric-induction-of-anaesthesia.md)
 - [Total intravenous anaesthesia (TIVA) and propofol TCI models](../procedures/total-intravenous-anaesthesia.md)
 <!-- related:end -->

@@ -72,6 +72,7 @@ Amide local anaesthetic, pure S-enantiomer related to bupivacaine: slightly less
 - [Lidocaine](lidocaine.md)
 - [Local Anaesthetic Systemic Toxicity (LAST)](../crises/local-anaesthetic-systemic-toxicity.md)
 - [Local Anaesthetics](local-anaesthetics.md)
+- [Local Anaesthetics Overview](local-anaesthetics-overview.md)
 - [Local anaesthetics in children](paediatric-local-anaesthetics.md)
 - [Regional Anaesthesia Equipment](../equipment/regional-anaesthesia-equipment.md)
 - [Paediatric Epidural Blockade](../regional/paediatric-epidural.md)

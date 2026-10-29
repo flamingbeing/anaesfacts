@@ -152,6 +152,7 @@ Key goals: tight blood pressure control, neuroprotection, control of ICP and pro
 - [Craniotomy](craniotomy.md)
 - [Posterior Fossa Surgery](posterior-fossa-surgery.md)
 - [Interventional Neuroradiology](neuroradiology.md)
+- [Paediatric Neurosurgery](paediatric-neurosurgery.md)
 - [Pituitary and Transsphenoidal Surgery](pituitary-surgery.md)
 - [Scalp Block](../regional/scalp-block.md)
 <!-- related:end -->

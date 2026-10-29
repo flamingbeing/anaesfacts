@@ -50,5 +50,6 @@ Mostly knee (some ankle) arthroscopy in younger day-case patients: aim for early
 
 <!-- related:start (generated) -->
 ## Related
+- [Orthopaedic Surgery](orthopaedic-surgery.md)
 - [Ketamine](../drugs/ketamine.md)
 <!-- related:end -->

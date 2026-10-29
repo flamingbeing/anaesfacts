@@ -69,3 +69,8 @@ Short thoracoscopic division of the sympathetic chain, mostly for palmar hyperhi
   - A: Bradycardia and severe haemorrhage from subclavian vessel rupture.
 - Q: Name three postoperative complications.
   - A: Compensatory sweating, persistent pneumothorax and Horner's syndrome.
+
+<!-- related:start (generated) -->
+## Related
+- [Thoracic Anaesthesia Overview](thoracic-anaesthesia.md)
+<!-- related:end -->
