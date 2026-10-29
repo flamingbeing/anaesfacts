@@ -896,18 +896,18 @@
    "date": "2026-10-29"
   },
   {
-   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#416387",
+   "fact_id": "procedures/intraoperative-bleeding-and-blood-management#3ffcc1",
    "kind": "mcq",
-   "stem": "In paediatric transfusion, what INR target is aimed for?",
+   "stem": "In paediatric transfusion, what INR target is aimed for with FFP?",
    "options": [
     "INR <1.1",
     "INR >3.0",
-    "INR >1.5",
+    "INR <1.5",
     "INR >2.5"
    ],
    "answer": 2,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
    "fact_id": "procedures/intraoperative-bleeding-and-blood-management#eeaf5f",

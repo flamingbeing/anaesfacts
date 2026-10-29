@@ -52,18 +52,18 @@
    "date": "2026-10-29"
   },
   {
-   "fact_id": "drugs/milrinone#2edbf1",
+   "fact_id": "drugs/milrinone#7ec1c5",
    "kind": "mcq",
-   "stem": "What is the single milrinone dilution recorded in the notes?",
+   "stem": "What concentration results from diluting milrinone 10 mg in 50 ml?",
    "options": [
-    "10 mg in 500 ml",
-    "10 mg in 100 ml",
-    "10 mg in 50 ml",
-    "10 mg in 25 ml"
+    "0.1 mg/ml",
+    "0.2 mg/ml",
+    "0.5 mg/ml",
+    "1 mg/ml"
    ],
-   "answer": 2,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "answer": 1,
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
    "fact_id": "drugs/milrinone#6c0810",

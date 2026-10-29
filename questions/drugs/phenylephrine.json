@@ -122,18 +122,18 @@
    "date": "2026-10-29"
   },
   {
-   "fact_id": "drugs/phenylephrine#41333a",
+   "fact_id": "drugs/phenylephrine#4af5ea",
    "kind": "mcq",
-   "stem": "In obstetrics, what has limited phenylephrine uptake despite a better cord gas profile?",
+   "stem": "Which vasopressor is now first-line for spinal hypotension at caesarean section?",
    "options": [
-    "Poor cord gas profile",
-    "Risk of accidental overdose",
-    "Lower maternal blood pressure",
-    "Lack of clinical evidence"
+    "Ephedrine",
+    "Phenylephrine",
+    "Metaraminol",
+    "Dopamine"
    ],
    "answer": 1,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
    "fact_id": "drugs/phenylephrine#628eeb",

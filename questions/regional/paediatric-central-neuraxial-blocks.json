@@ -274,18 +274,12 @@
    "date": "2026-10-29"
   },
   {
-   "fact_id": "regional/paediatric-central-neuraxial-blocks#0667e0",
-   "kind": "mcq",
-   "stem": "What IV dose of phenytoin is used for local anaesthetic toxicity in children?",
-   "options": [
-    "1-2 mg/kg IV",
-    "5-10 mg/kg IV",
-    "15-20 mg/kg IV",
-    "50-100 mg/kg IV"
-   ],
-   "answer": 1,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "fact_id": "regional/paediatric-central-neuraxial-blocks#5a1d5e",
+   "kind": "statement",
+   "stem": "Is phenytoin recommended for seizures from local anaesthetic toxicity in children?",
+   "answer": "No: it blocks sodium channels; treat seizures with benzodiazepines",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
    "fact_id": "regional/paediatric-central-neuraxial-blocks#2c45a7",

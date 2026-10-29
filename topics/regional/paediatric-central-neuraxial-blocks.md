@@ -93,7 +93,7 @@ Principles, local anaesthetic pharmacology and toxicity management for spinal, e
 - Bretylium is no longer available for ventricular arrhythmias
 - Drugs that can be used:
   - Magnesium: 50 mg/kg over 15 min, then 25 mg/kg/hour
-  - Phenytoin: 5-10 mg/kg IV
+  - Phenytoin is not recommended: it blocks sodium channels; treat seizures with benzodiazepines
   - Amiodarone: 5 mg/kg IV over 3 min, then 5-15 mcg/kg/min
   - Intralipid 20%: 1 mL/kg over 1 min, repeated every 3-5 min, then 0.25 mL/kg/min
 - Follow the local departmental protocol for doses

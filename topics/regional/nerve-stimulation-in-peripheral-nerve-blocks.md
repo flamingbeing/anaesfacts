@@ -31,7 +31,7 @@ A small current through the block needle triggers a motor twitch as the tip near
   - Twitch at < 0.5 mA can still be intraneural, so absence is not reassuring (poor sensitivity)
 
 ## Settings
-- Pulse duration 0.05-1ms; keep it short (50– 100 microseconds; note says ms) for a painless twitch
+- Pulse duration 0.05-1ms; keep it short (50– 100 microseconds) for a painless twitch
 - Frequency 1-3Hz; no tetanic stimulation (painful); 2-Hz gives more frequent feedback
 - Amplitude 0-3mA, adjustable
 - Locating a nerve: start at 1-1.5mA

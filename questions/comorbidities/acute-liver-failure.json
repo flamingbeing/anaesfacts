@@ -24,9 +24,9 @@
    "date": "2026-10-29"
   },
   {
-   "fact_id": "comorbidities/acute-liver-failure#d5949e",
+   "fact_id": "comorbidities/acute-liver-failure#19fa27",
    "kind": "mcq",
-   "stem": "What mortality is quoted for hyperacute liver failure, presenting within 7 days?",
+   "stem": "What survival is quoted for hyperacute liver failure, presenting within 7 days?",
    "options": [
     "14%",
     "20%",
@@ -34,13 +34,13 @@
     "45%"
    ],
    "answer": 2,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
-   "fact_id": "comorbidities/acute-liver-failure#ba8c05",
+   "fact_id": "comorbidities/acute-liver-failure#8eafdd",
    "kind": "mcq",
-   "stem": "What mortality is quoted for acute liver failure with onset 7-28 days?",
+   "stem": "What survival is quoted for acute liver failure with onset 7-28 days?",
    "options": [
     "14%",
     "30%",
@@ -48,13 +48,13 @@
     "60%"
    ],
    "answer": 2,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
-   "fact_id": "comorbidities/acute-liver-failure#b951d8",
+   "fact_id": "comorbidities/acute-liver-failure#adf914",
    "kind": "mcq",
-   "stem": "What mortality is quoted for subacute liver failure, 28 days to 6 months?",
+   "stem": "What survival is quoted for subacute liver failure, 28 days to 6 months?",
    "options": [
     "5%",
     "14%",
@@ -62,8 +62,8 @@
     "40%"
    ],
    "answer": 1,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
    "fact_id": "comorbidities/acute-liver-failure#c5670d",

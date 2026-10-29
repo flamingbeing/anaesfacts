@@ -66,7 +66,7 @@ The main danger is aspiration: avoid positive pressure until the fistula is isol
     - **Awake fibreoptic intubation**: advance the ETT under bronchoscopic vision until the **cuff is below the fistula**
     - **RSI** may be enough if a proximal fistula is confirmed
       - **Rocuronium** rather than suxamethonium, as fasciculations raise gastric pressure
-      - **Avoid cricoid pressure** (effective against an internal fistula)
+      - **Avoid cricoid pressure** (ineffective against an internal fistula)
       - Bronchoscope to position the cuff below the fistula
   - **Distal or carinal**: complicates standard intubation
     - **One-lung ventilation with isolation**: endobronchial intubation or a **double-lumen tube**

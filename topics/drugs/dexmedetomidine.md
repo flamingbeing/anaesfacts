@@ -85,7 +85,7 @@ Highly selective full alpha-2 agonist (Precedex) giving rousable sedation and an
 
 - Bradycardia, hypotension, sinus arrest
 - Delayed awakening
-- Rebound hypertension, more common when more than 1.2 g.day−1 is stopped suddenly
+- Rebound hypertension if stopped suddenly
   - From peripheral vasoconstriction and higher plasma catecholamines
   - Worse with beta-blockade (unopposed vasoconstriction)
 

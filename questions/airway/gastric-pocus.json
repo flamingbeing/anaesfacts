@@ -1,0 +1,75 @@
+{
+ "topic": "airway/gastric-pocus",
+ "questions": [
+  {
+   "fact_id": "airway/gastric-pocus#8735db",
+   "kind": "mcq",
+   "stem": "In Perlas grading, how does the antrum look in grade 0 (low risk)?",
+   "options": [
+    "Empty, small and collapsed in both positions",
+    "Clear fluid in RLD only",
+    "Clear fluid in both positions",
+    "Solid contents visible"
+   ],
+   "answer": 0,
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
+  },
+  {
+   "fact_id": "airway/gastric-pocus#b8be77",
+   "kind": "statement",
+   "stem": "Which transducer gives adequate depth for gastric ultrasound in adults?",
+   "answer": "A low-frequency curved array transducer (2–5 MHz)",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
+  },
+  {
+   "fact_id": "airway/gastric-pocus#3e1ad8",
+   "kind": "statement",
+   "stem": "When may a high-frequency linear transducer be used for gastric ultrasound?",
+   "answer": "In paediatric or very lean patients",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
+  },
+  {
+   "fact_id": "airway/gastric-pocus#c1f176",
+   "kind": "statement",
+   "stem": "In which plane and region is the gastric antrum scanned?",
+   "answer": "Sagittal or parasagittal plane in the epigastrium",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
+  },
+  {
+   "fact_id": "airway/gastric-pocus#cdeaaf",
+   "kind": "statement",
+   "stem": "Which structures lie posterior to the gastric antrum?",
+   "answer": "The pancreas and the abdominal aorta/inferior vena cava",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
+  },
+  {
+   "fact_id": "airway/gastric-pocus#f33d60",
+   "kind": "statement",
+   "stem": "What lies anterior to the gastric antrum on ultrasound?",
+   "answer": "The left lobe of the liver",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
+  },
+  {
+   "fact_id": "airway/gastric-pocus#2ee6ea",
+   "kind": "statement",
+   "stem": "Which positions should be imaged in gastric ultrasound?",
+   "answer": "Both supine and right lateral decubitus (RLD)",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
+  },
+  {
+   "fact_id": "airway/gastric-pocus#9dbe30",
+   "kind": "statement",
+   "stem": "Why is the RLD position used in gastric ultrasound?",
+   "answer": "It shifts gastric contents into the antrum, maximising sensitivity for low-volume fluid or hidden solids",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
+  }
+ ]
+}

@@ -286,7 +286,7 @@ One-page summary of common ultrasound-guided blocks: level, indications, positio
 - Branches (OATS): lesser occipital, great auricular, transverse cervical, supraclavicular
 
 ### Scalp block (S2ZAGO2)
-- Supratrochlear: lateral to the supraorbital notch
+- Supratrochlear: medial to the supraorbital notch
 - Supraorbital: above the supraorbital notch
 - Zygomaticotemporal: lateral corner of the eye along the zygomatic arch
 - Auriculotemporal: next to the superficial temporal artery

@@ -61,7 +61,7 @@ Fascial plane blocks of the abdominal wall: TAP blocks give somatic (wall and pa
   - Check the maximum safe dose for the patient's size, especially with dual bilateral TAP blocks
 - Systemic absorption depends mainly on the vascularity of the site
   - QL region is fairly vascular (lumbar arteries behind the muscle) and needs large volumes: calculate the dose carefully to avoid high peak plasma levels
-- Single shot: 22-gauge short-bevel needle, 10 cm (note says 10mm)
+- Single shot: 22-gauge short-bevel needle, 10 cm
 - Catheters: 18- to 21-gauge, 10-cm Tuohy needle with extension tubing
 
 ## Clinical points

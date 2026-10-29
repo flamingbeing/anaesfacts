@@ -38,6 +38,7 @@ Reflux is an aspiration risk: give acid prophylaxis (PPI) and secure the airway 
 - Sodium citrate: oral non-particulate antacid that raises gastric pH
   - Can be combined with a prokinetic (such as metoclopramide) shortly before induction
   - Commonly used in diabetic, morbidly obese and pregnant patients
+- Point-of-care gastric ultrasound can help estimate gastric contents before anaesthesia and so inform aspiration risk.
 
 ## Intraoperative management
 - Rapid sequence induction with prompt tracheal intubation is usual

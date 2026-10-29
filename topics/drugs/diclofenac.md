@@ -57,7 +57,7 @@ Phenylacetic acid NSAID for mild to moderate pain and opioid sparing; carries a 
 - Highly protein-bound (99%); small volume of distribution (0.15 l/kg)
 - Hepatic hydroxylation and conjugation to inactive metabolites
 - Excreted in urine (60%) and bile (40%)
-- Elimination half-life (stated in the note for aspirin): 15–30 min with first-order kinetics; much longer when enzymes saturate and kinetics become zero order
+- Elimination half-life about 1-2 h
 
 ## Flashcards
 

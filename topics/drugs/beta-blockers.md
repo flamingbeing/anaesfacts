@@ -85,7 +85,7 @@ Beta-adrenoceptor antagonists: slow the heart and reduce contractility; used for
 
 - Asthma
 - Heart block
-- Low ejection fraction
+- Acute decompensated heart failure
 
 ## Indications
 
@@ -125,7 +125,7 @@ Beta-adrenoceptor antagonists: slow the heart and reduce contractility; used for
 - Q: Which beta-blockers need renal dose adjustment?
   - A: Hydrophilic ones: atenolol, sotalol, nadolol
 - Q: Contraindications to beta-blockers?
-  - A: Asthma, heart block and low ejection fraction
+  - A: Asthma, heart block and acute decompensated heart failure
 - Q: Why avoid non-selective beta-blockers with hypoglycaemic drugs?
   - A: They mask hypoglycaemia symptoms and blunt the glucose response
 

@@ -166,18 +166,18 @@
    "date": "2026-10-29"
   },
   {
-   "fact_id": "drugs/codeine#a9e4ca",
+   "fact_id": "drugs/codeine#117bf7",
    "kind": "mcq",
-   "stem": "What is the main clearance route for codeine?",
+   "stem": "Which enzyme glucuronidates codeine to codeine-6-glucuronide, the main clearance route?",
    "options": [
-    "N-demethylation to norcodeine",
-    "O-demethylation to morphine",
-    "Glucuronidation to codeine-6-glucuronide",
-    "Excretion unchanged in urine"
+    "CYP3A4",
+    "CYP2D6",
+    "UGT2B7",
+    "CYP2C9"
    ],
    "answer": 2,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
    "fact_id": "drugs/codeine#22bf05",

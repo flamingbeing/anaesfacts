@@ -224,9 +224,9 @@
    "date": "2026-10-29"
   },
   {
-   "fact_id": "drugs/pulmonary-vasodilators#88e00a",
+   "fact_id": "drugs/pulmonary-vasodilators#838926",
    "kind": "mcq",
-   "stem": "Which endothelin receptor antagonist is described as still in trials?",
+   "stem": "Which longer-acting endothelin receptor antagonist has been licensed for pulmonary arterial hypertension since 2013?",
    "options": [
     "Riociguat",
     "Tadalafil",
@@ -234,8 +234,8 @@
     "Epoprostenol"
    ],
    "answer": 2,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   }
  ]
 }

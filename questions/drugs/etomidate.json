@@ -278,18 +278,12 @@
    "date": "2026-10-29"
   },
   {
-   "fact_id": "drugs/etomidate#3dc232",
-   "kind": "mcq",
-   "stem": "In which regions is etomidate reported as withdrawn?",
-   "options": [
-    "Europe and Asia",
-    "Japan and China",
-    "Africa and South America",
-    "North America and Australia"
-   ],
-   "answer": 3,
-   "model": "haiku-5.5",
-   "date": "2026-10-29"
+   "fact_id": "drugs/etomidate#1458fa",
+   "kind": "statement",
+   "stem": "Is etomidate still available and used in North America?",
+   "answer": "Yes: widely available, e.g. for emergency RSI",
+   "model": "sonnet-5.5",
+   "date": "2026-10-30"
   },
   {
    "fact_id": "drugs/etomidate#b0390b",

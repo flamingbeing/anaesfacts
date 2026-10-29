@@ -19,7 +19,7 @@ Imidazole induction agent with the least cardiovascular depression, at the cost 
 - 0.2% solution at pH 4.1 with 35% v/v propylene glycol (improves stability, reduces injection irritation)
 - Lipid emulsion formulation also available (e.g. Lipuro)
 - 20mg in 10ml (2mg/ml); given neat
-- Still used occasionally in the UK; reported as withdrawn in North America and Australia
+- Still used occasionally in the UK; remains widely available and used in North America, e.g. for emergency RSI
 
 ## Dosage
 
