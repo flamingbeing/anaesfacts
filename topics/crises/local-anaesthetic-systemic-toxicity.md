@@ -172,4 +172,10 @@ Core: prompt lipid emulsion while supporting the circulation (ACLS).
 - [Local anaesthetics in children](../drugs/paediatric-local-anaesthetics.md)
 - [Ropivacaine](../drugs/ropivacaine.md)
 - [Local Anaesthetic Potency, Onset and Duration](../physiology/local-anaesthetic-potency-onset-duration.md)
+- [Paediatric Central Neuraxial Blocks](../regional/paediatric-central-neuraxial-blocks.md)
+- [Peripheral Nerve Block Follow-up](../regional/peripheral-nerve-block-follow-up.md)
+- [Peripheral Nerve Block Technique](../regional/peripheral-nerve-block-technique.md)
+- [Peripheral Nerve Blocks Overview](../regional/peripheral-nerve-blocks.md)
+- [Regional Blocks Quick Reference](../regional/regional-blocks-quick-reference.md)
+- [TAP and quadratus lumborum blocks](../regional/tap-and-quadratus-lumborum-blocks.md)
 <!-- related:end -->

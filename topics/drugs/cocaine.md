@@ -45,3 +45,8 @@ Ester local anaesthetic used topically for anaesthesia and vasoconstriction, not
 - 1884: first used for eye anaesthesia; the experimenter applied it to his own eye and pricked it with pins
 - 1885: nerve-block and peridural anaesthesia first demonstrated with cocaine
 - 1898: first used for spinal anaesthesia
+
+<!-- related:start (generated) -->
+## Related
+- [Airway Topicalisation and Airway Blocks for Awake Intubation](../airway/airway-topicalisation.md)
+<!-- related:end -->

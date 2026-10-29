@@ -95,6 +95,7 @@ Central-acting analgesic and antipyretic with almost no anti-inflammatory action
 - [NSAIDs and COX-2 inhibitors](nsaids.md)
 - [Orphenadrine](orphenadrine.md)
 - [NSAIDs in children](paediatric-nsaids.md)
+- [Acute Liver Failure](../comorbidities/acute-liver-failure.md)
 - [Codeine](codeine.md)
 - [Diclofenac](diclofenac.md)
 - [Drugs in liver impairment](drugs-in-liver-impairment.md)
